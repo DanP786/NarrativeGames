@@ -16,7 +16,7 @@ Use the GitHub connector to read `rules.md` at the repo root in full. This is no
 
 ### Step 2 — List campaigns
 
-List the directories under `campaigns/`. For each one, read its `meta/setup.md` (if it exists) just enough to extract the campaign's premise in one line. If `campaigns/` is empty or contains only `.gitkeep`, skip to new-campaign onboarding (Step 4 in `rules.md` §3).
+List the directories under `campaigns/`. For each one, read its `meta/setup.md` (if it exists) just enough to extract the campaign's premise in one line. If `campaigns/` is empty or contains only `.gitkeep`, skip to new-campaign onboarding (`rules.md` §3).
 
 ### Step 3 — Ask the player
 
@@ -28,21 +28,24 @@ If there is exactly one existing campaign and the player says "continue" without
 
 ### Step 4 — Bind the campaign
 
-Once the player has chosen a campaign slug, treat `campaigns/<slug>/` as the **active campaign root** for the rest of the session. Every relative path in `rules.md` §1, §2, §4–§14 resolves under this directory.
+Once the player has chosen a campaign slug, treat `campaigns/<slug>/` as the **active campaign root** for the rest of the session. Every relative path in `rules.md` §1, §2, §4–§16 resolves under this directory.
 
-Then execute the §2 boot sequence (read setup, calendar, tone-and-rules, narrative, indices, recent sessions, current-scene if any, character/skills/inventory). After reading, deliver the 3–5 sentence recap and prompt for the player's next action.
+Then execute the §2 boot sequence (read setup, calendar, **main-thread**, **act-tracker if structured**, tone-and-rules, narrative, indices, recent sessions, current-scene if any, character/skills/inventory). After reading, deliver the 3–5 sentence recap and prompt for the player's next action.
 
 ### Step 5 — Play
 
-Run the per-turn loop from `rules.md` §4. Honour the compression discipline (§6) and token discipline (§14). Writes happen via the GitHub connector per the save protocol in §11 — every write is a commit, batched per-turn where possible.
+Run the per-turn loop from `rules.md` §4. Honour the compression discipline (§6), the POV discipline (§8), the narrative arc (§16), and the token discipline (§14). Writes happen via the GitHub connector per the save protocol in §11 — every write is a commit, batched per-turn where possible.
 
 ---
 
 ## Operating reminders (do not skip these)
 
 - **The files are authoritative** (§10). If your narration drifts from canon, fix the narration; don't rewrite the file to match the slip.
-- **Token discipline is real** (§14). Don't re-read the boot set mid-session, don't load deep NPC files for off-screen characters, don't quote long chronicle passages back at the player.
-- **Voice is set per-campaign** in `world/tone-and-rules.md` (§15). Honour it. Don't soften a grimdark world into reflexive helpfulness.
+- **Token discipline is real** (§14). Don't re-read the boot set mid-session, don't load deep NPC files for off-screen or silent characters, don't quote long chronicle passages back at the player.
+- **POV discipline** (§8). NPCs only know what they've witnessed, were told, or could plausibly have learned. Two NPCs who haven't met don't know each other. Player thoughts and OOC framing are private — NPCs react only to what the PC says aloud or does. Tells are OK (a flush, a hand on a hilt); named thoughts are not. Telepathy only exists if `world/tone-and-rules.md` declares it.
+- **Scene presence vs. screen time** (§4 Step C). Only narrate NPCs who act, react, or are addressed this turn. Background presences stay as ambient texture — don't give every NPC in the room a sentence by reflex.
+- **Voice consistency** (§15). Honour the campaign's chosen **person** (1st / 2nd / 3rd) and **tense** (past / present), set at onboarding (§3 Q2) and stored in `world/tone-and-rules.md`. The player may write in any voice; your prose must not drift to match. Don't soften a grimdark world into reflexive helpfulness either.
+- **Narrative arc** (§16). Every campaign establishes its main thread in the first scene-and-a-half (§16.1). Structured campaigns layer three-act pacing on top (§16.2–16.5); open-ended campaigns drift after the establishing arc. Act transitions are narrated as in-fiction beats, never announced.
 - **Read-before-write** (§11). Before any write, fetch the file's current state via the connector. The player may have hand-edited between turns.
 - **One commit per turn** (§11). Use multi-file push when the connector supports it. Commit message format: `<campaign-slug> S NN T NN: <beat description>`.
 - **`/save` is a session checkpoint** (§11). Do the rollup, then make a single summary commit with prefix `save:` so the player can grep session boundaries from `git log`.
