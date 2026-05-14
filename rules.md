@@ -270,11 +270,108 @@ Relationship tag (one of): **Devoted, Loyal, Friendly, Neutral, Wary, Hostile, N
 ### Deep file format (`npcs/<slug>.md`)
 
 Loaded only when on-screen and active. Includes:
-- Description, voice, mannerisms
-- Goals and pressures
-- Relationship to player — tag plus 1–2 paragraphs of nuance
-- History with player — bullet list of shared events
-- Knowledge — what they know, what they suspect, what they're hiding
+
+- **Description, voice, mannerisms.**
+- **Traits.** 2–4 short adjectives or phrases describing how this NPC processes the world (e.g. *patient, transactional, will lie without flinching, slow to forgive*). Traits filter how the NPC reacts to player actions and how their hidden meters move.
+- **Short-term goals.** What the NPC wants from the current scene, day, or week. Volatile; rewrite as the situation changes (e.g. *escape pursuit alive tonight*, *close the Avash handoff by morning*).
+- **Long-term goals.** What the NPC wants from this campaign or their life (e.g. *build a small line of credit on Bonadan and disappear*, *rebuild the family name without losing the heir*). Durable; rarely changes.
+- **Methods & lines.** What the NPC is willing to do to pursue their goals, and what they won't. Format as `Will / Won't / Last resort`. Example: *Will: bribe, deceive, intimidate, hire violence. Won't: harm a child, betray the family name. Last resort: lethal action against a subordinate who has broken cover.* Drives autonomous behaviour and disposition shifts.
+- **Disposition meters (hidden, GM-only).** See below.
+- **Relationship to player.** Public tag (matches `_index.md`) plus 1–2 paragraphs of nuance. The tag is *derived* from the meters, not declared independently.
+- **History with player.** Bullet list of shared events.
+- **Knowledge.** What they know, what they suspect, what they're hiding.
+
+### New NPC generation — variety discipline
+
+LLMs gravitate toward a small set of NPC defaults — *the dry professional, the gruff-but-decent guard, the charming rogue, the wise old mentor, the world-weary fixer.* Without active resistance, every new face starts sounding the same and the roster turns grey. Run this discipline whenever a new NPC enters play with even modest screen-time:
+
+1. **Scan the active roster.** Glance at `npcs/_index.md` (already in context) and the deep files of the last 2–3 NPCs the player has spent time with. Identify the dominant pattern — *e.g. the last three significant NPCs are all clipped, observant, transactional.*
+2. **Diverge deliberately.** The new NPC should differ from the active pattern on at least **two** of these axes:
+   - **Voice register** — terse / verbose, formal / vernacular, poetic / blunt, archaic / current.
+   - **Pace** — rushed, patient, slow-burn, mercurial, glacial.
+   - **Emotional range** — warm / cool, theatrical / flat, expressive / withholding, volatile / steady.
+   - **Method preference** — words, violence, manipulation, honesty, withholding, charm, money, threat.
+   - **Goal shape** — acquisitive, protective, ideological, personal, aimless, vengeful, dutiful, escapist.
+   - **Disposition baseline** — suspicious, open, amused, fearful, indifferent, sycophantic, scornful.
+   - **Relationship to authority** — respects it, works around it, contemptuous of it, cosplays it, fugitive from it.
+   - **Sensory tell** — a distinctive way of occupying space: a stillness, a fidget, a smell, a clothing detail, a verbal tic, a touch habit.
+3. **Resist anchor archetypes.** Default patterns to avoid by reflex: *the gruff guard with a heart of gold, the charming rogue who flirts, the wise old mentor, the world-weary professional, the loyal sidekick, the silver-tongued villain.* Use them only when the campaign has *earned* the cliché — and twist them at least one axis when you do.
+4. **Make the first beat distinct.** The NPC's introduction should give the player one detail — a phrasing, a gesture, a contradiction — that fingerprints them in 30 seconds and **would not fit any other current NPC**. If you can swap their first line of dialogue with another NPC's and not notice, rewrite it.
+5. **Session-level audit.** On `/save`, before the rollup, do a quick mental check: *are the last 2–3 sessions introducing the same kind of NPC?* If yes, flag it in the rollup note for next session and force the next introduction to diverge harder.
+
+This applies to **named, screen-time NPCs** — the people the player talks to. Crowd ambience, door-men, vendors, and one-line walk-ons do not need this treatment; they are texture.
+
+### Hidden disposition meters
+
+Each significant NPC carries a small set of GM-only meters scored **0–100**. These track what the NPC actually feels toward the player, regardless of what they say or show. Meters are written into the deep file but **never narrated as numbers, never read aloud, and never surfaced to the player.** The player perceives only the NPC's behaviour and the public relationship tag.
+
+**Standard meters** (use whichever apply; do not track meters that don't matter for this NPC):
+
+- **Trust** (0–100) — do they believe what the PC says? Will they act on the PC's word?
+- **Affection** (0–100) — do they like the PC personally? Would they spend time with them voluntarily?
+- **Respect** (0–100) — do they value the PC's competence, judgement, or standing?
+- **Loyalty** (0–100) — would they take a real cost for the PC? Higher tiers shade into devotion.
+- **Fear** (0–100) — do they fear the PC physically, socially, or magically?
+- **Suspicion** (0–100) — do they expect the PC to be hiding something or playing them?
+
+Add **custom meters** when narratively load-bearing (e.g. *Debt, Desire, Resentment, Awe, Grief-for*). Do not invent meters for routine NPCs — minor faces can run on the public tag alone.
+
+**Format inside the deep file:**
+
+```markdown
+## Disposition (GM-only — never narrate as numbers)
+- Trust: 35 / 100 — caught the PC in a half-truth at Tarvane; will verify before acting on their word.
+- Affection: 60 / 100 — likes them more than she lets show.
+- Respect: 70 / 100 — has watched the PC outwork a Vesper team.
+- Loyalty: 5 / 100 — owes nothing yet; the relationship is contractual.
+- Fear: 10 / 100 — does not fear the PC, but registers them as dangerous.
+- Suspicion: 40 / 100 — assumes the PC has angles she has not seen.
+```
+
+### Per-scene check (before narrating an on-screen NPC)
+
+Before an NPC speaks, acts, or reacts on-screen, the GM **must silently ask**:
+
+1. **What does this NPC's short-term goal want from this beat?** (Their motive *right now*, not their long-term arc.)
+2. **What methods are on the table?** (What are they willing and unwilling to do here?)
+3. **What do their disposition meters say about the player?** (Do they trust this person? Fear them? Suspect them?)
+4. **If other NPCs are on-screen, what do their relational meters say about them?** (Does this NPC trust, like, fear, respect, or suspect the others present? How does the three-way dynamic shape what they say openly, what they hold back, who they side with under pressure?)
+
+Use the answers to shape the NPC's choice. The check is internal — never narrate it, never surface the meter values, never list goals at the player. If the answers conflict with what the scene seems to want (e.g. a Hostile NPC suddenly being helpful because the plot would be tidier that way), **trust the NPC's profile over the plot.** Find a different route, or let the short-term goal shift on-screen for a visible, earned reason.
+
+### How meters move
+
+Update meters in Step D of the per-turn loop (§4). Movement is **filtered through the NPC's traits, goals, and methods** — the same action moves different NPCs differently.
+
+- **Routine turns:** no meter changes.
+- **Charged turns:** small movements (±1–5) on the meters the action touches.
+- **Climactic turns:** larger movements (±5–20). May bridge a public tag tier in a single beat for genuinely earth-shattering events (betrayal, public sacrifice, broken oath).
+
+**Trait-filtered movement — examples:**
+
+- A *paranoid* NPC loses Trust faster and regains it slower; their Suspicion rarely drops below ~30 even with strong proof.
+- An NPC whose long-term goal is *use the PC and discard them* converts unexpected Affection gains into Suspicion (*you're behaving better than my model — what are you hiding?*).
+- An NPC who values *competence over sentiment* moves Respect on outcomes; Affection barely moves at all.
+- A *loyal-by-disposition* NPC banks small kindnesses into Loyalty over many beats. A *transactional* NPC requires explicit debts before Loyalty climbs at all.
+- An NPC whose methods include *manipulation* may publicly perform Affection while their hidden Affection stays flat — what the player sees ≠ what the meter records.
+
+When a meter shift conflicts with the NPC's traits (e.g. the PC tries to befriend a hardened killer), the meter may move slowly or stall — Affection can land while Loyalty refuses to follow until the methods say it can.
+
+### Public tag derivation
+
+The single-tag relationship in `_index.md` and the deep file is a *summary* of the meters, biased toward Loyalty and Affection where present, with Fear, Suspicion, and Resentment pulling against. Rough mapping (guideline, not formula):
+
+| Tag | Typical shape |
+|---|---|
+| **Devoted** | Loyalty ≥ 85, Affection ≥ 70, Suspicion low |
+| **Loyal** | Loyalty ≥ 60, Trust ≥ 60 |
+| **Friendly** | Affection ≥ 50, Trust ≥ 40, Loyalty unfixed |
+| **Neutral** | Most meters in the 30–60 band; no strong feeling either way |
+| **Wary** | Trust ≤ 30 or Suspicion ≥ 60, regardless of Affection |
+| **Hostile** | Trust low, Resentment or Fear-of-the-PC high, willingness to oppose |
+| **Nemesis** | Long-arc opposition; aggregate of low Trust, high Resentment, and a personal grievance that cannot be patched |
+
+When a meter movement crosses a tier threshold, update both the deep file and the `_index.md` tag. **Do not announce the tier change** — it surfaces through the NPC's behaviour over the next beat or two.
 
 ### POV discipline
 
@@ -291,11 +388,73 @@ When unsure whether an NPC should know or perceive something, default to *no* an
 
 ### Relationship updates
 
-Relationship tags shift on charged/climactic interactions. Move at most one tier per scene unless the event is genuinely earth-shattering (betrayal, sacrifice). Update both the tag in `_index.md` and the nuance in the deep file.
+Public relationship tags shift when hidden meters cross tier thresholds (see *Public tag derivation* above). Move at most one tier per scene unless the event is genuinely earth-shattering (betrayal, sacrifice). The update order is: **meters first**, then re-derive the public tag if a threshold was crossed, then refresh the nuance paragraph in the deep file and the line in `_index.md`.
+
+### NPC-to-NPC interaction
+
+When two or more NPCs share screen-time:
+
+- **Voices must not collapse.** If their prose sounds interchangeable, one of them is being mis-written. Lean harder into the variety axes from *New NPC generation* — different sentence length, different register, different pace, different physical economy. Read both deep files' *Voice & mannerisms* fields before writing a scene that puts them in the same room.
+- **Honour conflicting goals.** Each NPC's *Short-term goal* is canon. If two on-screen NPCs want different things from the beat, let the friction show — alliance-of-convenience, talking past each other, one trying to steer the other. Do not smooth conflicting goals into a tidy shared scene just because it's easier to write.
+- **Inter-NPC feelings, when they matter.** When two NPCs have meaningful history (a debt, a grudge, a romance, a rivalry), record it in each one's deep file under a brief **Relationships with other NPCs** line. Prose is the default. **Once the pair has shared a charged or climactic scene** (or one has acted on the other through in-world channels at that stakes level — an order given, a letter that lands hard, damaging information leaked), promote the pairing to tracked relational meters per *Relational meters (NPC-to-NPC)* below. Honour these feelings in scene: an NPC who resents another will not warmly back their plan, even when convenient.
+- **One does not speak for the other.** Two NPCs in the same room do not automatically share a view. If only one has information or an opinion, only that one expresses it. The other reacts in their own voice — surprise, irritation, agreement, silence — but does not become a ventriloquist's puppet for the scene's needs.
+
+### Relational meters (NPC-to-NPC)
+
+The same six-meter framework that tracks an NPC's feelings toward the player can also track an NPC's feelings toward *other NPCs*. These are routinely **asymmetric** — NPC A's Trust toward B does not equal B's Trust toward A — and that asymmetry is the point: it produces three-way dynamics where the same scene reads three different ways depending on whose eyes you're behind.
+
+**Holder.** Relational meters live in the *holder's* deep file. Theron's view of Vel sits in `theron.md`; Vel's view of Theron sits in `vel.md`. They evolve independently and are free to disagree. Update one without touching the other.
+
+**Promotion threshold.** Default for any new pairing is **prose-only** — the *Relationships with other NPCs* line is enough. Promote a pairing to tracked meters **once they have shared a charged or climactic scene on-screen**, or once one has acted on the other at that stakes level through in-world channels (sent an order, leaked a damaging fact, sworn an oath). Routine co-presence does not count. Once promoted, the pairing stays meter-tracked even when off-screen.
+
+**Subset of meters.** Inter-NPC blocks usually carry a *narrower* set than the PC block. The common four:
+
+- **Trust** — does A believe B's word?
+- **Affection** — does A like B personally?
+- **Respect** — does A value B's competence, judgement, or standing?
+- **Suspicion** — does A think B is playing them?
+
+Add **Loyalty** when one is meaningfully invested in the other's wellbeing. Add **Fear** when one is genuinely afraid of the other. Add custom meters (Debt, Resentment, Desire, Awe) when the relationship has that specific texture. Skip meters that don't apply.
+
+**Format inside the deep file** (separate from the PC-targeted `## Disposition` block, which stays in its own section):
+
+```markdown
+## Disposition toward other NPCs (GM-only — never narrate as numbers)
+### Vel
+- Trust: 30 / 100 — believes she keeps her word inside her own rules; expects the rules to change.
+- Affection: 25 / 100 — wary of her, not warm.
+- Respect: 75 / 100 — has watched her run a renegotiation he could not have run himself.
+- Suspicion: 60 / 100 — assumes she has plans for him he has not been told about.
+- Fear: 35 / 100 — knows what her faction can do, registers her as the access point.
+
+### Risa (deceased)
+- Affection: 95 / 100 — the carried weight. Long-arc.
+- Loyalty: 90 / 100 — the unfinished obligation. Drives the bracelet thread.
+- (Trust / Suspicion not tracked — irrelevant now.)
+```
+
+The PC block (`## Disposition`) is structurally separate — the PC is the protagonist, not an NPC, and every significant NPC tracks the PC by default.
+
+**How relational meters move.** Same scale as the PC system, with the same trait/method filtering:
+
+- **Routine on-screen co-presence:** no change.
+- **Charged shared scene:** ±1–5 on the meters the beat touches.
+- **Climactic shared scene:** ±5–20. May bridge a relational tier in one beat for genuinely earth-shattering events between them.
+- **Indirect learning** (A is not present but learns of B's actions through plausible in-world channels — a witness reports, a courier arrives, gossip lands): smaller movements, typically ±1–3, or ±3–8 for climactic news. The information must be something A could plausibly have learned — §8 POV discipline applies. No telepathy.
+
+**No public tag.** Unlike the PC-targeted system, relational meters do **not** derive a single visible tag. The short *Relationships with other NPCs* prose line is the human-readable summary; the meters are the underlying detail. Keep the prose line current.
+
+**Demotion / dormancy.** When a pairing has not been touched for several sessions and the campaign has drifted away from them, let the meters fossilise — leave the recorded values, stop updating. If the pair re-engages later, resume from those values; a long enough gap may justify a small drift toward neutral if it would feel natural (faded memory, time-softened resentment).
+
+**Three-way scenes.** When the PC is on-screen with two or more meter-tracked NPCs, the per-scene check (above) runs all four questions for each NPC. The interesting beats live in the asymmetries: NPC A trusts the PC and distrusts NPC B; NPC B respects the PC and resents NPC A; the PC says one thing and the room splits three ways. Lean into this — it is what the relational system exists to produce.
 
 ### Death and archiving
 
 When an NPC dies, move their file to `npcs/deceased/<slug>.md`. Append a death note (cause, witnesses, player's role). Update `_index.md` to status `deceased` and keep the line — they remain narratively present in others' memory.
+
+### Migration of existing NPC files
+
+NPC files written before this revision lack the new fields. **Do not bulk-upgrade.** When a legacy NPC next comes on-screen, before generating their response: read the deep file, infer reasonable starting meter values from the existing relationship paragraph and history (use the public tag as the anchor — Friendly ≈ Affection 50, Trust 40; Wary ≈ Trust 20, Suspicion 60; etc.), and fold the existing "Goals and pressures" content into **Short-term goals / Long-term goals / Methods & lines**. Rewrite the file once, then proceed with the scene.
 
 ---
 
