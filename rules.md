@@ -524,7 +524,16 @@ This repo is hosted on GitHub. You access it via the GitHub connector / MCP. Rea
 
 **Branch discipline.** Work on `main`. No session branches — the noise of per-turn commits is acceptable; `world/narrative.md` is the human-readable history, the git log is the file-state history. The player can `git log --grep "save:"` to see session-level checkpoints.
 
-**Read-before-write.** Before any write, read the file's current state via the connector if it isn't already in your working context. Do not rely on cached views from earlier in the session for any file the player may have hand-edited between turns.
+**Read-before-reference.** Before any **write**, and before any **narration, fact-claim, quote, or decision that materially depends on a file's exact content**, re-fetch the file's current state via the connector. The cached copy in your working context is not authoritative — the player may have hand-edited between turns, an earlier per-turn write may not have landed in your context the way it landed in the repo, and asserting stale content as canon is a frequent and embarrassing failure mode.
+
+Specifically:
+
+- **The boot set** (§2) stays current at session start, but the moment *you* write to any boot-set file (`world/tone-and-rules.md`, `world/narrative.md`, `meta/main-thread.md`, `meta/act-tracker.md`, `meta/calendar.md`, `npcs/_index.md`, `world/locations/_index.md`), the **next reference to that file** in the session must re-fetch from the connector — not from the in-context copy of what you just wrote.
+- **Frequently-changing files** (`chronicle/current-scene.md`, the active `session-NN.md`, any NPC deep file updated this session, `meta/main-thread.md`, `meta/act-tracker.md`) re-fetch whenever they are about to drive a write, a quoted line, or a canon-fact check.
+- **Player-editable files** (anything in the repo, but especially the world, player, and meta directories) re-fetch on the first reference per turn whenever their content matters for what you're about to say or write.
+- **Do not paraphrase from memory** when a file's exact content matters. If you need a name, a number, a hidden meter value, a sworn line of dialogue, the current calendar date, the act-tracker beat count, or any specific fact — re-fetch. Trust the file, not your recollection of it.
+
+The cost of an extra connector call is negligible. The cost of asserting stale content as canon is high, and the player has to catch and correct you.
 
 ---
 
