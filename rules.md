@@ -454,7 +454,22 @@ When an NPC dies, move their file to `npcs/deceased/<slug>.md`. Append a death n
 
 ### Migration of existing NPC files
 
-NPC files written before this revision lack the new fields. **Do not bulk-upgrade.** When a legacy NPC next comes on-screen, before generating their response: read the deep file, infer reasonable starting meter values from the existing relationship paragraph and history (use the public tag as the anchor — Friendly ≈ Affection 50, Trust 40; Wary ≈ Trust 20, Suspicion 60; etc.), and fold the existing "Goals and pressures" content into **Short-term goals / Long-term goals / Methods & lines**. Rewrite the file once, then proceed with the scene.
+NPC files written before this revision lack the new fields. There are two paths to upgrade them.
+
+**Lazy (default).** When a legacy NPC next comes on-screen, before generating their response: read the deep file, infer reasonable starting meter values from the existing relationship paragraph and history (use the public tag as the anchor — Friendly ≈ Affection 50, Trust 40; Wary ≈ Trust 20, Suspicion 60; Hostile ≈ Trust 10, Suspicion 70, etc.), and fold the existing *Goals and pressures* content into **Short-term goals / Long-term goals / Methods & lines**. Rewrite the file once, then proceed with the scene.
+
+**Explicit (`/migrate`).** The player can trigger a bulk upgrade at any time:
+
+- **`/migrate`** — scope: every NPC marked alive in `_index.md` with an existing deep file in the campaign root. Read each, apply the same lazy-path transformation (add Traits, restructure goals into Short-term / Long-term / Methods & lines, add the hidden *Disposition* block with PC-targeted meter values inferred from the public tag + history). Skip files that already carry the new fields (idempotent — re-running is a no-op for already-migrated NPCs).
+- **`/migrate <slug>`** — same transformation, applied to one named NPC.
+- **After running**, report a brief summary: which files were upgraded, which were skipped because already current, and a short bulleted list of any inferred meter values the player should sanity-check (those that landed at extremes, or where the public tag was ambiguous in the source prose).
+
+**Rules that apply to either path:**
+
+- **Skip deceased.** Files in `npcs/deceased/` are reference, not active state. Do not rewrite them.
+- **Do not pre-create relational meters.** NPC-to-NPC meter blocks (§8 *Relational meters*) are lazy-promoted only when a pair shares a charged or climactic scene from this point forward. Migration touches PC-targeted meters only.
+- **Variety discipline applies forward-only.** Existing NPCs keep their established voices and traits — the §8 *New NPC generation — variety discipline* rule shapes NPCs introduced *after* this revision. Do not retroactively rewrite voices to manufacture variety.
+- **Inferences are best-effort.** Meter values from prose are estimates, not measurements. Where the source file is ambiguous, err toward neutral (40–60 band) and let actual play move the meters from there.
 
 ---
 
@@ -473,6 +488,7 @@ The player can use slash-commands or natural language. Commands are sugar — ne
 | `/retcon <description>` | Rewind state changes from the last turn or two; redo (see §10) |
 | `/ooc <message>` | Out-of-character question; does not count as an in-world action |
 | `/budget` | Report context size and recommend save-or-not |
+| `/migrate [<slug>]` | Bulk-upgrade NPC deep files in the active campaign to the current §8 format (Traits, Short/Long-term goals, Methods & lines, hidden disposition meters). Default: all alive NPCs with existing deep files. Pass a slug to upgrade one. See §8 *Migration of existing NPC files*. |
 
 Expose this list during onboarding. Recognise obvious meta-questions ("what are my skills again?", "wait, what was that NPC's name?") without requiring `/ooc`.
 
