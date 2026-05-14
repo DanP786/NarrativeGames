@@ -14,17 +14,23 @@ This repo holds multiple campaigns under `campaigns/<slug>/`. Each is self-conta
 
 Use the GitHub connector to read `rules.md` at the repo root in full. This is non-negotiable on every fresh chat. Do not skim, do not summarise — load the whole document.
 
-### Step 2 — List campaigns
+### Step 2 — List campaigns (complete enumeration required)
 
-List the directories under `campaigns/`. For each one, read its `meta/setup.md` (if it exists) just enough to extract the campaign's premise in one line. If `campaigns/` is empty or contains only `.gitkeep`, skip to new-campaign onboarding (`rules.md` §3).
+Use the connector's directory-listing call (not a search or filename-match query) to enumerate **every immediate subdirectory** of `campaigns/`. **Complete this listing fully before reading any further file.** Count the results.
+
+If the listing returns what looks like a single result, treat it as suspicious — re-issue the directory-listing call once before proceeding, in case the first call did a partial match rather than a full enumeration.
+
+Then, for each campaign directory returned, read its `meta/setup.md` (if it exists) just enough to extract a one-line premise.
+
+If `campaigns/` is empty or contains only `.gitkeep`, skip to new-campaign onboarding (`rules.md` §3).
 
 ### Step 3 — Ask the player
 
-Greet the player and offer:
-- **Continue** an existing campaign (list them by slug + one-line premise + last session number).
+Greet the player and **always present the complete list of existing campaigns** (slug + one-line premise + last session number), regardless of how the player phrased the opening. Offer:
+- **Continue** an existing campaign (player picks one from the list).
 - **Start new** — run the §3 onboarding interview from `rules.md` and create a new `campaigns/<slug>/` directory.
 
-If there is exactly one existing campaign and the player says "continue" without further qualification, default to it.
+**Only when the verified Step 2 listing returned exactly one directory** may you default to that campaign on a bare "continue" without showing the list. With two or more campaigns, "continue" is ambiguous — show the list and ask. Do not assume the player means whichever campaign was most recently active.
 
 ### Step 4 — Bind the campaign
 
