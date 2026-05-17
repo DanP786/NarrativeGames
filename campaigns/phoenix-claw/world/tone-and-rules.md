@@ -28,3 +28,17 @@ The player may write prompts in any voice they like (1st person, instructions, O
 
 ## NPC voice and POV
 Per rules.md §8 — NPCs only know what they have witnessed, were told, or could plausibly have learned. No cross-NPC telepathy. Scarlet's narrated thoughts and OOC framings are private; NPCs react to what she *says aloud* and *does*. Tells are allowed (a flush, a hand drifting to a hilt) without naming the underlying thought.
+
+## Prose corrections — running prohibitions (player-named, must persist across sessions)
+
+These are tics the engine has drifted into. They have been called out by the player. They are not to return.
+
+1. **No *working* as adjective wallpaper.** Not *working captain*, *working spacer*, *working pro*, *working class*, *working hour*, *working clientele*, *the working sense*, etc. The literal verb form is fine (*the autopilot is working*, *she works the latch*). If a register-term is needed, reach for the specific word: spacer, captain, journeyman, port-hand, freighter-crew, grimy, lived-in, practised, or just let the concrete detail carry the texture.
+
+2. **No counted smiles, kisses, glances, or any other small physical thing.** No *the sixth smile*, *the third kiss*, etc. If a particular smile or kiss matters, it lands on its own — by description, by what it shifts, by what isn't said around it. Texture, not ledger.
+
+3. **No *shape of [an abstract thing]*.** *Shape* is fine for literal silhouettes (*the shape of the ship against the dark*). Not fine for abstract substitution (*the shape of the offering*, *the shape of the waiting*, *the shape of a road I would have been on*). If *the form of / the kind of / the version of* is needed, say that, or rewrite the sentence to not need the word.
+
+4. **No reflexive callbacks in present-scene prose.** Past lives in dialogue and explicit reflection only. *The kiss like the refresher*, *the hand at the hip the way it was at the bunk-edge*, *the bracket-scar where her hand had been on the morning of day two* — these don't belong in present-scene narration. A kiss is a kiss; a shower is a shower. Settings carry their own memory without the prose re-narrating it. Callbacks come back only when a character is talking about or thinking back to the past in a moment that calls for it.
+
+If any of these tics slip in future sessions: the player is invited to call them. The engine will cut the affected paragraph and rewrite.
