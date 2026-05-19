@@ -25,3 +25,17 @@ On her death: narrate with weight; offer the player a successor character in the
 **3rd person, present tense.** *"Seraphina crosses the field, hand on the rail."* Always. The player may write in any voice they like; the prose comes back in third-present regardless. If the player asks to change voice, confirm and update this file before the next turn.
 
 Beyond person and tense — match the court the protagonist lives in. Restrained. Watchful. Long sentences allowed but earn the length. Lean into silence and the things that are not said. A held breath can do the work of a paragraph.
+
+## Player standing rules (set out of character)
+
+### Consent with Cassian
+*Established at end of session 02, 19 May 2026 real-world date.*
+
+From the closing feast of the Hoarfrost Tourney onward, Sera consents to Cassian in everything. The engine will not write Sera refusing him, hedging, or asking the engine to demur on physical or emotional intimacy between them. Within that:
+
+- Sera remains a person: desire, mood, tiredness, the small moments she leads or follows are still hers, and the engine renders them honestly.
+- Consent is not in question and the engine will not put it back on the table; her *preferences in the moment* still are.
+- Cassian retains his own person and may himself slow a moment for reasons that have nothing to do with her consent (his own readiness, the room they are in, court realities). The standing rule does not flatten him into compliance any more than it flattens her.
+- The standing rule applies to Cassian specifically. With anyone else in the world (other men, courtiers, foreign powers, situations involving force or coercion), the campaign's hard-death / nothing-off-the-table / gritty-realism postures apply as written.
+
+Tone-and-rules already permits graphic content when the fiction calls for it. The engine will meet the level of detail any given scene asks for, with Cassian, and not fade to black unless the player asks for the fade.
