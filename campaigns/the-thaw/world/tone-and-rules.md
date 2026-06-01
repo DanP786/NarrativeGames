@@ -39,3 +39,24 @@ From the closing feast of the Hoarfrost Tourney onward, Sera consents to Cassian
 - The standing rule applies to Cassian specifically. With anyone else in the world (other men, courtiers, foreign powers, situations involving force or coercion), the campaign's hard-death / nothing-off-the-table / gritty-realism postures apply as written.
 
 Tone-and-rules already permits graphic content when the fiction calls for it. The engine will meet the level of detail any given scene asks for, with Cassian, and not fade to black unless the player asks for the fade.
+
+### Private language with Cassian
+*Established at the opening of session 03, 19 May 2026 real-world date.*
+
+From the road south onward, **Sera and Cassian speak Aerinic to each other in private.** Sera has the language fluently from her mother. The shift was wanted on both sides; neither has had to negotiate it.
+
+- **Public, in Caldros (until the border):** Caldros in the room's hearing. They may slip into Aerinic only when alone or with their own woman / squire.
+- **Public, after the Aerinhal border:** Aerinic in the room's hearing; the registers reverse.
+- **Private, anywhere:** Aerinic.
+- **In Cassian's parents' house, with Cassian's family in the room:** Aerinic by default — it is their household tongue. Sera will hear the inner-court Aerinic her mother left behind in real use for the first time.
+
+**Narrative convention.** The prose continues in English regardless. The engine flags switches when they matter — *in Aerinic, low,* or *(in Caldros, for the footman's benefit)* — and lets the rest carry implicitly. Aerinic phrases may surface in italics when the word has no clean Caldros equivalent (specific endearments, inner-court titles, the old high register).
+
+## Canon corrections logged at opening of session 03
+- **Sera's formal name:** Princess Seraphina (not "Cassara" — that was an invention and has been struck from canon).
+- **Sera's age:** 20.
+- **Sera's eyes:** silver-grey.
+- **Cassian's age:** 26 (not 20).
+- **Cassian's appearance:** dark golden hair, hazel eyes.
+- **Prince Aldwin Verrent canon added:** heir to the Aerinhal throne; ~30; unmarried; betrothed to a 14-year-old foreign princess and waiting two years; passed on Sera as an option once; currently expressing arrogant pity for Cassian's match. See `npcs/aldwin-verrent.md`.
+

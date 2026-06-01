@@ -2,8 +2,8 @@
 
 ## Vitals
 - **Age:** 20
-- **Title:** Princess of Caldros, third in line to the Rime Throne. As of the closing feast of the Hoarfrost Tourney (23rd First-Frost), **formally betrothed to Prince Cassian Verrent of Aerinhal.** The Aerinhal court will, from the moment she crosses the border, address her in the inner-court Aerinic by her formal name **Princess Cassara.**
-- **House:** Caldwyn, the cold-blooded line of the lake. (After the wedding, by Aerinhal courtesy, also Princess Cassara Verrent of the senior cadet line.)
+- **Title:** Princess of Caldros, third in line to the Rime Throne. As of the closing feast of the Hoarfrost Tourney (23rd First-Frost), **formally betrothed to Prince Cassian Verrent of Aerinhal.** Her formal name is **Princess Seraphina** in both courts; *Sera* is the nickname her family and Cassian use. The Aerinhal court does not give her a separate inner-court name — they will call her by her Caldros name, with the Verrent surname added after the wedding.
+- **House:** Caldwyn, the cold-blooded line of the lake. (After the wedding, by Aerinhal courtesy, also Princess Seraphina Verrent of the senior cadet line.)
 - **Bloodline magic:** Ice. Has the gift in her blood; weak in expression (party-trick fluency only — see `skills.md`).
 - **Family:**
   - King Aelric Caldwyn — father, holder of the Rime Throne
@@ -13,13 +13,13 @@
   - Prince Daron Caldwyn — middle brother, 22, the Spare
 - **Future family (Aerinhal, by betrothal):**
   - **King Roderic V of Aerinhal** — Cassian's uncle, Lysandra's brother. The seal under which the betrothal letter was sent.
-  - **Prince Halric Verrent** — Cassian's father, head of the senior cadet line of the Verrents, Lysandra's cousin (their grandfathers were brothers). Sera and Cassian are second cousins once removed.
+  - **Prince Halric Verrent** — Cassian's father, head of the senior cadet line of the Verrents, Lysandra's cousin (their grandfathers were brothers). Sera and Cassian are second cousins once removed. *Halric was on the survey committee three years ago that included Sera and saw Aldwin pass on her.*
   - **Lady Maren Verrent of the Solinhar gold-houses** — Cassian's mother.
   - **Cassian's sister** — 16, name TBD on first scene; already knows Sera by Cassian's letters.
-  - **Prince Aldwin Verrent** — Cassian's elder cousin, heir to the Aerinhal throne; Cassian by all accounts does not resent him.
+  - **Prince Aldwin Verrent** — Cassian's elder cousin (Roderic V's son), heir to the Aerinhal throne, around thirty. Unmarried; currently betrothed to a fourteen-year-old foreign princess (kingdom TBD) and waiting two years for her sixteenth name-day. **As of session 04 opening canon: Aldwin has decided he wants Sera for himself — see `npcs/aldwin-verrent.md`.** What he wants is her *choice,* the way Cassian got it. His method is subtle: presence, attention, the heir's tools. Three years ago he had Sera on his own survey of options and passed her by, *hard to tame, despite being beautiful*; he believes he was wrong and intends to do the work this time. Cassian does not yet know the shift; Sera does not know. Aldwin is offstage at Verrentine, eleven days from the delegation's arrival. The campaign's quiet antagonist from this point forward.
 
 ## Appearance
-Lake-white skin. Long raven hair, usually plaited at the temples and falling loose to the small of her back. Eyes the colour of polished steel — pale grey, slightly silver in good light. Slim, petite, deceptively still. The kind of face that does not announce itself across a hall and stops a man cold once he stands close enough to look at her properly.
+Lake-white skin. Long raven hair, usually plaited at the temples and falling loose to the small of her back. **Silver-grey eyes** — the same silver-steel as her father's; polished steel at rest, almost mercury in bright light. Slim, petite, deceptively still. The kind of face that does not announce itself across a hall and stops a man cold once he stands close enough to look at her properly.
 
 She dresses well, in the cold-house style: deep blues, silvers, slate-greys, the occasional white that no one else at court can wear without looking sallow. Long sleeves to the wrist year round. Two pieces of jewellery she has worn always: a small steel pendant at her throat (a Caldwyn heirloom, plain) and her grandmother's silver ring on the third finger of her right hand. As of the evening of the 22nd First-Frost, she also carries the small silver locket her mother was given on the morning she left Aerinhal — a peace-bride's locket with a single grain of cardamom inside.
 
@@ -33,9 +33,14 @@ At sixteen the King and Queen offered her the unusual courtesy of choosing her o
 Until the night of the 15th of First-Frost, she had never kissed a man. She has now kissed one. Twice. He proposed. She accepted. The realm knows.
 
 ## Current state
-Twenty years old. Six months from the deadline that has now been overtaken by events. Betrothed. **Leaves Caldemere at first light on 24th First-Frost** with the Aerinhal delegation, by her father's decision: one month engagement at the Verrent house in Verrentine, marriage at the Aerinhal cathedral by Aerinhal rite at the **Feast of the Lesser Lights** (deep winter; ~seven to eight weeks from the close of session 02). Resides in Aerinhal thereafter as Cassian's wife.
+Twenty years old. Six months from the deadline that has now been overtaken by events. Betrothed to Cassian Verrent (26). **Leaves Caldemere at first light on 24th First-Frost** with the Aerinhal delegation, by her father's decision: one month engagement at the Verrent house in Verrentine, marriage at the Aerinhal cathedral by Aerinhal rite at the **Feast of the Lesser Lights** (deep winter; ~seven to eight weeks from the close of session 02). Resides in Aerinhal thereafter as Cassian's wife.
 
 She is, by the end of session 02, no longer the Ice Princess of the public reputation — at least not in the rooms that contain her family and her future husband. The court of three hundred and fifty in the Long Hall is still working out what she is now.
+
+## Languages and registers
+Caldros (native); Aerinic (fluent — learned at her mother's knee, in the small parlour, since childhood); the high old Aerinhal of the inner court (the language her mother used at the gate on the morning of leaving, including the three-word leave-taking she answered correctly); a working academic Aerinic for reading the southern histories; reading and writing in two trade tongues, neither spoken fluently.
+
+**Standing rule (as of the road south):** Sera and Cassian speak Aerinic to each other in private from this point forward. In public — in Caldros, until the border — they continue in Caldros in the room's hearing. After the Aerinhal border the public register also shifts.
 
 ## Goals
 - Reach Verrentine without losing her face on the road.
@@ -54,6 +59,7 @@ She is, by the end of session 02, no longer the Ice Princess of the public reput
 - The locked box at the bottom of her wardrobe — contents private; Anwen will see it travels.
 - **Anwen.** Her woman since she was twelve. Granted by Aelric in the audience chamber.
 - The clothes she will need for a Verrent winter, the formals her mother and Anwen have spent the nine days preparing.
+- **Aerwin Vornlin's three sentences,** in her head alone (Anwen heard them; will not pass them on without her word).
 
 ## What she leaves behind at Caldemere
 - The Spire as a daily place.

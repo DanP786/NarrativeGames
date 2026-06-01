@@ -1,19 +1,23 @@
 # Calendar
 
-- **Date:** The 23rd of First-Frost, in the 31st year of King Aelric Caldwyn's reign. *Late evening / running on toward night.* The closing feast of the Hoarfrost Tourney is in the Long Hall above the lake. The betrothal has been declared from the dais; the Hall is still cheering.
-- **Season:** Late autumn. First-Frost ends in seven days; the snows are now expected within a fortnight. The lake at Caldemere has frozen in shallow water along the reed-beds but the deep is still open.
-- **Time of day:** Roughly the eighth bell of the evening, perhaps slightly later.
-- **Sera's age:** Twenty. Her twenty-first name-day falls in late spring — roughly six months from now. The Queen's deadline has been overtaken by events: a betrothal letter has been received from Aerinhal, accepted by the King, and announced in open Hall.
-- **The betrothal — declared canon as of this evening:**
-  - Princess Cassara Caldwyn (Sera) is formally betrothed to Prince Cassian Verrent of Aerinhal.
-  - The Aerinhal delegation departs Caldemere at first light on the 24th of First-Frost.
-  - Sera travels south with the delegation. Anwen, her woman, travels with her. The journey from Caldemere to Verrentine is roughly fourteen days by the southern road in winter.
+- **Date:** The 24th of First-Frost, in the 31st year of King Aelric Caldwyn's reign. *Evening of the same day Sera rode out of Caldemere. The seventh bell approaching.*
+- **Season:** Late autumn. First-Frost ends in six days; the snows are now expected within a fortnight. The morning's inch of new snow has held on the ground all day this far south of the lake; the road is harder underfoot in the evening than it was at the south gate.
+- **Time of day:** Evening. The sky was the colour of slate by the sixth bell; lamps were lit at the inn yard before the carriage cleared the rise. Supper at the seventh.
+- **Sera's age:** Twenty.
+- **Cassian's age:** Twenty-six.
+- **Position on the road:** **The first of the three pre-arranged inns on the Westmark road south**, perhaps fifteen to twenty miles south of Caldemere, on a slight rise where the road bends west around a stand of pines. Painted board over the lintel; Sera did not catch the name in the dusk. The mid-afternoon way-house is behind them; the second pre-arranged inn lies ahead tomorrow.
+- **The betrothal — declared canon as of the closing feast of the 23rd:**
+  - **Princess Seraphina** ("Sera") Caldwyn is formally betrothed to Prince Cassian Verrent of Aerinhal.
+  - The road south takes ~14 days in winter at the Aerinhal delegation's pace. **Day 1 of 14 closing this evening.**
   - Sera resides at the household of Prince Halric Verrent (Cassian's father) for one month from the day of arrival. That month is the formal engagement.
-  - The wedding is in the Aerinhal cathedral of Verrentine on the **Feast of the Lesser Lights** — by Aerinhal rite, with Caldros rites added. The Feast of the Lesser Lights falls in deep winter; given a fourteen-day journey and a month at the Verrent house, the wedding is approximately seven to eight weeks from tonight.
+  - The wedding is in the Aerinhal cathedral of Verrentine on the **Feast of the Lesser Lights** — by Aerinhal rite, with Caldros rites added. Approximately seven weeks from this evening.
 - **Notable upcoming:**
-  - First light, 24th First-Frost: Sera departs Caldemere by the south gate of the Spire with the Aerinhal delegation. Family goodbyes in the inner courtyard before the gate.
-  - The road south takes ~14 days in winter.
+  - Supper at the seventh — common table, or a tray.
+  - Tomorrow's road: south to the second pre-arranged inn.
+  - The half-way Verrent kinsman's house, ~day 7. Cassian has reserved a private guest wing for Sera and Anwen separate from his.
+  - Verrentine ~8th of Second-Frost (allowing for one weather day).
   - One month engagement at the Verrent house in Verrentine.
   - The wedding at the Feast of the Lesser Lights.
-  - **Riannon Aelthyn** is travelling south to Caldemere from the Frostmarch within the month, to take up as Eira's friend. She will not have arrived by the time Sera leaves; Sera will not meet her this campaign unless she returns.
+  - **Council on Ostvar in the King's writing-chamber at Caldemere — ten days from today** (~5th of Second-Frost). Marchwarden, Lord of the eastern lakes, Master of the Border Roads will be in it. Aerwin Vornlin will not. *(Information Sera carries; not yet acted on.)*
+  - **Riannon Aelthyn** travelling south to Caldemere from the Frostmarch within the month, to take up as Eira's friend. Will not have arrived by the time Sera left.
   - The Aerwin Vornlin / Ostvar question continues at Caldemere in Sera's absence. Aelric is holding.

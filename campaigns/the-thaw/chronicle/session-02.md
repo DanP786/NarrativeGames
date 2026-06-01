@@ -19,7 +19,7 @@ The mother-and-daughter conversation that opens the day:
 - **Memorable line, Lysandra (the colours named): "Red of old wine. Silver-grey wool. No Verrent crest."** Repeats them as she fixes them in her mind.
 - The plan: Holsbrand will send the cloak through the third Aerinhal courier this afternoon, so it arrives at Sera's door without a story on either side. She may wear it or not.
 - Sera tells her mother: *"If I am to entertain this pairing I will torture him first with impropriety. See what he's made of. I know you won't approve, but I get to do it my way for another year."*
-- **Memorable line, Lysandra's warning:** *"Cassian Verrent is twenty. He is the son of a Verrent prince and descended of kings on both sides. He is not, in my judgement after one day, an unfeeling man. He is a man whose feelings have a long fuse. When you torture him with impropriety — and you will, I do not doubt you — he will not break in front of you. He will break in front of someone else, three days later, when no one is watching, and the someone else will be Ser Yarrick, or his father, or the page who lights his fire. Verrent fire warms what it is sent at, not the man who carries it. The man who carries it warms in private, when no one has sent him anywhere."*
+- **Memorable line, Lysandra's warning:** *"Cassian Verrent is twenty-six. He is the son of a Verrent prince and descended of kings on both sides. He is not, in my judgement after one day, an unfeeling man. He is a man whose feelings have a long fuse. When you torture him with impropriety — and you will, I do not doubt you — he will not break in front of you. He will break in front of someone else, three days later, when no one is watching, and the someone else will be Ser Yarrick, or his father, or the page who lights his fire. Verrent fire warms what it is sent at, not the man who carries it. The man who carries it warms in private, when no one has sent him anywhere."*
 
 Sera eats the cheese, excuses herself, leaves the parlour with the Queen's *"I heard the* if*"* held but not pressed.
 
@@ -67,8 +67,8 @@ She vomits the night's worry: she confessed Theodric and Caelum to Lysandra by a
 
 Caelum's long answer:
 - *"You did not betray me."* Said three times. Lysandra has known three years and Caelum has known she knew. She has, in three years, made four small not-acting kindnesses (a horse moved, a page sent away, a door left open, etc.). The Queen has been managing them for years; Sera gave her confirmation, not information.
-- *"You are fifteen years old. — I misspoke. You are nineteen."* Catches himself; corrects. **(N.B.: Sera is in fact 20 per the character.md — Caelum's slip here is *Caelum's* slip, his memory of her age fixed at when she was first told the secret; recorded as a Caelum tell, not as canon update to her age.)** Actually — see footnote: the campaign canon is Sera = 20. Caelum's *I misspoke; you are nineteen* is itself the slip. Treating Sera as 20 throughout.
-- *"That you finally said the wrong thing to the one person who already knew is not a betrayal. It is the cost of asking a [twenty]-year-old to be older than her years for four years."*
+- *"You are sixteen years old. — I misspoke. You are twenty."* Catches himself; corrects. **(Caelum's tell: his memory of her age fixed at the year he first told her the secret, four years ago. Canon: Sera is 20. The slip stays in his voice as his small tic.)**
+- *"That you finally said the wrong thing to the one person who already knew is not a betrayal. It is the cost of asking a twenty-year-old to be older than her years for four years."*
 - He saw her in the corridor with Cassian. Cleared his throat once and walked past. Asks: *was it a thing being done to her, or a thing she was choosing?*
 
 Sera hugs him — first hug since their grandfather's funeral four winters ago — and tells him Cassian was protecting her, that *we're all good,* and that he will ask for her hand tonight. Caelum closes his eyes once, opens them steady. *"Then I am going to put him on the grass for a different reason."* Dry joke. He says he had thought Cassian had risked scandal because he did not know the Caldros corridors; he is revising the thought.
@@ -183,7 +183,7 @@ Aelric receives Sera formally in the long audience chamber. He is in dark blue, 
 
 **His stated reason:** the Aerinhal household is *patient,* will hold her well, will not give her the small daily occasions of provocation a Caldros engagement provides. The marriage will *take* on its own ground.
 
-**His real reason, given because she is nineteen and he has not been in the habit of lying to her:** *"I do not want to lose you a fourth time, Sera-min. — Three is enough."*
+**His real reason, given because she is twenty and he has not been in the habit of lying to her:** *"I do not want to lose you a fourth time, Sera-min. — Three is enough."*
 
 Sera accepts the decision. She asks three things and one named permission:
 - **Anwen** comes south with her, into her household in Aerinhal. Granted (*"I would have given the leave whether you asked or not, but I am glad you asked"*).
@@ -226,7 +226,7 @@ Sera is on the floor at the cross-table, **between Cassian and Lord Vesper (the 
 
 **Memorable line, Cassian under the noise:** *"My father's letter was the third draft. I have been told what was in it. I will tell you tomorrow on the road. — But know now: it was a good letter, Sera. My father did well by you."*
 
-Lord Vesper crosses the floor to the dais, opens the letter, reads the Aerinhal formal in the inner-court tongue: *"By the hand of his Most Serene Majesty Roderic the Fifth, King of Aerinhal… to his royal brother of Caldros, Aelric the Third… the House of Verrent does, by this letter and by the seal which follows, formally request the consent of the King of Caldros to the betrothal of his daughter, the Princess Cassara, to the Prince Cassian Verrent, with a view to a marriage to be celebrated, in the Aerinhal rite, in the cathedral of Verrentine, on the Feast of the Lesser Lights, of this current year of Our Lord."*
+Lord Vesper crosses the floor to the dais, opens the letter, reads the Aerinhal formal in the inner-court tongue: *"By the hand of his Most Serene Majesty Roderic the Fifth, King of Aerinhal… to his royal brother of Caldros, Aelric the Third… the House of Verrent does, by this letter and by the seal which follows, formally request the consent of the King of Caldros to the betrothal of his daughter, the Princess Seraphina, to the Prince Cassian Verrent, with a view to a marriage to be celebrated, in the Aerinhal rite, in the cathedral of Verrentine, on the Feast of the Lesser Lights, of this current year of Our Lord."*
 
 Aelric rises. Speaks the consent from the dais himself, no paper:
 
@@ -234,7 +234,7 @@ Aelric rises. Speaks the consent from the dais himself, no paper:
 
 Calls Sera and Cassian to the dais. They walk the long carpet. Sera puts her hand in her father's. He turns her by it to face the room.
 
-> *"The Princess Cassara of Caldros and the Prince Cassian Verrent of Aerinhal are betrothed, by my hand, in the sight of this Hall, and the sight of God, and the sight of our two houses, on this the closing of the Hoarfrost Tourney of the Year of the Frost-Rose. — God keep them both. God keep both their countries. — Hall: lift your cups."*
+> *"The Princess Seraphina of Caldros and the Prince Cassian Verrent of Aerinhal are betrothed, by my hand, in the sight of this Hall, and the sight of God, and the sight of our two houses, on this the closing of the Hoarfrost Tourney of the Year of the Frost-Rose. — God keep them both. God keep both their countries. — Hall: lift your cups."*
 
 The Hall lifts. The cheer carries to the rafters and back. **Memorable line, Aelric (very quietly, under it, in Caldros, so only the dais and Cassian hear):** *"My child. My son."* — *son* said while looking at his daughter, not at Cassian, but Cassian hears it.
 
@@ -247,5 +247,11 @@ Lysandra's tear at the corner of one eye. Theodric stands and lifts his cup to h
 The Long Hall is still cheering. Sera and Cassian have stood the moment. The road south is at first light.
 
 **Standing rule established by player at the end of session 02 (out-of-character):** *from this moment Sera consents to everything with Cassian.* Recorded into `world/tone-and-rules.md` as a campaign standing rule.
+
+**Standing rule added at the opening of session 03 (out-of-character):** *from the road south onward, Sera and Cassian speak Aerinic to each other in private.* Recorded into `world/tone-and-rules.md` and into Cassian's NPC file.
+
+**Canon corrections made at the opening of session 03:** Cassian's age locked at **26** (not 20). Sera's age confirmed at **20** throughout. Sera's formal name is **Princess Seraphina** in both courts (the earlier "Princess Cassara" was an invention and has been struck from the canon). Sera's eyes locked at **silver-grey**. Cassian's appearance locked at **dark golden hair, hazel eyes**.
+
+**Canon added at the opening of session 03:** **Prince Aldwin Verrent**, heir to the Aerinhal throne (Cassian's elder cousin, ~30), is unmarried — currently betrothed to a fourteen-year-old foreign princess and waiting two years for her sixteenth name-day. Aldwin once had Sera on his own survey of marriage options and passed on her, having heard she was *hard to tame, despite being beautiful.* Since the Caldros betrothal news arrived in Verrentine on the 17th First-Frost, Aldwin has expressed arrogant pity for Cassian's match in the inner-court rooms at Verrentine. The story holds the expectation that this will change when he sees Sera in person. See `npcs/aldwin-verrent.md`.
 
 Next session = `session-03.md`.
