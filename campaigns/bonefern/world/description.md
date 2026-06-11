@@ -62,6 +62,6 @@ This is held religiously, not casually. A Vahn-rii male who violated the taboo w
 ## The humans
 - Six women. All worked the colony ship *Helia-Voss* in different roles.
 - All chipped with a translation implant before drop. None of them know it; the chip is a small surgical scar at the base of the skull they have not noticed yet.
-- **At least four of the six have been found in Vahn-rii territory** — Mira and three more brought in on Day 1 evening. Whether this is the experimenters' design or coincidence is not yet known.
+- **All six have now been found in Vahn-rii territory** — Mira and three more on Day 1 evening; the last two (Ada, Mari) brought in by Drenn in S05. Whether this is the experimenters' design or coincidence is not yet known.
 - None of them know about the others (though they may recognise faces from the ship).
 - Whoever did this is watching. How they are watching, Mira does not yet know.

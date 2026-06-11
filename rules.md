@@ -80,7 +80,12 @@ When the player opens a new chat and says "continue" or anything similar, read i
 
 Do **not** read the deep NPC, location, faction, or item files yet. Load those only when their entity comes on-screen.
 
-After reading, give the player a brief recap (3–5 sentences) of where things stand and prompt them for their next action.
+**Freshness cross-check (before the recap).** The boot set is meant to be current, but slow files drift when a prior session's rollup missed one. Before recapping, sanity-check the orientation files against the live state:
+- Does `meta/calendar.md`'s location / date / "notable upcoming" agree with `chronicle/current-scene.md` and the most recent `session-NN.md`? If the calendar puts the party somewhere they have since left, or lists as "upcoming" something already resolved, it is stale.
+- Do the `world/` overview files and `npcs/_index.md` agree with the latest chronicle on who is where and what has happened (e.g. a character described as "missing" who has since been found)?
+If you find a contradiction, do not silently trust either side. Flag it to the player in one line — *"Heads up: the calendar still has us on the Bonadan vector, but the last session ended in fold-cruise to Tatooine — want me to reconcile it before we start?"* — and offer to fix it. Catching a stale file at boot is cheaper than narrating from it.
+
+After reading (and any reconciliation), give the player a brief recap (3–5 sentences) of where things stand and prompt them for their next action.
 
 ---
 
@@ -196,6 +201,8 @@ A scene ends when the player leaves the location, time skips, or the beat resolv
 - Write a 3–8 sentence summary into the active `session-NN.md`. Keep verbatim any line of dialogue or choice that revealed character — these are the "memorable moments" that should survive compression. Compress hard on transit, routine combat, and scene-setting.
 - Clear `current-scene.md`.
 - Update NPC and location files with anything durable.
+- **Update `meta/calendar.md`** if the scene changed the location, the date, the time of day, or what is "notable upcoming." The calendar is a ★ boot-set file — the first thing the next chat reads to orient itself — so a scene that moved the party or advanced the clock has *not* been rolled up until the calendar reflects it. (See §12.)
+- **Re-touch any `world/` file the scene made stale.** If a scene changed a fact a world overview file asserts — a character's whereabouts or status in `world/the-women.md` / `the-men.md`, a location's state, a faction's standing — update that file too. These slow files drift precisely because they sit outside the chronicle's path; scene-end is where they get caught.
 
 ### Session end (heavier rollup, triggered by `/save`)
 
@@ -204,8 +211,12 @@ A scene ends when the player leaves the location, time skips, or the beat resolv
 - Update `player/actions.md` with reputation-shaping deeds.
 - Update `meta/main-thread.md` if its status changed (sketch → active, active → converging, etc.) or if the central question evolved through play.
 - In structured campaigns, update `meta/act-tracker.md` if beats were hit, an act transition occurred, or progress moved meaningfully (see §16).
+- **Update `meta/calendar.md`** to the session's end-state — current location, date, time of day, and "notable upcoming." Do this every save, not only when it feels eventful: the calendar is the single most common file to drift, and the one the next chat trusts first.
+- **Reconcile the boot set and the world files.** Walk the ★ boot set (§2) and the `world/` overview files and fix anything the session made false — stale "last seen" stamps in `npcs/_index.md`, characters described as missing/elsewhere who have since been found or moved, a `player/character.md` "current state" line still stamped to a prior session. The chronicle moved; make the orientation files agree with it.
 - Propose a git commit message and instruct the player to commit (see §11).
 - Increment session number for next time.
+
+See §11 for the consolidated **save checklist** — the single list to run on every `/save`.
 
 ### Token-pressure self-monitoring
 
@@ -526,9 +537,19 @@ This repo is hosted on GitHub. You access it via the GitHub connector / MCP. Rea
 
 **On `/save`.**
 
-1. Perform the session rollup (§6) — write the session-NN.md synthesis, update `world/narrative.md`, update `player/actions.md`.
+1. Perform the session rollup (§6). Run this **save checklist** and touch every file the session changed. If a file genuinely did not change, skip it — but skip it *deliberately*, not by forgetting:
+   - [ ] `chronicle/session-NN.md` — the session synthesis (fold in any `current-scene` beats not yet rolled up).
+   - [ ] `chronicle/current-scene.md` — cleared (or left holding only a genuinely in-progress scene).
+   - [ ] `world/narrative.md` — long-arc synthesis appended.
+   - [ ] `player/actions.md` — reputation-shaping deeds.
+   - [ ] **`meta/calendar.md` — current location, date, time, "notable upcoming."** *(Most-missed file. Touch it every save.)*
+   - [ ] `meta/main-thread.md` — status / central-question movement.
+   - [ ] `meta/act-tracker.md` — structured campaigns only (§16).
+   - [ ] `npcs/_index.md` — status / location / "last seen" stamps for anyone the session moved.
+   - [ ] **`world/` overview files** (`the-women.md`, faction/location overviews, etc.) — fix any fact the session made false.
+   - [ ] `player/character.md` / `skills.md` / `inventory.md` — "current state," skill ticks, item changes.
 2. Make those writes as a single commit titled: `<campaign-slug> S NN — save: <one-line session summary>`.
-3. Confirm to the player: *"Session NN saved — committed `<hash-or-message>`. Safe to close."*
+3. Confirm to the player: *"Session NN saved — committed `<hash-or-message>`. Safe to close."* If a checklist file was deliberately skipped, the confirmation may note it (*"calendar unchanged — same inn, same evening"*) so the skip is visible, not silent.
 
 **Branch discipline.** Work on `main`. No session branches — the noise of per-turn commits is acceptable; `world/narrative.md` is the human-readable history, the git log is the file-state history. The player can `git log --grep "save:"` to see session-level checkpoints.
 
