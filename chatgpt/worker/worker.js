@@ -128,6 +128,11 @@ async function handleCampaigns(env) {
   return json(campaigns);
 }
 
+// ChatGPT rejects action responses over ~100k chars (ResponseTooLargeError).
+// Cap the file content per /boot response; overflow is returned as "deferred"
+// paths for the GPT to fetch individually with readFile.
+const BOOT_BUDGET = 70000;
+
 async function handleBoot(env, url) {
   const slug = url.searchParams.get("campaign");
   if (!slug) return json({ error: "campaign query param required" }, 400);
@@ -140,18 +145,34 @@ async function handleBoot(env, url) {
     .filter((f) => /^session-\d+\.md$/.test(f.name))
     .sort((a, b) => a.name.localeCompare(b.name))
     .slice(-2)
-    .map((f) => `chronicle/${f.name}`);
+    .map((f) => `chronicle/${f.name}`)
+    .reverse(); // latest first, so if only one fits the budget it's the newest
+
+  const ordered = [...BOOT_FILES, ...sessionFiles];
+  const contents = await Promise.all(ordered.map((p) => readRaw(env, `${root}/${p}`)));
 
   const files = [];
   const missing = [];
-  await Promise.all(
-    [...BOOT_FILES, ...sessionFiles].map(async (p) => {
-      const content = await readRaw(env, `${root}/${p}`);
-      if (content === null) missing.push(p);
-      else files.push({ path: `${root}/${p}`, content });
-    })
-  );
-  return json({ campaign: slug, files, missing });
+  const deferred = [];
+  let used = 0;
+  ordered.forEach((p, i) => {
+    const content = contents[i];
+    if (content === null) missing.push(p);
+    else if (used + content.length <= BOOT_BUDGET) {
+      files.push({ path: `${root}/${p}`, content });
+      used += content.length;
+    } else {
+      deferred.push({ path: `${root}/${p}`, chars: content.length });
+    }
+  });
+
+  const result = { campaign: slug, files, missing };
+  if (deferred.length) {
+    result.deferred = deferred;
+    result.note =
+      "Boot set exceeded the one-response size budget. The deferred paths are part of the boot set - read each with readFile before recapping.";
+  }
+  return json(result);
 }
 
 async function handleCommit(env, request) {

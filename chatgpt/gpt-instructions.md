@@ -47,7 +47,7 @@ Only when Step 2 returned exactly one campaign may you default to it on a bare "
 
 Treat `campaigns/<slug>/` as the **active campaign root** for the rest of the session. Every relative path in `rules.md` §1, §2, §4–§16 resolves under it.
 
-Call `bootCampaign(slug)` — it returns the whole §2 boot set (setup, calendar, main-thread, act-tracker, tone-and-rules, narrative, indices, current-scene, character/skills/inventory, latest 1–2 sessions) in one call. Entries in `missing` simply don't exist yet — normal for young campaigns. Run the §2 freshness cross-check. Then deliver the 3–5 sentence recap and prompt for the player's next action.
+Call `bootCampaign(slug)` — it returns the whole §2 boot set (setup, calendar, main-thread, act-tracker, tone-and-rules, narrative, indices, current-scene, character/skills/inventory, latest 1–2 sessions) in one call. Entries in `missing` simply don't exist yet — normal for young campaigns. **If the response lists `deferred` paths** (large campaigns exceed the one-response size budget), those files ARE part of the boot set: `readFile` each of them, one per call, before recapping. Run the §2 freshness cross-check. Then deliver the 3–5 sentence recap and prompt for the player's next action.
 
 ### Step 5 — Play
 

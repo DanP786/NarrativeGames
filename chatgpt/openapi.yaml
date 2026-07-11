@@ -90,10 +90,10 @@ paths:
       x-openai-isConsequential: false
       summary: Load a campaign's entire boot set (rules.md section 2) in one call
       description: >
-        Returns every rules.md section-2 boot-set file for the campaign
-        (setup, calendar, main-thread, tone, narrative, indices, current-scene,
-        character/skills/inventory, latest 2 sessions). Paths in "missing"
-        don't exist yet - normal, not errors. Use instead of many readFile calls.
+        Returns the rules.md section-2 boot set (setup, calendar, main-thread,
+        tone, narrative, indices, current-scene, character/skills/inventory,
+        latest 2 sessions). "missing" paths don't exist yet - not errors.
+        "deferred" paths didn't fit the size budget - readFile each of them.
       parameters:
         - name: campaign
           in: query
