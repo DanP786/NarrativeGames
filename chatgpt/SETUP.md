@@ -90,7 +90,7 @@ Same flow as the smoke test, different payloads:
 6. **Actions → Create new action:**
    - **Authentication:** type **API Key** → Auth type **Custom** → Custom header name: `X-API-Key` → paste the `API_KEY` value from Part 2.
    - **Schema:** paste `openapi.yaml` (this folder), then **edit the `servers:` url line** to your real Worker URL from Part 2 step 5.
-   - The actions table should show `listDir`, `readFile`, `commitFiles`.
+   - The actions table should show `listDir`, `readFile`, `listCampaigns`, `bootCampaign`, `commitFiles`.
    - Use the inline **Test** button on `listDir` — should return the repo root listing.
 7. **Create** → **Only me**.
 

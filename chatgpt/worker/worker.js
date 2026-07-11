@@ -1,10 +1,13 @@
 // Narrative Adventure Engine — GitHub transport worker for the ChatGPT GM GPT.
 //
 // Endpoints (all require header  X-API-Key: <API_KEY secret>):
-//   GET  /list?path=<dir>     -> JSON [{name, path, type}] for a directory ("" = repo root)
-//   GET  /read?path=<file>    -> raw file text (plain text, not base64)
-//   POST /commit              -> body {message, files:[{path, content}], deletes?:[path]}
-//                                writes all files as ONE commit on main; content is plain text
+//   GET  /list?path=<dir>       -> JSON [{name, path, type}] for a directory ("" = repo root)
+//   GET  /read?path=<file>      -> raw file text (plain text, not base64)
+//   GET  /campaigns             -> JSON [{slug, last_session, setup}] for every campaign (one call)
+//   GET  /boot?campaign=<slug>  -> JSON {campaign, files:[{path, content}], missing:[path]} —
+//                                  the full rules.md §2 boot set in one call
+//   POST /commit                -> body {message, files:[{path, content}], deletes?:[path]}
+//                                  writes all files as ONE commit on main; content is plain text
 //
 // Secrets (Worker Settings -> Variables and Secrets, both type "Secret"):
 //   GITHUB_TOKEN — fine-grained PAT, this repo only, Contents: Read and write
@@ -66,6 +69,89 @@ async function handleRead(env, url) {
   return new Response(await res.text(), {
     headers: { "content-type": "text/plain; charset=utf-8" },
   });
+}
+
+async function readRaw(env, path) {
+  const res = await gh(env, `contents/${encodePath(path)}?ref=${BRANCH}`, {
+    accept: "application/vnd.github.raw+json",
+  });
+  if (!res.ok) return null;
+  return res.text();
+}
+
+async function listContents(env, path) {
+  const res = await gh(env, `contents/${encodePath(path)}?ref=${BRANCH}`);
+  if (!res.ok) return null;
+  const items = await res.json();
+  return Array.isArray(items) ? items : null;
+}
+
+// The rules.md §2 boot set (paths relative to the campaign root).
+// Files that don't exist are reported in "missing", not errors.
+const BOOT_FILES = [
+  "meta/setup.md",
+  "meta/calendar.md",
+  "meta/main-thread.md",
+  "meta/act-tracker.md",
+  "world/tone-and-rules.md",
+  "world/narrative.md",
+  "npcs/_index.md",
+  "world/locations/_index.md",
+  "chronicle/current-scene.md",
+  "player/character.md",
+  "player/skills.md",
+  "player/inventory.md",
+];
+
+async function handleCampaigns(env) {
+  const dirs = await listContents(env, "campaigns");
+  if (!dirs) return json({ error: "campaigns/ not found" }, 502);
+  const campaigns = await Promise.all(
+    dirs
+      .filter((d) => d.type === "dir")
+      .map(async (d) => {
+        const [setup, chron] = await Promise.all([
+          readRaw(env, `campaigns/${d.name}/meta/setup.md`),
+          listContents(env, `campaigns/${d.name}/chronicle`),
+        ]);
+        const sessions = (chron || [])
+          .map((f) => (f.name.match(/^session-(\d+)\.md$/) || [])[1])
+          .filter(Boolean)
+          .map(Number);
+        return {
+          slug: d.name,
+          last_session: sessions.length ? Math.max(...sessions) : 0,
+          setup: setup ? setup.slice(0, 1500) : null,
+        };
+      })
+  );
+  return json(campaigns);
+}
+
+async function handleBoot(env, url) {
+  const slug = url.searchParams.get("campaign");
+  if (!slug) return json({ error: "campaign query param required" }, 400);
+  const root = `campaigns/${slug}`;
+  const dir = await listContents(env, root);
+  if (dir === null) return json({ error: `campaign not found: ${slug}` }, 404);
+
+  const chron = await listContents(env, `${root}/chronicle`);
+  const sessionFiles = (chron || [])
+    .filter((f) => /^session-\d+\.md$/.test(f.name))
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .slice(-2)
+    .map((f) => `chronicle/${f.name}`);
+
+  const files = [];
+  const missing = [];
+  await Promise.all(
+    [...BOOT_FILES, ...sessionFiles].map(async (p) => {
+      const content = await readRaw(env, `${root}/${p}`);
+      if (content === null) missing.push(p);
+      else files.push({ path: `${root}/${p}`, content });
+    })
+  );
+  return json({ campaign: slug, files, missing });
 }
 
 async function handleCommit(env, request) {
@@ -136,6 +222,8 @@ export default {
     try {
       if (request.method === "GET" && route === "/list") return handleList(env, url);
       if (request.method === "GET" && route === "/read") return handleRead(env, url);
+      if (request.method === "GET" && route === "/campaigns") return handleCampaigns(env);
+      if (request.method === "GET" && route === "/boot") return handleBoot(env, url);
       if (request.method === "POST" && route === "/commit") return handleCommit(env, request);
       return json({ error: `no route: ${request.method} ${route}` }, 404);
     } catch (e) {

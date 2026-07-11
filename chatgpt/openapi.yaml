@@ -62,6 +62,66 @@ paths:
                 type: string
         "404":
           description: File not found
+  /campaigns:
+    get:
+      operationId: listCampaigns
+      x-openai-isConsequential: false
+      summary: List every campaign with its setup and last session number, in one call
+      description: >
+        Returns one entry per campaign directory - slug, last_session (highest
+        session-NN in its chronicle, 0 if none) and setup (meta/setup.md content,
+        truncated; null if none). Use instead of looping listDir + readFile.
+      responses:
+        "200":
+          description: Campaign summaries
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    slug: { type: string }
+                    last_session: { type: integer }
+                    setup: { type: string }
+  /boot:
+    get:
+      operationId: bootCampaign
+      x-openai-isConsequential: false
+      summary: Load a campaign's entire boot set (rules.md section 2) in one call
+      description: >
+        Returns every rules.md section-2 boot-set file for the campaign
+        (setup, calendar, main-thread, tone, narrative, indices, current-scene,
+        character/skills/inventory, latest 2 sessions). Paths in "missing"
+        don't exist yet - normal, not errors. Use instead of many readFile calls.
+      parameters:
+        - name: campaign
+          in: query
+          required: true
+          description: Campaign slug, e.g. "lunar-city".
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Boot set contents
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  campaign: { type: string }
+                  files:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        path: { type: string }
+                        content: { type: string }
+                  missing:
+                    type: array
+                    items: { type: string }
+        "404":
+          description: Campaign not found
   /commit:
     post:
       operationId: commitFiles
