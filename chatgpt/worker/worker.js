@@ -131,11 +131,13 @@ export default {
       return json({ error: "unauthorized" }, 401);
     }
     const url = new URL(request.url);
+    // Tolerate sloppy clients: collapse duplicate slashes and trailing slash
+    const route = url.pathname.replace(/\/+/g, "/").replace(/\/$/, "") || "/";
     try {
-      if (request.method === "GET" && url.pathname === "/list") return handleList(env, url);
-      if (request.method === "GET" && url.pathname === "/read") return handleRead(env, url);
-      if (request.method === "POST" && url.pathname === "/commit") return handleCommit(env, request);
-      return json({ error: `no route: ${request.method} ${url.pathname}` }, 404);
+      if (request.method === "GET" && route === "/list") return handleList(env, url);
+      if (request.method === "GET" && route === "/read") return handleRead(env, url);
+      if (request.method === "POST" && route === "/commit") return handleCommit(env, request);
+      return json({ error: `no route: ${request.method} ${route}` }, 404);
     } catch (e) {
       return json({ error: String(e) }, 500);
     }
