@@ -1,0 +1,120 @@
+openapi: 3.1.0
+info:
+  title: Narrative Adventure Engine Repo Transport
+  description: >
+    Read, list, and commit files in the DanP786/NarrativeGames GitHub repo
+    (branch main) via a Cloudflare Worker. All file content is plain text —
+    never base64. commitFiles writes any number of files as a single git commit.
+  version: 1.0.0
+servers:
+  - url: https://REPLACE-WITH-YOUR-WORKER-URL.workers.dev
+paths:
+  /list:
+    get:
+      operationId: listDir
+      x-openai-isConsequential: false
+      summary: List a directory in the repo
+      description: >
+        Returns the entries of a directory as an array of {name, path, type}
+        where type is "file" or "dir". Use path "" (empty) for the repo root,
+        "campaigns" for the campaigns folder, etc.
+      parameters:
+        - name: path
+          in: query
+          required: false
+          description: Directory path relative to repo root. Empty or omitted = root.
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Directory listing
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    name: { type: string }
+                    path: { type: string }
+                    type: { type: string, enum: [file, dir] }
+  /read:
+    get:
+      operationId: readFile
+      x-openai-isConsequential: false
+      summary: Read one file's raw text
+      description: >
+        Returns the current content of a file on main as plain text.
+        404 if the file does not exist.
+      parameters:
+        - name: path
+          in: query
+          required: true
+          description: File path relative to repo root, e.g. "rules.md" or "campaigns/foo/meta/setup.md".
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Raw file content
+          content:
+            text/plain:
+              schema:
+                type: string
+        "404":
+          description: File not found
+  /commit:
+    post:
+      operationId: commitFiles
+      x-openai-isConsequential: false
+      summary: Write and/or delete files as ONE git commit on main
+      description: >
+        Writes every entry in "files" (full replacement content, plain text —
+        NEVER base64) and removes every path in "deletes", all as a single
+        commit with the given message. Batch all of a turn's writes into one
+        call. Returns {ok, commit, written, deleted} on success.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [message, files]
+              properties:
+                message:
+                  type: string
+                  description: Git commit message, e.g. "salt-and-iron S03 T07 - oath sworn at the well".
+                files:
+                  type: array
+                  description: Files to create or fully overwrite. May be empty only if deletes is non-empty.
+                  items:
+                    type: object
+                    required: [path, content]
+                    properties:
+                      path:
+                        type: string
+                        description: File path relative to repo root.
+                      content:
+                        type: string
+                        description: Complete new file content as plain text.
+                deletes:
+                  type: array
+                  description: Optional file paths to delete in the same commit.
+                  items:
+                    type: string
+      responses:
+        "200":
+          description: Commit result
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok: { type: boolean }
+                  commit: { type: string }
+                  message: { type: string }
+                  written:
+                    type: array
+                    items: { type: string }
+                  deleted:
+                    type: array
+                    items: { type: string }

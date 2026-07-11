@@ -15,7 +15,11 @@ This repo holds **multiple campaigns** under `campaigns/<slug>/`. Each campaign 
 - All paths in §1 and §2 below are relative to the active campaign root, **except** that boot step 1 reads this file at the repo root (not inside each campaign's `meta/`).
 - Each campaign has its own `meta/setup.md`, `meta/calendar.md`, `world/`, `player/`, `npcs/`, and `chronicle/`.
 
-**Driven from the main Claude app.** Reads/writes happen via the GitHub connector. See `project-instructions.md` for the entrypoint that should be pasted into a Claude Project's custom instructions. `CLAUDE.md` is a parallel entrypoint for Claude Code on the local clone — same engine, same behaviour, different transport.
+**Three transports, one engine.** The engine can be driven from any of these entrypoints — same behaviour, different read/write plumbing:
+
+- **Main Claude app** — reads/writes via the GitHub connector. Entrypoint: `project-instructions.md`, pasted into a Claude Project's custom instructions.
+- **Claude Code** — reads/writes on the local clone's filesystem; the player owns commits. Entrypoint: `CLAUDE.md`.
+- **ChatGPT (Custom GPT)** — reads/writes via Actions (`listDir` / `readFile` / `commitFiles`) through a Cloudflare Worker in front of the GitHub API. Entrypoint: `chatgpt/gpt-instructions.md`; setup in `chatgpt/SETUP.md`.
 
 ---
 
@@ -531,7 +535,7 @@ A retcon does **not** rewrite memorable canon. If the player wants to change som
 
 ## 11. Save protocol and git
 
-This repo is hosted on GitHub. You access it via the GitHub connector / MCP. Reads and writes go through the GitHub API; every file write is a commit on the default branch.
+This repo is hosted on GitHub. You access it via your session's transport (§0): the GitHub connector / MCP in the main Claude app, the local filesystem in Claude Code, or the `listDir` / `readFile` / `commitFiles` actions in the ChatGPT GPT. Except in Claude Code (where the player commits), every file write is a commit on the default branch; read "the connector" throughout this section as "your transport's read/write mechanism."
 
 **Per-turn writes.** When the per-turn loop (§4 Step D) writes files, batch all writes from a single turn into one commit using a multi-file push when the connector supports it. Commit message: `<campaign-slug> S NN T NN: <2–6 word beat description>` (e.g. `salt-and-iron S03 T07: oath sworn at the well`). If the connector only supports single-file commits, write the most important file last and reference the others in the message.
 

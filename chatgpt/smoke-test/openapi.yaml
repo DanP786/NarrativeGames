@@ -1,0 +1,25 @@
+openapi: 3.1.0
+info:
+  title: NarrativeGames Smoke Test
+  description: >
+    Minimal single-action schema to verify that Custom GPT Actions are invoked
+    from the ChatGPT mobile app. Reads the raw README.md from the public
+    DanP786/NarrativeGames repo on GitHub. No authentication.
+  version: 1.0.0
+servers:
+  - url: https://raw.githubusercontent.com
+paths:
+  /DanP786/NarrativeGames/main/README.md:
+    get:
+      operationId: readReadme
+      summary: Read the repo's README.md as raw text
+      description: >
+        Fetches the current README.md from the main branch of
+        DanP786/NarrativeGames. Returns plain markdown text.
+      responses:
+        "200":
+          description: Raw markdown content of README.md
+          content:
+            text/plain:
+              schema:
+                type: string
