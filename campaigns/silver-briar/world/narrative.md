@@ -1,0 +1,3 @@
+# Narrative
+
+Lady Cerys of House Briarwyn, a young noble huntress, arrived at Caer Ardyn to marry King Aldren, the ruler who reunited much of Valedorn after the Sundering. Their marriage began as political duty, but their first days together revealed easy humor, shared love of woods and riding, and a mutual desire to know one another beyond reports and titles. Aldren has now asked to court his own betrothed, and Cerys has accepted.

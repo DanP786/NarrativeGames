@@ -1,0 +1,15 @@
+# NPC roster
+
+- King Aldren | alive | Caer Ardyn | Friendly | last seen S01 (asked Cerys to let him court her; ride planned tomorrow)
+- Lady Merien of Harrow | alive | Caer Ardyn | Friendly | last seen S01 (Mistress of the Household; warmly welcoming toward Cerys)
+- Lord Chancellor Oswin | alive | Caer Ardyn | Friendly | last seen S01 (Lord Steward/Chancellor; dry, observant, loyal to Aldren)
+- Anwen | alive | Caer Ardyn | Loyal | last seen S01 (Cerys's close friend and lady-in-waiting; lively gossip and humor)
+- Eira | alive | Caer Ardyn | Loyal | last seen S01 (Cerys's close friend and lady-in-waiting; quieter, observant, sisterly)
+- Sir Berengar Ashcombe | alive | Caer Ardyn | Friendly | last seen S01 (Aldren's uncle and experienced training-yard critic/instructor)
+- Lord Garrick Vayne | alive | Caer Ardyn | Neutral | last seen S01 (Aldren's ambitious cousin; courteous, observant; spoke with Cerys at training)
+- Lady Vivienne of House Ravenscar | alive | Caer Ardyn | Neutral | last seen S01 by report only (former expected marriage candidate; her family wanted her matched to Aldren)
+- Duke Godfrey of House Corwyn | alive | Caer Ardyn | Friendly | last seen S01 (elderly duke; toasted peace and new beginnings)
+- Archbishop of Valedorn | alive | Caer Ardyn | Neutral | last seen S01 (elderly senior cleric; deeply invested in ceremony)
+- Mistress Heddra | alive | Caer Ardyn kitchens | Friendly | last seen S01 (formidable royal cook and partisan of raspberry jam)
+- Master Iwan | alive | Caer Ardyn falcon mews | Friendly | last seen S01 (royal falconer; appreciated Cerys's genuine interest in birds)
+- Bramble | alive | Caer Ardyn royal stables | Devoted | last seen S01 (Cerys's trusted bay mare)
