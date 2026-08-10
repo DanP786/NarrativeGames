@@ -1,8 +1,8 @@
 # Calendar
 
 - Season: Late summer
-- Time of day: Morning
+- Time of day: Early morning
 - Current location: Caer Ardyn
-- Wedding countdown: Two days remain until the wedding of Cerys Briarwyn and King Aldren Ashcombe.
-- Recent arrival: Cerys's parents and her younger sister, Elowen Briarwyn, arrived at Caer Ardyn three days before the wedding.
-- Current beat: The morning after the Briarwyn family's first large dinner at court; Cerys has caught sight of Garrick and intends to corner him.
+- Wedding countdown: Wedding day — Cerys Briarwyn and King Aldren Ashcombe marry today.
+- Recent arrival: Cerys's parents and younger sister, Elowen Briarwyn, are staying at Caer Ardyn for the royal wedding.
+- Current beat: Cerys wakes well rested on her wedding morning after spending the previous sunset privately with Aldren in the old orchard.
