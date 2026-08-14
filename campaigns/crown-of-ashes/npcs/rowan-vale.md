@@ -24,24 +24,26 @@ Elowen's elder brother and a principal heir of House Vale. Young, proud, and qui
 - Last resort: risk his life and House Vale's security rather than accept humiliation by Veyne.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 65 / 100 — Elowen is his sister and has been loyal to the family.
+- Trust: 66 / 100 — Elowen complied immediately when he demanded deference, reinforcing his expectation of her loyalty.
 - Affection: 63 / 100 — genuine sibling attachment, strained in the moment by his displaced anger.
-- Respect: 32 / 100 — cares for her but treats her as a safe subordinate rather than an equal when frustrated.
+- Respect: 31 / 100 — her submission calmed him but also reinforced his habit of treating her as subordinate rather than equal.
 - Loyalty: 70 / 100 — strongly identifies family with self.
-- Suspicion: 5 / 100 — has no reason to suspect Elowen of disloyalty.
+- Suspicion: 4 / 100 — her deferential response gives him little immediate reason to suspect disloyalty.
 
 ## Relationship to player
-Friendly. Rowan genuinely cares for Elowen as his younger sister, but his dynastic assumptions and temper mean that affection does not guarantee respectful treatment. At King Edric's funeral, after Garrick humiliated him publicly, he redirected his frustration onto Elowen and handled her roughly despite her having done nothing to provoke him.
+Friendly. Rowan genuinely cares for Elowen as his younger sister, but his dynastic assumptions and temper mean that affection does not guarantee respectful treatment. At King Edric's funeral, after Garrick humiliated him publicly, he redirected his frustration onto Elowen and handled her roughly despite her having done nothing to provoke him. Elowen answered with quiet deference, which soothed rather than challenged his sense of authority over her.
 
 ## History with player
 - Grew up with Elowen within House Vale.
 - Publicly renounced Cassian Veyne at King Edric II's funeral while Elowen stood with the family.
 - After Garrick shoved him back from the aisle, Rowan collided with Elowen and then, still angry and humiliated, gripped her arm and blamed her for being in his way.
+- Elowen quietly answered 'I understand' and presented deference; Rowan released her and warned her to remember who the Veynes are.
 
 ## Knowledge
 - Knows the Vale-Veyne blood-feud and House Vale's internal history.
 - Knows Elowen's conventional reputation as a dutiful, quiet daughter.
 - Saw Elowen briefly looking toward Cassian after the collision, but has no access to why she looked.
+- Interprets Elowen's deferential answer as compliance, not as proof of her private feelings.
 - Does not know any private thought Elowen has not expressed.
 
 ## Relationships with other NPCs
