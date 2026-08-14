@@ -10,9 +10,8 @@ A tall nobleman in his early thirties, severe in mourning black, carrying a swor
 - Remembers injuries as obligations, not emotions
 
 ## Short-term goals
-- Prevent Prince Alaric's succession from becoming accepted fact through ceremony and repetition.
-- Force the assembled great houses to acknowledge that the crown remains contested.
-- Identify which houses will resist or support his claim.
+- Survive and control the armed confrontation without allowing Alaric's faction to seize him.
+- Prevent Prince Alaric's succession from becoming accepted fact.
 - Ensure Rowan Vale's public challenge carries a visible cost when strategically useful.
 
 ## Long-term goals
@@ -25,31 +24,32 @@ A tall nobleman in his early thirties, severe in mourning black, carrying a swor
 - Last resort: civil war and lethal force against rival claimants or houses that make coexistence impossible.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 8 / 100 — Elowen is a Vale, and her brother has now publicly opposed him.
+- Trust: 8 / 100 — Elowen is a Vale, and her brother has publicly opposed him.
 - Affection: 15 / 100 — no personal relationship; inherited hostility dominates first impressions.
-- Respect: 26 / 100 — she remained composed while her family quarrelled around her, a minor observation rather than earned regard.
+- Respect: 27 / 100 — she has remained composed amid her family's disorder; still a minor observation.
 - Loyalty: 0 / 100 — none.
 - Fear: 5 / 100 — does not presently regard Elowen personally as dangerous.
 - Suspicion: 63 / 100 — Rowan's declaration confirms House Vale as active opposition.
 - Resentment: 68 / 100 — the old blood-feud has been publicly renewed by Rowan's challenge.
 
 ## Relationship to player
-Hostile. Elowen remains part of an enemy house and personally unknown to Cassian. He has now observed that Rowan redirects anger onto her and that she occupies a subordinate place within the Vale family dynamic. This is information to him, not yet sympathy or attachment.
+Hostile. Elowen remains part of an enemy house and personally unknown to Cassian. He has now seen Rowan first redirect anger onto her and then physically use her as cover when the cathedral turned dangerous. This gives Cassian information about House Vale's internal weakness and Elowen's vulnerable position, not automatic sympathy or attachment.
 
 ## History with player
 - No direct personal history established before King Edric II's funeral.
 - Their houses carry an unresolved blood-feud predating their first meaningful interaction.
 - Elowen was present when her brother Rowan publicly renounced Cassian's claim.
 - After Rowan was shoved back into the Vale benches, Elowen and Cassian briefly met one another's gaze across the cathedral before she looked away.
-- Cassian subsequently witnessed Rowan grip Elowen roughly and blame her while venting frustration from Garrick's rebuke.
+- Cassian witnessed Rowan grip Elowen roughly and blame her while venting frustration from Garrick's rebuke.
+- Cassian witnessed Rowan shove Elowen ahead of himself as cover when weapons were drawn inside the sealed cathedral.
 
 ## Knowledge
 - Knows Elowen is Lord Garrick Vale's daughter by her position among the Vales and the public confrontation.
 - Knows House Vale's political weight and the history of the Vale-Veyne feud.
 - Has witnessed Rowan Vale publicly declare House Vale's refusal to kneel to him.
-- Has observed Rowan treating Elowen as a safe target for displaced anger after Garrick rebuked him.
+- Has observed Rowan treating Elowen as a safe target for displaced anger and then as physical cover under threat.
 - Does not know Elowen's private feelings, loyalties beyond ordinary dynastic expectation, or personal ambitions.
 
 ## Relationships with other NPCs
-- Prince Alaric: rival claimant; Cassian rejects the attempt to establish Alaric's succession as settled through the funeral proclamation.
-- Rowan Vale: open dynastic enemy after Rowan publicly renounced Cassian's claim and invoked the Vale-Veyne blood feud.
+- Prince Alaric: rival claimant; the cathedral confrontation now risks armed seizure or bloodshed.
+- Rowan Vale: open dynastic enemy whose public bravado Cassian has now seen give way to using his unarmed sister as cover.

@@ -2,8 +2,8 @@
 
 - Location: Cathedral of the Nine Bells, Veyrhold
 - Time: late morning, 18th of Harvestwane, Year 312 of the Crown
-- Scene significance: charged
-- Situation: King Edric II's funeral has become the first public battleground of the succession. House Vale is present among the gathered great houses.
+- Scene significance: climactic
+- Situation: King Edric II's funeral has broken into an armed succession confrontation inside the sealed cathedral.
 
 ## Beats
 - Elowen stays quietly in the background with House Vale, drawing no attention to herself and watching the gathering rather than attempting to participate.
@@ -16,3 +16,4 @@
 - Garrick shoves Rowan back toward the Vale benches; Rowan collides with Elowen and knocks her off balance. Elowen briefly looks across the aisle at Cassian. Cassian notices her as an individual for the first time and holds the glance without intervening; Elowen looks away.
 - Humiliated by Garrick's rebuke and still furious at Cassian, Rowan redirects his frustration at Elowen, gripping her upper arm and blaming her for standing in his way after he was shoved back. He orders her to stop staring across the aisle. Garrick is focused on the political confrontation and does not intervene. Cassian sees Rowan handling Elowen roughly but makes no move to help; he records the Vale family dynamic while continuing his contest with Alaric.
 - Elowen quietly tells Rowan, 'I understand,' and deliberately presents deference rather than resistance. Rowan accepts the submission and releases her arm, warning her to remember who the Veynes are.
+- When royal guards seal the cathedral and weapons begin coming free, Rowan panics at the immediate threat and shoves Elowen in front of himself, using his unarmed sister as physical cover while reaching for his own sword. Elowen is exposed in the aisle as armed men converge. Garrick sees what Rowan has done and orders him to get her down. Cassian also witnesses Rowan using Elowen as a shield.
