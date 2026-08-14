@@ -1,38 +1,24 @@
 # Lord Rowan Vale
 
+## Status
+Dead — killed by Lord Cassian Veyne during the melee at King Edric II's funeral, Session 01.
+
 ## Description, voice, mannerisms
-Elowen's elder brother and a principal heir of House Vale. Young, proud, and quicker to turn conviction into speech than his father. His anger tends to make him more openly declarative rather than cautious. Under immediate mortal threat, his courage can collapse into self-preservation.
+Elowen's elder brother and a principal heir of House Vale. Young, proud, and quicker to turn conviction into speech than his father. His anger made him openly declarative rather than cautious. Under immediate mortal threat, his courage could collapse into self-preservation.
 
 ## Traits
 - Proud
 - Fiercely dynastic
 - Impulsive under insult
-- Reckless when pride is engaged
-- Capable of cowardice when sudden danger becomes immediate and physical
+- Reckless when pride was engaged
+- Capable of cowardice when sudden danger became immediate and physical
 
-## Short-term goals
-- Survive the armed confrontation inside the cathedral.
-- Prevent Cassian Veyne from gaining legitimacy or support.
-- Recover dignity after Garrick publicly rebuked him and Elowen called him a coward.
+## Final goals
+- Oppose Cassian Veyne's claim.
+- Recover dignity after Garrick's rebuke and Elowen calling him a coward.
 
-## Long-term goals
-- Defend House Vale's standing and eventually inherit it intact.
-- See the old Vale-Veyne blood debt answered rather than forgotten for convenience.
-
-## Methods & lines
-- Will: confront, challenge, fight, publicly stake his honour, press old grievances; when humiliated, may redirect anger toward safer family targets; under sudden mortal pressure, may sacrifice another person's safety for his own.
-- Won't: willingly bend the knee to Cassian Veyne while the blood-feud remains unresolved.
-- Last resort: violence and desperate self-preservation.
-
-## Disposition (GM-only — never narrate as numbers)
-- Trust: 60 / 100 — Elowen's unexpected defiance disrupts his assumption of automatic compliance.
-- Affection: 52 / 100 — sibling attachment remains but anger and humiliation now strain it sharply.
-- Respect: 31 / 100 — her willingness to break free and name his cowardice surprises him, even as he resents it.
-- Loyalty: 62 / 100 — family identity remains strong, but the immediate relationship is damaged.
-- Suspicion: 8 / 100 — her resistance makes him newly alert to the possibility that she may not always submit.
-
-## Relationship to player
-Friendly by family bond but dangerously unequal and now strained. Rowan used Elowen as physical cover during the cathedral crisis. She broke from his grasp and quietly called him a coward, an unusually direct act of defiance that he heard and will remember.
+## Relationship to player at death
+Family bond, badly strained. Rowan cared for Elowen as his younger sister but treated her as subordinate, redirected anger onto her, and used her as physical cover during the cathedral violence. Elowen broke free and called him a coward shortly before his death.
 
 ## History with player
 - Grew up with Elowen within House Vale.
@@ -41,15 +27,14 @@ Friendly by family bond but dangerously unequal and now strained. Rowan used Elo
 - Elowen quietly answered 'I understand' and presented deference; Rowan released her and warned her to remember who the Veynes are.
 - When royal guards sealed the cathedral and weapons were drawn, Rowan shoved Elowen ahead of himself as physical cover while reaching for his sword.
 - Elowen twisted free and called him a coward. Rowan heard her.
+- Seeing Cassian holding Elowen within the Veyne position, Rowan charged Cassian despite Garrick ordering him to stop. Cassian ran him through the torso at close range. Rowan collapsed in front of Elowen and died within moments.
 
-## Knowledge
-- Knows the Vale-Veyne blood-feud and House Vale's internal history.
-- Knows Elowen's conventional reputation as a dutiful, quiet daughter.
-- Saw Elowen briefly looking toward Cassian after the collision, but has no access to why she looked.
-- Knows Elowen can resist him when pushed far enough; her calling him a coward directly contradicts his assumption of effortless deference.
-- Knows he exposed Elowen to danger to protect himself.
-- Does not know any private thought Elowen has not expressed.
+## Final knowledge
+- Knew the Vale-Veyne blood-feud and House Vale's internal history.
+- Knew Elowen could resist him when pushed far enough.
+- Knew he had exposed Elowen to danger to protect himself.
+- Died without any access to Elowen's unspoken feelings about him or his actions.
 
 ## Relationships with other NPCs
-- Garrick Vale: father and lord; Rowan acted publicly without his permission, was shoved back, and then put Elowen in danger despite Garrick's order.
-- Cassian Veyne: inherited enemy now made personal through public defiance.
+- Garrick Vale: father and lord; Rowan disobeyed him repeatedly during his final minutes.
+- Cassian Veyne: inherited enemy who killed him after Rowan charged him armed.

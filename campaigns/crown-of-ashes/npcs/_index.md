@@ -1,7 +1,7 @@
 # NPC roster
 
-- Lord Garrick Vale | alive | Cathedral of the Nine Bells, Veyrhold | Neutral | last seen S01 (furious after Rowan publicly destroyed House Vale's attempted neutrality)
-- Lord Rowan Vale | alive | Cathedral of the Nine Bells, Veyrhold | Friendly | last seen S01 (publicly renounced Cassian Veyne and declared House Vale would never kneel to a Veyne)
-- Lord Osric Fenmere | alive | Cathedral of the Nine Bells, Veyrhold | Neutral | last seen S01 (quietly probing Lord Vale about the succession)
-- Lord Cassian Veyne | alive | Cathedral of the Nine Bells, Veyrhold | Hostile | last seen S01 (publicly challenged Alaric's succession and was openly renounced by Rowan Vale)
-- Prince Alaric | alive | Cathedral of the Nine Bells, Veyrhold | Neutral | last seen S01 (publicly named as King Edric II's designated heir before Cassian Veyne challenged the succession)
+- Lord Garrick Vale | alive | Cathedral of the Nine Bells, Veyrhold | Hostile | last seen S01 (witnessing Cassian Veyne kill his son Rowan during the cathedral melee)
+- Lord Rowan Vale | dead | Cathedral of the Nine Bells, Veyrhold | last seen S01 (charged Cassian Veyne during the melee and was run through; died in front of Elowen)
+- Lord Osric Fenmere | alive | Cathedral of the Nine Bells, Veyrhold | Neutral | last seen S01 (quietly probing Lord Vale about the succession before violence erupted)
+- Lord Cassian Veyne | alive | Cathedral of the Nine Bells, Veyrhold | Hostile | last seen S01 (killed Rowan Vale after Rowan charged him; Elowen remains within the Veyne position)
+- Prince Alaric | alive | Cathedral of the Nine Bells, Veyrhold | Neutral | last seen S01 (his succession confrontation with Cassian escalated into armed bloodshed)
