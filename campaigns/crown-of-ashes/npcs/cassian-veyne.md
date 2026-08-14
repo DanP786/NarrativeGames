@@ -34,17 +34,19 @@ A tall nobleman in his early thirties, severe in mourning black, carrying a swor
 - Resentment: 68 / 100 — the old blood-feud has been publicly renewed by Rowan's challenge.
 
 ## Relationship to player
-Hostile. Elowen remains personally unknown to Cassian, but Rowan's public renunciation confirms her family as open opposition. Her significance is still primarily dynastic rather than personal.
+Hostile. Elowen remains part of an enemy house and personally unknown to Cassian, but he has now distinctly noticed her after Rowan was shoved into her and she looked across the aisle at him. No personal judgement beyond that observation has yet been earned.
 
 ## History with player
 - No direct personal history established before King Edric II's funeral.
 - Their houses carry an unresolved blood-feud predating their first meaningful interaction.
 - Elowen was present when her brother Rowan publicly renounced Cassian's claim.
+- After Rowan was shoved back into the Vale benches, Elowen and Cassian briefly met one another's gaze across the cathedral before she looked away.
 
 ## Knowledge
-- Knows Elowen is Lord Garrick Vale's daughter if he has occasion to identify her by house and position.
+- Knows Elowen is Lord Garrick Vale's daughter by her position among the Vales and the public confrontation.
 - Knows House Vale's political weight and the history of the Vale-Veyne feud.
 - Has witnessed Rowan Vale publicly declare House Vale's refusal to kneel to him.
+- Has now noticed Elowen personally but has no basis to infer her private views from a brief glance.
 - Does not know Elowen's private feelings, loyalties beyond ordinary dynastic expectation, or personal ambitions.
 
 ## Relationships with other NPCs
