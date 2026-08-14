@@ -1,9 +1,9 @@
 # Current scene
 
 - Location: Cathedral of the Nine Bells, Veyrhold — north side aisle among the Veyne position
-- Time: late morning, 18th of Harvestwane, Year 312 of the Crown
+- Time: near midday, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: King Edric II's funeral has broken into armed bloodshed inside the sealed cathedral. Rowan Vale is dead. Elowen is pinned beneath his body in shock within Cassian Veyne's position.
+- Situation: Prince Alaric has been killed in the cathedral melee. The fighting has halted in a tense armed stalemate. Rowan Vale is dead, and Elowen remains blood-soaked and in shock within Cassian Veyne's position, separated from Lord Garrick Vale.
 
 ## Beats
 - Elowen stays quietly in the background with House Vale, drawing no attention to herself and watching the gathering rather than attempting to participate.
@@ -22,3 +22,4 @@
 - Panicking amid deaths and screaming civilians, Elowen tries to escape the Veyne side aisle but moves into the path of an armed royal guardsman advancing on the Veyne position. Cassian intercepts: he kills the guardsman before the man can strike through Elowen, then physically seizes Elowen by the upper arm and pulls her behind the Veyne line. Cassian identifies her as Lady Elowen Vale and orders her to stay behind him if she wants to survive. The act saves her immediate life while simultaneously placing an enemy lord's daughter under Cassian's physical control.
 - Seeing Cassian holding Elowen within the Veyne position, Rowan charges him across the melee despite Garrick shouting for him to stop. Rowan attacks without coordination. Cassian meets the charge and runs Rowan through the torso at close range. Rowan dies within moments in front of Elowen, his blood spilling onto her gown and hands as he collapses. Cassian kills him as an immediate armed attacker, without hesitation. The Vale-Veyne blood feud is now personally and irrevocably Elowen's.
 - Rowan's dead weight pins Elowen to the blood-covered floor. She goes into visible shock and does not attempt to free herself while blood pools around her. With fighting still active, Cassian orders one of his men to cover him, rolls Rowan's corpse off Elowen, and hauls her upright rather than leaving a valuable enemy noblewoman exposed on the floor. Elowen remains stunned and blood-soaked within Cassian's control.
+- Prince Alaric is killed near the royal dais during the melee. His death breaks the immediate purpose of his faction's attack and triggers a ragged halt rather than a victory. Armed groups pull apart into defensive positions, leaving a tense stalemate inside the still-sealed cathedral. Neither side disarms. Cassian remains alive and armed; Garrick remains across the nave with surviving Vale men; Elowen is still on the Veyne side beside Rowan's corpse.
