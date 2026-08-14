@@ -1,9 +1,9 @@
 # Current scene
 
-- Location: Cathedral of the Nine Bells, Veyrhold — north side aisle near the Veyne benches
+- Location: Cathedral of the Nine Bells, Veyrhold — north side aisle among the Veyne position
 - Time: late morning, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: King Edric II's funeral has broken into an armed succession confrontation inside the sealed cathedral. Elowen has become separated from House Vale during the melee.
+- Situation: King Edric II's funeral has broken into an armed succession confrontation inside the sealed cathedral. Elowen is separated from House Vale and has fallen into Cassian Veyne's immediate control.
 
 ## Beats
 - Elowen stays quietly in the background with House Vale, drawing no attention to herself and watching the gathering rather than attempting to participate.
@@ -19,3 +19,4 @@
 - When royal guards seal the cathedral and weapons begin coming free, Rowan panics at the immediate threat and shoves Elowen in front of himself, using his unarmed sister as physical cover while reaching for his own sword. Elowen is exposed in the aisle as armed men converge. Garrick sees what Rowan has done and orders him to get her down. Cassian also witnesses Rowan using Elowen as a shield.
 - Elowen gathers her skirts and twists out of Rowan's grasp, quietly calling him a coward. Rowan hears her and is stunned by the rare defiance. Elowen breaks free but, untrained in combat and amid a sudden melee, stumbles into the open aisle as fighting erupts between armed factions.
 - Elowen keeps retreating backward and sideways from immediate threats. With no combat training, she avoids the first wounded guardsman but is driven progressively farther from the Vale benches by the moving melee. A falling body and overturned pew cut off her route back. She ends up in the north side aisle near the Veyne benches, isolated from her family as armed men continue fighting nearby.
+- Panicking amid deaths and screaming civilians, Elowen tries to escape the Veyne side aisle but moves into the path of an armed royal guardsman advancing on the Veyne position. Cassian intercepts: he kills the guardsman before the man can strike through Elowen, then physically seizes Elowen by the upper arm and pulls her behind the Veyne line. Cassian identifies her as Lady Elowen Vale and orders her to stay behind him if she wants to survive. The act saves her immediate life while simultaneously placing an enemy lord's daughter under Cassian's physical control.
