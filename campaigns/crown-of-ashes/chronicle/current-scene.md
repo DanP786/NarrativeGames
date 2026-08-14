@@ -1,9 +1,9 @@
 # Current scene
 
-- Location: Cathedral of the Nine Bells, Veyrhold
+- Location: Cathedral of the Nine Bells, Veyrhold — north side aisle near the Veyne benches
 - Time: late morning, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: King Edric II's funeral has broken into an armed succession confrontation inside the sealed cathedral.
+- Situation: King Edric II's funeral has broken into an armed succession confrontation inside the sealed cathedral. Elowen has become separated from House Vale during the melee.
 
 ## Beats
 - Elowen stays quietly in the background with House Vale, drawing no attention to herself and watching the gathering rather than attempting to participate.
@@ -18,3 +18,4 @@
 - Elowen quietly tells Rowan, 'I understand,' and deliberately presents deference rather than resistance. Rowan accepts the submission and releases her arm, warning her to remember who the Veynes are.
 - When royal guards seal the cathedral and weapons begin coming free, Rowan panics at the immediate threat and shoves Elowen in front of himself, using his unarmed sister as physical cover while reaching for his own sword. Elowen is exposed in the aisle as armed men converge. Garrick sees what Rowan has done and orders him to get her down. Cassian also witnesses Rowan using Elowen as a shield.
 - Elowen gathers her skirts and twists out of Rowan's grasp, quietly calling him a coward. Rowan hears her and is stunned by the rare defiance. Elowen breaks free but, untrained in combat and amid a sudden melee, stumbles into the open aisle as fighting erupts between armed factions.
+- Elowen keeps retreating backward and sideways from immediate threats. With no combat training, she avoids the first wounded guardsman but is driven progressively farther from the Vale benches by the moving melee. A falling body and overturned pew cut off her route back. She ends up in the north side aisle near the Veyne benches, isolated from her family as armed men continue fighting nearby.
