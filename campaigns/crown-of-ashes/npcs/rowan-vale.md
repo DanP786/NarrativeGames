@@ -13,7 +13,7 @@ Elowen's elder brother and a principal heir of House Vale. Young, proud, and qui
 ## Short-term goals
 - Survive the armed confrontation inside the cathedral.
 - Prevent Cassian Veyne from gaining legitimacy or support.
-- Recover dignity after Garrick publicly rebuked him.
+- Recover dignity after Garrick publicly rebuked him and Elowen called him a coward.
 
 ## Long-term goals
 - Defend House Vale's standing and eventually inherit it intact.
@@ -25,14 +25,14 @@ Elowen's elder brother and a principal heir of House Vale. Young, proud, and qui
 - Last resort: violence and desperate self-preservation.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 66 / 100 — Elowen complied immediately when he demanded deference, reinforcing his expectation of her loyalty.
-- Affection: 55 / 100 — sibling attachment remains, but his act of using Elowen as cover exposes how readily self-preservation can override it.
-- Respect: 25 / 100 — he treats her safety as subordinate to his own in crisis.
-- Loyalty: 64 / 100 — strongly identifies with family, but his behaviour shows that dynastic rhetoric does not guarantee personal sacrifice.
-- Suspicion: 4 / 100 — he has little reason to suspect Elowen of disloyalty.
+- Trust: 60 / 100 — Elowen's unexpected defiance disrupts his assumption of automatic compliance.
+- Affection: 52 / 100 — sibling attachment remains but anger and humiliation now strain it sharply.
+- Respect: 31 / 100 — her willingness to break free and name his cowardice surprises him, even as he resents it.
+- Loyalty: 62 / 100 — family identity remains strong, but the immediate relationship is damaged.
+- Suspicion: 8 / 100 — her resistance makes him newly alert to the possibility that she may not always submit.
 
 ## Relationship to player
-Friendly by family bond but dangerously unequal. Rowan genuinely regards Elowen as his sister, yet his treatment of her has deteriorated under pressure: first displaced anger and rough handling, then using her body as cover when weapons came free inside the cathedral. His professed family loyalty is now contradicted by his behaviour toward her when frightened.
+Friendly by family bond but dangerously unequal and now strained. Rowan used Elowen as physical cover during the cathedral crisis. She broke from his grasp and quietly called him a coward, an unusually direct act of defiance that he heard and will remember.
 
 ## History with player
 - Grew up with Elowen within House Vale.
@@ -40,15 +40,16 @@ Friendly by family bond but dangerously unequal. Rowan genuinely regards Elowen 
 - After Garrick shoved him back from the aisle, Rowan collided with Elowen and then, still angry and humiliated, gripped her arm and blamed her for being in his way.
 - Elowen quietly answered 'I understand' and presented deference; Rowan released her and warned her to remember who the Veynes are.
 - When royal guards sealed the cathedral and weapons were drawn, Rowan shoved Elowen ahead of himself as physical cover while reaching for his sword.
+- Elowen twisted free and called him a coward. Rowan heard her.
 
 ## Knowledge
 - Knows the Vale-Veyne blood-feud and House Vale's internal history.
 - Knows Elowen's conventional reputation as a dutiful, quiet daughter.
 - Saw Elowen briefly looking toward Cassian after the collision, but has no access to why she looked.
-- Interprets Elowen's deferential answer as compliance, not as proof of her private feelings.
-- Knows he has exposed Elowen to danger to protect himself.
+- Knows Elowen can resist him when pushed far enough; her calling him a coward directly contradicts his assumption of effortless deference.
+- Knows he exposed Elowen to danger to protect himself.
 - Does not know any private thought Elowen has not expressed.
 
 ## Relationships with other NPCs
-- Garrick Vale: father and lord; Rowan acted publicly without his permission, was shoved back, and has now disobeyed the spirit of Garrick's order to keep Elowen close by putting her in danger.
+- Garrick Vale: father and lord; Rowan acted publicly without his permission, was shoved back, and then put Elowen in danger despite Garrick's order.
 - Cassian Veyne: inherited enemy now made personal through public defiance.
