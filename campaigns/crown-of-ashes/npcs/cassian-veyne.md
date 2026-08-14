@@ -27,26 +27,27 @@ A tall nobleman in his early thirties, severe in mourning black, carrying a swor
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 8 / 100 — Elowen is a Vale, and her brother has now publicly opposed him.
 - Affection: 15 / 100 — no personal relationship; inherited hostility dominates first impressions.
-- Respect: 25 / 100 — knows little of Elowen beyond her status and house.
+- Respect: 26 / 100 — she remained composed while her family quarrelled around her, a minor observation rather than earned regard.
 - Loyalty: 0 / 100 — none.
 - Fear: 5 / 100 — does not presently regard Elowen personally as dangerous.
 - Suspicion: 63 / 100 — Rowan's declaration confirms House Vale as active opposition.
 - Resentment: 68 / 100 — the old blood-feud has been publicly renewed by Rowan's challenge.
 
 ## Relationship to player
-Hostile. Elowen remains part of an enemy house and personally unknown to Cassian, but he has now distinctly noticed her after Rowan was shoved into her and she looked across the aisle at him. No personal judgement beyond that observation has yet been earned.
+Hostile. Elowen remains part of an enemy house and personally unknown to Cassian. He has now observed that Rowan redirects anger onto her and that she occupies a subordinate place within the Vale family dynamic. This is information to him, not yet sympathy or attachment.
 
 ## History with player
 - No direct personal history established before King Edric II's funeral.
 - Their houses carry an unresolved blood-feud predating their first meaningful interaction.
 - Elowen was present when her brother Rowan publicly renounced Cassian's claim.
 - After Rowan was shoved back into the Vale benches, Elowen and Cassian briefly met one another's gaze across the cathedral before she looked away.
+- Cassian subsequently witnessed Rowan grip Elowen roughly and blame her while venting frustration from Garrick's rebuke.
 
 ## Knowledge
 - Knows Elowen is Lord Garrick Vale's daughter by her position among the Vales and the public confrontation.
 - Knows House Vale's political weight and the history of the Vale-Veyne feud.
 - Has witnessed Rowan Vale publicly declare House Vale's refusal to kneel to him.
-- Has now noticed Elowen personally but has no basis to infer her private views from a brief glance.
+- Has observed Rowan treating Elowen as a safe target for displaced anger after Garrick rebuked him.
 - Does not know Elowen's private feelings, loyalties beyond ordinary dynastic expectation, or personal ambitions.
 
 ## Relationships with other NPCs
