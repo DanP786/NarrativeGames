@@ -8,7 +8,7 @@ _None._
 
 ## Novice
 - Courtly Etiquette (0 ticks) — knows forms, precedence, manners, and expected noble conduct.
-- Observation (0 ticks) — quiet habits make her attentive to visible details and behaviour; does not automatically reveal political meaning or hidden thoughts.
+- Observation (1 tick) — quiet habits make her attentive to visible details and behaviour; does not automatically reveal political meaning or hidden thoughts.
 - Noble Household Knowledge (0 ticks) — understands the rhythms, roles, customs, and presentation of aristocratic households.
 
 ## Notable Untrained
