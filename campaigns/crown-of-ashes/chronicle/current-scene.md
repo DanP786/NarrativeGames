@@ -3,7 +3,7 @@
 - Location: House Vale's Veyrhold residence — Garrick's solar
 - Time: early evening, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Several hours have passed since the cathedral bloodshed. Rowan's body is being prepared for return to Vale lands. Elowen remains in shock, but Garrick has summoned his only surviving child because the succession crisis and House Vale's own dynastic crisis cannot wait.
+- Situation: Several hours have passed since the cathedral bloodshed. Rowan's body is being prepared for return to Vale lands. Elowen remains in shock, but Garrick has summoned his only surviving child because the succession crisis and House Vale's own dynastic crisis cannot wait. A messenger from Cassian Veyne has now arrived.
 
 ## Recent beats
 - At King Edric II's funeral, Cassian Veyne publicly challenged Prince Alaric's succession. Rowan Vale publicly renounced Cassian, destroying Garrick Vale's attempted neutrality.
@@ -18,3 +18,4 @@
 - Several hours later, as sunset approaches and the capital's factions begin maneuvering after Alaric's death, Garrick summons Elowen to his solar. He has maps and correspondence spread before him and tells her that Rowan's death has changed what House Vale requires of her.
 - Elowen responds only with a questioning look. Garrick tells her that, unless and until he produces another legitimate son, she is now his heir under House Vale's succession. He makes clear this is not ceremonial: her marriage has become a dynastic matter because any husband could gain influence over Vale lands, and the political crisis means rival houses will immediately recognize her new value.
 - Elowen visibly flinches when Garrick names Cassian Veyne, then schools her expression, lowers her gaze, and tells her father, 'I will do as you require, Father.' Garrick reads this as the dutiful obedience he has always expected from her. He tells her that duty now requires more than obedience: as his provisional heir, she must begin learning the politics and governance from which she was previously excluded.
+- When Cassian's messenger is announced, Elowen grips her skirt and remains silent while Garrick questions the steward. The message requests a formal parley between Cassian and Garrick the following morning under neutral clerical protection, ostensibly to discuss the succession, the cathedral dead, and terms preventing immediate civil war. Garrick recognizes the speed of the approach as evidence that Cassian has already begun testing House Vale after Rowan's death. Elowen does not yet understand the implication and waits while the men speak.
