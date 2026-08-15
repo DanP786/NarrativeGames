@@ -28,7 +28,7 @@ Elowen's father and head of House Vale. A controlled nobleman who dislikes givin
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 70 / 100 — Elowen remains dutiful and is engaging seriously with the political instruction he gives her.
 - Affection: 66 / 100 — nearly losing Elowen immediately after Rowan's death intensifies his paternal attachment, though it remains entangled with dynastic expectations.
-- Respect: 46 / 100 — Elowen has now independently reasoned from Oren's marriage offer to the danger House Vale would face if Oren lost the crown, demonstrating that she is beginning to think beyond the immediate bargain.
+- Respect: 48 / 100 — Elowen is increasingly asking relevant strategic questions about how her marriage affects alliances and why Cassian has inserted it into treaty terms.
 - Loyalty: 80 / 100 — her explicit acceptance of duty confirms the family loyalty he expects.
 - Suspicion: 10 / 100 — he does not presently expect her to work against him.
 - Resentment toward Cassian Veyne: 95 / 100 — Cassian killed Rowan and held Elowen as leverage during the withdrawal.
@@ -41,8 +41,8 @@ Friendly. Garrick regards Elowen as his loved and dutiful daughter, now also his
 - At King Edric II's funeral, Garrick watched Elowen become separated during the melee, saw Rowan die after charging Cassian, and was forced to leave Elowen temporarily within Cassian's lines while the armed withdrawal was negotiated.
 - Hours after Rowan's death, Garrick told Elowen she is now his heir unless he later produces another legitimate son.
 - Elowen told Garrick she would do as he required, confirming her dynastic loyalty.
-- During her first direct political lesson, Elowen recognized that Oren's proposed marriage sought not only Vale resources but the public legitimacy of Vale support. She independently noticed that accepting Adrian during the seven-day restraint would conflict with Garrick's agreement with Cassian.
-- Elowen then identified the deeper danger in Oren's proposal: if Oren loses the crown, marriage to his brother could bind House Vale to the losing faction and expose both Elowen and Vale to the victor's retaliation.
+- During her first direct political lessons, Elowen recognized the legitimizing value of Vale support, the conflict between Oren's marriage offer and the Veyne restraint, and the danger of marrying into a faction that might lose the succession.
+- When Cassian later offered to recognize Elowen's succession in exchange for extended neutrality and prior notice of marriage alliances, Elowen immediately questioned why her marriage concerned him and whether he was making comparable bargains elsewhere.
 
 ## Knowledge
 - Knows House Vale's political calculations and the history behind its feud with House Veyne.
