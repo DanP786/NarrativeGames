@@ -3,7 +3,7 @@
 - Location: House Vale's Veyrhold residence — Elowen's chamber
 - Time: early afternoon, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: House Vale has withdrawn from the Cathedral of the Nine Bells after the fatal succession melee. Rowan's body has been brought back to the Vale residence. Elowen is physically unharmed but deeply shocked, blood still drying on her clothes and skin.
+- Situation: House Vale has withdrawn from the Cathedral of the Nine Bells after the fatal succession melee. Rowan's body has been brought back to the Vale residence. Elowen is physically unharmed but in acute shock after witnessing his death.
 
 ## Recent beats
 - At King Edric II's funeral, Cassian Veyne publicly challenged Prince Alaric's succession. Rowan Vale publicly renounced Cassian, destroying Garrick Vale's attempted neutrality.
@@ -13,4 +13,5 @@
 - Prince Alaric was subsequently killed. The fighting halted in a tense stalemate, and Cassian ordered an armed withdrawal while retaining Elowen until his position was secure.
 - Elowen remained beside Rowan's body, shaking and then silently crying. She understood that Rowan's death leaves her as Garrick's only surviving child and feared he might seek a young bride to produce another male heir.
 - Garrick reclaimed Elowen and Rowan's body. Elowen obeyed without speaking, walking blankly beside her father as House Vale left the cathedral.
-- At the Vale residence, Rowan's corpse was taken to be washed and prepared. Garrick ordered Elowen taken to her chamber and instructed the household to summon a physician and her maid. Elowen remains silent and compliant, staring blankly as servants begin dealing with the blood on her.
+- At the Vale residence, Rowan's corpse was taken to be washed and prepared. Elowen was washed and changed into a clean dress in her chamber.
+- Sitting on her bed afterward, Elowen remains haunted by sensory memories of the killing despite being physically clean: Rowan's blood on her hands, his face as he died, and his weight against her. Her shock persists in silence.
