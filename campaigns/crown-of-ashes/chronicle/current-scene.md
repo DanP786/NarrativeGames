@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: House Vale's Veyrhold residence — great hall
-- Time: evening, 26th of Harvestwane, Year 312 of the Crown
+- Location: Palace of the White Hart, Veyrhold — west gallery
+- Time: afternoon, 29th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick has publicly proclaimed Elowen his lawful heir. After several Vale lords challenge her sex, demeanor, and suitability to rule, Garrick forces the issue into an open loyalty test. No lord names a rival male claimant, and Lord Edric Harrow kneels first to acknowledge Elowen's succession.
+- Situation: Three days after Elowen's public proclamation as Vale heir, Garrick brings her to a large palace council convened to address unrest, food supply, and rival armed followings in Veyrhold. Both Oren and Cassian attend. During a recess, Oren deliberately approaches Elowen while Garrick is occupied several paces away, testing the newly acknowledged heiress directly rather than speaking only through her father.
 
 ## Recent beats
-- Garrick names Elowen his lawful heir before Vale lords gathered in Veyrhold. Elowen stands beside him rather than playing piano for the gathering as she ordinarily would have done.
-- Lord Edric Harrow raises the existence of male Vale cousins. Another lord argues Elowen lacks the demeanor to govern; a third suggests she should marry a capable man who could effectively manage House Vale through her.
-- Garrick states that Elowen's present demeanor is the result of his own choice to educate Rowan for rule and Elowen for ornament. He declares that Elowen's future husband will marry the heir of Vale, not replace her, and demands that anyone preferring a distant male cousin state the rival claim openly.
-- No lord does. Harrow kneels and swears to acknowledge and uphold Elowen's succession.
-- Elowen receives Harrow's oath by bowing her head and quietly saying, 'I will do my best to earn your loyalty.' Her response is humble rather than commanding and does not mimic Garrick's authority. Harrow is briefly surprised but accepts it. The wording also implicitly distinguishes the compelled legal oath he has just given from genuine loyalty, which Elowen says she intends to earn.
-- The remaining Vale lords begin kneeling in turn. Elowen's first public appearance as heir therefore ends without an open succession challenge, but the room contains clear reservations about her sex, temperament, and inexperience.
+- Garrick and Cassian sealed a thirty-day restraint including Veyne recognition of Elowen's succession, Vale neutrality, and reciprocal advance notice of major marriage alliances.
+- Garrick publicly named Elowen his lawful heir. Several Vale lords questioned her sex, demeanor, and suitability, but none openly named a rival male claimant when Garrick challenged them to do so. They swore to uphold her succession.
+- Elowen received Lord Harrow's first oath by saying she would do her best to earn his loyalty, distinguishing formal obedience from genuine loyalty.
+- Over the following three days, news of Elowen's proclamation spreads through Veyrhold. She continues accompanying Garrick and is increasingly treated as a political person rather than ornamental daughter.
+- On 29 Harvestwane, a broad council gathers at the Palace of the White Hart to address practical instability in the capital. Oren and Cassian both attend under separate armed entourages, with clerical and civic intermediaries keeping the proceedings from becoming another armed confrontation.
+- During a recess Garrick is drawn into conversation with two Vale bannermen. Oren approaches Elowen directly. He congratulates her on being formally named heir, says he understands the transition must be abrupt, and asks what she herself thinks House Vale requires from whichever man eventually wears the Crown. The question is courteous but politically pointed: Oren is testing Elowen's developing judgment and whether she can be cultivated independently of Garrick.
