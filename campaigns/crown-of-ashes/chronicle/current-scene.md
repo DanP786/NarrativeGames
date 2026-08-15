@@ -1,13 +1,15 @@
 # Current scene
 
 - Location: Palace of the White Hart, Veyrhold — council chamber
-- Time: afternoon, 29th of Harvestwane, Year 312 of the Crown
-- Scene significance: routine
-- Situation: Prince Oren has tested Elowen's political judgment during a recess. Garrick has debriefed her and they return to the council.
+- Time: late afternoon, 29th of Harvestwane, Year 312 of the Crown
+- Scene significance: charged
+- Situation: The council has resumed. Elowen listens beside Garrick as a dispute over grain convoys becomes a proxy struggle between Oren and Cassian for practical authority in Veyrhold.
 
 ## Recent beats
-- Oren asks Elowen what House Vale requires from the eventual king. Elowen answers peace and cautiously says Vale might lean toward whoever can secure peace without further bloodshed.
-- Oren probes whether Elowen could accept Cassian as king despite Rowan's death. Elowen remains noncommittal and reports the exchange to Garrick afterward.
-- Garrick explains that her noncommittal response was appropriate because she lacked authority to pledge Vale, though she did reveal that Garrick will not sacrifice her merely to avenge Rowan. He treats this as a manageable disclosure and tells her that next time she should try to learn more from the questioner than she gives away.
-- Elowen replies, 'Yes, Father,' with her eyes lowered and is visibly disappointed in herself. Garrick recognizes the old deferential response and tells her she has misunderstood the lesson if she believes he is rebuking her: political skill requires practice, and her task is to notice what she gave away rather than punish herself for not already knowing what she was never taught.
-- Elowen and Garrick return to the council chamber. The afternoon session resumes with disputes over grain convoys and armed escorts; Elowen is positioned beside Garrick to observe rather than perform.
+- Oren tested Elowen's political judgment during recess. Garrick later explained that her noncommittal answers were appropriate, though she gave away some information about his unwillingness to sacrifice her for vengeance.
+- Elowen returns to council determined to listen rather than punish herself for inexperience.
+- Master Pell, speaking for Veyrhold's civic granaries, reports that two grain convoys due from the eastern road have failed to arrive and the capital has roughly eleven days of grain at normal rationing. He asks for an armed escort to secure the next convoy.
+- Prince Oren immediately offers royal household troops to escort the grain, presenting the move as protection of the capital.
+- Cassian objects that allowing one claimant's troops to control the grain road would effectively let that claimant control access to the city's food. He proposes a mixed escort drawn from neutral houses and the city watch instead.
+- Oren counters that mixed command risks delay and confusion while citizens go hungry. Cassian replies that hunger should not be used to place Veyrhold's food supply under a claimant's private soldiers.
+- Elowen can now recognize that the dispute is not merely logistical: whichever faction visibly brings grain into Veyrhold gains public legitimacy and leverage over the city. Garrick remains silent, watching both claimants rather than committing Vale troops.
