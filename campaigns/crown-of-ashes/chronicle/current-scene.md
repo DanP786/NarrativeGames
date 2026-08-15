@@ -1,14 +1,13 @@
 # Current scene
 
-- Location: Palace of the White Hart, Veyrhold — west gallery
+- Location: Palace of the White Hart, Veyrhold — council chamber
 - Time: afternoon, 29th of Harvestwane, Year 312 of the Crown
-- Scene significance: charged
-- Situation: During a palace council recess, Prince Oren has tested Elowen's political judgment directly. Garrick has returned and is debriefing her before the council reconvenes.
+- Scene significance: routine
+- Situation: Prince Oren has tested Elowen's political judgment during a recess. Garrick has debriefed her and they return to the council.
 
 ## Recent beats
-- Oren asks Elowen what House Vale requires from the eventual king. Elowen answers peace, then cautiously says Vale might lean toward whoever can secure peace without further bloodshed.
-- Oren asks whether she would apply that standard equally to him and Cassian. Elowen says Garrick would not risk her for justice for Rowan.
-- When Oren asks whether Elowen herself could live with Cassian crowned king if that were the price of peace, she visibly struggles and answers only that Veyne and Vale have been rivals for generations.
-- Oren observes that inherited feuds end either through settlement or continued burial of children and remarks that Elowen is more difficult to recruit than her silence initially suggests.
-- Elowen reports to Garrick that Oren questioned why House Vale would consider supporting House Veyne given their past and present history. Garrick identifies Oren's purpose as an attempt to make Vale grief and the ancestral feud a political barrier against Cassian.
-- When Garrick asks what Elowen told Oren, she says she was afraid she was very noncommittal. Garrick tells her that in this context noncommittal was correct: she had no authority to pledge Vale and denying Oren certainty preserves House Vale's leverage. He cautions, however, that she did reveal one meaningful principle—that Garrick will not sacrifice her merely to avenge Rowan—which Oren can now use when judging Vale's willingness to deal with Cassian. Garrick treats this as a manageable disclosure rather than a serious mistake and continues Elowen's instruction as they return to council.
+- Oren asks Elowen what House Vale requires from the eventual king. Elowen answers peace and cautiously says Vale might lean toward whoever can secure peace without further bloodshed.
+- Oren probes whether Elowen could accept Cassian as king despite Rowan's death. Elowen remains noncommittal and reports the exchange to Garrick afterward.
+- Garrick explains that her noncommittal response was appropriate because she lacked authority to pledge Vale, though she did reveal that Garrick will not sacrifice her merely to avenge Rowan. He treats this as a manageable disclosure and tells her that next time she should try to learn more from the questioner than she gives away.
+- Elowen replies, 'Yes, Father,' with her eyes lowered and is visibly disappointed in herself. Garrick recognizes the old deferential response and tells her she has misunderstood the lesson if she believes he is rebuking her: political skill requires practice, and her task is to notice what she gave away rather than punish herself for not already knowing what she was never taught.
+- Elowen and Garrick return to the council chamber. The afternoon session resumes with disputes over grain convoys and armed escorts; Elowen is positioned beside Garrick to observe rather than perform.
