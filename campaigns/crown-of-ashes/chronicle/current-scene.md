@@ -1,19 +1,15 @@
 # Current scene
 
-- Location: Hall of Petitions, Veyrhold
-- Time: afternoon, 19th of Harvestwane, Year 312 of the Crown
+- Location: House Vale's Veyrhold residence — Garrick's solar
+- Time: evening, 19th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Prince Oren, a surviving royal cousin, has entered Veyrhold and summoned the great houses to hear his claim. Garrick brings Elowen as part of her new political education. Cassian Veyne is present as Oren's principal rival claimant. House Vale is publicly neutral under its new seven-day restraint agreement with Veyne.
+- Situation: After Prince Oren's afternoon presentation to the great houses, Garrick and Elowen return to the Vale residence. Oren's faction has moved quickly: a private letter arrives proposing marriage between Lady Elowen Vale and Oren's younger brother, Lord Adrian, in exchange for a formal alliance and guarantees concerning Vale inheritance. Garrick uses the proposal as part of Elowen's political education rather than accepting immediately.
 
 ## Recent beats
-- At King Edric II's funeral, Cassian Veyne publicly challenged Prince Alaric's succession. Rowan Vale publicly renounced Cassian, destroying Garrick Vale's attempted neutrality.
-- The confrontation became an armed melee. Rowan used Elowen as a shield; she broke free, called him a coward, and became separated from her family.
-- Cassian killed a royal guardsman advancing through Elowen, pulled her into the Veyne position, and kept her there as both protection and political leverage.
-- Rowan charged Cassian despite Garrick ordering him to stop. Cassian ran Rowan through in front of Elowen. Rowan died in her arms.
-- Prince Alaric was subsequently killed. The fighting halted in a tense stalemate.
+- Rowan Vale died in the cathedral melee after charging Cassian Veyne, who killed him in front of Elowen. Prince Alaric was also killed, leaving the royal succession open.
 - Garrick told Elowen that Rowan's death leaves her his provisional heir and that she must begin learning politics and governance.
-- At the following morning's parley, Garrick and Cassian agreed to seven days of mutual restraint in which neither house attacks the other and House Vale declares for no claimant. They also agreed on factual wording concerning Elowen's presence in Veyne lines during the cathedral fighting.
-- During the parley, Elowen quietly confirmed that Cassian never threatened her with a blade, despite having strong cause to hate him. Cassian registered the factual honesty without treating it as sympathy.
-- Prince Oren arrived in Veyrhold with armed supporters and summoned the great houses to hear his claim.
-- Elowen attends the afternoon assembly with Garrick. Oren presents himself as a stabilizing royal alternative to Cassian, emphasizing unbroken royal blood and condemning the cathedral violence without directly accusing Cassian of Alaric's death.
-- Oren publicly addresses House Vale's loss and then singles out Elowen, offering formal condolences for Rowan and referring to her as Garrick's 'surviving child.' The phrasing makes clear Oren's faction is also examining the consequences of Rowan's death. Garrick remains guarded; Cassian watches the exchange from across the hall.
+- At a parley, Garrick and Cassian agreed to seven days of mutual restraint in which neither house attacks the other and House Vale declares for no claimant.
+- During that parley Elowen quietly confirmed that Cassian never threatened her with a blade, despite having strong personal cause to hate him.
+- Prince Oren entered Veyrhold and publicly asserted a rival claim to the throne. At his assembly he presented himself as a stabilizing royal alternative to Cassian and deliberately acknowledged Elowen as Garrick's surviving child, signaling awareness of the Vale succession problem.
+- That evening, Oren sends Garrick a private proposal: Elowen would marry Oren's younger brother, Lord Adrian, and Oren would formally recognize Elowen's right to inherit House Vale and guarantee that Vale lands remain under her line rather than being absorbed into the royal demesne. In return Garrick would eventually be expected to support Oren's claim. The proposal is not yet an enforceable betrothal and conflicts with Garrick's seven-day promise to declare for no claimant if accepted immediately.
+- Garrick shows Elowen the letter rather than concealing it. He explains that Oren's public condolences were preparation for this move and asks Elowen what she thinks Oren is actually buying with the proposed marriage, testing whether she can begin applying what she learned during the day's negotiations.
