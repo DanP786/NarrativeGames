@@ -1,9 +1,9 @@
 # Current scene
 
-- Location: House Vale's Veyrhold residence — Elowen's chamber
-- Time: early afternoon, 18th of Harvestwane, Year 312 of the Crown
+- Location: House Vale's Veyrhold residence — Garrick's solar
+- Time: early evening, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: House Vale has withdrawn from the Cathedral of the Nine Bells after the fatal succession melee. Rowan's body has been brought back to the Vale residence. Elowen is physically unharmed but in acute shock after witnessing his death.
+- Situation: Several hours have passed since the cathedral bloodshed. Rowan's body is being prepared for return to Vale lands. Elowen remains in shock, but Garrick has summoned his only surviving child because the succession crisis and House Vale's own dynastic crisis cannot wait.
 
 ## Recent beats
 - At King Edric II's funeral, Cassian Veyne publicly challenged Prince Alaric's succession. Rowan Vale publicly renounced Cassian, destroying Garrick Vale's attempted neutrality.
@@ -14,4 +14,5 @@
 - Elowen remained beside Rowan's body, shaking and then silently crying. She understood that Rowan's death leaves her as Garrick's only surviving child and feared he might seek a young bride to produce another male heir.
 - Garrick reclaimed Elowen and Rowan's body. Elowen obeyed without speaking, walking blankly beside her father as House Vale left the cathedral.
 - At the Vale residence, Rowan's corpse was taken to be washed and prepared. Elowen was washed and changed into a clean dress in her chamber.
-- Sitting on her bed afterward, Elowen remains haunted by sensory memories of the killing despite being physically clean: Rowan's blood on her hands, his face as he died, and his weight against her. Her shock persists in silence.
+- Sitting on her bed afterward, Elowen remained haunted by sensory memories of the killing despite being physically clean: Rowan's blood on her hands, his face as he died, and his weight against her.
+- Several hours later, as sunset approaches and the capital's factions begin maneuvering after Alaric's death, Garrick summons Elowen to his solar. He has maps and correspondence spread before him and tells her that Rowan's death has changed what House Vale requires of her.
