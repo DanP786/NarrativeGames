@@ -1,9 +1,9 @@
 # Current scene
 
 - Location: Chapter House of Saint Orra, Veyrhold — neutral clerical ground
-- Time: morning, 19th of Harvestwane, Year 312 of the Crown
+- Time: late morning, 19th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The morning after the Cathedral of the Nine Bells massacre, Garrick Vale attends Cassian Veyne's requested parley under clerical protection. Elowen accompanies him as ordered, beginning her political education in the presence of the man who killed Rowan.
+- Situation: Garrick Vale and Cassian Veyne have reached a provisional seven-day restraint agreement when an unexpected message interrupts the parley: Prince Oren, a surviving royal cousin and newly declared claimant, has entered Veyrhold under armed escort and has summoned the great houses to hear his claim this afternoon.
 
 ## Recent beats
 - At King Edric II's funeral, Cassian Veyne publicly challenged Prince Alaric's succession. Rowan Vale publicly renounced Cassian, destroying Garrick Vale's attempted neutrality.
@@ -11,14 +11,9 @@
 - Cassian killed a royal guardsman advancing through Elowen, pulled her into the Veyne position, and kept her there as both protection and political leverage.
 - Rowan charged Cassian despite Garrick ordering him to stop. Cassian ran Rowan through in front of Elowen. Rowan died in her arms.
 - Prince Alaric was subsequently killed. The fighting halted in a tense stalemate, and Cassian ordered an armed withdrawal while retaining Elowen until his position was secure.
-- Elowen remained beside Rowan's body, shaking and then silently crying. She understood that Rowan's death leaves her as Garrick's only surviving child and feared he might seek a young bride to produce another male heir.
-- Garrick reclaimed Elowen and Rowan's body. At the Vale residence, Rowan's corpse was prepared while Elowen remained haunted by sensory memories of his death.
-- Garrick told Elowen that, unless and until he produces another legitimate son, she is now his heir. He told her her marriage is now a dynastic matter and that she must begin learning politics and governance.
-- Cassian sent a message requesting formal parley under neutral clerical protection. Garrick interpreted the speed as Cassian testing House Vale after Rowan's death and ordered Elowen to attend so she could observe and learn.
-- Elowen suggested distant male Vale cousins might inherit instead. Garrick rejected bypassing her as an invitation to collateral branches to contest House Vale and explained that removing her from succession would not remove her political value.
-- On the morning of 19 Harvestwane, Elowen is dressed with the immaculate, doll-like beauty she was raised to present and follows Garrick into the Chapter House of Saint Orra. Cassian is already present in mourning black with two retainers. He formally acknowledges Garrick, then deliberately acknowledges Elowen by name. The parley begins under the supervision of neutral clergy.
-- Elowen tries to concentrate on the political exchange, but her lifelong training in feminine deference repeatedly draws her gaze down and discourages direct scrutiny. While forcing herself to observe, she privately notices that Cassian is handsome and immediately averts her eyes. She says nothing and gives no deliberate indication of the thought.
-- When Cassian observes that Rowan's death is a dynastic loss, Elowen becomes visibly nervous, shifting in her chair and breathing more heavily while keeping her eyes averted. Cassian can observe the physical unease but cannot know its private cause. He uses the moment to probe Garrick indirectly, asking whether House Vale's succession is secure. Garrick refuses to disclose Elowen's new status and answers that Vale succession is House Vale's concern.
-- Still frightened by the previous day's sudden violence, Elowen monitors the room as well as the negotiation. Cassian proposes seven days of mutual restraint in exchange for House Vale declaring for no rival claimant.
-- Cassian raises Elowen's role in the cathedral bloodshed, warning that conflicting rumours could become pretexts for renewed conflict. He proposes both houses publicly state that Elowen became separated, was protected within Veyne lines, and was returned unharmed. Garrick accuses him of using her as leverage; Cassian admits the leverage but notes he never put a blade to her.
-- With Garrick's permission, Elowen quietly says, 'Lord Veyne is right,' while averting her eyes, confirming that Cassian did not threaten her with a weapon. Cassian does not exploit her statement to claim innocence for Rowan's death or deny having used her politically. Garrick accepts her factual answer and negotiates wording that will preserve Elowen's reputation without absolving Cassian of holding her during the withdrawal. Cassian agrees to the distinction.
+- Garrick later told Elowen that Rowan's death leaves her his provisional heir and that she must begin learning politics and governance.
+- Cassian requested a formal parley. Garrick brought Elowen so she could observe and learn.
+- During the parley Cassian proposed seven days of mutual restraint in exchange for House Vale declaring for no rival claimant. He also proposed a joint factual account of Elowen's separation during the cathedral fighting to prevent hostile rumours becoming a pretext for renewed bloodshed.
+- With Garrick's permission, Elowen quietly confirmed that Cassian never threatened her with a blade. Cassian did not exploit the answer beyond its factual scope.
+- Garrick and Cassian settle on provisional terms: seven days in which neither house attacks the other and House Vale publicly declares for no claimant; both houses will use agreed wording concerning Elowen's presence in the Veyne line.
+- Before the parley can formally conclude, a clerical messenger arrives with news that Prince Oren, a surviving royal cousin, has entered Veyrhold with armed supporters and publicly asserted a claim to the vacant throne. He has summoned the great houses to the Hall of Petitions that afternoon. The development immediately increases the value of Vale neutrality and gives Cassian a living rival around whom his enemies might coalesce.
