@@ -1,9 +1,9 @@
 # Lady Elowen Vale
 
 - Age: 23
-- Status: Noblewoman of House Vale
-- Current location: Cathedral of the Nine Bells, Veyrhold
-- Current state: Attending King Edric II's funeral with her family as the succession crisis begins.
+- Status: Noblewoman of House Vale; Lord Garrick Vale's surviving child after Rowan's death
+- Current location: Cathedral of the Nine Bells, Veyrhold — within the Veyne position
+- Current state: Blood-soaked, shaking, and in shock beside Rowan's corpse after witnessing Cassian Veyne kill him.
 
 ## Background
 Elowen was raised to be show rather than substance: beautiful manners, music, composure, and the quiet accomplishments expected of a daughter displayed by an old house. She is an accomplished singer and pianist. She rarely speaks, and her family did not educate her to wield politics for herself. Quietness has made her observant, but noticing a thing does not mean she understands its political meaning.
@@ -21,3 +21,8 @@ Quiet and observant. Accustomed to watching rather than directing a room. Not se
 - No combat training.
 - Little practical political education.
 - Uncomfortable persuading others or speaking publicly.
+
+## Immediate personal circumstances
+- Rowan, Elowen's elder brother and House Vale's principal heir, was killed by Cassian Veyne after charging him during the cathedral melee.
+- Elowen did not like Rowan much and knew him to be capable of cruelty, but she still regards him as family and grieves his death.
+- With Rowan dead, Elowen understands herself to be Garrick's only surviving child and fears her father may seek a young bride in order to produce a new male heir rather than leave House Vale's future dependent on a daughter.
