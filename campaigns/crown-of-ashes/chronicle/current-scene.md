@@ -1,9 +1,9 @@
 # Current scene
 
-- Location: Cathedral of the Nine Bells, Veyrhold — north side aisle among the Veyne position
+- Location: Cathedral of the Nine Bells, Veyrhold — north side aisle at the boundary between Vale and Veyne positions
 - Time: near midday, 18th of Harvestwane, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Prince Alaric has been killed in the cathedral melee. The fighting has halted in a tense armed stalemate. Rowan Vale is dead, and Elowen remains blood-soaked and in shock within Cassian Veyne's position, separated from Lord Garrick Vale.
+- Situation: Prince Alaric has been killed in the cathedral melee. The fighting has halted in a tense armed stalemate. Rowan Vale is dead. House Vale has come to retrieve his body, and Elowen is being returned to Lord Garrick Vale after serving as leverage during the withdrawal.
 
 ## Beats
 - Elowen stays quietly in the background with House Vale, drawing no attention to herself and watching the gathering rather than attempting to participate.
@@ -26,3 +26,4 @@
 - Elowen looks across the nave at Garrick but says nothing. Cassian addresses the whole cathedral. He refuses to proclaim himself king over fresh corpses, orders the cathedral doors opened and proposes that every house withdraw its wounded and dead without further fighting until sunset. He declares that Alaric's death has not automatically crowned anyone and that the succession will be settled afterward. He pointedly retains Elowen on the Veyne side, telling Garrick that Lady Elowen remains with him until the armed withdrawal is complete, using her as leverage against a Vale attack.
 - As the withdrawal begins, Elowen remains fixed on Rowan's corpse and shakes visibly in shock. Cassian notices she is barely responsive. He orders his men not to touch Rowan's body and tells Elowen she may remain beside her brother until House Vale comes to collect him, while still refusing to return her across the armed lines before his own withdrawal is secured.
 - Tears run silently down Elowen's face as she stares at Rowan. Her grief is complicated by his cruelty and by the dynastic consequence she understands plainly: House Vale's male heir is dead, leaving only Elowen as Garrick's surviving child. She fears Garrick may seek a young bride and another son rather than allow the succession to rest on a daughter. She does not voice these thoughts.
+- When Garrick tells Elowen to come to him, her tears have stopped. She steps toward her father with a blank, shocked expression. Garrick receives her physically, checks her for wounds, and learns from the visible blood and her condition that she appears uninjured but deeply shocked. He orders Vale men to take Rowan's body and prepares to remove both his surviving child and dead heir from the cathedral.
