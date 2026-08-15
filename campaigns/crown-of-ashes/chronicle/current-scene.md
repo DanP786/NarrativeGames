@@ -3,13 +3,13 @@
 - Location: House Vale's Veyrhold residence — great hall
 - Time: evening, 26th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick has summoned the Vale lords presently in Veyrhold and publicly proclaimed Elowen his lawful heir. Elowen stands beside him in the place where she would normally have been ornamental entertainment at the piano. Most assembled Vale vassals accept the proclamation, but Lord Edric Harrow openly tests the succession by raising the existence of male Vale cousins before taking his oath.
+- Situation: Garrick has publicly proclaimed Elowen his lawful heir. Several Vale lords immediately test the succession, arguing that male cousins are available, that Elowen lacks the demeanor to rule, and that she should instead be married to a capable man who could govern Vale through her. Garrick forcefully rejects the attempt to convert his heir into a conduit for another man's rule.
 
 ## Recent beats
 - Garrick and Cassian sealed the thirty-day restraint at Saint Orra, including Veyne recognition of Elowen as Vale's heir and reciprocal advance notice of major marriage alliances.
-- Garrick told Elowen he will use the month to proclaim her heir, secure bannermen's oaths, strengthen Vale defenses, investigate marriage possibilities, and judge which claimant is least dangerous.
-- Garrick clarified that judging Cassian as a claimant means possible political support, not marriage; no Cassian-Elowen marriage has been proposed.
-- On the evening of 26 Harvestwane, Garrick summons Vale lords in Veyrhold to his residence. Elowen stands beside him rather than playing piano for the gathering as she ordinarily would have done.
-- Garrick publicly names Lady Elowen Vale his lawful heir and future holder of Vale lands and rights should she survive him, and requires the assembled vassals to acknowledge her accordingly.
-- Most lords respond with controlled acceptance, but the mood reveals varying degrees of surprise and discomfort at swearing future loyalty to a young woman raised for an ornamental role.
-- Lord Edric Harrow, an older Vale bannerman, raises the existence of male cousins in the wider Vale bloodline and asks Garrick whether bypassing them for Elowen is settled law or merely Garrick's present preference. The question is formally phrased but publicly tests Elowen's legitimacy before the oaths are complete. Garrick has not yet answered.
+- On the evening of 26 Harvestwane, Garrick summons Vale lords in Veyrhold and names Elowen his lawful heir. Elowen stands beside him rather than playing piano for the gathering as she ordinarily would have done.
+- Lord Edric Harrow raises the existence of male Vale cousins and questions whether succession through Elowen is preferable to a male branch.
+- Elowen averts her gaze and clasps her hands, reverting visibly to the deferential demeanor in which she was raised.
+- Another Vale lord argues that Elowen lacks the demeanor to govern a great house. A third suggests she should be married to a sufficiently capable man who could effectively manage House Vale through the marriage.
+- Garrick answers that Elowen's present lack of governing demeanor is the product of his own decision to educate Rowan for rule and Elowen for ornament, and he refuses to use that upbringing as evidence that she is incapable of learning. He states that any future husband will marry the heir of Vale, not replace her, and that no bannerman has authority to select a man to rule his house through his daughter.
+- Garrick turns the challenge into a loyalty test: those who believe a distant male cousin has a better right than Garrick's acknowledged daughter are invited to state it plainly before witnesses rather than hide behind concern for Elowen's temperament. The room is tense and the oaths have not yet resumed.
