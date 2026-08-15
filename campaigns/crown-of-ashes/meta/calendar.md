@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 18th day of Harvestwane, Year 312 of the Crown
+- Date: 19th day of Harvestwane, Year 312 of the Crown
 - Season: early autumn
-- Time of day: early evening
-- Current location: Veyrhold, royal capital — House Vale's city residence
-- Notable upcoming: The armed truce declared after Prince Alaric's death is reaching sunset; the royal succession remains unsettled. Rowan Vale is dead, leaving House Vale's succession uncertain.
+- Time of day: morning
+- Current location: Veyrhold, royal capital — Chapter House of Saint Orra
+- Notable upcoming: The royal succession remains unsettled after Prince Alaric's death. Rowan Vale is dead, leaving Elowen as Lord Garrick Vale's provisional heir. Garrick Vale and Cassian Veyne are meeting under clerical protection to discuss the cathedral dead, the succession crisis, and prevention of immediate civil war.
