@@ -3,15 +3,14 @@
 - Location: Chapter House of Saint Orra, Veyrhold
 - Time: midday, 26th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The original seven-day Vale-Veyne restraint is due to expire at sunset. Cassian has accepted Garrick's reciprocal marriage-notice counterproposal in principle but requested that the thirty-day extension be sealed face-to-face at Saint Orra. Garrick brings Elowen because the agreement formally recognizes her as Vale's heir.
+- Situation: Garrick and Cassian have sealed a thirty-day extension of Vale-Veyne restraint. Cassian has departed. Elowen asks Garrick what comes next, and he begins laying out House Vale's strategy for the month.
 
 ## Recent beats
 - Rowan Vale died in the cathedral melee after charging Cassian Veyne, who killed him in front of Elowen. Prince Alaric also died, leaving the royal succession open.
 - Garrick told Elowen that Rowan's death leaves her his provisional heir and began educating her in politics and governance.
-- Garrick and Cassian agreed to seven days of mutual restraint in which neither house attacks the other and House Vale declares for no claimant.
 - Prince Oren asserted a rival claim and offered a marriage between Elowen and his younger brother Adrian in exchange for an eventual Vale alliance and guarantees concerning Elowen's inheritance.
-- Cassian offered a thirty-day extension: recognition of Elowen's succession in exchange for continued Vale neutrality and prior notice before Elowen is bound by marriage to either claimant's immediate family.
-- Garrick countered by requiring reciprocal notice if Cassian enters a marriage compact capable of materially changing the balance between the houses. Cassian accepted the reciprocity in principle.
-- On 26 Harvestwane Cassian requests a face-to-face sealing at Saint Orra before the original restraint expires. Garrick brings Elowen because the compact names her directly and formally recognizes her as his heir.
-- Cassian agrees to Garrick's reciprocal notice clause and adds a clarification that notice must precede a binding marriage promise, preventing either side from secretly committing first.
-- Cassian addresses Elowen as 'Lady Elowen, heir to House Vale' and formally states that House Veyne will recognize her succession. Elowen visibly clenches her jaw and bows her head rather than answering. Cassian can observe the controlled tension but does not know its exact private cause. He does not demand gratitude or a verbal response. The compact is then sealed by Garrick and Cassian before Saint Orra's clerical witnesses, beginning the thirty-day extension and establishing Elowen's publicly acknowledged status within the terms of the agreement.
+- Cassian offered a thirty-day extension of Vale-Veyne restraint: recognition of Elowen's succession in exchange for continued Vale neutrality and advance notice before Elowen is bound by marriage to either claimant's immediate family.
+- Garrick secured reciprocal notice concerning any major marriage alliance Cassian might make. Cassian accepted, with the clarification that notice must come before a binding promise rather than merely before public announcement.
+- On 26 Harvestwane Garrick and Cassian seal the thirty-day compact at Saint Orra. Cassian formally addresses Elowen as heir to House Vale and states that Veyne recognizes her succession. Elowen clenches her jaw and bows her head without replying. Cassian does not demand gratitude.
+- After Cassian leaves, Elowen asks Garrick what his plan is now. Garrick explains that the thirty days are not inactivity: he intends to publicly proclaim Elowen as his lawful heir, send word to Vale lands and bannermen requiring oaths to her, quietly assess which lords truly support Oren or Cassian, strengthen Vale's own defenses without violating neutrality, and investigate marriage possibilities without binding Elowen during the period unless circumstances force a decision.
+- Garrick also intends to test both claimants rather than choose immediately: he wants to see who can govern, hold allies, secure the capital, and survive pressure. He tells Elowen she will accompany him through much of this because by the end of the thirty days he expects her to understand enough to give him a reasoned judgment about which outcome is least dangerous to House Vale.
