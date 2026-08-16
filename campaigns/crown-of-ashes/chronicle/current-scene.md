@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: House Merrow's Veyrhold townhouse — ballroom
+- Location: House Merrow's Veyrhold townhouse — ballroom and adjoining reception rooms
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen attends a major court ball two days after Garrick instructed her to use respectable social attention as a source of political information while preserving Vale neutrality.
+- Situation: Elowen attends a major court ball under Garrick's instruction to remain visibly neutral while observing who seeks her attention and what they reveal.
 
 ## Recent beats
-- Garrick tells Elowen to attend the ball despite the recent ambush so Vale does not appear frightened or secretly committed to retaliation.
-- He instructs her to allow approaches rather than conspicuously pursue men, to dance and ask natural questions, and afterward report who wanted her attention, what they wanted her to believe, and what they avoided discussing.
-- Because Elowen is now publicly Vale's heir, Garrick warns that dances and prolonged conversations may be interpreted as political signals. She must distribute attention without appearing either committed or desperate.
-- On the evening of 6 Emberfall, Elowen arrives at House Merrow's townhouse in a black dress, straightening it before entering the ballroom. The setting is familiar to her old social training but her status has changed: courtiers now watch her as Garrick Vale's heir and potential dynastic match rather than merely his ornamental daughter.
-- The ball is crowded with nobles aligned with, leaning toward, or publicly uncommitted between Oren and Cassian. Elowen can immediately recognize that attention follows her entrance.
-- Adrian is present among Oren's circle across the ballroom. Cassian is also present, dressed in his customary severe dark clothing and engaged with several Veyne-aligned nobles. Neither has yet approached Elowen at the start of the scene.
+- Elowen enters the ball in black silk and immediately feels the altered attention that comes with being Vale's unmarried heir rather than merely Garrick's ornamental daughter.
+- Adrian is present among Oren's circle; Cassian is present with Veyne-aligned nobles. Neither initially approaches.
+- Lord Julian Merrow, the host's eldest son, asks Elowen for the first dance.
+- Elowen accepts but asks Julian to show her around first. She deliberately uses the softer, subtly alluring conversational voice her mother trained her to use with men, adapting an old courtship skill to her new political purpose.
+- Julian responds to the observable flirtatious social cue by becoming more attentive and pleased, though he cannot know Elowen's private intention. He offers his arm and begins guiding her through the public reception rooms adjoining the ballroom rather than taking her anywhere secluded.
+- Julian identifies several guests and factions while trying to impress Elowen with his familiarity with court: Oren's adherents have gathered heavily near the musicians, Veyne supporters occupy much of the western side, and several formally uncommitted houses—including Merrow—are making a conspicuous show of mixing with both.
+- Julian presents House Merrow as neutral and civic-minded, emphasizing that his father wants Veyrhold calm and trade uninterrupted. His eagerness to stress neutrality suggests he wants Elowen to see Merrow as politically compatible with Vale, though no formal courtship or alliance proposal has been made.
