@@ -1,16 +1,14 @@
 # Current scene
 
-- Location: Vale carriage leaving House Merrow's Veyrhold townhouse
-- Time: night, 6th of Emberfall, Year 312 of the Crown
-- Scene significance: routine
-- Situation: The Merrow ball has ended for Elowen. After supper she slips away from the remaining guests and is riding home in the Vale carriage, privately smiling after an evening that mixed courtship, political education, danger, gossip, and genuine enjoyment.
+- Location: Vale residence in Veyrhold — Lord Garrick's solar
+- Time: morning, 7th of Emberfall, Year 312 of the Crown
+- Scene significance: charged
+- Situation: The morning after House Merrow's ball, Garrick has summoned Elowen to his solar to hear what she learned. Away from the freer company of the previous night, Elowen's habitual silent and deferential manner has returned.
 
 ## Recent beats
-- Elowen's final dance before supper is a second dance with Julian Merrow. At her friend's insistence she tries to let it remain playful rather than politically useful.
-- Elowen invents a harmless lie that her friend is angry because someone stole a sugared apricot from her plate; Julian plays along, and Elowen laughs freely during the dance.
-- After supper Elowen manages to make her departure without being trapped in another long conversation.
-- Once alone in the Vale carriage, away from the ballroom's scrutiny, Elowen smiles to herself.
-- The evening leaves Elowen with several reportable pieces of caveated intelligence: Dacre may lean Oren due to legal clarity and fear of civil war; Corren may lean Cassian because of border-security concerns; Merrow may value office or council influence before committing; and Elowen's own second dance with Adrian is already generating marriage speculation.
-- Elowen also learned directly from Cassian that he wants eventual Vale support but presently accepts neutrality; he views an Adrian marriage according to its actual political terms; he says he does not know who attacked the Vale convoy and is investigating; and he believes Vale-Veyne enmity need not be permanent.
-- Socially, Elowen granted Adrian permission to court her informally, danced with him twice, danced with Julian twice, had a long private-adjacent public conversation with Cassian but did not dance with him, and encouraged Emelie's hopes after suggesting Cassian dance with her.
-- The next likely beat is Elowen's return to the Vale residence and any report she chooses to give Garrick, but no report has yet occurred.
+- Elowen left the Merrow ball after supper smiling privately in the carriage, having enjoyed parts of the evening despite its political weight.
+- The next morning Garrick summons her to his solar. Elowen enters with her familiar quiet, deferential demeanor restored.
+- Garrick has previously instructed Elowen that private questioning and understanding are now duties of an heir, but her long-established habits of deference remain strong.
+- Garrick does not begin by reprimanding her or supplying his own interpretation of the ball. He asks Elowen to report what she learned, giving her the responsibility to distinguish useful information from ordinary gossip.
+- Elowen has reportable intelligence available from the prior evening: caveated indications that Dacre may lean Oren, Corren may lean Cassian, and Merrow may value office or council influence; direct statements from Cassian about Vale neutrality, eventual support, an Adrian marriage, and the convoy investigation; and the fact that Adrian has asked to court Elowen informally and she permitted it.
+- Garrick does not yet know any of those ball-specific details unless Elowen tells him. He may have independent observations or reports from other Vale attendees, but none are assumed in this beat.
