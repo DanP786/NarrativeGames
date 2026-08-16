@@ -3,13 +3,12 @@
 - Location: House Vale's Veyrhold residence — Garrick's solar
 - Time: late morning, 4th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick is reviewing evidence from the grain convoy ambush with Elowen and trusted Vale officers. Two dead attackers carried concealed Veyne badges, but other physical evidence does not presently match known Veyne equipment.
+- Situation: Garrick is reviewing evidence from the grain convoy ambush with Elowen. Their discussion broadens into why House Vale remains neutral between Oren and Cassian.
 
 ## Recent beats
-- Five dead attackers were recovered after the grain convoy ambush. Two carried concealed Veyne badges. Their arrows, boots, horse brand, and mixed coin do not yet establish Veyne provenance.
-- Elowen correctly says the badges prove only that the attackers carried them, then recognizes that someone aware of the Vale-Veyne restraint could benefit from framing Cassian to rupture it.
-- Garrick cautions that even Cassian cannot yet be excluded, offering the possibility of a double deception.
-- Elowen challenges that possibility on motive: if Cassian planted his own badges and Vale believed them, the restraint could collapse and Vale might support Oren; if Vale recognized the badges as planted, the attackers remain unidentified and Vale remains neutral. Since Garrick would not change alignment without reasonable proof, Elowen sees little strategic gain for Cassian in such a scheme.
-- Garrick agrees that on the presently known facts Cassian planting his own badges is a weak hypothesis because its likely outcomes harm him or leave the position unchanged. He explains that a hypothesis should not be retained merely because it is technically possible; motive, means, risk, and expected benefit matter.
-- Garrick still refuses to clear Cassian entirely because unknown facts could alter the calculation—for example, if the attack had another objective besides changing Vale's allegiance, or if Cassian expected to manufacture stronger evidence later. But he tells Elowen her reasoning has properly reduced, rather than eliminated, the likelihood of direct Veyne responsibility.
-- The investigation therefore prioritizes actors who would benefit from rupturing Vale-Veyne restraint or destabilizing Vale neutrality, while continuing to trace the double-nailed boots, damaged horse brand, and leak of route/timing information.
+- Elowen reasons that Cassian planting his own badges at the ambush would be strategically weak on current facts: belief would risk driving Vale to Oren, disbelief would leave Vale neutral. Garrick agrees this reduces, but does not eliminate, direct Veyne responsibility.
+- Elowen asks what House Vale is actually waiting for by refusing to choose a claimant, and whether Garrick fears choosing the wrong side.
+- Garrick answers that choosing the losing side is one danger but not the only one. He is waiting for the succession contest to reveal each claimant's actual coalition, governing capacity, willingness to honor bargains, and likely treatment of House Vale after victory. He also wants Elowen's succession secured and Vale's exposed position strengthened before committing.
+- Garrick explains that an early declaration spends Vale's leverage immediately: once Vale chooses, the chosen claimant has less reason to court or concede to Vale, while the rejected claimant becomes an enemy. Neutrality is therefore not indecision while both sides still need Vale; it is bargaining power and time.
+- He acknowledges a cost to waiting: neutrality becomes less valuable if a victor emerges without Vale, and both sides may eventually interpret delay as hostility or weakness. He therefore does not intend to wait indefinitely.
+- Garrick admits that he is afraid of choosing wrongly, but defines 'wrongly' more broadly than backing the loser. A claimant may win and still be disastrous for Vale. His objective is not merely to stand beside the future king but to ensure House Vale survives the reign that follows.
