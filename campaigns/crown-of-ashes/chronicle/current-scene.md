@@ -6,9 +6,9 @@
 - Situation: The musicians are preparing the final set before supper. Elowen's trusted correspondent has dared her to choose one dance for enjoyment rather than political utility.
 
 ## Recent beats
-- Elowen's friend challenges her to have one dance with 'no politics.' Alarmed, Elowen asks with whom.
-- Her friend says the point is not to assign her a partner but to choose someone she actually wants to dance with. She jokes that a third dance with Adrian would intensify marriage gossip and that dancing with Cassian would be an even more spectacular failure of the 'no politics' premise.
-- Elowen denies considering Cassian; her friend mischievously notes she never said Elowen was.
-- Elowen bites her lip and looks around the ballroom, genuinely trying to identify what she wants rather than what would benefit Vale.
-- Adrian is visible but engaged in conversation and has already danced twice with Elowen. Cassian remains elsewhere among politically significant guests. Julian Merrow is also visible among his family's guests after his earlier dance with Elowen. None of them is presently approaching her.
-- Several socially safer acquaintances and unattached young nobles are present around the forming set, but no specific new suitor is invented or forced into the scene. Elowen remains free to choose, wait to be asked, or decide she does not want another dance.
+- Elowen scans the room but finds herself assigning political consequences to every plausible partner. Adrian has already danced with her twice; Julian is tied to Merrow's neutrality; Cassian is an obviously political choice; even familiar young lords now register as sons of factions and houses.
+- Her friend notices Elowen is doing politics in her head and suggests she stop choosing and simply see who approaches her.
+- Elowen looks at her friend as though the suggestion is mad.
+- Her friend immediately understands the objection: since Elowen became Vale's heir, 'wait and see who comes' is not neutral either, because any man who crosses the room to ask her may be making a personal, dynastic, or political gesture and the court may assign meaning regardless.
+- The friend concedes the flaw in her supposedly simple dare and laughs at herself, admitting that she has accidentally designed another political experiment rather than a carefree dance.
+- Elowen remains beside her as the final set forms; no partner has yet approached or been selected.
