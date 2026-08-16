@@ -3,13 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange has become a direct political assessment of what Cassian wants from Vale, mixed with a smaller amount of unexpected personal candor.
+- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange mixes direct political assessment with unexpected personal candor.
 
 ## Recent beats
-- Cassian explains that warning of Elowen's marriage matters because a match such as Adrian could materially align Vale with Oren even without a formal military oath. He sought information and reaction time rather than the excessive right to prohibit her marriage.
-- Asked what he would do if Garrick announced an Adrian match, Cassian says he would inspect the terms, bargain to make the match less attractive, improve his own offer, and counter-align politically; only if the marriage materially placed Vale in Oren's camp would he treat neutrality as compromised.
-- Elowen shifts uncomfortably, looks away, and asks Cassian whether he intended to tell her so much.
-- Cassian says yes, in substantial part. He knows Elowen is gathering information and expects much of what he says to reach Garrick. He wants Garrick assessing a concrete, predictable Cassian rather than court rumor or Oren's characterization of him.
-- Cassian points out that truthful disclosure can itself be strategic when the truth makes one's position intelligible: Vale is more likely to bargain with a claimant whose likely reactions and minimum terms it understands.
-- He also tells Elowen that deliberate candor is not the same as complete disclosure; he has not told her secrets that would weaken his position if repeated.
-- When Elowen's question implicitly encompasses the personal conversation as well as political information, Cassian allows a small ambiguity: he says not every answer he gave her was chosen because he expected Garrick to hear it, without specifying which answers were genuinely personal. The exchange preserves the slow-burn tension without converting hostility into premature trust.
+- Cassian says much of the political information he has given Elowen was deliberately chosen because he expects her to report it to Garrick and wants Vale to assess his actual terms rather than rumor.
+- He distinguishes strategic honesty from complete disclosure and says not every answer he gave was intended for Garrick.
+- Cassian dryly remarks that he did not particularly need Garrick to know his horse is unimpressed by his claim to the throne.
+- Elowen laughs involuntarily before she can stop herself, then turns away from the room in visible embarrassment.
+- Cassian can observe only the spontaneous laugh and embarrassment, not Elowen's private reasons. He does not mock her or press the moment.
+- The laugh is the first genuinely easy shared reaction between Elowen and Cassian, but it occurs under the weight of Rowan's death, the Vale-Veyne feud, and their opposing political interests; it does not erase or resolve any of those barriers.
+- Cassian quietly remarks that he will refrain from reporting the laugh to Garrick as well, using dry humor to give Elowen room to recover rather than forcing intimacy or calling attention to what the moment might mean.
