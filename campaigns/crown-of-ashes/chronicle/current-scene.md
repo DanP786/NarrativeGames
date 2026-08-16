@@ -3,13 +3,12 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian have spent a conspicuously long time speaking after her dances with Julian and Adrian. Both recognize that their proximity is beginning to attract attention.
+- Situation: Cassian has left Elowen after a long, politically and personally charged conversation and is now dancing with Lady Emelie. Elowen remains alone at the refreshments under the observation of a court newly interested in whom she speaks and dances with.
 
 ## Recent beats
-- Cassian says Vale and Veyne are presently enemies but need not remain so forever; he refuses to minimize Rowan's death or demand Elowen's forgiveness.
-- Elowen responds only with a sad nod and watches the dancers. Cassian allows the silence rather than pressing her.
-- Their prolonged conversation begins attracting notice from Adrian, Lord Merrow, and other guests. Cassian remarks that they are becoming interesting and that this is rarely useful.
-- Elowen notices Lady Emelie watching Cassian intently and suggests, 'Perhaps you would find use dancing with Lady Emelie.'
-- Cassian follows Elowen's glance and identifies the practical value immediately: a dance with another noblewoman would redirect gossip away from the unusually long Vale-Veyne conversation and also create another social contact for him to assess.
-- Cassian dryly asks whether Elowen is dismissing him or advising him, then accepts the suggestion without treating it as jealousy or personal rejection. He remarks that either way it is sensible.
-- Cassian gives Elowen a formal bow and moves to approach Lady Emelie, leaving Elowen free at the ballroom edge. No dance between Elowen and Cassian has occurred, and their public interaction remains a long conversation rather than courtship.
+- Elowen suggests Cassian dance with Lady Emelie, who has been watching him intently. Cassian recognizes that doing so can redirect attention from his conspicuously long conversation with Elowen and accepts the suggestion.
+- Cassian formally thanks Elowen for the conversation and approaches Lady Emelie; they begin dancing. No dance between Cassian and Elowen has occurred.
+- Once Cassian leaves, Elowen releases a breath she had not realized she was holding and takes another glass from the refreshments largely to occupy her hands.
+- The physical reaction is visible but its private meaning is not available to observers. The court can only see that Elowen has just emerged from an unusually long exchange with Cassian Veyne and now stands alone with a drink.
+- Elowen has already danced with Julian Merrow and Adrian and has now spoken at length with Cassian, making her movements politically legible to attentive guests even though she has made no alliance commitment.
+- Cassian and Lady Emelie remain on the dance floor; Adrian and other politically significant guests remain present elsewhere in the ballroom. Elowen is free to observe, approach someone, accept an approach, or simply recover.
