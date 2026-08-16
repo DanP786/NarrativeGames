@@ -26,14 +26,14 @@ A tall nobleman in his early thirties, severe in mourning black. He speaks witho
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 8 / 100 — Elowen's earlier factual honesty remains the only meaningful evidence of reliability.
 - Affection: 10 / 100 — no personal relationship; Rowan's killing makes immediate warmth implausible.
-- Respect: 30 / 100 — her controlled response to being formally recognized as heir shows restraint in a politically difficult room, though he cannot know what she feels.
+- Respect: 33 / 100 — Elowen independently identified a workable neutral solution to the grain escort dispute, though she then exposed her inexperience by pledging undefined Vale manpower beyond her authority.
 - Loyalty: 0 / 100 — none.
 - Fear: 8 / 100 — Elowen herself remains unarmed, but her family has immediate cause for vengeance.
-- Suspicion: 64 / 100 — she remains an enemy heiress, though her behavior has so far been disciplined rather than provocative.
+- Suspicion: 63 / 100 — she remains an enemy heiress, but her visible political inexperience makes calculated deception seem slightly less likely in the immediate term.
 - Resentment: 70 / 100 — the feud remains renewed in living blood, moderated only slightly by the functioning restraint agreement.
 
 ## Relationship to player
-Hostile and politically watchful. Cassian saved Elowen from a royal guardsman and pulled her into his lines, partly preserving valuable leverage; he later retained her during the withdrawal. Moments after her rescue, Rowan charged Cassian and Cassian killed him at close range in front of Elowen. Elowen later factually confirmed that Cassian had not threatened her with a blade. Cassian has now formally recognized Elowen as Garrick's heir as part of a thirty-day political restraint, making her dynastic position directly relevant to his strategy. When he addressed her by the new title, she visibly clenched her jaw and bowed her head rather than answering; he can observe her discomfort but cannot know its exact cause.
+Hostile and politically watchful. Cassian saved Elowen from a royal guardsman and pulled her into his lines, partly preserving valuable leverage; he later retained her during the withdrawal. Moments after her rescue, Rowan charged Cassian and Cassian killed him at close range in front of Elowen. Elowen later factually confirmed that Cassian had not threatened her with a blade. Cassian has now formally recognized Elowen as Garrick's heir as part of a thirty-day political restraint, making her dynastic position directly relevant to his strategy. He has begun to see that her quietness is not identical to stupidity: during the grain council she identified a neutral solution that answered both claimants' objections, then immediately revealed how inexperienced she remains by overcommitting Vale soldiers.
 
 ## History with player
 - Their houses carry an unresolved blood-feud predating their first meaningful interaction.
@@ -44,16 +44,18 @@ Hostile and politically watchful. Cassian saved Elowen from a royal guardsman an
 - During the following day's parley, Elowen quietly confirmed Cassian had not threatened her with a blade.
 - Cassian subsequently offered formal recognition of Elowen's succession in exchange for extended Vale neutrality and advance notice of marriage alignment. Garrick countered with reciprocal notice concerning Cassian's own major marriage alliances, which Cassian accepted.
 - At the sealing meeting Cassian addressed Elowen explicitly as heir to House Vale. She clenched her jaw and bowed her head without replying; Cassian did not press her for gratitude or acknowledgment.
+- During the grain council Elowen proposed a neutral Vale escort that resolved both Cassian's concern about claimant control and Oren's concern about divided command. She then pledged unspecified Vale soldiers without Garrick's authorization; Garrick immediately narrowed the commitment. Cassian witnessed both the useful proposal and the overstep. As the chamber emptied, Elowen looked toward him and their eyes briefly met; he could observe her flushed discomfort but not know why she sought his gaze.
 
 ## Knowledge
-- Knows Elowen is Garrick Vale's only surviving child and is now formally being named heir to House Vale.
+- Knows Elowen is Garrick Vale's only surviving child and has been publicly named heir to House Vale.
 - Knows House Vale's political weight and the history of the Vale-Veyne feud.
 - Knows Rowan publicly opposed him, mistreated Elowen, used her as cover, and finally attacked him armed.
 - Knows Elowen witnessed him kill Rowan and has visible reason to fear or hate him.
 - Has observed Elowen as quiet, deferential, nervous, attentive, and capable of controlled behavior under political pressure.
 - Knows Elowen will state an inconvenient fact accurately when directly permitted to answer, even when a lie might damage him.
+- Knows Elowen can identify at least some practical political compromises but is inexperienced about the limits of her authority.
 - Knows Elowen's marriage is now a major strategic lever for House Vale and rival claimants.
-- Does not know Elowen's private feelings about Rowan, Cassian, her attraction to his appearance, or her fears about succession.
+- Does not know Elowen's private feelings about Rowan, Cassian, her attraction to his appearance, her embarrassment about the council mistake, or her fears about succession.
 
 ## Relationships with other NPCs
 - Prince Alaric: dead rival claimant.
