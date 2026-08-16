@@ -1,13 +1,14 @@
 # Current scene
 
-- Location: House Vale's Veyrhold residence — entrance hall
-- Time: evening, 3rd of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: The Vale grain escort has returned after an organized ambush. Three Vale soldiers are dead and seven wounded. Garrick has begun an investigation and deliberately keeps Elowen present while the immediate aftermath is handled.
+- Location: House Vale's Veyrhold residence — entrance hall, then Elowen's rooms
+- Time: night, 3rd of Emberfall, Year 312 of the Crown
+- Scene significance: routine
+- Situation: The immediate aftermath of the grain convoy ambush is being handled. Garrick has given Elowen responsibility for remembering the dead and ensuring their households receive what House Vale owes them.
 
 ## Recent beats
-- Captain Tomas Rell reports an organized ambush fourteen miles east. Most grain reached Veyrhold, but three Vale soldiers died and seven were wounded.
-- Garrick orders the enemy dead and equipment examined, the ambush site searched before rain destroys evidence, and the convoy's information chain investigated for a possible leak. He warns Elowen not to accuse any faction before evidence supports it.
-- Elowen remains in the entrance hall as the wounded are treated and the dead carried away. She stands awkwardly and silently, visibly uncertain where to place herself or how to help. Her internal guilt and overwhelm remain private, though her discomfort is observable.
-- Garrick notices her obstructing the flow of servants and quietly moves her beside him rather than sending her upstairs. He gives her a concrete heir's duty: learn the names of the three dead, ensure their households receive the formal notice and death payment owed by House Vale, and later write or sign the condolences in her capacity as the person whose proposed escort led to the deployment.
-- Garrick makes clear that the ambush is the attackers' responsibility, but does not absolve leadership from bearing the consequences of decisions. Elowen is expected neither to personally tend wounds nor to disappear; her role is to make sure the house remembers and provides for those who paid the cost.
+- Three Vale soldiers died and seven were wounded in an organized ambush on the grain convoy; most of the grain reached Veyrhold.
+- Garrick orders an evidence-based investigation and warns Elowen not to accuse any faction before proof exists.
+- Elowen stands awkwardly amid the wounded and servants, overwhelmed and unsure how to help. Garrick keeps her present rather than sending her upstairs.
+- Garrick gives Elowen a concrete heir's duty: remember the dead—Ser Jory Fen, Martin Cale, and Osric Tanner—learn who depended upon them, ensure the households receive the payments owed, and put her name to condolences.
+- Elowen remains silent afterward and stays in the entrance hall until Garrick has finished the immediate orders. She does not flee or interfere.
+- Once the wounded are settled, the dead removed, and the investigation riders dispatched, Garrick dismisses Elowen for the night. She returns to her rooms carrying the names of the three dead and the knowledge that the investigation will continue through the night.
