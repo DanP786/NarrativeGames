@@ -3,13 +3,13 @@
 - Location: House Vale's Veyrhold residence — Garrick's solar
 - Time: late morning, 4th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The morning after the grain convoy ambush, Garrick brings Elowen into the first evidence review. The dead Vale soldiers' family obligations are also being compiled for Elowen to handle.
+- Situation: Garrick is reviewing evidence from the grain convoy ambush with Elowen and trusted Vale officers. Two dead attackers carried concealed Veyne badges, but other physical evidence does not presently match known Veyne equipment.
 
 ## Recent beats
-- The grain convoy reached Veyrhold after an organized ambush fourteen miles east. Three Vale soldiers—Ser Jory Fen, Martin Cale, and Osric Tanner—were killed and seven wounded.
-- Garrick ordered an investigation of the ambush site, enemy bodies and equipment, and the convoy's information chain. He warned Elowen not to accuse any faction without evidence.
-- Garrick tasked Elowen with learning who depended upon the dead, ensuring their households receive the payments owed by House Vale, and putting her name to condolences.
-- On 4 Emberfall the first investigation report arrives. Five dead attackers were recovered. Two carried small black-and-silver Veyne badges concealed inside their clothing rather than displayed openly.
-- The badges alone do not establish Veyne responsibility. Other evidence conflicts with the obvious implication: the attackers' arrows use pale goose fletching unlike the dark-fletched shafts recovered from known Veyne retainers after the cathedral violence; three of the five dead wear boots with a distinctive double-nailed heel pattern; one horse bears a partially cut-away brand that investigators have not yet identified; and the men carried mixed coin with no clear Veyne provenance.
-- Captain Rell reports that the ambushers appeared to know the convoy's approximate timing and route but did not seem to know the exact Vale escort strength, suggesting partial rather than complete intelligence.
-- Garrick lays the two Veyne badges before Elowen and asks what she thinks they prove, deliberately testing whether she applies yesterday's lesson about planted heraldry rather than leaping to blame Cassian.
+- Five dead attackers were recovered after the grain convoy ambush. Two carried black-and-silver Veyne badges concealed inside their clothing. Their arrows, boots, horse brand, and mixed coin do not yet establish Veyne provenance.
+- Captain Rell reports that the attackers knew the convoy's approximate timing and route but apparently not the exact Vale escort strength, suggesting partial intelligence.
+- Garrick asks Elowen what the Veyne badges prove. Elowen correctly answers that they prove only that the men carried the badges.
+- Elowen then asks whether other houses know about the thirty-day Vale-Veyne restraint, reasoning that a Veyne attack would break the pact and that someone aware of the agreement might benefit from making House Vale believe Cassian had violated it.
+- Garrick approves the line of reasoning. He explains that the existence of the restraint is not secret: the broad fact of Vale neutrality and a temporary Vale-Veyne accommodation is known among major court factions, although the precise written terms are held much more narrowly. Oren and his senior allies certainly know there is an agreement; other politically attentive houses could also know enough to understand that apparent Veyne aggression might rupture it.
+- Garrick cautions that this creates a motive for a frame but does not identify the framer. Cassian could also theoretically attack and plant his own badges as a double deception, or unrelated actors could seek to provoke Vale-Veyne conflict. The investigation must therefore trace the less theatrical evidence.
+- Garrick directs attention toward the distinctive double-nailed boots and partially erased horse brand as potentially more probative leads, and asks Captain Rell to trace suppliers and stable marks in Veyrhold and along the eastern road.
