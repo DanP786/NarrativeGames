@@ -3,12 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange mixes direct political assessment with unexpected personal candor.
+- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange mixes direct political assessment with unexpected personal candor and has now turned toward House Merrow's claimed neutrality.
 
 ## Recent beats
-- Cassian says much of the political information he gave Elowen was deliberately chosen because he expects her to report it to Garrick, but says not every answer was intended for her father.
-- Cassian dryly jokes that Garrick need not know his horse is unimpressed by his royal claim. Elowen laughs involuntarily and turns away in visible embarrassment.
-- Cassian gives her room to recover and quietly jokes that he will refrain from reporting the laugh to Garrick as well.
-- Elowen closes her eyes to compose herself, then downs the remainder of her drink in one motion and turns back to face Cassian.
-- Cassian can observe the conspicuous drink and her effort to regain composure but cannot know the private cause beyond the awkwardness of their exchange. He does not mock her for it.
-- Cassian remarks dryly that he had not intended to drive her to drink, then allows the humor to fall away. He gives Elowen a clean opportunity either to end the conversation or continue it, asking whether she has another question for him rather than presuming further intimacy.
+- After Elowen's involuntary laugh and embarrassment, Cassian gives her room to recover. Elowen downs her drink, turns back, and Cassian jokes that he had not intended to drive her to drink.
+- Cassian says Elowen has acquired more from their conversation than Lord Merrow likely intended her to acquire from the whole ball. Elowen asks why Merrow would want her to learn less, noting that Julian said House Merrow was neutral.
+- Cassian does not claim secret knowledge of Merrow's allegiance. Instead he distinguishes neutrality from disinterest: a neutral house can still want Vale to remain undecided, because Vale choosing either claimant changes the balance and can force other houses to choose.
+- Cassian points out that the Merrows hosted a room containing both factions and prominent undecided houses; the event itself lets Merrow observe, mediate, and remain useful to everyone while committing to no one.
+- He suggests Julian's broad explanation of Oren's legal strength and Cassian's military strength was safe information because it told Elowen little she could act on. Julian's refusal to discuss his father's preference is more revealing about the boundary Merrow wished to preserve.
+- Cassian cautions that this does not prove Merrow secretly favors either claimant. It proves only that their neutrality has value, and information is one of the things they control to preserve that value.
+- The exchange gives Elowen another interpretive tool rather than a definitive faction answer: ask not only whom a neutral house supports, but what continued uncertainty buys it.
