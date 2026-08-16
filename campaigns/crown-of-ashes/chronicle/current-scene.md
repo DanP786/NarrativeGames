@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: House Vale's Veyrhold residence — entrance hall, then Elowen's rooms
-- Time: night, 3rd of Emberfall, Year 312 of the Crown
-- Scene significance: routine
-- Situation: The immediate aftermath of the grain convoy ambush is being handled. Garrick has given Elowen responsibility for remembering the dead and ensuring their households receive what House Vale owes them.
+- Location: House Vale's Veyrhold residence — Garrick's solar
+- Time: late morning, 4th of Emberfall, Year 312 of the Crown
+- Scene significance: charged
+- Situation: The morning after the grain convoy ambush, Garrick brings Elowen into the first evidence review. The dead Vale soldiers' family obligations are also being compiled for Elowen to handle.
 
 ## Recent beats
-- Three Vale soldiers died and seven were wounded in an organized ambush on the grain convoy; most of the grain reached Veyrhold.
-- Garrick orders an evidence-based investigation and warns Elowen not to accuse any faction before proof exists.
-- Elowen stands awkwardly amid the wounded and servants, overwhelmed and unsure how to help. Garrick keeps her present rather than sending her upstairs.
-- Garrick gives Elowen a concrete heir's duty: remember the dead—Ser Jory Fen, Martin Cale, and Osric Tanner—learn who depended upon them, ensure the households receive the payments owed, and put her name to condolences.
-- Elowen remains silent afterward and stays in the entrance hall until Garrick has finished the immediate orders. She does not flee or interfere.
-- Once the wounded are settled, the dead removed, and the investigation riders dispatched, Garrick dismisses Elowen for the night. She returns to her rooms carrying the names of the three dead and the knowledge that the investigation will continue through the night.
+- The grain convoy reached Veyrhold after an organized ambush fourteen miles east. Three Vale soldiers—Ser Jory Fen, Martin Cale, and Osric Tanner—were killed and seven wounded.
+- Garrick ordered an investigation of the ambush site, enemy bodies and equipment, and the convoy's information chain. He warned Elowen not to accuse any faction without evidence.
+- Garrick tasked Elowen with learning who depended upon the dead, ensuring their households receive the payments owed by House Vale, and putting her name to condolences.
+- On 4 Emberfall the first investigation report arrives. Five dead attackers were recovered. Two carried small black-and-silver Veyne badges concealed inside their clothing rather than displayed openly.
+- The badges alone do not establish Veyne responsibility. Other evidence conflicts with the obvious implication: the attackers' arrows use pale goose fletching unlike the dark-fletched shafts recovered from known Veyne retainers after the cathedral violence; three of the five dead wear boots with a distinctive double-nailed heel pattern; one horse bears a partially cut-away brand that investigators have not yet identified; and the men carried mixed coin with no clear Veyne provenance.
+- Captain Rell reports that the ambushers appeared to know the convoy's approximate timing and route but did not seem to know the exact Vale escort strength, suggesting partial rather than complete intelligence.
+- Garrick lays the two Veyne badges before Elowen and asks what she thinks they prove, deliberately testing whether she applies yesterday's lesson about planted heraldry rather than leaping to blame Cassian.
