@@ -6,11 +6,11 @@
 - Situation: Elowen is among familiar young noblewomen after her second dance with Adrian. Lady Emelie is recounting her dance with Cassian while Elowen quietly knows she was the one who suggested Cassian approach Emelie.
 
 ## Recent beats
-- Emelie boasts with studied casualness that Cassian personally crossed the ballroom to ask her to dance and proved more charming than his reputation suggests.
-- Elowen replies with an outwardly flattering, lightly double-edged remark that perhaps Cassian found his conversation with Elowen mundane and needed someone as beautiful and sweet as Emelie to improve his evening.
-- A friend privately suspects Elowen knows why Cassian approached Emelie and whispers that Elowen has 'that face.' Elowen gives her a look clearly meaning 'later' rather than answering aloud.
-- Elowen then listens politely to Emelie's account, smiling and preserving the social fiction rather than exposing that she suggested the dance.
-- While Emelie talks, Elowen gives in to temptation and searches the ballroom for Cassian with her eyes.
-- Cassian is no longer dancing with Emelie. Elowen locates him across the room in conversation with two older noblemen near one of the tall windows. He is not looking at her when she first finds him.
-- After a short interval Cassian's gaze moves across the ballroom as part of his ongoing observation of the room and meets Elowen's. From across the distance he cannot hear Emelie's conversation or know why Elowen is looking at him. He gives no conspicuous signal, merely holds the eye contact for a brief beat before returning to the men beside him.
-- The moment remains ambiguous and publicly deniable: Elowen has sought Cassian out visually, but neither approaches the other and no new interaction occurs.
+- A friend suspects Elowen knows why Cassian approached Emelie; Elowen silently signals that she will explain later.
+- While listening politely to Emelie, Elowen searches the ballroom for Cassian and finds him speaking with two older noblemen by a window. Their eyes briefly meet across the room before Cassian returns to his conversation; he cannot know why she was looking.
+- Emelie continues describing her dance and mentions that Cassian commented on her family's western vineyards being well situated.
+- Elowen smiles and tells Emelie, 'You would make a good match.'
+- Emelie is visibly pleased by the endorsement and asks whether Elowen truly thinks so. The surrounding ladies immediately begin treating the possibility as entertaining court speculation, discussing the apparent political logic without possessing any evidence that Cassian intends to court Emelie.
+- Emelie interprets Cassian's interest in her family's vineyards and his choosing her for a dance as potentially meaningful, though this remains her inference rather than established fact.
+- Elowen does not reveal that she suggested Cassian dance with Emelie. Her comment therefore encourages Emelie's hopes while preserving the private truth of why Cassian initially crossed the ballroom.
+- Cassian remains across the room in conversation and is not privy to the women's discussion.
