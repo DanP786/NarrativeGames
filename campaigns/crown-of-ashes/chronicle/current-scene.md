@@ -3,13 +3,13 @@
 - Location: House Vale's Veyrhold residence — entrance hall
 - Time: evening, 3rd of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Five days after the palace grain council, the Vale escort Elowen proposed has returned with the grain convoy after an attack on the eastern road. The grain reached Veyrhold, but Vale soldiers were killed and wounded. Garrick has summoned Elowen as the survivors arrive.
+- Situation: The Vale grain escort has returned after an organized ambush. Three Vale soldiers are dead and seven wounded, though the grain reached Veyrhold. Elowen asks Garrick whether the attackers can be identified.
 
 ## Recent beats
-- Elowen proposed that neutral House Vale provide a single-command escort for Veyrhold's next grain convoy. Both Oren and Cassian accepted the concept.
-- Elowen overstepped by pledging unspecified Vale soldiers; Garrick narrowed the commitment and later taught her to define the limits of any obligation she makes for the house.
-- Five days pass. Garrick and his officers ultimately assign a limited Vale force to escort the single civic grain convoy under Vale command, consistent with the council agreement.
-- On 3 Emberfall the convoy reaches Veyrhold with most of its wagons intact, but the escort was attacked on the eastern road at a wooded cutting.
-- Three Vale soldiers are dead and seven wounded. The attackers withdrew after failing to break the escort. Their allegiance is not yet known; no claimant is presently blamed as fact.
-- Garrick summons Elowen to the entrance hall as the surviving escort returns. Captain Tomas Rell, bloodied but ambulatory, reports that the attackers were organized rather than ordinary starving peasants or opportunistic thieves: they struck the lead and rear simultaneously and attempted to halt the wagons. He has not yet identified whose men they were.
-- The success of Elowen's proposal is therefore immediately complicated by its human cost: Veyrhold receives the grain, but House Vale has paid in blood and the attack may have political implications.
+- Five days after Elowen proposed a neutral Vale grain escort, the convoy reaches Veyrhold after being attacked at a wooded cutting fourteen miles east.
+- Captain Tomas Rell reports that the attackers struck the lead and rear together, tried to halt the wagons, and withdrew in good order after the Vale escort broke them. He believes they were organized rather than ordinary bandits, but does not know their allegiance.
+- Three Vale soldiers are dead and seven wounded. Most of the grain reached the city.
+- Elowen asks Garrick whether there is any way to discover who carried out the attack.
+- Garrick says yes, but warns that evidence must precede accusation. He orders the dead attackers, captured weapons, arrows, tack, clothing, and any surviving prisoners or witnesses accounted for; the ambush site is to be searched for tracks, discarded gear, horse marks, and bodies before weather or scavengers destroy evidence. He also wants to know who knew the convoy's route and departure time, recognizing that advance knowledge may indicate a leak.
+- Garrick explains to Elowen that uniforms and heraldry can be planted, so provenance matters: smith marks, fletching styles, horse brands, coin, dialect, supply sources, and whether equipment clusters around a known lord's retainers may be more useful than obvious colors. He refuses to name Oren, Cassian, or any other faction without evidence.
+- Garrick assigns trusted Vale men to begin the inquiry immediately and tells Elowen she will observe the evidence review once the wounded are treated and the dead are properly attended.
