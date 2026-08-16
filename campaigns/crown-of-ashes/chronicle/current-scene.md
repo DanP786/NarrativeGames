@@ -6,9 +6,8 @@
 - Situation: Elowen is using the ball to remain visibly neutral while learning what politically aligned nobles want her to believe.
 
 ## Recent beats
-- Julian Merrow tells Elowen that Oren is strongest among traditional royalists and court offices while Cassian has stronger support among military-minded lords; neither claimant has a decisive advantage. He avoids revealing House Merrow's private preference.
-- Elowen recognizes Julian's boundary and stops probing, preserving the easy social tone by taking the dance he originally requested.
-- Elowen and Julian complete a conspicuous but socially ordinary first dance. Her formal court training makes the dance itself effortless despite the political scrutiny attached to her new status as Vale's heir.
-- At the end Julian thanks Elowen warmly for the dance. They part without arranging another dance, private meeting, or political commitment.
-- Elowen is left briefly unpartnered at the edge of the floor. The first exchange has given her useful information: Julian wanted her to see Oren as legally stronger and Cassian as militarily more dangerous, while House Merrow's own preference was the subject he carefully avoided.
-- Adrian remains present among Oren's circle and has noticed Elowen's first dance. Cassian remains elsewhere among Veyne-aligned nobles. Elowen has not yet approached either man.
+- Elowen completes her first dance with Julian Merrow and parts from him without arranging further attention. She has learned that Julian portrays Oren as legally stronger and Cassian as militarily more dangerous, while avoiding House Merrow's private preference.
+- Adrian, Prince Oren's brother and the subject of Oren's earlier marriage offer to Elowen, approaches immediately afterward and asks for a dance, lightly joking that Merrow might monopolize her.
+- Elowen laughs lightly and accepts with 'absolutely.' Her warm response is public and visible, but no commitment beyond the dance is made.
+- Adrian leads Elowen onto the floor. Because his potential match with Elowen has already been politically floated, this dance carries substantially more interpretive weight than the dance with Julian; nearby courtiers notice.
+- Adrian opens with socially safe conversation rather than immediate marriage terms, remarking that Elowen has become difficult to speak with since everyone in Veyrhold began watching who stands beside her. He is attentive and personable, giving Elowen room to steer the conversation.
