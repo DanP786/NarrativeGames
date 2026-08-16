@@ -3,14 +3,12 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange mixes direct political assessment with unexpected personal candor and has reached the question of whether Vale-Veyne enmity must remain permanent.
+- Situation: Elowen and Cassian have reached an uneasy quiet after discussing whether the Vale-Veyne feud must remain permanent.
 
 ## Recent beats
-- Elowen asks Cassian outright whether he knows who attacked Vale's soldiers during the convoy. Cassian says he does not know and is investigating.
-- Cassian refuses to provide unproven suspects because guesses could become accusations and reveal what he knows. He says the planted or genuine Veyne badges concern him either way: an unauthorized Veyne attack would challenge his authority, while a third-party attack would mean someone is trying to choose when Vale and Veyne shed each other's blood.
-- Cassian says he dislikes other people choosing his enemies for him.
-- Elowen sighs and asks, with visible sadness, whether Vale and Veyne are not enemies already.
-- Cassian answers plainly that they are. He does not minimize the inherited feud or Rowan's death and does not ask Elowen for forgiveness.
-- Cassian distinguishes being enemies now from being obliged to escalate forever. He notes that enemies can still keep sworn terms, refrain from unnecessary killing, bargain when interests align, and—if circumstances and choices change—eventually cease being enemies.
-- He tells Elowen that Rowan's death cannot be bargained away and he will not insult her by pretending it can, but neither does he accept that every future Vale or Veyne must die for what earlier generations did.
-- The exchange leaves the possibility of eventual peace conceptually open without resolving the feud, creating trust, or converting Cassian and Elowen into allies.
+- Cassian says Vale and Veyne are presently enemies and refuses to minimize Rowan's death or ask Elowen for forgiveness.
+- He distinguishes current enmity from an obligation to escalate forever: enemies can keep terms, bargain, refrain from unnecessary killing, and potentially cease being enemies if future choices allow it.
+- Cassian says neither of them is obliged to ensure their heirs continue killing one another because earlier generations did so.
+- Elowen nods, still visibly sad, and turns her attention toward the couples dancing rather than answering verbally.
+- Cassian does not interpret her silence aloud or press her for agreement. He remains beside her for a short interval, also watching the dancers, allowing the difficult subject to settle.
+- The public setting remains politically sensitive: Elowen and Cassian have now spent a noticeable length of time in conversation after Elowen's dances with Julian and Adrian. Their proximity may attract interpretation even though they have neither danced nor made any agreement beyond the existing Vale-Veyne restraint.
