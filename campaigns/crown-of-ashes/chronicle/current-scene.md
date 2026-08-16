@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: House Merrow's Veyrhold townhouse — ballroom edge
+- Location: House Merrow's Veyrhold townhouse — dance floor
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Cassian is dancing with Lady Emelie. Adrian, who has Elowen's permission to court her informally, has been speaking warmly with her about the practicalities of a hypothetical marriage to a ruling heiress.
+- Situation: Elowen has accepted a second dance with Adrian after giving him permission earlier in the evening to court her informally. The dance is publicly meaningful but does not constitute engagement or Vale political alignment.
 
 ## Recent beats
-- Elowen jokes that heirs do not make themselves and Adrian's absence from a hypothetical ruling heiress could be dire. Adrian laughs and plays along, saying he would need to spend meaningful time with his wife and children rather than remain permanently at court.
-- Elowen grins despite herself. Adrian lets the joke rest rather than escalating it.
-- As the next dance approaches, Adrian says good manners suggest he ought to let another man have an opportunity to ask Elowen, though he finds good manners inconvenient.
-- Without looking at him, cheeks visibly pink, Elowen says, 'I see no one else asking for a dance.' The remark is a socially legible invitation for Adrian to ask again without Elowen explicitly doing so.
-- Adrian understands the opening and formally asks Elowen for the next dance rather than presuming. Elowen's encouragement of a second dance will be more conspicuous politically than their first, especially after her long conversation with Cassian, but it remains courtship rather than engagement or Vale alignment.
+- Adrian says good manners suggest he ought to let another man ask Elowen for the next dance, though he finds that inconvenient.
+- Without looking at him and with visibly pink cheeks, Elowen says she sees no one else asking. Adrian understands the opening and formally asks her for the next dance.
+- Smiling, Elowen takes Adrian's offered hand, accepting the second dance.
+- Adrian leads her onto the floor without triumph or possessiveness. Their second dance is more conspicuous than the first because it follows visible warm conversation and Adrian's known interest in courting her.
+- The court can reasonably read Elowen's acceptance as personal encouragement of Adrian, but no observer can truthfully infer an engagement, marriage agreement, or Vale allegiance from it alone.
+- Cassian and Lady Emelie have been dancing elsewhere on the floor; other politically attentive guests remain present. No assumption is made about any NPC's private reaction unless they visibly act on it.
 - Adrian has no dedicated NPC file yet; no hidden disposition values or off-page history are assumed.
