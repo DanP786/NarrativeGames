@@ -3,13 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Cassian is dancing with Lady Emelie after a long conversation with Elowen. Adrian, who earlier received Elowen's permission to court her informally, has approached Elowen at the refreshments.
+- Situation: Cassian is dancing with Lady Emelie after a long conversation with Elowen. Adrian, who earlier received Elowen's permission to court her informally, is speaking with Elowen at the refreshments.
 
 ## Recent beats
-- Elowen suggests Cassian dance with Lady Emelie, redirecting attention from their conspicuously long conversation. Cassian accepts and moves onto the floor with Emelie.
-- Elowen releases a breath she had not realized she was holding and takes another glass largely to occupy her hands.
-- Adrian approaches and pleasantly remarks that he hopes Lord Veyne did not monopolize the remainder of Elowen's evening; his eyes briefly pass toward Cassian and Emelie before returning to her.
-- Elowen gives a half-hearted laugh, uncertain how to answer the implied question, and redirects by asking, 'Are you enjoying your evening so far, Lord Adrian?'
-- Adrian accepts the redirection rather than demanding an account of Elowen's conversation with Cassian. He says he is enjoying the evening more than he expected, particularly since Elowen agreed to let him court her.
-- He lightly acknowledges that court balls make it difficult not to notice who speaks with whom, but he does not claim a right to police Elowen's conversations. His manner remains warm rather than possessive.
-- Adrian has no dedicated NPC file yet; no new private traits, hidden disposition values, or canon beyond his established on-page behavior are assumed.
+- Adrian approaches after Elowen's long conversation with Cassian and says he hopes Veyne did not monopolize the remainder of her evening. Elowen redirects by asking whether Adrian is enjoying himself.
+- Adrian says the evening improved when Elowen agreed to let him court her. He acknowledges that he noticed her long conversation with Cassian but does not demand an explanation.
+- Elowen admits that more people have been paying attention to her since Garrick announced her as his heir.
+- Adrian agrees and distinguishes some of the new attention from personal interest: Elowen is now publicly the future of House Vale, so her dances, conversations, and eventual marriage are read as possible signals about Vale's political future.
+- Adrian acknowledges that his own interest cannot be separated entirely from politics because he is Oren's brother and Elowen is Vale's heir. He nevertheless reiterates the distinction established earlier: he asked to court Elowen personally and will not pretend Oren's interests are his own feelings.
+- He does not claim that every observer is calculating or that Elowen's personal choices are meaningless; rather, he notes that court will assign political meaning to them whether she intends it or not.
+- Adrian has no dedicated NPC file yet; no new hidden disposition values or off-page history are assumed.
