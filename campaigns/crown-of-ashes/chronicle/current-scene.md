@@ -1,14 +1,16 @@
 # Current scene
 
-- Location: House Merrow's Veyrhold townhouse — dance floor
-- Time: later evening, 6th of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: The final set before supper is underway. Elowen is dancing a second time with Julian Merrow and, at her friend's insistence, trying to let one dance remain socially playful rather than politically useful.
+- Location: Vale carriage leaving House Merrow's Veyrhold townhouse
+- Time: night, 6th of Emberfall, Year 312 of the Crown
+- Scene significance: routine
+- Situation: The Merrow ball has ended for Elowen. After supper she slips away from the remaining guests and is riding home in the Vale carriage, privately smiling after an evening that mixed courtship, political education, danger, gossip, and genuine enjoyment.
 
 ## Recent beats
-- Julian calls the ball a success because mutually suspicious factions have remained under one roof without violence and guests appear to have enjoyed themselves. He adds that two dances with agreeable company improve his personal assessment.
-- Elowen's friend watches from the edge of the floor and silently mouths 'No politics.' Julian notices her increasingly emphatic expressions and comments on them.
-- Elowen laughs and invents a teasing lie about her friend rather than explaining the real signal. She tells Julian, with mock seriousness, that her friend is furious because Elowen promised to help her identify which gentleman stole a sugared apricot from her plate and has instead abandoned the investigation to dance.
-- Julian plays along, treating the invented offense as a grave breach of hospitality and suggesting House Merrow may need to interrogate every gentleman present.
-- Elowen's friend cannot hear the lie from the edge of the floor and therefore does not know what story Elowen is telling about her.
-- The exchange is deliberately harmless social play and does not create a real accusation, romantic rumor, or political claim about the friend or any named guest.
+- Elowen's final dance before supper is a second dance with Julian Merrow. At her friend's insistence she tries to let it remain playful rather than politically useful.
+- Elowen invents a harmless lie that her friend is angry because someone stole a sugared apricot from her plate; Julian plays along, and Elowen laughs freely during the dance.
+- After supper Elowen manages to make her departure without being trapped in another long conversation.
+- Once alone in the Vale carriage, away from the ballroom's scrutiny, Elowen smiles to herself.
+- The evening leaves Elowen with several reportable pieces of caveated intelligence: Dacre may lean Oren due to legal clarity and fear of civil war; Corren may lean Cassian because of border-security concerns; Merrow may value office or council influence before committing; and Elowen's own second dance with Adrian is already generating marriage speculation.
+- Elowen also learned directly from Cassian that he wants eventual Vale support but presently accepts neutrality; he views an Adrian marriage according to its actual political terms; he says he does not know who attacked the Vale convoy and is investigating; and he believes Vale-Veyne enmity need not be permanent.
+- Socially, Elowen granted Adrian permission to court her informally, danced with him twice, danced with Julian twice, had a long private-adjacent public conversation with Cassian but did not dance with him, and encouraged Emelie's hopes after suggesting Cassian dance with her.
+- The next likely beat is Elowen's return to the Vale residence and any report she chooses to give Garrick, but no report has yet occurred.
