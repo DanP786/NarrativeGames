@@ -3,14 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange has become a direct political assessment of what Cassian wants from Vale and why Elowen's marriage matters to him.
+- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange has become a direct political assessment of what Cassian wants from Vale, mixed with a smaller amount of unexpected personal candor.
 
 ## Recent beats
-- Cassian explains that he sought advance warning of Elowen's marriage because a match—especially to Adrian—could bind Vale's future inheritance to Oren's dynasty without a formal Vale declaration. Warning gives Cassian time to respond, whereas demanding a total marriage prohibition would have been an excessive and likely unacceptable concession.
-- Cassian says he does not need Elowen unmarried for its own sake; he needs notice before her marriage shifts the succession balance.
-- Elowen asks what Cassian would actually do if Garrick told him she was to marry Adrian.
-- Cassian says his first action would be to ask Garrick whether the marriage represented a Vale political alignment with Oren or merely a dynastic match. He would not accept a claim of continuing neutrality at face value if the marriage terms gave Oren influence over Vale troops, succession, lands, or policy.
-- If the match were not yet final, Cassian would try to make it less attractive: improve his offer to Vale, expose costs in Oren's terms, pressure undecided houses so the marriage bought Garrick less, and seek counter-alliances. He would use the warning period rather than immediately resort to force.
-- If Garrick had already irrevocably committed Elowen to Adrian and the terms effectively joined Vale to Oren, Cassian would treat Vale neutrality as strategically compromised and prepare accordingly. He does not threaten to seize Elowen or kill Adrian merely to prevent the marriage.
-- Cassian adds that if the marriage truly carried no political commitments beyond kinship, he would dislike it but would have to judge the actual terms rather than pretend every wedding automatically constituted rebellion. He emphasizes that what matters is what the marriage gives Oren.
-- Cassian's answer gives Elowen concrete information for Garrick: his likely response to an Adrian match begins with scrutiny, bargaining, counter-pressure, and alliance-building, escalating only if the marriage materially aligns Vale with Oren.
+- Cassian explains that warning of Elowen's marriage matters because a match such as Adrian could materially align Vale with Oren even without a formal military oath. He sought information and reaction time rather than the excessive right to prohibit her marriage.
+- Asked what he would do if Garrick announced an Adrian match, Cassian says he would inspect the terms, bargain to make the match less attractive, improve his own offer, and counter-align politically; only if the marriage materially placed Vale in Oren's camp would he treat neutrality as compromised.
+- Elowen shifts uncomfortably, looks away, and asks Cassian whether he intended to tell her so much.
+- Cassian says yes, in substantial part. He knows Elowen is gathering information and expects much of what he says to reach Garrick. He wants Garrick assessing a concrete, predictable Cassian rather than court rumor or Oren's characterization of him.
+- Cassian points out that truthful disclosure can itself be strategic when the truth makes one's position intelligible: Vale is more likely to bargain with a claimant whose likely reactions and minimum terms it understands.
+- He also tells Elowen that deliberate candor is not the same as complete disclosure; he has not told her secrets that would weaken his position if repeated.
+- When Elowen's question implicitly encompasses the personal conversation as well as political information, Cassian allows a small ambiguity: he says not every answer he gave her was chosen because he expected Garrick to hear it, without specifying which answers were genuinely personal. The exchange preserves the slow-burn tension without converting hostility into premature trust.

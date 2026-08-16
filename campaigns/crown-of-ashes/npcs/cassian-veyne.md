@@ -24,16 +24,16 @@ A tall nobleman in his early thirties, severe in mourning black. He speaks witho
 - Last resort: civil war and lethal force against rival claimants or houses that make coexistence impossible.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 8 / 100 — Elowen's earlier factual honesty remains the only meaningful evidence of reliability.
-- Affection: 11 / 100 — a first sliver of personal interest emerges from an unexpectedly candid conversation about music and the burden of command, but Rowan's killing and the feud remain overwhelming barriers.
-- Respect: 38 / 100 — Elowen is beginning to identify the difference between Cassian's minimum strategic demand and what he actually desires from Vale.
+- Trust: 9 / 100 — Elowen openly acknowledges how much information Cassian has given rather than pretending she was not assessing him; this slight candor adds marginal credibility.
+- Affection: 12 / 100 — the sustained exchange has become unexpectedly engaging, though hostility, Rowan's death, and the feud remain dominant.
+- Respect: 40 / 100 — Elowen not only gathers information but notices that Cassian has been deliberately allowing her to gather it, showing growing political awareness.
 - Loyalty: 0 / 100 — none.
 - Fear: 8 / 100 — Elowen herself remains unarmed, but her family has immediate cause for vengeance.
-- Suspicion: 63 / 100 — her questioning is now unmistakably a political assessment of Cassian's terms and ambitions, though she remains candid enough to ask directly rather than conceal the inquiry.
+- Suspicion: 62 / 100 — Cassian knows she is assessing him but her explicit acknowledgment makes the exchange less covert and therefore slightly less suspicious.
 - Resentment: 70 / 100 — the feud remains renewed in living blood, moderated only slightly by the functioning restraint agreement.
 
 ## Relationship to player
-Hostile and politically watchful. Cassian saved Elowen from a royal guardsman and pulled her into his lines, partly preserving valuable leverage; he later retained her during the withdrawal. Moments after her rescue, Rowan charged Cassian and Cassian killed him at close range in front of Elowen. Elowen later factually confirmed that Cassian had not threatened her with a blade. Cassian has now formally recognized Elowen as Garrick's heir as part of a thirty-day political restraint, making her dynastic position directly relevant to his strategy. At the Merrow ball, their first sustained conversation without negotiators or armed men moves between personal candor and political testing. Cassian recognizes that Elowen is assessing him as a possible king and is beginning to distinguish his tactical minimum—continued Vale neutrality—from his preferred outcome of active Vale support.
+Hostile and politically watchful. Cassian saved Elowen from a royal guardsman and pulled her into his lines, partly preserving valuable leverage; he later retained her during the withdrawal. Moments after her rescue, Rowan charged Cassian and Cassian killed him at close range in front of Elowen. Elowen later factually confirmed that Cassian had not threatened her with a blade. Cassian has now formally recognized Elowen as Garrick's heir as part of a thirty-day political restraint, making her dynastic position directly relevant to his strategy. At the Merrow ball, their first sustained conversation without negotiators or armed men moves between personal candor and political testing. Cassian recognizes that Elowen is assessing him as a possible king and deliberately gives her selected truthful information he is willing for Garrick to hear, using candor itself as part of his effort to make Vale view him as a predictable and viable ruler.
 
 ## History with player
 - Their houses carry an unresolved blood-feud predating their first meaningful interaction.
@@ -47,7 +47,9 @@ Hostile and politically watchful. Cassian saved Elowen from a royal guardsman an
 - During the grain council Elowen proposed a neutral Vale escort that resolved both Cassian's concern about claimant control and Oren's concern about divided command. She then pledged unspecified Vale soldiers without Garrick's authorization; Garrick immediately narrowed the commitment. Cassian witnessed both the useful proposal and the overstep.
 - At House Merrow's ball, Elowen visibly startled when Cassian appeared beside her but remained to speak with him. Their conversation shifted from the political usefulness of balls to her love of music. She admitted she plays piano and said she loves to play because soldiers do not lose their lives if she plays poorly.
 - Cassian admitted he rides alone for respite and plainly stated that he wants the Crown rather than claiming reluctant duty. Elowen asked whether a victorious Cassian would have House Vale kneel or be destroyed; Cassian said an agreement-honoring neutral Vale would be expected to submit to the Crown but not be destroyed, while open armed opposition could bring forfeiture, hostages, executions, or destruction if necessary to secure his throne.
-- Elowen then asks whether Cassian seeks only Vale neutrality rather than Vale favor, forcing him to distinguish his minimum acceptable outcome from his desired one.
+- Cassian explains that neutrality is his present minimum, while active Vale support is his preferred outcome. He explains that warning of Elowen's marriage gives him reaction time because an Adrian match could materially align Vale with Oren even without a formal oath.
+- When Elowen asks what he would do if Garrick announced an Adrian marriage, Cassian says he would first inspect the actual terms, then bargain and counter-pressure rather than immediately use force; only a match that materially shifted Vale into Oren's camp would cause him to treat neutrality as compromised.
+- Elowen then points out that Cassian has told her a considerable amount and asks whether he intended to. Cassian confirms that much of his candor is deliberate: he knows she will report to Garrick and wants Vale assessing the real terms and predictability of his prospective rule rather than rumors. He also acknowledges, without specifying which parts, that not every detail of their conversation was selected solely for political transmission.
 
 ## Knowledge
 - Knows Elowen is Garrick Vale's only surviving child and has been publicly named heir to House Vale.
@@ -59,7 +61,7 @@ Hostile and politically watchful. Cassian saved Elowen from a royal guardsman an
 - Knows Elowen can identify practical political distinctions but is inexperienced about the limits of her authority.
 - Knows Elowen's marriage is now a major strategic lever for House Vale and rival claimants.
 - Knows Elowen plays piano, genuinely loves playing, and associates the safety of music with relief from the lethal consequences of political command.
-- Knows Elowen is personally testing what his kingship and political demands would mean for Vale.
+- Knows Elowen is personally testing what his kingship and political demands would mean for Vale and now realizes at least some of his candor is deliberate.
 - Does not know Elowen's private feelings about Rowan, Cassian, her attraction to his appearance, or her fears beyond what she outwardly reveals.
 
 ## Relationships with other NPCs
