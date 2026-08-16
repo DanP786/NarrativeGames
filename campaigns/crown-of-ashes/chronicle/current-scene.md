@@ -1,15 +1,14 @@
 # Current scene
 
-- Location: House Merrow's Veyrhold townhouse — ballroom
+- Location: House Merrow's Veyrhold townhouse — dance floor
 - Time: later evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The musicians are preparing the final set before supper. Elowen's friend has challenged her to one dance chosen for enjoyment rather than politics, only to realize that even waiting to be asked has political meaning now that Elowen is Vale's heir.
+- Situation: The final set before supper is beginning. After joking with a trusted friend about the impossibility of a politically meaningless dance, Elowen has accepted a second dance with Julian Merrow.
 
 ## Recent beats
-- Elowen looks at her friend as though she is mad when told to wait and see who approaches. The friend realizes this would simply reveal who is willing to make a visible approach to the Vale heiress and admits she has accidentally invented another political experiment.
-- As they joke about the impossibility of a politically meaningless dance, the friend's attention shifts over Elowen's shoulder and she says, 'Oh,' then claims it is nothing with conspicuous innocence.
-- Elowen turns.
-- Julian Merrow is approaching through the ballroom as the final set forms. He has already danced with Elowen once earlier in the evening and previously gave her broad, cautious information about the succession while refusing to disclose his father's preference.
-- Julian stops at a proper distance and greets Elowen and her companion. He notes that the musicians are calling the last set before supper and asks Elowen whether she would grant him another dance.
-- Julian's approach is socially plausible as the host family's son attending to a prominent guest, but because it would be a second dance it may also attract some interpretation. His private motive is not assumed beyond what he says and does on-page.
-- Elowen has not yet answered. Her friend remains beside her and is making an effort not to react visibly to the irony of someone approaching immediately after their discussion.
+- Elowen's friend challenges her to choose one dance for enjoyment rather than political utility, then realizes even waiting to see who asks Elowen now carries political meaning because she is Vale's heir.
+- Immediately afterward Julian Merrow approaches, notes his host-family duty to prevent important guests being abandoned at the ballroom edge, and asks Elowen for the final dance before supper.
+- Smiling, Elowen takes Julian's offered hand and accepts.
+- Julian leads Elowen onto the floor with proper courtesy. This is their second dance of the evening, just as Elowen has danced twice with Adrian; it may therefore attract some interpretation, but Julian's stated public rationale as the host's son gives the interaction an ordinary social explanation as well.
+- Elowen's friend remains behind, visibly amused by the irony but does not interfere.
+- No private romantic or political motive is assumed for Julian beyond his on-page conduct. Elowen remains free to make the dance light, question him, flirt, observe, or simply enjoy it.
