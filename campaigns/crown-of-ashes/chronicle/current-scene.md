@@ -3,11 +3,11 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: After visible dances with Julian Merrow and Adrian, Elowen is speaking directly with Cassian Veyne at the refreshments. The Vale-Veyne restraint remains active and Elowen's marriage prospects are being closely watched.
+- Situation: After visible dances with Julian Merrow and Adrian, Elowen is speaking directly with Cassian Veyne at the refreshments. Their conversation has shifted briefly from politics toward music.
 
 ## Recent beats
-- Cassian asks whether Elowen has found the evening informative, inviting her to disclose what she has learned.
-- Elowen answers, 'I am here to enjoy the evening,' declining to reveal information, then asks Cassian whether he is enjoying it. Though privately anxious and determined to keep him talking, only her visible unease and words are available to Cassian.
-- Cassian recognizes the conversational deflection and answers without mocking it. He says enjoyment is not the principal reason he attends balls, but they are useful because people reveal alliances through whom they approach, avoid, dance with, and watch.
-- Cassian thereby gives Elowen a genuine piece of his political method while also making clear that he is observing the same social signals she is. His gaze briefly passes toward the ballroom, where Adrian and other politically significant guests remain visible, but he does not state what he infers about Elowen's dances.
-- Cassian then returns the conversation to Elowen less aggressively, asking whether she has always enjoyed court balls, a question grounded in her known social role rather than directly probing Vale policy.
+- Cassian explains that he attends balls because people reveal alliances through social choices even when they believe they are not negotiating. He says he is not enjoying the evening but is learning from it.
+- Cassian asks Elowen whether she has always enjoyed balls.
+- Elowen answers automatically and without calculation, 'Yes, I love the music.'
+- Cassian can observe that this answer comes more readily than her guarded political replies, but he cannot know her private emotional state. He glances toward the musicians and asks whether she means dancing to music or music itself.
+- The exchange creates a narrow piece of socially neutral ground between them: Cassian has not yet used her answer to probe Vale policy, Rowan, or Adrian, and Elowen has disclosed only a personal preference already consistent with her public accomplishments.
