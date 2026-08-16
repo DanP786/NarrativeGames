@@ -3,13 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange has moved from guarded politics into personal habits and then directly back to the succession.
+- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange has moved from personal habits directly into what Cassian's possible kingship would mean for House Vale.
 
 ## Recent beats
-- Cassian tells Elowen that his equivalent of her piano is riding alone and hard enough that horse, ground, and weather demand his complete attention. He has had little opportunity for it recently.
-- Elowen asks Cassian directly, 'Do you care who becomes king?'
-- Cassian treats the question seriously rather than evading it. He says yes: he intends to become king and will not pretend otherwise merely to make himself easier company.
-- Cassian distinguishes ambition from indifference to the consequences of rule. He says the identity of the king matters because the victor will decide which factions are punished, which bargains survive, whether the realm is governed strongly enough to prevent continuing private wars, and whether houses that opposed the winner can still live under the settlement.
-- He frames Oren as a rival whose victory could leave Cassian and House Veyne dependent on Oren's mercy or political containment; he does not claim certainty that Oren would destroy them, but refuses to gamble his house's survival on another claimant's goodwill.
-- Cassian admits plainly that he wants the crown for himself, not merely as a defensive necessity. This gives Elowen a direct statement of ambition rather than a sanitized claim of reluctant duty.
-- The answer gives Elowen useful information for Garrick: Cassian presents his claim as both personal ambition and a survival calculation for House Veyne, and he sees the post-victory settlement—how enemies are treated—as central to whether a claimant is safe to support.
+- Cassian admits plainly that he intends and wants to become king. He says the victor will decide which bargains survive, how defeated factions are treated, and whether private wars continue.
+- Cassian says he will not entrust House Veyne's survival to Oren's generosity if Oren wins, while refusing to disguise his own ambition as mere defensive necessity.
+- Elowen asks whether Cassian, if victorious, would have House Vale kneel or destroy it.
+- Cassian recognizes that Elowen is now directly assessing his prospective reign. He answers that if Vale remains neutral through the contest and honors its agreements, he would require the ordinary submission owed by a great house to a crowned king, not its destruction. He says destroying a powerful house merely because of an inherited feud would waste soldiers, revenues, and stability he would need to govern.
+- Cassian does not offer unconditional safety. If Vale takes arms against him, shelters an active rival after settlement, or breaks sworn terms in a way that threatens his throne, he would treat Vale as an enemy and the consequences could include forfeiture or destruction. He refuses to promise otherwise.
+- He distinguishes submission to the Crown from submission to House Veyne: his stated settlement would require Garrick and Elowen to acknowledge him as king and obey royal law, not surrender Vale lands or identity merely to satisfy the feud.
+- Cassian's answer is useful but self-interested: it presents a concrete incentive for continued Vale neutrality while warning what open opposition would risk. Elowen now has a clearer statement to report to Garrick about the terms Cassian claims he would impose after victory.
