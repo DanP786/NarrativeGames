@@ -3,13 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. What began as guarded political conversation has shifted into unexpectedly personal ground around music and the cost of command.
+- Situation: Elowen and Cassian are having their first sustained conversation without negotiators or armed men. Their exchange has moved from guarded politics into personal habits and then directly back to the succession.
 
 ## Recent beats
-- Elowen says she genuinely loves playing piano because soldiers do not lose their lives if she plays poorly, connecting music to the recent convoy casualties.
-- Cassian tells her that command has consequences but distinguishes ordering men onto a road from the ambushers who killed them. He says a ruler unable to bear consequences becomes incapable of deciding, while one who ceases to feel the cost becomes dangerous.
-- Cassian suggests there may be wisdom in keeping one thing in life where a mistake is only a wrong note.
-- Elowen raises an eyebrow and asks Cassian whether he has something like that in his own life.
-- The question turns Cassian's personal inquiry back on him. He pauses rather than immediately deflecting, recognizing that an honest answer gives Elowen information about him without obvious political benefit.
-- Cassian answers that he rides alone when circumstances permit—not for hunting, inspection, or military purpose, but simply to ride hard enough that attention narrows to horse, ground, and weather. He notes that he has had little opportunity for it recently.
-- He does not romanticize the admission or claim it makes him gentler. The exchange nonetheless gives Elowen a small genuine fact about Cassian's private habits and preserves the emerging reciprocity of their conversation.
+- Cassian tells Elowen that his equivalent of her piano is riding alone and hard enough that horse, ground, and weather demand his complete attention. He has had little opportunity for it recently.
+- Elowen asks Cassian directly, 'Do you care who becomes king?'
+- Cassian treats the question seriously rather than evading it. He says yes: he intends to become king and will not pretend otherwise merely to make himself easier company.
+- Cassian distinguishes ambition from indifference to the consequences of rule. He says the identity of the king matters because the victor will decide which factions are punished, which bargains survive, whether the realm is governed strongly enough to prevent continuing private wars, and whether houses that opposed the winner can still live under the settlement.
+- He frames Oren as a rival whose victory could leave Cassian and House Veyne dependent on Oren's mercy or political containment; he does not claim certainty that Oren would destroy them, but refuses to gamble his house's survival on another claimant's goodwill.
+- Cassian admits plainly that he wants the crown for himself, not merely as a defensive necessity. This gives Elowen a direct statement of ambition rather than a sanitized claim of reluctant duty.
+- The answer gives Elowen useful information for Garrick: Cassian presents his claim as both personal ambition and a survival calculation for House Veyne, and he sees the post-victory settlement—how enemies are treated—as central to whether a claimant is safe to support.
