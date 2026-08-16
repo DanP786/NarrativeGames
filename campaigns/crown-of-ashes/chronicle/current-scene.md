@@ -3,12 +3,12 @@
 - Location: Palace of the White Hart, Veyrhold — private gallery
 - Time: late afternoon, 29th of Harvestwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: After Elowen publicly overcommitted Vale soldiers during the grain council, Garrick privately debriefs her.
+- Situation: After Elowen publicly overcommitted Vale soldiers during the grain council, Garrick privately debriefs her. Elowen's discouragement deepens into doubt about whether she should be his heir at all.
 
 ## Recent beats
-- Elowen proposed that neutral House Vale provide a single-command escort for the next grain convoy under civic authority. Both Oren and Cassian accepted the concept.
-- Elowen then pledged the soldiers necessary, exceeding the authority Garrick gave her. Garrick publicly narrowed the commitment to a force size to be determined after reviewing the route and threat.
-- Elowen became visibly chastened and later looked for Cassian, discovering that he had witnessed both her successful proposal and her overstep.
-- In the private gallery Garrick asks Elowen to identify her mistake. With her head bowed, she says that only one voice speaks for House Vale and that she spoke with authority she did not have, then apologizes.
-- Garrick tells her she has correctly identified the lack-of-authority problem but partially misunderstood the 'one voice' lesson: as his acknowledged heir she will increasingly be expected to speak for House Vale, and he deliberately told her to speak in council. Her actual error was making an unlimited commitment without defining its cost or confirming what she was authorized to spend.
-- Garrick emphasizes that the original proposal itself was good and that he will not train Elowen into silence by treating every mistake as proof she should not speak. He instructs her that when committing House Vale she must know the limit: how many men, for how long, under whose command, for what purpose, and what ends the obligation.
+- Elowen proposed that neutral House Vale provide a single-command escort for the next grain convoy. Both Oren and Cassian accepted the concept.
+- Elowen then pledged the soldiers necessary without defining the commitment or possessing authority to set its scope. Garrick publicly narrowed the pledge.
+- Garrick privately explains that Elowen's original proposal was good and that her mistake was not speaking, but committing House Vale without limits: number of men, duration, command, purpose, and termination.
+- Elowen's shoulders slump and she asks, defeated, whether Garrick is sure she should be his heir.
+- Garrick answers that Elowen is his heir because she is his surviving legitimate child and because he has chosen to uphold her succession rather than bypass her for a distant male cousin. He does not pretend she is presently prepared to rule; he says plainly that she is not. He distinguishes present unpreparedness from permanent incapacity and takes responsibility for having spent twenty-three years preparing Rowan rather than Elowen.
+- Garrick points to the grain proposal as evidence that Elowen can perceive useful solutions even while lacking experience in authority. He tells her he will judge whether she can become fit to rule by whether she learns from mistakes, not by whether she avoids making them during her first weeks of instruction. He refuses to replace her merely because learning is painful.
