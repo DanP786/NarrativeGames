@@ -3,13 +3,13 @@
 - Location: House Merrow's Veyrhold townhouse — refreshments at the ballroom edge
 - Time: evening, 6th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Cassian is dancing with Lady Emelie after a long conversation with Elowen. Adrian, who earlier received Elowen's permission to court her informally, is speaking with Elowen at the refreshments about the political attention surrounding her new status as Vale's heir.
+- Situation: Cassian is dancing with Lady Emelie. Adrian, who has Elowen's permission to court her informally, is speaking with Elowen at the refreshments about how marriage to a ruling heiress could work in practice.
 
 ## Recent beats
-- Elowen says more people have paid attention to her since Garrick named her heir. Adrian agrees: her conversations, dances, and marriage are now interpreted as possible signals about Vale's future.
-- Adrian acknowledges that his own position as Oren's brother means his interest in Elowen cannot be entirely separated from politics, but reiterates that he asked to court Elowen personally rather than merely negotiate for Vale.
-- Elowen smiles, agrees that Veyrhold will conflate the two, watches the dancers, and asks whether Adrian intends to live at the palace if Oren is crowned.
-- Adrian answers that he expects to spend substantial time at court if Oren becomes king because a king needs trusted family nearby, but he does not particularly desire to spend his entire life in the palace.
-- He says his future would depend partly on what duties Oren gave him and, if Adrian eventually married, what responsibilities his wife carried. He does not assume that a wife who inherited a great house would simply abandon her lands to live permanently at court.
-- Without proposing terms or presuming marriage to Elowen, Adrian notes that if he married a ruling heiress, residence would have to be negotiated around her obligations as well as his own. This directly addresses one of the dynastic issues Elowen has begun considering tonight.
+- Elowen asks whether Adrian would live at the palace if Oren became king. Adrian says he expects substantial court duties because Oren trusts him, but does not want to spend his entire life in the palace.
+- Adrian says that if he married a woman who would govern a great house, he would not assume she should abandon her lands for his convenience; residence and responsibilities would need to be negotiated.
+- Elowen teasingly points out, 'Heirs do not make themselves. Your absence could be dire,' then bites her lip trying not to laugh.
+- Adrian is briefly caught off guard by the unusually direct dynastic joke, then laughs. He agrees that prolonged absence would present an obvious practical defect in any arrangement intended to continue a house.
+- Adrian keeps the exchange playful rather than presuming physical intimacy or treating Elowen's joke as consent to anything beyond the informal courtship already granted.
+- He says that in the hypothetical case of marrying a ruling heiress, producing and raising heirs would be one of the responsibilities requiring him to spend meaningful time where his wife and her house were based, not merely visit ceremonially between court duties.
 - Adrian has no dedicated NPC file yet; no hidden disposition values or off-page history are assumed.
