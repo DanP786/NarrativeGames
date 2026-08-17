@@ -1,15 +1,17 @@
 # Current scene
 
-- Location: Vale residence in Veyrhold — Lord Garrick's solar
-- Time: morning, 7th of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Garrick and Elowen have used the convoy reports to build a beneficiary map without accusing any house. Elowen now asks what her next duties are as Garrick's heir.
+- Location: Vale residence in Veyrhold — Garrick's solar and household offices
+- Time: several days following 7th of Emberfall, Year 312 of the Crown
+- Scene significance: routine
+- Situation: Elowen follows Garrick's instructions exactly and begins the unglamorous practical education required of Vale's heir while maintaining her ordinary social correspondence and leaving the convoy investigation to disciplined verification.
 
 ## Recent beats
-- Garrick says Merrow and Dacre belong on a preliminary list of undeclared houses whose leverage should be compared before and after the convoy attack; Corren is less useful for that narrow theory if reports of its Veyne lean prove true. He stresses that this is not a complete map of Ardelane's houses.
-- Garrick plans to have his secretary compile recent approaches, envoys, invitations, and known offers involving undeclared houses so Vale can compare pre- and post-ambush bargaining leverage. No culprit is established.
-- Elowen asks, 'What is next for me?'
-- Garrick gives her three immediate responsibilities. First, continue her political education by sitting in on selected household business and reviewing correspondence with him rather than being sent away as before. Second, continue receiving Adrian's courtship if she wishes, but make no promise concerning marriage, residence, military command, succession rights, or Vale allegiance without Garrick's knowledge; she is to learn Adrian's character as well as what an Adrian match would mean politically.
-- Third, Elowen is to maintain her ordinary correspondence with trusted noblewomen and social acquaintances without suddenly interrogating them. She should listen for changes in how households speak about Oren, Cassian, the convoy, and neutral houses, and preserve source distinctions as she did in her report.
-- Garrick does not order Elowen to seek Cassian out again. Because Cassian killed Rowan and the Vale-Veyne restraint is politically delicate, any further direct political contact with Cassian should arise naturally in court or be deliberately authorized rather than pursued recklessly for information.
-- Garrick also tells Elowen she will begin learning Vale's own practical governance—revenues, grain, levies, tenants, roads, and obligations—because an heir who understands only court politics cannot rule a house.
+- Garrick assigns Elowen to learn practical governance: revenues, grain, roads, levies, tenant disputes, and reciprocal obligations; to continue normal correspondence with trusted noblewomen while listening for political changes and preserving source distinctions; and to continue Adrian's informal courtship if she wishes without making promises about marriage, allegiance, military command, inheritance, residence, or a husband's rights over Vale.
+- Garrick does not order Elowen to seek Cassian out. Any further direct contact with him should arise naturally or be deliberately authorized.
+- Elowen does exactly as Garrick instructed.
+- Over the following days she sits through selected household business that she would previously have been excluded from. She begins learning that Vale's strength is made from concrete systems rather than abstract prestige: grain stores must cover household consumption and obligations; roads determine whether rents, soldiers, and food can move; levies have planting and harvest costs; favors and exemptions granted to tenants or bannermen create later precedents.
+- Elowen initially remains quiet and deferential in these meetings, listening more than speaking. Garrick occasionally asks her to summarize what she thinks the actual decision is and who bears its cost, continuing his habit of making her reason rather than simply obey.
+- Elowen maintains her existing correspondence without abruptly turning letters into interrogations. She listens for changes in language around Oren, Cassian, the convoy attack, and undeclared houses, but no new verified political intelligence is established during this compressed interval.
+- Vale's secretary continues compiling the promised comparison of undeclared houses and approaches by the rival claimants; it is not yet complete in this beat.
+- Adrian's courtship remains permitted but no new meeting, proposal, promise, or political concession occurs during this compressed interval.
+- The convoy attack remains unresolved, with no faction proven responsible.
