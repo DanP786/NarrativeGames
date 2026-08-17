@@ -3,14 +3,13 @@
 - Location: Vale residence in Veyrhold — Lord Garrick's solar
 - Time: morning, 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick is teaching Elowen to turn gathered intelligence into disciplined hypotheses. Elowen has connected Cassian's observation about neutral houses gaining bargaining leverage with the unresolved convoy attack and wonders whether Merrow could benefit from prolonging uncertainty.
+- Situation: Garrick and Elowen are examining how to turn uncertain intelligence into disciplined inquiry. Elowen has asked whether Garrick's men learned anything further from the evidence gathered after the unresolved Vale grain-convoy ambush.
 
 ## Recent beats
-- Garrick explains that verification is itself an action and that weak intelligence should not automatically trigger policy. Corren is a sensible first verification target through ordinary contact on border security; Dacre can be watched; Merrow's supposed appetite for office should not be tested too directly because doing so could inflate his price.
-- Elowen recalls Cassian telling her that prolonged neutrality lets Merrow continue negotiating favorable terms with both claimants.
-- Elowen cautiously proposes a hypothesis: if Merrow benefits from continued uncertainty, a Merrow-linked actor could in theory have attacked the Vale convoy while planting Veyne evidence, expecting Vale to focus suspicion on Oren or Cassian. Prolonged uncertainty could keep Vale uncommitted and increase the value of other neutral houses, potentially including Merrow.
-- Elowen immediately qualifies the idea, apologizing because she knows Garrick warned against inventing possibilities without proof and because Cassian's framing sparked the thought.
-- Garrick does not treat the hypothesis as evidence or accuse Merrow. He corrects Elowen's apology rather than her reasoning: generating a possibility is permissible if she labels it as hypothesis and then tries to disprove it; the danger is confusing a coherent motive with proof.
-- Garrick identifies weaknesses in the theory for Elowen to test: Merrow would be taking an enormous risk by attacking Vale soldiers; continued Vale neutrality does not automatically increase Merrow's value if the attack destabilizes the city or pushes Vale unpredictably toward one claimant; and Cassian benefits from directing Vale's suspicion toward third parties, so his observation must not be allowed to frame the entire inquiry.
-- Garrick nevertheless considers the hypothesis worth quietly checking alongside others. He says Vale should examine capability and opportunity without signaling suspicion: who knew the convoy route and timing, who could obtain or counterfeit Veyne badges, who had armed men positioned to strike, and who materially benefited afterward.
-- No accusation against House Merrow is made or communicated outside the solar.
+- Elowen proposes Merrow as one possible beneficiary of prolonged Vale neutrality but explicitly labels the idea as speculation prompted partly by Cassian's framing. Garrick tells her not to apologize for forming hypotheses, only to avoid mistaking them for evidence.
+- Garrick challenges the Merrow theory and notes Cassian benefits if Vale looks away from Veyne. He nevertheless identifies neutral investigative questions: who knew the route and timing, who could obtain Veyne badges, who had armed men positioned to strike, and who actually benefited afterward.
+- Elowen asks whether Garrick's men got any further with the physical evidence from the convoy attack.
+- Garrick refuses to recite uncertain specifics from memory and says he wants the reports in front of him before treating any detail as fact, particularly because three Vale soldiers died in the attack.
+- Garrick rings for a servant and orders the convoy-investigation papers brought from his secretary. Elowen nods and waits.
+- A servant leaves to retrieve the papers. Garrick remains at the desk with Elowen rather than filling the interval with invented evidence. The existing canon remains unchanged: three Vale soldiers were killed, seven wounded, Veyne badges were associated with the attackers, and no faction has been proven responsible.
+- No detailed forensic findings beyond those established facts have yet been canonized; the report will need to be established when it is actually opened and discussed.
