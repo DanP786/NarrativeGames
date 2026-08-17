@@ -3,13 +3,13 @@
 - Location: Vale residence in Veyrhold — Lord Garrick's solar
 - Time: morning, 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick and Elowen are reconstructing the convoy ambush by separating predictable consequences from accidental outcomes and asking who could benefit if Vale doubted the thirty-day restraint with Veyne.
+- Situation: Garrick and Elowen are reconstructing the convoy ambush by asking which houses could have gained bargaining leverage if Vale were pushed from neutrality toward Oren.
 
 ## Recent beats
-- Garrick points out that unexpected Vale resistance might explain why the attackers withdrew, but not why the attack began. He directs Elowen toward predictable aftermath: Vale casualties, disruption, and especially suspicion that Veyne had broken the restraint.
-- Garrick asks who benefits if Vale begins to doubt the Veyne restraint.
-- Elowen identifies Oren first because a perceived Veyne betrayal could push Vale toward him. She then extends the analysis beyond the rival claimant: a neutral house might benefit if Vale choosing Oren altered the bargaining landscape in that house's favor.
-- Garrick approves the broader beneficiary analysis but cautions that the direction of benefit must be demonstrated rather than assumed. If Vale joins Oren, some neutral houses become more valuable to Cassian as replacements; others become less valuable to Oren because he needs them less; houses already leaning one way may gain or lose leverage depending on the new balance.
-- Garrick explains that this produces a beneficiary map rather than a suspect list. Oren has the clearest immediate political benefit from Vale abandoning neutrality for his side, but that also makes him the most obvious party to frame. A neutral house could benefit indirectly, but only if Vale's movement predictably improves that house's bargaining position enough to justify the enormous risk of attacking Vale soldiers.
-- Garrick tells Elowen the next useful comparison is timing: determine which houses were actively negotiating with both claimants immediately before the convoy attack and whether their leverage measurably improved afterward. Merrow can be included in that comparison without being singled out.
-- No culprit is established; the investigation remains open.
+- Elowen identifies Oren as the clearest immediate beneficiary if the Veyne badges were meant to drive Vale toward him, then recognizes that other neutral houses could gain indirectly if Vale's movement made them more necessary to Cassian.
+- Garrick explains that benefit must be measured directionally: Vale joining Oren could make some houses more valuable to Cassian while making them less valuable to Oren. This creates a beneficiary map, not a suspect list.
+- Garrick proposes comparing houses negotiating with both claimants before and after the ambush to see whose leverage measurably improved.
+- Elowen asks whether Vale already knows which houses could fit that category.
+- Garrick says Vale has only a preliminary list rather than a complete one. From information currently established, Merrow clearly belongs on it because his house remains publicly neutral and is being courted; Dacre is worth tracking because it remains publicly undeclared despite indications it may lean Oren; Corren is less useful for this particular theory because repeated reports suggest it may already lean Cassian, though that does not remove it from the broader investigation.
+- Garrick cautions that the kingdom contains more houses than the few Elowen encountered at the ball and refuses to pretend Vale already has a complete map of every negotiation. He orders that his secretary compile recent approaches, invitations, envoys, and known offers involving undeclared houses so they can compare pre- and post-ambush leverage without singling out Merrow.
+- Oren remains a direct beneficiary hypothesis; Cassian remains a possible actual attacker or possible target of a frame. No house is accused and no new culprit is established.
