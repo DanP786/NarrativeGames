@@ -3,13 +3,13 @@
 - Location: Vale residence in Veyrhold — Lord Garrick's solar
 - Time: morning, 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick and Elowen are examining the original reports from the unresolved Vale grain-convoy ambush together. The evidence shows an organized attack, Veyne badges of uncertain provenance, mixed unmarked equipment, no captured attackers, and little interest in comprehensively stealing the grain.
+- Situation: Garrick and Elowen are examining the convoy ambush reports and using the evidence to distinguish observable facts, plausible inferences, and unproven motives.
 
 ## Recent beats
-- Elowen reads that the attackers chose a narrow stretch of road, opened with a coordinated volley, then withdrew when Vale resistance stiffened rather than pressing to destroy the escort.
-- Three Veyne badges were recovered, but the reports cannot determine whether they were issued, stolen, purchased, or copied. The dead attackers carried mixed, mostly unmarked equipment and have not been securely tied to any household.
-- The grain was not comprehensively looted, making ordinary banditry unlikely. The convoy route was broadly knowable, while the exact departure time was known to a narrower but still nontrivial circle.
-- Garrick asks Elowen what the pattern suggests. Elowen answers, 'The attack itself was the plan.'
-- Garrick agrees this is the strongest working interpretation: the attackers appear to have wanted the strike to occur more than they wanted the cargo. He distinguishes possible purposes—killing Vale men, provoking a response, demonstrating vulnerability, disrupting supply, or planting an attribution—from proven motive.
-- Garrick points out that the withdrawal after resistance stiffened may mean the attackers had a limited objective and did not consider destruction of the entire convoy worth additional casualties, though this cannot reveal which limited objective was primary.
-- He asks Elowen to take the next step without jumping to a culprit: if the attack itself was the objective, what observable change occurred afterward that a planner might have wanted?
+- Elowen identifies that the attack itself, rather than comprehensive theft of the grain, appears to have been the attackers' objective. Garrick agrees this is the strongest working interpretation but lists several possible purposes without choosing among them.
+- Garrick asks what changed after the attack that a planner might have wanted, deliberately shifting Elowen from asking who did it toward identifying consequences.
+- Elowen says she does not know and suggests the attackers may not have expected the convoy to be so well guarded.
+- Garrick treats this as a plausible inference from their withdrawal but distinguishes it from his question: unexpected resistance could explain why the attackers stopped, not why they began.
+- Garrick points Elowen back to observable aftermath already established in canon: three Vale soldiers died, seven were wounded, Veyne badges created suspicion around the thirty-day Vale-Veyne restraint, and House Vale began investigating whether Veyne or another actor had struck it.
+- He asks Elowen which of those consequences would have been predictable before the ambush, because predictable consequences are more useful for reconstructing possible intent than accidental outcomes.
+- No new culprit or hidden evidence is established.
