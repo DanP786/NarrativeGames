@@ -3,13 +3,15 @@
 - Location: Vale residence in Veyrhold — Lord Garrick's solar
 - Time: morning, 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick and Elowen are examining how to turn uncertain intelligence into disciplined inquiry. Elowen has asked whether Garrick's men learned anything further from the evidence gathered after the unresolved Vale grain-convoy ambush.
+- Situation: Garrick and Elowen are examining the original reports from the unresolved Vale grain-convoy ambush together. Garrick has invited Elowen to work from the same evidence he has rather than receive only his conclusions.
 
 ## Recent beats
-- Elowen proposes Merrow as one possible beneficiary of prolonged Vale neutrality but explicitly labels the idea as speculation prompted partly by Cassian's framing. Garrick tells her not to apologize for forming hypotheses, only to avoid mistaking them for evidence.
-- Garrick challenges the Merrow theory and notes Cassian benefits if Vale looks away from Veyne. He nevertheless identifies neutral investigative questions: who knew the route and timing, who could obtain Veyne badges, who had armed men positioned to strike, and who actually benefited afterward.
-- Elowen asks whether Garrick's men got any further with the physical evidence from the convoy attack.
-- Garrick refuses to recite uncertain specifics from memory and says he wants the reports in front of him before treating any detail as fact, particularly because three Vale soldiers died in the attack.
-- Garrick rings for a servant and orders the convoy-investigation papers brought from his secretary. Elowen nods and waits.
-- A servant leaves to retrieve the papers. Garrick remains at the desk with Elowen rather than filling the interval with invented evidence. The existing canon remains unchanged: three Vale soldiers were killed, seven wounded, Veyne badges were associated with the attackers, and no faction has been proven responsible.
-- No detailed forensic findings beyond those established facts have yet been canonized; the report will need to be established when it is actually opened and discussed.
+- Elowen asks whether Garrick's men learned anything further from the physical evidence after the convoy attack. Garrick refuses to trust his memory for uncertain specifics and orders the investigation papers brought up.
+- A thick folio arrives containing witness accounts, casualty lists, survivor notes, and an inventory of recovered items. Garrick tells Elowen to come read the evidence with him.
+- Elowen stands and reads over Garrick's shoulder, reverting physically to a deferential posture even while being included in the work as his heir.
+- The reports establish the following current investigative findings: the attackers struck on a narrow stretch of road where the convoy was slowed; surviving Vale guards consistently describe a disciplined initial volley followed by a short close assault rather than a prolonged attempt to seize every cart; the attackers withdrew once Vale resistance stiffened instead of pressing to destroy the whole escort.
+- Three Veyne badges were recovered. Two were found on dead attackers and one in the roadway. The reports cannot establish whether the badges were genuinely issued by House Veyne, stolen, purchased, or copied; their workmanship is good enough not to dismiss as crude fakes.
+- The dead attackers carried mixed, largely unmarked equipment rather than a uniform household kit. No surviving attacker was captured alive, and none of the bodies has yet been securely identified with a known household.
+- The convoy's grain was not comprehensively looted. Some sacks and one draft animal were taken or lost in the confusion, but the attackers' behavior does not read as straightforward banditry to the Vale captain who survived.
+- The route itself was not secret: Vale's departure preparations were visible, and merchants, stable hands, guards, suppliers, and political observers could plausibly have learned the road and approximate timing. The exact moment the convoy left was known to a narrower but still nontrivial set of people around the Vale household and provisioning chain.
+- No report establishes Oren, Cassian, Merrow, or any other house as responsible. The evidence supports organized planning and deliberate ambiguity but not a culprit.
