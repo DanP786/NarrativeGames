@@ -3,14 +3,13 @@
 - Location: Vale residence in Veyrhold — Lord Garrick's solar
 - Time: morning, 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has delivered her first substantial intelligence report to Garrick after the Merrow ball. Garrick has asked whether she has omitted anything else of consequence, and Elowen is carefully reviewing the evening rather than answering reflexively.
+- Situation: Elowen has completed her first substantial intelligence report after the Merrow ball. After reviewing for omissions, she has also explained the visible courtship speculation and her deliberate redirection of Cassian toward Lady Emelie.
 
 ## Recent beats
-- Elowen reports with source caveats that Dacre may lean Oren, Corren may lean Cassian, and Merrow may value Crown office or council influence before committing.
-- Elowen reports Cassian's deliberately transmissible political statements: he wants eventual Vale support but accepts neutrality as the present minimum; an Adrian marriage matters according to the actual powers and alignment it creates; he says he would counter such a match politically before assuming force; he says he does not know who attacked the convoy and is investigating; and he says Vale-Veyne enmity need not be permanent.
-- Elowen explicitly tells Garrick that Cassian knew she was assessing him and intended much of the information to reach Garrick, preventing Garrick from mistaking selected messaging for accidentally extracted secrets.
-- Elowen reports that Adrian asked permission to court her informally and that she allowed it, while making clear there was no engagement, marriage agreement, or political commitment.
-- When Garrick asks whether that is everything of consequence, Elowen pauses and deliberately reviews the rest of the evening.
-- Elowen identifies additional context worth mentioning: her second dance with Adrian is already producing marriage speculation among the court, meaning the informal courtship may generate political assumptions before any agreement exists; she also danced twice with Julian Merrow, which provides some social counterweight but may itself be noticed.
-- Elowen recognizes that she suggested Cassian dance with Lady Emelie to redirect attention from their prolonged conversation. She can report this as evidence that their conversation had become conspicuous and that Cassian was willing to cooperate in dispersing attention; Emelie's resulting romantic hopes are gossip rather than intelligence unless they produce political action.
-- Elowen has not yet spoken these additional points aloud; she is still thinking while Garrick waits.
+- Elowen reports that her second dance with Adrian was noticed and is already generating marriage speculation; she also danced twice with Julian Merrow.
+- Elowen tells Garrick she suggested Cassian dance with Lady Emelie because their own long conversation had become conspicuous. Cassian accepted the suggestion, and Emelie subsequently developed hopes of his interest; Elowen encouraged Emelie while admitting she has no evidence Cassian is genuinely interested.
+- Garrick asks once more whether anything else matters. Elowen decides the remaining personal details of the evening are not relevant intelligence.
+- Elowen shakes her head and then, somewhat tentatively, offers, 'I enjoyed last night,' expecting the personal observation may not matter to Garrick.
+- Garrick does not dismiss the comment. He distinguishes Elowen's usefulness to House Vale from her being his daughter and tells her that enjoying an evening is not a failure of duty.
+- He notes that the ability to move comfortably among peers and form genuine relationships can itself matter to a future head of House Vale, but he does not reduce her enjoyment solely to political utility.
+- Garrick's response remains restrained rather than effusive, consistent with his controlled manner and dynastic understanding of family.
