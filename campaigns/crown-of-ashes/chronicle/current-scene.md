@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Vale residence in Veyrhold — front courtyard, preparing to depart
+- Location: Veyrhold — riding toward the royal gardens and adjoining park
 - Time: afternoon, several days after 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Adrian has arrived for his first deliberate courtship outing with Elowen, a properly attended ride through the royal gardens and adjoining public park. Elowen has been consumed by learning to run House Vale and has not yet played the piano music Adrian sent.
+- Situation: Adrian and Elowen are on their first deliberate courtship outing, properly attended at a discreet distance. Adrian is trying to know Elowen personally rather than discuss succession politics.
 
 ## Recent beats
-- Elowen tells Adrian there has been little time for music while learning to run House Vale. Adrian says the music was a gift rather than an obligation and can wait.
-- Adrian tells Elowen that if the ride is another demand on time she cannot spare, she should say so; he wants her to ride with him because she chooses his company rather than because refusing a prince would feel impolite.
-- Elowen looks around to ensure no one is close enough to hear and quietly tells Adrian, 'I'd rather spend my time with you.' This is a personal statement, not a political or marital promise.
-- Elowen accepts the mounting steps so she can mount her horse sidesaddle. Adrian hears the private remark and is visibly pleased, but does not make a spectacle of it before the attendants or escorts.
-- Adrian answers quietly that he is glad and allows the moment to remain simple rather than extracting a larger declaration from her.
-- The properly attended riding party is ready to depart; no political discussion or new commitment has yet occurred.
+- Elowen privately tells Adrian she would rather spend her time with him than on her current duties. Adrian is visibly pleased but does not turn the remark into a larger declaration.
+- Once they ride out, Adrian asks Elowen for something about herself that he could not simply learn from court, excluding piano because he already knows she plays.
+- Elowen points out that everyone knows she plays piano and sings because Garrick expected her to perform at every event he hosted. This distinguishes cultivated accomplishments displayed as part of her former noble role from more private preferences.
+- After thinking, Elowen offers a small genuinely personal fact: 'I love peaches.'
+- Adrian treats the answer as meaningful rather than trivial, amused that something so ordinary is apparently less public than her musical accomplishments. He says he will remember it but jokes that sending a cartload of peaches would probably transform a private preference into a diplomatic incident.
+- Adrian reciprocates with a similarly nonpolitical personal fact rather than making Elowen do all the revealing: he dislikes pears despite frequently being served them at court and has spent years quietly trading them away at formal dinners when possible.
+- The exchange remains light and personal; no political or marital commitment occurs.
