@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — royal gardens and adjoining park
+- Location: Veyrhold — royal gardens and adjoining park, preparing to return to Vale residence
 - Time: afternoon, several days after 7th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Elowen and Adrian's first deliberate courtship ride has begun warmly, but the campaign pace now accelerates sharply at player request. The succession crisis and convoy investigation will intrude directly rather than continuing through incremental social scenes.
+- Situation: Elowen and Adrian's courtship ride has been interrupted by an urgent Vale summons. A man believed connected to the grain-convoy ambush has been captured alive in Veyrhold after being found in lodgings associated with another noble house, and news of the arrest is already spreading.
 
 ## Recent beats
-- Adrian and Elowen exchange genuinely personal facts during their ride. Elowen says she loves peaches; Adrian admits he hates pears and has secretly moved them onto Oren's plate at formal dinners for years.
-- Elowen laughs freely, and Adrian tells her he likes seeing that unguarded side of her without demanding anything from the moment.
-- OOC pacing directive from player: the campaign has become too slow and boring despite tolerance for slow-burn romance. Move promptly into a more consequential and interesting section of the story.
-- GM pacing response: compress routine courtship/governance beats and trigger a major succession/convoy development during the current outing, forcing Elowen to make meaningful decisions under pressure. Preserve slow-burn relationship development but stop spending full turns on low-stakes social increments.
-- Immediate escalation: before the ride can continue peacefully, a Vale rider arrives at speed seeking Elowen. He carries Garrick's urgent instruction that she return immediately: one of the men believed connected to the convoy ambush has been identified and taken alive in Veyrhold, but the arrest has already become politically dangerous because the man was seized from lodgings associated with a noble household.
-- The identity of that associated house and the prisoner's actual allegiance are not yet revealed in this scene beat; they will be established through the confrontation/investigation rather than prematurely summarized.
-- Adrian is present when the urgent summons reaches Elowen, creating immediate tension between her role as Vale heir, the royal succession, and a courtship that can no longer remain insulated from politics.
+- At player request, campaign pacing accelerates: routine social and governance beats will be compressed while major political consequences, revelations, danger, and decisions move forward more quickly.
+- A Vale rider arrives at speed during Elowen and Adrian's ride. Garrick is unharmed but commands Elowen's immediate return because of a breakthrough in the convoy investigation.
+- The messenger reports that a man believed to have participated in the convoy ambush has been taken alive in Veyrhold. He was seized from lodgings belonging to another noble house, making the arrest politically dangerous, and word is already spreading.
+- Elowen tells the rider, 'Very well,' then apologizes to Adrian for cutting the outing short and says she hopes they can reschedule.
+- Adrian does not object or attempt to delay her. He says they will reschedule and immediately recognizes that Elowen's duty as Vale heir takes precedence.
+- Adrian offers no demand to accompany Elowen into Vale's investigation and does not ask which house is implicated in front of the messenger. His restraint preserves Elowen's ability to return without inadvertently giving Oren's faction privileged access to Vale intelligence.
+- Elowen is preparing to ride directly back to the Vale residence with her escort. The associated noble house and the captive's actual allegiance remain unestablished until Garrick presents the evidence.
