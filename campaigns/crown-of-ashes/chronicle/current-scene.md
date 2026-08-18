@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: Vale residence in Veyrhold — front courtyard
+- Location: Vale residence in Veyrhold — front courtyard, preparing to depart
 - Time: afternoon, several days after 7th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Adrian has arrived for his first deliberate courtship outing with Elowen, a properly attended ride through the royal gardens and adjoining public park.
+- Situation: Adrian has arrived for his first deliberate courtship outing with Elowen, a properly attended ride through the royal gardens and adjoining public park. Elowen has been consumed by learning to run House Vale and has not yet played the piano music Adrian sent.
 
 ## Recent beats
-- Adrian arrives punctually with a small proper escort and greets Elowen warmly without presuming intimacy. He asks whether she tried the piano music he sent.
-- Any hint of Elowen's smile disappears. She shakes her head and says, 'There isn't much time for music while learning how to run House Vale.'
-- Adrian notices the change in her expression and does not tease her about failing to use his gift. He responds that the music was a gift, not an obligation, and that it can wait for her.
-- Adrian recognizes that Elowen's new role is consuming much of the life she previously knew, but he does not claim to know how she feels about it or criticize Garrick's training.
-- He lightly observes that if today's ride is also consuming time she cannot spare, she may say so; he would rather she choose his company than endure it from duty. The outing remains accepted unless Elowen changes her mind.
-- No political discussion or new commitment has yet occurred.
+- Elowen tells Adrian there has been little time for music while learning to run House Vale. Adrian says the music was a gift rather than an obligation and can wait.
+- Adrian tells Elowen that if the ride is another demand on time she cannot spare, she should say so; he wants her to ride with him because she chooses his company rather than because refusing a prince would feel impolite.
+- Elowen looks around to ensure no one is close enough to hear and quietly tells Adrian, 'I'd rather spend my time with you.' This is a personal statement, not a political or marital promise.
+- Elowen accepts the mounting steps so she can mount her horse sidesaddle. Adrian hears the private remark and is visibly pleased, but does not make a spectacle of it before the attendants or escorts.
+- Adrian answers quietly that he is glad and allows the moment to remain simple rather than extracting a larger declaration from her.
+- The properly attended riding party is ready to depart; no political discussion or new commitment has yet occurred.
