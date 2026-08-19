@@ -3,15 +3,14 @@
 - Location: Vale residence in Veyrhold — private breakfast room
 - Time: morning after the Southbank dead-drop surveillance
 - Scene significance: climactic
-- Situation: The Harrow trap has produced three live threads: a lamp-oil seller who received the dead-drop message, a clerk named Tomas Pell who watched the drop and has worked for House Dacre, and a sealed packet sent by money-changer Matthes Roul toward the palace quarter. Pell then entered House Merrow's townhouse grounds.
+- Situation: The Harrow trap has produced links to Dacre, Merrow, and now Lord Chancellor Edric Halvern's private house. Roul's sealed packet was delivered through Halvern's servants' entrance. Halvern administers the legal machinery surrounding the succession, making the connection potentially explosive but still unproven.
 
 ## Recent beats
-- Vale allows a child courier to retrieve the dead-drop message and follows him to a lamp-oil seller near the river steps. The child appears to be a paid courier rather than a knowing conspirator.
-- Garrick's reserve counter-surveillance follows the separate adult watcher, Tomas Pell, to a counting-house. Pell has previously done temporary account work for House Dacre, strengthening but not proving the earlier Dacre connection.
-- Veyne's watchers report that shortly after the drop was serviced, Roul closed early and sent a sealed packet by private messenger toward the palace quarter. Under the joint-operation terms, Veyne follows rather than intercepts it.
-- The Vale officer then reveals Pell later entered the grounds of House Merrow's townhouse.
-- Elowen scowls and looks to Garrick, immediately recognizing the significance because she had previously hypothesized that Merrow might benefit from prolonged uncertainty. She does not verbally accuse Merrow.
-- Garrick catches the look and explicitly warns against treating the coincidence as confirmation of Elowen's earlier theory. Pell is an itinerant clerk who works for multiple noble households; entering Merrow's grounds could reflect legitimate employment, conspiracy, or deliberate misdirection.
-- Garrick nevertheless treats the convergence as serious enough to escalate surveillance. He orders Pell watched continuously but not approached, the lamp seller identified and followed, and the destination of Roul's packet established through the agreed Veyne tail.
-- Garrick decides not to warn Lord Merrow or Dacre yet. The immediate objective is to discover whether the three trails converge on the same person or institution before anyone realizes Vale and Veyne have penetrated the network.
+- Tomas Pell, a clerk who has worked for Dacre, watched the dead drop and later entered Merrow's townhouse grounds. Garrick warns Elowen not to treat this as confirmation of her earlier Merrow hypothesis because Pell works for multiple noble households and could be legitimate, conspiratorial, or planted.
+- Veyne's tail follows Roul's messenger into the palace quarter and reports that the sealed packet was delivered through the servants' entrance of Lord Chancellor Edric Halvern's private house.
+- Elowen scowls and asks, 'If there was a conspiracy to influence the succession, why not involve us?'
+- Garrick answers that the question assumes the conspirators wanted Vale as a participant rather than as an object to be moved. House Vale's military and political weight makes it valuable, but its blood-feud with Veyne and Garrick's caution also make it difficult to trust with a covert scheme. A conspirator could gain more by manipulating Vale's reaction than by inviting Garrick into the plan.
+- Garrick further notes that the convoy attack may have been designed precisely because Vale would not willingly join such a conspiracy: killing Vale soldiers under Veyne badges could push Vale toward a desired alignment without requiring Vale's consent.
+- Halvern's role opens several possible motives without proving any: preserving legal order, engineering a particular claimant's victory, preventing civil war through illegal means, or profiting from controlled instability. Garrick refuses to select among them yet.
+- Garrick orders that Halvern not be confronted. The immediate priority remains tracing the packet inside Halvern's household, Pell's purpose at Merrow's townhouse, and the lamp seller's contacts to determine whether these strands actually converge.
 - No culprit is established.
