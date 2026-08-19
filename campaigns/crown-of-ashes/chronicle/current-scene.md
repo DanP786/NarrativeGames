@@ -1,18 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — neutral council chamber under the final days of the Vale-Veyne restraint
-- Time: evening, 28th of Emberfall, Year 312 of the Crown
-- Scene significance: climactic
-- Situation: Garrick accepts Cassian's requested meeting. The thirty-day restraint has only days remaining, and Cassian brings an urgent Sorn development that forces the investigation out of Veyrhold and creates sustained Vale-Veyne proximity.
+- Location: Veyrhold — Vale carriage returning from the neutral council chamber
+- Time: night, 28th of Emberfall, Year 312 of the Crown
+- Scene significance: charged
+- Situation: Cassian's Sorn lead has forced a small joint expedition to Greyfen Priory. Elowen will represent Vale because Garrick cannot leave Veyrhold, while Cassian goes personally for Veyne. They depart before dawn on 29th Emberfall and will spend several hard days traveling and investigating together away from the capital.
 
 ## Recent beats
-- Several quiet days bring the calendar to 27th Emberfall. The Harrow network has gone quiet while Bennet Carrow and Edric Sorn remain missing. Cassian requests a meeting both to share a new Sorn lead and discuss what follows the restraint.
-- On 28th Emberfall, Garrick and Elowen meet Cassian on neutral ground. Elowen attends as Vale's heir.
-- Cassian reports that Veyne agents found a Blackwater Exchange courier attempting to leave Veyrhold. Rather than arrest him, they followed and copied enough of his travel papers to establish a destination: Greyfen Priory, an isolated former religious estate roughly several days' ride from Veyrhold near the Vale-Veyne border roads.
-- The courier carried instructions indicating Edric Sorn is expected at Greyfen within days to close accounts, destroy records, and move surviving funds before the political restraint expires. The papers also reference a sealed ledger identified only as 'the succession book,' suggesting records may connect Harrow's network to payments involving multiple noble households.
-- Cassian argues they cannot send a conspicuous Vale or Veyne force: Sorn will flee or burn the records if scouts see either house's colors. Nor can either house safely seize the evidence alone without the other assuming manipulation or suppression.
-- Cassian proposes a small joint party traveling without banners. He insists on going personally because Sorn is his former quartermaster and can identify Veyne methods and records; Garrick refuses to leave Veyrhold while Vale's succession interests and security require him in the capital.
-- Garrick therefore designates Elowen as Vale's representative and orders a small Vale escort under discreet colors. Elowen's presence gives Vale direct custody and observation of any evidence while forcing Cassian and Elowen to travel and investigate together for several days.
-- The mission must leave before dawn on 29th Emberfall to reach Greyfen before Sorn can clear the site. The existing Vale-Veyne restraint will expire while the party is away unless extended.
-- To prevent the mission from becoming legally absurd or politically exploitable, Garrick and Cassian agree in principle to extend the restraint narrowly for the duration of the Greyfen operation and three days after both parties return, without creating an alliance or succession endorsement. Final wording is to be sealed before departure.
-- This launches the sustained forced-proximity arc: Elowen and Cassian must travel together, share operational decisions and dangerous evidence custody, and rely on one another away from Garrick, Adrian, and the capital while remaining genuine enemies.
+- Cassian reports that a Blackwater Exchange courier's copied papers place Edric Sorn at Greyfen Priory within days to close accounts, destroy records, and move funds. A referenced sealed 'succession book' may contain politically explosive payment records.
+- A conspicuous force from either house would likely cause Sorn to flee or burn evidence. Neither Vale nor Veyne can safely take sole custody of the records without creating suspicion that evidence was altered or suppressed.
+- Cassian will go personally because Sorn was his quartermaster and Cassian can authenticate Veyne accounting practices, seals, and ciphers. Garrick cannot leave Veyrhold and designates Elowen as Vale's representative with a small discreet escort.
+- Garrick and Cassian agree in principle to extend the Vale-Veyne restraint only for the Greyfen operation and three days after both parties return, without creating an alliance or succession endorsement.
+- Cassian tells Elowen to travel lightly and notes Greyfen is three hard days away if roads remain dry, teasing that there will be few balls along the way.
+- Elowen remains completely silent during the carriage journey home with Garrick. She neither protests the assignment nor discusses Cassian, the danger, or the implications of several days away.
+- Garrick does not force conversation during the ride. He allows Elowen's silence while using the journey to review the copied Greyfen papers.
+- Departure remains set for before dawn. Elowen still needs to prepare for hard overland travel rather than court.
