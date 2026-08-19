@@ -3,14 +3,15 @@
 - Location: Vale residence in Veyrhold — private breakfast room
 - Time: morning after the Southbank dead-drop surveillance
 - Scene significance: climactic
-- Situation: Elowen is breakfasting with Garrick when the first consolidated report arrives from the joint Vale-Veyne surveillance operation around Harrow's dead drop and money-changer Matthes Roul.
+- Situation: The Harrow trap has produced three live threads: a lamp-oil seller who received the dead-drop message, a clerk named Tomas Pell who watched the drop and has worked for House Dacre, and a sealed packet sent by money-changer Matthes Roul toward the palace quarter. Pell then entered House Merrow's townhouse grounds.
 
 ## Recent beats
-- Elowen proposes splitting surveillance: one house watches the dead drop while the other watches the surrounding network. Garrick approves, shares the dead-drop mechanism with Cassian while withholding Vale's source identity and Dacre connection, assigns Vale to the drop and Veyne to Roul and surrounding approaches, and adds separate Vale counter-surveillance as insurance.
-- The red-cord signal is placed before dawn. The following evening, a barefoot boy of about twelve enters the disused cooper's yard with a basket and reaches for the loose brick while, across the street, an adult man abruptly turns and walks away.
-- At breakfast the next morning, a Vale officer brings Garrick and Elowen the consolidated preliminary report.
-- Vale's dead-drop team does not seize the boy. They follow him after he retrieves a folded scrap from behind the loose brick. The boy carries it several streets and delivers it to a woman selling lamp oil from a small stall near the river steps. He appears to be a paid courier and is not treated as knowing the conspiracy's substance.
-- The separate adult watcher is followed by one of Garrick's reserve men. He goes not to Roul but to a respectable counting-house used by several noble households. The man is identified by a Vale observer as Tomas Pell, a clerk who has previously done temporary account work for House Dacre's Veyrhold establishment.
-- Veyne's watchers independently report that shortly after the dead drop was serviced, Matthes Roul closed his shop earlier than usual and sent a sealed packet by private messenger toward the palace quarter. The messenger has not yet been intercepted under the agreement not to act unilaterally.
-- The lamp-oil seller, Tomas Pell, and Roul's outbound packet now provide three simultaneous leads. Pell strengthens the Dacre connection but does not prove Lord Dacre ordered the ambush; a clerk can act privately, for another patron, or as part of a planted chain.
-- Garrick must decide quickly how to divide attention before the network realizes it is being watched.
+- Vale allows a child courier to retrieve the dead-drop message and follows him to a lamp-oil seller near the river steps. The child appears to be a paid courier rather than a knowing conspirator.
+- Garrick's reserve counter-surveillance follows the separate adult watcher, Tomas Pell, to a counting-house. Pell has previously done temporary account work for House Dacre, strengthening but not proving the earlier Dacre connection.
+- Veyne's watchers report that shortly after the drop was serviced, Roul closed early and sent a sealed packet by private messenger toward the palace quarter. Under the joint-operation terms, Veyne follows rather than intercepts it.
+- The Vale officer then reveals Pell later entered the grounds of House Merrow's townhouse.
+- Elowen scowls and looks to Garrick, immediately recognizing the significance because she had previously hypothesized that Merrow might benefit from prolonged uncertainty. She does not verbally accuse Merrow.
+- Garrick catches the look and explicitly warns against treating the coincidence as confirmation of Elowen's earlier theory. Pell is an itinerant clerk who works for multiple noble households; entering Merrow's grounds could reflect legitimate employment, conspiracy, or deliberate misdirection.
+- Garrick nevertheless treats the convergence as serious enough to escalate surveillance. He orders Pell watched continuously but not approached, the lamp seller identified and followed, and the destination of Roul's packet established through the agreed Veyne tail.
+- Garrick decides not to warn Lord Merrow or Dacre yet. The immediate objective is to discover whether the three trails converge on the same person or institution before anyone realizes Vale and Veyne have penetrated the network.
+- No culprit is established.
