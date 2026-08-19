@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Vale residence in Veyrhold — Garrick's solar after the prisoner's interrogation
+- Location: Vale residence in Veyrhold — Garrick's solar
 - Time: late night, shortly after the Vale-Veyne meeting
 - Scene significance: climactic
-- Situation: Garrick has completed a renewed interrogation of Vale's captured convoy attacker after excluding Elowen from the questioning. Elowen spent the interval playing Adrian's gifted piano music and has now been summoned because the prisoner disclosed new actionable information.
+- Situation: The captured convoy attacker has disclosed a dead-drop procedure tied to Harrow's network near the old wool market, close to money-changer Matthes Roul's premises. Garrick asks Elowen whether Vale should share the lead with Cassian immediately or exploit it alone first.
 
 ## Recent beats
-- Garrick sends Elowen away from the interrogation despite increasingly including her in governance, intelligence work, and negotiations. Elowen obeys and does not know what methods were used.
-- In her rooms, Elowen finally plays the music Adrian gave her. She initially struggles with an unfamiliar piece, improves through repetition, and finds genuine private enjoyment in it, echoing her earlier belief that music is safe because mistakes do not cost soldiers' lives.
-- A Vale guard summons Elowen downstairs, saying the prisoner gave Garrick something. Elowen answers, 'Of course,' and follows.
-- Garrick does not bring Elowen into the cellar afterward. He receives her in his solar, preserving the boundary between her role in analyzing intelligence and the methods used to obtain it.
-- Garrick tells Elowen the prisoner has supplied a recurring contact procedure for Harrow: after jobs, the hired men were told that urgent messages or payment disputes could be raised by leaving a strip of red-dyed cord tied beneath a particular public hitching rail behind the old wool market. If Harrow's network wished to answer, instructions would appear the following evening in a loose brick beside a nearby disused cooper's yard.
-- The prisoner claims he used the signal once before the convoy attack over a payment shortage and received an answer, making it more concrete than a location merely heard in passing. Vale has not yet verified the dead-drop procedure.
-- The location is close to money-changer Matthes Roul's Southbank premises, independently reinforcing the intersection with Cassian's money trail.
-- Garrick now faces a tactical choice: inform Cassian immediately under the joint-operation terms and coordinate surveillance of the dead drop, or exploit Vale's prior knowledge for a brief independent check before sharing it. No decision has yet been made.
+- The prisoner says Harrow's hired men could signal a problem by tying red-dyed cord beneath a public hitching rail behind the old wool market; an answer would appear the following evening behind a loose brick beside a disused cooper's yard. He claims to have successfully used this procedure once before the convoy attack.
+- The dead drop lies close to Matthes Roul's Southbank premises, reinforcing the independent intersection between Vale's prisoner testimony and Veyne's money trail.
+- Garrick notes that the dead-drop information predates the joint operation, so he could technically withhold it, but doing so risks undermining the narrow cooperation if discovered.
+- Asked what she would do, Elowen suggests using both houses rather than choosing between them: one watches the dead drop while the other watches the surrounding network and approaches.
+- Garrick approves the operational logic. Splitting surveillance reduces the chance that everyone focuses on the bait while missing a watcher, courier, counter-surveillance team, or movement around Roul.
+- Garrick decides Vale will disclose the dead-drop mechanism to Cassian but not the source's identity or the Dacre lodging. Vale will watch the dead drop itself because Vale possesses the procedure; Veyne will continue watching Roul and the surrounding approaches, with each side reporting relevant movement before acting.
+- Garrick also orders separate Vale men, unknown to the joint teams, to watch for counter-surveillance around both sites as insurance. This reserve is not tasked to interfere unless the operation is compromised.
+- The trap can now move quickly: the red-cord signal will be placed before dawn, surveillance established, and the loose brick watched the following evening for whoever services or monitors it.
