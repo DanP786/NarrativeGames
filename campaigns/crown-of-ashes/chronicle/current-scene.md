@@ -1,15 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — northern gate, departing for Greyfen Priory
-- Time: before dawn, 29th of Emberfall, Year 312 of the Crown
+- Location: northern road out of Veyrhold, en route to Greyfen Priory
+- Time: early morning, 29th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The small joint Vale-Veyne expedition departs for Greyfen to intercept Edric Sorn and secure the possible 'succession book' before records can be destroyed. The narrow restraint has been extended through the operation and three days after both parties return.
+- Situation: The small joint Vale-Veyne expedition has left Veyrhold to intercept Edric Sorn and secure the possible succession ledger. Elowen and Cassian will spend several days traveling and operating together under a narrow extension of the restraint.
 
 ## Recent beats
-- Elowen prepares for hard overland travel in practical riding clothes. Canon correction from player: she is honey-blonde and carries no personal weapons. She rides sidesaddle.
-- Before dawn on 29th Emberfall, Garrick accompanies Elowen to the northern gate, where Cassian waits with a small discreet Veyne contingent. Both houses travel without banners or conspicuous colors.
-- Elowen mounts her horse sidesaddle without speaking either to Garrick or Cassian. Her silence is outwardly controlled; no NPC is given access to her private reasons unless she later expresses them.
-- Garrick does not force a farewell conversation in public. He gives practical instructions to Elowen's Vale escort and expects her to represent House Vale, preserve joint custody of evidence, and return rather than pursue Sorn recklessly if the mission collapses.
-- Cassian observes Elowen's silence but does not tease or demand conversation. He keeps the departure professional and orders the party onto the road once both contingents are ready.
-- The expedition consists of Elowen, Cassian, and small Vale and Veyne escorts sufficient for protection but deliberately too small and visually neutral to resemble a military force.
-- The party leaves Veyrhold before sunrise. Greyfen is approximately three hard riding days away if roads remain passable. This begins the sustained forced-proximity phase away from Garrick, Adrian, and the capital.
+- Elowen departs in practical travel clothes, honey-blonde hair secured for riding, carrying no personal weapon and riding sidesaddle. She remains silent toward both Garrick and Cassian during departure except for a terse acknowledgment to Garrick that she knows she represents Vale.
+- OOC correction from player: Cassian's characterization during the forced-proximity arc must preserve the substantial power imbalance between him and Elowen. He is an older, experienced claimant to the Crown, military leader, Rowan's killer, and the stronger personality in their interactions; Elowen is a newly elevated, politically inexperienced heir traveling under dangerous circumstances. Cassian should not default to gentle, solicitous, boyfriend-coded questions such as asking how she slept at this stage. Personal tenderness must be earned much later if genuine love develops.
+- Tone/rules reaffirmed: enemies-to-lovers is only a possibility; Cassian's political/status advantage is real, and he may remain cruel, hostile, controlling, or incompatible unless events genuinely change the relationship. Attraction does not create trust or equality.
+- Retcon of the prior closing beat: Cassian does NOT ask Elowen whether she slept well and does not make a light joke about the diplomatic climate. After the road narrows and circumstances place him beside her, he uses the proximity for operational control instead.
+- Cassian tells Elowen that once they are beyond the capital roads, he expects immediate compliance with his commands if violence breaks out because he has battlefield experience and she does not. He distinguishes this from political authority: she retains Vale's equal claim over evidence and decisions concerning the investigation, but he will not debate tactical orders during an ambush.
+- This establishes the intended forced-proximity dynamic: Cassian has practical and status power over Elowen in dangerous situations, while Elowen's role as Vale's representative prevents him from simply controlling the mission or its evidence.
