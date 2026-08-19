@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Vale residence in Veyrhold — Garrick's solar
-- Time: late night, shortly after the Vale-Veyne meeting
+- Location: Vale residence in Veyrhold — private breakfast room
+- Time: morning after the Southbank dead-drop surveillance
 - Scene significance: climactic
-- Situation: The captured convoy attacker has disclosed a dead-drop procedure tied to Harrow's network near the old wool market, close to money-changer Matthes Roul's premises. Garrick asks Elowen whether Vale should share the lead with Cassian immediately or exploit it alone first.
+- Situation: Elowen is breakfasting with Garrick when the first consolidated report arrives from the joint Vale-Veyne surveillance operation around Harrow's dead drop and money-changer Matthes Roul.
 
 ## Recent beats
-- The prisoner says Harrow's hired men could signal a problem by tying red-dyed cord beneath a public hitching rail behind the old wool market; an answer would appear the following evening behind a loose brick beside a disused cooper's yard. He claims to have successfully used this procedure once before the convoy attack.
-- The dead drop lies close to Matthes Roul's Southbank premises, reinforcing the independent intersection between Vale's prisoner testimony and Veyne's money trail.
-- Garrick notes that the dead-drop information predates the joint operation, so he could technically withhold it, but doing so risks undermining the narrow cooperation if discovered.
-- Asked what she would do, Elowen suggests using both houses rather than choosing between them: one watches the dead drop while the other watches the surrounding network and approaches.
-- Garrick approves the operational logic. Splitting surveillance reduces the chance that everyone focuses on the bait while missing a watcher, courier, counter-surveillance team, or movement around Roul.
-- Garrick decides Vale will disclose the dead-drop mechanism to Cassian but not the source's identity or the Dacre lodging. Vale will watch the dead drop itself because Vale possesses the procedure; Veyne will continue watching Roul and the surrounding approaches, with each side reporting relevant movement before acting.
-- Garrick also orders separate Vale men, unknown to the joint teams, to watch for counter-surveillance around both sites as insurance. This reserve is not tasked to interfere unless the operation is compromised.
-- The trap can now move quickly: the red-cord signal will be placed before dawn, surveillance established, and the loose brick watched the following evening for whoever services or monitors it.
+- Elowen proposes splitting surveillance: one house watches the dead drop while the other watches the surrounding network. Garrick approves, shares the dead-drop mechanism with Cassian while withholding Vale's source identity and Dacre connection, assigns Vale to the drop and Veyne to Roul and surrounding approaches, and adds separate Vale counter-surveillance as insurance.
+- The red-cord signal is placed before dawn. The following evening, a barefoot boy of about twelve enters the disused cooper's yard with a basket and reaches for the loose brick while, across the street, an adult man abruptly turns and walks away.
+- At breakfast the next morning, a Vale officer brings Garrick and Elowen the consolidated preliminary report.
+- Vale's dead-drop team does not seize the boy. They follow him after he retrieves a folded scrap from behind the loose brick. The boy carries it several streets and delivers it to a woman selling lamp oil from a small stall near the river steps. He appears to be a paid courier and is not treated as knowing the conspiracy's substance.
+- The separate adult watcher is followed by one of Garrick's reserve men. He goes not to Roul but to a respectable counting-house used by several noble households. The man is identified by a Vale observer as Tomas Pell, a clerk who has previously done temporary account work for House Dacre's Veyrhold establishment.
+- Veyne's watchers independently report that shortly after the dead drop was serviced, Matthes Roul closed his shop earlier than usual and sent a sealed packet by private messenger toward the palace quarter. The messenger has not yet been intercepted under the agreement not to act unilaterally.
+- The lamp-oil seller, Tomas Pell, and Roul's outbound packet now provide three simultaneous leads. Pell strengthens the Dacre connection but does not prove Lord Dacre ordered the ambush; a clerk can act privately, for another patron, or as part of a planted chain.
+- Garrick must decide quickly how to divide attention before the network realizes it is being watched.
