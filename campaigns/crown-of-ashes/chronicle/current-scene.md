@@ -3,12 +3,12 @@
 - Location: northern road out of Veyrhold, en route to Greyfen Priory
 - Time: early morning, 29th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The joint Vale-Veyne expedition is underway. Cassian has asserted that in immediate violence Elowen must obey his tactical commands because of his battlefield experience, while acknowledging her equal Vale claim over evidence and investigative decisions.
+- Situation: The joint Vale-Veyne expedition is underway. Cassian has asserted practical tactical authority in immediate danger while acknowledging that Vale's captain formally commands Vale soldiers and Elowen retains political authority over Vale's purpose and equal claim to evidence.
 
 ## Recent beats
-- OOC correction reinforces the intended power imbalance: Cassian is older, politically and militarily experienced, a Crown claimant, and Rowan's killer; Elowen is a newly elevated, inexperienced heir. Cassian should not become prematurely gentle or boyfriend-coded. Tenderness must be earned much later.
-- Cassian tells Elowen that if violence erupts, he expects her immediate compliance with tactical instructions. He distinguishes battlefield command from political authority over the investigation.
-- Elowen immediately asks, 'Who commands my soldiers?'
-- Cassian answers that Elowen's Vale captain commands Vale soldiers under ordinary circumstances and Cassian has no standing authority to issue routine orders to them. Elowen, as Vale's representative, remains above her captain in political purpose but is not treated as a trained field commander merely by inheritance.
-- Cassian further states that in an immediate shared attack he will issue whatever tactical orders are necessary to both contingents and expects the Vale captain to use judgment about whether to follow them; he cannot legally convert Vale soldiers into Veyne troops, but he will not pretend divided command is harmless in a fight.
-- The exchange preserves the core imbalance without erasing House Vale's sovereignty: Cassian can dominate dangerous practical situations through experience and force of command, but he does not possess formal command of Elowen's men simply because he says so.
+- Elowen challenges Cassian by asking who commands her soldiers. Cassian answers that her Vale captain does, not Cassian; he has no standing authority over Vale troops. He also bluntly says Elowen's inheritance has not made her a trained field commander.
+- Cassian notices Elowen is riding sidesaddle and identifies it as an unacceptable tactical vulnerability for the road ahead. He tells her that at the next stop her saddle will be changed and she will ride astride rather than 'as a lady.'
+- His reasoning is practical and controlling rather than solicitous: if attacked, he cannot expect an inexperienced, unarmed rider constrained by a sidesaddle and long skirts to remain mounted, maneuver quickly, or flee over broken ground. He refuses to have the expedition's security shaped around courtly propriety.
+- Cassian phrases this as an instruction, not a request. He says appropriate divided riding garments can be arranged from spare travel clothing or altered at the stop; he does not require Elowen to expose herself or ride indecently, only to abandon the sidesaddle convention.
+- Cassian does not claim formal authority over Elowen as Vale's heir, but his battlefield experience and the expedition's danger create the intended power imbalance: he expects his safety judgment to prevail and is willing to confront Elowen over it.
+- No response from Elowen to the saddle order has yet occurred.
