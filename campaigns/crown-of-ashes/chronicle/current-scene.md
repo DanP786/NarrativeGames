@@ -1,15 +1,17 @@
 # Current scene
 
-- Location: Vale residence in Veyrhold — entering from the courtyard
-- Time: morning after the Southbank dead-drop surveillance
+- Location: Vale residence in Veyrhold — Garrick's solar
+- Time: morning, 27th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: The Harrow network is collapsing under scrutiny. Mara identified Merrow guard Bennet Carrow as her recruiter; Bennet vanished; Harrow's signet points to the Blackwater Exchange and its Veyrhold principal factor Edric Sorn, the dismissed Veyne quartermaster already tied to the missing badges and Harrow-linked payments. Elowen is now under increased quiet protection because of what she knows.
+- Situation: Several days pass without a decisive breakthrough while the Harrow network goes quiet. The thirty-day Vale-Veyne restraint is now only a few days from expiring, forcing the unresolved investigation and the succession crisis together.
 
 ## Recent beats
-- Elowen asks who actually saved Mara during the attack and what Veyne knew and where Veyne's men were at the time.
-- Garrick separates two rescues/events that had become easy to conflate: Vale surveillance men rescued Mara from the burning rear room after seeing smoke, but Mara remembers an unknown person entering and fighting her attacker before she lost consciousness. Vale therefore saved her from the fire, while the identity and motive of the person who fought inside the stall remain unknown.
-- Garrick acknowledges that the unknown intervention may explain why Mara was still alive long enough for Vale's watchers to pull her out and why a burned corpse was left behind. It could have been an ally, rival conspirator, Veyne agent, Bennet, or another party; none is established.
-- Under the joint operation, Veyne's assigned watchers were covering Matthes Roul's premises and surrounding approaches, while Vale covered the dead drop and maintained its own reserve counter-surveillance. No established report currently places a Veyne man inside Mara's stall at the time of the attack.
-- Cassian knew the dead-drop mechanism and location after Garrick disclosed it for the joint trap, and Veyne knew that the child courier serviced the drop and that the operation had produced movement around Roul. Garrick later disclosed that the dead-drop recipient contacted a Merrow household guard, as required by the joint-operation agreement. Cassian still does not know Vale has a living convoy attacker, that the captive was found in Dacre-associated lodgings, or that Mara has survived and identified Bennet/Harrow unless and until Garrick chooses to tell him.
-- Garrick decides the unknown fighter must now be treated as a fourth active lead. He orders the burned corpse examined for wounds inconsistent with the fire and asks for a precise reconstruction of which Vale and Veyne watchers were positioned where during the interval between Mara leaving the dead-drop chain and the stall fire.
-- No accusation against Veyne is established.
+- Vale reconstructs the surveillance around Mara's attack and investigates the burned corpse and unknown fighter, but no decisive identity is established during the compressed interval. No report proves that a Veyne watcher entered Mara's stall.
+- Mara remains alive under discreet Vale protection and recovers gradually; she has not produced a new decisive identification beyond Bennet Carrow and Master Harrow's description.
+- Bennet Carrow remains missing. Edric Sorn remains missing. The Blackwater Exchange connection is established but does not by itself prove who ultimately ordered the convoy attack.
+- Pell, Roul, Merrow's household, and Chancellor Halvern remain under cautious observation. The network noticeably quiets after Mara's attempted murder, suggesting its surviving members know they are under pressure.
+- Elowen continues her heir training and ordinary correspondence during the lull, but these days are compressed rather than played beat by beat. Adrian's courtship remains open and cordial; no engagement or political promise occurs in the interval.
+- The calendar advances to 27th Emberfall, leaving only a few days before the thirty-day Vale-Veyne restraint expires.
+- The approaching deadline creates immediate strategic pressure. If the restraint simply expires, Vale and Veyne can again become open enemies while still jointly hunting the people who framed Veyne for the convoy attack. Extending it could look politically like rapprochement and affect Oren, Adrian, neutral houses, and Vale's bannermen.
+- On the morning of 27th Emberfall, Garrick summons Elowen to his solar. A formal sealed letter from Cassian Veyne has arrived requesting a meeting before the restraint expires. Cassian states that his investigators have a new development concerning Edric Sorn and that he also intends to discuss what happens when the thirty days end.
+- Garrick has not yet answered the request.
