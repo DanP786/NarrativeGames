@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — carriage departing Bell Street for the Vale residence
+- Location: Vale residence in Veyrhold — courtyard / entering the house
 - Time: morning after the Southbank dead-drop surveillance
 - Scene significance: climactic
-- Situation: Mara has identified Merrow guard Bennet Carrow as her recruiter into Harrow's courier network and described Master Harrow. As Garrick and Elowen leave the physician, they learn Bennet vanished during the night and did not report for duty.
+- Situation: Mara identified Bennet Carrow as her recruiter and described Master Harrow's black-tower-over-three-waves signet. Bennet vanished overnight. Heraldic research identifies the device with the Blackwater Exchange, whose principal factor in Veyrhold is Edric Sorn, the dismissed Veyne quartermaster already tied by Cassian's investigation to the missing badges and Harrow-linked payments.
 
 ## Recent beats
-- Elowen thanks Mara, asks the physician to keep Vale informed of her condition, and leaves her protected rather than pressing for more answers.
-- Garrick orders simultaneous identification work on Bennet, Harrow's black-tower-over-three-waves signet, and the burned corpse. He intends to keep Mara's survival secret and avoid confronting Merrow.
-- A messenger identifies the guard as Bennet Carrow, eight years in Merrow service, but reports Bennet disappeared sometime during the night and failed to report for duty that morning.
-- Elowen gets into the carriage without delaying the departure.
-- Garrick joins her and immediately orders from the carriage that Bennet's rooms be watched rather than searched openly, city gates and river crossings checked discreetly through Vale contacts, and Merrow's household not alerted to Vale's special interest beyond whatever Merrow already knows about its missing guard.
-- Garrick recognizes that Bennet's disappearance occurring the same night as the attack on Mara strongly suggests the network is cleaning itself, but it does not establish whether Bennet fled voluntarily, was warned, was abducted, or was killed.
-- The investigation is now a race: identify Harrow's signet and the burned corpse before the disappearing network destroys more links.
+- Bennet Carrow, an eight-year Merrow household guard, vanished the same night someone tried to kill Mara. Garrick treats flight, warning, abduction, and murder as open possibilities.
+- The black-tower-over-three-waves device is identified as belonging to the Blackwater Exchange, a private banking concern. Its principal factor in Veyrhold is Edric Sorn, the dismissed Veyne quartermaster whose stores lost obsolete Veyne badges and who later entered mercenary work before disappearing after the convoy attack.
+- Elowen remembers that she danced twice with Lord Merrow's son Julian at the ball, that he showed her around, and that he told her where several houses stood regarding the succession. She asks whether Julian might have been using those interactions to determine what she knew.
+- Garrick takes the possibility seriously but does not retroactively declare Julian guilty. He notes that Julian's behavior can support two competing readings: ordinary social/political courtship of Vale's newly announced heir, or a deliberate attempt to learn how informed and persuadable Elowen was while feeding her selected information about other houses.
+- Garrick identifies the useful question as not whether Julian was charming or attentive, but whether he steered Elowen toward particular houses, claims, or suspicions while avoiding others. He asks Elowen to reconstruct what Julian volunteered versus what she asked him, especially anything concerning Merrow neutrality, Dacre, Corren, Oren, Cassian, or the convoy.
+- Garrick also notes that if Julian was probing Elowen, the fact that she appeared politically inexperienced at the ball may have caused him to underestimate how much she would later report and analyze with Garrick.
+- No accusation against Julian or Lord Merrow is established. The earlier attempt to load a nonexistent Julian NPC file failed because no dedicated file exists; current canon about Julian must therefore be drawn only from established chronicle/current-scene material.
