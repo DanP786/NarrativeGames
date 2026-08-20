@@ -3,14 +3,14 @@
 - Location: far side of the abandoned quarry — broken stone cutting
 - Time: dawn, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Cassian and Elowen are in temporary cover after escaping three pursuers. Elowen's facial cut is shallow; Cassian has a blade wound along his lower ribs/side that has not yet been fully inspected. Slow hoofbeats approach from the quarry.
+- Situation: Cassian and Elowen have captured a badly wounded pursuer after the quarry chase. The man has revealed that the attackers were ordered to take Elowen alive and kill Cassian.
 
 ## Recent beats
-- Elowen reaches toward Cassian's bleeding side in alarm. Cassian stops her from pressing the wound, explains a blade caught him along the ribs during the fight, and says it is not a gut wound, though he has not yet assessed its full depth.
-- When Elowen insists he let her see the injury, Cassian begins to comply, but approaching hoofbeats interrupt them.
-- Cassian immediately returns to command mode, draws/keeps his sword ready, and orders Elowen behind the stone. Elowen obeys without argument.
-- Elowen moves fully behind the broken stone cover while Cassian positions himself between her and the approach despite his bleeding side.
-- The approaching horse proves to be riderless at first glance, reins loose and blood on the saddle leather. Moments later a wounded man appears on foot behind it, using the quarry wall for support.
-- The wounded man is one of the three pursuers from the chase. He has lost his weapon and is badly hurt but alive. His identity is not yet established and he has not yet spoken clearly enough to reveal allegiance.
-- Cassian does not rush to kill him; a living pursuer may be the first direct source on who sent the party. Cassian keeps Elowen concealed and orders the man to stop and show his hands.
-- The status of the other two pursuers remains unknown.
+- Elowen obeys Cassian's order to remain concealed behind the stone while he confronts the approaching wounded pursuer.
+- The pursuer recognizes that Elowen is present and says the 'Vale girl' was to be taken alive, while Cassian was to be killed.
+- Elowen remains completely silent behind cover. Privately, she wonders why anyone would specifically want her alive; this thought is not visible or known to Cassian or the prisoner.
+- Cassian continues interrogating rather than reacting to Elowen's unspoken thought. He demands to know who gave the order and where Elowen was meant to be taken.
+- The wounded pursuer identifies the instruction as coming through a paid intermediary rather than directly from the ultimate sponsor. The operative was told that the Vale heir was valuable leverage and must reach a designated transfer point alive; Cassian's death was meant to make the disappearance look like Veyne-related violence or a failed joint mission.
+- The transfer point is described as an old tollhouse farther north/east of the quarry route. The operative does not yet establish whether Harrow, Sorn, Merrow, Halvern, Dacre, or another faction ultimately ordered the capture.
+- Cassian treats the revelation as a major change in mission priority: someone knew enough about the expedition to anticipate Elowen and Cassian traveling north and wanted Elowen as a living political asset.
+- Cassian's side wound remains untreated during the interrogation. Elowen's facial cut remains shallow. The other two pursuers' conditions/identities remain unresolved.
