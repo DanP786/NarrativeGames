@@ -1,14 +1,16 @@
 # Current scene
 
-- Location: main northern road beyond the coaching inn, en route toward the quarry diversion point
-- Time: predawn, 30th of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: The larger Vale-Veyne escort has secretly taken the charcoal road. Elowen and Cassian are now riding alone on the main northern road as visible bait for the possible Bennet/Blackwater pursuit before they break east toward the quarry rendezvous.
+- Location: wooded quarry track east of the main northern road
+- Time: dawn, 30th of Emberfall, Year 312 of the Crown
+- Scene significance: climactic
+- Situation: Three riders have attached to Cassian and Elowen on the main road. Cassian delays revealing that he noticed them, then breaks east through a narrow wooded opening toward the quarry route. The pursuers accelerate behind them.
 
 ## Recent beats
-- With no mounting block, Elowen is unable to mount the unfamiliar astride saddle independently. Cassian impatiently lifts and steadies her into the saddle, then tells her she must learn to mount without assistance before Greyfen because a pursuit will not allow time to find a block.
-- Elowen pulls up her hood and follows Cassian out of the inn yard without further argument.
-- The pair leave before full dawn but late enough that anyone deliberately watching the inn can plausibly see two cloaked principal riders depart north. Their escorts are no longer physically nearby.
-- Cassian sets a purposeful but sustainable pace. He does not fill the isolation with premature personal conversation; his attention remains on road, terrain, possible tails, and Elowen's ability to keep pace.
-- Their plan is to remain on the main road long enough to determine whether pursuit has attached, then break east toward the old quarry/woodcutters' track and attempt to rejoin the main party.
-- No pursuer has yet been confirmed in this beat.
+- Elowen follows Cassian alone under her hood on the north road while he watches terrain and possible pursuit rather than forcing personal conversation.
+- Cassian spots three riders behind them and orders Elowen not to turn around. He waits until a wooded dip conceals their movement, then sharply redirects them off the main road toward the quarry track.
+- Elowen struggles to keep pace because her thighs are already burning from the unfamiliar astride riding, but she recognizes privately that Cassian was correct: she could not have managed this flight sidesaddle.
+- During the fast ride through close woodland, a branch whips across Elowen's face and cuts her, drawing blood. She does not stop or complain and continues riding.
+- Cassian notices the blood only when terrain briefly brings them close enough, but does not halt in active pursuit. He checks that Elowen is still conscious, seeing, and mounted, then prioritizes escape.
+- The three pursuers remain behind and are close enough that hoofbeats can be heard. Their identities are not yet confirmed.
+- Cassian begins using the quarry terrain rather than trying to outrun fresh horses indefinitely, steering toward broken ground where fewer riders can follow abreast and where he may be able to force an ambush or lose them.
+- Elowen remains unarmed and operationally dependent on Cassian for tactical decisions during the pursuit.
