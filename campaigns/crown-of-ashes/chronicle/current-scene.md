@@ -3,13 +3,12 @@
 - Location: northern road, leaving the first roadside halt en route to Greyfen Priory
 - Time: morning, 29th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen's sidesaddle has been replaced with an astride saddle on Cassian's tactical insistence. She is now learning the unfamiliar seat as the joint expedition resumes.
+- Situation: Elowen's sidesaddle has been replaced with an astride saddle at Cassian's insistence for tactical safety. She is adapting to the unfamiliar seat as the expedition resumes.
 
 ## Recent beats
-- With no mounting block available, Cassian personally lifts/steadies Elowen into the astride saddle and then checks the fit, shortening her stirrups, correcting her posture, and checking the girth. His handling is practical and authoritative rather than flirtatious.
-- Elowen is intensely and visibly embarrassed by riding astride and by Cassian's close practical attention. Cassian does not mock or sexualize her position.
-- Cassian tells Elowen she is balancing as though still sidesaddle and instructs her to stop. When she glares, he says anger may make her forget embarrassment.
-- Elowen quickly looks away rather than answering.
-- Cassian does not pursue the personal moment or interpret her private feelings. He resumes the journey and keeps his instruction focused on her riding competence.
-- During the next stretch, Elowen's unfamiliar astride seat initially makes her stiff and prone to gripping incorrectly. Cassian corrects only when necessary for safety, while her own Vale riders deliberately maintain professional composure.
-- The party continues north toward Greyfen. No attack or new investigative development occurs in this immediate beat.
+- Canon appearance/travel-clothing clarification from player: Elowen is honey-blonde, carries no personal weapons, and is wearing the travel clothes depicted in the most recent generated reference image: practical cream linen blouse, fitted brown/taupe waistcoat, divided dark riding trousers, tall brown riding boots, and a practical cloak available for the road; no jewelry or weapons.
+- With no mounting block at the roadside, Cassian physically assists Elowen into the astride saddle and then checks the saddle fit, stirrup length, girth, and her balance. His handling is practical and authoritative rather than flirtatious.
+- Elowen's cheeks burn with embarrassment at riding astride and at Cassian's close practical attention. Cassian notes she is trying to balance as though still sidesaddle and orders her to straighten and settle her weight through both legs.
+- When Cassian tells Elowen to keep being angry because it will make her forget embarrassment, Elowen quickly looks away rather than answering.
+- Cassian does not pursue the reaction or tease further. The party resumes travel, with Elowen now visibly dressed for practical astride riding rather than courtly sidesaddle convention.
+- Elowen must learn the unfamiliar riding posture over the coming miles while maintaining her role as Vale's representative.
