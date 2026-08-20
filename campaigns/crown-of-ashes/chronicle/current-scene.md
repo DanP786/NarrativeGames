@@ -1,16 +1,15 @@
 # Current scene
 
-- Location: far side of the abandoned quarry east of the main northern road
+- Location: far side of the abandoned quarry — behind a broken stone cutting
 - Time: dawn, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Cassian has stopped the immediate pursuit after using the quarry's narrow terrain to engage three riders. Elowen fled as ordered, was briefly pursued by one rider, and Cassian brought that rider down before rejoining her. They have reached temporary cover on the far side of the quarry.
+- Situation: Cassian and Elowen have temporary cover after escaping three pursuers. Elowen's legs buckled after dismounting from exertion/adrenaline; Cassian caught and carried her behind cover. Her facial cut is shallow. Cassian is bleeding from his side beneath his riding coat.
 
 ## Recent beats
-- Elowen obeys Cassian's order to ride down into the quarry while he turns to fight the pursuers. She hears the clash behind her but continues rather than turning back.
-- One pursuer gets past and chases Elowen down the quarry. She remains unarmed and flees on horseback. Cassian catches up and brings the pursuing rider down before ordering Elowen to keep moving.
-- At the far side, Cassian halts them only after listening and hearing no immediate pursuit. He orders Elowen to dismount so he can assess her condition and the cut on her face.
-- Elowen is still shaking from the chase and fight. She obeys, but when her boots touch the ground her knees buckle.
-- Cassian catches her before she falls, taking her weight firmly. The contact is necessity rather than tenderness; he immediately checks whether the collapse is from injury, dizziness, or spent legs/adrenaline.
-- Elowen's cheek is bleeding from the branch strike. She previously stated she could see and was not dizzy during the pursuit. No other injury is yet established.
-- Cassian remains in command mode while the area may still be unsafe. He does not permit Elowen to sit exposed in the track and intends to move her into quarry cover before examining the wound.
-- The identities and final conditions of the three pursuers are not yet established; Cassian has not had time to search them.
+- Cassian catches Elowen when her knees buckle and briefly supports her full weight. Because they remain exposed, he lifts and carries her behind a broken stone cutting despite her protest that she can walk.
+- Cassian checks Elowen for head injury/dizziness and examines the branch cut on her cheek, determining it is shallow.
+- Elowen notices a dark bloodstain spreading along Cassian's side beneath his coat and reaches toward it in alarm.
+- Cassian catches/stops her hand before she presses directly on the wound, more to prevent an untrained examination from worsening it than from aversion to her touch. He tells her it is a cut, not a gut wound, and that he remained functional through the pursuit.
+- The wound was inflicted during the quarry fight: a blade got through/under his coat along the lower ribs/side. Its full depth is not yet known because he has not safely removed clothing or armor layers to inspect it.
+- Cassian prioritizes security before treatment. He listens for pursuit and intends to move only after determining whether the surviving pursuers can still follow. Elowen's concern is visible through her alarmed reach; Cassian cannot know her private emotional meaning.
+- The identities and conditions of the pursuers remain unresolved. Cassian still needs to decide whether to risk returning to search them or continue toward the rendezvous while wounded.
