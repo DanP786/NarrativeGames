@@ -2,13 +2,15 @@
 
 - Location: roadside coaching inn north of Veyrhold — private back room
 - Time: evening, 29th of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: The joint Vale-Veyne expedition has stopped for its first night. Elowen has a private chamber; Cassian and the senior men have more cramped arrangements. Vale and Veyne share security while remaining distinct contingents.
+- Scene significance: climactic
+- Situation: During first-night supper, a fast rider from Veyrhold arrives specifically for Elowen with an urgent Vale message that may compromise the Greyfen mission.
 
 ## Recent beats
-- After a full first day riding astride, Elowen is physically tired and sore. Cassian steadies her during dismount when her legs nearly give way, then releases her without teasing; he bluntly predicts she will be more sore in the morning.
-- Supper is served in a cramped private room: bread, stew, cheese, and ale. Cassian and the Vale/Veyne captains review the route. If weather holds, the party expects to reach the village below Greyfen by the following afternoon/day thereafter as route conditions allow.
-- Elowen carefully sits despite soreness and warns Cassian to say nothing when she catches him noticing. Cassian says he had not intended to comment.
-- Elowen accepts food rather than withdrawing immediately to her room. She eats with the joint party while operational discussion continues.
-- Cassian keeps the meal focused on the mission rather than attempting premature personal intimacy. He establishes an early departure, rotating watches, and the need to avoid identifying themselves to other travelers.
-- No new intelligence or attack occurs during supper yet.
+- Elowen accepts supper and remains with the joint party while Cassian and the captains arrange watches and a pre-sunrise departure. Cassian keeps discussion operational rather than personally intimate.
+- A single fast rider arrives from Veyrhold. A Veyne guard announces that the rider carries something for Lady Vale. Elowen remains seated and asks, 'What is it?'
+- The messenger is a Vale household rider known to Elowen's escort and is admitted after being checked. He brings a sealed note bearing Garrick's private seal.
+- Garrick's message reports that after the Greyfen party departed, Vale surveillance saw Tomas Pell leave Merrow's townhouse and meet a man tied to the Blackwater Exchange. The man then purchased fresh horses and provisions for a northbound journey.
+- More urgently, Vale contacts at the northern gate report that a separate small party left Veyrhold several hours after Elowen and Cassian, traveling without banners on the same broad northern road. One rider matches Bennet Carrow's description closely enough to concern Garrick, though identification is not certain.
+- Garrick warns Elowen that the Greyfen expedition may be followed or racing a second party. He instructs her to treat the route and destination as potentially compromised and to use her judgment with Cassian rather than blindly continuing to the priory.
+- This is information sent to Elowen as Vale's representative, not directly to Cassian. Elowen has not yet chosen how much of the letter to share with him.
+- No attack has yet occurred at the inn.
