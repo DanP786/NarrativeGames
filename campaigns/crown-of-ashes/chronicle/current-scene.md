@@ -2,14 +2,12 @@
 
 - Location: roadside coaching inn north of Veyrhold — Elowen's private chamber
 - Time: predawn, 30th of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: The main Vale-Veyne escort is preparing to slip away by the charcoal road while Cassian and Elowen are meant to depart visibly later as the two-person diversion. Elowen has overslept after her first exhausting day riding astride.
+- Scene significance: routine
+- Situation: Elowen has overslept on the morning the escorts must secretly take the charcoal road while she and Cassian remain behind as the visible two-person diversion. Cassian entered after knocking, gave her fifteen minutes, and left.
 
 ## Recent beats
-- Elowen retired sore after Cassian left supper first, relieved he did not witness how awkwardly she walked after a full day astride. She had only about five hours available for sleep.
-- Predawn, someone knocks sharply on Elowen's chamber door. She has only enough time to open her eyes before Cassian enters without waiting for permission, having concluded she has overslept at a time-sensitive departure.
-- Cassian's intrusion reinforces the practical/status imbalance rather than romantic intimacy: he prioritizes the operation and schedule over bedroom propriety and does not behave bashfully or apologetically about entering after knocking.
-- Elowen is visibly just awakened and still in bed when he enters. Cassian does not sexualize her or linger over her state; his focus is that the larger party must leave unseen and their diversion timing cannot slip enough to expose the split.
-- He tells her she has overslept, that the escorts are nearly ready to move, and gives her a short deadline to dress and come downstairs. He does not offer to help her dress or remain unnecessarily in the room.
-- The exact clothes Elowen sleeps in are not established; narration avoids inventing them.
-- No attack or new intelligence has occurred overnight.
+- Cassian's intrusion is practical and high-handed rather than romantic: he prioritizes the time-sensitive operation over bedroom propriety, does not linger or sexualize Elowen's state, and tells her to wake when he knocks if she objects to him entering again.
+- Dressing in Elowen's established travel clothes is quick: cream linen blouse, fitted brown/taupe waistcoat, divided dark riding trousers, tall brown riding boots, with cloak for the road; she carries no jewelry or personal weapon.
+- Her honey-blonde hair takes longer without her maid. To meet Cassian's deadline, Elowen pulls a few strands from each temple and braids them together/down along the back of her head, leaving the rest practical and contained enough for riding.
+- Elowen is preparing herself without assistance and is expected downstairs within the remaining minutes. Her soreness from the previous day's first astride ride may persist, but no specific new physical reaction is imposed before the player expresses it.
+- No new intelligence or danger occurs during preparation.
