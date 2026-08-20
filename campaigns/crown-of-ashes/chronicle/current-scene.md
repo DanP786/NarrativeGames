@@ -1,15 +1,15 @@
 # Current scene
 
 - Location: roadside coaching inn north of Veyrhold — Elowen's private chamber
-- Time: late evening, 29th of Emberfall, Year 312 of the Crown
-- Scene significance: routine
-- Situation: The diversion plan is settled. Before dawn the escorts will secretly take the charcoal road; later Cassian and Elowen will ride visibly together on the main northern road, alone, then attempt to rejoin near the abandoned quarry.
+- Time: predawn, 30th of Emberfall, Year 312 of the Crown
+- Scene significance: charged
+- Situation: The main Vale-Veyne escort is preparing to slip away by the charcoal road while Cassian and Elowen are meant to depart visibly later as the two-person diversion. Elowen has overslept after her first exhausting day riding astride.
 
 ## Recent beats
-- Elowen yields to Cassian's tactical judgment, saying he knows best and that she did not want to come. Cassian recognizes this as reluctant deference rather than enthusiastic agreement and takes responsibility for recommending the diversion.
-- Cassian makes clear that while alone he will control pace, stopping points, concealment, and immediate responses to danger; Elowen retains Vale authority over evidence and political decisions.
-- Vale's captain reluctantly accepts the plan after a rendezvous and fallback are established. Cassian promises in practical terms that he will get Elowen to the rendezvous.
-- Cassian leaves supper first after telling Elowen to sleep because they leave in five hours.
-- Elowen sighs in relief at being left alone because her legs are extremely sore after her first full day riding astride and she fears she will walk in an unladylike manner.
-- Once Cassian is gone, Elowen rises carefully and goes upstairs to her private chamber to sleep. Her awkward/sore walk is not witnessed by Cassian in this beat.
-- No new intelligence or danger occurs before she retires.
+- Elowen retired sore after Cassian left supper first, relieved he did not witness how awkwardly she walked after a full day astride. She had only about five hours available for sleep.
+- Predawn, someone knocks sharply on Elowen's chamber door. She has only enough time to open her eyes before Cassian enters without waiting for permission, having concluded she has overslept at a time-sensitive departure.
+- Cassian's intrusion reinforces the practical/status imbalance rather than romantic intimacy: he prioritizes the operation and schedule over bedroom propriety and does not behave bashfully or apologetically about entering after knocking.
+- Elowen is visibly just awakened and still in bed when he enters. Cassian does not sexualize her or linger over her state; his focus is that the larger party must leave unseen and their diversion timing cannot slip enough to expose the split.
+- He tells her she has overslept, that the escorts are nearly ready to move, and gives her a short deadline to dress and come downstairs. He does not offer to help her dress or remain unnecessarily in the room.
+- The exact clothes Elowen sleeps in are not established; narration avoids inventing them.
+- No attack or new intelligence has occurred overnight.
