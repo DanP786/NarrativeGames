@@ -1,13 +1,14 @@
 # Current scene
 
-- Location: roadside coaching inn north of Veyrhold — Elowen's private chamber
+- Location: roadside coaching inn north of Veyrhold — stable yard
 - Time: predawn, 30th of Emberfall, Year 312 of the Crown
-- Scene significance: routine
-- Situation: Elowen has overslept on the morning the escorts must secretly take the charcoal road while she and Cassian remain behind as the visible two-person diversion. Cassian entered after knocking, gave her fifteen minutes, and left.
+- Scene significance: charged
+- Situation: The larger Vale-Veyne party has already slipped away toward the charcoal road. Elowen and Cassian are now alone and must depart visibly on the main northern road as the two-person diversion before breaking east toward the quarry rendezvous.
 
 ## Recent beats
-- Cassian's intrusion is practical and high-handed rather than romantic: he prioritizes the time-sensitive operation over bedroom propriety, does not linger or sexualize Elowen's state, and tells her to wake when he knocks if she objects to him entering again.
-- Dressing in Elowen's established travel clothes is quick: cream linen blouse, fitted brown/taupe waistcoat, divided dark riding trousers, tall brown riding boots, with cloak for the road; she carries no jewelry or personal weapon.
-- Her honey-blonde hair takes longer without her maid. To meet Cassian's deadline, Elowen pulls a few strands from each temple and braids them together/down along the back of her head, leaving the rest practical and contained enough for riding.
-- Elowen is preparing herself without assistance and is expected downstairs within the remaining minutes. Her soreness from the previous day's first astride ride may persist, but no specific new physical reaction is imposed before the player expresses it.
-- No new intelligence or danger occurs during preparation.
+- Elowen dresses quickly without her maid in her established practical travel clothes and braids honey-blonde strands from her temples down the back of her head. She reaches Cassian within fourteen of the fifteen minutes he gave her.
+- Outside, only Elowen's and Cassian's saddled horses remain. No Vale or Veyne escort is physically present with them.
+- Elowen approaches her horse and realizes there is again no mounting block for the unfamiliar astride saddle. She looks around helplessly rather than immediately asking Cassian.
+- Cassian notices, becomes visibly irritated by the delay, and steps in without turning the problem into gallantry. He gives Elowen a terse instruction to gather her reins/put her foot ready, then lifts and steadies her into the saddle with practical physical force.
+- Cassian's irritation is directed at lost time and Elowen's continued inability to mount astride independently, not at her body or modesty. He tells her she will learn to mount without a block before the journey is over because he cannot keep stopping to put her on her horse if they need to move quickly.
+- Once she is secure, Cassian checks only what is necessary, mounts his own horse, and prepares to leave the inn yard. The pair are now operationally isolated together.
