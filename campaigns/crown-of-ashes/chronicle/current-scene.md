@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: small roadside priory south-east of the old tollhouse — infirmary
+- Location: small roadside priory south-east of the old tollhouse — courtyard outside the infirmary
 - Time: around midday, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Cassian is awake but weak and confined to bed after severe blood loss. Elowen sits beside him in borrowed priory clothing with the recovered tollhouse dispatches. Tomas Halvern remains nearby in the priory.
+- Situation: Cassian is alive, professionally treated, awake only in short intervals, and confined to bed after severe blood loss. Elowen has briefed him on the recovered tollhouse evidence and then stepped outside for fresh air. Tomas Halvern remains at the priory.
 
 ## Recent beats
-- Cassian wakes enough to joke about Elowen reading his last rites. Elowen teases that the papers are a marriage proposal from Lady Fiona, whom he danced with at Merrow's ball. Cassian answers dryly and briefly smiles; when pain catches him trying to shift, Elowen orders him not to move and he complies.
-- Elowen turns serious and says, 'The papers we saved from the fire doesn’t give us much…'
-- Elowen summarizes the surviving evidence for Cassian: the 'Vale article' was to be preserved for transfer, the 'Veyne obstruction' removed if present; payments appear routed through intermediaries with a Blackwater reference; and a list tracks Vale, Halvern, and other politically uncommitted/bargaining houses with notes about alignment, marriage, pressure, and correspondence.
-- Cassian recognizes that although the papers do not identify a mastermind, they materially change the problem: the operation is systematic and broader than a single attack on Vale. Someone is mapping neutral-house leverage and using coercion/intelligence to influence succession choices.
-- Cassian cautions that Blackwater appearing in a payment chain is not proof Blackwater commands the network; intermediaries may be deliberately disposable or misleading.
-- Cassian is particularly interested in the repeated unidentified cipher/mark across documents. He judges that repeated administrative use is more likely to identify a coordinator, office, broker, or accounting node than a sovereign principal, but it gives them something concrete to trace.
-- Cassian agrees Tomas's presence on the list supports his account of being targeted for Halvern correspondence, though it does not automatically establish Tomas as trustworthy in every respect.
-- Cassian remains too weak for field action. His role in this conversation is analysis only; Elowen physically controls the documents and can choose what to do with them next.
+- Elowen briefs Cassian on the surviving documents: the operation treated her as a 'Vale article' to preserve, Cassian as a 'Veyne obstruction' to remove, routed payments through intermediaries with a Blackwater reference, and catalogued neutral/bargaining houses by possible leverage such as marriage, correspondence, and pressure.
+- Cassian judges the evidence insufficient to name a mastermind but sufficient to establish a systematic intelligence/coercion network broader than the attack on Vale. He warns that Blackwater may be a payment channel rather than the principal and focuses on the repeated unidentified cipher as a traceable administrative node.
+- Cassian says Halvern's appearance on the target list makes Tomas's account consistent with the evidence, though not automatically trustworthy in every respect.
+- In a fatigued, unusually unguarded remark, Cassian tells Elowen that he trusts her considerably more than he did a week ago. This is not a declaration of full trust or affection.
+- Elowen does not press the intimacy of the remark. She tells Cassian, 'Rest,' gets up, and leaves the infirmary for fresh air.
+- Cassian is too exhausted to resist the instruction meaningfully and settles back to sleep/rest under the physician's care.
+- Outside, Elowen reaches the priory's small quiet courtyard/garden. The contrast with the quarry/tollhouse violence allows the physical aftermath to surface: fatigue, sore scalp, treated cheek, and the strangeness of wearing borrowed plain clothes after a morning of bloodshed.
+- Tomas is nearby but does not immediately intrude on Elowen's solitude. The dispatch case and papers remain secured in the infirmary/under Elowen and Cassian's control; no one else has been permitted to take them.
