@@ -1,17 +1,16 @@
 # Current scene
 
-- Location: small roadside priory south-east of the old eastern tollhouse — cloister/infirmary grounds
+- Location: small roadside priory south-east of the old eastern tollhouse — cloister arcade
 - Time: afternoon, 3rd of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen, Cassian, and Lord Tomas Halvern have remained at the priory for several days after the tollhouse ambush. Cassian's wound is stable but he is still not fit for hard riding. Their isolation has extended the forced proximity between Elowen and Cassian while the original thirty-day Vale-Veyne restraint reaches/passes its formal endpoint away from both houses.
+- Situation: Several days of forced proximity have passed while Cassian recovers. He is well enough to sit outside but not ride. The original thirty-day Vale-Veyne restraint has reached/passed its formal endpoint while Elowen and Cassian remain isolated from their houses.
 
 ## Recent beats
-- Cassian survives the first dangerous days without renewed major bleeding or fever. The physician allows him progressively more time awake and eventually short periods sitting/walking, but forbids riding or strenuous exertion. Cassian resents the restriction and nevertheless complies because reopening the wound again could kill him.
-- Elowen remains at the priory rather than abandoning Cassian while he cannot safely travel. Her minor cheek cut and scalp soreness improve over the same days. She continues wearing simple borrowed clothing while her bloodied travel garments are cleaned or set aside.
-- The recovered tollhouse dispatch case and singed papers remain secured. Elowen and Cassian review them in pieces during Cassian's waking periods, but no convenient mastermind's name emerges. The repeated cipher, Blackwater payment trail, and neutral-house leverage list remain their strongest leads.
-- Lord Tomas Halvern stays long enough to recover from his captivity and assist with practical security/messages. His presence on the coercion list continues to support his account, but neither Elowen nor Cassian treats him as automatically trustworthy in all matters.
-- Messages are sent cautiously rather than broadcasting their exact route. The proven operational leak means Elowen and Cassian cannot assume every Vale or Veyne messenger is safe. Their continued absence will nevertheless soon force their houses to react.
-- Forced proximity becomes mundane as well as dangerous: Elowen and Cassian share meals, evidence discussions, physician-imposed inactivity, and the same small priory grounds. Cassian still exercises tactical authority when security is involved, but physical weakness temporarily limits his ability to simply act over Elowen's objections.
-- Their hostility is not erased. Rowan's death, the blood-feud, Cassian's claim to the Crown, and Vale's political interests remain unresolved. However, repeated ordinary contact after mutual survival makes their exchanges less formally hostile and allows dry humor and reluctant familiarity to develop.
-- The thirty-day Vale-Veyne restraint, previously noted as having only a few days remaining on 27 Emberfall, has now reached or crossed its original expiration while both principals are away. Whether Garrick and Veyne authorities treat it as expired, tacitly continuing, or requiring immediate renegotiation is now an active political pressure.
-- Current immediate beat: several days after arrival, Cassian is well enough to sit outside for part of the afternoon but not to ride. Elowen has had several days in the priory's confined routine with him, creating the prolonged proximity that was previously missing from their enemies-to-lovers arc.
+- Cassian points out that the thirty-day agreement has expired and dryly observes that he and Elowen may technically have become enemies again while eating porridge.
+- Elowen asks directly, 'Are you going to kill me?'
+- Cassian answers plainly that he is not. He does not turn the answer into a romantic reassurance or claim the feud is gone.
+- Cassian grounds the refusal in both conduct and strategy: Elowen kept him alive through the tollhouse aftermath, and killing Garrick Vale's heir while under priory protection would be both dishonorable in practical terms and politically catastrophic. More personally, he states that he has no present desire to kill her.
+- Cassian distinguishes 'enemy' from 'someone I intend to murder.' He reiterates the principle he previously gave Elowen at Merrow's ball: enemies can keep terms, bargain, refrain from killing one another, and potentially cease being enemies if future choices permit.
+- The exchange carries increased intimacy because Elowen asks the question after days of mundane proximity and Cassian answers without exploiting her vulnerability, but neither love nor reconciliation is established.
+- Cassian remains physically dependent on the priory's care and temporarily unable to enforce his usual tactical dominance by force. Elowen remains politically valuable and physically safer here than during the expedition.
+- The unresolved practical question is what replaces the expired Vale-Veyne restraint once they re-establish contact with Garrick and Veyne leadership.
