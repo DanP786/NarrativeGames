@@ -1,17 +1,16 @@
 # Current scene
 
-- Location: old eastern tollhouse north-east of the abandoned quarry — in cover beside/inside the captive wagon
+- Location: old eastern tollhouse north-east of the abandoned quarry — cover at the captive wagon
 - Time: morning, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Elowen and wounded Cassian are pinned behind the wagon by an archer firing from the tollhouse upper floor. The sentry Elowen stabbed has collapsed beside the wagon. The better-dressed operative is inside/behind the tollhouse and remains active. Additional enemies may be present.
+- Situation: Elowen, wounded Cassian, and a newly freed male captive are pinned by an upstairs archer while the better-dressed operative begins burning evidence inside the tollhouse. A third hostile is positioned near the rear/stable side.
 
 ## Recent beats
-- The sentry used Elowen as a shield against Cassian. Elowen drew the separate concealed knife Cassian had given her and stabbed the sentry at grappling range, finally breaking his hold. Cassian pulled Elowen behind him once she was free.
-- An arrow struck the wagon and a second passed through the space where Elowen's head had been before Cassian shoved her down. The archer is firing from the upper floor, keeping Cassian and Elowen in cover.
-- The bound male captive inside the wagon began urgently trying to communicate through his gag.
-- While remaining in the wagon's cover, Elowen uses the other dagger/knife to saw through the captive's wrist bindings rather than exposing herself to the archer. She then frees/removes his gag.
-- The captive is an adult noble/educated traveler, bruised and exhausted but physically capable of moving once freed. His identity has not yet been canonically established by prior files and is not invented in this beat.
-- Immediately after being ungagged, the captive urgently warns Elowen and Cassian that there are three men associated with the tollhouse operation still active: the upstairs bowman, the better-dressed man who went inside, and another man positioned toward the rear/stable side. This is information from his captivity and observation, not omniscient knowledge.
-- The captive also warns that the better-dressed man has documents/dispatches and was preparing to burn or move them if the expected delivery failed. This creates time pressure beyond merely escaping.
-- Cassian remains wounded and his bandage has begun bleeding through again after exertion. Elowen is untrained in combat, bloodied, with a painful scalp and disordered hair, but remains functional.
-- The captive's name, house, and reason for capture remain to be established through dialogue/evidence.
+- Elowen cuts the wagon captive's wrist bindings and removes his gag while remaining under cover. The freed man warns that three hostile men remain active: the upstairs bowman, the better-dressed operative inside, and another man near the rear/stable side.
+- The freed man also reveals that the better-dressed operative has a dispatch case containing papers/lists and that orders were to burn everything if the expected transfer failed. An orange flicker through a downstairs window confirms evidence is now being burned.
+- The freed man says he can fight and, when challenged by Cassian, maintains that he actually knows how.
+- Elowen passes the freed man one of the daggers rather than keeping both blades herself. This materially improves the group's ability to act but leaves untrained Elowen with only one knife and no ranged weapon.
+- The freed man accepts the dagger with practiced grip/manner sufficient to support his claim of some fighting experience, though his exact skill and identity remain unestablished.
+- Cassian rapidly forms a plan around the archer's firing rhythm and the wagon as moving cover: the freed man is best placed to threaten/flank the rear hostile while Cassian attempts to reach the building/door between shots. Elowen is instructed to remain behind hard cover and not enter the building merely to save papers.
+- Cassian's rib wound is bleeding through again and constrains his speed; the urgency of the burning dispatches forces action before he can rest or rebind it.
+- The freed captive's name, house, and reason for capture remain unknown.
