@@ -2,18 +2,15 @@
 
 - Location: abandoned quarry — concealed recess beyond the broken stone cutting
 - Time: dawn, 30th of Emberfall, Year 312 of the Crown
-- Scene significance: climactic
-- Situation: The diversion has been betrayed. A captured pursuer says orders changed last night to exploit Cassian and Elowen traveling alone; Elowen was to be taken alive to an old tollhouse while Cassian was to be killed. Cassian has abandoned the compromised rendezvous and intends to exploit the tollhouse lead if possible.
+- Scene significance: charged
+- Situation: The diversion has been betrayed. A captured pursuer says Elowen was to be taken alive and Cassian killed; the attackers learned only last night that the pair would be alone. The rendezvous is compromised, and the old tollhouse remains their best immediate lead.
 
 ## Recent beats
-- Elowen looks visibly frightened when she realizes the plan leaked. Cassian warns against assuming a specific Vale/Veyne traitor yet, since inn staff or outside surveillance could also have carried the information, but he treats the rendezvous, fallback, and Greyfen route as potentially compromised.
-- Cassian restrains the wounded pursuer rather than killing him and moves Elowen, the prisoner, and horses into better concealment before treatment.
-- Cassian's blade wound lies along his lower ribs/side. Elowen cleans and binds the deep slicing cut under his instructions. It is painful and limits him, but no penetrating abdominal/internal injury is established.
-- Elowen privately recognizes that although Cassian killed Rowan, she did not love her brother; more immediately, Cassian is the person most capable of preventing her capture or death. She needs him alive and functional. These thoughts remain private.
-- Cassian turns to Elowen's shallow facial cut and orders her closer so he can clean it. Elowen reluctantly complies and feels a small private softness toward him, which Cassian cannot directly know.
-- While Cassian cleans the cut, Elowen says she does not understand who is behind the attack. She reasons that Oren has little need to abduct her because arranging her marriage to Adrian could bring Vale behind him through legitimate means, and the same logic weakens the motive for Oren's allies. She also tells Cassian she does not think he is behind the attack because he would hardly have agreed to be injured as part of it.
-- Cassian dryly rejects the idea that he would volunteer to be cut open merely to make a plot convincing. More seriously, he agrees that the attack's design does not fit a faction whose easiest route to Vale is legitimate courtship and political agreement, though he refuses to clear Oren or his allies solely on motive.
-- Cassian focuses on the attacker's wording: Elowen was 'valuable leverage against anyone who wants Vale.' That suggests the sponsor may not principally want Vale's allegiance for themselves; they may instead want to prevent or control Vale's choice, destabilize the succession, trade Elowen to another faction, or force Garrick into concessions.
-- Cassian also notes that killing him while abducting Elowen would simultaneously remove one claimant and make Vale's position politically explosive. He considers the possibility that the objective is not to make a claimant win cleanly, but to keep the succession fractured and profitable/controllable.
-- Cassian's cleaning of Elowen's cheek is practical but careful because the wound is on her face. Their physical proximity remains charged but not yet romanticized into equality or trust.
-- The prisoner remains restrained nearby and alive. The tollhouse lead remains active, and the compromised rendezvous cannot be trusted.
+- Elowen binds Cassian's deep slicing wound along his lower ribs. Cassian remains mobile but reduced by pain and blood loss.
+- Cassian carefully cleans Elowen's shallow facial cut. Elowen says Oren and his allies have easier legitimate routes to Vale through Adrian and that she does not believe Cassian staged an attack that left him genuinely wounded.
+- Cassian agrees motive matters but refuses to clear factions solely because the attack seems inconvenient. He focuses on the pursuer's phrase that Elowen was valuable leverage 'against anyone who wants Vale,' suggesting the sponsor may want to control or prevent Vale's choice rather than simply win Vale for themselves.
+- Elowen says, 'This is not the life I was trained for…' and looks away.
+- Cassian does not reassure her sentimentally. He acknowledges that she was trained for the life expected of a noble daughter—court, marriage, household obligations, music/social performance—not for field command, pursuit, captivity threats, or succession intelligence. He also points out that being untrained does not change the fact that she is now Vale's heir and has been placed in this life.
+- Cassian distinguishes ignorance from incapacity: Elowen obeyed under pursuit, stayed mounted after being struck and after her mare stumbled, kept moving while unarmed, and bound his wound effectively under instruction. He frames these as observable facts rather than praise or tenderness.
+- Cassian tells her that if she survives this expedition, she should insist Garrick correct the gaps in her education rather than rely indefinitely on men like Cassian to make dangerous decisions for her. This reinforces the power imbalance while opening a longer-term growth path for Elowen.
+- The prisoner remains bound nearby. Cassian intends to move soon, before the quarry becomes searchable, and the tollhouse lead remains active.
