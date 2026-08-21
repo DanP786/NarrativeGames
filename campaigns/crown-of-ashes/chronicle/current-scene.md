@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: wooded ridge overlooking the old eastern tollhouse north-east of the abandoned quarry
+- Location: approach to the old eastern tollhouse north-east of the abandoned quarry
 - Time: morning, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Cassian and Elowen have reached the active tollhouse transfer point with a wounded captured pursuer. At least two people are present, two concealed horses and an unmarked wagon are outside, and a bound human hand has been seen beneath the wagon canvas. Their arrival remains undetected.
+- Situation: Elowen is acting as bait at the active tollhouse transfer point while wounded Cassian remains concealed on the wooded ridge. At least two people are present at the tollhouse, with two concealed horses, an unmarked wagon, and an unidentified bound prisoner under the wagon canvas.
 
 ## Recent beats
-- Cassian initially tells Elowen to stay concealed while he considers the tollhouse despite his rib wound. Elowen points out the contradiction with his recent insistence that her helplessness is a liability.
-- Elowen proposes approaching the tollhouse herself as a distraction, pretending she survived an attack, needs help, and that Cassian is dead.
-- Elowen is Untrained in Persuasion/Public Speaking and Politics but Novice in Courtly Etiquette and Observation. Her proposed deception is plausible specifically because she is visibly injured, bloodied, travel-worn, and was genuinely attacked; she would be performing distress rather than inventing every physical circumstance. However, she is not skilled enough to safely improvise a complex false story under interrogation.
-- Cassian does not reject the plan outright. He recognizes that the tollhouse occupants were expecting Elowen alive and Cassian dead, so her appearance alone could make the lie compelling enough to draw someone out or cause them to reveal assumptions.
-- Cassian sharply limits the deception: Elowen should not claim detailed knowledge she does not have, should present herself as frightened, separated after the attack, and uncertain whether Cassian survived rather than offering a complicated account that can be tested. She must not enter the tollhouse or allow anyone within grabbing distance if avoidable.
-- Cassian intends to remain concealed with line of sight and use Elowen's approach to identify numbers, reactions, names, and whether the occupants attempt to seize or reassure her. Because he is wounded, direct combat against multiple prepared men remains highly dangerous.
-- Cassian makes clear that this is not safe merely because it is clever. If Elowen chooses to act as bait, she is taking a genuine risk of capture; her lack of persuasive training means success will depend on keeping the lie simple and exploiting what the enemy already expects.
-- The bound person in the wagon remains unidentified. The captured pursuer remains restrained and concealed with the horses.
+- Elowen proposes approaching the tollhouse pretending to have survived the quarry attack and become separated from Cassian. Cassian accepts the core idea but limits the deception because Elowen is Untrained in Persuasion/Public Speaking: she should rely on genuine blood, exhaustion and fear, avoid detailed lies, and let the occupants assume Cassian is dead rather than assert facts they can test.
+- Cassian gives Elowen a small concealed knife strictly as a last resort if someone physically seizes her; she is not to display it or attempt to fight trained men.
+- Cassian warns that once Elowen descends he cannot guarantee he can reach her before the tollhouse occupants do. Elowen nevertheless nods and takes position for the approach.
+- Elowen leaves the ridge on foot from the western side, arranging her cloak/hood so she looks like a battered traveler rather than an armed threat. Her facial cut, travel grime, exhaustion and disordered hair are genuine and support the deception.
+- Cassian remains concealed with line of sight, wounded but armed. The captured pursuer and horses stay restrained/hidden behind the ridge.
+- As Elowen approaches the tollhouse, the outside sentry notices her and challenges her. His first reaction is alert surprise rather than immediate attack; he recognizes her description closely enough to become intensely interested.
+- A second man appears in the doorway after the sentry calls inside. Neither has yet addressed Elowen by name, preserving uncertainty over exactly how much they know.
+- Elowen has reached conversational distance but remains outside grabbing range at the end of the beat. Her next spoken words will materially shape whether they accept her as the expected captive, expose information, or attempt to seize her.
