@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: small roadside priory south-east of the old eastern tollhouse — cloister arcade
-- Time: afternoon, 3rd of Frostwane, Year 312 of the Crown
+- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
+- Time: afternoon, 10th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Several days of forced proximity have passed while Cassian recovers. He is well enough to sit outside but not ride. The original thirty-day Vale-Veyne restraint has reached/passed its formal endpoint while Elowen and Cassian remain isolated from their houses.
+- Situation: After several more days at the priory, cautious messages finally reach trusted Vale and Veyne channels. A heavily guarded recovery party retrieves Elowen, Cassian, and Tomas Halvern. Elowen and Cassian are escorted back to Veyrhold separately to their respective households, ending their isolated forced proximity. Cassian is mobile but still recovering from the rib wound. Elowen is physically recovered apart from a fading cheek mark/scalp tenderness. The recovered tollhouse evidence reaches the capital with them.
 
-## Recent beats
-- Cassian points out that the thirty-day agreement has expired and dryly observes that he and Elowen may technically have become enemies again while eating porridge.
-- Elowen asks directly, 'Are you going to kill me?'
-- Cassian answers plainly that he is not. He does not turn the answer into a romantic reassurance or claim the feud is gone.
-- Cassian grounds the refusal in both conduct and strategy: Elowen kept him alive through the tollhouse aftermath, and killing Garrick Vale's heir while under priory protection would be both dishonorable in practical terms and politically catastrophic. More personally, he states that he has no present desire to kill her.
-- Cassian distinguishes 'enemy' from 'someone I intend to murder.' He reiterates the principle he previously gave Elowen at Merrow's ball: enemies can keep terms, bargain, refrain from killing one another, and potentially cease being enemies if future choices permit.
-- The exchange carries increased intimacy because Elowen asks the question after days of mundane proximity and Cassian answers without exploiting her vulnerability, but neither love nor reconciliation is established.
-- Cassian remains physically dependent on the priory's care and temporarily unable to enforce his usual tactical dominance by force. Elowen remains politically valuable and physically safer here than during the expedition.
-- The unresolved practical question is what replaces the expired Vale-Veyne restraint once they re-establish contact with Garrick and Veyne leadership.
+## Fast-forwarded developments
+- Elowen and Cassian spend the remaining priory days in constrained routine. No declaration, kiss, reconciliation, or marriage proposal occurs. Their familiarity deepens modestly through meals, evidence work, and Cassian's recovery, while the Vale-Veyne feud and Rowan's death remain unresolved.
+- Trusted search parties eventually locate the priory through cautious message chains. Garrick's men recover Elowen under heavy guard; Veyne men secure Cassian. Tomas Halvern is able to contact/return toward his own house with his identity and account now materially supported by the recovered list.
+- Elowen returns to the Vale residence in Veyrhold. Garrick receives her with controlled relief but the political environment has worsened during her absence.
+- The original thirty-day Vale-Veyne restraint has expired. Neither house attacked the other during Elowen/Cassian's disappearance, but there is no fresh formal agreement protecting the status quo.
+- The recovered documents are copied/secured and treated as proof of a systematic coercion operation against neutral houses, though the ultimate principal remains unknown. The Blackwater link and repeated cipher remain active investigative leads.
+- Garrick has spent Elowen's absence confronting the dynastic vulnerability exposed by her attempted abduction. He has begun considering remarriage as a legitimate long-term hedge to produce additional Vale heirs. He does not assume fertility, a son's birth, or survival; even a successful remarriage cannot solve the immediate succession crisis because any child would arrive too late to exercise present authority.
+- Garrick has also concluded that Elowen's marriage can no longer be deferred indefinitely. Her acknowledged adult heirship makes her marriage the immediate lever by which another faction could secure or neutralize Vale. Adrian remains an obvious Oren-aligned possibility, which Cassian has strong reason to prevent.
+- Current beat: shortly after Elowen's return, Garrick summons her privately to his solar. He intends to tell her that Vale's strategy must change: neutrality is no longer keeping her or the house safe, he is exploring remarriage himself, and he must now consider an immediate dynastic marriage for Elowen. No groom has yet been imposed in this scene.
