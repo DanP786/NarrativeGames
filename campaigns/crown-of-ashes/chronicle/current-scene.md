@@ -1,16 +1,20 @@
 # Current scene
 
-- Location: small roadside priory south-east of the old tollhouse — guest room beside infirmary
-- Time: late morning, 30th of Emberfall, Year 312 of the Crown
+- Location: small roadside priory south-east of the old tollhouse — infirmary
+- Time: around midday, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Cassian has survived immediate treatment after severe blood loss and briefly regained consciousness before being made to rest. Elowen has been cleaned and dressed in simple borrowed priory clothing. Lord Tomas Halvern remains with her and has preserved the recovered dispatch case unopened.
+- Situation: Cassian survived immediate treatment after severe blood loss and now sleeps under the physician's care. Elowen has been cleaned, treated, and dressed in borrowed plain priory clothing. Lord Tomas Halvern has left the recovered tollhouse dispatch case and singed papers under Elowen's control.
 
 ## Recent beats
-- The physician's wife cleans Elowen's shallow cheek wound and checks her tender scalp, finding no serious injury. She washes away the blood and lends Elowen a plain wool dress over clean linen because her travel clothes and cloak are heavily bloodied.
-- Once the immediate crisis ends, Elowen's hands begin shaking from delayed fear/exhaustion while she eats and drinks in the guest room.
-- Tomas reports that Cassian briefly woke, exchanged dry words with the physician, drank what he was given, and was made to rest. Cassian has not attempted a dramatic recovery.
-- Tomas presents the dark leather dispatch case still sealed and says he believed opening it should be Elowen's decision rather than taking possession of the evidence himself.
-- Elowen replies, 'Thank you Lord Halvern.' Her gratitude is courteous and direct.
-- Tomas accepts the thanks without presuming trust or intimacy. He places the dispatch case within Elowen's reach/control and reiterates that he owes her his freedom/life from the wagon, while recognizing that she still has reason to verify his identity and story.
-- Tomas does not pressure Elowen to open the case immediately. Cassian is conscious enough to survive the present moment but resting; Elowen can choose whether to wait for him before examining evidence or act as Vale's heir on her own authority.
-- The singed loose papers recovered from the tollhouse remain with the dispatch case and unread.
+- Tomas reports Cassian briefly regained consciousness and was made to rest. He preserves the dispatch case unopened and gives Elowen authority over whether/when to examine it.
+- Elowen thanks Tomas. He states that she freed him under arrow fire and that he owes her, while acknowledging she should still verify his identity and story.
+- Elowen takes the recovered papers and dispatch case and goes to the infirmary to sit beside Cassian while she reads. The physician permits quiet presence so long as she does not wake or move Cassian.
+- Cassian is asleep/unconscious from exhaustion, blood loss, and treatment, breathing steadily enough that the physician is no longer in immediate crisis mode. He does not know what Elowen reads while asleep.
+- The surviving loose papers are damaged but reveal operational fragments rather than a convenient signed confession. Several instructions use neutral commercial language: 'consignments,' 'deliveries,' and initials/ciphers instead of full names.
+- One partially burned instruction matches the tollhouse operation: it refers to a 'Vale article' to be preserved for transfer and a 'Veyne obstruction' to be removed if present. This corroborates the captured pursuer's account that Elowen was wanted alive and Cassian dead.
+- A second surviving fragment concerns payments routed through intermediaries in Veyrhold and references Blackwater as a payment/transfer channel rather than conclusively naming Blackwater as the ultimate sponsor.
+- Most importantly, one list cross-references several neutral or bargaining houses, including Vale and Halvern, with short annotations about 'alignment,' 'marriage,' 'pressure,' or 'correspondence.' This indicates a broader intelligence/coercion operation tracking politically uncommitted houses rather than an attack aimed only at Vale.
+- A repeated mark/initial appears on more than one recovered document, but its identity is not yet established from existing canon. The evidence points to an organized network attempting to manipulate or control neutral-house choices during the succession, while preserving ambiguity about the ultimate principal.
+- Elowen now has documentary corroboration that Tomas's claim about Halvern correspondence is plausible: Halvern appears on the same monitoring list as Vale. This supports but does not independently prove every part of Tomas's story.
+- The papers do not yet clear Oren, Cassian, Harrow, Merrow, or other factions conclusively. Cassian's near-fatal participation makes his personal orchestration of the tollhouse ambush highly implausible, but the documents themselves do not identify the mastermind.
+- Elowen remains physically exhausted, with a shallow treated cheek cut and sore scalp. Her ruined travel cloak remains blood-soaked; she is wearing a plain borrowed wool dress and clean linen.
