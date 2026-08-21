@@ -1,14 +1,13 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Elowen's bedchamber
-- Time: deep night into early morning, 25th–26th of Frostwane, Year 312 of the Crown
+- Location: Veyrhold, royal capital — Elowen's bedchamber / dream
+- Time: pre-dawn, 26th of Frostwane, Year 312 of the Crown
 - Scene significance: routine
-- Situation: After the rival marriage audience and secretly overhearing Adrian and Cassian discuss different facets of her character, Elowen lies awake for most of the night. By noon on 26 Frostwane Adrian must deliver concrete alternative marriage terms and Cassian's counsel must answer the remaining Vale amendments; Elowen must then read both and give Garrick her judgment before he decides whether to reopen the Veyne settlement.
+- Situation: After lying awake for most of the night following the rival marriage negotiations, Elowen finally sleeps and dreams of a possible first night married to Cassian. The dream is Elowen's private subconscious experience and conveys no canon knowledge, promise, prophecy, or actual Cassian thoughts.
 
 ## Recent beats
-- Elowen secretly overheard Adrian challenge Cassian that he knows Elowen largely through catastrophe and has not seen the ordinary/social joy Adrian has witnessed. Cassian acknowledges the limitation, notes that Elowen told him she loves the piano, and says that if she marries him perhaps he should see her joy. Neither man knows Elowen heard the exchange.
-- Elowen retires after telling Garrick she feels unwell. No NPC knows the specific content she overheard or her private emotional reaction.
-- Elowen lies awake most of the night, unable to settle after the day's negotiations. Her wakefulness is private unless servants later observe fatigue.
-- The unresolved decision bears several competing facts: Adrian represents a personally familiar alternative and claims knowledge of Elowen's happier social self, but admitted rumor and political caution delayed his approach and his concrete protections are not yet written; Cassian killed Rowan and offers a dangerous claimant's future, but his articles are nearly complete, he protected Elowen under lethal pressure, and Elowen silently vouched that he did not become cruel when given power over her.
-- Elowen has not privately or publicly chosen either man. Her personal fondness/yearning toward Adrian and complicated softness/concern toward Cassian remain distinct from her dynastic judgment and are unknown to the men unless she voices them.
-- No dream, conclusion, or new decision is imposed during the sleepless night; the player retains control over Elowen's thoughts and eventual judgment.
+- Elowen's dream places her in an imagined bridal chamber after a wedding to Cassian. The emotional focus is on uncertainty, proximity, vulnerability, and the strangeness of being alone together by choice/law rather than because they are hunted.
+- Dream-Cassian resembles Elowen's experience of him: controlled, observant, physically imposing, and careful not to force closeness. He does not become sexually coercive or contradict Elowen's established firsthand knowledge that he did not exploit her during their earlier isolation.
+- The dream remains romantic/sensual rather than sexually explicit. Elowen imagines the awkward removal of formal roles, Cassian giving her room to refuse or set the pace, and the unsettling possibility of tenderness between two people whose houses taught them to be enemies.
+- Because this is a dream, dream-Cassian's dialogue/actions reflect Elowen's own fears, hopes, and remembered impressions rather than authoritative Cassian characterization or knowledge.
+- Elowen has still made no waking choice between Adrian and Cassian. By noon, both sets of marriage terms are due and she must read them and give Garrick her judgment.
