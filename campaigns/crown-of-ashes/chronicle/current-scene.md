@@ -3,14 +3,14 @@
 - Location: Veyrhold, royal capital — Vale residence, west gallery
 - Time: late morning, 12th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick has accepted Cassian's marriage proposal in principle, with extensive articles still to be negotiated. Elowen escorts Cassian toward the exit and confronts him privately about the choice he has made.
+- Situation: Garrick has accepted Cassian's marriage proposal in principle, with extensive articles still to be negotiated. Elowen and Cassian speak semi-privately in the west gallery after the formal negotiation.
 
 ## Recent beats
-- Cassian tells Elowen he knows she is angry. Elowen replies, 'I am angry with everyone,' making clear the grievance is broader than him alone.
-- Cassian refuses to pretend he lacked a choice: he deliberately proposed the marriage because allowing Adrian/Oren to secure Vale was strategically unacceptable. He also acknowledges that nobody asked Elowen what she wanted and that she is entitled to anger over others defining necessity for her.
-- Elowen challenges him: 'You are choosing a wife.. a potential queen… that hates you?'
-- Cassian does not deny that she may hate him and does not assume marriage will cure it. He answers from his established political temperament: affection is not his primary criterion for a dynastic queen; political weight, competence under pressure, legitimacy, and reliability matter more.
-- Cassian points out that Elowen's hostility is at least known and candid. She has had reason to hate him yet still kept faith operationally, shared critical information, and saved his life when abandoning him would have benefited her personally. To Cassian, that conduct demonstrates a kind of reliability more valuable than flattering affection.
-- He does not turn the exchange into a confession of attraction or say he secretly knows she loves him. He remains unaware of her private softness/attraction.
-- Cassian makes clear he is prepared to marry a woman who may continue to resent him, provided they can keep terms and function politically. He frames a workable marriage as something that may be built from negotiated boundaries and conduct rather than requiring affection at the outset.
-- The exchange intensifies the enemies-to-lovers premise: Elowen is being forced toward marriage before emotional reconciliation, while Cassian knowingly accepts the risk of having a hostile wife because he values her demonstrated character and Vale's strategic position.
+- Elowen challenges Cassian on choosing a wife/potential queen who hates him. Cassian says affection is not his primary criterion in a dynastic marriage and points to Elowen's demonstrated reliability under pressure: she kept faith operationally, shared critical information, and saved his life despite having reason to hate him.
+- Cassian says he does not yet fully trust Elowen but knows how she behaves when frightened and angry, which he values more than courtly professions of affection. He does not assume marriage will erase the feud or Rowan's death.
+- Elowen asks, 'Do you really think you can become King, or protect us if you don’t?'
+- Cassian answers without promising certainty. He genuinely believes he can win the Crown and identifies Vale's support as materially improving that prospect, but he refuses to claim victory is guaranteed.
+- On the second half, Cassian distinguishes losing politically from being dead/attainted. If he survives a settlement in which Oren takes the Crown, marriage to Elowen makes Vale both more exposed as his wife's house and more important for him to protect; he would use Veyne lands, troops, alliances, negotiated surrender terms, and any remaining claim/leverage to preserve Vale.
+- Cassian admits the hard limit: if he is killed, utterly defeated, or stripped of all power, he cannot guarantee Vale's safety. He refuses to sell Elowen a false promise that marriage makes them invulnerable.
+- Cassian argues the proposed marriage improves Vale's position because it pools two major power bases and gives him a personal/dynastic stake in Vale's continued strength. He frames it as the strongest available defense, not perfect safety.
+- This candor matters to the dynamic: Cassian continues using coercive political leverage but does not manipulate Elowen with impossible guarantees. No love confession or reassurance that everything will be fine occurs.
