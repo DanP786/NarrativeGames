@@ -1,14 +1,16 @@
 # Current scene
 
 - Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
-- Time: mid-afternoon, 25th of Frostwane, Year 312 of the Crown, just before three
+- Time: mid-afternoon, 25th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Prince Adrian has just completed the first phase of his formal alternative argument. Garrick has given him until noon tomorrow to produce concrete terms. Cassian now arrives slightly early for the planned joint confrontation/negotiation, with Elowen present as Garrick's heir.
+- Situation: Garrick is forcing Cassian and Prince Adrian to defend their rival marriage/alignment positions in the same room, with Elowen present as heir and prospective bride. Adrian has until noon tomorrow to provide concrete terms; Cassian's articles are nearly complete.
 
 ## Recent beats
-- Adrian admits that both the rumors and political caution contributed to his delay in approaching Vale. Garrick contrasts this with Cassian acting earlier. Elowen is privately gutted by Adrian's admissions and looks down to conceal her emotion.
-- Garrick refuses to let Adrian build his case primarily around Rowan's death and demands concrete terms. Adrian agrees to produce them by noon tomorrow.
-- Cassian arrives before three. Elowen looks up as he enters and instinctively watches how he moves, checking whether his healing side still troubles him. His gait is controlled and substantially improved; he does not visibly guard the wound as strongly as before, though a slight economy in turning/bending remains consistent with incomplete recovery.
-- Elowen catches herself watching Cassian's injury and lowers her gaze again. Cassian can observe that she looked at him and then away, but cannot know she was specifically checking his injury or infer her private concern unless contextual surface cues make it obvious.
-- Cassian enters in severe formal mourning black and immediately recognizes Adrian's presence as the rival political intervention he was informed would occur. He does not know the preceding private exchange, Adrian's admissions, or Elowen's hidden hurt unless told.
-- Garrick intends both men to state and defend their positions in the same room. No final marriage choice has been made; Cassian's articles remain nearly complete and Adrian has until tomorrow noon to supply concrete alternative terms.
+- Cassian enters slightly early. Elowen instinctively watches his gait to assess his healing injury, sees that he is substantially improved though still economical in certain movements, then catches herself and looks down. Cassian notices her glance but cannot know its private meaning.
+- Garrick tells Cassian that Adrian has asked him not to sign the Veyne articles and will provide alternative terms by noon tomorrow. Cassian recognizes that if Garrick had already decided, Adrian would not be present, and does not mistake his near-complete articles for victory.
+- Garrick rejects courtship framing and asks Cassian the same central question posed to Adrian: why is Elowen safer as Cassian's wife than as Adrian's?
+- Elowen slowly raises her gaze to Cassian and waits for his answer.
+- Cassian answers from demonstrated conduct and structural interest rather than romance. He argues that the people manipulating Elowen's marriage have already ordered him killed and Elowen captured alive, so their interests are demonstrably opposed to his; marrying Elowen makes protecting her and preserving Vale directly integral to his own dynastic survival and claim.
+- Cassian does not claim he can guarantee Elowen will never be endangered. He points instead to what he did when the danger actually came: he did not trade her, abandon her, exploit her isolation, or use her as leverage despite having opportunities. Elowen likewise had opportunities to let him die and did not. He characterizes this as the existing 'faith' between them rather than conventional trust.
+- Cassian acknowledges Adrian may be honorable but argues that neither Adrian nor Oren's faction has yet been cleared of the compromised information environment, whereas the attackers' kill order against Cassian is concrete evidence that the coercion network did not regard Cassian as its beneficiary/partner at that stage.
+- No final choice has been made. Cassian does not know Adrian's earlier admission that rumor and political caution delayed his approach unless it is repeated in front of him.
