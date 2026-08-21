@@ -3,13 +3,12 @@
 - Location: Veyrhold, royal capital — Vale residence, blue drawing room
 - Time: afternoon, 21st of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is meeting Adrian under Vale supervision. Adrian asked whether she wants the Cassian marriage; Elowen has explained that the attacks, leaks, and rumor campaign appear intended to control Vale's alignment through her marriage and have left little trust between houses.
+- Situation: Elowen's controlled meeting with Adrian is ending. Adrian came intending to offer an alternative before the Cassian marriage becomes irrevocable, but Elowen has refused to conduct a rival marriage negotiation herself and described what exists with Cassian as not trust but 'faith' earned through mutual opportunities not taken for betrayal or cruelty.
 
 ## Recent beats
-- Adrian recognizes that his own request for Elowen to reconsider Cassian risks making him another man attempting to shape her future, even if his concern is sincere. He asks whether she trusts Cassian and whether Adrian is offering an alternative she actually wants.
-- Elowen answers that the marriage decision was not hers and that if Adrian wants Garrick to reconsider, he must speak to Garrick directly rather than make Elowen conduct a rival negotiation behind her father's back.
-- On Cassian, Elowen thinks before answering and says there were opportunities for betrayal or cruelty on both sides during their ordeal. Neither took them. She says there is not trust; Cassian described what exists between them as 'faith,' and adds, 'maybe that’s enough.'
-- Elowen's formulation is significant but not a love confession. She distinguishes institutional/political trust from a narrower earned faith based on observed conduct under pressure. Adrian can hear that Cassian is no longer merely Rowan's killer in Elowen's mind, but he cannot infer her private attraction or softness beyond what she has voiced.
-- Adrian is likely to understand that Elowen is not asking him to rescue her from Cassian and is not authorizing him to treat her as secretly choosing Adrian. If he wishes to reopen the marriage question, he must do so openly with Garrick and accept the political consequences.
-- Elowen remains privately fond of Adrian, but that private feeling has not been stated to him in this meeting. No dedicated Adrian NPC file exists, so his deeper motives remain unestablished beyond his letter and current dialogue.
-- Marriage articles with Cassian remain unsigned. The controlled rumor-tracing operation remains active in the background.
+- Adrian says that if he approaches Garrick, he will speak for himself and will not falsely claim Elowen secretly prefers him. He advises Elowen that if faith is all she has to begin a marriage with, Cassian must continue earning it.
+- Elowen privately wants Adrian to fight for her and wants to tell him that she likes him, but she cannot dismiss the possibility that Adrian or Oren's faction could be connected to the attacks/rumors, and she believes personal desire is subordinate to what she should do for Vale. These thoughts remain unspoken and unknown to Adrian.
+- Elowen visibly hesitates several times while trying to formulate a response, then gives up, lowers her gaze, curtsies, and says, 'thank you for coming your highness.' Her hesitation is observable, but Adrian cannot know the specific thoughts behind it.
+- Adrian recognizes the formal dismissal and does not exploit Elowen's hesitation by demanding a confession or claiming it means she chooses him. He responds with equal formality and leaves the decision of whether to approach Garrick separately to himself.
+- The meeting ends without Elowen declaring affection for Adrian, asking him to fight for her, rejecting Cassian, or authorizing any secret understanding. This preserves the political boundary Elowen established even though her private feelings are more conflicted.
+- Marriage articles with Cassian remain unsigned. The controlled rumor-tracing operation remains active; no definitive source has yet been established.
