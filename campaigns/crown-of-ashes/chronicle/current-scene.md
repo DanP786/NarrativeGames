@@ -6,11 +6,12 @@
 - Situation: The diversion has been betrayed. A captured pursuer says Elowen was to be taken alive and Cassian killed; the attackers learned only last night that the pair would be alone. The rendezvous is compromised, and the old tollhouse remains their best immediate lead.
 
 ## Recent beats
-- Elowen admits this is not the life she was trained for. Cassian bluntly agrees: she was prepared for the conventional life of a noble daughter rather than field danger, succession intelligence, or command.
-- Cassian distinguishes being untrained from incapable, citing observable facts from the pursuit: Elowen stayed mounted, recovered from a stumble, kept riding after being cut by a branch, obeyed when ordered away from the fight, and successfully bound his wound under instruction.
-- Cassian tells Elowen that after returning to Veyrhold she should insist Garrick remedy the gaps in her education so she is not indefinitely dependent on men like Cassian for survival decisions.
-- When Cassian notes that Elowen still needs help mounting her horse, Elowen stands and says, 'Not with your injury, I will do it myself.'
-- Elowen's decision is motivated outwardly by practical concern for Cassian's wound and a determination to mount independently. Cassian can observe those actions/words but not any unspoken emotional meaning.
-- Cassian does not override her merely to assert dominance. Since the immediate area is temporarily secure and his side wound makes lifting her genuinely unwise, he gives terse technical instructions for mounting astride from the ground: reins gathered, left hand at the mane/front of saddle rather than pulling the saddle sideways, left foot in stirrup, push from the right leg, swing cleanly over.
-- He makes clear that he will catch/control the horse if necessary but expects Elowen to perform the mount herself. This begins converting her forced dependence into learned competence without erasing Cassian's tactical authority or broader power advantage.
-- The prisoner remains restrained nearby. They still need to decide how to transport/secure him while moving toward or scouting the tollhouse.
+- Elowen admits this is not the life she was trained for. Cassian tells her she is badly trained for the life she inherited rather than incapable and says she should insist Garrick correct the gaps in her education so she is not permanently dependent on others for survival decisions.
+- Elowen refuses Cassian's help mounting because of his injury and successfully mounts astride from the ground under his verbal instruction. Cassian's own mounting movement visibly catches at his wounded side.
+- Elowen asks why Cassian would want her better equipped to run House Vale when a weaker Vale might be more useful to him and more dependent on people like him.
+- Cassian answers without pretending altruism: weakness is strategically useful only until someone else exploits it first. An incapable Vale heir would become a prize for Oren, Adrian, Cassian, Garrick's bannermen, hostile factions, and anyone able to control her access or marriage. That volatility is dangerous even to Cassian.
+- Cassian says he would rather negotiate with a capable enemy who understands the bargain and can enforce/keep it than build policy around a weak heir whose decisions can be captured by whichever stronger person reaches her first.
+- He acknowledges the cost honestly: if Elowen eventually chooses open war against him, becoming more capable would make her a more dangerous enemy. He still prefers that risk to an unstable House Vale controlled unpredictably by third parties.
+- Cassian also points out the immediate selfish reason: today her incompetence could get both of them killed. He needs her capable enough to follow, ride, observe, and act while he is wounded and they are isolated.
+- The exchange modestly increases Cassian's respect for Elowen because she challenges the strategic contradiction in his advice rather than accepting it as benevolence.
+- The prisoner remains restrained nearby. Cassian and Elowen still need to decide how to move him and whether/how to approach the tollhouse without exposing themselves.

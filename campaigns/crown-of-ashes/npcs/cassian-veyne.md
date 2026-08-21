@@ -24,16 +24,16 @@ A tall nobleman in his early thirties, severe in mourning black. He speaks witho
 - Last resort: civil war and lethal force against rival claimants or houses that make coexistence impossible.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 9 / 100 — Elowen's candor remains limited but credible where it appears.
-- Affection: 15 / 100 — Elowen's almost-sad acknowledgment that they are enemies lands as a genuinely personal moment, though Rowan's death and the feud remain overwhelming barriers.
-- Respect: 40 / 100 — Elowen continues to ask direct questions and follow implications rather than simply accept political framing.
+- Trust: 12 / 100 — Elowen has shared Garrick's private operational warning in full and followed Cassian's commands under lethal pressure; trust remains low because their houses are enemies and the expedition itself was betrayed.
+- Affection: 19 / 100 — Elowen's practical care while binding his wound and the increasingly unguarded exchanges complicate his hostility, but tenderness remains nascent and heavily constrained.
+- Respect: 48 / 100 — Elowen stayed functional under pursuit, obeyed when it mattered, challenged his strategic logic directly, and has begun learning practical skills quickly despite being badly prepared for field danger.
 - Loyalty: 0 / 100 — none.
-- Fear: 8 / 100 — Elowen herself remains unarmed, but her family has immediate cause for vengeance.
-- Suspicion: 61 / 100 — Cassian still knows Elowen is gathering information even as parts of the conversation become personal.
-- Resentment: 69 / 100 — the feud remains renewed in living blood, but the sustained civil exchange marginally complicates the simplicity of inherited hostility.
+- Fear: 8 / 100 — Elowen herself remains unarmed, but her dynastic value and House Vale's power remain significant.
+- Suspicion: 57 / 100 — Cassian remains alert to Elowen's political role, but her conduct during the shared danger has marginally reduced suspicion of personal manipulation.
+- Resentment: 65 / 100 — the blood-feud remains real, but immediate mutual dependence and Elowen's conduct are making inherited hostility less simple.
 
 ## Relationship to player
-Hostile and politically watchful. Cassian saved Elowen from a royal guardsman and pulled her into his lines, partly preserving valuable leverage; he later retained her during the withdrawal. Moments after her rescue, Rowan charged Cassian and Cassian killed him at close range in front of Elowen. Elowen later factually confirmed that Cassian had not threatened her with a blade. Cassian has formally recognized Elowen as Garrick's heir as part of a thirty-day political restraint. At the Merrow ball, their first sustained conversation without negotiators or armed men moves between personal candor and political testing. Cassian recognizes that Elowen is assessing him as a possible king and deliberately gives her selected truthful information he is willing for Garrick to hear. Their hostility remains real, but the conversation begins to distinguish inherited enmity from choices either of them might make in the future.
+Hostile and politically watchful, now complicated by forced operational dependence. Cassian saved Elowen from a royal guardsman and pulled her into his lines, partly preserving valuable leverage; he later retained her during the withdrawal. Moments after her rescue, Rowan charged Cassian and Cassian killed him at close range in front of Elowen. Elowen later factually confirmed that Cassian had not threatened her with a blade. Cassian formally recognized Elowen as Garrick's heir as part of a thirty-day political restraint. At the Merrow ball, their first sustained conversation without negotiators or armed men began distinguishing inherited enmity from future choices. During the Greyfen expedition, Cassian and Elowen have been forced into isolated danger together after a diversion plan was betrayed. Cassian exercises substantial tactical power over the inexperienced, unarmed Elowen, while she retains Vale's political authority and equal claim to evidence. He has begun treating her capacity as something worth developing rather than exploiting as permanent helplessness, partly because he prefers agreements with counterparts capable of understanding and keeping them and partly because their immediate survival now depends on her competence.
 
 ## History with player
 - Their houses carry an unresolved blood-feud predating their first meaningful interaction.
@@ -51,6 +51,10 @@ Hostile and politically watchful. Cassian saved Elowen from a royal guardsman an
 - Elowen points out that Cassian has told her a considerable amount; Cassian confirms much of his candor is deliberate but not every answer was selected for Garrick's benefit. His dry remark about his horse makes Elowen laugh involuntarily.
 - Elowen asks whether Cassian knows who attacked Vale's convoy. Cassian says he does not know, is investigating, and refuses to give unproven suspects. He says someone using his badge to choose when Vale and Veyne spill blood concerns him whether the culprit is an unauthorized Veyne actor or a third party.
 - Elowen sighs and asks, almost sadly, whether Vale and Veyne are not already enemies. Cassian answers that they are, but distinguishes inherited hostility and Rowan's blood from an unavoidable future war: enemies can keep terms, trade, refrain from killing each other, or eventually cease being enemies if both sides find that preferable. He does not ask Elowen to forgive Rowan's death or pretend the feud is resolved.
+- During the Greyfen expedition Cassian orders Elowen out of her sidesaddle for tactical safety and teaches her enough astride riding to survive a pursuit. When three riders chase them into an abandoned quarry, he orders her away and fights the pursuers; one wounds him along the ribs. Elowen binds the wound under his instruction.
+- A surviving pursuer reveals that Elowen was to be taken alive as political leverage and Cassian killed. Their orders were updated after the diversion plan was made, proving the operation leaked.
+- Cassian tells Elowen she is badly trained for the life she inherited rather than incapable, and says she should make Garrick correct the gaps in her education so she is not permanently dependent on men like Cassian.
+- Elowen challenges why Cassian would want a future head of enemy House Vale better equipped rather than weak and dependent on him. Cassian answers that weakness is useful only until another person exploits it first; a capable Vale can make, understand, and keep bargains, while an incapable heir becomes a prize fought over by every faction. He does not pretend this is altruism and acknowledges that if Vale ultimately takes arms against him, her greater competence could indeed make her more dangerous.
 
 ## Knowledge
 - Knows Elowen is Garrick Vale's only surviving child and has been publicly named heir to House Vale.
@@ -65,7 +69,9 @@ Hostile and politically watchful. Cassian saved Elowen from a royal guardsman an
 - Knows Elowen is personally testing what his kingship and political demands would mean for Vale.
 - Has observed Elowen laugh spontaneously at his dry humor and immediately turn away in visible embarrassment.
 - Has heard Elowen acknowledge their enmity with visible sadness rather than simple hostility; he cannot know the private source or meaning of that sadness.
-- Does not know Elowen's private feelings about Rowan, Cassian, her attraction to his appearance, or her fears beyond what she outwardly reveals.
+- Has observed during the Greyfen expedition that Elowen learns quickly under pressure when given concrete instruction, obeys tactical orders during immediate danger, and can function despite fear and pain.
+- Knows Elowen chose to share Garrick's private operational warning with him in full.
+- Does not know Elowen's private feelings about Rowan, Cassian, her attraction to his appearance, the small softness she has begun to feel, or her fears beyond what she outwardly reveals.
 
 ## Relationships with other NPCs
 - Prince Alaric: dead rival claimant.
