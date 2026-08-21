@@ -1,16 +1,15 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
+- Location: Veyrhold, royal capital — Vale residence, west gallery
 - Time: late morning, 12th of Frostwane, Year 312 of the Crown
-- Scene significance: climactic
-- Situation: Garrick has accepted Cassian's marriage proposal in principle, conditional on extensive marriage articles protecting Vale autonomy, Elowen's property/status, Garrick's remarriage and future lawful heirs, and succession contingencies. Garrick states the wedding will occur once articles are settled. Elowen has not been asked for consent within the dynastic negotiation.
+- Scene significance: charged
+- Situation: Garrick has accepted Cassian's marriage proposal in principle and ordered counsel to negotiate binding articles, with the wedding to follow once terms are settled. Elowen escorts Cassian toward the west gallery/exit, giving them a brief semi-private exchange after the negotiation.
 
 ## Recent beats
-- Garrick accepts the marriage because he judges it the strongest immediate survival settlement for Vale despite his extreme hatred of Cassian for killing Rowan. He explicitly says he will not sacrifice his one living child and house to vengeance for the dead.
-- Garrick demands protections: Elowen retains property in her own name and a substantially Vale household; if she remains heir at Garrick's death she inherits without requiring Cassian's confirmation; if Garrick later fathers a lawful son with superior right, Cassian will not interfere provided the succession is legitimate; Cassian cannot simply claim command of Vale household troops or isolate Elowen from her house for convenience.
-- Cassian accepts the core principles while reserving details such as exact household composition for written negotiation. He shows no triumph over Garrick's painful concession.
-- Garrick orders their stewards/counsel to begin negotiating the articles immediately and states the wedding will follow once terms are settled, making the marriage an imminent reality rather than a distant hypothetical.
-- Elowen's jaw clenches slightly at Cassian. This is an outwardly visible crack in her otherwise dutiful composure; she does not verbally object in front of Garrick.
-- Cassian can observe the clenched jaw but cannot know Elowen's private thoughts. He reads it only as displeasure/tension at the marriage decision and does not presume affection, betrayal, or a specific motive.
-- Elowen's private experience is one of accumulated upheaval over roughly the past month: king/funeral crisis, Rowan's death, sudden heirship, succession politics, attempted abduction, violent flight and tollhouse fight, saving Cassian's life, forced priory proximity, return to court, and now an arranged marriage to Rowan's killer and rival claimant. These private thoughts remain invisible unless voiced.
-- The developing trust from the priory is now under strain because Cassian has used political leverage and negotiated with Garrick to become Elowen's husband without asking her. This is the intended emotional setback before love.
+- Elowen's jaw visibly tightens at Cassian during the marriage decision, the first small outward crack in her dutiful composure. Cassian notices displeasure but cannot know its private cause.
+- Garrick sends Elowen to see Cassian to the west gallery. Away from Garrick and negotiators, Cassian states, 'You are angry with me.'
+- Elowen answers, 'I am angry with everyone.' This broadens the grievance beyond Cassian and signals that she feels acted upon by the entire dynastic/political machinery around her, though she does not yet articulate every reason.
+- Cassian does not apologize for proposing the marriage or pretend he would have refrained. He acknowledges that anger is reasonable and states plainly that he made the proposal because if he had not, Oren's faction would continue pressing Adrian and Vale would still be forced into a side.
+- Cassian also recognizes the personal distinction: strategic necessity does not mean Elowen must like that he negotiated for her hand with Garrick rather than asking her. He does not falsely claim she had an equal choice.
+- Their priory trust is under strain. Cassian's response remains controlled and unsentimental rather than suddenly tender; however, he does not punish or belittle Elowen for anger and permits her to direct it at him.
+- No betrothal articles are yet signed. Elowen still has potential room to argue privately over conditions and protections, even though Garrick has decided the marriage itself is the preferred course and Cassian possesses greater political leverage.
