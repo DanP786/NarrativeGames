@@ -3,14 +3,13 @@
 - Location: Veyrhold, royal capital — Vale residence, west gallery
 - Time: late morning, 12th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick has accepted Cassian's marriage proposal in principle, with extensive articles still to be negotiated. Elowen and Cassian speak semi-privately in the west gallery after the formal negotiation.
+- Situation: Garrick has accepted Cassian's marriage proposal in principle, with articles still to be negotiated. Elowen and Cassian are speaking semi-privately after the formal negotiation; their conversation has shifted between political coercion, prospective marriage, and the personal familiarity created by surviving the Greyfen/tollhouse ordeal together.
 
 ## Recent beats
-- Elowen challenges Cassian on choosing a wife/potential queen who hates him. Cassian says affection is not his primary criterion in a dynastic marriage and points to Elowen's demonstrated reliability under pressure: she kept faith operationally, shared critical information, and saved his life despite having reason to hate him.
-- Cassian says he does not yet fully trust Elowen but knows how she behaves when frightened and angry, which he values more than courtly professions of affection. He does not assume marriage will erase the feud or Rowan's death.
-- Elowen asks, 'Do you really think you can become King, or protect us if you don’t?'
-- Cassian answers without promising certainty. He genuinely believes he can win the Crown and identifies Vale's support as materially improving that prospect, but he refuses to claim victory is guaranteed.
-- On the second half, Cassian distinguishes losing politically from being dead/attainted. If he survives a settlement in which Oren takes the Crown, marriage to Elowen makes Vale both more exposed as his wife's house and more important for him to protect; he would use Veyne lands, troops, alliances, negotiated surrender terms, and any remaining claim/leverage to preserve Vale.
-- Cassian admits the hard limit: if he is killed, utterly defeated, or stripped of all power, he cannot guarantee Vale's safety. He refuses to sell Elowen a false promise that marriage makes them invulnerable.
-- Cassian argues the proposed marriage improves Vale's position because it pools two major power bases and gives him a personal/dynastic stake in Vale's continued strength. He frames it as the strongest available defense, not perfect safety.
-- This candor matters to the dynamic: Cassian continues using coercive political leverage but does not manipulate Elowen with impossible guarantees. No love confession or reassurance that everything will be fine occurs.
+- Elowen asks whether Cassian truly believes he can become King or protect Vale if he fails. Cassian says he believes he can win but refuses to guarantee it. If he survives a negotiated defeat with power intact, he would use Veyne lands, troops, allies, and settlement leverage to protect his wife and Vale; if utterly defeated, imprisoned, attainted, or killed, he cannot promise safety.
+- Cassian states that if he becomes King, nobody touches Vale without going through him, but admits marriage could worsen Elowen's position if he loses catastrophically. He frames the marriage as the strongest available defense, not invulnerability.
+- After this hard political exchange, Elowen's eyes lower to Cassian's healing side and she asks, 'have you been resting?'
+- Cassian notices the change of subject and the concern implicit in her attention to the wound, but cannot know any private softness behind it. He answers with characteristic dry resistance rather than treating it as a romantic confession.
+- Cassian has been resting enough to avoid reopening the wound and has followed his physician's restrictions more than he likes, but he has also resumed political work and today's meeting earlier than a cautious healer would prefer. His slight guarded movement remains visible to Elowen because she knows the injury firsthand.
+- The moment recalls their priory dynamic: Elowen once maintained pressure on the wound and monitored his recovery, so she recognizes signs of strain others may miss. This creates intimacy through practical knowledge rather than overt romance.
+- Cassian remains not fully healed; no sudden recovery is established. The marriage articles remain unsigned and the wedding is not yet legally fixed.
