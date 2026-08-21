@@ -1,15 +1,17 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, morning room to Elowen's chambers
-- Time: late morning, 15th of Frostwane, Year 312 of the Crown
-- Scene significance: routine
-- Situation: Garrick has received a missive reporting a false rumor that Cassian sexually assaulted Elowen during their isolation and that the proposed marriage conceals her dishonor. Elowen unequivocally denied it and Garrick believes her. He is treating the rumor as deliberate political sabotage/intelligence rather than grounds to cancel the settlement.
+- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
+- Time: afternoon, 15th of Frostwane, Year 312 of the Crown
+- Scene significance: charged
+- Situation: Elowen spent the hours after learning of the false sexual-assault rumor withdrawn in her chambers until Garrick summoned her. Cassian has come to the Vale residence after being informed through a trusted channel. Garrick is speaking with a trusted Vale man who brings a second piece of circulating information: that Elowen killed a man during the Greyfen/tollhouse ordeal.
 
 ## Recent beats
-- Elowen says Cassian did not force himself on her 'in the slightest' and instead saved her life more than once without asking anything in return.
-- Garrick accepts her answer without repeated interrogation and explains the rumor's political utility: it damages Cassian's legitimacy, sexualizes/stains Elowen's reputation, makes the marriage look like concealment, and places Garrick in a trap whether he continues or breaks the match.
-- Garrick refuses to assume Oren is the source merely because Oren benefits; the coercion network or other opponents of a Vale-Veyne bloc could also be responsible. He intends to trace where the phrasing began before choosing a public response.
-- Garrick orders that Cassian be informed immediately through a trusted channel before he hears a distorted version elsewhere.
-- Garrick tells Elowen to change out of her tea-soaked dress and explicitly tells her she did nothing wrong and should not behave as though the rumor makes her guilty.
-- Elowen nods slowly and rises. She leaves the private morning room for her chambers while Garrick begins containing/tracing the rumor.
-- The marriage articles remain unsigned and active. No cancellation or acceleration has yet been ordered.
+- The sexual-assault rumor is false and has been directly denied by Elowen. Garrick believes her; Cassian knows the rumor is false from direct experience. Its source remains unknown.
+- The new claim that Elowen killed a man is substantially true: during the tollhouse fighting she stabbed an attacker in close struggle. Elowen did not volunteer this detail when she returned to Veyrhold, though it was an act of survival during an armed attack.
+- Elowen is summoned into Garrick's solar while a trusted Vale man reports that a second story is circulating: Lady Elowen herself killed one of the attackers while away.
+- Before Elowen can answer, Cassian states that the claim is untrue. He says the attackers who died were killed by himself and Lord Tomas Halvern, deliberately removing Elowen from the account.
+- Cassian knows his statement is factually false. He chooses to lie because the story's political/reputational use is obvious and because he can plausibly absorb violence into his established public reputation far more safely than Elowen can in the conservative noble culture.
+- Cassian does not announce that he is protecting Elowen or seek gratitude. He presents the denial as authoritative eyewitness testimony and is prepared to coordinate with Tomas if necessary, though Tomas has not yet been shown agreeing to the false account in canon.
+- Garrick knows from Elowen's hesitation/reaction that there may be more to the claim and does not automatically assume Cassian is truthful. He is also alert to the larger intelligence problem: the second rumor contains a private true detail from the tollhouse, unlike the fabricated sexual-assault allegation. Someone may have access to a witness, surviving attacker, compromised rescuer, or information chain from the expedition.
+- The combination of one false intimate rumor and one true hidden operational detail suggests a deliberate campaign mixing lies with verifiable facts to make the whole package more credible.
+- Marriage articles remain unsigned. The immediate question is not only reputation management but who has enough access to know Elowen's actual role in the tollhouse fight.
