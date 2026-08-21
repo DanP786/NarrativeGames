@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, Elowen's sitting room
+- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
 - Time: late morning, 25th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Four days after Elowen's meeting with Adrian, several political and investigative developments have converged. Garrick has summoned Elowen because the rumor investigation, the abandoned prisoner search, the Cassian marriage articles, and Adrian's promised choice to approach Garrick have all advanced.
+- Situation: Four days after Elowen's meeting with Adrian, multiple pressures converge. The Halvern information chain is implicated by the controlled rumor trap; the abandoned quarry prisoner was deliberately recovered by someone unknown; Vale-Veyne marriage articles are nearly ready for signature; and Adrian has formally asked Garrick to hear an alternative before signing. Garrick tells Elowen she will be present while he decides.
 
 ## Recent beats
-- The controlled truthful-variant operation yields its first useful result: a peripheral detail supplied only through Tomas Halvern's household route resurfaces in hostile court gossip. This narrows the leak to someone in or downstream of Halvern's information chain, but does not establish that Halvern or his steward knowingly originated the smear.
-- Separately, men sent to check the quarry location find the surviving prisoner gone. The state of the site indicates he did not simply remain abandoned indefinitely; someone appears to have deliberately recovered/released him. His present location and rescuer remain unknown, preserving him as a dangerous intelligence lead.
-- Vale and Veyne counsel make substantial progress on the marriage articles. The principal protections previously demanded by Garrick are now close to settled language, bringing the proposed Cassian-Elowen marriage much nearer to an actual signature and reducing the time available for rival intervention.
-- Adrian follows through on his statement that if he speaks to Garrick, he will do so on his own behalf rather than claim Elowen asked him. He requests formal consideration from Garrick of an alternative marriage/alignment connected to Oren's side. No dedicated Adrian NPC file exists, so exact new terms beyond the existence of a formal approach are not invented here; Garrick has not yet given a final answer.
-- Adrian does not tell Garrick that Elowen secretly prefers him, because Elowen never authorized or stated that. Her private wish that Adrian might fight for her remains unknown to both men.
-- Garrick summons Elowen on 25 Frostwane to brief her on these converging developments before he makes decisions that affect the marriage settlement and investigation.
-- The false sexual-assault allegation remains wholly false and denied by both Elowen and Cassian. Controlled disclosure of Elowen's actual self-defense killing is intended to prevent enemies from using later proof of that fact to discredit the separate denial.
-- No final source of the rumor campaign has yet been proven, and no final marriage decision beyond Garrick's earlier acceptance of Cassian in principle has been reversed.
+- Garrick briefs Elowen that a detail seeded only through Halvern's household route resurfaced in hostile gossip, narrowing but not proving the leak source.
+- The quarry prisoner is missing and appears to have been deliberately recovered/released by an unknown party.
+- Cassian's marriage articles are close to final language and could be ready for signature within days.
+- Adrian approached Garrick on his own behalf, did not falsely claim Elowen preferred him or asked him to intervene, and requested that Garrick hear an alternative before signing the Veyne settlement.
+- Garrick tells Elowen, 'This time, Elowen, I want you in the room while I decide.' Elowen nods and answers, 'yes father.'
+- Garrick intends Elowen to observe and participate as his heir rather than remain outside while men negotiate her future. He has not promised that she alone will choose the marriage, but her judgment will now be directly heard in the decision room.
+- The next step is to receive and test Adrian's formal alternative against the nearly completed Cassian settlement, including security, succession, Vale autonomy, and the unresolved possibility that Oren-aligned channels could be connected to the attacks or rumors.
+- No final marriage choice has yet been made. The false sexual-assault allegation remains false; the controlled disclosure of Elowen's self-defense killing continues to protect the credibility of that denial.
