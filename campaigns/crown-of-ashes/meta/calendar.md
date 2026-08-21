@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 21st day of Frostwane, Year 312 of the Crown
+- Date: 25th day of Frostwane, Year 312 of the Crown
 - Season: late autumn
-- Time of day: afternoon
-- Current location: Veyrhold, royal capital — Vale residence, blue drawing room
-- Notable upcoming: Ten days have passed since Elowen and Cassian returned to Veyrhold and eight days since Garrick accepted their marriage in principle. Marriage articles remain under active negotiation and unsigned. A coordinated rumor campaign has falsely alleged Cassian sexually assaulted Elowen and truthfully leaked that Elowen killed an attacker in self-defense. Vale, Veyne, and Halvern are tracing controlled truthful variants through separate information channels; no definitive source is yet established. The abandoned quarry prisoner remains an investigative lead. Adrian has now been granted a controlled, properly attended meeting with Elowen at the Vale residence after privately requesting to speak before the Cassian settlement becomes irrevocable.
+- Time of day: late morning
+- Current location: Veyrhold, royal capital — Vale residence
+- Notable upcoming: Fourteen days have passed since Elowen and Cassian returned to Veyrhold and twelve days since Garrick accepted their marriage in principle. Over 22–25 Frostwane several developments converge: the controlled rumor-tracing operation produces a meaningful lead when a detail seeded only through Halvern's household route resurfaces in hostile court gossip, narrowing the leak toward that information chain without yet proving the steward personally responsible; the abandoned quarry prisoner is found gone from where Cassian left him, with signs that someone deliberately recovered him; marriage counsel substantially completes the Vale-Veyne articles and places them near signature; and Prince Adrian separately approaches Garrick rather than claiming Elowen's support, making a formal attempt to reopen the marriage question on Oren-aligned terms. Garrick has not yet made a final response to Adrian's approach. The false sexual-assault rumor remains denied and unproven; Elowen's self-defense killing is being reframed through controlled truthful disclosure.
