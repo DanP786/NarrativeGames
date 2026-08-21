@@ -3,14 +3,15 @@
 - Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
 - Time: afternoon, 15th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick, Elowen, and Cassian privately confront the second circulating story: the true claim that Elowen killed an attacker at the tollhouse. Cassian intends to deny her involvement publicly and attribute the deaths to himself and Tomas Halvern, but he tells Elowen not to lie to Garrick in private.
+- Situation: Garrick, Elowen, and Cassian privately confront a coordinated rumor campaign. One story falsely alleges Cassian sexually assaulted Elowen; another truthfully claims Elowen killed an attacker at the tollhouse. Cassian intends to deny Elowen's involvement publicly and absorb the killing into his own account.
 
 ## Recent beats
-- Garrick asks Elowen directly whether she killed a man. Elowen initially hesitates and looks to Cassian, uncertain because he has already denied the claim.
-- Cassian distinguishes private truth from public narrative: he will not ask Elowen to lie to her father, but his external account remains that he and Tomas Halvern killed the attackers.
-- Elowen admits, looking at the floor, 'I killed a man.'
-- Garrick receives the admission in controlled silence. He does not condemn Elowen merely for killing during an armed attack; his immediate concern is what happened, whether she was forced into it, why she did not tell him on returning home, and how the private fact escaped into court rumor.
-- Cassian does not contradict Elowen once she tells Garrick the truth. He confirms the context if required: the dead man was an attacker, Elowen was in close physical danger, and the killing was survival rather than execution or aggression.
-- Cassian's public lie is protective and politically calculated: his established reputation can absorb another violent death far more safely than Elowen's can, particularly while a coordinated campaign is already sexualizing and discrediting her.
-- The most alarming intelligence implication hardens: one circulating story is wholly fabricated, while another contains a true detail Elowen did not disclose publicly after returning. Someone has access to information from the tollhouse encounter and is mixing truth with lies to make the wider smear credible.
-- Marriage articles remain unsigned and active. Garrick's belief in Elowen's denial of the sexual-assault rumor is unchanged.
+- Elowen privately admits to Garrick, 'I killed a man.' Cassian confirms the context: the man was attacking Elowen at close quarters and she killed him to survive, not as an execution or act of aggression.
+- Garrick does not condemn Elowen for the killing. He agrees the public account should place the death on Cassian rather than expose Elowen to further politically useful scandal.
+- Garrick identifies the crucial intelligence problem: someone knows a private true detail from the tollhouse encounter.
+- When Garrick asks who saw Elowen kill the attacker, Elowen remembers the surviving prisoner from the earlier quarry encounter and says, 'The prisoner? We never went back for him.'
+- Cassian recognizes this as a serious loose end. The prisoner had known the updated orders: Elowen was to be taken alive as political leverage and Cassian killed. He was left secured/behind when events moved rapidly onward, and Elowen and Cassian never returned to recover him after the tollhouse disaster and priory evacuation.
+- The prisoner is a plausible source for information about the broader operation and could have been recovered by his own network or another party. However, he did not necessarily witness the later tollhouse killing itself, so his existence alone does not fully explain how the precise detail of Elowen using a knife became known. Garrick and Cassian do not collapse possibility into certainty.
+- Garrick orders an immediate discreet search/inquiry into what became of the abandoned prisoner and who subsequently passed through the relevant route/site. The investigation must also examine survivors/witnesses from the tollhouse, rescuers, and information chains around Halvern and the priory.
+- The mixture of fabricated sexual scandal with a true hidden detail increasingly suggests deliberate disinformation: enough truth is being seeded into the rumor package to make the lie believable.
+- Marriage articles remain unsigned and active. Garrick's belief in Elowen's denial of the sexual-assault allegation is unchanged.
