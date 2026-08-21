@@ -1,16 +1,15 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
-- Time: afternoon, 10th of Frostwane, Year 312 of the Crown
+- Location: Veyrhold, royal capital — Vale residence, Elowen's chambers
+- Time: late morning, 12th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick is forcing Elowen to reason through her marriage as an immediate dynastic instrument. Adrian would align Vale with Oren; a minor neutral husband would not protect Vale from whichever claimant wins; Garrick's possible remarriage can only hedge the long-term succession.
+- Situation: Two days after Garrick forced Elowen to reason through what kind of marriage could actually protect Vale, a formal meeting with Cassian Veyne has been arranged at the Vale residence. Cassian is recovered enough to attend in person but is not fully healed. Elowen is dressing before joining Garrick for the meeting.
 
 ## Recent beats
-- Elowen initially answers Garrick's marriage discussion with habitual deference: 'Yes, father.' Garrick explicitly refuses to accept obedience in place of judgment, reminding her that he has been training her to understand decisions privately because she may one day rule Vale beside the husband chosen now.
-- Garrick walks Elowen through Adrian's strategic cost: the marriage would be read as Vale choosing Oren and would likely make Vale Cassian's enemy in any succession war. A lesser neutral husband would preserve appearances but provide insufficient protection against a king or the coercion network already targeting neutral houses.
-- Garrick states he may remarry and perhaps produce a future son, but such a child cannot solve Vale's immediate danger. Elowen remains the acknowledged adult heir now.
-- Garrick asks Elowen what sort of husband could actually secure Vale against the succession and orders her not to tell him merely what she thinks he wants to hear.
-- Elowen answers honestly that the husband would need power sufficient that whichever claimant wins cannot simply consume Vale: ideally one of the claimants himself, or a man/house strong enough to bind a claimant into protecting Vale rather than targeting it. She recognizes that this sharply narrows the field.
-- Elowen's reasoning implicitly exposes the two most obvious claimant-linked paths: Adrian ties Vale to Oren indirectly, whereas marrying a claimant directly would make Vale integral to that claimant's own dynastic settlement. She does not volunteer romantic preference as the criterion.
-- Garrick is forced to confront the strategic logic he hates: Cassian Veyne, Rowan's killer and Garrick's bitter enemy, fits the immediate-power requirement unusually well if terms could protect Vale's institutional independence and Elowen's succession. Garrick has not yet accepted or proposed that marriage; his resentment remains extreme.
-- The next pressure will come from concrete offers and worsening succession conditions, not from Garrick abruptly deciding he likes Cassian.
+- Elowen honestly concluded that a husband capable of securing Vale against the succession would need enough power that a victorious claimant could not simply consume Vale, or would need to be so close to the Crown that protecting Vale became his own interest. This logic implicitly narrowed the field toward a claimant himself.
+- Garrick recognized the repugnant strategic implication that Cassian Veyne fits that requirement unusually well, but neither father nor daughter formally proposed him in that conversation. Garrick's resentment over Rowan's death remains intense.
+- In the following two days, discreet messages move between Vale and Veyne. A formal meeting is arranged at the Vale residence under guard. The stated subjects are the expired restraint, the tollhouse evidence, and the political settlement required now that neutrality has failed to provide safety. No marriage agreement has yet been concluded before the meeting.
+- Elowen prepares in her chambers with her lady attending her hair. Her shallow cheek cut from the expedition is healing and remains visible as a fine fading mark rather than a fresh wound.
+- Elowen is back in proper Vale clothing rather than borrowed priory wool. Her presentation is formal and controlled, suitable for appearing beside Garrick as his acknowledged heir rather than as an ornamental daughter.
+- The meeting with Cassian carries unspoken matrimonial stakes because Garrick and Elowen have independently identified the strategic logic, but Cassian's own intended terms have not yet been heard. He is not arriving as an accepted fiancé.
+- Elowen's private attraction or feelings remain unknown to Garrick, Cassian, and her attendants unless she outwardly reveals them.
