@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 10th day of Frostwane, Year 312 of the Crown
+- Date: 15th day of Frostwane, Year 312 of the Crown
 - Season: late autumn
-- Time of day: afternoon
+- Time of day: late morning
 - Current location: Veyrhold, royal capital — Vale residence
-- Notable upcoming: Elowen and Cassian have returned to Veyrhold after being located at the roadside priory and escorted separately under heavy Vale/Veyne protection. The original thirty-day Vale-Veyne restraint expired during their absence. Cassian is recovering and mobile but not fully healed. The recovered tollhouse evidence shows a broader coercion/intelligence network tracking politically uncommitted houses, including Vale and Halvern, with Blackwater-linked payments and an unidentified repeated cipher. Earlier investigation tied the network to Harrow, Edric Sorn, the Blackwater Exchange, Merrow guard Bennet Carrow, and money-changer Matthes Roul. During Elowen's absence the succession crisis hardened: Vale neutrality is increasingly untenable, and Garrick has begun considering dynastic alternatives including his own remarriage as a long-term hedge and an immediate political marriage for Elowen. A new Garrick heir would take time and cannot solve Vale's present exposure.
+- Notable upcoming: Five days have passed since Elowen and Cassian returned to Veyrhold and three days since Garrick accepted their marriage in principle. Marriage articles are under active negotiation but remain unsigned. Cassian is recovering and mobile but not fully healed. A malicious rumour has now begun circulating that Cassian forced himself sexually on Elowen during their isolation and that the proposed marriage is intended to conceal the resulting dishonor. The allegation is false based on established events. Its timing threatens Elowen's reputation, Cassian's legitimacy, and the Vale-Veyne settlement, and may be deliberate political sabotage. The recovered tollhouse evidence still points to a broader coercion/intelligence network targeting politically uncommitted houses, with Blackwater-linked payments and an unidentified repeated cipher.
