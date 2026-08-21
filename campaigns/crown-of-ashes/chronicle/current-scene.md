@@ -3,15 +3,14 @@
 - Location: old eastern tollhouse north-east of the abandoned quarry — beside the captive wagon
 - Time: morning, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: Elowen's bait plan has collapsed into open violence. Cassian has emerged from concealment while wounded. The better-dressed tollhouse operative has retreated toward/inside the building, and Elowen is in a close struggle with the armed sentry beside the wagon containing a bound male captive.
+- Situation: Elowen's bait plan has become open combat. A wounded sentry has seized her by the hair and is using her body as a shield against Cassian, while the better-dressed operative has retreated into/toward the tollhouse and additional enemies may be inside.
 
 ## Recent beats
-- Elowen unexpectedly races for the wagon after hearing the captive. She reaches it just ahead of the sentry and sees a bound, gagged, bruised adult man in good-quality travel clothes inside.
-- The sentry catches Elowen by the back of her cloak. Cassian intervenes from concealment by throwing a knife into the sentry's upper shoulder, forcing him to release her. Cassian then emerges from the trees with sword drawn, slowed by his rib wound.
-- The better-dressed operative recognizes Cassian and retreats toward the tollhouse, calling for movement inside.
-- When the wounded sentry reaches for Elowen again, she seizes Cassian's knife from his shoulder and pulls it free. Despite being Untrained in Combat, the range is grappling-close and Cassian had explicitly instructed her that if a man got hands on her she should put a knife into something soft and not hesitate.
-- Elowen stabs the sentry at close range into the soft lower torso/side rather than executing a skilled targeted strike. The wound is serious but does not instantly incapacitate him.
-- The sentry reacts violently, grabbing a fistful of Elowen's honey-blonde hair and hauling her into a brutal close struggle. Elowen has no trained grappling technique and is physically disadvantaged; surprise and the man's existing shoulder/torso wounds are what keep her from being immediately overpowered.
-- Elowen retains or fights for control of the bloodied knife while the sentry uses her hair to control her head and balance. Her scalp is painfully pulled; no major additional injury is yet established.
-- Cassian is moving toward Elowen but cannot reach her instantly because of distance and his wound. The tollhouse may contain additional enemies, so he cannot safely ignore the building entirely.
-- The captive in the wagon remains bound and gagged, witnessing the struggle. His identity remains unknown.
+- Elowen pulled Cassian's thrown knife from the sentry's shoulder and stabbed him in the soft lower torso/side. The sentry remained functional, grabbed Elowen by the hair, and dragged her into a close struggle.
+- The sentry then maneuvered Elowen between himself and Cassian and demanded Cassian drop his weapon. Cassian stopped rather than risk striking Elowen and calmly ordered her to keep hold of the knife.
+- Elowen remembers the separate small knife Cassian gave her before she approached the tollhouse. With her free hand she draws the concealed knife at grappling range and stabs backward/sideways into the sentry's soft abdomen/groin-side region without trained precision.
+- Because the sentry is already wounded in the shoulder and torso and is focused on Cassian, Elowen's surprise second blade lands. The cumulative injuries finally break his control: his grip on her hair loosens and he collapses/loses effective resistance.
+- Elowen's action is desperate survival rather than skilled combat. She experiences the physical shock and mess of stabbing someone at intimate range; no sudden combat competence is granted.
+- Cassian immediately closes the distance once Elowen is no longer being used as a shield, putting himself between her and the tollhouse rather than praising or romanticizing the violence.
+- Elowen now has blood on her hands/clothes and her braid has been torn apart; her scalp hurts from the sentry's grip. No severe new injury to Elowen is established.
+- The bound man in the wagon remains alive and gagged. The better-dressed operative and any additional tollhouse occupants remain active threats, so the scene is not secure.
