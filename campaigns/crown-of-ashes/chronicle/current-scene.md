@@ -1,16 +1,17 @@
 # Current scene
 
-- Location: small roadside priory south-east of the old tollhouse — cloister garden/courtyard outside the infirmary
-- Time: around midday, 30th of Emberfall, Year 312 of the Crown
-- Scene significance: routine
-- Situation: Cassian is alive, awake intermittently, but exhausted and confined to bed after severe blood loss. Elowen has briefed him on the recovered tollhouse evidence and then stepped outside for fresh air, leaving him to rest. Tomas Halvern remains at the priory.
+- Location: small roadside priory south-east of the old eastern tollhouse — cloister/infirmary grounds
+- Time: afternoon, 3rd of Frostwane, Year 312 of the Crown
+- Scene significance: charged
+- Situation: Elowen, Cassian, and Lord Tomas Halvern have remained at the priory for several days after the tollhouse ambush. Cassian's wound is stable but he is still not fit for hard riding. Their isolation has extended the forced proximity between Elowen and Cassian while the original thirty-day Vale-Veyne restraint reaches/passes its formal endpoint away from both houses.
 
 ## Recent beats
-- Elowen summarizes the surviving papers for Cassian. They establish systematic monitoring and coercion of politically uncommitted houses but do not identify the ultimate mastermind. Blackwater is a payment/transfer lead rather than proof of sponsorship, and a repeated unidentified cipher may identify a coordinator/broker/accounting node.
-- Cassian says the evidence materially supports Tomas Halvern's story because Halvern appears on the same monitoring list as Vale, though he remains cautious about trusting Tomas fully.
-- Fatigued, Cassian tells Elowen he trusts her considerably more than he did a week ago. This is a limited admission born of observable shared survival, not a declaration of affection or reconciliation.
-- Elowen replies, 'I’ll leave you to rest,' rises, and leaves the infirmary rather than pressing the emotional moment.
-- Elowen goes outside into the priory's small cloister garden/courtyard for fresh air. The contrast with the morning's violence is stark: ordinary priory work continues, bells/birds/wind audible, and no immediate threat is visible.
-- Elowen remains exhausted and dressed in a plain borrowed wool dress with her treated cheek cut and sore scalp. For the first time since the ambush she has a moment physically away from Cassian, blood, and active danger.
-- The dispatch case and recovered papers remain secured inside under Elowen/Cassian's control; they are not abandoned or handed to Tomas.
-- No new attacker or conspiracy reveal occurs during this routine beat. The next pressure is likely deciding how to contact Garrick/Veyne forces safely given the proven leak and how long Cassian must remain at the priory.
+- Cassian survives the first dangerous days without renewed major bleeding or fever. The physician allows him progressively more time awake and eventually short periods sitting/walking, but forbids riding or strenuous exertion. Cassian resents the restriction and nevertheless complies because reopening the wound again could kill him.
+- Elowen remains at the priory rather than abandoning Cassian while he cannot safely travel. Her minor cheek cut and scalp soreness improve over the same days. She continues wearing simple borrowed clothing while her bloodied travel garments are cleaned or set aside.
+- The recovered tollhouse dispatch case and singed papers remain secured. Elowen and Cassian review them in pieces during Cassian's waking periods, but no convenient mastermind's name emerges. The repeated cipher, Blackwater payment trail, and neutral-house leverage list remain their strongest leads.
+- Lord Tomas Halvern stays long enough to recover from his captivity and assist with practical security/messages. His presence on the coercion list continues to support his account, but neither Elowen nor Cassian treats him as automatically trustworthy in all matters.
+- Messages are sent cautiously rather than broadcasting their exact route. The proven operational leak means Elowen and Cassian cannot assume every Vale or Veyne messenger is safe. Their continued absence will nevertheless soon force their houses to react.
+- Forced proximity becomes mundane as well as dangerous: Elowen and Cassian share meals, evidence discussions, physician-imposed inactivity, and the same small priory grounds. Cassian still exercises tactical authority when security is involved, but physical weakness temporarily limits his ability to simply act over Elowen's objections.
+- Their hostility is not erased. Rowan's death, the blood-feud, Cassian's claim to the Crown, and Vale's political interests remain unresolved. However, repeated ordinary contact after mutual survival makes their exchanges less formally hostile and allows dry humor and reluctant familiarity to develop.
+- The thirty-day Vale-Veyne restraint, previously noted as having only a few days remaining on 27 Emberfall, has now reached or crossed its original expiration while both principals are away. Whether Garrick and Veyne authorities treat it as expired, tacitly continuing, or requiring immediate renegotiation is now an active political pressure.
+- Current immediate beat: several days after arrival, Cassian is well enough to sit outside for part of the afternoon but not to ride. Elowen has had several days in the priory's confined routine with him, creating the prolonged proximity that was previously missing from their enemies-to-lovers arc.
