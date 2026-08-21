@@ -3,11 +3,11 @@
 - Location: Veyrhold, royal capital — Elowen's bedchamber
 - Time: late morning, 26th of Frostwane, Year 312 of the Crown
 - Scene significance: routine
-- Situation: After lying awake most of the night and briefly dreaming of an imagined first married night with Cassian, Elowen groans, returns to sleep, and oversleeps. Her maid deliberately lets her rest longer than usual after observing how exhausted she was, but eventually must wake her because the noon deadline for both marriage proposals is approaching.
+- Situation: Elowen has overslept after a nearly sleepless night and is being hurriedly prepared before the noon deadline for Adrian's written alternative and Cassian's amended marriage articles. She must read both and give Garrick her judgment before he decides whether to reopen the near-complete Veyne settlement.
 
 ## Recent beats
-- Elowen's dream of Cassian was private and non-prophetic; no NPC knows it occurred. She wakes before dawn unsettled, groans, and chooses to go back to sleep.
-- Her maid finds Elowen deeply asleep later in the morning and, aware that Elowen returned from the previous day's negotiations claiming to feel unwell and appears exhausted, allows her to sleep beyond her normal rising hour.
-- By late morning the maid can delay no longer. She wakes Elowen gently but insistently because Garrick expects her to review both sets of marriage terms once they arrive around noon.
-- Elowen is now running late by her normal standards but has not missed the formal noon deadline or Garrick's requested review yet. No political consequence is imposed merely for oversleeping.
-- Adrian's written alternative and Cassian's amended articles are due by noon. No final marriage decision has been made.
+- Elowen's maid allowed her to sleep until nearly eleven because she appeared exhausted and had told Garrick she felt unwell the previous day. The maid now coordinates breakfast, dressing, and hair to recover the lost time.
+- Unlike the previous day, when Elowen deliberately refused cosmetics over the faint healing cut on her cheek, today she allows her maid to cover it.
+- The maid conceals the fading mark carefully without comment or asking Elowen to explain the change. The visible result is a more conventionally flawless presentation for the document review/decision day.
+- Elowen's reasons for choosing to conceal the cut today remain private unless she voices them; no NPC can infer the dream or her internal conflict from the cosmetic choice alone.
+- Adrian's written alternative and Cassian's amended articles remain due at noon. No final marriage choice has been made.
