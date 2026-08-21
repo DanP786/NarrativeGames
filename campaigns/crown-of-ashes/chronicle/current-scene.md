@@ -3,15 +3,13 @@
 - Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
 - Time: afternoon, 15th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen spent the hours after learning of the false sexual-assault rumor withdrawn in her chambers until Garrick summoned her. Cassian has come to the Vale residence after being informed through a trusted channel. Garrick is speaking with a trusted Vale man who brings a second piece of circulating information: that Elowen killed a man during the Greyfen/tollhouse ordeal.
+- Situation: Garrick, Elowen, and Cassian are privately confronting a second circulating story: the true claim that Elowen killed an attacker at the tollhouse. Cassian has already denied it and stated that he and Tomas Halvern alone killed the attackers, deliberately shielding Elowen's role.
 
 ## Recent beats
-- The sexual-assault rumor is false and has been directly denied by Elowen. Garrick believes her; Cassian knows the rumor is false from direct experience. Its source remains unknown.
-- The new claim that Elowen killed a man is substantially true: during the tollhouse fighting she stabbed an attacker in close struggle. Elowen did not volunteer this detail when she returned to Veyrhold, though it was an act of survival during an armed attack.
-- Elowen is summoned into Garrick's solar while a trusted Vale man reports that a second story is circulating: Lady Elowen herself killed one of the attackers while away.
-- Before Elowen can answer, Cassian states that the claim is untrue. He says the attackers who died were killed by himself and Lord Tomas Halvern, deliberately removing Elowen from the account.
-- Cassian knows his statement is factually false. He chooses to lie because the story's political/reputational use is obvious and because he can plausibly absorb violence into his established public reputation far more safely than Elowen can in the conservative noble culture.
-- Cassian does not announce that he is protecting Elowen or seek gratitude. He presents the denial as authoritative eyewitness testimony and is prepared to coordinate with Tomas if necessary, though Tomas has not yet been shown agreeing to the false account in canon.
-- Garrick knows from Elowen's hesitation/reaction that there may be more to the claim and does not automatically assume Cassian is truthful. He is also alert to the larger intelligence problem: the second rumor contains a private true detail from the tollhouse, unlike the fabricated sexual-assault allegation. Someone may have access to a witness, surviving attacker, compromised rescuer, or information chain from the expedition.
-- The combination of one false intimate rumor and one true hidden operational detail suggests a deliberate campaign mixing lies with verifiable facts to make the whole package more credible.
-- Marriage articles remain unsigned. The immediate question is not only reputation management but who has enough access to know Elowen's actual role in the tollhouse fight.
+- Garrick dismisses his trusted man and asks privately whether Elowen actually killed someone. Cassian again says no and makes clear that his public account will place the killings on himself and Tomas Halvern.
+- Garrick refuses to let Cassian's protective lie substitute for Elowen's private truth and asks her directly, 'Did you kill a man?'
+- Elowen begins, 'I…' and looks uncertainly to Cassian rather than answering immediately.
+- Cassian recognizes that Elowen is seeking guidance after he deliberately contradicted the truth. He does not instruct her to lie to Garrick; doing so would undermine the private candor Garrick requires from his heir and could damage father-daughter trust.
+- Cassian tells Elowen, in effect, that what she tells her father privately and what he will say publicly are separate matters. His protective public account remains unchanged.
+- Garrick notices Elowen looking to Cassian. This makes clear to him that Cassian is managing the external narrative and that Elowen's hesitation likely means the underlying claim contains truth. Garrick remains controlled rather than angry at Elowen.
+- The larger intelligence concern remains: unlike the fabricated assault rumor, this second story contains a private true detail. Someone outside the immediate trusted circle has access to information from the tollhouse fight, suggesting a witness, compromised information chain, or coordinated campaign mixing truth with lies.
