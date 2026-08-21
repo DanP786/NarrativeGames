@@ -3,15 +3,16 @@
 - Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
 - Time: late morning, 12th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: A formal Vale-Veyne meeting begins two days after Garrick and Elowen privately reasoned that only a very powerful marriage could protect Vale immediately. The stated agenda is the expired restraint, tollhouse conspiracy evidence, and a replacement political settlement. Matrimonial implications are present but no marriage agreement exists.
+- Situation: Formal Vale-Veyne negotiations have moved beyond the expired restraint. Cassian proposes Vale end neutrality in his favor, with permanent recognition of Elowen's succession, preservation of Vale lands/offices/internal command, and no Veyne governor or fortress seizures. He then states that a military alliance alone is insufficient and introduces marriage as the more durable bond.
 
 ## Recent beats
-- Elowen dresses formally as Garrick's acknowledged heir, in proper Vale clothing with her honey-blonde hair carefully arranged and the healing cheek cut still faintly visible. She attends the meeting as the dutiful daughter expected of her.
-- Cassian arrives at the Vale residence with a deliberately limited escort appropriate to negotiation rather than intimidation. He is again dressed in severe dark court clothes and carries himself with his usual control, but the tollhouse wound still constrains abrupt movement and is not fully healed.
-- Garrick receives Cassian with formal hostility rather than warmth. Rowan's death remains between them and Garrick's resentment is not softened merely because Cassian and Elowen survived together.
-- Cassian acknowledges Elowen formally as Lady Vale in Garrick's presence, maintaining public distance despite the familiarity developed at the priory. Any private attraction remains unspoken and unknown.
-- Garrick states that the previous restraint is expired and that Vale will not simply renew thirty days of neutrality under the same terms. The tollhouse attack proved delay now carries active danger.
-- Cassian agrees that the previous arrangement has been overtaken by events. He comes prepared to discuss a more durable settlement rather than another short extension.
-- Cassian's strategic position: he cannot permit Vale to drift into Oren's coalition through an Adrian marriage; he needs Vale's military/political weight and has reason to make Vale's survival part of his own settlement. His methods permit using marriage as statecraft, but he has not yet formally named Elowen as a proposed bride in this scene.
-- Garrick's position: Cassian remains Rowan's killer and an abhorrent personal choice, but Garrick now understands that Elowen's marriage must protect Vale against the winning claimant, not merely secure a respectable alliance. He will require overwhelming terms to consider binding Vale to Veyne.
-- Current immediate beat: Elowen enters the solar and takes her place beside Garrick. Cassian is already present. Garrick is about to open negotiations on what replaces the expired restraint.
+- Elowen enters formally as Garrick's dutiful daughter and acknowledged heir. Cassian addresses her as 'Lady Vale' in public, restoring political distance after their priory familiarity.
+- Garrick refuses another temporary neutrality extension. Cassian agrees the old arrangement is obsolete after the abduction attempt and proven leak.
+- Cassian proposes a durable settlement: Vale ends neutrality and supports his claim; in return, if he prevails, Elowen's succession is permanently recognized and Vale retains its lands, offices, internal command, and fortresses without a Veyne governor.
+- Cassian frankly admits these promises cannot protect Vale if Oren wins, which is why he argues a simple military alliance is insufficient. He says an alliance can be abandoned whereas a marriage is harder to unwind.
+- Elowen's stomach drops as she realizes Cassian has independently reached the same strategic conclusion she and Garrick reached privately: her marriage is the immediate mechanism capable of making Vale's survival integral to a claimant's own interest.
+- Elowen does not voice her private reaction. Cassian cannot know her thoughts and Garrick sees only whatever outward composure she maintains.
+- Garrick forces Cassian to state the proposal without euphemism. Cassian formally proposes marriage to Elowen as a dynastic settlement, addressing the negotiation to Garrick because Garrick is head of House Vale and because the intended power imbalance is real.
+- Cassian does not frame the proposal as courtship or love. He presents it as a political bargain: marrying Garrick's acknowledged heir binds Vale directly to Cassian's claim and gives Cassian personal/dynastic reason to preserve Elowen's inheritance rather than merely promise to respect it.
+- Garrick's hostility remains acute because Cassian killed Rowan. He does not accept immediately; he begins testing whether Cassian seeks to absorb Vale through Elowen or is genuinely prepared to protect Vale's institutional independence after marriage.
+- No betrothal has yet been agreed. Elowen remains present while the men negotiate over a marriage that would profoundly constrain her choices.
