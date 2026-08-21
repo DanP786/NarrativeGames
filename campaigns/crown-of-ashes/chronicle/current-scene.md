@@ -3,14 +3,14 @@
 - Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
 - Time: shortly after two in the afternoon, 25th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick is hearing Prince Adrian's formal alternative to the nearly completed Cassian marriage settlement. Elowen is present by Garrick's explicit instruction as his heir and as the woman whose marriage is being negotiated. Cassian is due at three.
+- Situation: Garrick is testing Prince Adrian's formal alternative to the nearly completed Cassian marriage settlement. Elowen sits beside Garrick as heir and prospective bride. Cassian is due at three.
 
 ## Recent beats
-- Elowen attends in formal mourning black, Vale silver, immaculate hair, and with the faint healing mark on her cheek deliberately left unconcealed.
-- Adrian is already present with Garrick when Elowen enters. He greets her formally and does not reference their earlier private-but-chaperoned conversation or claim she asked him to intervene.
-- Garrick makes the terms of the audience explicit: Adrian requested that Vale delay signing with Cassian to hear an alternative, so Adrian must state what he offers House Vale and Elowen. Elowen is not excluded from the negotiation.
-- No dedicated Adrian NPC file exists, so no unsupported detailed dynastic package is invented. Adrian frames his case at a high level: an Oren-aligned marriage would place Vale within a powerful royal coalition rather than binding it to Cassian, and he argues that Vale should not assume Cassian is the only claimant capable of protecting the house. Exact land, succession, military, or inheritance concessions remain to be negotiated/produced rather than treated as established.
-- Garrick challenges Adrian on the central weakness: Vale's recent attack and the compromised operation make trust in other houses/channels exceptionally poor, and marriage to Adrian would effectively commit Vale to Oren before the source of the coercion network and rumors is known.
-- Adrian does not claim Oren's innocence as proven. He offers his own conduct and willingness to put guarantees into binding articles as the beginning of an answer, while acknowledging Garrick has reason for suspicion.
-- Elowen is expected to listen and question rather than serve as decoration. Adrian's personal feelings toward her, if any beyond established concern/fondness, are not presumed. The formal political offer is being tested before Cassian arrives.
-- Cassian's articles remain unsigned and nearly complete. No final marriage choice has been made.
+- Adrian argues that marriage to him would align Vale with Oren's larger coalition and that Cassian is not the only man capable of making Vale costly to attack. He offers to negotiate binding protections for Vale rather than asking for blind trust.
+- Garrick identifies Adrian's central weakness: the attacks and rumor campaign appear designed to control Elowen's marriage, and an Adrian match would benefit Oren's faction. Adrian cannot prove Oren's innocence.
+- Garrick asks Adrian, in front of Elowen, why she should believe marrying Adrian makes her safer.
+- Elowen looks from Garrick to Adrian and waits for Adrian to answer rather than rescuing him or answering on his behalf.
+- Adrian answers candidly that he cannot guarantee safety merely by asserting his honor or Oren's innocence. His strongest case is structural: if he binds himself by enforceable marriage articles, places his own household/security obligations behind Elowen, and accepts Vale safeguards that survive political changes, harming Elowen would become an attack on his own position as well as Vale's.
+- Adrian also acknowledges the weakness in that argument: Cassian can make a similar claim and already has a demonstrated record of protecting Elowen under immediate physical danger. Adrian cannot truthfully match that evidence because he was not present during the ordeal.
+- Adrian therefore distinguishes what he can offer personally: an alliance not founded on inherited Vale-Veyne blood-feud and a marriage in which Elowen would not begin by sharing a household with Rowan's killer. This is politically and emotionally relevant but does not itself prove greater physical/security safety.
+- Garrick remains unconvinced that Adrian has solved the trust problem. The audience continues; no final choice is made.
