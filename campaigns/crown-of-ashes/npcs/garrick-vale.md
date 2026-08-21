@@ -11,13 +11,14 @@ Elowen's father and head of House Vale. A controlled nobleman who dislikes givin
 
 ## Short-term goals
 - Secure House Vale after Rowan and Alaric's deaths.
-- Prevent further bloodshed while House Vale is exposed inside Veyrhold.
-- Determine the consequences of Cassian's surviving claim.
-- Prepare Elowen for her new position as provisional heir by teaching her to question and understand decisions in private while maintaining unified authority in public.
+- Prevent House Vale being consumed by either succession faction or the coercion network targeting neutral houses.
+- Negotiate binding marriage articles between Elowen and Cassian that preserve Vale's institutional independence and protect Elowen against later dynastic displacement.
+- Investigate/remedy the security leak exposed by the Greyfen/tollhouse ambush.
 
 ## Long-term goals
 - Preserve House Vale's lands, bloodline, and influence through the succession crisis.
-- Resolve the dynastic crisis created by Rowan's death, which leaves Elowen as his only surviving child.
+- Remarry if a suitable match can strengthen the Vale bloodline and produce additional legitimate heirs without undermining the immediate settlement.
+- Ensure Elowen remains protected and materially powerful even if a later legitimate son supersedes her under Vale succession law.
 - Exact or secure an answer for Rowan's death without destroying House Vale through reckless vengeance.
 
 ## Methods & lines
@@ -27,14 +28,14 @@ Elowen's father and head of House Vale. A controlled nobleman who dislikes givin
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 72 / 100 — Elowen remains deeply deferential and loyal even while beginning to ask difficult questions.
-- Affection: 68 / 100 — her gratitude after his admission that he will not sacrifice her for vengeance touches the paternal attachment intensified by Rowan's death.
-- Respect: 50 / 100 — Garrick increasingly values Elowen's questions and now explicitly wants her to challenge his reasoning in private as part of learning to rule.
-- Loyalty: 82 / 100 — her instinct after questioning him is to apologize and reaffirm deference, leaving him confident she is not challenging his authority for its own sake.
-- Suspicion: 8 / 100 — her questions are plainly educational rather than rebellious.
-- Resentment toward Cassian Veyne: 95 / 100 — Cassian killed Rowan and held Elowen as leverage during the withdrawal.
+- Affection: 68 / 100 — her survival after the ambush and continued dutiful conduct reinforce his paternal attachment.
+- Respect: 53 / 100 — Elowen reasoned honestly through the marriage problem and identified the same hard strategic requirements Garrick did.
+- Loyalty: 82 / 100 — he remains confident Elowen will preserve House Vale's unified front even when privately distressed.
+- Suspicion: 8 / 100 — her questions remain educational rather than rebellious.
+- Resentment toward Cassian Veyne: 96 / 100 — Cassian killed Rowan; accepting him as Elowen's prospective husband is a strategic concession Garrick finds personally abhorrent, not forgiveness.
 
 ## Relationship to player
-Friendly. Garrick regards Elowen as his loved and dutiful daughter, now also his only surviving child. Rowan's death makes her survival personally and dynastically more important. His affection remains shaped by a deeply dynastic understanding of family. Garrick has told Elowen that unless and until he fathers another legitimate son, she is his heir. He is now actively educating her in governance and politics because her former ornamental preparation is no longer sufficient. He has explicitly told her that private questioning is now part of her duty: she must understand decisions rather than merely obey them, while preserving House Vale's unified front in public.
+Friendly. Garrick regards Elowen as his loved and dutiful daughter, now also his only surviving child and acknowledged heir unless a later legitimate son supersedes her under Vale law. He actively educates her in governance and politics and expects private questioning alongside public unity. After the tollhouse attack demonstrated that neutrality no longer protects Vale, Garrick concludes that Elowen's marriage must become an immediate dynastic settlement. He accepts in principle Cassian Veyne's marriage proposal because Cassian's claim and military power can make preserving Vale part of his own dynastic interest, but Garrick intends to negotiate severe protections before any binding betrothal or wedding.
 
 ## History with player
 - Raised Elowen within House Vale's expectations of noble femininity, display, obedience, and family loyalty.
@@ -44,11 +45,16 @@ Friendly. Garrick regards Elowen as his loved and dutiful daughter, now also his
 - During her first direct political lessons, Elowen recognized the legitimizing value of Vale support, the conflict between Oren's marriage offer and the Veyne restraint, and the danger of marrying into a faction that might lose the succession.
 - When Cassian later offered to recognize Elowen's succession in exchange for extended neutrality and prior notice of marriage alliances, Elowen questioned the strategic meaning of the offer and why Garrick would bargain with Rowan's killer.
 - After Garrick explained that he would not sacrifice Elowen and House Vale to avenge Rowan, Elowen thanked him and apologized for questioning his judgment. Garrick told her she must no longer apologize for private questions because understanding his decisions is now part of being his heir.
+- After Elowen's attempted abduction and return from the priory, Garrick privately forced her to reason through what sort of marriage could protect Vale immediately. Elowen honestly concluded that only a husband with enough power to deter a victorious claimant, or a claimant himself, could do so.
+- Garrick subsequently receives Cassian for formal negotiations. Cassian proposes marriage to Elowen as the core of a durable Vale-Veyne settlement and offers institutional protections for Vale. Garrick tests the proposal against his own possible remarriage and future heirs.
+- Garrick accepts the Cassian-Elowen marriage in principle only after determining that Cassian will not demand Garrick surrender his right to remarry, that future lawful Vale children can retain succession rights, and that Elowen can receive irrevocable protections if later displaced as heir. This is a strategic decision made despite extreme personal hatred of Cassian.
 
 ## Knowledge
 - Knows House Vale's political calculations and the history behind its feud with House Veyne.
 - Knows considerably more about the succession than Elowen does.
-- Knows Elowen was physically within Cassian's control during the cathedral crisis and appears deeply shocked by Rowan's death.
-- Saw Elowen visibly flinch at Cassian's name, plausibly attributable to Rowan's killing and the cathedral events.
-- Knows he raised Elowen for an ornamental and marital role rather than rule, but now has growing evidence that she can learn political reasoning when given context.
-- Does not know Elowen's private thoughts about Rowan, Cassian, or becoming his heir.
+- Knows Elowen witnessed Cassian kill Rowan and has reason to fear or hate him.
+- Knows Elowen survived the Greyfen/tollhouse ambush with Cassian and materially helped keep him alive after severe blood loss.
+- Knows the tollhouse evidence shows an organized coercion operation targeting neutral houses, making continued neutrality actively dangerous.
+- Knows Elowen's marriage is now an immediate strategic lever and that Adrian would effectively align Vale with Oren.
+- Knows Cassian's proposed marriage settlement can make Vale's survival part of Cassian's own dynastic interest while preserving Vale as a distinct house if the articles are strong enough.
+- Does not know Elowen's private attraction to Cassian, the softness she has begun to feel toward him, or her private thoughts about Rowan.
