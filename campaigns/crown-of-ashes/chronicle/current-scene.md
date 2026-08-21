@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, Elowen's sitting room
+- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
 - Time: early afternoon, 20th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Four days have passed since Vale, Veyne, and Halvern began using controlled truthful variants of Elowen's tollhouse self-defense account to trace the rumor leak. Marriage articles between Elowen and Cassian remain unsigned and under negotiation. Elowen receives a private letter from Adrian.
+- Situation: Four days after the controlled rumor-tracing operation began, Elowen receives a private letter from Adrian asking for one conversation before her future with Cassian becomes irrevocably settled. Though Elowen is privately fond of Adrian, she does not think she can properly grant his request and takes the letter directly to Garrick.
 
 ## Recent beats
-- The controlled disclosure strategy is still active. No definitive leak source has yet been established in canon; the abandoned quarry prisoner remains an independent lead.
-- A sealed letter addressed personally to Lady Elowen arrives at the Vale residence from Adrian, the man previously discussed as a potential marriage match that would effectively align Vale with Oren's faction.
-- No dedicated Adrian NPC file currently exists in the campaign roster, so his exact established voice/history cannot be invented beyond current-scene canon: he is associated with the rival Oren marriage strategy and is a politically significant alternative to Cassian.
-- The letter is courteous and politically careful. Adrian acknowledges that ugly stories are circulating about Elowen without repeating the sexual allegation in lurid terms. He states that he does not consider her diminished by what is being said and asks for a private opportunity to speak before her future is irrevocably settled.
-- Adrian's letter does not claim secret knowledge of what happened during the expedition, does not accuse Cassian as fact, and does not profess invented prior intimacy with Elowen. It can plausibly function as concern, political maneuvering, or both; his true motive is not yet established.
-- Because the marriage articles with Cassian are not signed, Adrian's request is politically consequential. Elowen has not yet shown the letter to Garrick or Cassian.
+- Adrian's letter courteously acknowledges that ugly stories are circulating without repeating them, says he does not consider Elowen diminished by surviving whatever happened, and asks for one private conversation before the Cassian negotiations become irrevocable. He promises to respect it if she wants no further letters afterward.
+- No dedicated Adrian NPC file exists, so his true motive and deeper characterization remain unestablished; the letter can plausibly be sincere concern, political maneuvering on behalf of Oren's alignment, or both.
+- Elowen brings the letter to Garrick rather than secretly arranging the requested meeting. This is especially significant because she is fond of Adrian, but she recognizes that an unsanctioned private meeting with the rival marriage prospect would be politically dangerous while Cassian's articles are active and sexual rumors are already circulating.
+- Garrick reads the letter and recognizes that Adrian has written cleverly: he avoids directly accusing Cassian, avoids insulting Elowen, and asks only for a conversation, making a harsh refusal potentially useful to Oren's side while a secret meeting would endanger Vale's credibility with Cassian.
+- Garrick does not punish Elowen for receiving the letter. Her decision to bring it directly to him reinforces his trust in her judgment.
+- Garrick considers that refusing all contact may waste an opportunity to learn what Adrian/Oren actually want. A private meeting cannot be granted as requested, but a controlled meeting with Vale knowledge/chaperonage could potentially serve intelligence and diplomacy without implying Elowen is conducting a rival courtship behind Cassian's back.
+- Marriage articles remain unsigned and active. No response has yet been sent to Adrian.
