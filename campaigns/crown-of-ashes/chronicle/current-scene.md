@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
-- Time: early afternoon, 20th of Frostwane, Year 312 of the Crown
+- Location: Veyrhold, royal capital — Vale residence, blue drawing room
+- Time: afternoon, 21st of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Four days after the controlled rumor-tracing operation began, Elowen receives a private letter from Adrian asking for one conversation before her future with Cassian becomes irrevocably settled. Though Elowen is privately fond of Adrian, she does not think she can properly grant his request and takes the letter directly to Garrick.
+- Situation: Elowen has accepted Adrian's request to speak, but on Garrick's terms: at the Vale residence, in daylight, with household chaperonage and Garrick's knowledge. Cassian has been informed that the meeting will occur rather than asked for permission. Marriage articles remain unsigned and active.
 
 ## Recent beats
-- Adrian's letter courteously acknowledges that ugly stories are circulating without repeating them, says he does not consider Elowen diminished by surviving whatever happened, and asks for one private conversation before the Cassian negotiations become irrevocable. He promises to respect it if she wants no further letters afterward.
-- No dedicated Adrian NPC file exists, so his true motive and deeper characterization remain unestablished; the letter can plausibly be sincere concern, political maneuvering on behalf of Oren's alignment, or both.
-- Elowen brings the letter to Garrick rather than secretly arranging the requested meeting. This is especially significant because she is fond of Adrian, but she recognizes that an unsanctioned private meeting with the rival marriage prospect would be politically dangerous while Cassian's articles are active and sexual rumors are already circulating.
-- Garrick reads the letter and recognizes that Adrian has written cleverly: he avoids directly accusing Cassian, avoids insulting Elowen, and asks only for a conversation, making a harsh refusal potentially useful to Oren's side while a secret meeting would endanger Vale's credibility with Cassian.
-- Garrick does not punish Elowen for receiving the letter. Her decision to bring it directly to him reinforces his trust in her judgment.
-- Garrick considers that refusing all contact may waste an opportunity to learn what Adrian/Oren actually want. A private meeting cannot be granted as requested, but a controlled meeting with Vale knowledge/chaperonage could potentially serve intelligence and diplomacy without implying Elowen is conducting a rival courtship behind Cassian's back.
-- Marriage articles remain unsigned and active. No response has yet been sent to Adrian.
+- Adrian privately wrote Elowen asking for one conversation before her future with Cassian became irrevocable. Elowen, though fond of Adrian, brought the letter directly to Garrick and said she did not think she could properly grant a private meeting.
+- Garrick approved of Elowen recognizing the political/reputational danger but judged that refusing all contact could waste an opportunity to learn what Adrian and Oren's side want. He permits a controlled meeting and insists Cassian be informed so the Vale-Veyne negotiation cannot be accused of concealment.
+- On 21 Frostwane Adrian arrives at the Vale residence and is received in the blue drawing room. The doors remain open and a Vale lady/attendant is positioned at sufficient distance to satisfy propriety without hearing every quiet word.
+- No dedicated Adrian NPC file exists; his established characterization remains limited. He is a prospective match associated with Oren's faction, Elowen is privately fond of him, and his recent letter was courteous, avoided asserting the sexual rumor as fact, and asked to speak before the Cassian settlement becomes irrevocable.
+- Adrian begins without pretending the meeting is apolitical. He thanks Elowen for seeing him and acknowledges that the circumstances make even requesting it dangerous. He does not claim secret knowledge of the Greyfen events or repeat the sexual allegation as fact.
+- His immediate purpose is to learn whether Elowen herself wants the Cassian marriage and to make clear that an alternative alignment may still exist before the articles are signed. The exact terms or authority behind any alternative have not yet been established and must emerge through dialogue rather than assumption.
+- The controlled rumor-tracing operation remains active in the background; no definitive source has yet been established. The abandoned quarry prisoner remains an independent investigative lead.
