@@ -3,15 +3,15 @@
 - Location: old eastern tollhouse north-east of the abandoned quarry — wagon yard outside the tollhouse
 - Time: morning, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: climactic
-- Situation: The upstairs archer has been thrown/forced from the upper window by the freed captive and lies down in the yard. Cassian has emerged from the smoke after confronting the better-dressed operative, but his previously bound rib wound has reopened badly after exertion and his knees are beginning to fail.
+- Situation: Immediate hostile resistance at the tollhouse appears neutralized, but smoke and fire remain inside. Cassian has collapsed unconscious from blood loss/exertion after his rib wound reopened. Elowen is kneeling over him maintaining hard direct pressure with her blood-soaked cloak. The freed captive has recovered a dark dispatch case and singed papers from inside.
 
 ## Recent beats
-- Elowen stays behind the stone trough while pinned by the archer rather than exposing herself for a weapon. Her choice keeps her uninjured and occupies the archer's attention.
-- The freed captive reaches the upper floor from inside/rear and neutralizes the archer, who crashes through the rotten shutters and falls into the yard. The freed captive remains mobile and capable.
-- Cassian emerges from the tollhouse with sword in hand but one hand clamped over his wounded side. Fresh blood is running through his fingers and his stance begins to fail; the exertion of reaching/fighting inside has torn open or overwhelmed Elowen's earlier field dressing.
-- Elowen immediately sprints from cover to Cassian rather than remaining protected. She reaches him as his knees begin to give, catches/supports him as much as her size allows, and presses/bunches her cloak firmly against his side to absorb blood and provide direct pressure.
-- Elowen tells Cassian, 'stay with me!' Her alarm and urgency are outwardly visible; any deeper emotional meaning remains private.
-- Cassian remains conscious. He responds with terse irritation/command rather than a romantic confession, instructing Elowen to press harder and not remove the cloth to inspect the wound because sustained pressure matters more than checking it.
-- The freed captive moves to secure the immediate yard/building and is now the only clearly functional trained fighter while Cassian is compromised and Elowen is occupied with the wound.
-- The better-dressed operative's exact status and the dispatch case/evidence inside are not yet established. Smoke continues from the tollhouse, creating immediate pressure to secure documents and withdraw.
-- Elowen's cloak is becoming blood-soaked and may no longer be usable as ordinary outerwear without cleaning/replacement.
+- Elowen runs to Cassian as his knees fail, supports him down, bunches her cloak against his reopened side wound, and obeys his instruction to press hard without lifting the cloth to inspect it.
+- Cassian remains lucid long enough to order the freed captive to recover the dispatch case and surviving papers from the burning tollhouse. He then loses consciousness while leaning heavily against Elowen.
+- Elowen does not abandon pressure to check the wound. She leans over Cassian where he lies on the ground and keeps compression on his side.
+- With Cassian unconscious and Elowen needing to decide whether the freed man can be trusted, she directly asks him, 'Who are you?'
+- The freed captive identifies himself as Lord Tomas Halvern, a younger son/kinsman of House Halvern who had been traveling under limited escort when seized. This identity is newly established here and should be treated as canon going forward.
+- Tomas says he was taken because his captors believed he carried or knew details of Halvern correspondence concerning the succession and neutral-house bargaining. He denies belonging to the tollhouse group and points out that they bound, beat, and interrogated him; this supports but does not prove his trustworthiness.
+- Tomas has demonstrated genuine fighting ability by neutralizing the rear hostile/archer route and retrieving the papers under fire/smoke. He now urges immediate practical action: keep pressure on Cassian, get him onto the wagon rather than a horse, and leave before reinforcements or the fire draw attention.
+- Elowen cannot verify Tomas's full story on the spot. Cassian is unconscious and cannot assess him. The captured quarry pursuer and the party's horses remain concealed back on the wooded ridge, meaning someone must retrieve them or abandon them.
+- The recovered dispatch case and singed papers have not yet been read. Their contents may identify the operation's sponsor or network.
