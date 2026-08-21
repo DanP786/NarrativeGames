@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
-- Time: mid-afternoon, 25th of Frostwane, Year 312 of the Crown
+- Location: Veyrhold, royal capital — Vale residence, corridor outside Garrick's private solar
+- Time: late afternoon, 25th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Garrick is testing Cassian and Prince Adrian as rival marriage/alignment options with Elowen present as heir and prospective bride. Adrian must provide written alternative terms by noon tomorrow; Cassian's articles are nearly complete.
+- Situation: Garrick has ordered Adrian to produce written alternative marriage terms by noon tomorrow and Cassian's counsel to answer remaining amendments by the same deadline. Elowen must read both and give Garrick her judgment before he decides whether to reopen the already accepted Veyne settlement.
 
 ## Recent beats
-- Garrick demands enforceable protections for Elowen after marriage, including childlessness, repudiation, property, confinement, Vale autonomy, and conflicts between a husband's political needs and hers.
-- Adrian verbally commits to protections including no repudiation for childlessness, no seizure of Vale lands through marriage, independent dower/property safeguards, and limits on confinement, but must put them into his written proposal tomorrow.
-- Cassian states that childlessness would not end the marriage, invites Garrick to make anti-repudiation protections costly to breach, reaffirms that marrying Elowen does not make him Lord Vale, and supports defining military obligations so marriage alone cannot give him unrestricted command over Vale forces.
-- Asked how he would behave if Elowen defied or angered him, Cassian refuses to claim he can prove his future character. Instead he says Elowen has already seen him wounded, frightened, hunted, furious, and in positions of power over her, and can tell Garrick whether he became cruel.
-- Garrick turns to Elowen. Elowen looks at her father and gives the slightest nod, silently confirming that Cassian did not become cruel toward her during their ordeal.
-- The nod is small but deliberate and observable. Garrick understands it as testimony about Cassian's past conduct under pressure, not as a declaration that Elowen loves him, wants the marriage, or guarantees his future behavior.
-- Adrian also witnesses Elowen vouch for Cassian and cannot reasonably claim she privately condemned Cassian to him. Cassian receives the confirmation without triumph; he does not treat it as forgiveness for Rowan or romantic consent.
+- Elowen quietly answers, 'Yes father,' when Garrick tells her she will read both sets of terms and give him her judgment.
+- Once the formal audience ends and Adrian/Cassian are dismissed, Elowen tells Garrick she feels unwell. Given the emotional strain of the meeting, Garrick permits her to retire rather than forcing further discussion immediately.
+- As Elowen leaves, she pauses or remains within earshot unnoticed. Adrian and Cassian do not see her, and no other NPC knows she overhears their exchange.
+- Adrian asks Cassian whether Elowen is always so deferential, saying in substance that the Elowen he knows is not obedient and silent. This reflects Adrian's observation of the formal meeting and his prior familiarity with a less constrained side of Elowen; it does not grant him knowledge of her private thoughts.
+- Cassian answers from his own observed history rather than pretending greater intimacy: Elowen is deferential when she believes duty requires it, but he has seen her question orders, argue, improvise under danger, tease him, and act decisively. He does not reveal confidential details Garrick/Elowen would reasonably expect him to keep, nor does he claim she is secretly choosing him.
+- Cassian's response recognizes that Elowen's silence in the formal audience is not the totality of her character. Adrian and Cassian's exchange is not intended for Elowen and neither knows she hears it.
+- Garrick does not hear or participate in the exchange. Elowen's private overhearing must remain unknown unless she later reveals it.
 - No final marriage choice has been made.
