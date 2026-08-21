@@ -3,16 +3,14 @@
 - Location: small roadside priory south-east of the old tollhouse — guest room beside infirmary
 - Time: late morning, 30th of Emberfall, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Cassian has reached professional care alive after severe blood loss. His reopened rib wound has been cleaned, closed, and tightly dressed; the physician judges his chances good if bleeding remains stopped and fever does not develop. Elowen is finally being tended after maintaining pressure throughout the journey. Lord Tomas Halvern remains at the priory with the recovered evidence still unopened.
+- Situation: Cassian has survived treatment and briefly regained consciousness before being made to rest. Elowen has been washed, treated for minor injuries, and changed into a plain borrowed wool dress. Lord Tomas Halvern has brought the still-unopened dispatch case recovered from the tollhouse to Elowen.
 
 ## Recent beats
-- The physician takes over compression from Elowen only once Cassian is on the infirmary bed. Elowen is sent out while the wound is properly treated.
-- The physician later tells Elowen that Cassian is alive, the blade did not penetrate his belly, the bleeding has been stopped, and his chances are good provided the wound remains closed and infection/fever does not take him.
-- The physician notices Elowen's blood-covered state, facial cut, scalp pain/disordered hair, exhaustion, and near-collapse and orders her to sit before she becomes another patient.
-- Elowen nods and accepts care from the physician's wife, an older practical woman attached to the priory household.
-- The physician's wife takes Elowen to a modest guest room, helps her out of the blood-soaked travel clothes, washes dried blood from her hands/arms/neck, cleans the shallow branch cut on her cheek, and checks the tender scalp where the sentry pulled her hair. No serious injury is found.
-- Because Elowen's cloak is saturated with Cassian's blood and her travel clothes are dirty/bloodied, the woman lends her a simple clean change of clothing suitable to the priory: an undyed/light linen shift and plain wool dress with practical stockings/slippers. It is modest, unadorned, and not tailored to noble fashion.
-- Elowen's honey-blonde hair is gently combed free of tangles and left simply braided or loose as practical; no elaborate styling is attempted.
-- Elowen is given water and simple food and encouraged to rest. Her physical exhaustion and shaking can now surface safely after the sustained crisis.
-- Tomas has deliberately left the dark dispatch case and singed papers unopened and visible/under Elowen's authority rather than claiming them. Their contents remain unknown.
-- Cassian remains unconscious/resting in the infirmary during Elowen's treatment. No romantic confession or sudden recovery occurs.
+- The physician's wife tends Elowen: blood is washed from her, her shallow cheek cut and sore scalp are cleaned/checked, her tangled honey-blonde hair is combed, and she is given simple clean borrowed clothing plus food and water.
+- Once the immediate crisis ends, Elowen's hands begin shaking mildly from exhaustion/adrenaline release.
+- Tomas reports that Cassian briefly woke, drank what the physician gave him, and was made to rest. Cassian remains seriously weakened but currently stable enough to have regained consciousness.
+- Tomas presents the recovered dark leather dispatch case and explicitly says it remains sealed because he considered opening it Elowen's decision.
+- Elowen holds out her hand for the case and tells Tomas, 'sit.' This is a direct exercise of authority rather than her earlier habitual deference.
+- Tomas hands over the case and obeys, taking the available chair rather than challenging her command. He does not attempt to claim control of the evidence.
+- The case is now physically in Elowen's possession. Its contents have still not been read, so no sender, recipient, house, cipher, or conspiracy detail is established yet.
+- Elowen may choose whether to open/read the case with Tomas present, wait for Cassian, or secure it for Garrick. Tomas's trustworthiness remains plausible but not fully verified.
