@@ -1,17 +1,14 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — Garrick's private solar
-- Time: mid-morning, 16th of Frostwane, Year 312 of the Crown
+- Location: Veyrhold, royal capital — Vale residence, Elowen's sitting room
+- Time: early afternoon, 20th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Tomas Halvern has confirmed that his steward knew the true detail that Elowen stabbed an attacker at the tollhouse. Elowen proposes controlled disclosure of that truth rather than allowing enemies to reveal it later and discredit denials of the separate false sexual-assault rumor.
+- Situation: Four days have passed since Vale, Veyne, and Halvern began using controlled truthful variants of Elowen's tollhouse self-defense account to trace the rumor leak. Marriage articles between Elowen and Cassian remain unsigned and under negotiation. Elowen receives a private letter from Adrian.
 
 ## Recent beats
-- Cassian explains that openly acknowledging Elowen's self-defense could deprive the rumor campaign of a later verifiable 'revelation,' but warns that some audiences may perversely treat confirmation of one rumor as reason to believe another. Truth alone will not disprove the sexual allegation.
-- Garrick worries that publicizing the killing will expose Elowen to conservative criticism and sensational attention. Cassian argues that if disclosed, it should be stated without apology or embellishment: Elowen was attacked, defended herself, and the attacker died.
-- Garrick asks Elowen whether she still wants the truth told. Elowen answers, 'Yes… if we can expose who was behind this.'
-- Garrick accepts the strategic premise conditionally: disclosure should serve the investigation rather than merely satisfy gossip. He and Cassian decide not to issue an immediate broad proclamation. Instead, they can use controlled, slightly differentiated versions of the true account through selected information channels to identify which phrasing returns in hostile rumor.
-- The core truth will not be falsified: Elowen killed an armed attacker in immediate self-defense. Any differences used as markers will concern harmless peripheral details/wording rather than fabricating misconduct or falsely accusing named people.
-- Tomas Halvern's household chain becomes one controlled route; Vale and Veyne can each use separate trusted routes. By tracking which distinctive phrasing resurfaces, they may narrow the leak or identify an intermediary feeding the coordinated smear.
-- Cassian's earlier blanket public denial that Elowen killed anyone is now superseded as a prospective strategy before any broad public statement has been issued. He is prepared to change course because Elowen's proposal better protects the credibility of their denial of the sexual allegation.
-- Garrick remains protective of Elowen's reputation and insists any eventual public acknowledgment emphasize self-defense and avoid theatricalizing her violence.
-- The abandoned quarry prisoner remains an independent investigative lead. Marriage articles remain unsigned and active.
+- The controlled disclosure strategy is still active. No definitive leak source has yet been established in canon; the abandoned quarry prisoner remains an independent lead.
+- A sealed letter addressed personally to Lady Elowen arrives at the Vale residence from Adrian, the man previously discussed as a potential marriage match that would effectively align Vale with Oren's faction.
+- No dedicated Adrian NPC file currently exists in the campaign roster, so his exact established voice/history cannot be invented beyond current-scene canon: he is associated with the rival Oren marriage strategy and is a politically significant alternative to Cassian.
+- The letter is courteous and politically careful. Adrian acknowledges that ugly stories are circulating about Elowen without repeating the sexual allegation in lurid terms. He states that he does not consider her diminished by what is being said and asks for a private opportunity to speak before her future is irrevocably settled.
+- Adrian's letter does not claim secret knowledge of what happened during the expedition, does not accuse Cassian as fact, and does not profess invented prior intimacy with Elowen. It can plausibly function as concern, political maneuvering, or both; his true motive is not yet established.
+- Because the marriage articles with Cassian are not signed, Adrian's request is politically consequential. Elowen has not yet shown the letter to Garrick or Cassian.
