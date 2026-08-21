@@ -1,15 +1,14 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — corridor outside Garrick's private solar
-- Time: late afternoon, 25th of Frostwane, Year 312 of the Crown
-- Scene significance: charged
-- Situation: After telling Garrick she feels unwell, Elowen secretly overhears Adrian and Cassian speaking after the marriage negotiation. Neither man sees her and no other NPC knows she is listening.
+- Location: Veyrhold, royal capital — Elowen's bedchamber
+- Time: deep night into early morning, 25th–26th of Frostwane, Year 312 of the Crown
+- Scene significance: routine
+- Situation: After the rival marriage audience and secretly overhearing Adrian and Cassian discuss different facets of her character, Elowen lies awake for most of the night. By noon on 26 Frostwane Adrian must deliver concrete alternative marriage terms and Cassian's counsel must answer the remaining Vale amendments; Elowen must then read both and give Garrick her judgment before he decides whether to reopen the Veyne settlement.
 
 ## Recent beats
-- Adrian challenges Cassian's confidence about Elowen's character. Cassian rejects the idea that one version is 'real': Elowen's duty/deference and her argument, humor, fear, anger, and initiative are all genuine. He distinguishes duty freely chosen from assuming duty erases choice.
-- Asked which Elowen he thinks he would marry, Cassian answers, 'All of them.' Asked what happens if Elowen chooses against him tomorrow, he says they will discover whether he meant what he said about her choices.
-- Before the men move on, Adrian presses his own advantage: Cassian has not danced with Elowen, shared the ordinary social ease Adrian associates with her, or seen the fuller joy Adrian believes he has witnessed. Adrian frames this as a limitation in Cassian's claim to know Elowen: surviving terror together reveals important truths, but it is not the same as knowing how someone looks when happy and unburdened.
-- Cassian does not falsely accept every factual premise. Established canon says he and Elowen have shared humor at the priory and he has seen her smile/tease, and he knows she genuinely loves playing piano from their conversation at Merrow's ball. However, he has not established the same history of dancing or sustained carefree joy with her that Adrian claims.
-- Cassian acknowledges the substantive point: much of what he knows of Elowen was learned under mourning, danger, politics, injury, or obligation. He cannot claim to know the whole of her happiness. He does not turn this into a romantic confession or disparage Adrian's prior familiarity with her.
-- Adrian's point lands as a genuine weakness in Cassian's case rather than a victory declaration. Cassian can know Elowen under pressure while Adrian may know aspects of her ordinary/social joy that Cassian has not yet seen.
-- Elowen secretly hears this final exchange. Her presence remains unknown unless she later reveals it.
+- Elowen secretly overheard Adrian challenge Cassian that he knows Elowen largely through catastrophe and has not seen the ordinary/social joy Adrian has witnessed. Cassian acknowledges the limitation, notes that Elowen told him she loves the piano, and says that if she marries him perhaps he should see her joy. Neither man knows Elowen heard the exchange.
+- Elowen retires after telling Garrick she feels unwell. No NPC knows the specific content she overheard or her private emotional reaction.
+- Elowen lies awake most of the night, unable to settle after the day's negotiations. Her wakefulness is private unless servants later observe fatigue.
+- The unresolved decision bears several competing facts: Adrian represents a personally familiar alternative and claims knowledge of Elowen's happier social self, but admitted rumor and political caution delayed his approach and his concrete protections are not yet written; Cassian killed Rowan and offers a dangerous claimant's future, but his articles are nearly complete, he protected Elowen under lethal pressure, and Elowen silently vouched that he did not become cruel when given power over her.
+- Elowen has not privately or publicly chosen either man. Her personal fondness/yearning toward Adrian and complicated softness/concern toward Cassian remain distinct from her dynastic judgment and are unknown to the men unless she voices them.
+- No dream, conclusion, or new decision is imposed during the sleepless night; the player retains control over Elowen's thoughts and eventual judgment.
