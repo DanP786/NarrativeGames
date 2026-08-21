@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: small roadside priory south-east of the old tollhouse — courtyard outside the infirmary
+- Location: small roadside priory south-east of the old tollhouse — cloister garden/courtyard outside the infirmary
 - Time: around midday, 30th of Emberfall, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Cassian is alive, professionally treated, awake only in short intervals, and confined to bed after severe blood loss. Elowen has briefed him on the recovered tollhouse evidence and then stepped outside for fresh air. Tomas Halvern remains at the priory.
+- Scene significance: routine
+- Situation: Cassian is alive, awake intermittently, but exhausted and confined to bed after severe blood loss. Elowen has briefed him on the recovered tollhouse evidence and then stepped outside for fresh air, leaving him to rest. Tomas Halvern remains at the priory.
 
 ## Recent beats
-- Elowen briefs Cassian on the surviving documents: the operation treated her as a 'Vale article' to preserve, Cassian as a 'Veyne obstruction' to remove, routed payments through intermediaries with a Blackwater reference, and catalogued neutral/bargaining houses by possible leverage such as marriage, correspondence, and pressure.
-- Cassian judges the evidence insufficient to name a mastermind but sufficient to establish a systematic intelligence/coercion network broader than the attack on Vale. He warns that Blackwater may be a payment channel rather than the principal and focuses on the repeated unidentified cipher as a traceable administrative node.
-- Cassian says Halvern's appearance on the target list makes Tomas's account consistent with the evidence, though not automatically trustworthy in every respect.
-- In a fatigued, unusually unguarded remark, Cassian tells Elowen that he trusts her considerably more than he did a week ago. This is not a declaration of full trust or affection.
-- Elowen does not press the intimacy of the remark. She tells Cassian, 'Rest,' gets up, and leaves the infirmary for fresh air.
-- Cassian is too exhausted to resist the instruction meaningfully and settles back to sleep/rest under the physician's care.
-- Outside, Elowen reaches the priory's small quiet courtyard/garden. The contrast with the quarry/tollhouse violence allows the physical aftermath to surface: fatigue, sore scalp, treated cheek, and the strangeness of wearing borrowed plain clothes after a morning of bloodshed.
-- Tomas is nearby but does not immediately intrude on Elowen's solitude. The dispatch case and papers remain secured in the infirmary/under Elowen and Cassian's control; no one else has been permitted to take them.
+- Elowen summarizes the surviving papers for Cassian. They establish systematic monitoring and coercion of politically uncommitted houses but do not identify the ultimate mastermind. Blackwater is a payment/transfer lead rather than proof of sponsorship, and a repeated unidentified cipher may identify a coordinator/broker/accounting node.
+- Cassian says the evidence materially supports Tomas Halvern's story because Halvern appears on the same monitoring list as Vale, though he remains cautious about trusting Tomas fully.
+- Fatigued, Cassian tells Elowen he trusts her considerably more than he did a week ago. This is a limited admission born of observable shared survival, not a declaration of affection or reconciliation.
+- Elowen replies, 'I’ll leave you to rest,' rises, and leaves the infirmary rather than pressing the emotional moment.
+- Elowen goes outside into the priory's small cloister garden/courtyard for fresh air. The contrast with the morning's violence is stark: ordinary priory work continues, bells/birds/wind audible, and no immediate threat is visible.
+- Elowen remains exhausted and dressed in a plain borrowed wool dress with her treated cheek cut and sore scalp. For the first time since the ambush she has a moment physically away from Cassian, blood, and active danger.
+- The dispatch case and recovered papers remain secured inside under Elowen/Cassian's control; they are not abandoned or handed to Tomas.
+- No new attacker or conspiracy reveal occurs during this routine beat. The next pressure is likely deciding how to contact Garrick/Veyne forces safely given the proven leak and how long Cassian must remain at the priory.
