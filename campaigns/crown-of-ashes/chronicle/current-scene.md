@@ -1,15 +1,14 @@
 # Current scene
 
 - Location: Veyrhold, royal capital — House Veyne residence, private dining room
-- Time: seven in the evening, 28th of Frostwane, Year 312 of the Crown
+- Time: evening, 28th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen attends her first ordinary dinner as a premarital resident of Cassian's household. Cassian has laid out immediate household/security expectations while acknowledging that his institutional power over the house is real and that Elowen's Vale rights remain protected by the signed articles.
+- Situation: Elowen attends her first ordinary dinner as a premarital resident of Cassian's household. Cassian has laid out household/security expectations and added that after marriage Elowen must cease publicly wearing mourning for Rowan because visibly mourning a man her husband killed would undermine the Vale-Veyne alliance.
 
 ## Recent beats
-- Cassian requires advance security notice when Elowen leaves, Veyne guards outside the residence, and notice before politically sensitive visitors enter his house. He protects Garrick/Vale access, Didi's loyalty to Elowen, sealed Vale correspondence, and Elowen's private rooms except in immediate life-threatening emergencies.
-- When Elowen asks what happens if Cassian himself gives an objectionable instruction, he says she may object and that they will then have to distinguish authority he genuinely possesses from his mere expectation of obedience. This does not erase the practical/status imbalance or guarantee Elowen prevails.
-- Before inviting Elowen's own expectations, Cassian adds another requirement concerning her mourning clothes: once they are married, Elowen will stop publicly wearing mourning for Rowan.
-- Cassian's rationale is explicitly political and dynastic. Rowan died attacking Cassian and was killed by Cassian; a Veyne wife, especially a potential future queen, visibly continuing to mourn a man her husband killed would publicly advertise unresolved blood-feud condemnation inside the marriage and invite rivals to portray the Vale-Veyne settlement as false, coerced, or internally hostile.
-- Cassian does not demand that Elowen stop grieving Rowan privately, forget him, forgive Cassian, destroy mourning possessions, or deny that Rowan was her brother. The restriction concerns public presentation after marriage. Before the wedding, her established mourning continues unless separately changed.
-- This requirement demonstrates the power imbalance rather than being softened into a mutual preference: Cassian presents it as a public expectation attached to becoming his wife and political partner. Elowen may object or negotiate, but he has strong independent political reasons and does not pretend the matter is emotionally neutral.
-- Elowen's private dream, secret overhearing, and feelings remain unknown to Cassian.
+- Cassian distinguishes the public restriction from Elowen's private grief: he does not demand forgiveness, forgetting Rowan, destruction of mourning clothes, or an end to private remembrance. Until the wedding, her mourning remains unchanged.
+- Elowen looks at Cassian for a moment after hearing the requirement, then concedes with, 'as you wish,' and returns to her food.
+- Elowen's wording and resumed eating are outward compliance. Cassian can observe restraint/deference but cannot know whether she privately agrees, resents him, is hurt, or is simply choosing not to contest the point.
+- The exchange reinforces the practical power imbalance: Cassian has stated a public requirement of his future wife, and Elowen yields rather than negotiating it. Her legal protections remain real but do not make the household/status relationship equal.
+- Cassian does not treat the concession as forgiveness for Rowan or as romantic submission. Given his prior observation that Elowen can become most deferential when she believes duty leaves little choice, her phrase may register as compliance rather than enthusiasm, but he cannot know her thoughts.
+- Dinner continues. Cassian had invited Elowen to state her own expectations for living in his household; that opening remains available if she chooses to use it.
