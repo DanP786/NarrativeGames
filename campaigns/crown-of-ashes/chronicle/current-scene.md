@@ -3,12 +3,12 @@
 - Location: Veyrhold — House Veyne residence, wedding-planning room
 - Time: evening, 8th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are together on the sofa beside the coffee table holding their completed wedding seating arrangement. Their political lesson has become sustained consensual romantic intimacy.
+- Situation: Elowen and Cassian's first sustained consensual romantic encounter on the sofa is abruptly interrupted by a servant knocking at the door.
 
 ## Recent beats
-- Elowen has twice affirmatively consented to kissing Cassian, voluntarily touched his face/lips, challenged his restraint, and pulled him closer by his clothes. Cassian responded with more passionate kissing while keeping his physical contact bounded and attentive.
-- Elowen now shakes her head in disbelieving reaction to Cassian's teasing warning and wraps both arms around his neck, deliberately drawing/holding him close.
-- Responding to her continued initiation, Cassian carefully lowers Elowen backward onto the sofa and kisses her while positioning himself so as not to crush, trap, or hurt her. This is continued consensual kissing/close embrace, not consent to intercourse or further sexual acts.
-- The romantic intensity may increase, but the scene remains non-graphic. Cassian's experience and Elowen's inexperience, the arranged-marriage power imbalance, and the coercion rumor continue to make his attention to boundaries important.
+- Elowen had wrapped her arms around Cassian's neck and Cassian carefully lowered her backward on the sofa while continuing to kiss her, bracing himself so she was not pinned or hurt. The intimacy remained kissing/close embrace.
+- A servant knocks at the door. Cassian immediately breaks away and helps/pulls Elowen upright, restoring outward propriety before admitting anyone.
+- Elowen turns away from the door and covers her mouth with her hand, acutely aware that Cassian had just been kissing her. Her private embarrassment/physical awareness should not be narrated as known to the servant beyond any visible flush or disarray.
+- Cassian is visibly irate at the interruption. His irritation is directed at the timing/intrusion, not at Elowen, and he must still maintain household discipline rather than humiliating a servant who may have legitimate business.
+- The completed wedding seating plan remains spread across the coffee table beside the sofa. Formal premarital propriety safeguards remain in force, making the interruption particularly effective at snapping both of them back into awareness of their circumstances.
 - Cassian still does not know about Elowen's repeated dreams of their wedding night, private yearning for Adrian, exact jealousy about his former partners, or secret overhearing.
-- Formal premarital propriety safeguards remain part of the household even though active dinner servants have withdrawn. The completed seating plan remains spread across the coffee table beside them.
