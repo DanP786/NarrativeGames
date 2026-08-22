@@ -1,15 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — enclosed carriage returning from the west lodge toward House Veyne
-- Time: afternoon, 29th of Frostwane, Year 312 of the Crown
-- Scene significance: routine
-- Situation: Elowen and Cassian are returning to House Veyne after their guarded ride. Their conversation has reframed Elowen's unwanted heirship education as knowledge she can repurpose toward a political/queenly role she might actually choose.
+- Location: Veyrhold — House Veyne residence
+- Time: afternoon, 8th of Deepfrost, Year 312 of the Crown
+- Scene significance: routine montage
+- Situation: Roughly nine days have passed since Elowen and Cassian's countryside ride. Elowen is busy dividing her days among Garrick's formal education, Cassian's strategic lessons, and the choices convention assigns to a noble bride preparing for her wedding.
 
 ## Recent beats
-- Elowen bitterly says she would prefer lessons in court factions, power, intelligence, and political judgment to lessons preparing her to be Lord Vale.
-- Cassian says she should still learn foundational accounts, estates, law, provisioning, and governance because those skills overlap with queenship and political survival, but offers to teach her their strategic application rather than framing them solely as preparation to inherit Vale.
-- Cassian tells Elowen to take everything useful from Garrick's lessons and use it for the life she actually wants.
-- Elowen looks down and smiles at the thought. Cassian can observe the smile and reasonably understand that the reframing has appealed to her, but cannot know every private implication she attaches to it.
-- This gives Elowen a self-chosen purpose for education: not simply obedience to Garrick or reluctant preparation for Vale lordship, but competence she may use as Cassian's future queen/supporting political partner and for her own protection and judgment.
-- Cassian has now seen several genuine smiles/laughs from Elowen during the day's outing, but still does not know she secretly overheard Adrian's earlier criticism that Cassian had never seen her joy.
-- The carriage continues toward House Veyne. Elowen's repeated dreams, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
+- Garrick continues teaching Elowen the foundations expected of Vale's heir: accounts, estates, law, obligations, provisioning, and the consequences of household/lordly decisions. Elowen still does not want Vale lordship, but she applies herself because the knowledge can serve a different future.
+- Cassian follows through on his promise to teach Elowen how those same facts become political power: factions, leverage, patronage, logistics, court relationships, reading motives, recognizing manipulation, and judging what information matters. He does not simply give her answers; he expects her to reason through consequences and challenge him.
+- Elowen is increasingly able to connect Garrick's lessons to Cassian's strategic applications, giving the unwanted education a self-chosen purpose connected to competence, self-protection, and the possibility of being an active queenly partner rather than merely decorative.
+- Alongside study, Elowen is occupied with wedding choices convention leaves to the bride: clothing and fabrics, ceremony details, flowers/greenery, music, household presentation, invitations/seating within whatever political constraints the families impose, and other visible details. These choices provide limited but real areas of personal agency inside an arranged dynastic marriage.
+- Elowen remains in mourning black until the marriage under Cassian's public-optics requirement; after marriage she is expected to cease publicly mourning Rowan in dress, though Cassian has affirmed her right to private mourning.
+- Security remains tight because the coercion/intelligence network and rumor campaign have not been resolved. Elowen's repeated dreams about Cassian, private yearning for Adrian, exact jealousy about Cassian's former lovers, and secret overhearing remain unknown to Cassian.
