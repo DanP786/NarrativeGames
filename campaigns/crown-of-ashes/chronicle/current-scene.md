@@ -3,12 +3,12 @@
 - Location: Veyrhold — House Veyne residence, music room
 - Time: afternoon, 9th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: After Elowen freely played and sang in House Veyne's music room, she and Cassian are flirting at close range while discussing how long he has noticed her versus how recently he began wanting her personally.
+- Situation: After Elowen freely played and sang in House Veyne's music room, she and Cassian are flirting at close range about their attraction and the fact that their wedding is one week away.
 
 ## Recent beats
-- Cassian says he had noticed adult Elowen as beautiful/accomplished at earlier noble gatherings but was not secretly yearning after her for years; personal desire developed only after actually learning her private habits, humor, preferences, and character during the current crisis.
-- Cassian says that wanting Elowen personally is 'considerably more recent' and 'considerably more inconvenient.' Elowen licks her lips and replies: 'fortunately for you our wedding is in a week.'
-- This establishes the wedding date as exactly one week from today: 16th of Deepfrost, Year 312 of the Crown.
-- Elowen's line is openly flirtatious and alludes to the end of their premarital restraint, but it is not blanket consent to future sexual activity. Cassian can respond to the implication and desire while continuing to respect choice at each stage.
+- Elowen reminds Cassian their wedding is in one week, openly teasing him about how long premarital restraint now feels. Cassian counters by invoking Elowen's earlier joke that she may refuse him a dance if 'the moment' does not take her.
+- Elowen replies: 'You know I wouldnt refuse you' and deliberately steps closer until Cassian's hovering hand makes contact with her waist.
+- In immediate context, Elowen's statement most naturally answers Cassian's teasing about refusing him/the dance and also carries romantic implication because of their proximity. It should not be treated as blanket consent to all future intimacy, marital sex, or any act she has not specifically chosen.
+- Elowen's step is a clear voluntary initiation of affectionate physical closeness and consent to Cassian's hand resting at her waist in this moment. Cassian may respond with a close embrace or consensual kissing while remaining attentive to further boundaries.
 - Cassian still does not know Elowen secretly overheard Adrian's earlier criticism that he had never danced with her, made her smile/laugh, or seen her joy. He also does not know her recurring wedding-night dreams.
-- Elowen remains in mourning black until marriage. The upcoming ball's exact host, venue, guest list, and date/time remain unestablished.
+- Elowen remains in mourning black until marriage. Wedding date: 16th of Deepfrost, Year 312. Another ball is expected before then; exact host/date remain unestablished.
