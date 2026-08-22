@@ -3,12 +3,11 @@
 - Location: Veyrhold, royal capital — House Veyne residence, private dining room
 - Time: evening, 28th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen attends her first ordinary dinner as a premarital resident of Cassian's household. Cassian has laid out household/security expectations and added that after marriage Elowen must cease publicly wearing mourning for Rowan because visibly mourning a man her husband killed would undermine the Vale-Veyne alliance.
+- Situation: Elowen attends her first ordinary dinner as a premarital resident of Cassian's household. After Cassian sets household/security expectations and requires that she cease publicly mourning Rowan after marriage, Elowen complies with 'as you wish.' Cassian then asks what expectations she has of him/the household.
 
 ## Recent beats
-- Cassian distinguishes the public restriction from Elowen's private grief: he does not demand forgiveness, forgetting Rowan, destruction of mourning clothes, or an end to private remembrance. Until the wedding, her mourning remains unchanged.
-- Elowen looks at Cassian for a moment after hearing the requirement, then concedes with, 'as you wish,' and returns to her food.
-- Elowen's wording and resumed eating are outward compliance. Cassian can observe restraint/deference but cannot know whether she privately agrees, resents him, is hurt, or is simply choosing not to contest the point.
-- The exchange reinforces the practical power imbalance: Cassian has stated a public requirement of his future wife, and Elowen yields rather than negotiating it. Her legal protections remain real but do not make the household/status relationship equal.
-- Cassian does not treat the concession as forgiveness for Rowan or as romantic submission. Given his prior observation that Elowen can become most deferential when she believes duty leaves little choice, her phrase may register as compliance rather than enthusiasm, but he cannot know her thoughts.
-- Dinner continues. Cassian had invited Elowen to state her own expectations for living in his household; that opening remains available if she chooses to use it.
+- Elowen answers Cassian's invitation to state her own expectations: 'I don’t know, I haven’t thought about it.'
+- Cassian cannot infer whether this reflects exhaustion, lack of perceived entitlement, genuine lack of preparation, or another private motive. He can only observe that Elowen currently has no articulated reciprocal demands despite having just accepted several of his.
+- Given the real power imbalance and Cassian's prior observation that Elowen can become deferential when she believes duty leaves little choice, he does not manufacture symmetry by claiming they are equal. He leaves the opening available for Elowen to formulate expectations later rather than demanding an immediate answer.
+- Cassian remains master of the Veyne household and an established claimant with greater age/status/political-martial experience; Elowen is a newly made heir who has just moved into his institutional domain. Her contractual protections constrain some of his power but do not erase the imbalance.
+- Dinner is nearing its end. Elowen's private dream, secret overhearing, and feelings remain unknown to Cassian.
