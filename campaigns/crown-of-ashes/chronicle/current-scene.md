@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — House Veyne residence, wedding-planning room
 - Time: afternoon, 8th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Elowen and Cassian are discussing the unfairly backwards structure of their arranged marriage while using the wedding seating plan as political instruction.
+- Scene significance: routine
+- Situation: Elowen and Cassian return to arranging the wedding seating plan after a charged exchange about their backwards courtship, Cassian's former lovers, and Elowen's tendency to apologize when she displeases him.
 
 ## Recent beats
-- Elowen observes that by the time anyone could watch whether she and Cassian suit each other at their wedding, they will already be married. Cassian does not deny the structural lack of choice: the articles established whether the houses could survive the match, not whether Elowen and Cassian personally could.
-- Cassian says he cannot restore the courtship Elowen should have had, but can still 'court my wife' after marriage, arguing that the original lack of choice need not remove every later choice. He notes their acquaintance has happened backwards: ambush before pleasant riding, succession before preferences, and wedding-night discussion before ever dancing together.
-- Elowen jokingly/barbedly suggests that perhaps one of Cassian's five former sexual partners could advise him on courtship. Cassian turns toward her, and Elowen immediately experiences private panic, looks away, and says: 'forgive me.'
-- Cassian can observe Elowen's abrupt retreat/apology but cannot know the exact private panic or whether jealousy motivated the remark. Her earlier questioning about his former partners gives him grounds to suspect sensitivity around the subject, not certainty about her feelings.
-- Cassian should not punish or exploit the apology. Given his prior commitment to candid discussion and the power imbalance, he can make clear that Elowen need not seek formal forgiveness for a mildly sharp private remark, while still answering if he found it unfair.
-- Elowen's repeated dreams, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
+- Cassian tells Elowen she does not need to ask forgiveness every time she displeases him and accepts her correction that her panic was not fear of him, without claiming to know its actual cause.
+- Cassian says he will not consult any former lovers about courting Elowen because none of them were his wife and their preferences would not tell him what Elowen wants. He then teasingly calls Elowen 'Lady Veyne' and returns the conversation to the seating plan.
+- Elowen bites her lip and begins arranging the easiest guests first, using the practical method of fixing obvious placements before resolving politically difficult combinations.
+- Garrick remains provisionally seated beside the unnamed young neutral-house friend Elowen selected as a potential remarriage candidate; this is only an opportunity for observation, not a formal approach or betrothal. Two alternative candidates remain available.
+- Elowen is increasingly treating wedding planning itself as political training: kinship, rivalries, obligations, desired access, and strategic introductions all shape placement.
+- Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
