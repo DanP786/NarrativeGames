@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: west of Veyrhold — guarded countryside lunch halt beyond the west lodge
-- Time: midday, 29th of Frostwane, Year 312 of the Crown
+- Location: west of Veyrhold — secured west lodge courtyard outside the city walls
+- Time: afternoon, 29th of Frostwane, Year 312 of the Crown
 - Scene significance: routine
-- Situation: Elowen and Cassian are finishing a guarded countryside lunch after a successful morning ride. Their intimate discussion of sexual experience and the eventual wedding night has just been deliberately defused by Cassian changing the subject and walking over to Elowen's mare with an apple.
+- Situation: After lunch, Elowen and Cassian resume their guarded countryside ride and continue until they return to the west lodge, the agreed point where they will switch back into the enclosed carriage before entering Veyrhold and public view.
 
 ## Recent beats
-- Cassian told Elowen not to value his five prior partners as a guarantee of a good wedding night and said she should judge him by how he treats her. His phrasing of Elowen as 'the sixth' visibly embarrassed her; he corrected the implication and did not press her reaction.
-- Elowen privately remembered her repeated dream of their first married night and flushed strongly, but Cassian does not know the dream or the cause of her reaction.
-- Cassian changes the subject to Elowen's mare and walks away to give the horse the remaining apple, creating space rather than exploiting Elowen's embarrassment.
-- Elowen watches Cassian go bribe her horse with the apple. This is observable attention, but Cassian is occupied with the mare and cannot know Elowen's private attraction or thoughts from it alone.
-- The mare accepts Cassian's apple readily, giving the scene a lighter domestic note after the charged conversation. Guards remain at the perimeter and the outing remains properly secured.
-- Lunch is nearly finished; the party can resume riding when Elowen and Cassian are ready.
+- After the intimate lunch conversation, Cassian deliberately does not return to Elowen's sexual inexperience, his five prior partners, or her visible blush. He instead keeps the remainder of the outing focused on riding and ordinary conversation.
+- Elowen continues riding astride and enjoys the return leg despite increasing soreness from unfamiliar use of her muscles. Her control and comfort improve with repetition; the ride remains training and pleasure rather than emergency flight.
+- Cassian offers practical corrections only where useful and does not turn the ride into a demonstration of dominance or insist that Elowen admit he was right.
+- The party reaches the west lodge in the afternoon. Under the compromise established that morning, Elowen will not ride astride through Veyrhold while the coercion rumor remains active; horses remain at/are transferred from the lodge and Elowen and Cassian return through the city by enclosed carriage with the escort deployed around them.
+- Cassian's recent side wound has tolerated the day's riding without established acute deterioration, though both riders have reason to feel the day's exertion.
+- Elowen still has Cassian's handkerchief. Her repeated dreams about Cassian, private yearning for Adrian, exact jealousy about Cassian's former lovers, and secret overhearing remain unknown to Cassian.
