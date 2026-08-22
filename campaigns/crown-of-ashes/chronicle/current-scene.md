@@ -3,11 +3,12 @@
 - Location: Veyrhold — House Veyne residence, music room
 - Time: afternoon, 9th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: After Elowen freely played and sang in House Veyne's music room, Cassian revealed he had heard her perform years earlier when Garrick was publicly displaying her accomplishments. He contrasts that dutiful performance with the joy and voluntary intimacy of today's music.
+- Situation: After Elowen freely played and sang in House Veyne's music room, she and Cassian are flirting at close range while discussing how long he has noticed her versus how recently he began wanting her personally.
 
 ## Recent beats
-- Cassian tells Elowen he prefers today's performance and jokes that Garrick's formal display had one advantage: Cassian did not then have to worry about wanting to kiss the musician afterward.
-- Elowen makes an exasperated noise, calls Cassian 'shameless,' stands from the piano, walks closer to him, and teasingly asks: 'you must have thought about it over the years?'
-- Elowen's approach and teasing clearly sustain flirtation, but Cassian should answer based on plausible memory rather than retroactively claiming a years-long secret obsession unless established. He can admit noticing her beauty/eligibility at prior social occasions while distinguishing that from the personal desire that has developed during the current crisis.
-- Cassian should not imply romantic/sexual interest when Elowen was underage. Elowen is currently 23; the exact date of the prior performance is unestablished, so any retrospective attraction must be framed only for occasions when she was an adult or kept nonsexual/neutral if age is uncertain.
-- Cassian still does not know Elowen secretly overheard Adrian's earlier criticism that he had never danced with her, made her smile/laugh, or seen her joy. Elowen remains in mourning black until marriage.
+- Cassian says he had noticed adult Elowen as beautiful/accomplished at earlier noble gatherings but was not secretly yearning after her for years; personal desire developed only after actually learning her private habits, humor, preferences, and character during the current crisis.
+- Cassian says that wanting Elowen personally is 'considerably more recent' and 'considerably more inconvenient.' Elowen licks her lips and replies: 'fortunately for you our wedding is in a week.'
+- This establishes the wedding date as exactly one week from today: 16th of Deepfrost, Year 312 of the Crown.
+- Elowen's line is openly flirtatious and alludes to the end of their premarital restraint, but it is not blanket consent to future sexual activity. Cassian can respond to the implication and desire while continuing to respect choice at each stage.
+- Cassian still does not know Elowen secretly overheard Adrian's earlier criticism that he had never danced with her, made her smile/laugh, or seen her joy. He also does not know her recurring wedding-night dreams.
+- Elowen remains in mourning black until marriage. The upcoming ball's exact host, venue, guest list, and date/time remain unestablished.
