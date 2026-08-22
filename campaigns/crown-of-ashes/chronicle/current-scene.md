@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — House Veyne residence
+- Location: Veyrhold — House Veyne residence, wedding-planning room
 - Time: afternoon, 8th of Deepfrost, Year 312 of the Crown
-- Scene significance: routine montage
-- Situation: Roughly nine days have passed since Elowen and Cassian's countryside ride. Elowen is busy dividing her days among Garrick's formal education, Cassian's strategic lessons, and the choices convention assigns to a noble bride preparing for her wedding.
+- Scene significance: charged
+- Situation: Elowen and Cassian are using the wedding seating plan as a practical lesson in political relationships when Cassian turns the exercise toward Garrick's stated intention to remarry and produce further Vale children.
 
 ## Recent beats
-- Garrick continues teaching Elowen the foundations expected of Vale's heir: accounts, estates, law, obligations, provisioning, and the consequences of household/lordly decisions. Elowen still does not want Vale lordship, but she applies herself because the knowledge can serve a different future.
-- Cassian follows through on his promise to teach Elowen how those same facts become political power: factions, leverage, patronage, logistics, court relationships, reading motives, recognizing manipulation, and judging what information matters. He does not simply give her answers; he expects her to reason through consequences and challenge him.
-- Elowen is increasingly able to connect Garrick's lessons to Cassian's strategic applications, giving the unwanted education a self-chosen purpose connected to competence, self-protection, and the possibility of being an active queenly partner rather than merely decorative.
-- Alongside study, Elowen is occupied with wedding choices convention leaves to the bride: clothing and fabrics, ceremony details, flowers/greenery, music, household presentation, invitations/seating within whatever political constraints the families impose, and other visible details. These choices provide limited but real areas of personal agency inside an arranged dynastic marriage.
-- Elowen remains in mourning black until the marriage under Cassian's public-optics requirement; after marriage she is expected to cease publicly mourning Rowan in dress, though Cassian has affirmed her right to private mourning.
-- Security remains tight because the coercion/intelligence network and rumor campaign have not been resolved. Elowen's repeated dreams about Cassian, private yearning for Adrian, exact jealousy about Cassian's former lovers, and secret overhearing remain unknown to Cassian.
+- Cassian moves one of Elowen's unmarried female friends on the seating plan into the place beside Garrick. Elowen immediately looks at him suspiciously.
+- Cassian explains that he considers the friend a potentially good marriage match for Garrick. No specific friend is named yet, so her identity, house, age beyond being approximately Elowen's generation, and personal wishes remain unestablished until Elowen identifies her or further canon establishes them.
+- Elowen is appalled by the age difference, objecting that Cassian is suggesting someone approximately her own age for her father.
+- Cassian responds from dynastic logic rather than pretending romance is the primary purpose: Garrick has already stated his intention to seek a new wife, and a central purpose of that marriage would be producing another lawful Vale child/heir. A younger wife of childbearing age therefore has an obvious dynastic advantage from Cassian's perspective.
+- Cassian's willingness to contemplate the match is materially connected to Elowen's private request that he support a future lawful child of Garrick as Vale heir regardless of sex if Garrick and Elowen still want that outcome. However, he cannot promise the woman herself would want Garrick, nor does he have authority to arrange Garrick's remarriage unilaterally.
+- The suggestion exposes the same dynastic marriage logic that constrained Elowen: political/fertility utility can make a match attractive to powerful men even where age or personal preference makes it disturbing to the people involved. Cassian should not erase this parallel if Elowen challenges him on it.
+- Elowen remains in mourning black until marriage. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
