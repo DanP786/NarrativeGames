@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — enclosed carriage traveling toward Veyrhold's western lodge
-- Time: morning, 29th of Frostwane, Year 312 of the Crown
-- Scene significance: climactic
-- Situation: Elowen and Cassian's private carriage conversation has exposed Elowen's desperate wish not to remain Vale's heir. Cassian has conditionally promised to support a lawful future succession settlement replacing her with another lawful child of Garrick, regardless of sex, if Garrick and Elowen still want it then, while insisting Elowen retain independent protections.
+- Location: west of Veyrhold — secured west lodge courtyard outside the city walls
+- Time: late morning, 29th of Frostwane, Year 312 of the Crown
+- Scene significance: charged
+- Situation: Elowen and Cassian's unusually candid carriage conversation ends as their enclosed carriage reaches the secured west lodge where their horses and escort are waiting. Elowen is expected to practice/ride astride away from the city's public scrutiny.
 
 ## Recent beats
-- Elowen becomes visibly tearful after Cassian accepts that she does not want Vale and distinguishes unwanted sole lordship from a queen's influential but partnered role. Cassian gives her privacy rather than touching her and leaves a handkerchief between them for her to choose.
-- Elowen takes Cassian's handkerchief and dabs her eyes, then says: 'I somehow doubt Adrian would have been willing to hypothetically challenge my father in the future who his heir should be.'
-- The remark contrasts Cassian's willingness to contemplate supporting Elowen against the default succession outcome with Adrian's likely greater deference to Garrick/Vale convention, but Elowen frames it explicitly as speculation ('I somehow doubt'), not known fact about Adrian.
-- Cassian does not know what Adrian would actually have done and should not falsely claim certainty. He can acknowledge that he is unusually willing to challenge Garrick when he believes his own interests, Elowen's interests, or the settlement require it; his extreme hostility with Garrick makes deference unlikely.
-- Cassian may also note that his support is not purely altruistic: a willing queen beside him may be more valuable/durable than forcing Elowen to remain an unwilling Vale ruler, while the succession arrangement would still require Garrick's assent and lawful settlement.
-- Elowen's tears and use of his handkerchief are vulnerability, not romantic or sexual consent. Her repeated dreams, private yearning for Adrian, and secret overhearing remain unknown to Cassian.
+- Elowen tearfully revealed that she does not want to remain Vale's heir and asked Cassian to support a future lawful child of Garrick as successor regardless of sex. Cassian conditionally agreed to support such a lawful settlement if Garrick and Elowen still want it when the child exists, while insisting Elowen retain independent protections.
+- Elowen said she could imagine running a household and serving as Cassian's queen/supporting partner, but not wanting sole lordship over Vale. Cassian said queenship still carries political consequence but that, as king, final Crown responsibility would be his.
+- Elowen took Cassian's offered handkerchief while crying and joked that Adrian might not have challenged Garrick over a future heir. Cassian refused to speculate with certainty about Adrian but said he himself would challenge Garrick if the lawful conditions supported Elowen's wish; he also admitted practical self-interest in preferring a willing queen and a potentially grateful future Vale ruler.
+- Elowen laughed at Cassian's handkerchief joke shortly before arrival. Cassian has now seen a genuine instance of her joy/humor, though he does not know she secretly overheard Adrian criticize him for never seeing it.
+- The carriage stops and the door opens, abruptly returning them from private candor to a public/guarded setting. Cassian does not expose Elowen's tears or private disclosures to the escort.
+- Horses are waiting at the lodge, including Elowen's mare fitted with an astride saddle. The security escort is already deployed around the lodge/road. Cassian's recent injury is sufficiently healed for riding but remains recent.
+- Elowen's repeated dreams, private yearning for Adrian, and secret overhearing remain unknown to Cassian.
