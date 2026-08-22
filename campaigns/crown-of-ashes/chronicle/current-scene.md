@@ -3,12 +3,13 @@
 - Location: Veyrhold, royal capital — Vale residence, breakfast room
 - Time: morning, 27th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The Vale-Veyne marriage articles have been finalized, legally verified, and signed after Elowen judged Veyne's settlement stronger for House Vale. At breakfast the next morning, Garrick informs Elowen of a late addition: before the wedding, she is to move her principal residence to House Veyne under a properly attended separate premarital establishment. Elowen nearly loses her tea cup at the news.
+- Situation: The Vale-Veyne marriage articles are signed. Garrick has told Elowen that a late security provision requires her to move her principal residence to House Veyne tomorrow, with separate quarters, Vale attendants, and chaperonage before the wedding.
 
 ## Recent beats
-- Garrick followed Elowen's institutional judgment and declined to reopen the settlement for Adrian's alternative. The Veyne articles were finalized and signed once Vale counsel confirmed the negotiated protections.
-- A late addition made during final legal/security review concerns Elowen's residence before marriage. Because the coercion network has already targeted her, compromised information across houses, and attempted to capture her alive, the agreement centralizes her protection rather than leaving her movements split between Vale and Veyne security chains.
-- The provision does NOT place unmarried Elowen alone in Cassian's private household without propriety safeguards. She will have her own rooms/household presence, her maid(s)/Vale attendants, and formal chaperonage appropriate to her status until the wedding. Exact architectural arrangements at House Veyne are not yet established.
-- Garrick tells Elowen at breakfast rather than having prepared her for the clause during the prior day's hours of review because it was a late addition during finalization after their review. Elowen nearly drops her tea cup again in shock.
-- Garrick regards the move as a security measure and practical transition into the now-binding alliance, not as permission for premarital intimacy. He expects Elowen to object/question privately if she sees a problem, consistent with his instruction that she should understand decisions as his heir.
-- The wedding date has not yet been established. The rumor investigation and missing quarry prisoner remain unresolved.
+- Elowen controls her reaction to the sudden premarital move, clamps her jaw shut, and asks the practical heirship question: 'what about my education as heir?'
+- Garrick answers that Elowen's education does not stop when she moves. She remains Vale's acknowledged heir under current succession and will continue receiving Vale accounts, correspondence, legal/political instruction, and scheduled sessions with Garrick or trusted Vale officers. Her residence at Veyne does not transfer her dynastic identity or her duties to House Vale.
+- Garrick also makes explicit that he intends to begin courting for a new wife. This is consistent with the signed settlement preserving his right to remarry and produce future legitimate heirs.
+- Garrick does not state that Elowen has already been displaced as heir: unless and until a later lawful child changes the succession under Vale law, Elowen remains his heir. The Veyne settlement's protections for Elowen are irrevocable even if a future lawful Vale son later supersedes her.
+- Garrick frames remarriage as a dynastic responsibility after Rowan and Alaric's deaths and the fragility of a one-heir house, not as a punishment or rejection of Elowen. He expects the subject may be emotionally difficult but does not conceal it from her.
+- Elowen's private emotions about the move, Cassian, Adrian, her dream, and the possibility of a future half-brother displacing her remain unknown unless she voices them.
+- Elowen is due to move to House Veyne tomorrow. The wedding date remains unestablished.
