@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: west of Veyrhold — enclosed carriage returning through Veyrhold from the west lodge
+- Location: Veyrhold — enclosed carriage returning from the west lodge toward House Veyne
 - Time: afternoon, 29th of Frostwane, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Elowen and Cassian return to House Veyne after their guarded ride. Their conversation has turned toward Cassian's plan to take the Crown and the kind of political education Elowen wants.
+- Scene significance: routine
+- Situation: Elowen and Cassian are returning to House Veyne after their guarded ride. Their conversation has reframed Elowen's unwanted heirship education as knowledge she can repurpose toward a political/queenly role she might actually choose.
 
 ## Recent beats
-- Cassian outlines a broad strategy: avoid civil war if possible by consolidating legitimacy, great-house support, money, military readiness, the capital, and confidence among lesser lords; deny Oren uncontested coalition growth; investigate the separate coercion/intelligence network without lazily assuming it belongs to Oren; force Oren toward settlement from strength while retaining war as a last resort.
-- Cassian tells Elowen she can help by learning court factions, obligations, social networks, financial/military pressures, and how to judge what information matters; he expects a future queen to challenge him privately rather than merely echo him. He offers to teach her enough to understand what she is helping him do and to recognize when she should refuse.
-- Elowen sits back and says with audible bitterness: 'Those are the lessons I would prefer to take.'
-- Cassian can hear the bitterness and connect it to Elowen's earlier explicit resentment of being trained for unwanted Vale lordship, but he cannot know every specific lesson or person she resents without further disclosure.
-- Elowen is distinguishing between education she experiences as preparation for an unwanted independent lordship and education she actively chooses because it equips her for a supporting queenly/political role she can imagine wanting.
-- Cassian should not encourage Elowen to abandon foundational competence merely because she dislikes heirship: household finance, law, estates, military consequences, and governance overlap substantially with useful queenly political education. He can, however, offer to reframe/select instruction around application rather than succession entitlement and acknowledge that chosen purpose changes how lessons feel.
-- Elowen's offer to help remains voluntary and bounded; it is not blanket obedience. Her repeated dreams, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
+- Elowen bitterly says she would prefer lessons in court factions, power, intelligence, and political judgment to lessons preparing her to be Lord Vale.
+- Cassian says she should still learn foundational accounts, estates, law, provisioning, and governance because those skills overlap with queenship and political survival, but offers to teach her their strategic application rather than framing them solely as preparation to inherit Vale.
+- Cassian tells Elowen to take everything useful from Garrick's lessons and use it for the life she actually wants.
+- Elowen looks down and smiles at the thought. Cassian can observe the smile and reasonably understand that the reframing has appealed to her, but cannot know every private implication she attaches to it.
+- This gives Elowen a self-chosen purpose for education: not simply obedience to Garrick or reluctant preparation for Vale lordship, but competence she may use as Cassian's future queen/supporting political partner and for her own protection and judgment.
+- Cassian has now seen several genuine smiles/laughs from Elowen during the day's outing, but still does not know she secretly overheard Adrian's earlier criticism that Cassian had never seen her joy.
+- The carriage continues toward House Veyne. Elowen's repeated dreams, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
