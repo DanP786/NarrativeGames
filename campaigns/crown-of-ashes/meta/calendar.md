@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 26th day of Frostwane, Year 312 of the Crown
+- Date: 27th day of Frostwane, Year 312 of the Crown
 - Season: late autumn
-- Time of day: mid-afternoon
-- Current location: Veyrhold, royal capital — Vale residence, Garrick's private solar
-- Notable upcoming: Fifteen days have passed since Elowen and Cassian returned to Veyrhold and thirteen days since Garrick accepted their marriage in principle. The controlled rumor investigation has narrowed a leak toward/downstream of Halvern's household, while the abandoned quarry prisoner appears to have been deliberately recovered by an unknown party. Cassian's amended marriage articles arrived before today's noon deadline; Prince Adrian's concrete alternative arrived shortly before noon. Elowen and Garrick have spent hours comparing both settlements. Elowen must now give Garrick her judgment before he decides whether there is sufficient reason to reopen the near-complete Veyne settlement.
+- Time of day: morning
+- Current location: Veyrhold, royal capital — Vale residence, breakfast room
+- Notable upcoming: Sixteen days have passed since Elowen and Cassian returned to Veyrhold. Following Elowen's judgment that Veyne's settlement is stronger for House Vale, the final marriage articles have now been legally verified and signed by the relevant parties, making the Cassian-Elowen settlement binding. A late security/household provision added during finalization requires Elowen to transfer her principal residence from the Vale household to House Veyne before the wedding, under a properly attended separate premarital establishment, so that her protection is no longer split between rival security chains while the coercion network remains active. Garrick informs Elowen of this at breakfast on 27 Frostwane. The wedding date itself is not yet established in canon. The rumor investigation remains unresolved; the Halvern information chain is implicated but not proven culpable, and the recovered quarry prisoner remains missing.
