@@ -1,13 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — House Veyne residence, Elowen's chambers
-- Time: night, 8th into 9th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged dream
-- Situation: Elowen sleeps after preserving the completed wedding seating plan and retiring from the evening in which she and Cassian shared their first consensual kisses and sustained romantic physical intimacy.
+- Location: Veyrhold — House Veyne residence, breakfast room
+- Time: morning, 9th of Deepfrost, Year 312 of the Crown
+- Scene significance: charged
+- Situation: Morning after Elowen and Cassian's first consensual kisses and sustained romantic intimacy. Elowen comes to breakfast after another private dream of their future wedding night, now more passionate and informed by real experience.
 
 ## Recent beats
-- Elowen dreams once more of her future wedding night with Cassian. Unlike the earlier recurring dream, this version is informed by their real kisses and Cassian is passionate rather than hesitant.
-- The dream remains Elowen's private subconscious experience and does not establish any real action, promise, consent, or knowledge on Cassian's part.
-- The dream can draw on sensory memories now known to Elowen from reality: Cassian's mouth, his pulse beneath her fingers, his hand at her waist, the feeling of pulling him closer, his loss of perfect composure, and the contrast between his restraint in waking life and the dream's greater confidence/passion.
-- Keep dream intimacy sensual and non-graphic rather than explicit. The emotional significance is that Elowen's imagined wedding night has shifted from uncertainty/fantasy into anticipation shaped by genuine mutual attraction.
-- Cassian still does not know about Elowen's dreams, private yearning for Adrian, exact jealousy about his former partners, or secret overhearing. The contents of Captain Rell's security report also remain unknown to Elowen.
+- Elowen's dream remains entirely private. Cassian does not know about it and cannot infer its content merely from embarrassment, fatigue, eye contact, or other surface behavior.
+- The previous evening ended when a servant interrupted and summoned Cassian to Captain Rell for a security report. Cassian immediately restored propriety, later left Elowen with a brief forehead kiss, and Elowen preserved the completed seating plan before retiring.
+- At breakfast, the new fact both Elowen and Cassian share is that they kissed and wanted to continue. This can make ordinary interaction newly charged without erasing their established political partnership or the arranged-marriage power imbalance.
+- Cassian may be more controlled/formal in front of servants than he was privately, while small looks or dry remarks can acknowledge the previous evening. He should not expose or embarrass Elowen publicly about their intimacy.
+- The contents of Captain Rell's security report remain unknown to Elowen. If Cassian chooses to disclose them, exact details must be established/read from an authoritative file rather than invented as pre-existing canon.
+- The completed wedding seating plan includes Garrick beside the potential neutral-house remarriage candidate. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
