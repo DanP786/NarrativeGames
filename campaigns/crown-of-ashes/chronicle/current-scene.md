@@ -1,13 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — House Veyne residence, breakfast room
-- Time: morning, 9th of Deepfrost, Year 312 of the Crown
+- Location: Veyrhold — House Veyne residence, music room
+- Time: afternoon, 9th of Deepfrost, Year 312 of the Crown
 - Scene significance: routine
-- Situation: Morning after Elowen and Cassian's first consensual kisses. Their breakfast conversation is playful as they discuss Elowen's coming public reappearance at a ball and Cassian's intention to finally dance with her.
+- Situation: Later on the morning-after day, Elowen explores House Veyne and finds its piano. She checks the instrument's tuning and begins to play for herself rather than as a commanded court performance.
 
 ## Recent beats
-- Cassian says Elowen needs to be publicly seen after her absence since Greyfell/Greyfen, both to counter rumors and to show she remains herself, publicly participating, and still mourning Rowan.
-- Cassian says he owes Elowen a dance but deliberately leaves the choice hers. Elowen first answers with exaggerated mock deference, 'as you wish my lord,' and Cassian recognizes the teasing rather than treating it as submission.
-- Elowen now replies with mock dismissal: 'I will have to decide if the moment takes me.' She is teasing Cassian by withholding certainty about the dance rather than refusing it outright.
-- Cassian can respond competitively/flirtatiously, especially given his established dislike of losing, but must preserve the fact that Elowen genuinely may choose whether to dance when asked.
-- Cassian still does not know Elowen secretly overheard Adrian's earlier observation that Cassian had never danced with her or seen her joy. Elowen remains in mourning black until marriage. The ball's exact host, venue, guest list, and date/time remain unestablished.
+- Breakfast ended with playful sparring about the upcoming ball. Cassian says he will ask Elowen to dance and she mock-dismissively says she will decide whether 'the moment takes' her; he accepts the genuine choice but promises not to make refusal appealing.
+- Later that day Elowen finds House Veyne's piano. As an Adept musician/performer, she checks its tuning competently before playing.
+- The instrument is maintained well enough to be playable and substantially in tune; any small seasonal drift can be noticed and accommodated by Elowen without preventing performance.
+- Elowen begins with her own favorite pieces, making this initially private/self-chosen music rather than music selected to please an audience, fulfill noble display expectations, or demonstrate accomplishment.
+- Cassian already knows Elowen likes piano from their earlier conversations, but he should not automatically appear or hear her unless scene circumstances plausibly bring him within earshot. If he does encounter the music later, he may observe a less performative side of Elowen but cannot infer private thoughts from repertoire alone.
+- Elowen remains in mourning black until marriage. The upcoming ball's exact host, venue, guest list, and date/time remain unestablished. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
