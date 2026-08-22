@@ -2,13 +2,12 @@
 
 - Location: Veyrhold — House Veyne residence, breakfast room
 - Time: morning, 9th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Morning after Elowen and Cassian's first consensual kisses. Their teasing breakfast conversation shifts toward Elowen's return to public court life.
+- Scene significance: routine
+- Situation: Morning after Elowen and Cassian's first consensual kisses. Cassian has told Elowen another ball is coming and that she needs to reappear publicly after not being seen at court since Greyfell/Greyfen; he also says he owes her a dance.
 
 ## Recent beats
-- Cassian tells Elowen that eventually they will 'finish that conversation,' referring privately to the intimacy interrupted by Captain Rell. Elowen blushes, smiles, looks down, and resumes eating rather than answering aloud.
-- Cassian then tells Elowen that another ball has been arranged. He points out that she has not been publicly seen in Veyrhold's court society since Greyfell/Greyfen and that prolonged absence is itself becoming politically meaningful.
-- The ball therefore has strategic importance beyond entertainment: Elowen's appearance can visibly demonstrate that she is alive, composed, not hidden or imprisoned, still recognizably herself, and publicly participating while resident under House Veyne's protection. It also exposes her to observation, gossip, and approaches from factions interested in the Vale-Veyne marriage.
-- Elowen remains in mourning black until the marriage under the established public-optics arrangement. Her public appearance must not imply she has ceased mourning Rowan before the wedding.
-- Cassian has previously admitted that he and Elowen have never danced together, and Adrian earlier privately criticized Cassian for never having danced with Elowen or seen her joy; Elowen secretly overheard that exchange, but Cassian does not know she did.
-- The exact host, venue, guest list, and date/time of the new ball are not yet established in canon. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
+- Cassian explains that Elowen's prolonged public absence is feeding rumors, including claims that she is ill, disfigured, imprisoned, drugged, escaping, or pregnant by him. Her appearance at the ball is intended to demonstrate visibly that she is alive, composed, participating voluntarily in public life, and still mourning Rowan.
+- Cassian says he will attend and casually notes that he owes Elowen a dance, proposing they correct the fact that they have never danced together.
+- Elowen smiles with deliberately exaggerated/pretend deference and answers: 'as you wish my lord.' The tone is teasing rather than genuine submission, drawing on Cassian's awareness that Elowen's formal obedience can differ sharply from her private personality.
+- Cassian can recognize the mock deference from her smile/tone and respond in kind without treating it as actual surrender of choice. He still does not know that Elowen secretly overheard Adrian's earlier observation that Cassian had never danced with her or seen her joy.
+- Elowen remains in mourning black until marriage. The ball's exact host, venue, guest list, and date/time remain unestablished. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
