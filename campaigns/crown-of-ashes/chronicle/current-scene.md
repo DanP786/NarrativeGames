@@ -3,12 +3,12 @@
 - Location: Veyrhold, royal capital — enclosed carriage traveling through Veyrhold toward the west lodge
 - Time: morning, 29th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian travel together in an enclosed carriage before a guarded astride riding lesson. After hinting that she may have wanted Cassian alone, Elowen explains that although she had no say in the terms imposed by Cassian and Garrick, she does not intend to remain a stranger to the man she must marry.
+- Situation: Elowen and Cassian use the enclosed carriage ride to begin deliberately becoming less like strangers before their dynastic marriage. Cassian has invited Elowen to ask him questions after acknowledging that she had little agency over the structure of the marriage itself.
 
 ## Recent beats
-- Elowen says, while looking out the window: 'I had no say in the agreements between us. I know every term dictated by you or my father. This may be a dynastic marriage, but I do not intend to remain a stranger to my husband.'
-- This is Elowen's first explicit statement to Cassian that she personally wants some form of genuine acquaintance/intimacy within the arranged marriage rather than mere legal/political coexistence. It is not by itself consent to sex, romance, forgiveness, or any particular physical advance.
-- Elowen also explicitly names her lack of agency in the agreement process and the fact that the operative terms have largely been dictated by Cassian or Garrick. Cassian cannot credibly treat the signed settlement as evidence that she freely chose every condition.
-- Cassian recognizes both halves of the statement: the accusation/structural truth about constrained agency and Elowen's voluntary choice to seek knowledge of her future husband where she can exercise choice.
-- Given the power imbalance and the sexual-coercion rumor, Cassian does not seize on 'husband' as permission for physical intimacy. He answers the relational offer in kind and leaves Elowen control over what she asks or reveals.
-- The carriage remains escorted and continues toward the west lodge. Elowen's private dreams and secret overhearing remain unknown to Cassian.
+- Elowen explicitly says she had no say in most terms dictated by Cassian or Garrick and does not intend to remain a stranger to her husband. Cassian acknowledges that reviewing/choosing the stronger settlement was not the same as freely choosing the marriage's structure and says whether they remain strangers is something lawyers cannot dictate.
+- Elowen's first direct personal question is: 'Were you worried my father would choose Prince Adrian over you?'
+- Cassian answers from his actual strategic position rather than pretending confidence. He was concerned because Garrick had already accepted Veyne's settlement in principle yet still gave Adrian a deadline and required both men to defend themselves in the same room; Garrick would not have done that if Adrian had no real chance.
+- Cassian regarded Adrian as a serious rival because Adrian is personally easier for Elowen/Vale to accept, carries royal legitimacy and Oren's coalition, and lacks Rowan's blood between himself and Elowen. Cassian's stronger advantage was the mature negotiated settlement, demonstrated conduct during the ambush, and evidence that the coercion network wanted him dead.
+- Cassian does not know Elowen's private yearning for Adrian or that she secretly overheard his corridor discussion with Adrian. He therefore cannot accurately claim to know which man she personally wanted.
+- The answer may expose that Cassian was not emotionally indifferent to the possibility of losing the marriage, but he should distinguish political concern from any romantic claim he has not earned/voiced.
