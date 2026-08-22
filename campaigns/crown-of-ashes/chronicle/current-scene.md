@@ -1,15 +1,14 @@
 # Current scene
 
-- Location: west of Veyrhold — secured west lodge courtyard outside the city walls
+- Location: west of Veyrhold — open country beyond the secured west lodge
 - Time: late morning, 29th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian have arrived at the secured west lodge for Elowen's astride riding practice. Their private carriage conversation has given way to a guarded public setting, and Elowen has just questioned Cassian about women who previously rode in his carriage.
+- Situation: Elowen and Cassian ride under armed escort outside Veyrhold. What began as a security-driven astride lesson has become unexpectedly enjoyable for Elowen.
 
 ## Recent beats
-- Cassian answers that female relatives/guests have used the carriage and, when Elowen presses whether women he was involved with used it, answers yes. He adds that this was before their betrothal because he judges that distinction relevant.
-- Elowen looks at Cassian scathingly. Internally, determination and jealousy drive her reaction, but the jealousy itself remains private unless her observable behavior makes Cassian infer only a possible surface interpretation.
-- Without accepting Cassian's help, Elowen mounts her mare astride through sheer determination. Her prior Greyfen experience means the posture is not wholly unprecedented, but this is deliberate practice rather than emergency flight.
-- The mount is socially unconventional but occurs at the screened west lodge away from Veyrhold's public audience, preserving the reputational mitigation Elowen successfully demanded.
-- Cassian can observe that his answer immediately precedes Elowen's forceful, self-directed mounting and may suspect irritation or competitive pride, but he cannot know the exact private mix of jealousy and determination.
-- Cassian does not use the moment to touch or reposition Elowen without need. He retains authority over the security/training plan but Elowen has independently accomplished the first practical hurdle.
-- The escort is ready and Cassian's horse is waiting. The next beat is the actual astride ride/training outside the lodge.
+- After questioning Cassian about women he was previously involved with, Elowen mounts astride without assistance out of determination and private jealousy. Cassian can observe irritation/competitive energy but cannot know the exact private motive.
+- Cassian corrects Elowen's overly tight hands on the reins and otherwise lets her find the posture rather than physically repositioning her. The escort follows at a tactful security distance while remaining close enough to respond.
+- Once moving beyond the lodge and onto open ground, Elowen finds that she genuinely enjoys riding astride. Without the emergency conditions of Greyfen, she can appreciate the greater balance, direct contact/control, freedom of movement, and ability to move with the horse rather than merely endure the posture.
+- Elowen's enjoyment becomes externally legible through increasingly natural posture, confidence, pace, and relaxed attention, though Cassian cannot know her exact internal feelings unless she states them.
+- Cassian notices the improvement and does not immediately spoil it with excessive instruction. This gives him another glimpse of Elowen outside survival/deference, relevant to his recent admission that he wants to know how she lives rather than only how she survives.
+- The ride remains guarded and security-conscious. Cassian's recent injury is sufficiently healed for the current pace, though it remains recent and can matter if he overexerts himself.
