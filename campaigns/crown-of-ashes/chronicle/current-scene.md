@@ -3,12 +3,12 @@
 - Location: west of Veyrhold — guarded countryside lunch halt beyond the west lodge
 - Time: midday, 29th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian eat lunch at a secured countryside halt after riding. Their conversation has become personally intimate as Elowen asks about Cassian's prior sexual experience in light of their impending marriage.
+- Situation: Elowen and Cassian eat lunch at a secured countryside halt after riding. Their conversation has become personally intimate as they discuss the large difference in their sexual experience ahead of an arranged marriage.
 
 ## Recent beats
-- Cassian answers Elowen's questions candidly: he has had five prior sexual partners over a period of years, some noblewomen, and says he cared for/enjoyed some but has not been in love. This is now established canon.
-- Elowen clarifies, embarrassed and looking away: 'Experience is exactly what I’m asking. I have none and you have…. Five women.' She voluntarily tells Cassian that she has no prior sexual experience.
-- Cassian now knows directly that Elowen is sexually inexperienced. He must not treat this disclosure as consent, invitation, purity-value, or leverage. Given their age/status/experience imbalance and the false coercion rumor, he should be particularly careful not to boast, tease cruelly, or imply she owes him performance/knowledge on their wedding night.
-- Cassian can acknowledge that five previous partners gives him more experience but that experience does not make him entitled to set the pace of future intimacy unilaterally. He may frame his experience as potentially useful only insofar as it lets him avoid expecting Elowen to already know what she wants or what to do.
-- The conversation remains low-voiced and guarded at a distance, socially proper in setting despite intimate content. Cassian's physical restraint remains important under the power imbalance.
-- Elowen's repeated dreams about Cassian, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
+- Elowen tells Cassian she has no prior sexual experience; Cassian has established that he has had five prior partners over years, some noblewomen, but has never been in love.
+- Cassian tells Elowen that the experience gap gives him more responsibility, not more entitlement: he does not expect her to know what she wants or how to navigate intimacy, and says they can proceed slowly rather than treating his experience as authority over her consent.
+- Elowen replies, embarrassed but candid: 'I suppose I should be grateful. Lady… a friend said her husband knew nothing and described a terrible wedding night.' She catches herself before naming the friend and frames the anecdote as a warning about an inexperienced husband's poor wedding-night conduct.
+- Cassian does not press Elowen to identify the friend, nor does he solicit explicit gossip about another couple. He can acknowledge that experience can reduce ignorance but does not guarantee kindness, attentiveness, restraint, or a good wedding night.
+- Given the power imbalance, arranged nature of the marriage, and false coercion rumor, Cassian should keep the conversation non-graphic and emphasize that Elowen need not be grateful merely because he has prior experience; what matters is how he behaves toward her.
+- The conversation remains low-voiced and guarded at a distance, socially proper despite intimate subject matter. Elowen's repeated dreams about Cassian, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
