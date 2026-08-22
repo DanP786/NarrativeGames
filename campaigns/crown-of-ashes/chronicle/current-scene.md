@@ -3,12 +3,12 @@
 - Location: Veyrhold — House Veyne residence, wedding-planning room
 - Time: evening, 8th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is on the verge of completing the politically intricate wedding seating plan after hours working with Cassian over dinner. The room is quieter after the active dinner servants withdrew, though the household's formal premarital propriety safeguards remain in force.
+- Situation: Elowen has completed the wedding seating plan after hours of political work with Cassian. Immediately before the final placement, Cassian gently tucked a loose strand of Elowen's hair behind her ear, creating a new moment of voluntary physical intimacy.
 
 ## Recent beats
-- Elowen rearranges existing placements to accommodate the final difficult guests and reduces the unplaced cards to one. Cassian continues letting her solve the puzzle rather than supplying the answer, framing the last choices as deciding which political problem is acceptable rather than finding a consequence-free arrangement.
-- As Elowen concentrates on making the final card fit, a loose piece of hair falls across her face. Cassian reaches over and moves/tucks the strand away from her face.
-- This is a small, voluntary physical gesture initiated by Cassian and marks a shift from his earlier strict avoidance of uninvited touch during Elowen's vulnerable moments. It is not sexual contact and does not presume broader consent; Elowen's reaction determines whether he withdraws, apologizes, or allows the intimacy to stand.
-- Cassian's gesture occurs after a long day of collaborative political work and increasingly easy private conversation, not as payment/reward for Elowen's compliance or political usefulness.
-- Elowen's last seating card is not yet definitively placed at the instant of the touch; her attention had been on solving its placement.
-- Elowen's repeated dreams about Cassian, private yearning for Adrian, exact jealousy about Cassian's former lovers, and secret overhearing remain unknown to Cassian.
+- Cassian's fingers briefly brushed Elowen's temple as he moved the strand from her face. He withdrew immediately afterward and did not presume further contact.
+- Elowen successfully places the final seating card, but both she and Cassian remain more aware of the touch than the completed political puzzle.
+- Elowen looks directly into Cassian's eyes while her heart beats quickly. Her rapid heartbeat is private unless otherwise physically obvious; Cassian can observe sustained eye contact, stillness, possible flush/breath changes, and that she does not recoil or immediately break the moment.
+- Cassian must not treat sustained eye contact or lack of withdrawal as automatic consent for a kiss or further intimate contact. Given the arranged marriage, experience imbalance, and false coercion rumor, he is especially alert to the need for clear voluntary participation before escalating.
+- Cassian can allow the silence to hold, verbally acknowledge the charged moment, or offer a small nonsexual gesture while giving Elowen an easy path to disengage. He does not know about her repeated dreams, private attraction, yearning for Adrian, exact jealousy, or secret overhearing.
+- The seating plan is now complete, including Garrick beside the potential neutral-house remarriage candidate as an observational test. The room remains within House Veyne's premarital propriety structure even though active dinner servants have withdrawn.
