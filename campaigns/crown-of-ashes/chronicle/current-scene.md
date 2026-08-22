@@ -3,13 +3,12 @@
 - Location: west of Veyrhold — guarded countryside lunch halt beyond the west lodge
 - Time: midday, 29th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: After a successful morning ride astride, Elowen and Cassian eat lunch at a secured countryside halt. Their conversation has shifted from Elowen's newly discovered enjoyment of riding back toward Cassian's romantic/sexual history.
+- Situation: Elowen and Cassian eat lunch at a secured countryside halt after riding. Their conversation has become personally intimate as Elowen asks about Cassian's prior sexual experience in light of their impending marriage.
 
 ## Recent beats
-- Elowen openly admits she enjoyed riding astride. Cassian agrees future secured/private rides can use an astride saddle while public city riding remains sidesaddle where optics require it, preserving the validity of Elowen's earlier reputational objection.
-- Cassian notes that he is beginning to learn things Elowen likes: piano and riding, consistent with his desire to know how she lives rather than only how she survives.
-- After a moment of silence, Elowen asks Cassian directly: 'have you been with many women?'
-- No prior canon establishes an exact number of Cassian's past sexual partners. Cassian is an unmarried nobleman in his early thirties with an acknowledged pre-betrothal romantic/sexual history, but any exact count would be newly established canon and should be handled deliberately.
-- Cassian can answer candidly without boasting, shaming Elowen, or demanding reciprocal disclosure. Given their impending marriage and the power/experience imbalance, he recognizes that the question may be practically relevant to Elowen as well as personally motivated.
-- Cassian must not infer jealousy as fact from Elowen's question, though her earlier suspicious questioning gives him grounds to notice a pattern. He does not know Elowen's exact private jealousy, dreams, yearning for Adrian, or secret overhearing.
-- The lunch remains guarded and socially proper; the conversation can be low enough for privacy of content without making the setting literally unchaperoned.
+- Cassian answers Elowen's questions candidly: he has had five prior sexual partners over a period of years, some noblewomen, and says he cared for/enjoyed some but has not been in love. This is now established canon.
+- Elowen clarifies, embarrassed and looking away: 'Experience is exactly what I’m asking. I have none and you have…. Five women.' She voluntarily tells Cassian that she has no prior sexual experience.
+- Cassian now knows directly that Elowen is sexually inexperienced. He must not treat this disclosure as consent, invitation, purity-value, or leverage. Given their age/status/experience imbalance and the false coercion rumor, he should be particularly careful not to boast, tease cruelly, or imply she owes him performance/knowledge on their wedding night.
+- Cassian can acknowledge that five previous partners gives him more experience but that experience does not make him entitled to set the pace of future intimacy unilaterally. He may frame his experience as potentially useful only insofar as it lets him avoid expecting Elowen to already know what she wants or what to do.
+- The conversation remains low-voiced and guarded at a distance, socially proper in setting despite intimate content. Cassian's physical restraint remains important under the power imbalance.
+- Elowen's repeated dreams about Cassian, private yearning for Adrian, exact jealousy, and secret overhearing remain unknown to Cassian.
