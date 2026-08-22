@@ -3,12 +3,12 @@
 - Location: Veyrhold — House Veyne residence, wedding-planning room
 - Time: evening, 8th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The completed seating-plan lesson has become the first sustained consensual romantic intimacy between Elowen and Cassian. They have kissed twice, and Elowen has voluntarily touched Cassian's cheek, jaw, and lips while he holds her hand gently.
+- Situation: Elowen and Cassian are seated together on a sofa in the wedding-planning room, with the completed seating arrangement spread across a low coffee table beside them. Their political lesson has become their first sustained consensual romantic intimacy.
 
 ## Recent beats
-- Cassian tells Elowen she need not wait for him to ask if she wants another kiss. Elowen smiles fractionally and asks: 'what if I don’t want good intentions?'
-- The line is openly suggestive and challenges Cassian's restraint, but it is still ambiguous about the exact physical act Elowen wants. It is not blanket consent to sexual contact or intercourse.
-- Cassian can recognize desire/interest in continued intimacy from Elowen's words and prior voluntary touches, but because of the arranged-marriage power imbalance, her lack of prior sexual experience, and the coercion rumor, he should not use ambiguity as permission to escalate beyond clearly mutual kissing/affectionate contact.
-- Cassian may answer flirtatiously and acknowledge that his 'good intentions' are chiefly about not taking more than Elowen deliberately chooses. He can invite Elowen to kiss him or ask her to be specific if she wants a further boundary crossed.
-- The tone may remain sensual and romantic but non-graphic. Cassian still does not know about Elowen's repeated dreams of their wedding night, private yearning for Adrian, exact jealousy about his former partners, or secret overhearing.
-- The completed wedding seating plan remains spread across the table. Formal premarital propriety safeguards remain part of the household even though active dinner servants have withdrawn.
+- Canon scene geometry correction: Elowen and Cassian are both seated on a sofa, not in separate chairs across the working table. The seating cards/papers are arranged on a coffee table beside/in front of the sofa.
+- After two consensual kisses and Elowen's voluntary touches to Cassian's face and lips, Elowen challenges his stated 'good intentions.' Cassian clarifies that he means restraint rather than chastity and leaves the next escalation to her rather than assuming ambiguous permission.
+- Elowen places both hands on Cassian's chest, grips/pulls at his clothing, and draws him closer to her. This is a clear voluntary initiation of closer romantic physical contact and communicates that she wants the kissing/intimacy to continue with less distance.
+- Elowen's action supports more passionate kissing and close embrace, but is not blanket consent to intercourse or graphic sexual escalation. Cassian remains attentive to boundaries because of the arranged-marriage power imbalance, Elowen's inexperience, and the coercion rumor.
+- The scene should remain sensual/romantic rather than graphically sexual. Cassian still does not know about Elowen's repeated dreams of their wedding night, private yearning for Adrian, exact jealousy about his former partners, or secret overhearing.
+- Formal premarital propriety safeguards remain part of the household even though active dinner servants have withdrawn.
