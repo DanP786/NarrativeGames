@@ -3,13 +3,12 @@
 - Location: west of Veyrhold — secured west lodge courtyard outside the city walls
 - Time: late morning, 29th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian's unusually candid carriage conversation ends as their enclosed carriage reaches the secured west lodge where their horses and escort are waiting. Elowen is expected to practice/ride astride away from the city's public scrutiny.
+- Situation: Elowen and Cassian have arrived at the secured west lodge for Elowen's astride riding practice. Their unusually candid carriage conversation is now private behind them, and the guarded public setting has restored Cassian's formal authority.
 
 ## Recent beats
-- Elowen tearfully revealed that she does not want to remain Vale's heir and asked Cassian to support a future lawful child of Garrick as successor regardless of sex. Cassian conditionally agreed to support such a lawful settlement if Garrick and Elowen still want it when the child exists, while insisting Elowen retain independent protections.
-- Elowen said she could imagine running a household and serving as Cassian's queen/supporting partner, but not wanting sole lordship over Vale. Cassian said queenship still carries political consequence but that, as king, final Crown responsibility would be his.
-- Elowen took Cassian's offered handkerchief while crying and joked that Adrian might not have challenged Garrick over a future heir. Cassian refused to speculate with certainty about Adrian but said he himself would challenge Garrick if the lawful conditions supported Elowen's wish; he also admitted practical self-interest in preferring a willing queen and a potentially grateful future Vale ruler.
-- Elowen laughed at Cassian's handkerchief joke shortly before arrival. Cassian has now seen a genuine instance of her joy/humor, though he does not know she secretly overheard Adrian criticize him for never seeing it.
-- The carriage stops and the door opens, abruptly returning them from private candor to a public/guarded setting. Cassian does not expose Elowen's tears or private disclosures to the escort.
-- Horses are waiting at the lodge, including Elowen's mare fitted with an astride saddle. The security escort is already deployed around the lodge/road. Cassian's recent injury is sufficiently healed for riding but remains recent.
-- Elowen's repeated dreams, private yearning for Adrian, and secret overhearing remain unknown to Cassian.
+- Before leaving the carriage, Cassian gives Elowen a moment to compose her tear-reddened eyes and produces a small carriage mirror, explaining only that women occasionally travel in the carriage. He keeps Elowen's private disclosures confidential from the escort.
+- Elowen keeps Cassian's handkerchief and climbs down without his hand; Cassian remembers her earlier refusal and does not offer it again.
+- As Elowen starts toward her mare, still fitted with the astride saddle, she asks Cassian suspiciously: 'what women ride in your carriage'.
+- Cassian can hear the suspicious/possibly jealous surface tone but cannot know Elowen's private motive. He should answer factually rather than assuming romantic jealousy or using the power imbalance to tease her into an admission.
+- No prior canon establishes specific lovers or named women using Cassian's carriage. Any answer must therefore avoid inventing a hidden romantic history as fact unless newly established now. Plausible non-romantic carriage passengers include female relatives, noblewomen under formal escort, household guests, or politically transported women; Cassian may also acknowledge past lovers only if deliberately establishing that new canon with appropriate consequences.
+- Elowen's mare and the escort are ready. Astride training remains the immediate purpose of the outing.
