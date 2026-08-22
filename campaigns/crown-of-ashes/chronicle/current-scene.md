@@ -2,13 +2,15 @@
 
 - Location: Veyrhold, royal capital — enclosed carriage traveling through Veyrhold toward the west lodge
 - Time: morning, 29th of Frostwane, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Elowen and Cassian are deliberately using the carriage ride to become less like strangers before their dynastic marriage. After Cassian admits he wants Elowen both politically and personally, Elowen begins revealing the actual shape of her resentment toward him.
+- Scene significance: climactic
+- Situation: Elowen and Cassian's effort to become less like strangers has reached the central wound beneath Elowen's resentment: she does not want to remain Vale's heir. She asks Cassian for a sweeping future succession concession if Garrick has another child.
 
 ## Recent beats
-- Elowen tells Cassian: 'I resent you… but not why you think. Killing brother has pulled me into a spot light I never wanted to be in. I resent being my father’s heir. My brother was…' She looks away and leaves the final thought unfinished.
-- This is the first time Elowen explicitly tells Cassian that a major component of her resentment is not simply grief or hatred for Rowan's killer, but that Rowan's death forced her into unwanted heirship, political scrutiny, dynastic responsibility, and the marriage market as Vale's sole surviving child.
-- Elowen does not complete the sentence about what Rowan was. Cassian must not supply her private judgment of Rowan, excuse his own killing, or claim to know whether she was going to praise, condemn, envy, resent, or otherwise describe her brother.
-- Cassian knows from direct observation that Rowan mistreated Elowen and used her as cover during the cathedral crisis, but he also knows Rowan was her brother and that he killed him. He responds without weaponizing Rowan's conduct against Elowen or demanding she finish the thought.
-- Cassian can acknowledge the causal truth: by killing Rowan in the melee, regardless of the circumstances of Rowan's charge, he helped create the succession vacuum that made Elowen heir and altered her life. He does not falsely claim sole responsibility for every later coercive decision by Garrick or politics.
-- The disclosure deepens Cassian's understanding of Elowen's anger but does not imply forgiveness or romantic reciprocity. Elowen's dreams, private yearning for Adrian, and secret overhearing remain unknown to him.
+- Elowen tells Cassian that his killing Rowan forced her into unwanted heirship, political scrutiny, and a life she never wanted. She leaves unfinished the thought 'My brother was…'; Cassian does not presume what she meant.
+- Elowen then says with serious desperation: 'If my father has another child, I want you to recognise them as the new heir. Whether they are a boy or girl. I will never ask anything else of you for as long as I live.'
+- This request goes beyond the signed settlement, which preserves Garrick's right to remarry and allows a future lawful son to supersede Elowen under Vale succession law while protecting Elowen if displaced. Elowen is now asking Cassian to support the next lawful Vale child as heir regardless of sex, meaning even a younger daughter would supersede Elowen if Garrick has no son.
+- The request is politically significant for Cassian because Elowen's present status as Vale heir is part of her dynastic value and because recognition of a younger daughter over Elowen could conflict with existing Vale custom, require Garrick's/legal assent, and create future succession disputes. Cassian cannot unilaterally rewrite House Vale's succession merely by promising recognition.
+- Cassian can promise his own political stance/support if the relevant lawful conditions are created, but should not falsely promise that his word alone can make another child heir. He also recognizes that 'I will never ask anything else' is an extreme bargain offered from desperation and should not exploit it as a permanent waiver of Elowen's future needs.
+- The power imbalance is especially relevant: Elowen is asking the more powerful prospective husband/claimant to help release her from an unwanted inheritance. Cassian must not treat her desperation as leverage for sex, obedience, affection, or surrender of unrelated rights.
+- Cassian now understands that Elowen's desire to be displaced is not abstract modesty; she is actively seeking an exit from heirship even at the cost of status and future power.
+- Elowen's repeated dreams, private yearning for Adrian, and secret overhearing remain unknown to Cassian.
