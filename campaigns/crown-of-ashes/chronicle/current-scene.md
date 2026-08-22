@@ -1,14 +1,15 @@
 # Current scene
 
 - Location: Veyrhold, royal capital — Vale residence, Garrick's private solar
-- Time: late morning, 26th of Frostwane, Year 312 of the Crown
+- Time: mid-afternoon, 26th of Frostwane, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen comes downstairs to Garrick after oversleeping and being prepared. Cassian's amended marriage articles have arrived first; Adrian's written alternative remains due by noon. Garrick expects Elowen to read both and give him her judgment before he decides whether to reopen the Veyne settlement.
+- Situation: Elowen and Garrick have spent hours reading and comparing the two marriage settlements. Cassian's amended articles arrived before noon; Adrian's written alternative arrived just before the noon deadline. Elowen must give Garrick her judgment before he decides whether there is sufficient reason to reopen the Veyne settlement already accepted in principle.
 
 ## Recent beats
-- Elowen arrives outwardly composed in mourning dress with the fading cheek cut concealed by cosmetics today. Garrick can observe that she is later than usual and perhaps tired, but does not know about her dream or the conversation she secretly overheard between Adrian and Cassian.
-- Cassian's amended articles are already on Garrick's desk, delivered before the noon deadline. They represent the near-final Veyne settlement after counsel responded to remaining Vale amendments.
-- Garrick does not begin by asking Elowen to choose a man emotionally. He reiterates that she is to read the actual terms as his heir and judge what each settlement does to Vale and to her.
-- Adrian's package has not yet arrived at the moment Elowen enters, so Garrick intends to use the remaining time to review the Veyne articles with her rather than invent or prejudge Adrian's terms.
-- Established Veyne protections include Vale institutional independence; Garrick retaining the right to remarry and produce lawful heirs; irrevocable protections for Elowen if a later lawful Vale son supersedes her; no automatic transfer of Vale lands or unrestricted command of Vale forces through marriage; and Cassian's verbal acceptance that childlessness alone will not justify repudiation. Exact final legal wording beyond these established principles should be treated cautiously unless newly established through play.
-- No final marriage choice has been made.
+- Elowen and Garrick read Cassian's near-final articles line by line, including Vale institutional independence, Garrick's retained right to remarry and produce lawful heirs, irrevocable protections for Elowen if displaced as heir, restrictions on transfer/control of Vale lands and forces, and protection against repudiation solely for childlessness.
+- Shortly before noon, Adrian's promised written package arrives, meeting Garrick's deadline. Its concrete terms follow the commitments Adrian made in the prior audience: no repudiation solely for childlessness, no seizure of Vale lands through marriage, an independently secured dower/property position, protections for Elowen's household/property if widowed, and restrictions on confinement without lawful cause. The package also formalizes the political reality that marriage to Adrian aligns Vale with Oren's coalition.
+- Garrick and Elowen spend hours comparing not merely generosity but enforceability, loopholes, succession consequences, military obligations, widowhood, political exposure if either claimant loses, and what each settlement leaves dependent on a husband's continued goodwill.
+- Cassian's package has the advantage of having undergone longer Vale negotiation and therefore contains more mature, tested language and fewer unresolved drafting points. Adrian's late package is serious rather than symbolic, but some mechanisms would still require further negotiation before Garrick could regard it as equally settled.
+- Neither document resolves the underlying intelligence problem: Oren's faction has not been proven complicit in the attacks/rumors, but it has not been cleared; Cassian has concrete evidence that the coercion network ordered him killed during the operation, which weighs against his being its intended beneficiary at that stage.
+- Garrick does not reduce the choice to which man Elowen likes. He repeatedly asks her to distinguish promises from enforceable clauses and personal safety from House Vale's institutional survival. He also does not hide that both marriages attach Vale to a succession faction and therefore carry grave danger if that faction loses.
+- By mid-afternoon both Elowen and Garrick are fatigued from the review. No final judgment has yet been spoken.
