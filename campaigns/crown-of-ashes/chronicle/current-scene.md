@@ -1,14 +1,15 @@
 # Current scene
 
 - Location: Veyrhold, royal capital — House Veyne residence, Elowen's premarital apartments
-- Time: late morning, 28th of Frostwane, Year 312 of the Crown
+- Time: shortly before seven in the evening, 28th of Frostwane, Year 312 of the Crown
 - Scene significance: routine
-- Situation: Elowen has arrived to begin her premarital residence at House Veyne under the signed settlement's security provision. After Cassian formally receives her, Elowen nods when he asks whether she would like to see her rooms, and he escorts her upstairs with Didi and Vale attendants present.
+- Situation: Elowen has spent the afternoon personally helping Didi and the Vale attendants move and unpack her possessions into her new premarital apartments at House Veyne. She is now dressed for her first dinner as a resident of Cassian's household.
 
 ## Recent beats
-- Cassian confirms that Elowen's rooms are hers, Didi's room adjoins them, Vale attendants answer to Elowen, correspondence with Garrick is not to be opened/delayed, and Elowen may continue traveling to Vale for heirship instruction with Veyne guards accompanying her.
-- Elowen nods to Cassian's offer to show her the rooms rather than speaking at length in the entrance hall.
-- Cassian escorts her to a distinct premarital suite rather than his own rooms. The arrangement includes a bedchamber, sitting room, dressing space, and accommodation for Didi/attendants consistent with Garrick's demanded propriety safeguards. Exact floorplan beyond these practical elements is newly established here.
-- The rooms have been prepared for Elowen but are not presented as though she is already Cassian's wife or mistress of House Veyne. Her Vale trunks and familiar belongings are being brought in, emphasizing the uneasy blending of households.
-- Cassian remains substantially recovered but not entirely forgetful of his recent side wound in movement. Elowen's private dream, secret overhearing, and feelings remain unknown to him.
+- Rather than leaving all practical work to servants, Elowen helps unpack and arrange her belongings. Her familiar Vale possessions increasingly soften the otherwise Veyne rooms and make the transfer feel materially real.
+- Didi and the Vale attendants remain part of Elowen's separate household. No erosion of the negotiated premarital propriety/security arrangements occurs during the afternoon.
+- By evening, trunks have been substantially unpacked and Elowen changes from her practical moving clothes into appropriate formal mourning attire for dinner. No specific color departure from her established mourning black is imposed.
+- Cassian told Elowen dinner is at seven and that she is expected. He has not intruded upon her private rooms during the unpacking.
+- This will be Elowen's first ordinary household dinner with Cassian while residing under the same roof, distinct from their prior meals during crisis, travel, the priory, or formal negotiations.
+- Elowen's private dream, her secret overhearing of Adrian and Cassian, and her internal feelings remain unknown to Cassian and the household.
 - Wedding date remains unestablished.
