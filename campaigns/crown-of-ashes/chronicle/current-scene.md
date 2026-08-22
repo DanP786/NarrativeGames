@@ -3,14 +3,12 @@
 - Location: Veyrhold — House Veyne residence, wedding-planning room
 - Time: afternoon, 8th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are using the wedding seating plan as a political exercise and have narrowed Garrick's possible remarriage prospects to a young woman from a strategically useful neutral house whose temperament may suit both Garrick and the responsibilities of a future Lady Vale.
+- Situation: Elowen and Cassian are using the wedding seating plan as a political exercise, with a potential remarriage candidate now seated beside Garrick so they can observe whether genuine compatibility exists before any formal approach.
 
 ## Recent beats
-- Elowen filters out houses without unmarried young daughters, houses already firmly aligned with Oren or Veyne, and Lady Fiona. Three neutral-house candidates remain.
-- Elowen evaluates temperament as well as politics. She concludes Garrick would prefer a woman raised with deference, obedience, noble polish, household competence, and public unity much as Elowen herself was raised, though Garrick also values private judgment.
-- Of the three, Elowen gravitates toward the second candidate: outwardly quiet/deferential, skilled with people and household dynamics, highly observant, and capable of pursuing her own judgment indirectly rather than surrendering thought to her husband. Her name/house remain unestablished in canon.
-- Cassian reframes the exercise: the woman may become mother/educator of the future Vale heir Elowen wants, so judgment matters alongside compatibility with Garrick. He then asks the question powerful men neglected in Elowen's own arrangement: whether the woman would actually want Garrick.
-- Elowen laughs humorlessly at the irony and answers: 'We sit her next to Father and we find out,' placing the candidate's card beside Garrick's on the wedding seating plan.
-- This does not constitute an arranged betrothal. Elowen and Cassian are creating an opportunity for Garrick and the woman to interact at the wedding so interest, tolerance, or lack thereof can become observable before any formal approach.
-- Elowen is now participating voluntarily in dynastic matchmaking but attempts to preserve the candidate's ability to respond rather than treating her as automatically available. The uncomfortable parallel to Elowen's own arranged marriage remains present.
+- Elowen and Cassian agree not to pre-arrange or signal the possible Garrick match. They will simply seat the young neutral-house candidate beside him at the wedding and observe whether she willingly engages, whether Garrick listens, and whether either appears comfortable. Two alternative candidates remain rather than treating the preferred option as settled.
+- Elowen asks who will be watching whether she and Cassian suit one another at their own wedding. Cassian has no immediate answer.
+- Elowen sighs and says: 'Perhaps it is too late for that, we’d already be married.' The remark points directly at the structural difference between the courtesy they are trying to give Garrick's potential bride and Elowen's own binding arrangement: by the time their wedding provides the same social observation, Elowen and Cassian's choice will already have been made and solemnized.
+- Cassian cannot honestly deny that the Vale-Veyne settlement has already removed much of the ordinary testing/choice from their match. He can distinguish between whether they would freely have chosen one another and whether they can still learn how to make the marriage workable, but should not retroactively portray Elowen's arranged consent as freer than it was.
+- The signed articles and premarital residence arrangement remain binding political facts. Elowen's growing voluntary interest in Cassian, his politics, riding, and possible queenship does not erase the original power imbalance or lack of meaningful choice in entering the match.
 - Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
