@@ -3,12 +3,11 @@
 - Location: Veyrhold — House Veyne residence, breakfast room
 - Time: morning, 9th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Morning after Elowen and Cassian's first consensual kisses and sustained romantic intimacy. Elowen comes to breakfast after another private dream of their future wedding night, now more passionate and informed by real experience.
+- Situation: Morning after Elowen and Cassian's first consensual kisses. They are maintaining outward breakfast propriety before servants while privately needling one another about the previous evening.
 
 ## Recent beats
-- Elowen's dream remains entirely private. Cassian does not know about it and cannot infer its content merely from embarrassment, fatigue, eye contact, or other surface behavior.
-- The previous evening ended when a servant interrupted and summoned Cassian to Captain Rell for a security report. Cassian immediately restored propriety, later left Elowen with a brief forehead kiss, and Elowen preserved the completed seating plan before retiring.
-- At breakfast, the new fact both Elowen and Cassian share is that they kissed and wanted to continue. This can make ordinary interaction newly charged without erasing their established political partnership or the arranged-marriage power imbalance.
-- Cassian may be more controlled/formal in front of servants than he was privately, while small looks or dry remarks can acknowledge the previous evening. He should not expose or embarrass Elowen publicly about their intimacy.
-- The contents of Captain Rell's security report remain unknown to Elowen. If Cassian chooses to disclose them, exact details must be established/read from an authoritative file rather than invented as pre-existing canon.
-- The completed wedding seating plan includes Garrick beside the potential neutral-house remarriage candidate. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
+- Cassian asks Elowen whether she slept well with a faint private smile; Elowen is privately flustered by her more passionate wedding-night dream, whose contents remain unknown to him.
+- Wanting to jab back over the servant's interruption the previous night, Elowen asks: 'How is Captain Rell?'
+- Cassian can understand the reference immediately because Rell's security report was the reason their kissing was interrupted. He may respond dryly or with restrained amusement while avoiding exposing their intimacy before servants.
+- The actual contents of Captain Rell's report remain unknown to Elowen and have not been established as canon. Cassian must not invent specific findings as though previously established; if the conversation turns substantively to the report, new information must be deliberately established or authoritative investigation files read first.
+- The completed wedding seating plan remains preserved in Elowen's written copy, including Garrick beside the potential neutral-house remarriage candidate. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
