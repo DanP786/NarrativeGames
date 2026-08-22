@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: Veyrhold, royal capital — House Veyne residence, entrance hall
+- Location: Veyrhold, royal capital — House Veyne residence, Elowen's premarital apartments
 - Time: late morning, 28th of Frostwane, Year 312 of the Crown
-- Scene significance: charged
-- Situation: Elowen arrives to begin her premarital residence at House Veyne under the signed settlement's late security provision. Didi and a small Vale household contingent accompany her; her luggage and personal effects are being brought in. She retains separate quarters and formal chaperonage until the wedding.
+- Scene significance: routine
+- Situation: Elowen has arrived to begin her premarital residence at House Veyne under the signed settlement's security provision. After Cassian formally receives her, Elowen nods when he asks whether she would like to see her rooms, and he escorts her upstairs with Didi and Vale attendants present.
 
 ## Recent beats
-- Elowen has left the Vale residence as her principal home for the first time under the new alliance, though she remains House Vale's acknowledged heir and will continue Vale education, correspondence, and duties.
-- House Veyne receives her formally rather than treating her arrival as already-married domestic intimacy. Vale attendants remain with her, and her quarters are separate from Cassian's.
-- Cassian is present to receive Elowen because her transfer into his household is politically and personally significant. He is substantially recovered from the tollhouse wound, though prior canon supports some residual economy of movement rather than total erasure of the recent injury.
-- Cassian knows the settlement is signed and that Elowen is moving in under the security provision he proposed, but he does not know Elowen's dream, her secret overhearing of his corridor exchange with Adrian, or her private attraction/softness.
-- Elowen's fading cheek cut may be cosmetically concealed or not according to her preparation this morning; no new choice is imposed here.
-- The wedding date remains unestablished. The immediate scene is Elowen's threshold crossing and first reception as Cassian's betrothed resident rather than a visitor, prisoner, or temporary ally.
+- Cassian confirms that Elowen's rooms are hers, Didi's room adjoins them, Vale attendants answer to Elowen, correspondence with Garrick is not to be opened/delayed, and Elowen may continue traveling to Vale for heirship instruction with Veyne guards accompanying her.
+- Elowen nods to Cassian's offer to show her the rooms rather than speaking at length in the entrance hall.
+- Cassian escorts her to a distinct premarital suite rather than his own rooms. The arrangement includes a bedchamber, sitting room, dressing space, and accommodation for Didi/attendants consistent with Garrick's demanded propriety safeguards. Exact floorplan beyond these practical elements is newly established here.
+- The rooms have been prepared for Elowen but are not presented as though she is already Cassian's wife or mistress of House Veyne. Her Vale trunks and familiar belongings are being brought in, emphasizing the uneasy blending of households.
+- Cassian remains substantially recovered but not entirely forgetful of his recent side wound in movement. Elowen's private dream, secret overhearing, and feelings remain unknown to him.
+- Wedding date remains unestablished.
