@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — House Veyne residence, music room
 - Time: afternoon, 9th of Deepfrost, Year 312 of the Crown
-- Scene significance: routine
-- Situation: Elowen has found House Veyne's well-maintained piano and is using it for self-chosen music rather than a commanded performance. After playing several favorites without anyone interrupting or shooing her away, she grows comfortable enough to sing along and lose herself in the music.
+- Scene significance: charged
+- Situation: Elowen has been playing piano and singing freely for herself, becoming absorbed enough not to monitor the room. Her music has carried through House Veyne and quietly drawn listeners.
 
 ## Recent beats
-- Elowen checked the piano's tuning competently and found only minor seasonal drift. She began with favorite pieces selected for her own pleasure, including music she associates with playing too quickly because Rowan once complained the proper tempo was boring.
-- After enough uninterrupted time to feel that the room/instrument are available to her, Elowen gains confidence and begins singing while she plays. Music & Performance is an established Adept skill, so her combined singing/playing is polished and expressive without requiring a check/dice.
-- This is notably different from Elowen's upbringing as an accomplished noble daughter performing on command for display: she is not currently choosing repertoire for an audience, political effect, or approval and becomes absorbed enough to stop monitoring the room closely.
-- Her singing and piano are audible beyond the music room into nearby corridors/rooms. Household members within plausible earshot may hear, but no specific listener is established until they actually enter, act, or otherwise become relevant.
-- Cassian already knows Elowen likes piano but has not necessarily heard her sing freely for herself. He does not know Adrian's secret overheard observation that Cassian had never seen Elowen's joy.
+- Elowen's Adept Music & Performance skill lets her sing and play with polished technique while still sounding freer and more personal than her formal court performances. She moves through favorites and lighter material, laughing and losing herself in the music rather than performing for approval.
+- Eventually Elowen looks up from the keys and discovers Cassian standing within view, watching her, along with a substantial cluster of House Veyne servants/staff who have quietly gathered at/near the doorway and corridor to listen. 'Half the staff' is understood colloquially as many household staff, not a literal census.
+- The staff have gathered because the music is beautiful/unusual in the household, not because Cassian ordered an audience. Their presence risks making Elowen suddenly self-conscious because she believed she was effectively alone.
+- Cassian has now directly witnessed Elowen absorbed in something she loves: singing, playing, laughing, and visibly enjoying herself without performing for him. He may connect this to his own earlier desire to learn how Elowen lives/what she enjoys, but he still does not know that Elowen secretly overheard Adrian's criticism that Cassian had never danced with her, made her smile/laugh, or seen her joy.
+- Cassian should not claim knowledge of Elowen's private thoughts. He can observe the public surface: confidence at the instrument, laughter, expressive singing, and the abrupt change when she notices the audience.
 - Elowen remains in mourning black until marriage. The upcoming ball's exact host, venue, guest list, and date/time remain unestablished. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
