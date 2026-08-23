@@ -3,12 +3,13 @@
 - Location: Veyrhold — court ball, edge of ballroom near musicians
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is speaking privately with a close female friend after admitting she genuinely wants her marriage to Cassian and confiding that she does not want to inherit Vale. The friend has sworn secrecy.
+- Situation: Elowen is speaking privately with her close friend Daphne after admitting she genuinely wants her marriage to Cassian and confiding that she does not want to inherit Vale. Daphne has sworn secrecy.
 
 ## Recent beats
-- Elowen reveals she wants to be a lady, wife, and mother rather than Vale's ruling heir, and that Cassian agreed to support a future child of Garrick as the new heir regardless of sex if such a child is born.
-- The friend recognizes the significance: the man rumored to be marrying Elowen to gain her inheritance has privately agreed to help her surrender that inheritance. She asks whether this was when Elowen 'started falling for him.'
-- Elowen repeats, 'Falling…' and looks across the ballroom at Cassian. The phrasing catches her off guard because she had been thinking in terms of attraction, trust, wanting the marriage, desire, partnership, and relief—not explicitly conceptualizing herself as falling in love.
-- Elowen has not yet declared herself in love, internally or aloud. The moment is one of dawning consideration, not an automatic conclusion. Her friend should not force a label onto her if Elowen is uncertain.
-- Cassian remains elsewhere in the ballroom and cannot hear the conversation. He does not know Elowen has just told her friend she wants the marriage or revealed his succession promise.
-- Garrick remains present and has not yet been greeted by Elowen. The pink diamond remains visible on Elowen's right ring finger. Wedding date: 16th Deepfrost, Year 312.
+- Daphne asks whether Elowen is 'falling' for Cassian. The word catches Elowen off guard; she has consciously recognized attraction, trust, partnership, desire, and wanting the marriage, but has not yet labeled herself in love.
+- Elowen looks across the ballroom at Cassian and smiles when he catches her eye. Daphne notices but does not force a label onto Elowen's feelings.
+- Elowen abruptly turns the conversation political. She addresses her friend by name, establishing this close friend as Daphne.
+- Elowen says she knows Daphne's father and husband are looking to House Vale before deciding whom to support in the succession struggle. This establishes Daphne's natal and marital political connections as currently undecided/observant and responsive to Vale's alignment.
+- Elowen tells Daphne she is dear enough to receive honesty and asks: 'Will you help me with something?' The exact favor has not yet been stated; Daphne should respond based on trust and political caution rather than knowing the request in advance.
+- Daphne knows the highly sensitive secret that Elowen does not want to remain Vale's heir and that Cassian agreed to recognize a future child of Garrick as heir regardless of sex. She has promised not to reveal it.
+- Cassian remains elsewhere in the ballroom and cannot hear this conversation. Garrick remains present and has not yet been greeted by Elowen. Wedding date: 16th Deepfrost, Year 312.
