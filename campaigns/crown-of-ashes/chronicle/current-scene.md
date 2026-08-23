@@ -3,12 +3,12 @@
 - Location: Veyrhold — court ball, near refreshments
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has just handled an older noble's insinuations about confinement, health, and pregnancy rumors with controlled courtesy while Cassian deliberately refrained from speaking for her.
+- Situation: After Elowen handles a gossiping noble herself, Cassian explicitly gives her control over whom they approach next rather than directing her social movement.
 
 ## Recent beats
-- Elowen maintained pleasant eye contact until the noble was forced to articulate the gossip rather than hide behind 'concern.' When his glance betrayed interest in her waist, she calmly named what he was doing without raising her voice or losing composure. He retreated embarrassed.
-- Cassian jokes that his contribution was the difficult task of not laughing. Elowen smiles, rolls her eyes, and turns to face him.
-- OOC emphasis: preserve the relationship's material power imbalance. Cassian is older, more politically/militarily powerful, controls the household Elowen currently lives in, and entered the marriage through an arrangement Elowen did not meaningfully choose at its inception. Elowen's growing desire, affection, humor, and voluntary choices are real but must not be used to retroactively erase that structural imbalance.
-- Cassian's choice not to answer the noble for Elowen is meaningful precisely because he easily could dominate the exchange; he should continue making space for her agency rather than treating her successful handling as proof that coercive structures no longer matter.
-- Elowen's pale pink fitted gown visibly rebuts pregnancy/illness gossip; her voluntary Veyne diamond and easy public behavior complicate coercion rumors without proving private freedom to outside observers.
-- Wedding date: 16th Deepfrost, four days away.
+- Cassian explains that he deliberately did not answer the gossiping noble for Elowen because his intervention as the powerful man whose household she lives in and whom she is about to marry would not answer the court's questions about Elowen's own agency. He says he would have removed the man from the ballroom if Elowen had wanted that intervention.
+- The structural power imbalance remains real: Cassian is older, more politically/militarily powerful, controls Elowen's current household, and entered the marriage through an arrangement Elowen did not meaningfully choose at inception. His deliberate restraint supports Elowen's agency but does not erase that imbalance.
+- Cassian offers his arm and asks Elowen whom she wants to speak to next. Elowen answers with a devilish expression: 'Lady Fiona.'
+- Lady Fiona is the woman Elowen privately felt jealous watching dance with Cassian after Elowen herself told Cassian to dance with her. Cassian has just correctly guessed Fiona was the object of that jealousy, though Elowen has never verbally admitted it.
+- Elowen's choice to seek Fiona out immediately after being teased about her can plausibly be playful, strategic, curious, or competitive; do not assign a private motive beyond what Elowen says/does. Cassian can react to the devilish surface expression and the known Fiona connection but cannot know more.
+- Lady Fiona's deeper relationship/history with Cassian must not be invented beyond established canon. Wedding date: 16th Deepfrost, four days away.
