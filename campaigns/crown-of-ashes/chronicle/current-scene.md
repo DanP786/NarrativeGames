@@ -3,14 +3,13 @@
 - Location: Veyrhold — Veyne House, Elowen's chambers
 - Time: morning, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen wakes after the disrupted journey home from the ball. A badly beaten Oren courier's stolen dispatch to Garrick remains an unresolved security and political threat; Veyne House remains under heightened guard.
+- Situation: Elowen is dressed for the morning after the stolen Oren dispatch incident and is about to leave her chambers to learn what happened overnight. Veyne House remains under heightened guard.
 
 ## Recent beats
-- Elowen spent the night with Didi in/near her chambers and guards posted outside/nearby, having explicitly chosen not to have Cassian stay with her until they are married.
-- Elowen chooses a pale yellow day dress, continuing her move away from uninterrupted mourning black after publicly wearing pale pink at the previous night's ball.
-- Didi recognizes the ring on Elowen's dressing table and asks whether it is really the Veyne Pink.
-- Elowen smiles and confirms: 'yes, I think I shall wear it every day.' She chooses to make the dynastic jewel part of her ordinary daily dress rather than reserve it for formal display.
-- The Veyne Pink is a principal dynastic jewel of the senior Veyne line, reset by Cassian for Elowen. The ring is hers to possess and wear for her lifetime, while the stone remains entailed to the Veyne line. Wearing it publicly is legible as a strong personal/dynastic association with Veyne but does not itself erase her Vale identity or the marriage's structural imbalance.
+- Elowen chooses a pale yellow day dress and puts on the Veyne Pink, telling Didi she thinks she will wear the dynastic jewel every day.
+- Didi reports that messengers have been coming and going since before dawn, the wounded courier was alive at last report with a physician, and Cassian appears not to have slept.
+- As Elowen goes to leave, she thanks Didi for staying with her during the night and explicitly releases her from duties so she can sleep as long as she needs: 'thank you for staying with me last night Didi. If you need more sleep then please don’t worry about your duties. Sleep as long as you need.'
+- Didi is established only as a trusted female household companion/maid comfortable staying with Elowen overnight; do not invent deeper biography without canon. She can respond with appropriate servant deference and genuine warmth without collapsing class hierarchy.
 - The stolen Oren dispatch remains missing. The attackers and contents are unknown. Garrick was to be warned with facts only, Oren informed through a credible channel, the wounded courier guarded/treated, and evidence preserved.
 - Cassian's old rib wound hurt after the carriage jolt but showed no observable sign of reopening.
 - Wedding date: 16th Deepfrost, three days away.
