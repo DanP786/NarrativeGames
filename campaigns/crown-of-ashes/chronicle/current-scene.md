@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — House Veyne residence, Elowen's chambers
+- Location: Veyrhold — inside the Veyne carriage, departing House Veyne for the court ball
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The anticipated ball has arrived. Elowen is preparing for her first public court appearance since Greyfell/Greyfen and deliberately treats her clothing as political messaging rather than merely fashion.
+- Situation: Elowen and Cassian depart together for Elowen's first public court appearance since Greyfell/Greyfen, four days before their wedding.
 
 ## Recent beats
-- Several days have passed since Elowen and Cassian's music-room intimacy. Their wedding is now four days away, on 16th Deepfrost.
-- For tonight's ball Elowen chooses a pale pink dress instead of mourning black. This is a deliberate exception to her established mourning presentation for a strategically important public reappearance, not a general abandonment of mourning before marriage.
-- Elowen rejects both Vale and Veyne colors, avoiding a visual declaration that she has been wholly absorbed into either natal-house loyalty or her future husband's faction. Pale pink instead communicates youth, innocence, softness, and nonthreatening femininity.
-- The gown is form-fitting enough through the torso/waist to make the circulating pregnancy rumor visually implausible to observers. Elowen recognizes that only about a month has passed since Greyfell/Greyfen and visible pregnancy would not ordinarily be expected at such an early stage anyway; the clothing is therefore political theater aimed at gossip rather than medical proof.
-- The dress also counters rumors of imprisonment, illness, disfigurement, or coercive concealment by presenting Elowen publicly as composed, healthy, deliberately styled, and capable of making a conspicuous sartorial choice.
-- Elowen's appearance cannot by itself prove the absence of coercion; court observers will interpret her behavior with Cassian, Garrick, friends, and rivals as closely as they interpret the dress.
-- Cassian has promised to ask Elowen to dance and Elowen teased that she would decide whether 'the moment takes' her, though she later told him he knows she would not refuse him; Cassian explicitly treated that assurance as applying to the dance rather than broader consent.
+- Elowen deliberately chooses a pale pink, form-fitting gown for the ball: neither mourning black nor Vale/Veyne colors, signaling innocence/youth and visually countering pregnancy rumors while refusing to let either house wholly define her presentation.
+- Cassian recognizes the political calculation in the gown and approves of Elowen using clothing as deliberate court messaging. Elowen places her hand on his offered arm and they leave House Veyne together.
+- Elowen and Cassian now enter their carriage for the journey to the ball. This gives them a brief private interval before returning to intense public scrutiny.
+- Tonight's public stakes include rumors that Elowen is ill, disfigured, imprisoned, drugged, attempting escape, or pregnant by Cassian. Her appearance and behavior can counter some rumors but cannot by themselves prove absence of coercion.
+- Cassian has promised to ask Elowen to dance. Elowen teased that she would decide whether 'the moment takes' her, later assuring him she would not refuse; Cassian explicitly treated that assurance as applying to the dance only.
+- Elowen's departure from mourning black tonight is a deliberate one-evening political exception; established mourning remains otherwise in force until marriage.
 - Cassian still does not know Elowen secretly overheard Adrian's earlier criticism that he had never danced with her, made her smile/laugh, or seen her joy, nor does he know her recurring wedding-night dreams.
+- Wedding date: 16th Deepfrost, Year 312. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
