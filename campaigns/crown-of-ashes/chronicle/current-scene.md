@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, Cassian's improvised overnight command room
 - Time: morning, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is tending exhausted Cassian's sore but intact old rib wound while making him eat breakfast after his sleepless night coordinating the stolen-dispatch response.
+- Situation: Elowen is tending exhausted Cassian's sore but intact old rib wound and making him eat after a sleepless night coordinating the response to the stolen Oren dispatch.
 
 ## Recent beats
-- Elowen ordered Cassian to sit and remove his jacket, made a wrapped snow compress from fresh snow at the window, and placed it against the sore healed wound. Cassian submits to her care privately despite disliking public weakness.
-- Elowen orders Cassian to eat; he complies while joking that he has commanded armies with less opposition. Their interaction becomes briefly domestic amid maps and security reports.
-- Cassian notices the Veyne Pink on Elowen's hand and says she meant it when she said she would wear the ring every day.
-- Elowen smiles and responds instead to his earlier compliment: 'I’m glad you like the dress.' She is wearing a pale yellow day dress, a deliberate move away from uninterrupted mourning black.
-- Cassian can respond to the dress and to the significance of Elowen choosing color without assuming she has finished grieving Rowan. He should not conflate changing clothes with emotional closure.
+- Cassian compliments Elowen's pale yellow day dress and tells her wearing color does not mean she mourns Rowan less. Elowen continues holding a wrapped snow compress to his side and insists he finish more of his breakfast.
+- Elowen tells Cassian: 'I was serious when I said I wanted to help you become King. And if forcing you to take care of yourself is one of my duties I will gladly do so.'
+- This explicitly reaffirms Elowen's voluntary present political commitment to Cassian's royal claim and frames practical care for his health as part of the role she is choosing beside him. It does not erase the marriage's unequal origins or make Elowen responsible for Cassian's basic self-care.
+- Cassian wants the Crown and is legitimacy-conscious; Elowen's statement should matter to him both personally and politically because she is not merely accepting marriage but actively identifying herself with his bid for kingship.
+- Cassian should not exploit Elowen's language of 'duty' to shift responsibility for his health onto her. He may acknowledge that a queen/partner can challenge him, while retaining responsibility for himself.
 - The stolen Oren dispatch remains missing; attackers and contents unknown. Garrick was warned, Cassian seeks confirmation the warning reached him personally, and the wounded courier remains under treatment/guard.
 - Wedding date: 16th Deepfrost, three days away.
