@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — inside the halted Veyne carriage, returning home from the court ball
-- Time: late evening, 12th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged
-- Situation: A badly beaten Oren courier bound for Vale House has been intercepted and his dispatch stolen. Cassian has ordered Garrick warned with facts only and is arranging for Oren to be informed credibly while preserving evidence. Elowen is shaken by the echo of Greyfell.
+- Location: Veyrhold — Veyne House, Elowen's chambers
+- Time: night, 12th of Deepfrost into 13th of Deepfrost, Year 312 of the Crown
+- Scene significance: charged winding down
+- Situation: Elowen and Cassian have returned safely from the court ball after discovering a badly beaten Oren courier whose dispatch to Garrick Vale was stolen. Security has been heightened while the attack is investigated.
 
 ## Recent beats
-- Elowen says she does not want to go to Garrick tonight but does not want to spend the night alone. Cassian offers multiple forms of companionship/security and explicitly refuses to interpret their earlier kissing as consent to anything tonight.
-- Asked whom she wants with her, Elowen answers: 'I want you. But until we are married I will settle for Didi and guards.'
-- Elowen therefore clearly expresses personal desire for Cassian's company while also setting a boundary based on remaining unmarried for four more days. She chooses Didi plus guards for tonight. Cassian should respect this immediately and not bargain against it.
-- Didi is established here as a trusted female household companion/maid whom Elowen is comfortable having stay with her overnight. Do not infer further biography without canon.
-- The carriage remains on an unsecured road until guards clear the obstruction and transfer the wounded courier. The stolen dispatch contents and attackers remain unknown.
-- Cassian's old rib wound hurts from the jolt but has not observably reopened. The Veyne Pink remains on Elowen's right ring finger. Wedding date: 16th Deepfrost, four days away.
+- Elowen chooses not to go to Garrick tonight. Shaken by the echo of Greyfell, she says she wants Cassian with her but sets a boundary that until they are married she will instead have Didi and guards overnight. Cassian accepts without bargaining.
+- For the remainder of the carriage journey, Elowen voluntarily sits beside Cassian again and holds his hand against her chest. They remain silent; Cassian does not press conversation or turn the closeness into further physical escalation.
+- On reaching Veyne House, Cassian's earlier orders are in effect: the gates are secured, Didi is summoned to stay with Elowen, and guards are posted outside/near her chambers. Cassian does not stay in Elowen's chamber because she explicitly chose to wait until marriage.
+- A badly beaten royal courier from Prince Oren was found en route to Vale House. Several unidentified men attacked him, demanded his dispatch, and left him injured; his dispatch case was found cut open and empty. The contents and attackers remain unknown.
+- Cassian ordered Garrick warned with facts only and intends for Oren to be informed through a credible channel that avoids making Veyne look like the interceptor. Evidence is being preserved and the courier placed under guard/medical care.
+- Cassian's old rib wound hurts from the carriage jolt but showed no observable sign of reopening. Elowen remains wearing the Veyne Pink on her right ring finger unless she later removes it for sleep.
+- Wedding date: 16th Deepfrost, now three days away once morning comes.
