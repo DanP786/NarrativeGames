@@ -3,12 +3,13 @@
 - Location: Veyrhold — court ball, near refreshments
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian have finished their first dance and moved to the refreshments. Cassian has successfully guessed that Elowen's earlier jealousy concerned Lady Fiona, though Elowen has not verbally admitted it.
+- Situation: After her first dance with Cassian, Elowen is being approached by an older court noble who obliquely references rumors caused by her month-long absence from public view.
 
 ## Recent beats
-- Cassian unexpectedly guesses 'Lady Fiona?' and Elowen nearly inhales her wine, giving him strong observable confirmation. He teases her but then lets the subject go.
-- Someone approaches from behind Elowen. Cassian notices first and his private amusement recedes into attentive public composure.
-- Elowen turns to see who is approaching and immediately restores her own court composure: relaxed private teasing disappears behind the polished social bearing expected of Lady Elowen Vale.
-- The approaching person's identity has not yet been established. Do not retroactively assign one without either reading relevant presence/cast canon if exact identity matters or introducing a plausible new/known court figure without claiming prior relationship.
-- Elowen's shift is practiced rather than fearful: she is socially adept and knows how to move between private warmth and public formality. Cassian can observe this surface change but cannot infer private thoughts from it.
-- Elowen's pale pink fitted gown and conspicuous pink Veyne diamond remain visible. Wedding date: 16th Deepfrost, four days away.
+- The older noble says there has been 'concern' regarding Elowen's absence and that the capital was deprived of facts. Cassian deliberately does not answer for Elowen, leaving the exchange to her.
+- Elowen pleasantly asks which facts the court lacked, forcing the noble either to name the gossip directly or retreat from his insinuation.
+- Elowen maintains unbroken eye contact and does not drop her pleasant court demeanor. Her tactic is controlled social pressure rather than overt aggression: perfect courtesy makes the noble responsible for whatever ugliness he chooses to voice.
+- Cassian can observe and appreciate Elowen's handling of the exchange but should not interrupt unless the noble crosses a meaningful line or Elowen invites him. He cannot know her private thoughts.
+- The noble's exact identity remains unestablished and need not be named unless narratively useful. He plausibly knows circulating public rumors (illness, confinement/coercion, possible pregnancy/compromise) but not private facts.
+- Elowen's pale pink fitted gown itself visibly rebuts illness/pregnancy implications, while her voluntary Veyne diamond and easy public behavior with Cassian complicate coercion rumors.
+- Wedding date: 16th Deepfrost, four days away.
