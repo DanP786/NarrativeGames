@@ -1,12 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — inside the Veyne carriage, returning home from the court ball
+- Location: Veyrhold — inside the halted Veyne carriage, returning home from the court ball
 - Time: late evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian's private romantic carriage conversation is abruptly interrupted when the carriage comes to a sudden halt.
+- Situation: The carriage has stopped violently after encountering a man and fallen horse blocking the road. Veyne guards are outside assessing the obstruction while Cassian remains alert inside with Elowen.
 
 ## Recent beats
-- Elowen had been voluntarily seated on Cassian's lap, teasing him about her sexual inexperience and their future hope for children. Cassian responded flirtatiously but emphasized that his greater experience should not become another form of authority over her.
-- The carriage suddenly stops hard enough to throw Elowen off Cassian's lap. The interruption is abrupt and potentially dangerous rather than a planned arrival unless external facts establish otherwise.
-- Cassian can react physically to protect/catch Elowen if plausible, then immediately assess the carriage, horses, guards, driver, and outside threat. Do not assume the cause of the stop until it is observed or reported.
+- The violent stop threw Elowen off Cassian's lap; Cassian caught her enough to keep her from striking the opposite seat hard and immediately put her behind him while drawing steel.
+- Outside, horses screamed and guards reported a man in the road with a horse down beside him. They said he 'appears' alone; the actual cause and threat status remain unconfirmed.
+- Cassian asks whether Elowen is hurt. Elowen says, 'I’m fine,' sits and straightens her skirts, then asks whether Cassian is all right.
+- Elowen places her hand against Cassian's side at the site of the rib wound he suffered during the Greyfen quarry pursuit roughly a month earlier, later reopened badly at the tollhouse. Elowen personally bound and later maintained pressure on that wound, so her concern is grounded in witnessed history.
+- Cassian's current goal includes recovering fully from the tollhouse wound without publicly appearing weak. The abrupt jolt may cause pain but does not automatically mean the wound has reopened; establish only observable symptoms.
+- Cassian remains tactically alert to the possibility that the road obstruction could be an ambush. He should not leave Elowen exposed merely to investigate personally while armed guards are available.
 - The Veyne Pink remains on Elowen's right ring finger. Wedding date: 16th Deepfrost, four days away.
