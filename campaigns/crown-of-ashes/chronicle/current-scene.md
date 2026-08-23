@@ -3,13 +3,12 @@
 - Location: Veyrhold — court ball, ballroom
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is speaking directly with Garrick for the first time at the ball. She has explained her pale-pink gown as deliberate public messaging after nearly a month out of sight, and Garrick has now asked whether she is happy with the marriage arrangement.
+- Situation: Elowen is speaking directly with Garrick at the ball. After explaining her strategic presentation, Garrick asks whether she is happy with the arranged marriage to Cassian.
 
 ## Recent beats
-- Elowen explains that tonight's non-mourning gown is for appearances: to show she is well, not hidden, and not visibly compromised as rumors suggest. She chose neither Vale nor Veyne colors because she did not want to look as though one house had simply exchanged her for another.
-- Garrick notices the tension between that independent presentation and the conspicuous Veyne pink diamond on Elowen's right hand; Elowen says its prominent display on Cassian's arm was accidental.
-- Garrick quietly asks: 'Are you happy with the arrangement?'
-- Elowen considers before answering indirectly: 'Mother told me that whoever was going to be chosen for my husband that I needed to find a way to make peace with it.'
-- This establishes a remembered piece of maternal counsel: Elowen's mother prepared her for an arranged noble marriage by telling her she would need to find a way to make peace with whichever husband was chosen for her. It reflects Elowen's upbringing and lack of expected choice without itself answering whether she is now happy with Cassian.
-- Garrick can recognize that Elowen has not yet directly answered his question and may hear an implicit reminder that her marriage was always expected to be selected by others. He should respond according to his established paternal/dynastic character, not with knowledge of Elowen's private conversations.
-- Cassian remains elsewhere in the ballroom and cannot automatically hear this conversation. Wedding date: 16th Deepfrost, four days away.
+- Elowen recalls her mother's counsel that whichever husband was chosen for her, she should find a way to make peace with it, look for what was good/respectable in him, and build whatever happiness she could because she would not choose the match herself.
+- Garrick presses past 'made peace' and repeats that he asked whether Elowen is happy.
+- Elowen answers carefully: 'I think I can learn to be, yes.' This is deliberately more restrained than what she privately told Daphne ('I do. I really do' want the marriage) and reflects both Elowen's ingrained deference/guardedness with Garrick and the complexity of admitting developing happiness in a marriage to the man who killed Rowan.
+- The answer is not a declaration that she is already fully happy, nor a denial of genuine growing affection for Cassian. Garrick can hear cautious hope and may recognize that she is not asking him to undo the match.
+- Cassian remains elsewhere in the ballroom and cannot automatically hear this conversation. Garrick has not been told Elowen's secret wish to relinquish Vale's inheritance, Cassian's promise concerning a future Vale child, or the private meaning of the pink-diamond gift.
+- Wedding date: 16th Deepfrost, four days away.
