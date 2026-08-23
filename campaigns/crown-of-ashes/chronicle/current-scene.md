@@ -3,13 +3,12 @@
 - Location: Veyrhold — court ball, edge of ballroom near musicians
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has freely left Cassian's side with a close female friend. In a relatively private conversation near the musicians, she has admitted she genuinely wants the marriage and now confides a deeper reason she has come to trust/want Cassian.
+- Situation: Elowen is speaking privately with a close female friend after admitting she genuinely wants her marriage to Cassian and confiding that she does not want to inherit Vale. The friend has sworn secrecy.
 
 ## Recent beats
-- Asked whether she truly wants the marriage, Elowen says 'I do. I really do' and smiles. Her friend recognizes genuine warmth and realizes Elowen likes Cassian.
-- When the friend asks whether Cassian is kind to Elowen and what happened between them, pain/desperation briefly crosses Elowen's face before she remembers the public setting and composes herself.
-- Elowen demands secrecy: 'This stays between us. If it gets out I know it’s from you.' She holds her friend's gaze until the friend explicitly agrees.
-- Only after that agreement does Elowen reveal: 'I don’t want to be heir to my father’s house. I want to be a lady, a wife, a mother someday. Cassian agreed to help me.'
-- This is highly sensitive succession information. Elowen's friend now knows Elowen does not want Vale's inheritance and that Cassian has agreed to support a path by which a future child of Garrick could become the heir regardless of sex, rather than forcing Elowen to remain heir. The friend should understand the political danger of this confidence and not casually repeat it.
-- Elowen's statement does not mean she lacks political ability; she has explicitly told Cassian she can run a household, support him as queen, and learn politics, but does not want ultimate responsibility for commanding Vale and its consequences.
-- Cassian is elsewhere in the ballroom and cannot hear this conversation. Garrick remains present and has not yet been greeted by Elowen. The pink diamond remains visible on Elowen's right ring finger. Wedding date: 16th Deepfrost, Year 312.
+- Elowen reveals she wants to be a lady, wife, and mother rather than Vale's ruling heir, and that Cassian agreed to support a future child of Garrick as the new heir regardless of sex if such a child is born.
+- The friend recognizes the significance: the man rumored to be marrying Elowen to gain her inheritance has privately agreed to help her surrender that inheritance. She asks whether this was when Elowen 'started falling for him.'
+- Elowen repeats, 'Falling…' and looks across the ballroom at Cassian. The phrasing catches her off guard because she had been thinking in terms of attraction, trust, wanting the marriage, desire, partnership, and relief—not explicitly conceptualizing herself as falling in love.
+- Elowen has not yet declared herself in love, internally or aloud. The moment is one of dawning consideration, not an automatic conclusion. Her friend should not force a label onto her if Elowen is uncertain.
+- Cassian remains elsewhere in the ballroom and cannot hear the conversation. He does not know Elowen has just told her friend she wants the marriage or revealed his succession promise.
+- Garrick remains present and has not yet been greeted by Elowen. The pink diamond remains visible on Elowen's right ring finger. Wedding date: 16th Deepfrost, Year 312.
