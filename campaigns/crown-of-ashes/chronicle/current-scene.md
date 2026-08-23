@@ -3,14 +3,13 @@
 - Location: Veyrhold — Veyne House, Cassian's improvised overnight command room
 - Time: morning, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has joined an exhausted Cassian after he worked through the night coordinating the response to the stolen Oren dispatch. They are briefly alone, and Elowen is tending the soreness around his old rib wound.
+- Situation: Elowen is tending exhausted Cassian's sore but intact old rib wound while making him eat breakfast after his sleepless night coordinating the stolen-dispatch response.
 
 ## Recent beats
-- Elowen verifies Cassian's old Greyfen/tollhouse wound has not reopened after the carriage jolt: no blood or fresh opening, but the healed area is sore/irritated.
-- Cassian has not slept and has not yet eaten the breakfast brought to him. He attempts to distract Elowen by telling her she looks pretty in yellow when furious with him.
-- Elowen softens momentarily at the compliment, then firmly orders: 'sit. And take off your jacket.'
-- Elowen takes napkins to the window, gathers fresh clean snow into them as a cold compress, returns to Cassian, lifts his shirt enough to expose the healed wound area, and places the wrapped snow against the sore site.
-- Elowen has prior practical experience tending this exact injury and Cassian knows she materially helped save his life when it reopened. His willingness to submit to her care here can coexist with his dislike of appearing weak publicly; they are alone.
-- Cold may ease soreness but the snow is wrapped rather than applied directly to skin. No reopened wound or new medical emergency is established.
-- The stolen Oren dispatch remains missing; attackers and contents unknown. Garrick was warned, Cassian seeks personal confirmation the warning reached him, and the wounded courier remains under treatment/guard.
-- Elowen is wearing a pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
+- Elowen ordered Cassian to sit and remove his jacket, made a wrapped snow compress from fresh snow at the window, and placed it against the sore healed wound. Cassian submits to her care privately despite disliking public weakness.
+- Elowen orders Cassian to eat; he complies while joking that he has commanded armies with less opposition. Their interaction becomes briefly domestic amid maps and security reports.
+- Cassian notices the Veyne Pink on Elowen's hand and says she meant it when she said she would wear the ring every day.
+- Elowen smiles and responds instead to his earlier compliment: 'I’m glad you like the dress.' She is wearing a pale yellow day dress, a deliberate move away from uninterrupted mourning black.
+- Cassian can respond to the dress and to the significance of Elowen choosing color without assuming she has finished grieving Rowan. He should not conflate changing clothes with emotional closure.
+- The stolen Oren dispatch remains missing; attackers and contents unknown. Garrick was warned, Cassian seeks confirmation the warning reached him personally, and the wounded courier remains under treatment/guard.
+- Wedding date: 16th Deepfrost, three days away.
