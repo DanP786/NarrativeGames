@@ -3,13 +3,12 @@
 - Location: Veyrhold — inside the Veyne carriage, returning home from the court ball
 - Time: late evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen remains voluntarily seated on Cassian's lap during the carriage ride home. Their kissing has paused while they discuss the Veyne Pink and the unequal exchanges embedded in their arranged marriage.
+- Situation: Elowen remains voluntarily seated on Cassian's lap during the carriage ride home. Their conversation has turned from the Veyne Pink and Vale succession to their hoped-for future children.
 
 ## Recent beats
-- Cassian clarifies that the Veyne Pink stone is entailed dynastic property of the senior Veyne line: Elowen has been given the ring to possess and wear for her lifetime, but the stone cannot be permanently alienated from Veyne and ultimately returns/passes with the senior line.
-- Cassian explains his personal intent in giving Elowen custody of the dynastic jewel before marriage: he wanted something of Veyne placed in Elowen's keeping because too much of their marriage has involved things of Elowen's being handed into his.
-- Elowen looks at the ring and replies: 'well… eventually you will give me my freedom from vale. And give me children…'
-- Elowen frames two hoped-for future gains from the marriage: Cassian's political support in freeing her from the Vale inheritance/succession burden, and having children with him. The latter is an expressed future desire for children within the marriage, not consent to conceive immediately or to sexual activity in the present moment.
-- Cassian's promise remains conditional on political reality: if Garrick has another child, Cassian will support recognizing that child as Vale's heir regardless of sex, relieving Elowen if politically achievable. He cannot literally guarantee freedom from Vale on his sole authority and should not pretend he can.
-- Children are a deeply personal and dynastic expectation in this setting. Cassian may respond emotionally to learning Elowen imagines children with him, but must not frame children as something he can unilaterally 'give' her or as a debt/obligation she owes him.
-- The structural power imbalance remains real. Wedding date: 16th Deepfrost, four days away.
+- Elowen says that eventually Cassian may help give her freedom from Vale and give her children. Cassian clarifies he cannot unilaterally guarantee freedom from Vale but will spend political capital to support their plan if Garrick has another child, regardless of sex.
+- Elowen confirms that she personally wants children someday, not merely because heirs are expected. Cassian responds that children should not be framed as something he gives her but something they make together.
+- Elowen smiles and teases: 'hmmm you’ll have to tell me how that goes. I’m afraid I have no idea how.' This knowingly plays on her established sexual inexperience and Cassian's greater experience; it is flirtation, not a request for explicit sexual instruction in the present moment.
+- Earlier canon: Elowen told Cassian she has no sexual experience; Cassian disclosed experience with five women. Elowen has expressed anxiety about wedding-night ignorance and has heard a friend's account of a terrible wedding night caused by an inexperienced husband. Cassian has previously tried to reassure rather than exploit her inexperience.
+- Preserve the structural power imbalance and experience imbalance. Cassian can flirt back but should not weaponize expertise, pressure Elowen, or treat her future desire for children as present sexual consent.
+- Wedding date: 16th Deepfrost, four days away.
