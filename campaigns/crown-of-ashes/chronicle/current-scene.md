@@ -3,13 +3,13 @@
 - Location: Veyrhold — inside the Veyne carriage, returning home from the court ball
 - Time: late evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are privately debriefing after the ball. Elowen has directly admitted to Cassian that she is presently happy but struggles to admit it to Garrick because her happiness is entangled with Rowan's death and Cassian's support for freeing her from the Vale succession.
+- Situation: Elowen and Cassian are privately debriefing after the ball, including Daphne's plan to discreetly ask Georgia whether she would consider Garrick as a husband.
 
 ## Recent beats
-- Cassian distinguishes Rowan choosing/wanting Vale for himself from Rowan choosing that life for Elowen. He refuses to use Elowen's present happiness to justify Greyfell or erase his responsibility for killing Rowan.
-- Cassian's promise remains: if Garrick has another child, Cassian will support recognizing that child as Vale's heir regardless of sex, relieving Elowen if politically achievable. Garrick does not know this plan.
-- Elowen tells Cassian that she spoke to Daphne at the ball about their plan involving Daphne's younger sister Georgia as a possible wife for Garrick. Daphne said she would mention the possibility to Georgia.
-- Daphne has already agreed that Georgia must be approached privately, honestly informed that children would be expected, and free to refuse without political pressure. Elowen asked Daphne to reassure Georgia that Elowen would not resist any future child inheriting Vale regardless of sex.
-- This is exploratory only: Georgia has not agreed to anything, Garrick has not been approached, and no betrothal/proposal exists. Georgia's consent remains essential.
-- The potential match also has succession-political implications because Daphne's father and husband are looking toward Vale before choosing whom to back for the royal succession, but Georgia must not be reduced to a political or reproductive asset.
+- Cassian agrees the Georgia possibility should remain exploratory: Daphne asks Georgia privately; if Georgia refuses, the idea dies without Garrick being approached; if interested, Georgia and Garrick should be given opportunities to meet rather than handed a completed arrangement. Georgia's consent remains essential.
+- Cassian asks suspiciously what else Elowen told Daphne.
+- Elowen smiles sweetly and answers: 'That I want to marry you.'
+- This directly tells Cassian that Elowen privately affirmed her desire for their marriage to a trusted friend. It reinforces her present voluntary desire to proceed while not erasing the lack of meaningful choice at the marriage's inception or the structural power imbalance.
+- Earlier, Elowen told Daphne 'I do. I really do' when asked whether she wanted the marriage. Daphne also inferred Elowen may be falling for Cassian, but Elowen has not concluded or declared that she is in love and has not told Cassian about that exchange.
+- Cassian can be affected by learning Elowen said this when he was absent and therefore had no immediate pressure over her answer, but he should not treat it as blanket consent or absolution.
 - The pink diamond remains on Elowen's right ring finger. Wedding date: 16th Deepfrost, four days away.
