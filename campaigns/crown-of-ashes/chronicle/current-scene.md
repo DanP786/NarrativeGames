@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — court ball, entrance to the ballroom
+- Location: Veyrhold — court ball, ballroom entrance/interior
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen makes her first public court appearance since Greyfell/Greyfen, arriving on Cassian's arm four days before their wedding amid intense rumors and scrutiny.
+- Situation: Elowen has entered her first public ball since Greyfell/Greyfen on Cassian's arm, presenting her usual relaxed social self rather than manufacturing a performance for the court.
 
 ## Recent beats
-- Elowen's pale pink fitted gown deliberately avoids Vale/Veyne colors, signals innocence/youth, and visually counters pregnancy gossip. Cassian's enormous rare pink-diamond gift on her right ring finger is prominently visible where her hand rests naturally on his arm, an unplanned but politically useful display.
-- As the herald prepares to announce them, Elowen decides not to manufacture a new public persona. She will present the version of herself she normally is at balls when Garrick is absent: relaxed, socially capable, warmer and freer than the highly deferential daughter she becomes under her father's immediate attention.
-- Garrick is attending tonight, so Elowen anticipates that ingrained deference may reappear when she speaks directly with him. She is not pretending otherwise to herself.
-- Cassian's presence beside her gives Elowen somewhat greater confidence than she would normally have with Garrick present. This confidence is support, not substitution: Elowen intends to speak and act for herself rather than letting Cassian manage her interactions.
-- For now Elowen is visibly relaxed as she enters. This is strategically valuable because the court expects evidence supporting rumors of fear/coercion, but her relaxed demeanor is genuine rather than a rehearsed performance.
-- The court will interpret her behavior with Cassian, Garrick, friends, and rivals closely. Cassian has promised to ask her to dance; she has indicated she will accept, but the timing remains his choice and her actual response remains hers.
-- Wedding date: 16th Deepfrost, Year 312. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
+- Elowen spots Garrick and instinctively becomes slightly more controlled/deferential, but Cassian does not steer, possess, or intervene; he simply follows her pace.
+- Before Elowen and Cassian can reach/speak to Garrick, one of Elowen's female friends intercepts them with obvious eagerness and many unasked questions. This friend is socially familiar enough with Elowen to approach before the formal paternal greeting.
+- Elowen introduces her friend to Cassian herself. The friend's exact identity/name is not established in the currently loaded scene canon; do not invent a name as pre-existing canon unless read from an authoritative character/index file or deliberately introduced by Elowen/player.
+- Cassian should respond courteously and allow Elowen to control the social introduction rather than dominating it. The friend can visibly inspect Cassian, Elowen's pale-pink gown, their ease together, and the enormous pink Veyne diamond, but cannot know private intimacy or the ring's personal framing unless told.
+- The interruption delays but does not erase the impending interaction with Garrick, who is present and has seen Elowen arrive.
+- Elowen's relaxed warmth with a friend is useful public evidence against the image of a frightened, isolated captive, but it remains genuine behavior rather than rehearsed optics.
+- Wedding date: 16th Deepfrost, Year 312. Cassian has promised to ask Elowen to dance later.
