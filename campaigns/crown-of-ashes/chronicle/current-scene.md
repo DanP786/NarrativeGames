@@ -3,13 +3,12 @@
 - Location: Veyrhold — court ball, near refreshments
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: After her first dance with Cassian, Elowen is being approached by an older court noble who obliquely references rumors caused by her month-long absence from public view.
+- Situation: Elowen has just handled an older noble's insinuations about confinement, health, and pregnancy rumors with controlled courtesy while Cassian deliberately refrained from speaking for her.
 
 ## Recent beats
-- The older noble says there has been 'concern' regarding Elowen's absence and that the capital was deprived of facts. Cassian deliberately does not answer for Elowen, leaving the exchange to her.
-- Elowen pleasantly asks which facts the court lacked, forcing the noble either to name the gossip directly or retreat from his insinuation.
-- Elowen maintains unbroken eye contact and does not drop her pleasant court demeanor. Her tactic is controlled social pressure rather than overt aggression: perfect courtesy makes the noble responsible for whatever ugliness he chooses to voice.
-- Cassian can observe and appreciate Elowen's handling of the exchange but should not interrupt unless the noble crosses a meaningful line or Elowen invites him. He cannot know her private thoughts.
-- The noble's exact identity remains unestablished and need not be named unless narratively useful. He plausibly knows circulating public rumors (illness, confinement/coercion, possible pregnancy/compromise) but not private facts.
-- Elowen's pale pink fitted gown itself visibly rebuts illness/pregnancy implications, while her voluntary Veyne diamond and easy public behavior with Cassian complicate coercion rumors.
+- Elowen maintained pleasant eye contact until the noble was forced to articulate the gossip rather than hide behind 'concern.' When his glance betrayed interest in her waist, she calmly named what he was doing without raising her voice or losing composure. He retreated embarrassed.
+- Cassian jokes that his contribution was the difficult task of not laughing. Elowen smiles, rolls her eyes, and turns to face him.
+- OOC emphasis: preserve the relationship's material power imbalance. Cassian is older, more politically/militarily powerful, controls the household Elowen currently lives in, and entered the marriage through an arrangement Elowen did not meaningfully choose at its inception. Elowen's growing desire, affection, humor, and voluntary choices are real but must not be used to retroactively erase that structural imbalance.
+- Cassian's choice not to answer the noble for Elowen is meaningful precisely because he easily could dominate the exchange; he should continue making space for her agency rather than treating her successful handling as proof that coercive structures no longer matter.
+- Elowen's pale pink fitted gown visibly rebuts pregnancy/illness gossip; her voluntary Veyne diamond and easy public behavior complicate coercion rumors without proving private freedom to outside observers.
 - Wedding date: 16th Deepfrost, four days away.
