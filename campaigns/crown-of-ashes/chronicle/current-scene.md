@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — court ball, edge of ballroom near musicians
+- Location: Veyrhold — court ball, ballroom
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is privately sounding out her close friend Daphne about whether Daphne's younger sister Georgia might consider marrying Garrick, both as a potentially compatible remarriage and as a path toward a future Vale heir other than Elowen.
+- Situation: After privately confiding in Daphne and asking her to sound out younger sister Georgia about a possible marriage to Garrick, Elowen now approaches her father for their first direct interaction of the ball.
 
 ## Recent beats
-- Daphne says Georgia might consider Garrick but refuses to answer for her sister. She insists Georgia must be approached privately, told honestly that children would be expected, and allowed to refuse without political pressure. Elowen agrees.
-- Daphne realizes the wedding seating arrangement may have been designed in part to place her family/Georgia near Garrick and calls Elowen out on it; Elowen bites her lip to keep from laughing rather than denying the political matchmaking.
-- Elowen asks Daphne to reassure Georgia that if Georgia worries Elowen would feel threatened by hypothetical future children's inheritance, there will be no resistance from Elowen. This is consistent with Elowen's secret desire to have a future child of Garrick recognized as Vale's heir regardless of sex.
-- Elowen then looks over the ballroom and, with a wicked smile, says: 'besides, if all goes well the queen will owe her… and you.' This is a private, playful but politically meaningful reference to Elowen's expectation/hope that Cassian succeeds in taking the crown and she becomes queen.
-- Elowen is not formally promising a specific royal office, payment, title, or corrupt favor to Daphne/Georgia; the statement establishes prospective gratitude and future access/obligation, which Daphne can recognize as politically valuable without treating it as a binding quid pro quo.
-- Daphne knows her father and husband are looking to Vale before choosing a succession side. Elowen's remark therefore also signals that helping facilitate a suitable Garrick-Georgia match could align Daphne's family with a future Veyne monarchy, though Georgia's consent remains essential and cannot be traded for political support.
-- Cassian remains elsewhere in the ballroom and cannot hear this conversation. Garrick remains present and has not yet been greeted by Elowen. Wedding date: 16th Deepfrost, Year 312.
+- Daphne agrees to speak privately and honestly with Georgia, including about the expectation of children and Elowen's assurance that she would not resist any future child of Garrick inheriting Vale regardless of sex. Georgia's consent remains essential.
+- Elowen privately jokes that if Cassian succeeds and she becomes queen, the queen will owe Georgia and Daphne; no specific favor/title/payment is promised.
+- Daphne asks whether Elowen wants another rescue from Garrick. Elowen laughs, tells Daphne 'go be with your husband,' squeezes her hands affectionately, and leaves her to approach Garrick independently.
+- Elowen greets Garrick with a formal curtsy and the single word 'Father.' As anticipated, ingrained deference returns in his immediate presence despite Elowen's otherwise relaxed ball demeanor.
+- Garrick has already seen Elowen's entrance on Cassian's arm, pale pink fitted gown, relaxed public behavior, visible Veyne pink-diamond ring, and independent departure from Cassian to socialize with Daphne. His exact interpretation must come from his established characterization/canon rather than telepathy.
+- Cassian remains elsewhere in the ballroom rather than accompanying Elowen into the father-daughter interaction. He cannot automatically hear what they say.
+- Elowen's pale pink gown is a deliberate one-evening exception to mourning black; the wedding remains on 16th Deepfrost, four days away.
