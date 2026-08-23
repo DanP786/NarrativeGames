@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — court ball, leaving the dance floor
+- Location: Veyrhold — court ball, near refreshments
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian have completed their first established dance, visibly relaxed and mutually engaged before the court, substantially undermining rumors that Elowen fears or avoids him.
+- Situation: Elowen and Cassian have finished their first dance and moved to the refreshments. Cassian has successfully guessed that Elowen's earlier jealousy concerned Lady Fiona, though Elowen has not verbally admitted it.
 
 ## Recent beats
-- Cassian infers from Elowen's visible reaction that she was thinking jealously about a woman he had danced with, but he does not know the woman is Lady Fiona. Elowen refuses to identify her, answering 'Absolutely not.'
-- The dance ends immediately after the exchange. Cassian offers Elowen his arm; Elowen voluntarily takes it and follows where he leads away from the dance floor.
-- Elowen's actual private jealousy remains tied to Lady Fiona: Elowen had once told Cassian to dance with Fiona but secretly wanted him to ask Elowen instead. This remains undisclosed to Cassian.
-- Their public first dance included genuine laughter, easy conversation, and Elowen's willing acceptance, creating useful optics against coercion rumors without being staged affection.
-- Cassian may choose their next destination within the ballroom (refreshments, another social cluster, a quieter edge, Garrick, etc.) based on plausible immediate circumstances, but should not presume Elowen has surrendered broader social autonomy simply because she follows his offered arm.
+- Cassian unexpectedly guesses 'Lady Fiona?' and Elowen nearly inhales her wine, giving him strong observable confirmation. He teases her but then lets the subject go.
+- Someone approaches from behind Elowen. Cassian notices first and his private amusement recedes into attentive public composure.
+- Elowen turns to see who is approaching and immediately restores her own court composure: relaxed private teasing disappears behind the polished social bearing expected of Lady Elowen Vale.
+- The approaching person's identity has not yet been established. Do not retroactively assign one without either reading relevant presence/cast canon if exact identity matters or introducing a plausible new/known court figure without claiming prior relationship.
+- Elowen's shift is practiced rather than fearful: she is socially adept and knows how to move between private warmth and public formality. Cassian can observe this surface change but cannot infer private thoughts from it.
 - Elowen's pale pink fitted gown and conspicuous pink Veyne diamond remain visible. Wedding date: 16th Deepfrost, four days away.
