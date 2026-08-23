@@ -3,13 +3,12 @@
 - Location: Veyrhold — inside the halted Veyne carriage, returning home from the court ball
 - Time: late evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: The carriage has stopped violently after encountering a man and fallen horse blocking the road. Veyne guards are outside assessing the obstruction while Cassian remains alert inside with Elowen.
+- Situation: The carriage has stopped violently after encountering a badly beaten rider and a horse with a broken foreleg blocking the road. Veyne guards are searching the verge while Cassian and Elowen remain inside.
 
 ## Recent beats
-- The violent stop threw Elowen off Cassian's lap; Cassian caught her enough to keep her from striking the opposite seat hard and immediately put her behind him while drawing steel.
-- Outside, horses screamed and guards reported a man in the road with a horse down beside him. They said he 'appears' alone; the actual cause and threat status remain unconfirmed.
-- Cassian asks whether Elowen is hurt. Elowen says, 'I’m fine,' sits and straightens her skirts, then asks whether Cassian is all right.
-- Elowen places her hand against Cassian's side at the site of the rib wound he suffered during the Greyfen quarry pursuit roughly a month earlier, later reopened badly at the tollhouse. Elowen personally bound and later maintained pressure on that wound, so her concern is grounded in witnessed history.
-- Cassian's current goal includes recovering fully from the tollhouse wound without publicly appearing weak. The abrupt jolt may cause pain but does not automatically mean the wound has reopened; establish only observable symptoms.
-- Cassian remains tactically alert to the possibility that the road obstruction could be an ambush. He should not leave Elowen exposed merely to investigate personally while armed guards are available.
-- The Veyne Pink remains on Elowen's right ring finger. Wedding date: 16th Deepfrost, four days away.
+- Elowen checks Cassian's old rib wound after the jolt; it hurts but shows no observable warmth/blood suggesting it has reopened. Cassian remains armed and tactically alert.
+- Guards report the fallen rider is alive but badly beaten, his horse has a broken foreleg, and he is wearing royal livery. The cause of his injuries and whether the roadblock is an ambush remain unknown.
+- On hearing 'royal livery,' Elowen becomes visibly worried and says to Cassian: 'Tell it’s not happening again,' referring to Greyfell and the violent royal-succession crisis that killed Rowan and transformed her life.
+- Cassian understands the Greyfell reference from shared history but cannot truthfully guarantee that nothing similar is happening until more facts are known. He should reassure through concrete protective action and honesty rather than false certainty.
+- Veyne guards are available outside; Cassian should use them to secure the scene and gather information rather than exposing Elowen unnecessarily. The Veyne Pink remains on Elowen's right ring finger.
+- Wedding date: 16th Deepfrost, four days away.
