@@ -2,15 +2,15 @@
 
 - Location: Veyrhold — Vale House, Garrick's private study
 - Time: late morning, 13th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged, escalating toward major relationship conflict
-- Situation: Elowen is alone with Garrick for the private conversation he requested. Cassian waits elsewhere in Vale House. Garrick has just said that after their conversation last night he made a decision concerning Elowen's succession, and that this morning he learned Cassian has also made a decision concerning Elowen without consulting her.
+- Scene significance: charged, major relationship conflict beginning
+- Situation: Elowen is alone with Garrick. He has revealed two unilateral decisions: Garrick will not seek to alter Elowen's status as Vale heir while the succession crisis remains unresolved, and Cassian has invoked an emergency protection provision under the signed marriage articles that gives him practical control over Elowen's movements outside Veyne-controlled property and permits Veyne officers to remove her from a location without waiting for consent if intelligence indicates an immediate threat.
 
 ## Recent beats
-- On arrival, Cassian respected Garrick's request for privacy and remained outside the meeting. He told Elowen to take whatever time she needs and said he would be there when she returns.
-- Garrick notices Elowen's pale yellow dress and the Veyne Pink but does not comment before turning to the serious matter.
-- Garrick tells Elowen: 'Before we discuss Oren, there is something I need you to understand. Last night, after we spoke, I made a decision concerning your succession. And this morning I learned Lord Veyne has made one concerning you as well. Without consulting you.'
-- Elowen replies, 'It appears so have you…' then closes her eyes, immediately conscious of having challenged her father. She sits in front of Garrick and physically tries to make herself smaller, reverting to ingrained filial deference despite her growing confidence elsewhere.
-- Garrick has previously told Elowen she must not apologize for private political questions because understanding decisions is part of being his heir. He loves her but is dynastically minded and accustomed to deciding family matters. He should recognize the contradiction if he made a unilateral succession decision while criticizing Cassian for the same pattern.
-- Do not reveal Cassian's exact unilateral decision until Garrick explains what he knows. The coming conflict must be consequential, connected to the stolen Oren dispatch/succession danger, and a real exercise of Cassian's greater political/military power over Elowen rather than a misunderstanding.
-- Existing canon: Cassian promised to support relieving Elowen of Vale heirship if Garrick has another child and political conditions permit. Elowen wants to cease being Vale's heir and privately explored Georgia as a possible future wife for Garrick. Garrick does not know that plan unless told in-fiction.
-- The stolen Oren dispatch remains missing; attackers and contents unknown. Wedding date: 16th Deepfrost, three days away.
+- Elowen initially challenges Garrick—'It appears so have you…'—then immediately shrinks into ingrained filial deference and apologizes. Garrick refuses the apology, admits she is correct, and says his hypocrisy does not make Cassian's conduct acceptable.
+- Garrick says his own decision is temporary/contingent: he will not weaken Elowen's legal position as Vale heir while an unknown actor is violently intercepting royal communications and the succession crisis remains unresolved. He may reconsider if circumstances permit.
+- Garrick says Veyne counsel notified Vale counsel this morning that Cassian invoked emergency protective authority under the marriage articles after the courier attack. Garrick and Elowen had understood the relevant protection provisions more narrowly as security/guards; Cassian's legal use is broader in practice.
+- Crucial nuance: Cassian's emergency order is legally grounded in signed articles and motivated by a real active threat, but he made the decision without consulting Elowen and did not tell her before bringing her to Vale House. This directly collides with his recent promises about partnership and not making every decision for her. His structural power makes the order effective even over her objection.
+- Garrick tells Elowen she deserved to know that although Cassian presented the choice to come to Vale House as hers, he had already arranged matters so the decision to leave would ultimately be his under emergency conditions.
+- Elowen stares into space and asks Garrick: 'is that all you wished to speak of?'
+- Garrick's note said the conversation concerned both their previous-night conversation and the present danger, so there should be at least one additional matter. He should not pile on gratuitously; answer directly and preserve his measured voice.
+- The stolen Oren dispatch remains missing; attackers and contents unknown. Wedding date: 16th Deepfrost, three days away. Elowen intends to return by afternoon for her first wedding-dress fitting.
