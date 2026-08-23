@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — inside the Veyne carriage, en route to the court ball
+- Location: Veyrhold — inside the Veyne carriage, arriving at the court ball
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Four days before their wedding, Cassian has offered Elowen a rare pink-diamond Veyne family ring as a voluntary personal gift rather than a compulsory marriage insignia.
+- Situation: Four days before their wedding, Elowen has accepted Cassian's rare pink-diamond Veyne family ring as a voluntary personal gift. Their carriage is now about to pull up at the ball for Elowen's first public court appearance since Greyfell/Greyfen.
 
 ## Recent beats
-- Elowen kneels before Cassian in the carriage, teasingly asks which finger he intends for the ring, and Cassian chooses the ring finger of her right hand, explaining that her left is for the wedding ring and that this gift is 'simply from me.'
-- Cassian asks one final time whether Elowen still wants the ring. Elowen whispers 'Yes,' clearly accepting the gift.
-- Cassian slides the ring onto Elowen's right ring finger. It fits as intended. The exceptionally large pink diamond has noticeable physical weight on her hand, making the extravagance and reality of the gift tangible.
-- Once the ring is in place, Elowen looks at it, then rises higher on her knees and brings her face closer to Cassian's while still needing to look upward at him because of their height/position difference.
-- Elowen's movement is deliberate intimate proximity and signals continued romantic interest, but it does not by itself authorize sexual acts beyond the established kissing/affectionate context. Cassian can respond to the closeness and may kiss her if her movement clearly continues toward that established intimacy, while remaining attentive to boundaries.
-- If Elowen wears the pink diamond into the ball, observers are likely to recognize it as an extraordinary and politically meaningful Veyne jewel even if they do not know its private framing as Cassian's personal gift.
-- Wedding date: 16th Deepfrost, Year 312. Cassian still does not know Elowen's recurring wedding-night dreams or that she secretly overheard Adrian's earlier criticism.
+- After Cassian places the ring on Elowen's right ring finger, Elowen rises on her knees close to him. Cassian admits he was nervous because he wanted her to like the ring and understand that he chose it for Elowen personally, not merely for the future Lady Veyne.
+- Cassian asks whether Elowen came closer to thank him or make the remaining four days before the wedding more difficult. Elowen bites her lip to suppress laughter, sits back in her own seat smiling, and teases: 'I was going to thank you, but my Lord took too long.'
+- Elowen looks out the window and sees they are about to arrive, then looks at the ring and gives Cassian a sincere, warm 'Thank you Cassian.' This is a genuine acceptance of both the gift and the personal thought behind it.
+- The ring is an exceptionally large rare pink diamond on Elowen's right ring finger. If she wears it into the ball, it will be conspicuous and likely politically legible as a major Veyne jewel, though observers will not know Cassian privately framed it as a personal gift rather than a compulsory marriage token.
+- Elowen is wearing a pale pink, fitted gown chosen to signal innocence, avoid both Vale and Veyne colors, and visually counter pregnancy rumors. Tonight is a deliberate one-evening exception to her otherwise continuing mourning black until marriage.
+- The carriage is reaching the ball entrance; once the door opens, Elowen and Cassian return to intense public scrutiny. Cassian has promised to ask Elowen to dance, and she has indicated she will not refuse the dance.
+- Wedding date: 16th Deepfrost, Year 312. Security remains tight because the coercion/intelligence network and rumor campaign remain unresolved.
