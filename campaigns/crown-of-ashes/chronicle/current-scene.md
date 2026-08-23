@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — court ball, ballroom
+- Location: Veyrhold — court ball, ballroom beside Garrick
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is speaking privately with Garrick within the public ballroom after her first appearance since Greyfell/Greyfen. Their conversation has moved from her strategic gown to whether she can be happy in the arranged marriage.
+- Situation: Elowen has finished a difficult father-daughter exchange with Garrick about duty, arranged marriage, Rowan, and the possibility of happiness. Cassian is now approaching as the musicians begin the next dance.
 
 ## Recent beats
-- Elowen tells Garrick she thinks she can learn to be happy with Cassian. Garrick admits Cassian was not the husband he would have imagined for Elowen when she was born; he chose the man he believed politically necessary and expected Elowen to adapt as her mother had taught her.
-- Garrick says he had wondered whether Elowen would ever forgive him for requiring the marriage.
-- Elowen looks directly into Garrick's eyes and answers: 'There is nothing to forgive father. I always understood that was my duty.'
-- Elowen's answer is sincere within her upbringing: she has long understood an arranged dynastic marriage as her duty and does not frame Garrick's act of choosing her husband as a personal betrayal requiring forgiveness. It does not erase the actual power imbalance or the fact that she had no meaningful say in the original agreement.
-- The answer may land painfully/ambiguously for Garrick because it absolves him by invoking the very duty structure that removed Elowen's choice, rather than by saying his choice caused her no pain. Garrick should respond according to his established paternal/dynastic character rather than receiving uncomplicated reassurance.
-- Cassian remains elsewhere in the ballroom and cannot automatically hear this conversation. Garrick still does not know Elowen's secret wish to relinquish Vale's inheritance, Cassian's promise concerning a future Vale child, or the private meaning of the pink-diamond gift.
+- Garrick tells Elowen he would make the politically necessary decision to arrange her marriage again, but recognizes the cost of raising a daughter who never expected to be asked. He tells her not to mistake misery for loyalty to Rowan and not to apologize if she finds happiness with Cassian.
+- Garrick observes that Cassian has escaped the nobles who intercepted him and is approaching them as the next dance begins.
+- Elowen turns toward Cassian and waits beside Garrick rather than moving out to meet him. Her posture/behavior becomes dutiful beside her father, consistent with her ingrained deference in Garrick's immediate presence.
+- This creates a visible contrast Cassian can observe: Elowen was relaxed and socially independent elsewhere in the ballroom, but standing beside Garrick she becomes more formal and contained. Cassian can notice surface behavior but cannot know the private content of their conversation unless told.
+- Cassian has promised to ask Elowen to dance and is now approaching at an opportune moment as the musicians start a new set. Elowen has privately told him she would not refuse the dance, though he has preserved her actual choice.
+- Garrick still does not know Elowen's secret wish to relinquish Vale's inheritance, Cassian's promise concerning a future Vale child, or Daphne's plan to sound out Georgia.
 - Wedding date: 16th Deepfrost, four days away.
