@@ -3,13 +3,13 @@
 - Location: Veyrhold — inside the Veyne carriage, returning home from the court ball
 - Time: late evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are privately debriefing after the ball, discussing Garrick's questions about Elowen's happiness and whether Garrick needed her forgiveness for arranging the marriage.
+- Situation: Elowen and Cassian are privately debriefing after the ball. Elowen has directly admitted to Cassian that she is presently happy but cannot admit that happiness to Garrick.
 
 ## Recent beats
-- Cassian explicitly refuses to use Elowen's present desire/happiness to retroactively erase the fact that she lacked meaningful choice when the marriage agreement was made. He says the men who made those decisions still bear responsibility.
-- Cassian asks what Elowen told Garrick when he asked whether she was happy.
-- Elowen answers: 'I told him I believed I could be. My answers weren’t lies, but I don’t think I can admit to him I am happy.'
-- This is Elowen's first direct admission to Cassian that she presently considers herself happy in relation to their developing life/marriage, even though she cannot yet say that to Garrick. Her earlier statement to Garrick ('I think I can learn to be') was truthful but deliberately incomplete.
-- The difficulty admitting happiness to Garrick plausibly involves Rowan's death, Cassian being Rowan's killer, ingrained filial deference, and the emotional contradiction of finding happiness in a marriage born from Greyfell's violence; Cassian may recognize these pressures but must not dictate which motive Elowen means unless she elaborates.
-- Cassian should receive the admission without converting it into blanket consent, absolution, or proof the original arrangement was harmless. Their structural power imbalance remains real.
+- Cassian asks whether Elowen's difficulty admitting happiness comes from Rowan, Garrick, or the fear that happiness with Cassian might seem to erase Greyfell, while explicitly leaving her free to define the reason herself.
+- Elowen answers that admitting happiness feels like a betrayal. Rowan is part of it, but so is Cassian's support for Elowen's desire not to remain Vale's heir.
+- Elowen explains that being Vale's heir was Rowan's choice and his wishes: Rowan wanted/accepted the role that became Elowen's after his death. Part of Elowen's current happiness comes from Cassian supporting her effort to escape that inherited role.
+- The emotional conflict is therefore layered: Elowen can feel as though she benefits from Rowan's death by gaining both Cassian/the marriage and a path away from the Vale succession, even though she never wanted Rowan dead and did not choose the circumstances that transferred the inheritance to her.
+- Cassian must not tell Elowen that Rowan's wishes automatically bind or do not bind her as an objective moral fact; he can distinguish Rowan choosing the role for himself from Elowen being required to choose it, and he can own his responsibility for killing Rowan without using Elowen's relief/happiness to justify Greyfell.
+- Cassian's promise remains: if Garrick has another child, Cassian will support recognizing that child as Vale's heir regardless of sex, relieving Elowen if politically achievable. Garrick does not know this plan.
 - The pink diamond remains on Elowen's right ring finger. Wedding date: 16th Deepfrost, four days away.
