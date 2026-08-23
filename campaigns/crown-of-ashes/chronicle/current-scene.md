@@ -1,17 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Vale House, Garrick's private study
+- Location: Veyrhold — Vale House, entrance hall / preparing to depart for Veyne House
 - Time: late morning, 13th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged, major relationship conflict beginning
-- Situation: Elowen is alone with Garrick after learning Cassian invoked broad emergency protective authority under the marriage articles without consulting her. Garrick has asked whether, given that revelation, she still wants to marry Cassian.
+- Scene significance: charged, major relationship conflict active
+- Situation: Elowen has left Garrick's private study after learning Cassian invoked broad emergency protective authority over her movements without consulting her. Cassian is waiting downstairs and immediately recognizes that something is wrong.
 
 ## Recent beats
-- Garrick reveals Oren had sent an earlier ordinary letter four days ago requesting an audience about Vale's position after Elowen's marriage. Garrick refused. He does not know whether the stolen dispatch was a response to that refusal, only that someone knew Oren was communicating with Vale.
-- Garrick revisits Elowen's statement at the ball that she could learn to be happy and recognizes she answered him in the deferential role of daughter/heir. He acknowledges he arranged the Cassian marriage and never originally offered Elowen a free romantic choice.
-- Garrick asks Elowen privately, with Cassian outside, whether she still wants to marry Cassian.
-- Elowen sighs, stands, and answers: 'Father, you chose Cassian Veyne. You never asked me if I wanted to marry him. I will not feed those rumours, those lies, but calling off the wedding now. I will do my duty. The rest is between me and Cassian.'
-- Elowen therefore does not give Garrick a romantic yes/no answer. She affirms that she will proceed with the wedding, partly because cancelling now would feed the prior false sexual-assault/coercion rumours and because she regards the marriage as her duty. She explicitly claims the dispute over Cassian's unilateral emergency order as a matter between herself and Cassian rather than inviting Garrick to intervene for her.
-- Garrick knows the prior rumor falsely alleged Cassian sexually assaulted Elowen and the marriage concealed dishonor; Elowen unequivocally denied it, and Garrick believes her. He should understand the reputational consequences she invokes.
-- Garrick may recognize that Elowen is refusing both to let him undo his own choice now and to use him as leverage against Cassian. He should not pressure her to confess private feelings he does not know.
-- Cassian's emergency order remains active: outside Veyne-controlled property, Elowen's movement requires his authorization or his appointed security escort; Veyne officers may remove her without waiting for consent if intelligence indicates immediate threat. Cassian has not yet explained or defended the decision to Elowen directly.
+- Elowen tells Garrick she will proceed with the wedding because he chose Cassian, she will not feed the false coercion/assault rumours by cancelling now, and she will do her duty. She explicitly says the rest is between herself and Cassian, refusing to recruit Garrick into their dispute.
+- Garrick acknowledges he chose the match and did not originally offer Elowen a free romantic choice. He says he asked whether she still wanted the marriage because he wanted there to be one room where she was asked. He accepts her decision to handle Cassian herself.
+- Downstairs, Cassian begins to ask how the conversation went. Elowen walks past him and says only 'Carriage,' then reminds him as 'my lord' that he promised to return her for her wedding-dress fitting. Cassian recognizes the formal address as a warning and follows.
+- Elowen remains silent and visibly stews, then confronts Cassian directly: 'when were you going to tell me? Before or after the wedding? That i must seek your approval to leave the house?'
+- Cassian now knows Garrick disclosed the emergency protection instrument. He should not deny, minimize, or pretend it merely means guards. He deliberately invoked the signed articles after the courier attack because he judged the threat immediate and believed consultation could delay or compromise protection. His method profile supports exploiting law/precedent and using coercive protective power when strategically useful.
+- The key conflict is not whether danger exists—it does—but whether Cassian had the right to decide for Elowen and conceal/delay disclosure after recently promising partnership. Cassian should defend the necessity of the order rather than instantly capitulating. His greater structural/legal/military power must remain real.
+- Exact order: while active, Elowen's movements outside Veyne-controlled property require Cassian's authorization or a security escort appointed by him; if Veyne intelligence indicates an immediate threat, his officers may remove her from any location, including Vale House, without waiting for her consent. The order is legally grounded in the signed marriage articles and remains active until Cassian formally releases it.
 - Elowen intends to return to Veyne House by afternoon for her first wedding-dress fitting. Wedding date: 16th Deepfrost, three days away.
