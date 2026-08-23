@@ -3,12 +3,12 @@
 - Location: Veyrhold — court ball, near tall windows with Lady Fiona's social group
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has deliberately chosen to approach Lady Fiona immediately after Cassian correctly inferred that Fiona was the woman Elowen had once felt jealous watching dance with him.
+- Situation: Elowen is deliberately socializing with Lady Fiona while Cassian stands beside her, shortly after Cassian correctly inferred that Fiona was the woman Elowen had once felt jealous watching dance with him.
 
 ## Recent beats
-- Elowen approaches Fiona on Cassian's arm, wearing Cassian's conspicuous pink Veyne diamond. Cassian privately jokes that Elowen seems to be choosing violence but agrees to follow her lead and does not dominate the encounter.
-- Fiona greets both Cassian and Elowen with polished propriety and waits for Elowen to speak. No deeper romantic/sexual history between Fiona and Cassian is established and must not be invented.
-- Elowen greets Fiona pleasantly: 'It is good to see you. We are fortunate so many families are still in the capital. The balls would be a bore otherwise.' Her words are socially conventional and non-hostile on their face despite Elowen's earlier devilish choice to seek Fiona out.
-- Fiona can respond to the social topic, Elowen's return to public life, the unusually crowded capital due to succession politics, or the upcoming wedding. She may notice the ring/gown/Cassian-Elowen ease but should not presume private meanings.
-- Elowen's actual jealousy remains private; she has not admitted it to Fiona or Cassian. Cassian can observe Elowen's tone and behavior but cannot infer more than the known prior jealousy clue.
-- Wedding date: 16th Deepfrost, four days away.
+- Fiona recognizes Elowen's enormous ring as the famous/recognizable Veyne pink diamond and notes that it is not a casual piece of jewelry. She calls it magnificent without prying into its private meaning.
+- Elowen smiles and replies, 'I think so too,' openly affirming that she likes Cassian's gift.
+- Elowen then redirects attention to Fiona with a gracious compliment: 'Though I have always admired your earrings. They go so well with your complexion.' The compliment is socially warm and can be sincere despite Elowen's private jealousy; do not turn it into covert hostility unless Elowen makes it so.
+- Fiona can receive the compliment naturally and may discuss the earrings/their provenance or return a compliment. Cassian should not treat two women's jewelry conversation as inherently competitive or intervene unnecessarily.
+- Elowen's jealousy remains private. Fiona has shown ordinary social familiarity with Cassian but no established romantic/sexual history; do not invent one.
+- The structural power imbalance between Cassian and Elowen remains real even amid growing mutual affection and public ease. Wedding date: 16th Deepfrost, four days away.
