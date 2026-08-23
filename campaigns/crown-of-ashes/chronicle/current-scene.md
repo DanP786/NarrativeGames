@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, Cassian's improvised overnight command room
 - Time: morning, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Captain Rell has confirmed Garrick personally received the warning about Oren's intercepted courier and has brought back a sealed folded paper from Garrick specifically for Elowen.
+- Situation: Elowen and Cassian are alone after Captain Rell delivers a sealed note from Garrick confirming he personally received warning of Oren's intercepted courier. Elowen opens Garrick's note and reads it aloud to Cassian.
 
 ## Recent beats
-- Elowen initially does not take Garrick's message and looks to Cassian. Cassian has Rell confirm chain of custody and the intact seal, then tells Elowen the message appears secure.
-- Cassian refuses to decide for Elowen whether to open a private message addressed to her, offering to read it only with permission or have it kept safe if she does not want it opened.
-- Elowen rolls her eyes at Cassian and then takes the message from Rell herself.
-- The message remains sealed/unread at this exact beat; do not invent its contents until Elowen opens/reads it or directs someone else to do so.
-- Garrick wrote, folded, and sealed the note himself in front of the Veyne messenger; it remained in that messenger's possession from Vale House to Veyne House, and the seal is intact.
+- Elowen rolls her eyes at Cassian's overcareful autonomy framing, explaining she looked to him because a royal message has already been stolen and she wanted to know whether Garrick's note was safe. Cassian accepts the correction.
+- Garrick's note was written, folded, and sealed by Garrick personally in front of the Veyne messenger; chain of custody remained intact and the seal arrived unbroken.
+- Elowen breaks the seal herself and chooses to read the letter aloud to Cassian, voluntarily sharing a message addressed privately to her.
+- New canon established in Garrick's note: Garrick confirms he received Cassian's warning and that no dispatch from Oren reached Vale House. He tells Elowen he is safe, instructs her not to come to Vale House merely from fear, and asks her to remain under Veyne security for now. He also asks to speak with Elowen privately later that day if security permits, without Cassian present, and says the request concerns the previous night's conversation as well as the present danger. Garrick does not claim to know the stolen dispatch's contents or attackers.
+- Garrick's voice remains measured/formal, dynastically minded and protective. His extreme resentment toward Cassian remains, despite accepting the marriage strategically.
 - The stolen Oren dispatch remains missing; attackers and contents unknown. The wounded courier remains under treatment/guard.
 - Elowen wears a pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
