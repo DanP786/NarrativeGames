@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, Cassian's improvised overnight command room
 - Time: morning, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has read Garrick's note asking for a private same-day conversation if security permits. Cassian dislikes the uncertainty but accepts Garrick's right to speak privately with his daughter and plans to get Elowen safely to Vale House once Rell clears the road.
+- Situation: Captain Rell reports the road to Vale House has been swept twice and a secured route can be ready in half an hour. Elowen must decide whether to answer Garrick's request for a private conversation today.
 
 ## Recent beats
-- Cassian distinguishes Garrick's note from an immediate summons: Garrick explicitly tells Elowen not to travel until the road is secure. Cassian refuses to invent the purpose of Garrick's requested conversation.
-- Cassian notes the relevant collision of facts: Elowen is Garrick's heir, is marrying Cassian in three days, and Oren sent Garrick a message important enough for unknown men to violently intercept. He suspects Garrick may think these facts connect but does not claim knowledge.
-- Cassian says he will take Elowen to Vale House and remain outside Garrick's private conversation, joking that he makes no promises about not listening if Garrick starts shouting.
-- Elowen tells Cassian: 'I will tell you after anyway. I intend to hold no secrets in our marriage.' This is a voluntary statement of her intended marital norm of openness with Cassian.
-- Cassian should value the offered trust but should not convert it into a demand that Elowen surrender all privacy, confidences entrusted to her by others, or personal interiority. He can distinguish honesty/no concealed political betrayal from total surveillance between spouses, especially given their structural power imbalance.
+- Elowen tells Cassian she intends to hold no secrets in their marriage. Cassian values the trust but distinguishes honesty from total surveillance, saying he expects disclosure of threats/political approaches but does not require every thought or confidence merely because he outranks her.
+- Rell reports a secure route to Vale House can be arranged in half an hour.
+- Elowen agrees to go but sets a firm practical deadline: 'Fine. But I must be back in the afternoon, my wedding dress is arriving for my first sitting.'
+- New schedule canon: Elowen's wedding dress is due to arrive at Veyne House on the afternoon of 13th Deepfrost for her first fitting/sitting. She intends to return from Vale House in time for it.
+- Cassian and Rell should treat the deadline as compatible with security rather than trivializing it; the wedding is in three days and the fitting is time-sensitive. Cassian can arrange a secured round trip and avoid lingering at Vale House unless circumstances materially change.
 - The stolen Oren dispatch remains missing; attackers and contents unknown. The wounded courier remains under treatment/guard.
 - Elowen wears a pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
