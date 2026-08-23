@@ -1,13 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — court ball, dance floor
+- Location: Veyrhold — court ball, leaving the dance floor
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are sharing their first established dance before the watching court, privately teasing each other while Elowen is visibly relaxed and enjoying herself.
+- Situation: Elowen and Cassian have completed their first established dance, visibly relaxed and mutually engaged before the court, substantially undermining rumors that Elowen fears or avoids him.
 
 ## Recent beats
-- Cassian says he first specifically wanted to dance with Elowen at Greyfell before Rowan's death, but did not ask because he believed she would accept only to avoid causing a scene; he wanted her to want him to ask. He also admits he later watched her dance with other men and sometimes wished he were holding her instead.
-- Cassian then claims Elowen looked jealous a moment earlier and asks whom she was thinking about. Elowen pushes back: 'You can’t possibly know I looked jealous.'
-- Cassian cannot know Elowen's private thought about Lady Fiona. At most he can infer jealousy from observable facial/body changes and their prior established pattern: he has previously told Elowen she becomes suspicious when jealous. His inference can be confident but must remain an inference, not telepathic certainty.
-- Elowen's actual private jealousy concerns remembering Lady Fiona dancing with Cassian after Elowen herself told him to dance with Fiona; Elowen realizes she had wanted Cassian to ask her instead.
-- Garrick and other observers cannot hear their quiet conversation. Wedding date: 16th Deepfrost, four days away.
+- Cassian infers from Elowen's visible reaction that she was thinking jealously about a woman he had danced with, but he does not know the woman is Lady Fiona. Elowen refuses to identify her, answering 'Absolutely not.'
+- The dance ends immediately after the exchange. Cassian offers Elowen his arm; Elowen voluntarily takes it and follows where he leads away from the dance floor.
+- Elowen's actual private jealousy remains tied to Lady Fiona: Elowen had once told Cassian to dance with Fiona but secretly wanted him to ask Elowen instead. This remains undisclosed to Cassian.
+- Their public first dance included genuine laughter, easy conversation, and Elowen's willing acceptance, creating useful optics against coercion rumors without being staged affection.
+- Cassian may choose their next destination within the ballroom (refreshments, another social cluster, a quieter edge, Garrick, etc.) based on plausible immediate circumstances, but should not presume Elowen has surrendered broader social autonomy simply because she follows his offered arm.
+- Elowen's pale pink fitted gown and conspicuous pink Veyne diamond remain visible. Wedding date: 16th Deepfrost, four days away.
