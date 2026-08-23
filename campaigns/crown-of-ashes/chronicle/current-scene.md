@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — court ball, ballroom
+- Location: Veyrhold — court ball, edge of ballroom near musicians
 - Time: evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen has entered her first public ball since Greyfell/Greyfen on Cassian's arm and is presenting her familiar relaxed social self. A close female friend intercepts her before she can greet Garrick and insists they need to speak alone.
+- Situation: Elowen has freely left Cassian's side with a close female friend, publicly demonstrating independent movement. In a relatively private conversation near the musicians, the friend directly asks whether Elowen truly wants the marriage.
 
 ## Recent beats
-- Elowen introduces her friend to Cassian herself. The friend openly studies the pair and is startled by Elowen's enormous pink Veyne diamond, their easy interaction, and Cassian's genuine laughter, all of which conflict with circulating coercion/captivity rumors.
-- The friend tells Elowen they need to speak alone and candidly admits Cassian's presence is inconvenient. Cassian accepts the social dismissal with amusement rather than asserting control over Elowen.
-- Elowen voluntarily slips her arm from Cassian's, offers her hand to her friend, and teases: 'take me for interrogation my lady.' This publicly demonstrates that Elowen can leave Cassian's side freely and socialize independently.
-- Cassian should let Elowen go without resistance or instruction. He may make a dry parting remark but does not follow or supervise the private conversation. Garrick remains present elsewhere in the ballroom, so Elowen's greeting with him is delayed.
-- The friend's exact identity/name remains unestablished in loaded canon; do not invent a pre-existing name unless read from an authoritative file or introduced by the player. The friend can ask about observable/public events and rumors but has no automatic knowledge of Elowen and Cassian's private kisses, dreams, or the ring's private meaning.
-- Elowen's pale pink fitted gown and visible right-hand pink diamond remain central public optics. Wedding date: 16th Deepfrost, Year 312. Cassian has promised to ask Elowen to dance later.
+- The friend says she has heard conflicting accounts of Greyfell, Elowen's residence at House Veyne, and a particularly ugly version of why Elowen is marrying Cassian. She explicitly tells Elowen she does not have to protect anyone with her.
+- Asked 'Do you want this marriage?', Elowen answers without qualification: 'I do. I really do,' and smiles.
+- This is Elowen's first clear private statement to a trusted friend that she genuinely wants the marriage despite its arranged/political origins and the profound power imbalance surrounding its negotiation. It does not rewrite the fact that Elowen had no meaningful say in the original dynastic agreement; it establishes her present desire to proceed.
+- The friend can assess Elowen's visible warmth and lack of hesitation and may believe her while still asking how that change happened, whether Cassian has treated her well, what occurred at Greyfell, or whether the rumors of coercion are false.
+- Cassian is elsewhere in the ballroom speaking with nobles and cannot hear this conversation over the musicians. He does not automatically learn Elowen's statement.
+- Garrick remains present and has not yet been greeted by Elowen. The pink diamond remains visible on Elowen's right ring finger. Wedding date: 16th Deepfrost, Year 312.
