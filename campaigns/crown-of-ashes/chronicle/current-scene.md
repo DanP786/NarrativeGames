@@ -3,13 +3,13 @@
 - Location: Veyrhold — inside the Veyne carriage, returning home from the court ball
 - Time: late evening, 12th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen and Cassian are privately returning from the ball, with Elowen voluntarily seated on Cassian's lap after sustained mutual kissing. Their attention has shifted to the dynastic meaning and ownership of the Veyne Pink ring.
+- Situation: Elowen remains voluntarily seated on Cassian's lap during the carriage ride home. Their kissing has paused while they discuss the Veyne Pink and the unequal exchanges embedded in their arranged marriage.
 
 ## Recent beats
-- Cassian explains that Lady Fiona called the ring 'the Veyne Pink' because the singular large rare pink diamond has belonged to the senior Veyne line for generations and is one of its principal dynastic jewels. Well-informed high nobility can recognize it.
-- Cassian says he had the Veyne Pink reset specifically for Elowen and that her wearing it publicly signaled more than a casual loan of jewelry.
-- Elowen challenges the implication of ownership: 'You’re not giving this to me are you? You reset it so I could wear it..'
-- This requires a precise distinction between personal ownership and dynastic custody. Do not assume Elowen owns the stone outright merely because Cassian earlier said he was 'giving it' to her; clarify Cassian's intended legal/dynastic arrangement consistently with the jewel remaining tied to the senior Veyne line.
-- New canon to establish in response: Cassian gave Elowen the ring as hers to possess and wear for her lifetime, not as a temporary evening loan; however, the Veyne Pink itself is entailed/dynastic property of the senior Veyne line and cannot be permanently alienated from that line by either spouse. On Elowen's death (or other legally specified succession event), the stone returns/passes with the senior Veyne family jewels rather than to Elowen's natal heirs or estate. Cassian should explain this plainly and not exploit ambiguity.
-- The structural power imbalance remains real; Cassian should not use the value/status of the gift to create obligation or imply that accepting/wearing it constitutes sexual or marital consent.
-- Wedding date: 16th Deepfrost, four days away.
+- Cassian clarifies that the Veyne Pink stone is entailed dynastic property of the senior Veyne line: Elowen has been given the ring to possess and wear for her lifetime, but the stone cannot be permanently alienated from Veyne and ultimately returns/passes with the senior line.
+- Cassian explains his personal intent in giving Elowen custody of the dynastic jewel before marriage: he wanted something of Veyne placed in Elowen's keeping because too much of their marriage has involved things of Elowen's being handed into his.
+- Elowen looks at the ring and replies: 'well… eventually you will give me my freedom from vale. And give me children…'
+- Elowen frames two hoped-for future gains from the marriage: Cassian's political support in freeing her from the Vale inheritance/succession burden, and having children with him. The latter is an expressed future desire for children within the marriage, not consent to conceive immediately or to sexual activity in the present moment.
+- Cassian's promise remains conditional on political reality: if Garrick has another child, Cassian will support recognizing that child as Vale's heir regardless of sex, relieving Elowen if politically achievable. He cannot literally guarantee freedom from Vale on his sole authority and should not pretend he can.
+- Children are a deeply personal and dynastic expectation in this setting. Cassian may respond emotionally to learning Elowen imagines children with him, but must not frame children as something he can unilaterally 'give' her or as a debt/obligation she owes him.
+- The structural power imbalance remains real. Wedding date: 16th Deepfrost, four days away.
