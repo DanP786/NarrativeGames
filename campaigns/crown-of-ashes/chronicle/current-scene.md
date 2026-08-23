@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, Cassian's improvised overnight command room
 - Time: morning, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged
-- Situation: Elowen is caring for an exhausted Cassian after his sleepless night coordinating the response to the stolen Oren dispatch. His old wound is sore but intact and he has eaten under her insistence.
+- Situation: Elowen and Cassian's intimate conversation is interrupted by Captain Rell returning with confirmation from Vale House. Garrick personally received the warning about Oren's intercepted courier and has sent a folded paper back specifically for Elowen.
 
 ## Recent beats
-- Elowen tells Cassian she wants to remind him that he matters more than political documents. When Cassian says he has spent his adult life being valuable for what he can do for Veyne, Elowen tells him: 'And I need Cassian.'
-- Cassian admits he knows what to do with enemies and allies but is much less certain what to do with someone who simply wants him personally rather than as lord/claimant.
-- Elowen places her free hand beneath/on Cassian's chin, tilts his face up toward hers, and tells him: 'you have the rest of your life to learn.'
-- This is a strong voluntary statement of Elowen imagining a lifelong future with Cassian, three days before their wedding. It is emotionally intimate and personally chosen, while not erasing the arranged marriage's unequal origins.
-- Cassian is ruthlessly self-possessed and unused to being valued apart from political utility; the statement can deeply affect him without instantly dissolving his established restraint or political character.
-- The stolen Oren dispatch remains missing; attackers and contents unknown. Garrick was warned, Cassian seeks confirmation the warning reached him personally, and the wounded courier remains under treatment/guard.
+- Elowen tells Cassian he has the rest of his life to learn what to do with someone who wants him personally, clarifying she means their shared future rather than merely the marriage articles. Cassian quietly says he would like the rest of his life with her.
+- Captain Rell arrives with confirmation that Garrick received Cassian's warning and says Garrick sent a folded paper back 'for Lady Elowen.'
+- Elowen looks to Cassian and does not take the paper. Her hesitation is observable; do not state her internal reason unless she explains it.
+- The paper is addressed/sent specifically to Elowen, so Cassian should not simply open or seize it. Given the active security threat and stolen dispatch, he can understand caution and offer to inspect the exterior/seal or have Rell verify chain of custody, but Elowen retains the choice whether to read a private message from Garrick or ask Cassian to read it.
+- Do not invent the note's contents until Elowen accepts/opens it or explicitly asks another character to do so. Garrick's exact message remains unknown at this beat.
+- The stolen Oren dispatch remains missing; attackers and contents unknown. The wounded courier remains under treatment/guard.
 - Elowen wears a pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
