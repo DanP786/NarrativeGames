@@ -1,14 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Cassian's private bedchamber
-- Time: middle of the night, 15th–16th Deepfrost, Year 312 of the Crown
-- Scene significance: charged intimate/security aftermath
-- Situation: Elowen is sleeping in Cassian's secured bedchamber after a dagger was planted through her own pillow. She wakes suddenly in the middle of the night from a nightmare.
+- Location: Veyrhold — Veyne House, doorway of Cassian's private suite
+- Time: approximately 2:00 a.m., 16th Deepfrost, Year 312 of the Crown
+- Scene significance: charged intimate/security aftermath on wedding day
+- Situation: Elowen woke from a nightmare in Cassian's bed, slipped out without waking Didi, and opened the guarded suite door to ask whether Cassian is still awake.
 
 ## Recent beats
-- Cassian's suite was searched and secured. Didi sleeps/rests in the adjoining dressing room with the connecting door slightly open; vetted guards Renn and Tal are posted outside. Cassian remained elsewhere directing the investigation and had promised Elowen he would eventually sleep for several hours once the house was stabilized.
-- Elowen noticed Cassian's familiar scent in his bedding when she went to sleep, an intimate reminder of him while he was absent.
-- Player establishes that Elowen wakes in the middle of the night from a nightmare. Do not overdetermine the exact dream content unless useful; it can be fragmented around the dagger/abduction/Greyfen but the player's internal experience should remain hers.
-- On waking, immediate observable/sensory facts: dark unfamiliar room, Cassian's bed, likely momentary disorientation, guards outside, Didi nearby. Do not automatically summon Cassian or have him present unless investigation/sleep location establishes it through subsequent action.
-- Security breach investigation remains unresolved; culprit/access route are unknown. Relationship conflict with Cassian remains unresolved.
-- The calendar has crossed into 16th Deepfrost: it is now technically Elowen and Cassian's wedding day.
+- Elowen woke suddenly from a nightmare around 2 a.m., momentarily disoriented in Cassian's dark room. The dream left fragmented impressions of a door, footsteps, steel in white linen, and someone already inside.
+- Didi remains in the adjoining dressing room with the connecting door partly open; vetted guards Renn and Tal are posted outside the suite.
+- Elowen slips out of bed and opens the main door. Her sudden appearance startles the guard on watch.
+- Elowen asks: 'is Lord Veyne still awake?'
+- Need to answer based on established situation: Cassian promised to sleep once the house was stabilized, but no subsequent fact has established whether he actually did or where. The guard can truthfully report the latest known status without omniscience—e.g. Cassian was still in his office/investigation recently, or offer to find out/send word. Do not assert exact unseen activity unless established through guard knowledge.
+- Given active security, guard should not let Elowen wander the corridors alone in a nightdress. If she wants Cassian, he can send for him or escort her under guard.
+- Elowen's reason for seeking Cassian is not spoken; guard cannot infer nightmare unless her appearance visibly suggests distress.
+- Security breach culprit/access route remain unresolved. It is now Elowen and Cassian's wedding day.
