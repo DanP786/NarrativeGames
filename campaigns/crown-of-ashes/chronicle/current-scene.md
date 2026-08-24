@@ -1,17 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — inside the secured Veyne carriage returning from Vale House to Veyne House
-- Time: around midday, 13th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged, major relationship conflict
-- Situation: Elowen has left Garrick's private meeting after learning Cassian invoked broad emergency protective authority without consulting her. She and Cassian are now alone in the carriage returning for her afternoon wedding-dress fitting.
+- Location: Veyrhold — Veyne House, arriving from Vale House / wedding fitting imminent
+- Time: early afternoon, 13th of Deepfrost, Year 312 of the Crown
+- Scene significance: charged, unresolved major relationship conflict
+- Situation: Elowen and Cassian have returned from Vale House after their first serious rupture over his unilateral emergency protection order. Elowen's first wedding-dress fitting is due this afternoon.
 
 ## Recent beats
-- Elowen tells Garrick he chose Cassian and never originally asked whether she wanted to marry him. She refuses to call off the wedding and thereby feed the false sexual-assault/coercion rumors, says she will do her duty, and declares the dispute with Cassian to be between herself and Cassian.
-- Garrick accepts responsibility for choosing the marriage and says he asked whether she still wanted it because he wanted there to be one room in Veyrhold where she was asked. Elowen maintains she will marry Cassian.
-- On rejoining Cassian, Elowen is coldly formal, says only 'Carriage,' and reminds him he promised to return her for the fitting. Cassian recognizes the change and follows without forcing the conversation in Vale House.
-- In the carriage Elowen remains silent and stews before confronting him directly: 'when were you going to tell me? Before or after the wedding? That i must seek your approval to leave the house?'
-- Cassian's emergency order remains active under the signed marriage articles: outside Veyne-controlled property, Elowen's movement requires his authorization or a security escort appointed by him; Veyne officers may remove her from any location without waiting for consent if intelligence indicates an immediate threat. Cassian invoked it after the royal courier attack and before the Vale trip, without consulting or informing Elowen.
-- Important nuance for Cassian's response: Elowen's phrasing 'approval to leave the house' is broader than the technical order, which governs movement outside Veyne-controlled property and allows travel under his authorized escort; however, the practical power imbalance is real and he must not hide behind semantic correction. He made the consequential decision unilaterally and deliberately. His reasons are security and claim preservation amid an active threat, but those reasons do not erase the betrayal of their recent partnership promises.
-- Cassian should answer the timing question plainly. A strong conflict path is that he intended to tell Elowen after the Vale visit/once she was back behind Veyne security, because he feared she would refuse or alter plans if told beforehand. This makes his paternalism explicit: he knowingly prioritized control/protection over her informed choice.
-- Do not resolve this conflict quickly with apology alone. Cassian can regret the concealment while still defending the underlying authority/order, creating genuine friction over structural power.
-- Elowen wears a white fur cloak over her pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
+- In the carriage Elowen confronts Cassian about invoking emergency protective authority without consulting or informing her. Cassian admits plainly he intended to tell her only after returning to Veyne House because he feared she might refuse the escort and he was not prepared to allow that.
+- Cassian acknowledges he exercised authority over Elowen without her consent and knowingly did so anyway. He distinguishes ordinary partnership/policy from immediate security: when he judges there is credible danger of Elowen being killed or seized, he says there are decisions he will make even over her objection. He apologizes for concealing the order but not for making it.
+- Elowen identifies the core power imbalance: she may have a voice, but when Cassian decides something is dangerous enough, his voice wins. Cassian ultimately answers yes rather than softening the truth.
+- Elowen clenches her jaw, turns to look out the carriage window, and refuses to speak for the remainder of the journey. Cassian should respect the silence rather than forcing reconciliation or touching her without invitation.
+- The conflict is unresolved. Do not erase it through quick apology, romance, or the wedding-dress fitting. Cassian still believes the emergency order is justified; Elowen has genuine reason to feel betrayed and controlled.
+- On arrival, security remains heightened and Cassian's order remains active. He can help her down from the carriage by offering his hand as convention requires, but whether Elowen takes it is her choice.
+- Elowen wears a white fur cloak over her pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away. Her first wedding-dress fitting is scheduled for this afternoon.
