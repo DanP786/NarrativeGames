@@ -3,15 +3,14 @@
 - Location: Veyrhold — Veyne House, west drawing room
 - Time: early evening, 15th of Deepfrost, Year 312 of the Crown
 - Scene significance: climactic security breach on wedding eve
-- Situation: After discovering a dagger stabbed through her pillow, Elowen has complied with Cassian's immediate order and allowed guards to escort her to the west drawing room, an interior room chosen for easier defense while Veyne House is sealed and searched.
+- Situation: Elowen is secured in the west drawing room after finding a dagger stabbed through her pillow. Cassian has inspected the room and begun the internal investigation.
 
 ## Recent beats
-- Elowen found a dagger deliberately stabbed into her pillow in her private bedchamber. She did not touch it, immediately backed out, and alerted the guards.
-- Guards sealed the corridor and summoned Cassian. Cassian arrived armed, confirmed Elowen was physically unharmed, ordered the floor and entire house sealed, barred servants/guests/officers from leaving, demanded a list of everyone who entered the wing since dawn, and ordered the dagger left untouched until he inspects it.
-- Cassian orders Elowen taken to the west drawing room: an interior room with one entrance and no ground-level windows. His tone is command, not request.
-- Player-established internal state: Elowen's stomach knots, but she allows the guards to escort her downstairs. This is immediate crisis compliance rather than resolution of the broader power conflict.
-- Guards should remain very close now rather than discreetly trailing; the threat has demonstrably penetrated Elowen's private rooms. The house is in lockdown and servants/guests may be stopped and questioned.
-- Cassian remains at/near the compromised bedchamber initially to inspect the scene and direct investigation. He should become more controlling in the immediate crisis, consistent with established character, but the breach also demonstrates that his own security perimeter failed.
-- Do not yet invent culprit, access route, dagger provenance, or message unless established through investigation. Preserve uncertainty.
-- Elowen still has her jewelry on, including the Veyne Pink, because she discovered the dagger as she was about to remove it.
-- Wedding date: 16th Deepfrost, tomorrow.
+- Elowen complied with Cassian's crisis order and was escorted downstairs under close guard. Veyne House is now locked down; servants, guests and officers are being stopped/questioned and nobody may leave.
+- Cassian tells Elowen the dagger is neither his nor standard Veyne household-guard issue. Her bedroom window was latched from inside, strongly focusing attention on interior access through the household rather than an obvious window entry.
+- Cassian states someone in the house had access to Elowen's rooms. No culprit/access route has yet been established.
+- Elowen replies: 'I was out of my rooms for hours.' This materially widens the possible placement window: she spent much of the day wandering Veyne House after the bathhouse outing was cancelled before returning to her rooms in late afternoon, then later entered the bedchamber to remove jewelry and discovered the dagger.
+- Important nuance: guards followed Elowen while she moved through the house, meaning the outer door to her private suite may not have had the same continuous fixed post while she was absent unless investigation establishes otherwise. Do not falsely claim guards watched the door continuously all day. Establish guard rotations/posts through questioning.
+- Investigation priorities: exact last time Didi/servants legitimately entered the bedchamber; whether rooms were cleaned/turned down and when; who held keys/access; guard rotations and whether posts moved with Elowen; service passages/secondary interior access; any disturbed objects; provenance/features of dagger. Do not invent culprit or route yet.
+- Cassian should take Elowen's observation seriously. In crisis he remains commanding, but he should not use this moment for relationship reconciliation or smug validation of the prior order; his own household security has plainly failed.
+- Elowen still wears her jewelry including the Veyne Pink. Wedding date: 16th Deepfrost, tomorrow.
