@@ -3,13 +3,14 @@
 - Location: Veyrhold — Veyne House, west drawing room
 - Time: early evening, 15th of Deepfrost, Year 312 of the Crown
 - Scene significance: climactic security breach on wedding eve
-- Situation: Elowen is secured in the west drawing room with Cassian while the house is locked down after a dagger was planted through her pillow. Didi has been brought in to establish the last known safe state of the bedchamber.
+- Situation: Elowen is secured with Cassian and Didi while Veyne House remains locked down after a dagger was planted through her pillow. The placement window has been narrowed to after approximately 4 p.m.
 
 ## Recent beats
-- Elowen points out she was away from her rooms for hours while guards followed her around the house, widening the breach window and revealing that her private suite did not necessarily have a continuous fixed exterior post while she was absent.
-- Cassian orders a full accounting of chambermaids, keys, guard rotations, deliveries and everyone entering the relevant floor. He recognizes that his security arrangement protected Elowen's person while potentially leaving her rooms vulnerable and wants to know who knew the pattern.
-- Didi is brought to the west drawing room. Cassian asks when she last saw Elowen's bed. Didi says she turned it down just before four and confirms there was no dagger in the pillow then. This sharply narrows the placement window to after approximately 4 p.m. and before Elowen's discovery in early evening.
-- Elowen tells Didi directly: 'I found one sticking out of one just now,' filling her in on the threat. Didi had not known the nature of the alarm and went pale when asked about a dagger.
-- Didi may react with fear/protectiveness but should remain useful: she can recount whether she locked/closed the rooms when leaving, whom she saw nearby, whether any chambermaid accompanied her, and who ordinarily has keys/access. Do not invent suspicious behavior or culprit without investigation.
-- Cassian remains commanding and focused; he should not turn this into relationship reconciliation or smugly invoke prior arguments. The security breach occurred inside his own house under his protection.
-- Elowen still wears her jewelry including the Veyne Pink. Wedding date: 16th Deepfrost, tomorrow.
+- Didi confirms she turned down Elowen's bed just before four and there was no dagger then. She followed ordinary procedure, leaving the suite unlocked because Elowen was still in the house and servants normally had daytime access.
+- Didi saw no one on Elowen's corridor when she left; she recalls two footmen on the main stairs, a florist's boy heading toward the east gallery, and upper-housekeeper Mistress Pell speaking with a chambermaid near the linen room.
+- Cassian refuses to blame Didi for following established procedure and focuses on who exploited predictable household routine. He orders investigation concentrated on the period from four until the alarm and sends for Mistress Pell.
+- Didi asks where Elowen will sleep. Cassian immediately says not in the compromised bedchamber and states Elowen will not return there until he knows how someone reached it.
+- Elowen asks Cassian directly: 'Then where am I to sleep?'
+- Security logic: Cassian should choose a defensible room within Veyne House whose access he controls, likely close to his own secured suite/guard concentration or another interior guest chamber that can be swept and sealed. Avoid placing Elowen back in her rooms or casually sending her to Vale House while the house is locked down and threat route unknown. Because they are unmarried until tomorrow, putting Elowen in Cassian's own bedchamber would carry strong propriety implications; if he considers it, he must account for Didi/chaperonage and his own sleeping elsewhere.
+- Maintain power dynamic: in immediate crisis Cassian makes the security decision. He may explain it, but should not turn it into a negotiation or ask Elowen to choose among unsafe options.
+- Do not yet reveal culprit/access route. Wedding date: 16th Deepfrost, tomorrow.
