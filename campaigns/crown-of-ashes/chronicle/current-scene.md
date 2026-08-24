@@ -1,15 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, entrance hall / Elowen's fitting rooms next
+- Location: Veyrhold — Veyne House, Elowen's rooms prepared for wedding-dress fitting
 - Time: early afternoon, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged, unresolved major relationship conflict
-- Situation: Elowen and Cassian have returned from Vale House after their rupture over his unilateral emergency protection order. Elowen's first wedding-dress fitting is beginning as dressmakers and cases arrive inside Veyne House.
+- Situation: Elowen has returned from Vale House after the rupture with Cassian over his unilateral emergency protection order. Her first wedding-dress fitting is beginning upstairs while Cassian has withdrawn to his offices.
 
 ## Recent beats
-- Elowen remained completely silent for the rest of the carriage journey after Cassian admitted he knowingly exercised authority over her without consent and still believes the emergency order justified.
-- On arrival Cassian gets down first and silently offers Elowen his hand, leaving her the choice whether to accept the conventional assistance.
-- Elowen takes Cassian's hand to step down but says nothing and immediately walks toward the house. Taking his hand is practical/courteous and must not be treated as reconciliation or forgiveness.
-- Cassian should respect Elowen's silence and not force a private resolution before her fitting. The conflict remains fully active: he regrets concealing the order but not making it; Elowen feels controlled and betrayed by the structural power he exercised.
-- Dressmaker's cases have arrived for Elowen's first wedding-dress fitting this afternoon. This event should proceed even under emotional strain, creating contrast between wedding preparation and the unresolved conflict.
-- Cassian's emergency order remains active. Veyne security is heightened due to the stolen Oren dispatch; attackers and contents remain unknown.
-- Elowen wears a white fur cloak over her pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
+- Elowen took Cassian's offered hand to step down from the carriage but remained silent and immediately walked toward the house; the gesture was practical/courteous, not reconciliation.
+- Cassian recognizes the distance, does not force conversation, and leaves Elowen to the fitting after a formal 'My lady.'
+- Didi notices the tension but does not question Elowen publicly. She offers her arm and says the wedding dress is waiting upstairs.
+- Elowen gives Didi a practiced smile that only Didi would recognize as false/not her genuine smile, then follows her upstairs. Didi may privately recognize Elowen is upset but should not claim knowledge of the cause until told.
+- Dressmakers expect roughly two hours for the first fitting; substantial alterations would need to return to the workroom tonight because the wedding is only three days away.
+- The contrast between elaborate wedding preparation and Elowen's unresolved anger/hurt should remain present. Do not use the beauty of the dress to erase the conflict.
+- Cassian's emergency order remains active. He regrets concealing it but not making it; Elowen feels controlled and betrayed by the structural power he exercised.
+- Elowen currently wears a pale yellow day dress and the Veyne Pink. Wedding date: 16th Deepfrost, three days away.
