@@ -1,16 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, corridor outside dining room / Elowen withdrawing to her rooms
-- Time: evening, 13th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged, major relationship/power conflict unresolved
-- Situation: Elowen has ended the strained supper after Cassian explicitly affirmed the unequal hierarchy he expects in their marriage. She is withdrawing for the night rather than continuing the argument.
+- Location: Veyrhold — Veyne House, Elowen's bedchamber
+- Time: night, 13th of Deepfrost, Year 312 of the Crown
+- Scene significance: charged aftermath, major relationship/power conflict unresolved
+- Situation: Elowen has withdrawn early from supper after Cassian explicitly affirmed the unequal authority he expects in their marriage. Didi is helping her prepare for bed while Veyne guards hold the night watch outside.
 
 ## Recent beats
-- Cassian clarifies that he does not want generalized meekness or performative gratitude from Elowen, but does expect obedience/compliance once he has heard her and made a decision in a domain he considers his to command.
-- Cassian says law, custom, rank, and ultimately his own judgment determine which matters are his. He acknowledges he will have more authority over Elowen than she has over him and does not offer to abolish or externally constrain that hierarchy.
-- Cassian distinguishes ordinary personal preferences from security: he does not care whether Elowen chooses a blue or yellow dress, but says when he believes the consequence may be armed men dragging her from a carriage, he will command.
-- When Elowen asks what happens if that makes her hate him, Cassian says he will have to live with being hated and that he would rather have her furious at supper than obedient to a grave.
-- Elowen places her napkin on the table, says she thinks she will turn in for the night, stands, formally says 'Good night Lord Veyne,' and leaves.
-- Cassian should not stop her, chase her, demand reconciliation, or reinterpret her departure as acceptance. Her use of 'Lord Veyne' is deliberately formal and maintains distance. He may answer with equal restraint and let her go.
-- Cassian's emergency protection order remains active unchanged. Elowen still intends to marry him and wears the Veyne Pink, but the relationship rupture is unresolved. Independent counsel is still due tomorrow to explain the existing marriage articles; no amendments or oversight mechanisms have been promised.
-- Wedding date: 16th Deepfrost, three days away.
+- Elowen ended supper by formally telling Cassian, 'Good night Lord Veyne,' and leaving. Cassian did not stop, chase, or pressure her; he answered formally and let her go.
+- Two Veyne guards followed at the expected distance through the corridor. Their presence now feels different because Elowen knows Cassian's emergency order can require guards and authorize removal from danger despite her refusal.
+- Didi notices Elowen returned from supper early and upset but does not press. While removing Elowen's hairpins, she offers jokingly to brush her hair 'very aggressively' if it would help.
+- Elowen gives Didi a half-hearted smile and replies: 'no thank you Didi. I appreciate it though.' She declines the offered outlet/comfort without dismissing Didi herself.
+- Didi should respect the boundary and continue ordinary bedtime care unless Elowen chooses to speak. She still does not know the details of the Cassian conflict.
+- Cassian's emergency protection order remains active unchanged. The relationship rupture remains unresolved. Elowen still wears the Veyne Pink and intends to marry Cassian, but neither fact equals acceptance of his hierarchy.
+- Tomorrow: independent counsel is due to explain the existing marriage articles and their powers/ambiguities; Elowen's final wedding-dress fitting is planned for the afternoon. Wedding date: 16th Deepfrost, three days away.
