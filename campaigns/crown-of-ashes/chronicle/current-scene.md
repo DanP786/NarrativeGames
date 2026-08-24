@@ -1,15 +1,15 @@
 # Current scene
 
 - Location: Veyrhold — Veyne House, Elowen's bedchamber
-- Time: night, 13th of Deepfrost, Year 312 of the Crown
+- Time: morning, 14th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged aftermath, major relationship/power conflict unresolved
-- Situation: Elowen has withdrawn for the night after the rupture with Cassian. Didi has finished helping her prepare for bed.
+- Situation: Elowen wakes the morning after her first major rupture with Cassian. The Veyne Pink remains locked in her jewel box after she deliberately removed it before bed.
 
 ## Recent beats
-- Didi respects Elowen's refusal to discuss the supper conflict and continues ordinary bedtime care without pressing.
-- After removing Elowen's other jewelry, Didi asks whether Elowen wants the Veyne Pink put away or intends to sleep in it.
-- Elowen slides the Veyne Pink off her finger and hands it to Didi, then says, 'good night Didi.' This is the first time since declaring she intended to wear the ring every day that Elowen deliberately removes it in the context of the conflict. Treat it as an emotionally meaningful private act, not a public repudiation of the betrothal and not proof she has changed her intention to marry Cassian.
-- Didi now has custody of the Veyne Pink for the night and should secure it with Elowen's other jewels. She should not press Elowen for explanation.
-- Cassian does not witness Elowen removing the ring and cannot know she did so unless he later sees her without it or is told.
-- Cassian's emergency protection order remains active unchanged. The relationship rupture remains unresolved.
-- Tomorrow: independent counsel is due to explain the existing marriage articles and their powers/ambiguities; Elowen's final wedding-dress fitting is planned for the afternoon. Wedding date: 16th Deepfrost, three days away.
+- Elowen ended the previous night's supper early after Cassian explicitly affirmed the unequal authority he expects in marriage and said he would rather have her furious with him than risk her death.
+- At bedtime Elowen declined to discuss the conflict with Didi. When Didi asked about the Veyne Pink, Elowen deliberately removed it and handed it over, then dismissed Didi for the night. Didi locked the ring safely with Elowen's other jewels.
+- Cassian did not witness the ring's removal and does not know unless he later sees Elowen without it or is told.
+- Elowen wakes on 14th Deepfrost. Her right hand is bare; whether she puts the Veyne Pink back on is her choice and should not be decided for her.
+- Cassian's emergency protection order remains active unchanged. The relationship rupture remains unresolved; do not have Cassian become suddenly conciliatory or surrender authority offscreen.
+- Scheduled today: independent counsel is due to explain the existing marriage articles and their powers/ambiguities; Elowen's final wedding-dress fitting is planned for the afternoon.
+- Wedding date: 16th Deepfrost, two days away.
