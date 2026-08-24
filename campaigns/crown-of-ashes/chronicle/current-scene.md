@@ -3,13 +3,12 @@
 - Location: Veyrhold — Veyne House, Elowen's rooms during wedding-dress fitting
 - Time: early afternoon, 13th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged, unresolved major relationship conflict
-- Situation: Elowen is wearing the unfinished ivory wedding gown for her first fitting while still angry with Cassian over his unilateral emergency protection order. The dressmaker has asked whether Elowen intends to wear the Veyne Pink during the ceremony because it affects the neckline and jewelry plan.
+- Situation: Elowen is wearing the unfinished ivory wedding gown for her first fitting while still angry with Cassian over his unilateral emergency protection order. She has confirmed she will wear the Veyne Pink during the wedding, and the dress is being adjusted around that choice.
 
 ## Recent beats
-- Elowen defers explaining the Cassian conflict to Didi, saying Didi will likely learn what happened at supper. Didi respects the boundary and continues helping with the fitting.
-- The unfinished wedding dress is ivory silk, closely fitted through the torso/waist before opening into a fuller skirt and long train, with subtle frost-like embroidery across the bodice. Final sleeve lace and train work remain.
-- Seeing herself in the gown gives Elowen a distinctly bridal appearance rather than merely innocent presentation; the emotional contrast with the unresolved conflict remains.
-- The Veyne Pink catches the light against the ivory gown. The dressmaker asks whether Elowen intends to wear it during the wedding because that choice changes the neckline and other jewelry recommendations.
-- Elowen answers firmly: 'Yes, I do.' This establishes that despite her current anger at Cassian, she intends to wear the Veyne Pink at the wedding. Do not treat this as forgiveness or resolution; she can simultaneously claim the ring/commit to the marriage and remain furious about his exercise of power.
-- Dress design should now accommodate the Veyne Pink as the dominant jewel, avoiding competing large colored stones and likely favoring a neckline/jewelry arrangement that frames rather than overwhelms it.
+- Elowen firmly confirms she intends to wear the Veyne Pink at the ceremony. The dressmaker decides it should be the principal jewel, with no competing colored stones at the throat and the neckline/jewelry plan designed to frame it.
+- Elowen's choice to wear the ring is intentional but does not resolve or forgive the conflict with Cassian. She can want the marriage and ring while remaining angry about his unilateral exercise of authority.
+- Didi tells Elowen she looks beautiful in the ivory gown. The dressmaker says they must test walking and kneeling for the ceremony so the gown does not impede her.
+- Elowen answers, 'Of course,' agreeing to the movement test.
+- The gown is ivory silk, fitted through torso/waist, fuller below with a long unfinished train and frost-like embroidery; final sleeve lace and train work remain. The dressmakers should now assess stride, train management, kneeling, and whether alterations are needed, without turning the fitting into slapstick.
 - Cassian's emergency order remains active. He regrets concealing it but not making it. Wedding date: 16th Deepfrost, three days away.
