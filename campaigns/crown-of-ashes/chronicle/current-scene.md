@@ -2,14 +2,13 @@
 
 - Location: Veyrhold — Veyne House, dining room
 - Time: evening, 13th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged, unresolved relationship conflict plus courier investigation
-- Situation: Elowen and Cassian are at their first sustained supper after the rupture over his unilateral emergency protection order. Their conversation is formal and strained. Cassian has just disclosed that the recovering Oren courier remembers one attacker saying the name 'Vale.'
+- Scene significance: charged, unresolved relationship conflict plus linked security investigations
+- Situation: Elowen and Cassian are at strained supper after the rupture over his unilateral emergency protection order. Discussion has moved from the attacked Oren courier to the earlier Greyfen/tollhouse attack on their convoy/expedition.
 
 ## Recent beats
-- Elowen asks Cassian whether he issued any other orders concerning her today. Cassian says no and specifically denies other security instruments or changes concerning marriage articles, household, correspondence, money, clothing, attendants, or access to Garrick. He clarifies the wardrobe was commissioned weeks earlier and only the expense was authorized by him.
-- Cassian says the courier woke properly this afternoon and remembers one attacker saying 'Vale.' He does not yet claim what the word referred to.
-- Elowen responds: 'And why would that be significant? That is the correspondence they were stealing?' She questions why hearing 'Vale' is meaningful when the stolen dispatch itself was already bound for Vale House.
-- Cassian should agree that this is the obvious interpretation and avoid treating the word as proof of Vale involvement. The utterance is ambiguous: it could refer to the destination/target, Garrick/Elowen/House Vale, a meeting point, an instruction, or something else. Context/wording matters.
-- Establish only what the courier can actually recall if needed: he remembers one attacker saying a short fragment containing 'Vale' during the assault, but his condition/noise prevents a reliable full sentence. This is weak evidence, not grounds for accusation.
-- Cassian's legitimacy/security instincts may make him investigate discreetly, but after the autonomy conflict he should be especially careful not to weaponize ambiguity against Garrick without evidence.
-- Cassian's emergency order remains active and unresolved between them. Wedding date: 16th Deepfrost, three days away.
+- Cassian explains the recovering Oren courier remembers only a fragment containing 'Vale' and 'before'; he treats it as ambiguous weak evidence, not proof of Vale involvement, and has sent Garrick the exact recollection without interpretation.
+- Elowen takes a sip of wine while absentmindedly thumbing the band of the Veyne Pink and asks: 'has there been any progress on the attack on the convoy over a month ago? Since your proposal I’ve been told nothing else of it'
+- Exact prior canon re-fetched: during the Greyfen expedition, three riders pursued Cassian and Elowen into an abandoned quarry; a surviving pursuer revealed Elowen was to be taken alive as political leverage and Cassian killed. Their orders had been updated after the diversion plan was made, proving the operation leaked. At the tollhouse, further attackers struck; Elowen killed one in close struggle, Cassian was badly wounded, and tollhouse papers exposed an organized coercion/intelligence network mapping/manipulating neutral houses. The investigation has been active but compromised by a proven leak.
+- Cassian's current short-term goal includes tracing the coercion network exposed by the tollhouse papers without allowing the proven leak to compromise the investigation. Do not invent solved culprits or definitive new evidence absent canon. He can provide bounded progress consistent with an ongoing investigation: lines followed, dead ends, patterns, suspected structure, and what remains unknown.
+- Elowen's complaint that she has been told nothing since Cassian's proposal should matter especially after today's autonomy conflict. Cassian may recognize that information has been compartmentalized around her despite her being a target and prospective political partner. Do not excuse this solely as protection.
+- Cassian's emergency order remains active and unresolved. Wedding date: 16th Deepfrost, three days away.
