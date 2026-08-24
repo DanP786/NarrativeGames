@@ -1,15 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, morning room
-- Time: morning, 15th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged; autonomy/security conflict unresolved on wedding eve
-- Situation: Daphne and the other ladies have left for the Aureate Baths without Elowen after Cassian forbade the outing on security grounds. Elowen and Cassian remain in the morning room.
+- Location: Veyrhold — Veyne House, Elowen's rooms and household interiors
+- Time: late afternoon, 15th of Deepfrost, Year 312 of the Crown
+- Scene significance: charged aftermath; enforced inactivity on wedding eve
+- Situation: After Cassian forbade the Aureate Baths outing, Elowen has an unexpectedly empty day because she had deliberately cleared her schedule for a pre-wedding social diversion. She spends the day restless inside Veyne House, waiting for it to end.
 
 ## Recent beats
-- Elowen publicly declined Daphne's invitation rather than challenge Cassian in front of the other ladies. Daphne perceived the unequal authority but did not turn it into a public contest.
-- After the ladies leave, Cassian thanks Elowen for obeying him and for not forcing him to enforce the prohibition in front of her friends. He makes clear that had Elowen attempted to go anyway, he would have stopped her.
-- Cassian separately acknowledges he should not have disclosed to Daphne and the others that Elowen had specifically been ordered abducted; he says that social disclosure was Elowen's to make. He does not apologize for forbidding the outing and says he can survive Daphne thinking him a tyrant.
-- Elowen responds by picking up the book she had been reading, opening it, and saying nothing. This is an intentional refusal to engage further in the moment; do not narrate her internal motive beyond the observable action.
-- Cassian should recognize the dismissal/silence and not demand a response, seize the book, force reconciliation, or become newly apologetic about the security decision. He may leave her to read, maintaining the unresolved hierarchy and emotional distance.
-- Cassian's emergency protection order remains active unchanged. Elowen still wears the Veyne Pink and intends to marry him tomorrow.
+- Daphne and the other ladies left for the Aureate Baths without Elowen after Elowen publicly declined rather than challenge Cassian's security prohibition.
+- Cassian thanked Elowen for obeying and made clear he would have enforced the prohibition if she tried to go. He apologized only for disclosing the prior abduction order to her friends, not for the prohibition itself.
+- Elowen responded by opening her book and refusing further engagement. Cassian recognized the dismissal and returned to his office without pressing.
+- Player-established internal state: Elowen is restless throughout the day. She had intentionally ensured her wedding-eve schedule was clear for something like the bathhouse outing, so once it is forbidden she has little planned activity and feels she must simply wait for the day to be over.
+- Do not manufacture a convenient replacement entertainment that erases the consequence of Cassian's decision. The emptiness and boredom are part of the power dynamic: his security choice has practical costs to Elowen even though he considers it justified.
+- Elowen remains free to move within Veyne House/grounds consistent with security, but guards remain present and the emergency protection order is active unchanged. Cassian is working in his office and should not intrude merely to soothe her boredom unless organically prompted.
+- Elowen still wears the Veyne Pink. Relationship conflict unresolved.
 - Wedding date: 16th Deepfrost, tomorrow.
