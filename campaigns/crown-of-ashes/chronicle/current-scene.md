@@ -1,15 +1,14 @@
 # Current scene
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
-- Time: evening, 15th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged intimate aftermath during security crisis
-- Situation: Elowen has retired early in Cassian's secured private suite after the dagger threat. Didi is in the adjoining dressing room with the connecting door open; vetted guards are posted outside. Cassian remains elsewhere directing the investigation.
+- Time: middle of the night, 15th–16th Deepfrost, Year 312 of the Crown
+- Scene significance: charged intimate/security aftermath
+- Situation: Elowen is sleeping in Cassian's secured bedchamber after a dagger was planted through her own pillow. She wakes suddenly in the middle of the night from a nightmare.
 
 ## Recent beats
-- Cassian's suite was searched thoroughly (chimney, windows, bed, wardrobes, adjoining rooms) and declared clear. His valet is accounted for during the breach window. Guards Renn and Tal are posted outside after Cassian personally accepts them as trusted.
-- Cassian escorts Elowen to the suite, tells her she will not be disturbed absent immediate danger, and leaves her to sleep while he continues investigating.
-- Elowen enters Cassian's bed. Player-established sensory detail: she notices Cassian's smell in the bedding. This is intimate because she has never slept in his bed before and they remain unmarried until tomorrow; it should evoke his physical presence without implying he is actually in the room.
-- Keep POV centered on Elowen's sensory experience. Cassian is absent and cannot know her reaction. Didi remains nearby but should not intrude unless addressed.
-- Elowen's jewelry has presumably been removed for sleep by ordinary bedtime routine only if narrated now; do not decide whether she removes the Veyne Pink unless the player indicates or Didi naturally asks.
-- The relationship conflict remains unresolved despite familiar warmth during the crisis. The security breach investigation is ongoing and culprit/access route remain unknown.
-- Wedding date: 16th Deepfrost, tomorrow.
+- Cassian's suite was searched and secured. Didi sleeps/rests in the adjoining dressing room with the connecting door slightly open; vetted guards Renn and Tal are posted outside. Cassian remained elsewhere directing the investigation and had promised Elowen he would eventually sleep for several hours once the house was stabilized.
+- Elowen noticed Cassian's familiar scent in his bedding when she went to sleep, an intimate reminder of him while he was absent.
+- Player establishes that Elowen wakes in the middle of the night from a nightmare. Do not overdetermine the exact dream content unless useful; it can be fragmented around the dagger/abduction/Greyfen but the player's internal experience should remain hers.
+- On waking, immediate observable/sensory facts: dark unfamiliar room, Cassian's bed, likely momentary disorientation, guards outside, Didi nearby. Do not automatically summon Cassian or have him present unless investigation/sleep location establishes it through subsequent action.
+- Security breach investigation remains unresolved; culprit/access route are unknown. Relationship conflict with Cassian remains unresolved.
+- The calendar has crossed into 16th Deepfrost: it is now technically Elowen and Cassian's wedding day.
