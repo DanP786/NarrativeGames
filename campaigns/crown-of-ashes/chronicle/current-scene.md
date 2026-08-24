@@ -2,15 +2,14 @@
 
 - Location: Veyrhold — Veyne House, smaller dining room
 - Time: noon, 14th of Deepfrost, Year 312 of the Crown
-- Scene significance: charged relationship aftermath
-- Situation: Elowen and Cassian are sharing a restrained luncheon after the previous night's rupture. Elowen has put the Veyne Pink back on; Cassian notices it but does not comment.
+- Scene significance: charged relationship aftermath with restrained thaw
+- Situation: Elowen and Cassian are sharing a cool, formal luncheon after their rupture. Elowen wears the Veyne Pink again; Cassian notices but does not know she removed it overnight.
 
 ## Recent beats
-- Cassian asks whether Helena Marr answered Elowen's questions. Elowen says yes. He does not ask what Helena advised her.
-- Cassian confirms Elowen's final wedding-dress fitting is at two.
-- He then asks whether Elowen intends to go anywhere after the fitting today. Given the active emergency order, the question carries more weight than an ordinary inquiry.
-- Elowen answers: 'No, do you?'
-- Cassian should answer his own plans factually rather than treating Elowen's answer as permission-seeking. He remains under pressure from the attacked courier, Greyfen/tollhouse investigation, wedding preparations, and his claimant responsibilities. Do not invent a major offsite event unless needed; a plausible answer is that he expects to remain at Veyne House working unless summoned/urgent intelligence requires otherwise.
-- Maintain the intended power dynamic: Cassian remains authoritative and does not apologize away the emergency order, but he also need not manufacture conflict from every mundane exchange. The relationship remains cool/formal rather than openly hostile at every line.
-- Elowen wears a navy day dress, pearl earrings, and the Veyne Pink on her right hand. Cassian does not know she removed the ring overnight.
-- Cassian's emergency protection order remains active unchanged. Final fitting at 2 p.m. Wedding date: 16th Deepfrost, two days away.
+- Elowen says she has no plans to leave after her fitting and asks whether Cassian does. He says he expects to remain at Veyne House working unless the courier investigation changes.
+- Cassian clarifies his question about Elowen's plans: under the active emergency order, if she intends to leave the grounds he expects an escort to be prepared. He says shopping or visiting Vale House would be permitted with carriage/escort, but not alone. He does not soften or withdraw the order.
+- After servants clear part of luncheon, Cassian cautiously asks whether he is permitted to ask if Elowen liked her wedding dress. This is a small return of his personal/teasing register without pretending the conflict is resolved.
+- Elowen replies: 'I think it suits me.'
+- Cassian may respond warmly but with restraint. He has not seen the gown and should not invent its appearance from personal knowledge; he can infer from Elowen's answer or tease lightly about the dressmaker's competence. Avoid immediate romantic reconciliation.
+- Elowen's final wedding-dress fitting is at 2 p.m. She wears a navy day dress, pearl earrings, and the Veyne Pink on her right hand.
+- Cassian's emergency protection order remains active unchanged. Relationship conflict unresolved. Wedding date: 16th Deepfrost, two days away.
