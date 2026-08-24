@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, Elowen's bedchamber
 - Time: morning, 14th of Deepfrost, Year 312 of the Crown
 - Scene significance: charged aftermath, major relationship/power conflict unresolved
-- Situation: Elowen wakes the morning after her first major rupture with Cassian. The Veyne Pink remains locked in her jewel box after she deliberately removed it before bed.
+- Situation: Elowen is preparing for the day after her rupture with Cassian. Independent counsel is due at ten to review the marriage articles on Elowen's behalf, and her final wedding-dress fitting is at two.
 
 ## Recent beats
-- Elowen ended the previous night's supper early after Cassian explicitly affirmed the unequal authority he expects in marriage and said he would rather have her furious with him than risk her death.
-- At bedtime Elowen declined to discuss the conflict with Didi. When Didi asked about the Veyne Pink, Elowen deliberately removed it and handed it over, then dismissed Didi for the night. Didi locked the ring safely with Elowen's other jewels.
-- Cassian did not witness the ring's removal and does not know unless he later sees Elowen without it or is told.
-- Elowen wakes on 14th Deepfrost. Her right hand is bare; whether she puts the Veyne Pink back on is her choice and should not be decided for her.
-- Cassian's emergency protection order remains active unchanged. The relationship rupture remains unresolved; do not have Cassian become suddenly conciliatory or surrender authority offscreen.
-- Scheduled today: independent counsel is due to explain the existing marriage articles and their powers/ambiguities; Elowen's final wedding-dress fitting is planned for the afternoon.
+- Elowen wakes with her right hand bare. The Veyne Pink remains secured in her jewel box after she removed it before bed; Cassian does not yet know she removed it.
+- Didi brings breakfast and two messages: the dressmaker will return at two for the final fitting, and Cassian's secretary confirms independent counsel will attend Elowen at ten to review the marriage articles on her behalf. Neither Cassian nor Garrick is stated to attend.
+- Didi opens the jewel box briefly while preparing Elowen's things but does not assume Elowen wants the Veyne Pink and does not reach for it.
+- Asked what she wishes to wear, Elowen answers: 'Navy, please.' Didi should select an existing navy day dress appropriate for a serious private legal consultation; do not assume the newly commissioned post-wedding wardrobe has already been made.
+- Whether Elowen wears the Veyne Pink today remains her choice. Do not put it on her or ask repeatedly unless jewelry selection naturally requires a decision.
+- Cassian's emergency protection order remains active unchanged. The relationship rupture remains unresolved; Cassian should not become conciliatory or surrender authority offscreen.
 - Wedding date: 16th Deepfrost, two days away.
