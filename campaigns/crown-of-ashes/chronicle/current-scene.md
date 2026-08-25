@@ -3,15 +3,14 @@
 - Location: Veyrhold — wedding chapel, at the altar
 - Time: morning, 16th Deepfrost, Year 312 of the Crown
 - Scene significance: climactic wedding disruption under active security threat
-- Situation: Elowen has reached Cassian at the altar, but the appointed officiant has failed to appear. There is literally no one standing at the altar to conduct the marriage. Cassian has already dispatched a handful of men to retrieve a lawful replacement/qualified officiant rather than abandon or postpone the ceremony.
+- Situation: Elowen and Cassian stand before an empty altar in front of the assembled realm. The appointed priest left his residence before dawn but never arrived. Cassian has men searching for him and has sent others to retrieve qualified replacements.
 
 ## Recent beats
-- Garrick escorts Elowen down the heavily guarded aisle. Elowen deliberately looks ahead rather than at the guards, nervous for multiple reasons.
-- Cassian sees Elowen in her ivory gown and Veyne Pink and becomes subtly still. Garrick places Elowen's hand in Cassian's; Cassian closes his fingers around hers and quietly says, 'You came.'
-- Elowen replies, 'Of course,' looking at him as though he is mad for suggesting otherwise.
-- New player-established fact: the appointed officiant did not turn up. No one is standing at the altar to marry them. Cassian has sent a handful of men to retrieve someone qualified to conduct the marriage.
-- Do not invent the officiant's fate or motive yet. Given the dagger threat, absence is suspicious but could still have mundane causes. Cassian should treat it as both a logistical problem and possible security concern.
-- The guests are assembled and can plainly see the empty altar/officiant absence, creating political embarrassment and rumor risk. Cassian is legitimacy-conscious and will want the marriage performed correctly by someone with unquestionable legal/religious authority, not improvised unlawfully.
-- Maintain Cassian's authority: he acts decisively, likely orders doors/security controlled and sends trusted men to fetch a qualified cleric/officiant. He should not become flustered publicly.
-- Garrick remains present and will dislike the embarrassment but has a strong interest in the marriage proceeding lawfully today.
-- Dagger culprit/access route remain unresolved. Relationship conflict remains unresolved. Elowen and Cassian are not yet married until lawful ceremony is completed.
+- Elowen answers Cassian's quiet 'You came' with 'Of course,' looking at him as though the suggestion she might not was absurd.
+- The officiant failed to appear. Cassian had already sent men to the priest's residence and cathedral chapter and dispatched multiple teams to secure a lawful replacement rather than postpone or improvise an invalid ceremony.
+- A Veyne man reports the priest's housekeeper says he left for Veyne House before dawn, meaning he vanished somewhere between his residence and the chapel. His fate/motive remain unknown.
+- Elowen remains silent at the news. Player establishes that Cassian is furious.
+- Cassian's fury should manifest according to refreshed NPC canon: he does not need to shout; when challenged he becomes more precise, controlled and dangerous. He is legitimacy-conscious and will not permit an unlawful sham marriage. He should issue sharp orders to search the route, detain/question relevant gate/road witnesses, and get a qualified officiant to the chapel immediately.
+- The assembled guests can see the disruption, so Cassian must manage political optics while containing a possible coordinated attack: dagger in Elowen's pillow yesterday, now missing priest today. He should recognize the pattern as potentially deliberate without claiming proof.
+- Garrick is present and has a strong interest in proceeding lawfully today. Elowen remains in ivory gown, veil, Veyne Pink, hand likely still with Cassian unless she withdraws it.
+- Dagger culprit/access route unresolved. Missing priest unresolved. Elowen and Cassian are not yet married.
