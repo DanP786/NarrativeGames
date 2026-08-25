@@ -1,14 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, wedding reception rooms
-- Time: evening, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: charged public performance under active security/political threat
-- Situation: Elowen and Cassian return arm-in-arm from their private security discussion. Elowen deliberately puts on the public pretense of a blushing newlywed bride, concealing the serious conversation and ongoing threat from watching guests.
+- Location: Veyrhold — Veyne House, reception rooms at the end of the wedding celebration
+- Time: late evening, 16th Deepfrost, Year 312 of the Crown
+- Scene significance: charged transition from public wedding to private married life under active threat
+- Situation: The wedding reception concludes without further public disruption. Guests depart after seeing Elowen and Cassian present a convincing image of newlywed unity. Security remains heightened as the house empties, and the couple now approaches their first private night as husband and wife.
 
 ## Recent beats
-- Elowen raises the possibility that the dagger/priest incidents are a diversion from Cassian's succession. Cassian takes the strategic observation seriously and says he has already kept men watching Oren's residence, palace approaches, gates and garrisons while correspondence/negotiations continue.
-- Cassian also identifies another possibility: attacking the Vale-Veyne marriage may itself be an attack on his succession because House Vale's support materially strengthens his claim. He suspects fear may have been intended to make Elowen refuse or delay marriage, though this is not proven.
-- Cassian tells Elowen her question is the right one and says they will watch what happens elsewhere while everyone thinks they are looking at the immediate attacks.
-- They re-enter the reception with arms linked. Elowen now intentionally performs the appearance of a blushing bride for the court. This is deliberate social/political masking, not proof of her internal emotional state.
-- Cassian should recognize and support the performance rather than expose it; he is skilled at political presentation. His response can subtly make the newlywed image convincing while retaining private control/security awareness.
-- Guards remain present and investigation continues, but public celebration should dominate the visible room. Dagger culprit/access route and priest attackers remain unresolved. Elowen and Cassian are lawfully married.
+- Elowen deliberately performs the role of a blushing bride after returning from a serious private security discussion. Cassian immediately recognizes and supports the political performance, appearing attentive and pleased while continuing to watch the room.
+- Their public presentation successfully redirects gossip toward ordinary newlywed intimacy rather than the missing priest/security crisis. Cassian kisses Elowen's knuckles over the Veyne Pink, reinforcing the image of a satisfied political and marital union.
+- Player establishes that the evening concludes. No further public attack, interruption, scandal, or investigative breakthrough occurs during the remaining reception unless established later.
+- Guests should depart in stages; Elowen and Cassian fulfill the expected farewells. Guards/security become more conspicuous as outsiders leave and Veyne House closes down for the night.
+- Cassian's earlier order remains active: after the last guest leaves, Elowen does not move around the house without Cassian or an escort he names. Maintain the unequal power dynamic; marriage has not erased their autonomy conflict.
+- Dagger culprit/access route unresolved. Priest attackers unresolved. The recovered priest is alive but badly beaten. Diversion hypothesis remains plausible but unproven.
+- Elowen is now Lady Elowen Veyne. She has spent the day in ivory wedding gown; veil was removed earlier; Veyne Pink remains on her right hand unless she chooses otherwise.
+- Natural next beat: final farewells, Didi helping Elowen out of the wedding gown, Cassian/security determining sleeping arrangements, and the charged reality of their first night as husband and wife. Do not presume consummation or Elowen's wishes.
