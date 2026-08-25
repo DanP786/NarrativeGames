@@ -3,12 +3,12 @@
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: late evening, 16th Deepfrost, Year 312 of the Crown
 - Scene significance: charged first private meeting as husband and wife
-- Situation: Didi has finished preparing Elowen for bed and withdrawn. Elowen walks alone into Cassian's bedchamber. When Cassian knocks/arrives from his office, Elowen answers the door with her eyes lowered.
+- Situation: Elowen answers Cassian's knock with her eyes lowered. After Cassian dryly asks whether she will let him into his own bedchamber and calls himself her husband, Elowen silently steps back and opens the door wider, admitting him while still looking down.
 
 ## Recent beats
-- Elowen deliberately chooses a familiar favored nightgown with the words 'You know the one,' and Didi understands which garment she means. Didi helps her into it and finishes taking down/brushing her hair.
-- The Veyne Pink remains on Elowen's right hand unless she chooses otherwise.
-- Didi hears Cassian arriving/returning from his office and notes that Elowen's husband has finally managed to leave it.
-- Elowen walks into the bedchamber alone and answers the door with her eyes down. This is observable nervous/reserved body language; do not dictate her internal consent, desire, or fear beyond what she expresses.
-- Cassian should notice her lowered gaze and the changed private atmosphere. Maintain established power dynamic and his self-possessed manner; he should not become suddenly soft/egalitarian, but neither should he presume sexual access merely from marriage. Romance/suggestiveness can remain non-explicit and player-led.
+- Elowen is in her chosen familiar nightgown with loose brushed hair; the Veyne Pink remains on her right hand unless she chooses otherwise.
+- Cassian has changed out of his ceremonial coat into a dark shirt and trousers. He sends the guards to the far end of the corridor to provide privacy while keeping security within call.
+- Cassian does not cross the threshold until Elowen makes space for him. Elowen now steps back and opens the door, still with eyes lowered.
+- Treat Elowen's body language as nervous/reserved but do not equate admitting him to the room with blanket sexual consent or decide her internal wishes. Keep intimacy non-explicit and player-led.
+- Maintain Cassian's established power dynamic: self-possessed, commanding, not suddenly egalitarian or excessively reassuring. He can take possession of his own room/close the door and address her directly, but should not become coercively sexual.
 - Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Cassian and Elowen are lawfully married.
