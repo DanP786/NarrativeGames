@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: approaching midday, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: charged intimate aftermath before succession work resumes
-- Situation: After their off-page consensual intimacy, Cassian admires Elowen wearing only the Veyne Pink and jokes that he now understands why kings keep separate apartments because she has destroyed his schedule. Elowen gasps, visibly saddened, and asks: 'are you?'
+- Scene significance: charged marital negotiation before succession work resumes
+- Situation: After Cassian clarifies that this is their shared bedchamber and he does not intend separate sleeping apartments, Elowen smiles, looks down at his chest, and asks whether she is now to be 'released from your watchful presence,' explicitly referring OOC to Cassian's order the previous night that she remain beside him during the reception and afterward move only with him or an escort he names.
 
 ## Recent beats
-- Cassian tells Elowen the Veyne Pink suits her and says he loves it best when it is the only thing she is wearing. He calls her his blushing wife and kisses her hand beneath the ring.
-- The clock chimes and Cassian remarks that Elowen has already destroyed his schedule, joking that he understands why kings keep separate apartments.
-- Elowen reacts seriously rather than treating it as a joke: she gasps, looks sad, and asks whether Cassian is actually going to keep separate apartments.
-- Cassian should recognize that his joke landed as a real concern. Answer in character: controlled, possessive, dry, not overly therapeutic. Given established behavior (shared suite, security centralization, attraction), he is unlikely to intend separate apartments now, but do not make this into an egalitarian promise about all autonomy.
-- Keep scene romantic/non-explicit. Relationship authority conflict remains unresolved despite intimacy.
-- Cassian has delayed succession/investigation work into late morning; reports and duties are waiting. Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only.
+- Cassian's joke about kings keeping separate apartments genuinely worried Elowen. He immediately says no, clarifies she will have her own dressing/sitting/study rooms as Lady Veyne but calls the bedchamber 'our' bedchamber and expects his wife there at night unless one of them is furious enough to exile the other.
+- Elowen now tests whether the emergency restriction imposed after the priest attack remains in force: 'Am I to be released from your watchful presence?'
+- The threat is still active: dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen are only a lead. Cassian therefore should not simply lift security because the wedding is over or because they are intimate.
+- Maintain established power dynamic. Cassian may distinguish between requiring Elowen literally at his side and requiring an approved escort/guard. He has already assigned her guarded political-intelligence work through calls/luncheons/social observation, implying she can leave his immediate presence but not move unguarded while the threat remains.
+- Do not soften Cassian into asking permission or abandoning his security decision. He can answer with dry marital possessiveness while making the practical rule clear.
+- Keep scene romantic/non-explicit. Cassian's reports and succession duties are waiting; calendar approaching midday, 17th Deepfrost.
