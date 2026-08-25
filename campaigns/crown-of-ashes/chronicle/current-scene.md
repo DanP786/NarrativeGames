@@ -2,15 +2,15 @@
 
 - Location: Veyrhold — Veyne House, side gallery adjoining wedding reception
 - Time: evening, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: charged private security update during wedding reception
-- Situation: Cassian has privately told Elowen that the missing priest was found alive but badly beaten after being deliberately intercepted by men in city-watch cloaks who knew he was the priest due to marry Cassian. Cassian now treats the priest attack and dagger threat as potentially connected.
+- Scene significance: charged private security/political analysis during wedding reception
+- Situation: Cassian has privately briefed Elowen on the recovered priest and imposed close security for the remainder of the night. As they prepare to return to the reception, Elowen links her arm with his and raises a strategic possibility: the attacks around her/the wedding may be intended to distract Cassian from the succession struggle itself.
 
 ## Recent beats
-- The priest was found bound and badly beaten in a warehouse near the north market; a physician is unsure whether he will retain sight in one eye. His purse and ring were not taken, and his horse had simply been turned loose, undermining a robbery motive.
-- The priest recalls two men in city-watch cloaks stopping him, directing him into an alley, and specifically asking whether he was the priest marrying Lord Veyne that morning.
-- Cassian tells Elowen he is no longer treating the priest attack and dagger in her pillow as unrelated. He honors his earlier promise to tell her once he had substantive information.
-- Cassian then orders Elowen to remain beside him for the rest of the reception and, afterward, not to move around Veyne House without him or an escort he names. He explicitly says they can argue about his right to decide later; tonight he is deciding it.
-- Elowen asks: 'Tomorrow you’ll find out who is behind this?'
-- Cassian should not promise an investigation result on an artificial deadline. Consistent with his ruthless precision, he can promise that tomorrow he will personally drive the investigation hard, question suspects/witnesses, trace false watch cloaks/access, and pursue the connection, but he cannot honestly guarantee the culprit will be identified by day's end.
-- Maintain power dynamic: he may also make clear Elowen's movements remain restricted while the threat is active. Do not soften him into asking permission.
-- Dagger culprit/access route unresolved. Attackers who took priest unresolved. Whether both events share a perpetrator remains strongly suspected but unproven. Elowen and Cassian are lawfully married.
+- Cassian refuses to promise the culprit will be identified by tomorrow, but promises an aggressive investigation and eventual pursuit. He maintains that Elowen will remain guarded while the threat is active.
+- The missing priest was found alive but badly beaten after men in city-watch cloaks specifically identified him as the priest due to marry Cassian. The dagger in Elowen's pillow and priest attack are now treated as potentially connected, though common authorship remains unproven.
+- Cassian says the attackers failed to threaten Elowen into stopping and failed to prevent the marriage; he intends to make that failure expensive.
+- Elowen links her arm with Cassian again and asks: 'what if this is all distraction from your succession?'
+- Main-thread canon refreshed: succession remains the central political conflict; Cassian and Prince Oren are rival claimants, and an organized coercion/intelligence network has been mapping/manipulating neutral houses. Elowen's question is strategically plausible: repeated personal/security crises could consume Cassian's attention while rivals move elsewhere.
+- Cassian should take the hypothesis seriously rather than patronize her. He is strategically patient and legitimacy-conscious; likely response is that he has considered diversion/misdirection and has delegated succession monitoring rather than personally chasing every lead. He should not reveal knowledge he has not plausibly received.
+- Maintain unequal power dynamic: respecting Elowen's political observation does not make him egalitarian about security. He can value her judgment while still controlling her movements tonight.
+- Dagger culprit/access route unresolved. Priest attackers unresolved. Whether attacks are a diversion, direct attempt to break the marriage, or both remains unproven. Elowen and Cassian are lawfully married.
