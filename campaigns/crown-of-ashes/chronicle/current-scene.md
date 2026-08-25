@@ -1,15 +1,17 @@
 # Current scene
 
-- Location: Veyrhold — covered passage into the wedding chapel
+- Location: Veyrhold — wedding chapel, at the altar
 - Time: morning, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: climactic wedding procession under active security threat
-- Situation: Elowen walks on Garrick's arm toward the chapel, deliberately looking ahead rather than at the dense security presence. She feels nervous for multiple reasons as the ceremony becomes immediate.
+- Scene significance: climactic wedding disruption under active security threat
+- Situation: Elowen has reached Cassian at the altar, but the appointed officiant has failed to appear. There is literally no one standing at the altar to conduct the marriage. Cassian has already dispatched a handful of men to retrieve a lawful replacement/qualified officiant rather than abandon or postpone the ceremony.
 
 ## Recent beats
-- Elowen warmly declined a final private pause with Garrick, taking his arm and saying 'let’s go.' Garrick accepts without forcing sentiment and escorts her toward the chapel.
-- The route is heavily guarded after the dagger threat: Veyne men at junctions, controlled doors and restricted movement. The dagger culprit/access route remain unresolved.
-- Player-established internal state: Elowen tries to look ahead and not at the guards, feeling nervous for multiple reasons. Do not reduce the nerves solely to fear of attack or solely to marriage; both the security threat and imminent unequal marriage/Cassian relationship can coexist without overdefining her feelings.
-- As Elowen enters the chapel, Cassian may be visible waiting at the front. Before narrating him, his NPC file was refreshed this turn. Maintain his severe, self-possessed manner; he should not become sentimental merely because it is the wedding. His reaction to seeing Elowen can be subtle/observable only.
-- Garrick remains controlled, dynastically minded, affectionate but formal, and deeply resentful of Cassian despite accepting the marriage as Vale's strongest settlement.
-- Elowen's bridal appearance: ivory silk gown with frost embroidery, lace sleeves and long train; softly arranged hair, veil pinned at back without covering face; Veyne Pink on right hand, no competing necklace.
-- Relationship conflict with Cassian remains unresolved despite Elowen's continuing choice to marry him. Wedding ceremony is beginning.
+- Garrick escorts Elowen down the heavily guarded aisle. Elowen deliberately looks ahead rather than at the guards, nervous for multiple reasons.
+- Cassian sees Elowen in her ivory gown and Veyne Pink and becomes subtly still. Garrick places Elowen's hand in Cassian's; Cassian closes his fingers around hers and quietly says, 'You came.'
+- Elowen replies, 'Of course,' looking at him as though he is mad for suggesting otherwise.
+- New player-established fact: the appointed officiant did not turn up. No one is standing at the altar to marry them. Cassian has sent a handful of men to retrieve someone qualified to conduct the marriage.
+- Do not invent the officiant's fate or motive yet. Given the dagger threat, absence is suspicious but could still have mundane causes. Cassian should treat it as both a logistical problem and possible security concern.
+- The guests are assembled and can plainly see the empty altar/officiant absence, creating political embarrassment and rumor risk. Cassian is legitimacy-conscious and will want the marriage performed correctly by someone with unquestionable legal/religious authority, not improvised unlawfully.
+- Maintain Cassian's authority: he acts decisively, likely orders doors/security controlled and sends trusted men to fetch a qualified cleric/officiant. He should not become flustered publicly.
+- Garrick remains present and will dislike the embarrassment but has a strong interest in the marriage proceeding lawfully today.
+- Dagger culprit/access route remain unresolved. Relationship conflict remains unresolved. Elowen and Cassian are not yet married until lawful ceremony is completed.
