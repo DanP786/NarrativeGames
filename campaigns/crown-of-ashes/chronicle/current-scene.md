@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — Veyne House, private sitting room adjoining Cassian's bedchamber
 - Time: late morning, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: intimate domestic first morning before investigation resumes
-- Situation: Elowen eats breakfast while seated in Cassian's lap. Cassian continues playful, possessive newlywed teasing by loosening/teasing at the opening of her robe while she eats.
+- Scene significance: intimate domestic first morning transitioning into investigation
+- Situation: Elowen remains seated in Cassian's lap over breakfast as he prepares to open the investigation reports. Before doing so, Cassian playfully pulls her robe open and tells her to stay that way; Elowen rolls her eyes and calmly sips her coffee, accepting the teasing without being flustered into stopping breakfast.
 
 ## Recent beats
-- Cassian pulled Elowen into his lap rather than letting her take a separate breakfast chair, then ordered her to eat because she had little food or sleep and he accepts 'partial responsibility' for her condition.
-- A stack of sealed reports waits on the side table. Cassian says they will deal with them after breakfast and then pursue whoever thought threatening his wife was a clever political strategy.
-- Elowen eats. Player establishes that Cassian teases her robe open while she does so. Keep this flirtatious/sensual but non-explicit: focus on his fingers at the robe tie/lapel, her awareness of the teasing, and their banter rather than nudity/anatomy or sexual acts.
-- Maintain Cassian's authoritative, possessive playfulness. Elowen's reaction remains player-controlled.
-- The investigation must resume after breakfast; sealed reports concern ongoing dagger/priest attack inquiries but exact contents are not yet established.
-- Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Relationship authority conflict remains unresolved despite intimacy. Calendar: late morning, 17th Deepfrost.
+- Cassian repeatedly teased at Elowen's robe tie during breakfast while she caught his hand and told him to stop; he answered 'No' with characteristic calm certainty.
+- Cassian finally reaches for the sealed reports and says: 'Now we work.'
+- Player adds that Cassian first pulls Elowen's robe open and says 'stay like that,' admiring her while she rolls her eyes and drinks coffee. Keep subsequent narration suggestive/non-explicit; do not dwell graphically on nudity or sexual anatomy.
+- This beat reinforces Cassian's possessive/playful authority dynamic and Elowen's growing ease with him; it does not resolve their larger autonomy/security conflict.
+- Investigation reports are now about to be opened. Exact report contents are not yet established; any substantive findings should be introduced plausibly and not automatically solve the dagger/priest cases.
+- Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Calendar: late morning, 17th Deepfrost.
