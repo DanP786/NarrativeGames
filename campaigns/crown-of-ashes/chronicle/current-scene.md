@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: late morning, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: charged romantic morning interrupted by household routine
-- Situation: Cassian and Elowen's consensual, assertive morning intimacy is interrupted by a light knock at the bedchamber door and a servant announcing through it that breakfast has been served in the sitting room.
+- Scene significance: intimate first-morning aftermath transitioning toward breakfast/investigation
+- Situation: Breakfast has interrupted the newlyweds. As Elowen moves to get out of bed, she notices a small amount of blood on the sheets from the consensual wedding-night intimacy.
 
 ## Recent beats
-- Cassian has Elowen's wrists held above her head and shifts between her legs with his knee, continuing their established consensual power-dynamic intimacy. Narration remains sensual/non-explicit.
-- A light knock now comes at the door. Someone outside says that breakfast is served in the sitting room.
-- The interruption should break/redirect the intimate beat without explicit sexual description. Cassian can react with characteristic dry irritation or authority while preserving Elowen's dignity and the servant's ignorance of private details.
-- Breakfast is in the sitting room adjoining the private suite, consistent with heightened security and Cassian's order that Elowen not move unescorted while the threat remains active.
-- Cassian still has pressing investigation duties concerning the dagger and priest attack today; breakfast is a natural transition into receiving updates/planning.
+- A servant lightly knocks and announces breakfast is served in the sitting room. Cassian reacts with dry irritation, releases Elowen's wrists, and gets out of bed, insisting they are going to eat before the household interrupts again.
+- Player establishes that both Elowen and Cassian are unclothed in bed and that, as Elowen starts to slide out, she sees a small amount of blood on the sheets.
+- Treat the blood as a non-graphic physical aftermath unless symptoms suggest otherwise. Do not sensationalize it, make it a public 'proof' of virginity, or infer medical danger from a small amount alone. Elowen's reaction remains player-controlled.
+- Cassian may notice her pause/where she is looking if naturally observable, but do not dictate shame or distress. Keep any response matter-of-fact and in character.
+- Transition toward washing/dressing/breakfast is appropriate. Cassian has pressing investigation duties today concerning the dagger and priest attack.
 - Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Relationship authority conflict remains unresolved despite intimacy. Calendar: late morning, 17th Deepfrost.
