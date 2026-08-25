@@ -2,14 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: early afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: routine guarded correspondence with possible social-intelligence value
-- Situation: After guards clear her rooms, Elowen begins reading the flood of post-wedding correspondence. She opens a smaller, informal envelope from Lady Daphne Merrow addressed simply 'Elowen.'
+- Scene significance: routine guarded correspondence and wardrobe transition
+- Situation: Elowen reads Daphne's playful post-wedding note proposing tea tomorrow and demanding to see Elowen's new dresses. In response to Didi joking that Daphne wants access to the wardrobe, Elowen says Daphne will demand her old dresses, implying the old Vale/mourning wardrobe is now available or being displaced by her newly commissioned Veyne clothes.
 
 ## Recent beats
-- Garrick is meeting privately with Cassian in Cassian's study; Elowen does not know the contents of that conversation.
-- Two guards thoroughly checked Elowen's rooms before she entered, reflecting the unresolved dagger threat. One remains outside and another farther along the corridor.
-- Most correspondence consists of congratulations, formal acknowledgements and rapidly issued invitations addressed to Lady Elowen Veyne.
-- Elowen opens Daphne's informal note. Daphne does not currently have a dedicated NPC file in the repo; only use characterization established in recent play: close/friendly toward Elowen, socially bold, teasing, enthusiastic about the wedding, and previously invited Elowen to a ladies' bath-house outing that Elowen declined because Cassian objected to security.
-- Daphne's letter should plausibly be personal and may mention the abandoned bath outing, wedding impressions, or a safer social invitation. Do not give Daphne secret knowledge of the priest's condition/attack unless she plausibly learned it publicly; nonpublic priest details are specifically something Elowen has been tasked to notice.
-- Elowen's assigned political-intelligence role includes noting unusual confidence, disappointment that the wedding succeeded, and correspondence repeating nonpublic details.
+- Daphne's note says marriage has made Elowen 'intolerably interesting,' jokes about wedding gossip, proposes coming to Veyne House tomorrow afternoon for tea because Cassian cannot reasonably object on security grounds, asks to see the new dresses, and adds: 'You looked happy yesterday. I hope some of it was real.'
+- Didi predicts Daphne is demanding access to Elowen's wardrobe. Elowen answers: 'Yes will demand my old dresses.'
+- Treat this as light friend/attendant banter. Didi can plausibly joke about Daphne claiming garments, but do not assume Elowen has formally gifted them until she explicitly does so.
+- Elowen is now wearing newly commissioned non-mourning Veyne clothing intended to complement the Veyne Pink. Her older wardrobe includes mourning-era dresses, but exact inventory details are not refreshed/available, so avoid specific garments/colors beyond established mourning vs non-mourning distinction.
+- Garrick remains privately meeting Cassian. Guards remain outside Elowen's cleared rooms. Correspondence review continues and may yield social-intelligence observations.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: early afternoon, 17th Deepfrost.
