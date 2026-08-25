@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, corridor approaching Cassian's study
+- Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: early afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: charged intelligence lead delivered during Garrick-Cassian meeting
-- Situation: Elowen finds a potentially significant leak in her post-wedding correspondence and immediately leaves her rooms to take the letter to Cassian's study, with her required guards accompanying her.
+- Scene significance: charged social-intelligence lead discovered in correspondence
+- Situation: While reviewing post-wedding correspondence, Elowen discovers that Lady Maris Corren knows the missing priest survived his ordeal, information Elowen believes was not publicly released. Rather than immediately confront her, Elowen orders that Lady Corren be invited to tea tomorrow before Daphne's visit.
 
 ## Recent beats
-- Lady Maris Corren's congratulatory letter contains the sentence: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.'
-- As far as Elowen knows, guests knew the wedding priest failed to appear but were not publicly told that he had been found alive after being abducted/beaten. Cassian specifically tasked Elowen to notice anyone repeating nonpublic priest details.
-- Elowen immediately gets up and goes to Cassian's study rather than continuing correspondence. She should bring the Corren letter as evidence.
-- Garrick Vale is currently meeting privately with Cassian in the study, likely about the defined external investigation strand, but Elowen does not know what they have discussed. Her arrival may interrupt them.
-- Guards accompany Elowen under Cassian's standing security order. She is permitted to move around Veyne House with guards and does not need to remain physically beside Cassian.
-- Important caution: Lady Corren's wording is a lead, not proof of complicity. Information could have leaked through servants, watch, physician, witnesses, Garrick's/Veyne networks, or ordinary rumor. Cassian/Garrick should investigate how she learned it before accusing her.
+- Daphne is accepted for tea tomorrow afternoon. Her note was friendly and did not contain suspicious nonpublic details.
+- A congratulatory letter from Lady Maris Corren contains the line: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' The wedding guests knew the priest failed to appear, but as far as Elowen knows the fact he was found alive after an attack was private information given to her by Cassian.
+- This directly matches Cassian's assigned intelligence task: notice anyone repeating details about the priest that were not made public.
+- Elowen orders: 'Invite Lady Corren to tea tomorrow, before Daphne.' Didi should execute the invitation without revealing why Elowen is interested. Corren's knowledge is suspicious but not proof of complicity; she may have learned it through gossip, household leakage, city-watch channels, family connections, etc.
+- Do not resolve the source of Corren's knowledge before she is questioned/observed. Elowen may also choose whether to tell Cassian immediately or first speak to Corren; do not decide for her.
+- Guards remain outside Elowen's cleared rooms. Garrick remains privately meeting Cassian unless later established otherwise.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: early afternoon, 17th Deepfrost.
