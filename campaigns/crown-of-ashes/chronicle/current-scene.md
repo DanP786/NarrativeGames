@@ -2,15 +2,14 @@
 
 - Location: Veyrhold — Veyne House, Elowen's dressing room/private suite
 - Time: early afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: routine transition into first-day duties as Lady Veyne
-- Situation: After the long wedding morning, Elowen takes a long soak and then dresses in one of the newly commissioned dresses ordered for her Veyne wardrobe. In accordance with Cassian's instruction, she does not wear mourning colours.
+- Scene significance: routine transition into investigation/political duties
+- Situation: Elowen has bathed and dressed in one of her newly commissioned non-mourning Veyne dresses. A guard announces that Garrick Vale has arrived. Elowen asks whether her father is here to see her or Lord Veyne.
 
 ## Recent beats
-- Cassian finally insists both newlyweds dress and return to work after repeated morning distractions. Elowen teasingly answers: 'If you insist husband.'
-- Cassian leaves Didi with the instruction to get his wife dressed, while Didi dryly suggests something with buttons.
-- Elowen chooses first to enjoy a long soak, recovering from the exhausting wedding and sleepless night.
-- She then dresses in one of the newly commissioned dresses from the wardrobe Cassian ordered after their marriage. She deliberately follows his instruction not to wear mourning colours. Do not invent an exact dress colour/material unless established by player or a refreshed wardrobe file; prior player preference was that commissioned dresses complement the Veyne Pink.
-- Veyne Pink remains a key part of her married presentation unless she chooses to remove it.
-- Elowen remains under guard but no longer must stay physically beside Cassian. Her assigned political/social intelligence role is calls, luncheons and listening for unusual confidence, disappointment over the successful wedding, or leaks of nonpublic priest details.
-- Cassian has returned to succession work and needs to confirm Garrick's external investigation strand. Veyne retains the internal dagger/household breach inquiry.
+- Elowen takes a long hot soak after the exhausting wedding night/morning and then dresses in one of the newly commissioned dresses, obeying Cassian's instruction not to wear mourning colours. Exact dress colour/material remains unspecified; it is intended to complement the Veyne Pink.
+- A guard at the outer room says Lord Veyne asked that Elowen be informed her father has arrived.
+- Elowen asks: 'Is he here for me or Lord Veyne?'
+- Based on the just-established plan, Garrick's primary immediate purpose is plausibly to meet Cassian/receive the defined external investigation strand concerning the priest, north market, false watch cloaks and missing watchmen. He may also wish to see Elowen, his newly married daughter, but do not invent that he requested a private meeting unless established.
+- Guard should answer only what he plausibly knows (e.g. Garrick was shown to Cassian's office/study or asked for Lord Veyne). Do not give the guard knowledge of confidential investigative substance unless he was told.
+- Elowen remains under guard but may move around the house with guards. Cassian is back at succession/investigation work.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: early afternoon, 17th Deepfrost.
