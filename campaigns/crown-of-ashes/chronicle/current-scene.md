@@ -2,14 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: around midday, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: intimate marital aftermath before duties finally resume
-- Situation: After another consensual off-page intimate interlude, Cassian jokes that Elowen is becoming strategically untenable and he may need to assign her to another house until the succession is settled. Elowen confidently replies: 'You would miss me too much.'
+- Scene significance: intimate banter transitioning firmly back to political duties
+- Situation: Cassian finally insists that both newlyweds dress properly and return to work after repeated morning distractions. Elowen answers teasingly: 'If you insist husband.'
 
 ## Recent beats
-- Cassian's morning discipline has repeatedly failed around his new wife despite urgent succession and investigation work waiting in the sitting room.
-- Cassian jokes from the bed that he may have to assign Elowen to another house until the succession is settled because she is a strategic distraction.
-- Elowen answers: 'You would miss me too much.' This is teasing confidence, not a formal emotional demand.
-- Cassian should respond in character: dry, possessive, reluctant to make an unearned declaration of romantic love, but his behavior plainly supports that he does not intend to send her away. He can concede in his own manner or turn the claim back on her.
-- Keep intimacy non-explicit. Their autonomy/security conflict remains unresolved; Elowen is still under guard despite being released from staying physically beside Cassian.
-- Practical pressure is now significant: it is around midday; reports, Garrick delegation instructions and succession work have been delayed. Natural next beat should move them toward dressing/work or bring a credible interruption.
-- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only.
+- Elowen tells Cassian he would miss her too much to send her to another house. Cassian admits matter-of-factly that she is correct and that he would miss her, while denying jealousy and calling himself 'territorial.'
+- Cassian then gets out of bed with determination, says Elowen has defeated the succession three times before noon, and orders her to get dressed 'properly,' warning that he means it.
+- Elowen replies: 'If you insist husband.' Keep the tone playful and non-explicit, but Cassian should now hold the line and return to work rather than be derailed yet again.
+- Elowen remains under guard but no longer has to remain physically beside Cassian. She has been assigned guarded political/social intelligence work: calls, luncheons, listening for unusual confidence, disappointment about the wedding, or leaks of nonpublic priest details.
+- Cassian needs to send/confirm Garrick's defined external investigation strand and resume succession work. Veyne retains the internal dagger/household breach investigation.
+- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: around midday, 17th Deepfrost.
