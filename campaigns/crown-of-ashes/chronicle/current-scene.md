@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, wedding reception rooms
+- Location: Veyrhold — Veyne House, side gallery adjoining wedding reception
 - Time: evening, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: charged public celebration under active security investigation
-- Situation: During the evening reception, a Veyne officer delivers a report to Cassian that visibly makes him go still. Elowen does not interrupt or visibly react; she turns to a guest and listens politely, maintaining the social surface of the wedding while Cassian handles the update.
+- Scene significance: charged private security update during wedding reception
+- Situation: After receiving a visibly serious report, Cassian asks Elowen for a private moment. Elowen links her arm with his and accompanies him out of the reception into a nearby side gallery where they can speak without announcing the matter to the guests.
 
 ## Recent beats
-- Wedding day has continued through luncheon, congratulations, formal conversations and dancing despite heavy guard presence. Cassian receives repeated discreet security/investigation reports.
-- During a dance Cassian tells Elowen he has received seven reports. He confirms the missing priest has not been found, but the priest's horse was recovered loose near the old north market before noon with saddle intact and no blood. City watch is searching from there. Dagger investigation has produced 'not enough' yet.
-- Importantly after their earlier conflict, Cassian tells Elowen 'I'll tell you when there is' rather than excluding her on a need-to-know basis. Do not overstate this as resolution of their power conflict.
-- By evening Elowen is tired from hours of public duties; her veil has been removed, gown remains immaculate, Veyne Pink remains on her hand.
-- A Veyne officer appears and gives Cassian a report that makes him go utterly still. The content has NOT yet been established. Do not invent/reveal it until the next investigative interaction supports it.
-- Elowen turns to a guest and listens politely rather than pursuing Cassian or breaking public composure. This is observable social discipline; do not assign an unspoken motive beyond her chosen action.
-- Cassian may finish receiving the report and decide whether to tell Elowen privately, consistent with his promise to tell her when there is substantive information. He should not announce sensitive security facts to the reception.
-- Missing priest unresolved; dagger culprit/access route unresolved. Elowen and Cassian are lawfully married.
+- Wedding day has continued through luncheon, congratulations, formal conversations and dancing despite heavy guard presence. Cassian has received repeated discreet security/investigation reports.
+- Cassian previously told Elowen the missing priest had not been found; the priest's horse was recovered loose near the old north market with saddle intact and no blood. The city watch was searching from there. The dagger investigation had produced 'not enough.'
+- A Veyne officer then delivered a report that made Cassian go utterly still. Elowen maintained public composure and continued politely receiving guests rather than interrupting.
+- When her conversation naturally ended, Cassian crossed to Elowen, asked for 'a moment,' and offered his arm. Elowen links her arm with his and goes with him.
+- The content of the serious report is still not established in canon. It may now be disclosed privately, but do not retroactively claim earlier facts. Any new finding should plausibly arise from the ongoing search and should not automatically solve both the missing-priest and dagger cases at once.
+- Cassian promised Elowen during their dance: 'I'll tell you when there is' substantive information. This private withdrawal is an opportunity to honor that promise without making him suddenly egalitarian; he remains controlling on security decisions.
+- Elowen is now Lady Elowen Veyne, in ivory wedding gown without veil, Veyne Pink on her right hand. Guests remain in the reception nearby.
+- Dagger culprit/access route unresolved unless this report establishes a limited new lead. Missing priest unresolved unless this report establishes his condition/location. Elowen and Cassian are lawfully married.
