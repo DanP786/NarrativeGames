@@ -3,12 +3,12 @@
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: late morning, 17th Deepfrost, Year 312 of the Crown
 - Scene significance: intimate first-morning aftermath transitioning toward breakfast/investigation
-- Situation: Breakfast has interrupted the newlyweds. As Elowen moves to get out of bed, she notices a small amount of blood on the sheets from the consensual wedding-night intimacy.
+- Situation: Elowen tells Cassian she is fine, gets out of bed somewhat stiffly, and reaches for the robe he offers. Cassian playfully teases the robe away for a moment, openly admiring his wife before allowing the morning to continue.
 
 ## Recent beats
-- A servant lightly knocks and announces breakfast is served in the sitting room. Cassian reacts with dry irritation, releases Elowen's wrists, and gets out of bed, insisting they are going to eat before the household interrupts again.
-- Player establishes that both Elowen and Cassian are unclothed in bed and that, as Elowen starts to slide out, she sees a small amount of blood on the sheets.
-- Treat the blood as a non-graphic physical aftermath unless symptoms suggest otherwise. Do not sensationalize it, make it a public 'proof' of virginity, or infer medical danger from a small amount alone. Elowen's reaction remains player-controlled.
-- Cassian may notice her pause/where she is looking if naturally observable, but do not dictate shame or distress. Keep any response matter-of-fact and in character.
-- Transition toward washing/dressing/breakfast is appropriate. Cassian has pressing investigation duties today concerning the dagger and priest attack.
+- Elowen noticed a small amount of blood on the sheets after their consensual wedding night. Cassian noticed her pause and asked matter-of-factly whether she was hurt beyond what she would expect.
+- Elowen answers: 'I’m fine,' gets out of bed stiffly, and takes/reaches for her robe.
+- Player establishes that Cassian teases the robe away while admiring Elowen. Keep this playful, romantic and non-explicit; do not describe intimate anatomy or restart graphic sexual activity.
+- Cassian can display confident husbandly appreciation and dry humor consistent with the established power dynamic. Elowen's response remains player-controlled.
+- Breakfast is waiting in the sitting room and household staff may return if delayed. Cassian has pressing investigation duties today concerning the dagger and priest attack.
 - Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Relationship authority conflict remains unresolved despite intimacy. Calendar: late morning, 17th Deepfrost.
