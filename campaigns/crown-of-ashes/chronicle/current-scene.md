@@ -1,14 +1,14 @@
 # Current scene
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
-- Time: dawn, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: intimate aftermath of wedding night
-- Situation: Elowen and Cassian have spent their first night together and are exhausted at dawn. Their consensual intimacy is established but private details remain off-page.
+- Time: late morning, 17th Deepfrost, Year 312 of the Crown
+- Scene significance: intimate first morning of marriage before investigation resumes
+- Situation: After finally sleeping for several hours following their sleepless wedding night, Cassian wakes Elowen by kissing her.
 
 ## Recent beats
-- Player established Cassian kept Elowen awake all night; the wedding-night intimacy is treated as consensual and faded over rather than graphically narrated.
-- At dawn Cassian lies beside Elowen with an arm around her and greets her as 'wife.' He admits before she can tell him that he needs to sleep.
-- Elowen shifts, physically feeling the ordinary intimate aftermath of the night, and whispers: 'so do I.' Keep any bodily aftermath non-graphic in narration.
-- Natural continuation: Cassian may respond with dry humor/possessive marital familiarity and finally allow both of them to sleep. Do not turn intimacy into sudden emotional reconciliation; their authority conflict remains unresolved.
-- Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Cassian intended to drive the investigation on 17th Deepfrost, but both newlyweds have had essentially no sleep and may sleep into the morning.
-- Veyne Pink remains with Elowen unless later removed. Calendar: dawn of 17th Deepfrost, first morning of their marriage.
+- At dawn both newlyweds acknowledged they needed sleep. Cassian jokingly accepted only 'partial responsibility' for their exhaustion, then obeyed Elowen's order to sleep and drew her against him.
+- They slept for several hours behind the guarded, locked suite door.
+- Player establishes that Cassian wakes Elowen hours later by kissing her. Keep the waking intimacy romantic/non-explicit; do not presume further sexual activity unless player leads it, and fade rather than graphically describe if it progresses.
+- Cassian has pressing investigation duties today concerning the dagger and priest attack, but he has now had some sleep. He may be dressed or still in bed only as established through narration; avoid unnecessarily skipping directly to work before Elowen reacts.
+- Relationship authority conflict remains unresolved despite wedding-night intimacy and growing familiarity.
+- Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Calendar: late morning, 17th Deepfrost, first full day of their marriage.
