@@ -3,12 +3,12 @@
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: late evening, 16th Deepfrost, Year 312 of the Crown
 - Scene significance: charged first private intimacy as husband and wife
-- Situation: Elowen has affirmatively stepped into Cassian's embrace and they have kissed privately. When Cassian asks if she is still nervous, Elowen's lips part and she nods yes.
+- Situation: Elowen has affirmatively consented to intimacy, stepped into Cassian's embrace, and kissed him. She remains nervous but is becoming more comfortable and tells him the slower second kiss is 'better.'
 
 ## Recent beats
-- OOC player explicitly confirmed Elowen consents to intimacy. Elowen stepped forward after Cassian asked her to make her wishes clear.
-- Cassian responded to her deliberate approach by drawing her firmly closer and kissing her. Afterward, with his hand still at her waist and thumb along her jaw, he asks: 'Still nervous?'
-- Elowen nods, lips parted, openly acknowledging that she remains nervous despite consenting and participating.
-- Cassian should not interpret nervousness as withdrawal of consent, nor ignore it. In character, he can respond with controlled confidence and perhaps slow the pace, making clear that nervousness is permitted without becoming therapeutic or suddenly egalitarian. He remains authoritative and self-possessed.
-- Keep intimacy sensual/non-explicit and player-led. If the scene progresses to consummation, use tasteful implication/fade-to-black rather than graphic sexual detail.
-- Veyne Pink remains on Elowen's right hand. Guards remain at the far end of corridor within call. Dagger/priest attacks remain unresolved outside the private moment.
+- Cassian responds to Elowen's admitted nervousness by telling her she may be nervous and may change her mind, but orders her not to make herself smaller for him. He reminds her he married a woman with opinions and teases her about ordering him to sleep.
+- Cassian kisses Elowen again, more slowly, keeping one hand firm at her waist and the other in her loose hair. He asks: 'Better?'
+- Elowen breathes: 'Yes.' This confirms the slower pace feels better and that she remains willingly engaged.
+- Maintain Cassian's controlled/authoritative manner without turning him submissive or therapeutic. He can continue kissing/touching in non-explicit romantic terms while remaining attentive to Elowen's participation.
+- Keep intimacy sensual but non-graphic. If consummation is reached, transition with tasteful implication/fade-to-black and record only that it occurred if player direction establishes it.
+- Veyne Pink remains on Elowen's right hand. Guards remain at far end of corridor within call. Dagger/priest attacks remain unresolved outside the private moment.
