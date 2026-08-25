@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen's private sitting room
+- Location: Veyrhold — Veyne House, corridor approaching Cassian's study
 - Time: early afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: routine guarded correspondence and social planning
-- Situation: Elowen accepts Daphne's proposal to visit Veyne House for tea tomorrow afternoon. Didi will have the acceptance sent. Elowen remains in her cleared rooms reviewing post-wedding correspondence while Garrick meets privately with Cassian.
+- Scene significance: charged intelligence lead delivered during Garrick-Cassian meeting
+- Situation: Elowen finds a potentially significant leak in her post-wedding correspondence and immediately leaves her rooms to take the letter to Cassian's study, with her required guards accompanying her.
 
 ## Recent beats
-- Daphne's informal note proposes coming to Elowen tomorrow afternoon for tea, gossip and inspection of Elowen's new dresses; she also writes that Elowen looked happy at the wedding and hopes some of it was real.
-- Elowen jokes that Daphne will demand her old dresses. Didi predicts Daphne would arrive with an empty carriage and claim the dresses despite needing alterations.
-- Didi asks whether she should tell Daphne tomorrow is acceptable. Elowen answers: 'Yes.'
-- Didi can arrange a short acceptance through household correspondence. No need to expose security details in the reply; Veyne House can admit Daphne through normal guarded procedures tomorrow.
-- Elowen is wearing newly commissioned non-mourning Veyne clothing with the Veyne Pink. Guards remain outside her rooms after clearing them.
-- Garrick remains privately meeting Cassian regarding matters not yet reported back to Elowen. Correspondence review can continue and may reveal political/social intelligence.
+- Lady Maris Corren's congratulatory letter contains the sentence: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.'
+- As far as Elowen knows, guests knew the wedding priest failed to appear but were not publicly told that he had been found alive after being abducted/beaten. Cassian specifically tasked Elowen to notice anyone repeating nonpublic priest details.
+- Elowen immediately gets up and goes to Cassian's study rather than continuing correspondence. She should bring the Corren letter as evidence.
+- Garrick Vale is currently meeting privately with Cassian in the study, likely about the defined external investigation strand, but Elowen does not know what they have discussed. Her arrival may interrupt them.
+- Guards accompany Elowen under Cassian's standing security order. She is permitted to move around Veyne House with guards and does not need to remain physically beside Cassian.
+- Important caution: Lady Corren's wording is a lead, not proof of complicity. Information could have leaked through servants, watch, physician, witnesses, Garrick's/Veyne networks, or ordinary rumor. Cassian/Garrick should investigate how she learned it before accusing her.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: early afternoon, 17th Deepfrost.
