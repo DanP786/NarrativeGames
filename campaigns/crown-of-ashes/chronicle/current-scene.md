@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — Veyne House, private sitting room adjoining Cassian's bedchamber
 - Time: late morning, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: intimate domestic first morning transitioning into investigation
-- Situation: Elowen remains seated in Cassian's lap over breakfast as he prepares to open the investigation reports. Before doing so, Cassian playfully pulls her robe open and tells her to stay that way; Elowen rolls her eyes and calmly sips her coffee, accepting the teasing without being flustered into stopping breakfast.
+- Scene significance: charged investigation amid playful newlywed intimacy
+- Situation: Cassian has opened the first investigation report while Elowen remains seated in his lap over breakfast. The city watch has accounted for every officially issued watch cloak; none are missing. Elowen asks what that means.
 
 ## Recent beats
-- Cassian repeatedly teased at Elowen's robe tie during breakfast while she caught his hand and told him to stop; he answered 'No' with characteristic calm certainty.
-- Cassian finally reaches for the sealed reports and says: 'Now we work.'
-- Player adds that Cassian first pulls Elowen's robe open and says 'stay like that,' admiring her while she rolls her eyes and drinks coffee. Keep subsequent narration suggestive/non-explicit; do not dwell graphically on nudity or sexual anatomy.
-- This beat reinforces Cassian's possessive/playful authority dynamic and Elowen's growing ease with him; it does not resolve their larger autonomy/security conflict.
-- Investigation reports are now about to be opened. Exact report contents are not yet established; any substantive findings should be introduced plausibly and not automatically solve the dagger/priest cases.
-- Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Calendar: late morning, 17th Deepfrost.
+- Cassian reads the report and tells Elowen: 'The watch has accounted for its cloaks. None are missing.'
+- Elowen asks: 'Meaning?' Player also establishes Cassian remains physically affectionate/absentmindedly intimate while reading. Keep that contact suggestive and non-explicit rather than describing sexual anatomy/actions in detail.
+- Investigative inference: if the priest accurately identified the attackers as wearing city-watch cloaks, those garments were likely counterfeit, privately made/copied, borrowed from an unrecorded source, or the official accounting is false/corrupt. This does NOT prove the attackers were not watchmen; it means official inventory alone cannot identify them.
+- Cassian should explain the inference precisely and likely direct the next inquiry toward tailors/cloth suppliers, insignia/badge manufacture, watch quartermasters, and whether the inventory was independently verified. He should remain alert to the possibility of corruption within the watch.
+- Do not solve the case yet. Dagger culprit/access route unresolved; priest attackers unresolved. Potential connection remains strongly suspected but unproven.
+- Security remains active outside the suite. Calendar: late morning, 17th Deepfrost.
