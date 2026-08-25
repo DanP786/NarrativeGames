@@ -1,15 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Cassian's private suite/dressing room
+- Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: late evening, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: charged transition into Elowen's first private night as Cassian's wife
-- Situation: Didi has helped Elowen out of her wedding gown and loosened her hair. Cassian remains briefly in his office. Elowen is choosing what to wear for the night.
+- Scene significance: charged first private meeting as husband and wife
+- Situation: Didi has finished preparing Elowen for bed and withdrawn. Elowen walks alone into Cassian's bedchamber. When Cassian knocks/arrives from his office, Elowen answers the door with her eyes lowered.
 
 ## Recent beats
-- Didi carefully removes the wedding gown and layers after roughly twelve hours, preserving the dress. Elowen's hair is taken down pin by pin.
-- The Veyne Pink remains on Elowen's right hand; Didi does not presume to remove it.
-- Didi opens the prepared nightwear and asks what Elowen would like to sleep in without teasing or presuming anything about the wedding night.
-- Elowen answers with an almost-smile: 'You know the one.' This implies Didi knows a particular familiar/favored nightgown Elowen has in mind, but its exact appearance has not been established in current canon. Do not invent highly specific prior history unless naturally minimal; Didi can recognize the request and retrieve the familiar choice.
-- Keep this romantic/suggestive at most; do not presume consummation or Elowen's intentions. The key beat is Elowen deliberately choosing the nightgown and Didi understanding her.
-- Cassian is absent and cannot know this private exchange. His security order remains active; he said he will come to Elowen once she is ready.
-- Dagger culprit/access route unresolved. Priest attackers unresolved. Elowen and Cassian are lawfully married.
+- Elowen deliberately chooses a familiar favored nightgown with the words 'You know the one,' and Didi understands which garment she means. Didi helps her into it and finishes taking down/brushing her hair.
+- The Veyne Pink remains on Elowen's right hand unless she chooses otherwise.
+- Didi hears Cassian arriving/returning from his office and notes that Elowen's husband has finally managed to leave it.
+- Elowen walks into the bedchamber alone and answers the door with her eyes down. This is observable nervous/reserved body language; do not dictate her internal consent, desire, or fear beyond what she expresses.
+- Cassian should notice her lowered gaze and the changed private atmosphere. Maintain established power dynamic and his self-possessed manner; he should not become suddenly soft/egalitarian, but neither should he presume sexual access merely from marriage. Romance/suggestiveness can remain non-explicit and player-led.
+- Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Cassian and Elowen are lawfully married.
