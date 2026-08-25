@@ -2,13 +2,14 @@
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: around midday, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: intimate marital interlude delaying succession work
-- Situation: After reaffirming that Elowen remains under guard but no longer must stay physically beside him, Cassian is distracted by his wife again. Player establishes that he kisses down her chest and once more becomes absorbed in consensual lovemaking. Keep the sexual activity off-page/faded and non-graphic.
+- Scene significance: intimate marital aftermath before duties finally resume
+- Situation: After another consensual off-page intimate interlude, Cassian jokes that Elowen is becoming strategically untenable and he may need to assign her to another house until the succession is settled. Elowen confidently replies: 'You would miss me too much.'
 
 ## Recent beats
-- Cassian refuses to lift Elowen's security restrictions while the threat remains active. She may move around the house and undertake political/social work without being physically beside him, but with guards; outside the house requires an escort he approves. He says they can argue about his right to decide it, but after considering the argument, 'You lose.'
-- Cassian then kisses Elowen and is once again drawn into intimacy despite his waiting reports and succession duties. Player establishes another consensual lovemaking interlude.
-- Do not narrate graphic sexual acts. Fade across the intimacy and emphasize time passing / Cassian repeatedly failing to return to work because of mutual newlywed attraction.
-- This does not resolve the autonomy conflict: Cassian remains controlling about security even while physically affectionate.
-- Practical consequence: it is now around midday and Cassian's reports, instructions to Garrick, and succession work have been delayed further. The next interruption or aftermath should plausibly force a return to duties.
-- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Garrick is intended to receive the external investigation strand; Veyne retains internal breach inquiry.
+- Cassian's morning discipline has repeatedly failed around his new wife despite urgent succession and investigation work waiting in the sitting room.
+- Cassian jokes from the bed that he may have to assign Elowen to another house until the succession is settled because she is a strategic distraction.
+- Elowen answers: 'You would miss me too much.' This is teasing confidence, not a formal emotional demand.
+- Cassian should respond in character: dry, possessive, reluctant to make an unearned declaration of romantic love, but his behavior plainly supports that he does not intend to send her away. He can concede in his own manner or turn the claim back on her.
+- Keep intimacy non-explicit. Their autonomy/security conflict remains unresolved; Elowen is still under guard despite being released from staying physically beside Cassian.
+- Practical pressure is now significant: it is around midday; reports, Garrick delegation instructions and succession work have been delayed. Natural next beat should move them toward dressing/work or bring a credible interruption.
+- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only.
