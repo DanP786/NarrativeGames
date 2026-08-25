@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen's dressing room/private suite
+- Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: early afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: routine transition into investigation/political duties
-- Situation: Elowen has bathed and dressed in one of her newly commissioned non-mourning Veyne dresses. A guard announces that Garrick Vale has arrived. Elowen asks whether her father is here to see her or Lord Veyne.
+- Scene significance: routine guarded return to Elowen's political/social correspondence
+- Situation: Rather than interrupt Garrick and Cassian's meeting, Elowen returns to her own rooms to read correspondence. In accordance with heightened security after the dagger incident, two guards enter and check the rooms before allowing her inside.
 
 ## Recent beats
-- Elowen takes a long hot soak after the exhausting wedding night/morning and then dresses in one of the newly commissioned dresses, obeying Cassian's instruction not to wear mourning colours. Exact dress colour/material remains unspecified; it is intended to complement the Veyne Pink.
-- A guard at the outer room says Lord Veyne asked that Elowen be informed her father has arrived.
-- Elowen asks: 'Is he here for me or Lord Veyne?'
-- Based on the just-established plan, Garrick's primary immediate purpose is plausibly to meet Cassian/receive the defined external investigation strand concerning the priest, north market, false watch cloaks and missing watchmen. He may also wish to see Elowen, his newly married daughter, but do not invent that he requested a private meeting unless established.
-- Guard should answer only what he plausibly knows (e.g. Garrick was shown to Cassian's office/study or asked for Lord Veyne). Do not give the guard knowledge of confidential investigative substance unless he was told.
-- Elowen remains under guard but may move around the house with guards. Cassian is back at succession/investigation work.
+- Garrick Vale arrived and went directly to Cassian's study after asking for Lord Veyne. Cassian had specifically ordered that Elowen be informed of her father's arrival.
+- Elowen chooses not to intrude. She returns to her own rooms to read her correspondence.
+- Two guards clear the rooms first. This is a visible continuation of Cassian's security order and is especially relevant because the prior dagger threat was planted in Elowen's pillow while she was away.
+- Once cleared, Elowen may enter with guards remaining outside/nearby. She is dressed in one of her newly commissioned non-mourning Veyne dresses with the Veyne Pink, exact dress details unspecified.
+- Correspondence is a natural avenue for her assigned political-intelligence role: calls, invitations, congratulations, gossip, and any suspicious mention of nonpublic details. Do not invent specific letters or senders as established facts until surfaced in play.
+- Garrick and Cassian are presumably discussing the external investigation division, but Elowen cannot know their private conversation unless told later.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: early afternoon, 17th Deepfrost.
