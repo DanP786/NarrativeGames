@@ -1,14 +1,16 @@
 # Current scene
 
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
-- Time: late evening, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: charged first private intimacy as husband and wife
-- Situation: Elowen has affirmatively consented to intimacy, stepped into Cassian's embrace, and kissed him. She remains nervous but is becoming more comfortable and tells him the slower second kiss is 'better.'
+- Time: dawn, 17th Deepfrost, Year 312 of the Crown
+- Scene significance: charged intimate aftermath of wedding night
+- Situation: Elowen and Cassian spend their first night as husband and wife together. Player establishes that Cassian keeps Elowen awake all night; treat this as consensual romantic/sexual intimacy and fade over the private details rather than narrating graphically.
 
 ## Recent beats
-- Cassian responds to Elowen's admitted nervousness by telling her she may be nervous and may change her mind, but orders her not to make herself smaller for him. He reminds her he married a woman with opinions and teases her about ordering him to sleep.
-- Cassian kisses Elowen again, more slowly, keeping one hand firm at her waist and the other in her loose hair. He asks: 'Better?'
-- Elowen breathes: 'Yes.' This confirms the slower pace feels better and that she remains willingly engaged.
-- Maintain Cassian's controlled/authoritative manner without turning him submissive or therapeutic. He can continue kissing/touching in non-explicit romantic terms while remaining attentive to Elowen's participation.
-- Keep intimacy sensual but non-graphic. If consummation is reached, transition with tasteful implication/fade-to-black and record only that it occurred if player direction establishes it.
-- Veyne Pink remains on Elowen's right hand. Guards remain at far end of corridor within call. Dagger/priest attacks remain unresolved outside the private moment.
+- Elowen explicitly consented OOC and in-character stepped into Cassian's embrace. She remained nervous but told him his slower pace was 'better.'
+- Cassian told Elowen they would keep it better, led her toward the bed, and continued intimacy without rushing her.
+- Player establishes: 'Cassian keeps me awake all night.' Canon consequence: the newlyweds spend the night together and neither gets meaningful sleep. Their marriage is consummated only insofar as this implication is intended; do not describe sexual acts explicitly.
+- Morning consequences can include physical tiredness, rumpled bedding/clothes, intimacy/familiarity, and Cassian's own exhaustion after already sleeping little during the preceding security crisis. Do not invent injury or distress.
+- The Veyne Pink remained on Elowen's right hand going into the night unless she later removes it.
+- Security remained active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. The priest was recovered alive but badly beaten. Cassian intended to drive the investigation hard on 17th Deepfrost.
+- Relationship conflict over Cassian's authority/security decisions remains unresolved despite consensual wedding-night intimacy; physical closeness should not magically erase it.
+- Calendar advances to dawn/morning of 17th Deepfrost, first morning of their marriage.
