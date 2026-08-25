@@ -1,14 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Cassian's private bedchamber
-- Time: around midday, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: intimate banter transitioning firmly back to political duties
-- Situation: Cassian finally insists that both newlyweds dress properly and return to work after repeated morning distractions. Elowen answers teasingly: 'If you insist husband.'
+- Location: Veyrhold — Veyne House, Elowen's dressing room/private suite
+- Time: early afternoon, 17th Deepfrost, Year 312 of the Crown
+- Scene significance: routine transition into first-day duties as Lady Veyne
+- Situation: After the long wedding morning, Elowen takes a long soak and then dresses in one of the newly commissioned dresses ordered for her Veyne wardrobe. In accordance with Cassian's instruction, she does not wear mourning colours.
 
 ## Recent beats
-- Elowen tells Cassian he would miss her too much to send her to another house. Cassian admits matter-of-factly that she is correct and that he would miss her, while denying jealousy and calling himself 'territorial.'
-- Cassian then gets out of bed with determination, says Elowen has defeated the succession three times before noon, and orders her to get dressed 'properly,' warning that he means it.
-- Elowen replies: 'If you insist husband.' Keep the tone playful and non-explicit, but Cassian should now hold the line and return to work rather than be derailed yet again.
-- Elowen remains under guard but no longer has to remain physically beside Cassian. She has been assigned guarded political/social intelligence work: calls, luncheons, listening for unusual confidence, disappointment about the wedding, or leaks of nonpublic priest details.
-- Cassian needs to send/confirm Garrick's defined external investigation strand and resume succession work. Veyne retains the internal dagger/household breach investigation.
-- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: around midday, 17th Deepfrost.
+- Cassian finally insists both newlyweds dress and return to work after repeated morning distractions. Elowen teasingly answers: 'If you insist husband.'
+- Cassian leaves Didi with the instruction to get his wife dressed, while Didi dryly suggests something with buttons.
+- Elowen chooses first to enjoy a long soak, recovering from the exhausting wedding and sleepless night.
+- She then dresses in one of the newly commissioned dresses from the wardrobe Cassian ordered after their marriage. She deliberately follows his instruction not to wear mourning colours. Do not invent an exact dress colour/material unless established by player or a refreshed wardrobe file; prior player preference was that commissioned dresses complement the Veyne Pink.
+- Veyne Pink remains a key part of her married presentation unless she chooses to remove it.
+- Elowen remains under guard but no longer must stay physically beside Cassian. Her assigned political/social intelligence role is calls, luncheons and listening for unusual confidence, disappointment over the successful wedding, or leaks of nonpublic priest details.
+- Cassian has returned to succession work and needs to confirm Garrick's external investigation strand. Veyne retains the internal dagger/household breach inquiry.
+- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: early afternoon, 17th Deepfrost.
