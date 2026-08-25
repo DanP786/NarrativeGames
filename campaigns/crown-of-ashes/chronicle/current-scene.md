@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, guarded bridal dressing room
+- Location: Veyrhold — Veyne House, leaving guarded bridal dressing room toward chapel
 - Time: morning, 16th Deepfrost, Year 312 of the Crown
-- Scene significance: climactic wedding morning under active security threat
-- Situation: Elowen is fully dressed as a bride and has agreed to receive her father, Lord Garrick Vale, who has arrived to escort her to the chapel.
+- Scene significance: climactic wedding procession under active security threat
+- Situation: Elowen is fully dressed as a bride and has chosen to proceed immediately with her father to the chapel.
 
 ## Recent beats
-- Didi places the Veyne Pink on Elowen's right hand at Elowen's request. Against the ivory gown it is the principal colored jewel; Elowen wears no competing necklace.
-- Elowen is fully prepared: ivory silk gown with frost embroidery and lace sleeves, long train, softly arranged hair, veil pinned at the back without covering her face, Veyne Pink on her right hand.
-- A guard announces Lord Vale has arrived to take Elowen to the chapel. Didi notes Cassian has heavily secured the route after the dagger threat.
-- Didi asks if Elowen is ready to see her father. Elowen nods.
-- Garrick may enter/be admitted after security protocol. His reaction should reflect established father-daughter complexity: he chose Cassian for Elowen and negotiated the marriage primarily to protect Vale, but seeing his daughter as a bride can still affect him. Do not turn him suddenly into a modern sentimental father or erase their tension.
-- Before relying on exact Garrick characterization/dialogue or hidden knowledge, deep NPC file should be read if he speaks/acts this turn per engine NPC rule. Security remains heightened; dagger culprit/access route unresolved. Wedding is today.
+- Garrick arrives formally dressed to escort Elowen. He pauses on seeing her in the completed gown and tells her she looks very beautiful, then characteristically inspects the dress and notes she chose to wear the Veyne Pink.
+- Garrick offers Elowen his arm and asks whether she wants a few minutes alone with her father before he takes her downstairs, explicitly avoiding belated questions about fear/certainty after the dynastic decision and contracts are already made.
+- Elowen smiles warmly, takes Garrick's arm, and says: 'let’s go.' She chooses not to delay for a private father-daughter conversation.
+- Garrick should accept this without forcing sentiment. His affection remains controlled and dynastically framed; he loves Elowen but still sees this marriage as necessary for Vale and retains extreme resentment toward Cassian for Rowan's death.
+- Wedding procession security is extremely heavy after the dagger threat. Do not resolve culprit/access route offscreen. The route from dressing room to chapel should feel guarded and politically significant.
+- Elowen's bridal appearance: ivory silk gown, fitted bodice/waist, fuller skirt, frost-like embroidery, lace sleeves, long train; hair softly arranged, veil pinned at back without covering face; Veyne Pink on right hand, no competing necklace.
+- Relationship conflict with Cassian remains unresolved despite Elowen's continuing choice to marry him. Wedding is now imminent.
