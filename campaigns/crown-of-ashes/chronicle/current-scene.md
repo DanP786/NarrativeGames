@@ -3,12 +3,12 @@
 - Location: Veyrhold — Veyne House, Cassian's private bedchamber
 - Time: late morning, 17th Deepfrost, Year 312 of the Crown
 - Scene significance: charged romantic first morning of marriage before investigation resumes
-- Situation: Cassian has woken Elowen with kisses after several hours of sleep. Elowen smiles at him; Cassian responds by catching her hands and pinning them above her head against the pillow in an assertive, playful intimate gesture.
+- Situation: Cassian and Elowen's playful morning intimacy becomes more physically assertive. With Elowen's wrists held above her head, Cassian shifts between her legs with his knee, continuing their established consensual power-dynamic intimacy.
 
 ## Recent beats
-- Cassian woke Elowen by kissing her and joking that, given recent attacks, he was checking that she was alive. They tease each other about sleeping half the morning and Cassian claims he decided to respect his wife's judgment about sleep, adding that she should not become accustomed to it.
-- Cassian greets her as 'Lady Veyne.' Elowen smiles.
-- Player establishes that Cassian pins Elowen's hands above her head. Treat this as consensual continuation of their established wedding-night/morning intimacy and keep narration non-explicit. Elowen's smile/participation supports playful closeness, but do not escalate to graphic sexual acts.
-- Maintain Cassian's authoritative physical presence and their power-dynamic romance without making him suddenly egalitarian. Keep the beat sensual/suggestive only; fade if it would progress into explicit sex.
-- Cassian still has pressing investigation duties concerning the dagger and priest attack, so this private morning interlude cannot consume the entire day without consequence.
+- Elowen smiles after Cassian greets her as Lady Veyne. Cassian catches both her wrists in one hand and pins them above her head, teasing her about having sent a guard to order him to bed.
+- Cassian tells Elowen she is smiling too confidently for someone 'currently at my mercy, wife,' then kisses her again.
+- Player establishes that Cassian pushes Elowen's leg apart with his knee. Treat this as consensual continuation of the established adult intimacy and power dynamic, but keep narration sensual/non-explicit and fade before graphic sexual acts.
+- Maintain Cassian's authoritative physical presence; do not soften the dynamic into egalitarian reassurance. Elowen's reactions/choices remain player-controlled.
+- Cassian still has pressing investigation duties today concerning the dagger and priest attack. After this private interlude, the political/security plot should resume rather than disappear.
 - Security remains active outside the suite. Dagger culprit/access route unresolved; priest attackers unresolved. Relationship authority conflict remains unresolved despite intimacy. Calendar: late morning, 17th Deepfrost.
