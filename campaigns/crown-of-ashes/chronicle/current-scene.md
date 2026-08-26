@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen and Cassian's private suite
-- Time: morning, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged transition into Lady Corren tea day
-- Situation: The night passes and morning arrives. Player establishes that Cassian was as insatiable with Elowen as on their wedding night; treat this as consensual marital intimacy occurring off-page, with no graphic detail. Both may again be tired in the morning, but do not invent distress or injury.
+- Location: Veyrhold — Veyne House, Elowen's dressing room/private suite
+- Time: late morning, 18th Deepfrost, Year 312 of the Crown
+- Scene significance: routine preparation for Lady Corren intelligence tea
+- Situation: Elowen prepares to receive Lady Maris Corren. She chooses a cream dress and gold jewellery that complement her honey-blonde hair, presenting herself in warm non-mourning colours as Lady Veyne.
 
 ## Recent beats
-- Elowen and Didi discussed the possible pattern among the convoy, Greyfell/Greyfen, courier, priest and pillow-dagger attacks. Didi cautioned Elowen not to assume they are all the same perpetrators and advised her to let Lady Corren gossip rather than interrogating her.
-- Didi's advice: if Corren mentions the priest, do not correct her; if Corren says something false, especially do not correct her. Let Corren reveal what version of events she has been given and find one thread to pull.
-- Cassian approved Lady Corren's tea under conditions: Corren must not know she is suspected; Elowen must not accuse her or reveal what they know; guards/security nearby; Cassian gets the suspicious letter; his people investigate Corren's recent contacts/watch connections.
-- Player establishes Cassian was again 'as insatiable as the night before.' Keep the overnight intimacy faded/non-explicit and focus morning narration on aftermath, banter, preparation and today's political/social stakes.
-- Lady Maris Corren is due for tea before Daphne today. Daphne comes later and Elowen may discreetly learn whether Daphne's sister enjoyed speaking with Garrick, per Garrick's permission.
-- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only; broader attack-chain linkage remains unproven. Calendar advances to morning, 18th Deepfrost.
+- The second newlywed night passes with consensual intimacy off-page. In the morning Cassian reluctantly releases Elowen from bed because Lady Corren is due before Daphne.
+- Cassian reiterates the plan: Corren should not encounter Daphne; Elowen should not hunt for information but let Corren offer it, and should 'go be underestimated.'
+- Player establishes Elowen's appearance today: cream dress, gold jewellery, honey-blonde hair. The Veyne Pink has been a consistent married accessory; unless player removes it, retain it on her right hand alongside the gold jewellery.
+- Lady Corren is due for tea before Daphne. Corren's suspicious letter said: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' She should not know the priest survived unless she learned it through an unestablished leak/source.
+- Elowen's approach from Didi: let Corren gossip; do not correct falsehoods; reveal as little as possible about what Elowen knows; identify one thread rather than forcing all attacks into one theory.
+- Security: guards nearby/outside; Corren must not know she is suspected; Cassian's people are separately checking her recent contacts/watch connections.
+- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only; broader attack-chain linkage remains unproven. Calendar: late morning, 18th Deepfrost.
