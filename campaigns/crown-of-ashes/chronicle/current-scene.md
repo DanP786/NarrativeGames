@@ -1,13 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Cassian's study
-- Time: approaching midday, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: tender/flirtatious marital reconciliation tied back to succession ambition
-- Situation: After Cassian jokingly calls Elowen a monster for demanding flowers, jewellery, dresses and attentive listening, Elowen teases while pulling back: 'A monster who will make you King.'
+- Location: Veyrhold — Veyne House, Elowen's dressing room
+- Time: early afternoon the next day, Year 312 of the Crown (exact date not established)
+- Scene significance: charged political preparation for Lady Sorne's tea
+- Situation: On the day of Lady Aramelle Sorne's invitation, Elowen and Didi choose an elegant but deliberately restrained day dress: refined enough for a politically important private call, plain enough not to compete with or overawe her hostess. The Veyne Pink supplies the unmistakable dynastic statement and will naturally draw most of the attention.
 
 ## Recent beats
-- Elowen's political tea campaign has already begun moving undecided noble households toward Cassian by framing him as stable, competent and supported by the Vale-Veyne union. Her claim that she will 'make' him King is flirtatious confidence, not an established outcome; succession remains contested.
-- Cassian recognizes Elowen as a meaningful political partner and has previously noted her drawing-room work is achieving results his formal envoys struggled to get.
-- The security disagreement is softened but unresolved: Lady Sorne tea tomorrow proceeds with four guards, controlled Veyne route/carriage/driver, no pre-search of Sorne's home, and guards entering only if Sorne permits an ordinary escort.
-- Keep Cassian's reaction admiring/ambitious and perhaps cautionary about the danger of promising crowns. Do not establish victory prematurely.
-- Honey-almond tart remains nearly finished on Cassian's desk. Former-lover dagger avenue to be investigated; House Dacre link unproven; pillow-dagger route unresolved.
+- Lady Sorne refused three prior invitations to Veyne House but finally invited Elowen to tea at her own home. Her husband influences undecided western houses; this is an important opening in Elowen's drawing-room succession campaign.
+- Security compromise with Cassian remains in force: no Veyne pre-search or intrusion into Sorne's house; Veyne controls Elowen's route, carriage and driver; four guards accompany her; two may enter only if Sorne permits an ordinary escort, otherwise they remain outside.
+- Elowen and Cassian reconciled emotionally without resolving their substantive security disagreement. Cassian acknowledged Elowen is actively building his path to the crown and promised her political contribution will not be erased if he succeeds.
+- The Veyne Pink is intentionally worn as the principal statement piece. Preserve its status as a famous dynastic jewel in Elowen's custody; do not treat it as legally her personal property unless established.
+- Exact dress color/design has not yet been specified by player. Didi can suggest a restrained elegant choice without making it ostentatious. Avoid mourning colors because Cassian previously instructed Elowen away from mourning dress after the wedding.
+- Former-lover/jealous-woman dagger avenue is being investigated; House Dacre link unproven; pillow-dagger route unresolved. Do not inject investigation results into this preparation unless earned later.
