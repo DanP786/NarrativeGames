@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Cassian's study / doorway
+- Location: Veyrhold — Veyne House, kitchens
 - Time: late morning, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: charged marital/security confrontation ending on jealousy-investigation barb
-- Situation: Cassian admits there is no evidence linking the pillow dagger to Dacre, Greyfell, the courier or priest attack and that an independent jealous/personal motive remains possible. Elowen replies: 'Perhaps question your former lovers' and turns on her heel to leave.
+- Scene significance: routine domestic beat after charged security confrontation
+- Situation: After leaving Cassian's study on the pointed suggestion that he investigate former lovers, Elowen goes downstairs to the household kitchens and asks the head cook/chef what Cassian's favorite sweet treat is.
 
 ## Recent beats
-- Cassian says he has considered jealousy, a former lover, someone who expected to become Lady Veyne, or someone who resented the marriage, but investigators found no useful dagger provenance or link to the broader attack chain.
-- Cassian's fear intensifies precisely because an independent household-access culprit gives him no obvious network to trace. He argues uncertainty justifies security rather than relaxation.
-- Elowen's 'former lovers' remark is both a plausible investigative suggestion and a pointed marital barb after Cassian acknowledged that category. She turns to leave; preserve her agency. Cassian may call after her or react, but should not physically prevent her leaving unless player chooses continued confrontation.
-- Do not invent names/history of Cassian's former lovers without refreshing relevant canon NPC/narrative files. If the investigation actually pursues that lead, read relevant files first.
-- Lady Sorne visit remains permitted under negotiated conditions: no pre-search/house intrusion; Veyne route/carriage/driver; four guards; two enter only if Sorne permits ordinary escort, otherwise remain outside.
-- House Dacre historical link remains unproven; Georgia/Garrick courtship continues in background; pillow-dagger access route unresolved.
+- Elowen and Cassian's security argument ended without full resolution. Cassian agreed to investigate the possibility that a former lover/jealous woman independently planted the pillow dagger.
+- Lady Sorne tea remains permitted tomorrow under negotiated conditions: no pre-search/house intrusion; Veyne route/carriage/driver; four guards; two enter only if Sorne permits ordinary escort, otherwise remain outside.
+- Elowen now seeks Cassian's favorite sweet. Her motive is not explicitly stated; do not assume apology, seduction, bribery or reconciliation unless she says so. Let the domestic inquiry play naturally.
+- Exact identity/name of Veyne House's head chef and Cassian's favorite dessert are not established in current-scene canon. A new minor household NPC and culinary preference may be established here if consistent with setting; preserve once introduced.
+- Elowen's increased guard detail follows her even within/around the household as appropriate but need not dominate the kitchen scene.
+- House Dacre link remains unproven; Georgia/Garrick courtship background; pillow-dagger access route unresolved.
