@@ -2,14 +2,14 @@
 
 - Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: late morning, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged social-intelligence encounter; Greyfell recognition lead deepens
-- Situation: Corren has revealed her unnamed lieutenant cousin focused on a Greyfell attacker missing two fingers from his left hand and sent a boy to the old records office yesterday morning after apparently remembering something. Corren jokes that her cousin has infected her with morbid work gossip. Elowen laughs warmly, encouraging her to continue without exposing investigative intent.
+- Scene significance: charged social-intelligence encounter; Elowen continues passive elicitation
+- Situation: Elowen continues enacting the agreed plan exactly: she remains a warm, apparently unguarded hostess, encouraging Lady Corren with smiles, laughter, agreement and ordinary social responses while avoiding direct investigative questions or revealing what she knows.
 
 ## Recent beats
-- Corren says the Greyfell copied description noted an attacker missing two fingers from his left hand. Her cousin believed he had seen such a man before, perhaps through watch-house work or among men doing unpleasant work for noble houses.
-- Corren says her cousin had not identified the man while she was present, but yesterday morning sent a boy to the old records office before reporting to Captain Rusk, suggesting he may have remembered a lead.
-- Elowen laughs encouragingly rather than redirecting or interrogating. This keeps Corren relaxed and gives her room either to continue the cousin anecdote or drift into related gossip naturally.
-- Do not conveniently reveal the attacker's identity or cousin's name without conversational cause. The investigation should retain uncertainty.
-- Strong leads: Captain Rusk; altered duty ledger tied to three missing watchmen; unnamed lieutenant cousin; copied Greyfell description; two missing fingers on attacker's left hand; old records office inquiry.
-- Corren remains more plausibly a loose-lipped recipient than a conspirator. Didi remains unobtrusive; guards discreetly outside. Cassian's separate checks have no established result yet. Daphne is due later and should not overlap.
+- Corren says her unnamed lieutenant cousin confirmed through old records that the Greyfell attacker missing two fingers from his left hand had once been arrested in Veyrhold after a tavern fight.
+- The old record says someone attached to a noble household paid that man's fine. Corren's cousin refused to tell her which household, saying even he knew when to stop talking. Corren jokes she will eventually get it out of him.
+- Player explicitly chooses to keep enacting the plan rather than press. Therefore allow the conversation to unfold naturally: Corren may drift through harmless social gossip and, if organically connected, volunteer additional work gossip. Do not make every line a clue or turn Corren into an implausible information dump.
+- Elowen should not directly ask for the cousin's name, the noble household, or other confidential details unless player later chooses to. Her restraint is part of the tactic.
+- Strong leads already earned: Captain Rusk; altered duty ledger tied to three missing watchmen; unnamed lieutenant cousin; courier stolen contents; Greyfell attackers recovering dead; two-fingered left hand; old arrest record; noble-household affiliate paid the man's fine.
+- Corren remains more plausibly a loose-lipped downstream recipient than a conspirator. Didi remains unobtrusive; guards discreetly outside. Cassian's separate checks have no established result yet. Daphne is due later and should not overlap.
 - Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven. Calendar: late morning, 18th Deepfrost.
