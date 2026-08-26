@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen's private sitting room
+- Location: Veyrhold — Veyne House, upper galleries/corridors
 - Time: mid-afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: routine correspondence review completed with one suspicious social-intelligence lead
-- Situation: Elowen finishes reading the full post-wedding correspondence pile in her guarded rooms. Most letters are ordinary congratulations, invitations, social overtures or household matters. Lady Maris Corren's reference to the priest having survived remains the only clearly suspicious/nonpublic detail surfaced in this review.
+- Scene significance: routine guarded movement after correspondence review
+- Situation: Having finished all post-wedding correspondence, Elowen leaves her rooms to stretch her legs and walks the halls of Veyne House. In accordance with Cassian's standing security order, guards accompany/follow her rather than allowing her to walk unguarded.
 
 ## Recent beats
-- Lady Maris Corren's congratulatory letter says: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' Elowen believes the priest's survival/attack was not publicly known and recognizes this as matching Cassian's instruction to notice leaked nonpublic details.
-- Elowen orders Lady Corren invited to tea tomorrow before Daphne. Didi sends an impeccably ordinary invitation without revealing the reason for interest. Corren's knowledge is suspicious but not proof of complicity.
-- Daphne is separately accepted for tea later tomorrow afternoon.
-- Player establishes Elowen finishes all remaining letters. Do not invent additional major clues from them; the rest can be summarized as socially/politically useful but not immediately alarming unless a later refreshed correspondence record establishes otherwise.
-- Elowen may now choose to report the Corren lead to Cassian, continue her social-intelligence work, check whether Garrick's meeting has ended, or pursue another safe activity. Do not decide for her.
-- Guards remain outside Elowen's rooms. Garrick's private meeting with Cassian has not yet been established as concluded.
+- Elowen completed the full correspondence pile. Most letters were congratulations, invitations and sudden social overtures; Lady Maris Corren's reference to the priest having survived remains the only clear nonpublic/suspicious detail.
+- Lady Corren has been invited to tea tomorrow before Daphne. Daphne is accepted for tea later tomorrow afternoon.
+- Elowen now walks down the hall simply to stretch her legs. Do not force her toward Cassian/Garrick or an investigative event unless naturally encountered.
+- Guards should be present but not visually dominate the beat unless they act; Cassian explicitly allows Elowen to move around the house under guard.
+- Elowen is in a newly commissioned non-mourning Veyne dress with the Veyne Pink. Exact dress colour/material remains unspecified.
+- Garrick's private meeting with Cassian has not yet been established as concluded. Elowen does not know its contents.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: mid-afternoon, 17th Deepfrost.
