@@ -1,13 +1,12 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, leaving kitchens toward Cassian's study
+- Location: Veyrhold — Veyne House, Cassian's study
 - Time: approaching midday, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: routine warm domestic reconciliation beat with unresolved security tension underneath
-- Situation: The supervised honey-almond tart Elowen helped make has come out well. When the head cook asks whether it should be sent to Cassian, Elowen says: 'I will take it to him.' She intends to personally carry/present Cassian's favorite sweet to him.
+- Scene significance: routine warm marital reconciliation beat with unresolved security tension underneath
+- Situation: Elowen personally brings Cassian the warm honey-almond tart she helped make. Cassian jokes that after their argument and her former-lovers remark, the pastry is either affection or an assassination attempt, then recognizes it as honey-almond. Elowen innocently replies: 'If you think I have poisoned it I can take it away.'
 
 ## Recent beats
-- Elowen followed the cook's instructions carefully, preparing the almond-honey-orange filling and scattering the final almonds. The cook judged the finished tart 'acceptable,' which a maid translated as excellent.
-- Cassian's favorite sweet is canon: honey-almond tart with thin pastry, more almond than honey, little orange peel; he claims not to have a favorite but reliably clears the plate.
-- Elowen's motive remains unstated. The tart follows their charged security argument and her pointed former-lovers suggestion, but do not force it to be an apology. Cassian may infer affection/peace offering while recognizing she has not conceded the argument.
-- Two guards remain with Elowen under the increased security order and will accompany her through the house. Cassian was working in his study with security/succession material; exact current company must not be invented as unchanged without need. Elowen can arrive and be admitted/announced.
-- Lady Sorne tea tomorrow remains permitted under negotiated conditions. Cassian is to investigate former-lover/jealous-woman dagger avenue; House Dacre link remains unproven; pillow-dagger route unresolved.
+- The tart was made under the head cook's supervision. Elowen prepared the almond-honey-orange filling and final almonds; the cook judged it excellent by his standards. Cassian does not yet know Elowen helped make it unless she tells him or evidence reveals it.
+- Cassian's favorite sweet is honey-almond tart, thin pastry, more almond than honey, little orange peel. He claims not to have a favorite but reliably finishes it.
+- Elowen's innocent offer to remove it is teasing. Cassian can immediately object/protect the tart, revealing his fondness for it, and may ask where it came from/why she brought it. Keep affection without pretending the security disagreement is resolved.
+- Elowen has not conceded the Lady Sorne security dispute; negotiated conditions remain in place for tomorrow's tea. Cassian is to investigate former-lover/jealous-woman dagger avenue; House Dacre link unproven; pillow-dagger route unresolved.
