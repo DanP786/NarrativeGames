@@ -2,11 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: approaching midday, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: routine warm marital reconciliation beat
-- Situation: After sincerely thanking Elowen for helping make his favorite tart, Cassian ruins the tenderness by joking that he only ate it to spare the household from Lady Veyne's first baking attempt. Elowen responds by playfully slapping/swiping his shoulder.
+- Scene significance: charged-tender marital reconciliation and character revelation
+- Situation: After Cassian asks Elowen to make him another honey-almond tart sometime, Elowen cups his face and says: 'keep listening to me and I will make you as many as you like.' She kisses him sweetly, then reveals that her father would often refuse to speak with her mother even when matters were urgent. Elowen is explicitly linking Cassian's willingness to hear her—even during disagreement—to something she deeply values in marriage.
 
 ## Recent beats
-- Cassian explicitly recognizes the tart as kindness rather than Elowen surrendering their security disagreement. He remains firm that Lady Sorne's visit will involve four guards.
-- Elowen made the almond-honey-orange filling under the head cook's supervision; Cassian clearly enjoys the tart while pretending otherwise.
-- Elowen's shoulder slap is playful marital retaliation, not violence. Cassian can laugh, protect the tart, tease her, or catch her hand; keep tone affectionate.
-- Lady Sorne tea tomorrow remains permitted under negotiated conditions. Former-lover/jealous-woman dagger avenue to be investigated; House Dacre link unproven; pillow-dagger route unresolved.
+- Cassian recognized the tart as kindness rather than surrender and sincerely thanked Elowen. Their security disagreement remains unresolved in substance, but he listened, compromised on an overt search of Lady Sorne's house, and agreed to investigate Elowen's former-lover/jealous-woman dagger theory.
+- Elowen's new family-history statement is canon: Garrick would many times refuse to speak with Elowen's mother regardless of how urgent she believed the matter. Do not over-specify why, frequency beyond 'many times,' or the mother's feelings unless established by player/canon.
+- This is a vulnerable comparison, not necessarily an accusation that Garrick was an entirely bad husband/father. Cassian should listen rather than defensively turn it into criticism of Garrick. He can understand that Elowen values access, being heard and not being shut out even when her husband disagrees.
+- Elowen kisses Cassian sweetly while holding his face. Keep intimacy tender/non-explicit.
+- Lady Sorne tea tomorrow remains permitted under negotiated conditions: no pre-search/house intrusion; Veyne route/carriage/driver; four guards; two enter only if Sorne permits ordinary escort, otherwise remain outside.
+- Former-lover/jealous-woman dagger avenue to be investigated; House Dacre link unproven; pillow-dagger route unresolved.
