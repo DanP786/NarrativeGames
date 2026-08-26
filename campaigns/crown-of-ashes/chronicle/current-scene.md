@@ -2,15 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: mid-afternoon, 17th Deepfrost, Year 312 of the Crown
-- Scene significance: charged intelligence planning between newlyweds
-- Situation: Cassian learns Lady Maris Corren used nonpublic language about the priest surviving his ordeal and that Elowen has already invited Corren to tea tomorrow. When Cassian reacts sharply, Elowen pauses and explains that she intends to have tea with Corren and see whether any further details Corren should not know slip out.
+- Scene significance: charged marital intimacy after intelligence planning
+- Situation: After recognizing that Elowen produced a strong lead through her correspondence review, Cassian closes the distance and kisses her passionately in his study. The kiss is consensual continuation of their established adult intimacy and remains non-explicit.
 
 ## Recent beats
-- Exact suspicious wording: Lady Corren wrote, 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' Cassian confirms she should not know that.
-- Only Elowen and Didi are established as having seen the letter so far. Cassian now knows its wording through Elowen's report.
-- Elowen already invited Lady Corren to tea tomorrow before Daphne, using an ordinary social invitation without revealing suspicion.
-- Elowen's rationale: create a normal social setting and let Corren talk, watching for additional nonpublic knowledge rather than confronting her directly.
-- Cassian should assess this as potentially useful but risky. Maintain his established security control: he may permit the tea because it occurs inside guarded Veyne House, but impose conditions (room security, nearby listener/guard, no confrontation, signal if danger, preserve letter). He should not simply praise and agree without conditions.
-- Corren's knowledge remains suspicious but not proof of guilt; possible gossip/leak/source chains remain open. Do not solve her source before the tea/investigation establishes it.
-- Cassian and Elowen's physical closeness may continue, but intelligence discussion is now primary. Guards remain outside/near the study.
-- Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: mid-afternoon, 17th Deepfrost.
+- Cassian permits Elowen's tea with Lady Corren but imposes conditions: Corren must not know she is suspected; Elowen must not accuse her or reveal what they know; guards/security will be nearby; the suspicious letter goes to Cassian; his people will investigate Corren's recent contacts and watch connections.
+- Elowen notes that noble training has taught her not to react, and Cassian recognizes that this makes her useful for social intelligence.
+- Cassian tells Elowen she has produced a better lead in roughly three hours than several men he pays professionally, then warns her not to look pleased or she will become insufferable.
+- Player establishes Cassian then makes out with Elowen passionately. Keep the beat focused on kissing/physical closeness, non-graphic. Do not automatically escalate to sex; Cassian is in his study with urgent work still pending.
+- Their security/autonomy conflict remains unresolved despite affection. Elowen remains under guard.
+- Lady Corren tea is tomorrow before Daphne. Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: mid-afternoon, 17th Deepfrost.
