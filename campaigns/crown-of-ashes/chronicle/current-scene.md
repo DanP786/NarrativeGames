@@ -2,12 +2,11 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: approaching midday, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: warm marital reconciliation beat with unresolved security tension underneath
-- Situation: Cassian notices flour on Elowen's sleeve after tasting the honey-almond tart and realizes she did more than have it sent from the kitchens. When he asks whether she made it, Elowen looks down sheepishly and admits: 'I helped.'
+- Scene significance: routine warm marital reconciliation beat
+- Situation: After sincerely thanking Elowen for helping make his favorite tart, Cassian ruins the tenderness by joking that he only ate it to spare the household from Lady Veyne's first baking attempt. Elowen responds by playfully slapping/swiping his shoulder.
 
 ## Recent beats
-- Elowen made the tart under the head cook's close supervision: she prepared the almond-honey-orange filling and scattered final almonds; the cook handled/protected the pastry and judged the result excellent by his standards.
-- Cassian clearly likes the tart despite calling it merely 'adequate.' He stopped Elowen from taking it away and has already eaten several bites.
-- Elowen's admission is vulnerable/domestic after their earlier argument. Cassian can be genuinely touched because she personally entered the kitchens and learned his preference, while understanding this does not mean she concedes the security dispute.
-- Do not force Elowen to call it an apology. Her motive remains hers unless she states it. Cassian may ask why or tease gently, but should not use the gesture to claim victory in their disagreement.
-- Lady Sorne tea tomorrow remains permitted under negotiated conditions. Cassian is to investigate former-lover/jealous-woman dagger avenue; House Dacre link unproven; pillow-dagger route unresolved.
+- Cassian explicitly recognizes the tart as kindness rather than Elowen surrendering their security disagreement. He remains firm that Lady Sorne's visit will involve four guards.
+- Elowen made the almond-honey-orange filling under the head cook's supervision; Cassian clearly enjoys the tart while pretending otherwise.
+- Elowen's shoulder slap is playful marital retaliation, not violence. Cassian can laugh, protect the tart, tease her, or catch her hand; keep tone affectionate.
+- Lady Sorne tea tomorrow remains permitted under negotiated conditions. Former-lover/jealous-woman dagger avenue to be investigated; House Dacre link unproven; pillow-dagger route unresolved.
