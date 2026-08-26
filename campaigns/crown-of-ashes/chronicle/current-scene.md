@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: late morning, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged social-intelligence encounter testing Corren's knowledge of attacks on Elowen
-- Situation: After Corren reveals that her city-watch cousin also discussed the attacked royal courier and says the stolen material was never recovered, she tells Elowen that Elowen probably knows about recent unpleasant events better than most. Elowen replies evenly: 'Indeed, I have had my fair share,' leaving Corren room to reveal what she knows about attacks involving Elowen without naming them herself.
+- Scene significance: charged social-intelligence encounter; Corren source now spans multiple incidents
+- Situation: Corren has revealed that her city-watch cousin discussed a specific Greyfell detail: attackers apparently recovered their dead while fleeing. Corren apologizes for her family's morbid conversation. Elowen reassures her: 'On the contrary Lady Corren. Both my father and husband have the same habit,' normalizing such talk so Corren remains comfortable and continues speaking.
 
 ## Recent beats
-- Elowen mentioned only that a royal courier was attacked. Corren volunteered: 'I heard they never recovered what he was carrying,' then tried to soften it as possible gossip. She says her cousin was frustrated because the palace pressured the city watch over that incident too.
-- This links Corren's source/cousin to both the priest investigation and courier investigation, but does not establish the cousin as involved in either crime; he may simply have legitimate watch access and loose lips.
-- Corren's comfort decreased slightly after volunteering the courier detail, suggesting she may recognize she said more than common gossip, but do not treat this as proof of guilt.
-- Elowen replies: 'Indeed, I have had my fair share.' This is intentionally broad and does not specify the convoy, Greyfell/Greyfen, or pillow dagger. Corren may respond based on what she has actually heard; any specific knowledge she volunteers can be compared against what was public.
-- Do not invent cousin name/rank/access yet unless naturally supplied. Didi remains unobtrusive; guards discreetly outside. Cassian's separate checks have no established result yet.
+- Corren's cousin/source has now surfaced information touching three incidents: priest attack (survival, watch colours, three missing watchmen), royal courier attack (stolen contents not recovered, palace pressure on watch), and Greyfell attack (attackers left few bodies because they apparently recovered their dead).
+- Corren herself may simply be repeating confidential watch information; this breadth makes the cousin an important information-source lead but still does not prove involvement in the crimes.
+- Elowen intentionally does not challenge Corren. Her response comparing Garrick and Cassian's habit of discussing grim matters to Corren's cousin is meant to reduce Corren's self-consciousness and keep her talking.
+- Do not invent cousin identity/rank unless Corren naturally supplies it. A plausible next conversational development is Corren relaxing and perhaps talking about how often/where she sees the cousin, his temperament, or another case, but avoid an implausibly convenient full dossier.
+- Didi remains unobtrusive; guards discreetly outside. Cassian's separate checks have no established result yet.
 - Daphne is due later and should not overlap. Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only; broader attack-chain linkage remains unproven. Calendar: late morning, 18th Deepfrost.
