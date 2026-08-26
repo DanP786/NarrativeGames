@@ -2,15 +2,15 @@
 
 - Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: late morning, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged social-intelligence encounter; Corren's gossip exposes source-chain irregularities
-- Situation: After Corren names Captain Rusk as her city-watch cousin's captain, Elowen continues using agreeable, noncommittal leading remarks and sympathetic reactions to keep Corren relaxed and gossiping rather than directly interrogating her.
+- Scene significance: charged social-intelligence encounter; Corren's lieutenant cousin may recognize a Greyfell attacker
+- Situation: Corren has revealed that her cousin is a lieutenant under Captain Rusk and once brought home a copied description from the Greyfell report because one attacker seemed familiar. Elowen continues her gentle encouragement, saying: 'Your cousin sounds dedicated.'
 
 ## Recent beats
-- Corren's cousin/source has discussed confidential or unusually specific details touching the priest attack, royal courier attack, and Greyfell attack. Corren says he has been dining with her family almost nightly while his wife and children are away, drinks wine, complains about his captain, and then talks shop despite claiming he cannot.
-- Corren says her cousin's ordinary responsibility is inside the city, making his detailed interest in Greyfell (outside the city) notable but not proof of wrongdoing.
-- Corren names his superior as Captain Rusk, saying her cousin joked he would rather be hanged than seek promotion if it meant spending more time with Rusk.
-- Player establishes that Elowen continues leading gently to allow Corren to gossip more. Elowen should use social encouragement rather than direct investigative questions, preserving the illusion of ordinary tea.
-- Corren may now volunteer further texture about the cousin/Rusk/workplace tensions or how information travels, but do not conveniently solve the conspiracy. The cousin's own name/rank remains unestablished; if it emerges naturally, it may be recorded, but avoid forcing it merely to satisfy the investigation.
-- Corren remains more plausibly a loose-lipped downstream recipient than a proven conspirator. Her source chain is now the strongest lead.
+- Corren says Captain Rusk is meticulous about documentation and ordered duty ledgers rechecked after three watchmen disappeared. Someone had altered one ledger after the fact; the affected patrol was the one containing the three missing men. Corren says the alteration might have been an innocent correction, but Rusk is frightened/concerned.
+- Corren nearly names her cousin but stops at 'Lieutenant—', revealing his rank while withholding his name because she realizes she should not expose him.
+- Corren then reveals her cousin brought home a copied description from the Greyfell report, saying it was unimportant, because he was trying to determine why one of the attackers looked/sounded familiar from the description.
+- Elowen replies: 'Your cousin sounds dedicated.' This is praise designed to keep Corren comfortable and invite her to elaborate without directly demanding the cousin's name or the attacker's identity.
+- Do not have Corren instantly solve the recognition. She may volunteer what feature seemed familiar, whether her cousin was still puzzling over it, or why he had access to the copied description. Any further detail should remain partial and plausible.
+- Corren remains more plausibly a loose-lipped recipient than a conspirator. Strong leads now: Captain Rusk; altered duty ledger tied to missing men; unnamed lieutenant cousin; copied Greyfell attacker description and possible recognition.
 - Didi remains unobtrusive; guards discreetly outside. Cassian's separate checks have no established result yet. Daphne is due later and should not overlap.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only; broader attack-chain linkage remains unproven. Calendar: late morning, 18th Deepfrost.
