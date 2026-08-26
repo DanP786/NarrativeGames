@@ -3,13 +3,14 @@
 - Location: Veyrhold — Veyne House, upper gallery outside Cassian's study
 - Time: mid-afternoon, 17th Deepfrost, Year 312 of the Crown
 - Scene significance: charged family/political aftermath with matchmaking subtext
-- Situation: Garrick admits there were parts of Elowen's wedding festivities he enjoyed. Elowen pointedly asks whether he enjoyed speaking with anyone in particular, referring OOC to the woman Elowen deliberately seated beside him because House Veyne considers her a desirable marriage prospect for Garrick.
+- Situation: Elowen openly encourages Garrick to consider the woman she seated beside him at the wedding. She steps closer and touches her father's arm, reminding him that she is meeting the woman's sister Daphne tomorrow and offering to ask Daphne how her sister found Garrick's company/conversation.
 
 ## Recent beats
-- Garrick says the wedding was hardly relaxing given Cassian killed Rowan, the priest disappeared, and Elowen remained under threat, but praises the food, Elowen's handling of the ceremony delay, her composure, and the fact she appeared happy. He admits there were parts of the day he enjoyed very much.
-- Elowen asks: 'Did you enjoy speaking with anyone in particular?' This is a deliberate probe about her matchmaking seating choice, not a general question.
-- The exact identity/name of the woman seated beside Garrick is not recoverable from the currently available refreshed files; do not invent a name, house, appearance or exact prior conversation. Refer to her relationally (e.g. 'the lady you seated beside me') until canon is refreshed/established.
-- Garrick canon: he is willing to remarry if a suitable match strengthens Vale and can produce legitimate heirs without undermining Elowen's settlement; he is controlled, dynastic and not easily teased into admissions. He may immediately recognize Elowen engineered the seating and respond dryly, while allowing that the woman was intelligent/pleasant/a viable political acquaintance without declaring courtship prematurely.
-- House Veyne would like Garrick to marry this woman, per player OOC clarification. Cassian is present and may know/recognize the matchmaking agenda, but should not override Garrick's agency or reveal secret facts not established.
+- Garrick recognized that Elowen deliberately seated the woman beside him. After resistance, he conceded that the woman was intelligent, good company, and that he enjoyed speaking with her.
+- Cassian is openly amused by Elowen's matchmaking but says House Veyne does not gain authority to arrange Garrick's marriage simply because he married Elowen.
+- Player clarifies the prospective woman is Daphne's sister. Exact sister name/house details are not currently refreshed in available canon; do not invent them. Daphne is coming to tea tomorrow afternoon.
+- Elowen says: 'Think about it father' and offers to ask Daphne how her sister found Garrick's conversations. Garrick should react as a controlled dynast who understands the political value of information but may object to his daughter conducting obvious matchmaking/gossip on his behalf. He can permit a discreet inquiry or forbid a blatant one; do not make him suddenly bashful or romantically effusive.
+- Garrick canon: willing to remarry for a suitable dynastic match and future legitimate heirs, but will protect Vale's interests and his own dignity. Elowen remains his loved only surviving child/heir and may privately question him.
+- Cassian is present but should not dominate the father-daughter exchange.
 - Elowen has not told either man about Lady Maris Corren's suspicious priest-survival reference. Corren is invited to tea tomorrow before Daphne.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: mid-afternoon, 17th Deepfrost.
