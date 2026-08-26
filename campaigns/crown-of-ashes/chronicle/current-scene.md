@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen's dressing room/private suite
+- Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: late morning, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: routine preparation for Lady Corren intelligence tea
-- Situation: Elowen prepares to receive Lady Maris Corren. She chooses a cream dress and gold jewellery that complement her honey-blonde hair, presenting herself in warm non-mourning colours as Lady Veyne.
+- Scene significance: charged social-intelligence encounter about to begin
+- Situation: Before receiving Lady Maris Corren, Elowen deliberately moves the Veyne Pink from her right hand to her left, then enters her sitting room prepared for the tea. She wears a cream dress with gold jewellery complementing her honey-blonde hair.
 
 ## Recent beats
-- The second newlywed night passes with consensual intimacy off-page. In the morning Cassian reluctantly releases Elowen from bed because Lady Corren is due before Daphne.
-- Cassian reiterates the plan: Corren should not encounter Daphne; Elowen should not hunt for information but let Corren offer it, and should 'go be underestimated.'
-- Player establishes Elowen's appearance today: cream dress, gold jewellery, honey-blonde hair. The Veyne Pink has been a consistent married accessory; unless player removes it, retain it on her right hand alongside the gold jewellery.
-- Lady Corren is due for tea before Daphne. Corren's suspicious letter said: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' She should not know the priest survived unless she learned it through an unestablished leak/source.
-- Elowen's approach from Didi: let Corren gossip; do not correct falsehoods; reveal as little as possible about what Elowen knows; identify one thread rather than forcing all attacks into one theory.
-- Security: guards nearby/outside; Corren must not know she is suspected; Cassian's people are separately checking her recent contacts/watch connections.
+- Cassian approved Corren's tea and instructed Elowen not to interrogate or reveal what they know; she is to let Corren offer information and 'go be underestimated.' Didi advised the same: let Corren gossip, do not correct falsehoods, and listen for one thread.
+- Corren's suspicious letter said: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' This survival information was believed nonpublic.
+- Elowen changes the Veyne Pink to her left hand immediately before the meeting. Do not assign a symbolic meaning to this move unless Elowen explains it; simply preserve the new ring placement as canon.
+- Lady Corren's carriage has entered the gates. Veyne House security is discreetly active: guards nearby/outside, but Corren should not be made aware she is under suspicion.
+- Cassian's people are separately checking Corren's recent contacts and watch connections; no results established yet.
+- Daphne is due later today and should not overlap with Corren. Elowen may later discreetly ask Daphne whether her sister enjoyed Garrick's company.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only; broader attack-chain linkage remains unproven. Calendar: late morning, 18th Deepfrost.
