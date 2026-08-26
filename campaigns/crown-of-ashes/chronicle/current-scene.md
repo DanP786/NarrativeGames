@@ -1,15 +1,13 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, private supper with Cassian
+- Location: Veyrhold — Veyne House, private dining room
 - Time: evening, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged marital supper mixing matchmaking report, succession pressures and flirtatious anticipation
-- Situation: By supper, Daphne's visit is over. Elowen tells Cassian about the visit and Georgia's apparent openness to Garrick's courtship. Elowen also sends a discreet message to Garrick reporting that Georgia would be open to being courted. Cassian listens but is visibly distracted by Elowen's earlier teasing and his promised 'punishment' later; keep this consensual, playful and non-explicit.
+- Scene significance: charged marital intimacy after supper
+- Situation: Once the servants withdraw and the doors close, Cassian follows through on his flirtatious warning. Player establishes that he and Elowen have sex on the supper table. Treat the encounter as consensual adult marital intimacy and fade to black rather than narrating graphic sexual detail.
 
 ## Recent beats
-- Daphne took advantage of Elowen's permission to claim old dresses and joked about escalating compensation if Garrick and Georgia court/marry.
-- Georgia appears open to Garrick's courtship: she talked about him after the wedding, asked his age, whether he spends most of the year at Greyfen, and whether he intends to remain unmarried. Daphne believes Georgia would give him the opportunity if Garrick approached personally and genuinely, but would not want to be treated merely as a dynastic solution.
-- Garrick privately authorized Elowen to learn whether Georgia enjoyed his company, provided Daphne was not told he asked or was considering marriage. Elowen now sends word to Garrick that Georgia would be open to courtship. The message should be discreet and not claim Georgia has consented to marriage or that a courtship already exists.
-- Cassian hears Elowen's account at supper. He may be amused/strategically interested in a Garrick-Georgia match, but should not override Garrick or Georgia's agency.
-- Player establishes Cassian struggles to think of anything but his promised punishment for Elowen's earlier teasing. Treat 'punishment' as mutually understood erotic/flirtatious marital play, not coercion or violence; fade before explicit sexual detail if it progresses.
-- Corren intelligence has already been handed to Cassian. Quiet verification of the old arrest record/other leads is underway; no results established yet unless later reported.
-- Elowen wears the Veyne Pink on her left hand. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven. Calendar: evening, 18th Deepfrost.
+- At supper, Elowen told Cassian about Daphne's visit and Georgia's openness to being courted by Garrick. A discreet message has been sent to Garrick conveying that Georgia would welcome courtship if Garrick's interest is personal rather than merely dynastic.
+- Cassian spent supper distracted by Elowen's earlier teasing and warned that she would be 'in trouble' once the last servant left. Player establishes he takes her on the table as warned; this is mutually understood erotic play, not coercion.
+- Preserve continuity after the fade: the private dining room/table may be disordered, both may need to compose themselves before servants return, and their teasing dynamic can continue. Do not invent injury or pregnancy.
+- Corren intelligence remains with Cassian; quiet verification is underway with no results established yet. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven.
+- The Veyne Pink remains on Elowen's left hand unless player changes it. Calendar: evening, 18th Deepfrost.
