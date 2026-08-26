@@ -1,14 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen's private suite/dressing area
-- Time: early afternoon, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: routine warm friendship and matchmaking banter
-- Situation: Daphne claims several of Elowen's old dresses and jokes that if Garrick and Georgia marry, she reserves the right to demand another dress. Elowen teases back: 'Only one?'
+- Location: Veyrhold — Veyne House, private supper with Cassian
+- Time: evening, 18th Deepfrost, Year 312 of the Crown
+- Scene significance: charged marital supper mixing matchmaking report, succession pressures and flirtatious anticipation
+- Situation: By supper, Daphne's visit is over. Elowen tells Cassian about the visit and Georgia's apparent openness to Garrick's courtship. Elowen also sends a discreet message to Garrick reporting that Georgia would be open to being courted. Cassian listens but is visibly distracted by Elowen's earlier teasing and his promised 'punishment' later; keep this consensual, playful and non-explicit.
 
 ## Recent beats
-- Daphne has permission to take any old dresses she wants and is enthusiastically selecting favorites while Didi warns they will require alterations.
-- Daphne says if Lord Vale suddenly courts Georgia, she will know Elowen is responsible, and if they marry she will demand another dress. Elowen replies: 'Only one?' inviting further playful escalation.
-- Georgia appears open to Garrick's courtship: she talked about him after the wedding, asked his age, whether he spends most of the year at Greyfen, and whether he intends to remain unmarried. Daphne believes Georgia would give him the opportunity if he approached personally/genuinely.
-- Garrick privately authorized Elowen's discreet inquiry but Daphne does not know this. Elowen can later report Georgia's positive response privately to Garrick.
-- Keep tone light and friendly. Didi may react dryly to the escalating wardrobe giveaway. Do not turn the hypothetical marriage into a settled outcome.
-- The Veyne Pink remains on Elowen's left hand; Elowen wears cream and gold. Guards outside. Corren intelligence with Cassian; verification pending. Calendar: early afternoon, 18th Deepfrost.
+- Daphne took advantage of Elowen's permission to claim old dresses and joked about escalating compensation if Garrick and Georgia court/marry.
+- Georgia appears open to Garrick's courtship: she talked about him after the wedding, asked his age, whether he spends most of the year at Greyfen, and whether he intends to remain unmarried. Daphne believes Georgia would give him the opportunity if Garrick approached personally and genuinely, but would not want to be treated merely as a dynastic solution.
+- Garrick privately authorized Elowen to learn whether Georgia enjoyed his company, provided Daphne was not told he asked or was considering marriage. Elowen now sends word to Garrick that Georgia would be open to courtship. The message should be discreet and not claim Georgia has consented to marriage or that a courtship already exists.
+- Cassian hears Elowen's account at supper. He may be amused/strategically interested in a Garrick-Georgia match, but should not override Garrick or Georgia's agency.
+- Player establishes Cassian struggles to think of anything but his promised punishment for Elowen's earlier teasing. Treat 'punishment' as mutually understood erotic/flirtatious marital play, not coercion or violence; fade before explicit sexual detail if it progresses.
+- Corren intelligence has already been handed to Cassian. Quiet verification of the old arrest record/other leads is underway; no results established yet unless later reported.
+- Elowen wears the Veyne Pink on her left hand. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven. Calendar: evening, 18th Deepfrost.
