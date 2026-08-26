@@ -2,12 +2,12 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: approaching midday, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: tender/flirtatious marital reconciliation
-- Situation: Cassian jokes that he could have saved effort on flowers, jewellery and dresses if all Elowen wanted was for him to clear rooms and give her his undivided attention. Elowen kisses him and whispers: 'I still want flowers, jewellery and dresses.'
+- Scene significance: tender/flirtatious marital reconciliation tied back to succession ambition
+- Situation: After Cassian jokingly calls Elowen a monster for demanding flowers, jewellery, dresses and attentive listening, Elowen teases while pulling back: 'A monster who will make you King.'
 
 ## Recent beats
-- Elowen values Cassian's willingness to hear her even during disagreement, especially because Garrick often refused to speak with Elowen's mother even when matters were urgent.
-- Cassian promised not to punish disagreement by refusing to hear Elowen and acknowledged she was right about both the diplomatic risk of searching Sorne's house and the lack of proven linkage between the pillow dagger and broader attacks.
-- Elowen said she finds it incredibly attractive when Cassian decisively clears a room to listen to her. Cassian teased that perhaps flowers, jewellery and dresses were unnecessary; Elowen now makes clear she still expects those too.
-- Keep response affectionate, playful and non-explicit. Honey-almond tart remains on Cassian's desk and he clearly enjoys it.
-- Lady Sorne tea tomorrow remains permitted with negotiated security. Former-lover dagger avenue to be investigated; House Dacre link unproven; pillow-dagger route unresolved.
+- Elowen's political tea campaign has already begun moving undecided noble households toward Cassian by framing him as stable, competent and supported by the Vale-Veyne union. Her claim that she will 'make' him King is flirtatious confidence, not an established outcome; succession remains contested.
+- Cassian recognizes Elowen as a meaningful political partner and has previously noted her drawing-room work is achieving results his formal envoys struggled to get.
+- The security disagreement is softened but unresolved: Lady Sorne tea tomorrow proceeds with four guards, controlled Veyne route/carriage/driver, no pre-search of Sorne's home, and guards entering only if Sorne permits an ordinary escort.
+- Keep Cassian's reaction admiring/ambitious and perhaps cautionary about the danger of promising crowns. Do not establish victory prematurely.
+- Honey-almond tart remains nearly finished on Cassian's desk. Former-lover dagger avenue to be investigated; House Dacre link unproven; pillow-dagger route unresolved.
