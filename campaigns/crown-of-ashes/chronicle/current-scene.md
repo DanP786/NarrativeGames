@@ -2,12 +2,12 @@
 
 - Location: Veyrhold — Veyne House, private dining room
 - Time: evening, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged marital intimacy after supper
-- Situation: Once the servants withdraw and the doors close, Cassian follows through on his flirtatious warning. Player establishes that he and Elowen have sex on the supper table. Treat the encounter as consensual adult marital intimacy and fade to black rather than narrating graphic sexual detail.
+- Scene significance: routine playful aftermath of consensual marital intimacy
+- Situation: After the off-page consensual encounter on the supper table, Cassian jokes that Elowen's real punishment will be explaining to Didi what happened to her dress. Elowen gasps and looks down to inspect it.
 
 ## Recent beats
-- At supper, Elowen told Cassian about Daphne's visit and Georgia's openness to being courted by Garrick. A discreet message has been sent to Garrick conveying that Georgia would welcome courtship if Garrick's interest is personal rather than merely dynastic.
-- Cassian spent supper distracted by Elowen's earlier teasing and warned that she would be 'in trouble' once the last servant left. Player establishes he takes her on the table as warned; this is mutually understood erotic play, not coercion.
-- Preserve continuity after the fade: the private dining room/table may be disordered, both may need to compose themselves before servants return, and their teasing dynamic can continue. Do not invent injury or pregnancy.
-- Corren intelligence remains with Cassian; quiet verification is underway with no results established yet. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven.
-- The Veyne Pink remains on Elowen's left hand unless player changes it. Calendar: evening, 18th Deepfrost.
+- Keep sexual activity itself off-page/non-graphic. Focus now on playful aftermath, clothing, composure and banter.
+- Elowen's cream dress was carefully arranged earlier and has now been rumpled/disordered by the encounter. Cassian's remark implies some visible damage, but exact damage was not previously established. A modest torn seam, loosened fastening, or similar repairable damage is plausible; do not destroy the dress outright unless player establishes it.
+- Elowen's hair is disordered. The Veyne Pink remains on her left hand unless changed.
+- Supper has gone cold and servants remain outside until summoned. Elowen and Cassian have privacy to compose themselves.
+- Georgia courtship message has been sent to Garrick. Corren intelligence is with Cassian; verification pending. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage unproven. Calendar: evening, 18th Deepfrost.
