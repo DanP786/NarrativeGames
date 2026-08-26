@@ -3,11 +3,11 @@
 - Location: Veyrhold — Veyne House, private dining room
 - Time: evening, 18th Deepfrost, Year 312 of the Crown
 - Scene significance: routine playful aftermath of consensual marital intimacy
-- Situation: After the off-page consensual encounter on the supper table, Cassian jokes that Elowen's real punishment will be explaining to Didi what happened to her dress. Elowen gasps and looks down to inspect it.
+- Situation: Elowen discovers a fastening and side seam on her new cream dress were damaged during the off-page encounter and throws a napkin at Cassian after he jokes she should tell Didi she was 'attacked' by her husband at supper. Cassian then playfully warns Elowen about what will happen the next time she teases him about creating an heir.
 
 ## Recent beats
-- Keep sexual activity itself off-page/non-graphic. Focus now on playful aftermath, clothing, composure and banter.
-- Elowen's cream dress was carefully arranged earlier and has now been rumpled/disordered by the encounter. Cassian's remark implies some visible damage, but exact damage was not previously established. A modest torn seam, loosened fastening, or similar repairable damage is plausible; do not destroy the dress outright unless player establishes it.
-- Elowen's hair is disordered. The Veyne Pink remains on her left hand unless changed.
-- Supper has gone cold and servants remain outside until summoned. Elowen and Cassian have privacy to compose themselves.
-- Georgia courtship message has been sent to Garrick. Corren intelligence is with Cassian; verification pending. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage unproven. Calendar: evening, 18th Deepfrost.
+- Keep the warning flirtatious, consensual and non-explicit. It can imply Cassian will take her heir argument very seriously/hold her to her teasing, but must not imply forced sex, reproductive coercion, or guaranteed pregnancy.
+- Cassian previously said Elowen's midday heir remark gave him a socially respectable excuse to neglect work; their sexual teasing is mutually understood marital play.
+- Elowen's cream dress has a lost fastening and a split side seam, repairable but obvious enough that Didi will likely know the cause. Cassian offered to commission another.
+- Elowen's hair is disordered; the Veyne Pink remains on her left hand. Supper is cold; servants remain outside until summoned.
+- Georgia courtship message sent to Garrick. Corren intelligence with Cassian; verification pending. Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage unproven. Calendar: evening, 18th Deepfrost.
