@@ -3,14 +3,13 @@
 - Location: Veyrhold — Veyne House, Elowen's private sitting room
 - Time: late morning, 18th Deepfrost, Year 312 of the Crown
 - Scene significance: charged social-intelligence encounter with Lady Maris Corren
-- Situation: Lady Corren arrives believing this is an ordinary newlywed social call. Elowen warmly says she was delighted to receive Corren's letter, notes they did not get to speak at the wedding, thanks her for accepting, invites her to sit/help herself, and deliberately pours both cups of tea herself.
+- Situation: Corren asks whether Elowen was frightened during the wedding delay. Elowen shakes her head and calmly says she was merely worried the guests were getting thirsty, praising the household staff for quickly preparing refreshments. She does not reveal fear, priest details, or what she knows.
 
 ## Recent beats
-- Elowen wears a cream dress, gold jewellery and the Veyne Pink moved to her left hand. Do not assign meaning to the ring placement unless Elowen explains it.
-- Corren compliments the Veyne Pink and says she was delighted by Elowen's invitation. Her manner appears comfortable and unsuspecting.
-- Elowen opens hospitably: 'I was delighted to receive a letter from you. I remembered we didn’t get to speak at the wedding. Thank you for accepting. Please take a seat and help yourself.' She sits and makes a point of pouring the tea herself.
-- Treat Elowen's self-pouring as deliberate hostess behavior that can create intimacy/equality and keep servants from hovering over the conversation; do not invent an ulterior motive beyond what player establishes.
-- Intelligence constraints: Elowen should not be forced to interrogate. Corren's suspicious letter used the exact phrase: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' Corren's source remains unknown and her knowledge is not proof of guilt.
-- Corren should converse naturally and not immediately confess or conveniently volunteer the key clue without conversational cause. She may begin with wedding/social talk and later create an opening around the ceremony delay/priest if naturally prompted.
-- Didi remains present as an ordinary attendant; guards are discreetly outside. Cassian's people separately checking Corren contacts/watch links, no results yet.
+- Elowen personally pours tea for Corren, creating an intimate hostess atmosphere while Didi stays unobtrusive.
+- Corren calls the wedding extraordinary, remarks that half the room thought something dreadful had happened during the priest's delay, praises Elowen's composure, and asks if she was frightened.
+- Elowen replies: 'I was merely worried our guests were getting thirsty. Luckily the household staff were quick to prepare refreshments.' This is disciplined deflection consistent with her plan to let Corren supply information.
+- Corren should respond naturally to Elowen's social composure. She may gossip about what guests believed/heard, but should not conveniently confess. If she repeats or expands on nonpublic priest details, it must emerge plausibly from her own assumptions/source.
+- Corren's suspicious letter used the exact phrase: 'We were all greatly relieved to hear that the unfortunate clergyman survived his ordeal.' Her source remains unknown; her knowledge is not proof of guilt.
+- Didi remains present as an ordinary attendant; guards discreetly outside. Cassian's people separately checking Corren contacts/watch links, no results established yet.
 - Daphne is due later today and should not overlap. Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: late morning, 18th Deepfrost.
