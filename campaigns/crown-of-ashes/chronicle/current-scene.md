@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, upper gallery outside Cassian's study
 - Time: mid-afternoon, 17th Deepfrost, Year 312 of the Crown
 - Scene significance: charged family/political aftermath of Garrick-Cassian meeting
-- Situation: While walking the halls under guard, Elowen encounters Garrick emerging from Cassian's study with Cassian behind him. Elowen smiles and says: 'Father, I hope your meeting went well.'
+- Situation: Garrick and Cassian have formalized the split investigation. Garrick asks Elowen how she is; she answers that she is well and asks whether her father enjoyed the previous day's wedding festivities.
 
 ## Recent beats
-- Garrick and Cassian have been privately meeting for a substantial period after Elowen proposed delegating part of the attack investigation to her father.
-- Garrick canon refreshed this turn: controlled, dynastically minded, protective of Elowen/House Vale, extremely resentful of Cassian, but strategically pragmatic and already motivated to investigate threats against Elowen and the prior security leak.
-- The planned division before this meeting: Garrick/Vale handles the external north-market strand (priest route, warehouse, false watch uniforms, three absent watchmen); Veyne keeps the internal dagger/household breach inquiry; information passes through designated representatives. Cassian returns focus to succession.
-- The meeting may plausibly have formalized that division. Do not invent a solved lead or secret outcome merely from the meeting. Garrick can tell Elowen it was productive/useful rather than warm, consistent with his hatred of Cassian.
-- Elowen has separately discovered Lady Maris Corren's suspicious knowledge that the priest survived and has invited Corren to tea tomorrow. Garrick and Cassian do NOT know this yet unless Elowen tells them.
-- Elowen is in a newly commissioned non-mourning Veyne dress with the Veyne Pink and is accompanied by guards. Garrick may notice the changed presentation but should not infer private wedding-night details.
+- Garrick describes his meeting with Cassian as 'productive.' Vale will pursue the priest's route, warehouse, missing watchmen and false uniforms; Veyne retains the internal household/dagger breach. Relevant findings are to be shared.
+- Cassian and Garrick exchange dry hostility about documentation and the fact Garrick gave Cassian his daughter; their feud remains very much alive despite cooperation.
+- Garrick asks Elowen simply: 'How are you?' while looking to her for her own answer. Elowen replies: 'I am well thank you father. Did you enjoy the festivities yesterday?'
+- Garrick should answer in his controlled manner. He attended his only surviving child's strategically necessary marriage to the man who killed his son, amid heavy security and a priest crisis; 'enjoy' is therefore complicated. He can distinguish the ceremony/reception's success and Elowen's composure/happiness from his personal feelings toward Cassian.
+- Garrick does not know Elowen's private attraction/intimacy with Cassian and should not infer wedding-night details. Cassian is present and may react if relevant but need not dominate the father-daughter exchange.
+- Elowen has not yet told either man about Lady Maris Corren's suspicious reference to the priest surviving. Corren is invited to tea tomorrow before Daphne.
 - Dagger culprit/access route unresolved; priest attackers unresolved; three absent watchmen remain a lead only. Calendar: mid-afternoon, 17th Deepfrost.
