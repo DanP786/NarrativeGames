@@ -2,13 +2,14 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: late morning, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: charged marital/security confrontation
-- Situation: Cassian says he recognizes Lady Sorne's political value but dislikes Elowen entering a house he has not secured. Elowen firmly objects: 'We will not insult her with a search!'
+- Scene significance: charged marital/security confrontation shifts into investigative reasoning
+- Situation: After Cassian compromises on Lady Sorne's tea (no overt search, but controlled route/carriage and four-guard escort), Elowen challenges the premise driving his escalating restrictions. She asks whether he has actually linked the pillow dagger to the other attacks and suggests an alternative: the dagger might simply have been left by a woman with unrequited feelings for Cassian.
 
 ## Recent beats
-- Elowen established that no known threat has occurred since she became Lady Veyne, while the unresolved pillow-dagger breach happened within Veyne House. She points out the contradiction in treating the breached house as inherently safer.
-- Cassian explains that at home he can control/reconstruct servants, entrances and guards, while another noble house introduces unknown servants, approaches and potentially compromised guards. He is visibly exhausted from repeatedly investigating his own household breach.
-- Lady Sorne has refused three invitations to Veyne House but has finally invited Elowen to tea at her own home tomorrow. Her husband influences undecided western houses. A conspicuous Veyne security search could insult Sorne, imply distrust, and damage the political opening Elowen created.
-- Elowen explicitly rejects insulting Lady Sorne with a search. Preserve distinction between an overt search and discreet security measures: Cassian may propose perimeter observation, vetted escort, carriage security, advance route checks, or guards remaining outside without searching Sorne's private home. This offers room for negotiation without instantly resolving the conflict.
-- Core conflict: Cassian's security fear is legitimate; Elowen's political/social judgment is also legitimate. Neither should capitulate cheaply. Cassian's deeper fear over the pillow dagger should continue surfacing through control and exhaustion rather than immediate emotional confession unless escalation earns it.
-- Elowen has not yet said she will attend regardless; preserve her agency. House Dacre link remains unproven; Georgia/Garrick courtship background; pillow-dagger route unresolved.
+- Cassian has not established a proven link between the pillow dagger and Greyfell, the convoy/courier/priest/watch/Dacre threads. The broader attack-chain linkage remains unproven. His security response has treated the dagger as potentially part of the same threat because it penetrated Veyne House and targeted/intimidated Elowen.
+- Elowen's alternative hypothesis is now explicit: a jealous or romantically fixated woman with unrequited feelings for Cassian could have planted the dagger independently of the political conspiracy. This is a plausible investigative avenue, not established fact.
+- Cassian should answer based on evidence: if no signature, weapon provenance, messenger, payment trail or personnel overlap links the dagger to the other attacks, he must admit that. He may have considered personal/romantic motives, especially given his past reputation/relationships, but do not invent named former lovers or specific women without canon support.
+- The dagger's placement on Elowen's pillow may signify threat/intimidation rather than a failed attempt to kill her; Cassian can distinguish that inference from proof.
+- Core tension remains: Cassian's inability to explain the internal breach fuels obsession/control. Elowen is pressing him to separate evidence from fear. This can force a more revealing response without resolving the mystery.
+- Lady Sorne visit remains permitted under negotiated conditions: no pre-search/house intrusion, Veyne route/carriage/driver, four guards, two entering only if Sorne permits ordinary escort and otherwise remaining outside.
+- House Dacre link remains unproven; Georgia/Garrick courtship background.
