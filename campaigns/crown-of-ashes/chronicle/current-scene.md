@@ -1,15 +1,15 @@
 # Current scene
 
 - Location: Veyrhold — Veyne House, Elowen's private sitting room
-- Time: late morning, 18th Deepfrost, Year 312 of the Crown
-- Scene significance: charged social-intelligence encounter nearing a natural close
-- Situation: Corren has shared that Captain Rusk suspects watchmen may be being bought and that two of the three missing watchmen recently showed unexplained financial improvement, while the third showed none. Elowen keeps to the passive-elicitation plan and says warmly: 'I suspect your cousin will find out.'
+- Time: around midday, 18th Deepfrost, Year 312 of the Crown
+- Scene significance: routine private reflection after successful Corren intelligence tea
+- Situation: After Lady Corren departs, Didi jokes that Cassian owes Elowen a salary for the intelligence she extracted. Elowen laughs, touches/holds the Veyne Pink now worn on her left hand, and jokes that she believes she received a substantial down payment. Looking at the stone, she wonders aloud why Cassian has allowed her to keep it rather than merely borrowing the historic jewel for special occasions.
 
 ## Recent beats
-- Corren says Rusk is changing gate assignments because he distrusts old patterns and suspects someone has been buying watchmen, though Corren emphasizes there is not yet proof.
-- Of the three missing watchmen: one recently paid a substantial gambling debt; another sent his mother enough money to replace her roof; the third showed no obvious money/debt change. Corren says her cousin thinks the third may be innocent or simply cleverer.
-- Elowen replies: 'I suspect your cousin will find out.' This flatters the cousin's competence without asking for more confidential information, preserving Elowen's cover and encouraging Corren's pride in him.
-- Do not force another major clue immediately. The tea has already yielded substantial intelligence; conversation can naturally begin winding toward social matters/departure unless Corren has one modest organically connected detail to add.
-- Strong leads earned: Captain Rusk; altered duty ledger tied to missing watchmen; unnamed lieutenant cousin; possible watch bribery; two missing men's unexplained financial improvement; courier stolen contents; Greyfell attackers recovered dead; two-fingered attacker; old arrest record; noble-household affiliate paid his fine.
-- Corren remains more plausibly a loose-lipped downstream recipient than a conspirator. Didi remains unobtrusive; guards discreetly outside. Cassian's separate checks have no established result yet. Daphne is due later and should not overlap.
-- Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven. Calendar: late morning, 18th Deepfrost.
+- Corren's tea ended naturally and Corren left comfortable, apparently unaware she had supplied significant confidential watch information.
+- Didi says: 'I believe Lord Veyne owes you a salary.' Elowen laughs and replies while holding the Veyne Pink: 'I believe I had a substantial down payment,' then reflects that it is curious Cassian has allowed her to keep it rather than borrow it for special occasions.
+- The Veyne Pink is an important dynastic jewel Cassian placed with Elowen for the wedding and has repeatedly spoken of as suiting her; exact legal ownership/lending terms have not been refreshed in current canon. Do not invent that it legally belongs to Elowen outright unless established. Didi may speculate based on Cassian's behavior and noble-jewel custom but should distinguish inference from fact.
+- Elowen moved the Veyne Pink from her right hand to her left before Corren's tea; it remains on her left hand.
+- Strong intelligence from Corren to report later: Captain Rusk; altered duty ledger tied to three missing watchmen; unnamed lieutenant cousin; possible watch bribery; two missing men's unexplained financial improvement; courier stolen contents; Greyfell attackers recovered dead; two-fingered attacker; old arrest record; noble-household affiliate paid his fine.
+- Corren remains more plausibly a loose-lipped downstream recipient than a conspirator. Daphne is due later today and should not overlap with Corren.
+- Dagger culprit/access route unresolved; priest attackers unresolved; broader attack-chain linkage remains unproven. Calendar: around midday, 18th Deepfrost.
