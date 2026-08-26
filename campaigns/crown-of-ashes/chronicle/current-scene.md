@@ -3,13 +3,12 @@
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: late morning, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
 - Scene significance: charged marital/security confrontation
-- Situation: Elowen interrupts Cassian's work to confront his new security restrictions. She places his order beside Lady Aramelle Sorne's politically important invitation. Cassian recognizes the timing/problem. Elowen remains calm and asks: 'How many times have I been threatened since becoming Lady Veyne?'
+- Situation: Cassian says he recognizes Lady Sorne's political value but dislikes Elowen entering a house he has not secured. Elowen firmly objects: 'We will not insult her with a search!'
 
 ## Recent beats
-- Cassian ordered heavier escort, advance inspection/approval for outside calls, and that Elowen host social engagements at Veyne House wherever practicable because the pillow-dagger breach remains unexplained.
-- Lady Sorne has refused three invitations to Veyne House but has now invited Elowen to her own home tomorrow. Sorne's husband influences undecided western houses, making the visit valuable to Cassian's succession.
-- Cassian looks exhausted from late security/succession work. He cleared Captain Halden and clerks from the room when Elowen arrived.
-- Elowen asks how many times she has been threatened 'since becoming Lady Veyne.' Answer must distinguish timing carefully rather than conflating pre-marriage attacks with post-marriage threats. The pillow dagger occurred around the wedding period and is the key internal breach; exact chronology of other attacks relative to the legal marriage must not be invented. Cassian can recognize her rhetorical point: danger did not begin because she started taking political teas as Lady Veyne, and Veyne House itself has already been breached.
-- Core conflict: Cassian's fear/security rationale is legitimate, but his restrictions can undermine Elowen's political work. Keep both intelligent and emotionally grounded; escalation should be earned.
-- Elowen has not yet stated she will attend Sorne's tea regardless. Preserve her agency.
-- House Dacre link remains unproven; Georgia/Garrick courtship background; pillow-dagger access route unresolved.
+- Elowen established that no known threat has occurred since she became Lady Veyne, while the unresolved pillow-dagger breach happened within Veyne House. She points out the contradiction in treating the breached house as inherently safer.
+- Cassian explains that at home he can control/reconstruct servants, entrances and guards, while another noble house introduces unknown servants, approaches and potentially compromised guards. He is visibly exhausted from repeatedly investigating his own household breach.
+- Lady Sorne has refused three invitations to Veyne House but has finally invited Elowen to tea at her own home tomorrow. Her husband influences undecided western houses. A conspicuous Veyne security search could insult Sorne, imply distrust, and damage the political opening Elowen created.
+- Elowen explicitly rejects insulting Lady Sorne with a search. Preserve distinction between an overt search and discreet security measures: Cassian may propose perimeter observation, vetted escort, carriage security, advance route checks, or guards remaining outside without searching Sorne's private home. This offers room for negotiation without instantly resolving the conflict.
+- Core conflict: Cassian's security fear is legitimate; Elowen's political/social judgment is also legitimate. Neither should capitulate cheaply. Cassian's deeper fear over the pillow dagger should continue surfacing through control and exhaustion rather than immediate emotional confession unless escalation earns it.
+- Elowen has not yet said she will attend regardless; preserve her agency. House Dacre link remains unproven; Georgia/Garrick courtship background; pillow-dagger route unresolved.
