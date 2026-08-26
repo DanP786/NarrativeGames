@@ -2,13 +2,13 @@
 
 - Location: Veyrhold — Veyne House, kitchens
 - Time: late morning, several days after the political-tea montage, Year 312 of the Crown (exact date not established)
-- Scene significance: routine domestic beat after charged security confrontation
-- Situation: After leaving Cassian's study on the pointed suggestion that he investigate former lovers, Elowen goes downstairs to the household kitchens and asks the head cook/chef what Cassian's favorite sweet treat is.
+- Scene significance: routine domestic/relationship beat after charged confrontation
+- Situation: The head cook has revealed that Cassian's favorite sweet is honey-almond tart with thin pastry and orange peel, despite Cassian claiming not to have a favorite. When the cook offers to make one before luncheon, Elowen hesitantly asks: '…could I… help?'
 
 ## Recent beats
-- Elowen and Cassian's security argument ended without full resolution. Cassian agreed to investigate the possibility that a former lover/jealous woman independently planted the pillow dagger.
-- Lady Sorne tea remains permitted tomorrow under negotiated conditions: no pre-search/house intrusion; Veyne route/carriage/driver; four guards; two enter only if Sorne permits ordinary escort, otherwise remain outside.
-- Elowen now seeks Cassian's favorite sweet. Her motive is not explicitly stated; do not assume apology, seduction, bribery or reconciliation unless she says so. Let the domestic inquiry play naturally.
-- Exact identity/name of Veyne House's head chef and Cassian's favorite dessert are not established in current-scene canon. A new minor household NPC and culinary preference may be established here if consistent with setting; preserve once introduced.
-- Elowen's increased guard detail follows her even within/around the household as appropriate but need not dominate the kitchen scene.
-- House Dacre link remains unproven; Georgia/Garrick courtship background; pillow-dagger access route unresolved.
+- Elowen's motive for making the tart remains unstated; do not label it apology/reconciliation unless she says so. The timing follows her security argument with Cassian and her pointed suggestion that he investigate former lovers.
+- The head cook is unnamed and newly established as competent, long-serving and dryly willing to say Cassian 'lies' about not having a favorite sweet. Do not assign a name unless needed/established naturally.
+- Elowen's cooking/baking skill is not established in current canon. The cook should not assume competence; he can respectfully give her a manageable role and supervise. This can create warm downstairs texture without humiliating her.
+- Cassian's favorite is now canon: honey-almond tart, thin pastry, more almond than honey because he dislikes overly sweet desserts, with a little orange peel.
+- Two guards accompanied Elowen downstairs under Cassian's increased security order; they can remain unobtrusive at/near the kitchen entrance.
+- Lady Sorne tea tomorrow remains permitted under negotiated security conditions. House Dacre link unproven; former-lover dagger avenue now to be investigated; pillow-dagger route unresolved.
