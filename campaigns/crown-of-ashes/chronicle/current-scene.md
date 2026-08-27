@@ -1,14 +1,14 @@
 # Current scene
 
-- Location: Veyrhold — House Veyne front court, beside Elowen's carriage
+- Location: Veyrhold — House Veyne front court, departing carriage
 - Time: early afternoon, Year 312 of the Crown (exact date not established)
-- Scene significance: charged political departure with marital/security undertone
-- Situation: Elowen is dressed in a deliberately restrained elegant day dress for Lady Aramelle Sorne's tea, with the Veyne Pink as her principal dynastic statement. Didi accompanies her. Four Veyne guards and Cassian's chosen carriage/driver are ready under the negotiated security arrangement. Just before Elowen steps into the carriage, Cassian approaches her in the front court.
+- Scene significance: charged political departure softened by marital reassurance
+- Situation: Cassian tells Elowen he does not need a promise of Sorne support, only for Elowen to come home, revealing fear beneath his security concerns. He helps her into the carriage. Elowen takes her seat and reassures him: 'I will see you for supper.'
 
 ## Recent beats
-- Lady Sorne refused three invitations to Veyne House but has now invited Elowen into her own home. Her husband influences undecided western houses, making the visit politically important to Cassian's succession.
-- Security compromise: no pre-search or Veyne intrusion into Sorne's home; Veyne controls route/carriage/driver; four guards accompany Elowen; two may enter only if Sorne permits an ordinary escort, otherwise remain immediately outside.
-- Elowen and Cassian recently reconciled emotionally after arguing over security. Cassian promised to listen even when they disagree; Elowen made his favorite honey-almond tart. Cassian acknowledged Elowen is actively helping build his path to the crown and that her contribution will not be erased if he succeeds.
-- Cassian remains anxious/obsessive about the unresolved pillow-dagger breach despite the warmer marital moment. His approach before departure can show concern, inspect the escort with his eyes, give political advice, affection, or reiterate a boundary, but should not revoke the negotiated permission without new evidence.
-- Elowen wears the Veyne Pink as a famous dynastic jewel in her custody. Exact dress color remains deliberately unspecified; do not invent unless needed.
-- Former-lover/jealous-woman dagger avenue is being investigated; House Dacre link unproven; pillow-dagger route unresolved. No new investigation result established.
+- Cassian explicitly reaffirmed the negotiated terms to the senior guard: do not embarrass Lady Sorne and nobody searches her house. He also acknowledged Elowen knows what she is doing politically.
+- Elowen's supper promise is reassurance, not a supernatural guarantee. Do not manufacture danger solely to invalidate it, but genuine existing risks remain possible if narratively earned.
+- Didi accompanies Elowen. Four guards travel under the negotiated arrangement; Veyne carriage/driver and route are controlled by Cassian's household. Two guards may enter Sorne's home only if permitted as ordinary escort; otherwise remain outside.
+- Lady Sorne has refused three invitations to Veyne House and now invited Elowen to her own home. Her husband influences undecided western houses. Elowen's goal is relationship/persuasion, not demanding an immediate pledge.
+- Elowen wears an understated elegant day dress and the Veyne Pink as her principal dynastic statement.
+- Former-lover/jealous-woman dagger avenue being investigated; House Dacre link unproven; pillow-dagger route unresolved. No new results established.
