@@ -1,15 +1,15 @@
 # Current scene
 
-- Location: Veyrhold — House Sorne, private drawing room, nearing end of tea
-- Time: early afternoon, Year 312 of the Crown (exact date not established)
-- Scene significance: routine social aftermath after charged political breakthrough
-- Situation: With the serious succession discussion concluded, Elowen and Lady Sorne deliberately let the remainder of the visit become an enjoyable social tea rather than continuing to extract political concessions.
+- Location: Veyrhold — Veyne House, returning from House Sorne / just before supper
+- Time: late afternoon into supper, Year 312 of the Crown (exact date not established)
+- Scene significance: routine domestic return with important political report pending
+- Situation: Elowen returns safely from Lady Sorne's tea in time to keep her promise to see Cassian for supper, but with too little time to change. She therefore comes to supper still in the understated elegant day dress she wore to House Sorne, with the Veyne Pink as her principal dynastic jewelry.
 
 ## Recent beats
-- Sorne will tell her husband Elowen's careful argument: Cassian once told Elowen inherited enemies need not remain enemies forever, and the Vale-Veyne marriage demonstrates that settlement is possible even after genuine hostility.
-- Elowen made no unauthorized promises. She distinguished Cassian's established words/actions from her own belief that a king cannot treat every hesitant house as a permanent enemy.
-- Lady Sorne did not pledge her husband's support, but explicitly authorized Elowen to tell Cassian that western houses need a credible distinction between opposing Cassian Veyne during the succession and becoming enemies of King Cassian afterward.
-- After that business, Elowen does not press. The women enjoy tea, cakes and lighter conversation. Sorne's reserve eases into genuine social warmth; the visit ends as a meaningful opening and potentially the beginning of a real acquaintance rather than a transaction.
-- Didi remains discreetly present. Security arrangements remain respected: two Veyne guards in entrance hall, two outside/by carriage; no search or embarrassment to Sorne household.
-- Cassian remains at Veyne House; Elowen promised to see him for supper. The Sorne message is important enough to report directly to him when she returns.
+- The Sorne visit was successful without securing a pledge. Lady Sorne will carry Elowen's argument to her husband and explicitly authorized Elowen to tell Cassian the western houses need a credible distinction between opposing Cassian Veyne during the succession and becoming enemies of King Cassian afterward.
+- Elowen and Sorne enjoyed genuinely companionable tea after politics concluded; Sorne invited Elowen to invite her again and suggested she may accept next time.
+- Security arrangements worked without incident or insult: no search of Sorne house; two Veyne guards waited in entrance hall, two outside/by carriage. No established threat occurred.
+- Elowen had promised Cassian, 'I will see you for supper.' Cassian had replied, 'You had better.' Her timely return matters emotionally as well as practically given his security anxiety.
+- Elowen has not had time to change or undertake elaborate preparation before supper. Do not imply this is socially disastrous; she is appropriately dressed from a noble afternoon call, merely not changed into evening dress.
+- Cassian should be interested both in her safe return and in what Sorne said. Elowen has permission to repeat Sorne's western-houses message directly.
 - Former-lover dagger avenue being investigated; House Dacre link unproven; pillow-dagger route unresolved.
