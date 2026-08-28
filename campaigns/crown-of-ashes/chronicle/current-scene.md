@@ -2,17 +2,14 @@
 
 - Location: Veyrhold — House Sorne, private drawing room
 - Time: early afternoon, Year 312 of the Crown (exact date not established)
-- Scene significance: charged political-social conversation; Elowen weighs authority to speak for Cassian
-- Situation: Lady Sorne has revealed that the western bloc's central fear is not Cassian's competence but what happens to houses that were not early Veyne supporters after he becomes king. Elowen recalls what Cassian told her before their marriage and considers whether she has enough basis/authority to answer on his behalf.
-
-## Canon recalled
-- Cassian explicitly told Elowen before marriage that inherited enemies need not remain enemies forever. This is relevant evidence of his political philosophy and especially meaningful because Vale and Veyne carried a blood-feud.
-- Cassian's established long-term goal is to take the throne or ensure no settlement leaves House Veyne politically vulnerable. His methods include bargaining, preserving useful enemies when their survival offers leverage, and punishing defiance when strategically useful. He remembers injuries as obligations rather than emotions. Therefore Elowen cannot honestly promise universal forgiveness, no reprisals, offices for opponents, or that hesitation will never carry political cost unless Cassian has specifically authorized such promises.
-- The strongest statement Elowen can responsibly make from personal knowledge is narrower: Cassian has demonstrated that he does not believe inherited hostility must be permanent, and his marriage to Elowen/Vale is living evidence that he can choose durable settlement with a former enemy when coexistence serves the realm/houses. She can offer her own belief/intent that a reign cannot function by treating every late supporter as an enemy, but must distinguish her judgment from a binding promise by Cassian.
-- Lady Sorne values candor and autonomy; overclaiming would damage the trust Elowen has built. A careful distinction between 'what Cassian has said/done' and 'what I believe/what I will argue for' is likely more persuasive than pretending Elowen carries carte blanche.
+- Scene significance: charged political-social conversation; Elowen gives a careful assurance about Cassian's reign
+- Situation: Lady Sorne revealed the western bloc's central fear: whether houses that were not early Veyne supporters will have a place under King Cassian. Elowen answers as far as she dares without inventing royal policy or making promises Cassian never authorized.
 
 ## Recent beats
-- Sorne says her husband wants confidence that there will still be room in the kingdom for men who were not Cassian's men beforehand. If Cassian can establish that, western houses may be less undecided than they appear.
-- Elowen has relaxed and allowed Sorne to lead. Do not make her blurt a binding guarantee. Give her space to decide what she can safely say.
+- Elowen tells Sorne that before their marriage, when Vale and Veyne were still inherited enemies, Cassian explicitly told her inherited enemies need not remain enemies forever. She points to their marriage as evidence that he can choose settlement over perpetuating hostility.
+- Elowen carefully refuses to promise that Cassian forgets injuries or that hesitation will have no consequences; she knows that would be false and beyond her authority. Instead she states her personal conviction that Cassian does not seek a kingdom containing only men who were always his, and that a king who treats every late ally as an enemy will eventually have nothing but enemies.
+- Elowen distinguishes Cassian's words/actions from her own political judgment and makes no promise of offices, pardons, immunity or specific royal policy.
+- Lady Sorne recognizes that Elowen is not carrying carte blanche and finds the restraint credible. She says the Vale-Veyne marriage is a stronger argument than court assurances because the feud was real and Cassian nevertheless chose settlement. She does not pledge her husband's support, but indicates this is an argument worth carrying to him and that Cassian himself will eventually need to make the principle credible to the western houses.
+- Sorne's trust in Elowen has increased because Elowen answered candidly without attempting to purchase or corner her. The tea has produced a meaningful political opening, not a secured vote.
 - Didi remains discreetly present; guards remain as negotiated. Cassian awaits Elowen for supper.
 - Former-lover dagger avenue being investigated; House Dacre link unproven; pillow-dagger route unresolved.
