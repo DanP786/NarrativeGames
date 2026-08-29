@@ -2,14 +2,14 @@
 
 - Location: Veyrhold — Veyne House, private sitting room after supper
 - Time: later that evening, Year 312 of the Crown (exact date not established)
-- Scene significance: intimate conversation turns to Cassian's fear beneath his security restrictions
-- Situation: Elowen rests her arms around Cassian's neck and asks, 'You really are afraid of losing me aren't you. These elaborate protection orders.'
+- Scene significance: intimate conversation tests Cassian's fear against dynastic duty and childbirth risk
+- Situation: Elowen shifts onto Cassian's lap, lifting her skirts enough to straddle him, and challenges his admitted fear of losing her: 'What about with childbirth? Are you going to stop trying to make an heir in the danger of me dying giving birth?'
 
 ## Recent beats
-- Cassian answers plainly: yes, he is afraid of losing Elowen. The unresolved dagger placed on/in her pillow/private bedchamber makes the fear worse because he cannot identify who breached their supposedly secure home, how, or why.
-- Cassian's security behavior is not only political protection of a dynastic wife or the Veyne Pink; it is personal fear sharpened by his habits of control. When frightened, he issues orders and can confuse controlling variables with solving the problem—an exact flaw Elowen recently described honestly to Lady Aramelle Sorne.
-- Cassian can admit that protecting Elowen is one of the few problems he cannot approach dispassionately. He knows elaborate restrictions can become a cage and that Elowen has correctly challenged him, especially because the unresolved breach occurred inside Veyne House and there is no proven post-wedding external threat.
-- Established security compromise with Lady Sorne worked: controlled route/carriage/driver; four guards; no overt search/pre-search; two guards remained with carriage/outside and two entered the entrance hall with Sorne's permission. Elowen returned safely and told Cassian the compromise working did not prove his original search demand was right.
-- Cassian remains unable to solve the pillow dagger. Staff/guard rotations, doors and service passages have been checked; no route/access culprit established; no proven link to Greyfell/courier/priest/Dacre. He has considered jealousy/former lover and agreed to examine that avenue, but no results/names are established.
-- Tone remains warm and physically close, but emotionally candid. Cassian need not apologize away his protectiveness; he can admit fear while accepting that fear does not entitle him to remove Elowen's agency.
-- No investigative breakthrough occurs unless separately established.
+- Keep physical intimacy suggestive/non-graphic. The important beat is the reproductive/political question, not sexual description.
+- Cassian cannot honestly dismiss childbirth as safe. He is dynastically minded and wants a durable Veyne-Vale future, but Elowen's life matters to him independently of producing an heir.
+- His answer should reject the idea that fear entitles him to make a unilateral reproductive decision in either direction. He can want children/heirs and still acknowledge that Elowen bears the bodily danger and therefore must have meaningful agency in whether they accept that risk.
+- Cassian's control instinct may make pregnancy/childbirth especially difficult for him because it is a danger he cannot solve with guards, searches or controlled routes. He may anticipate becoming overbearing about physicians, rest, attendants and preparations, while recognizing Elowen will challenge him if he turns care into confinement.
+- Do not establish a current pregnancy unless separately established. No conception outcome or fertility fact is canon here.
+- Tone remains affectionate, candid and teasing at the edges, but the subject is serious. Cassian may admit that if pregnancy endangered Elowen acutely he would prioritize her life over dynastic expectations; do not invent setting-specific medical procedures or guarantees.
+- No investigative thread intrudes unless player redirects.
