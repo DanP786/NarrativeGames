@@ -2,16 +2,16 @@
 
 - Location: Prince Oren's ball, circulating among the gathered nobility
 - Time: evening, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure; Elowen spots her father publicly accompanied by Georgia amid the succession gathering
-- Situation: While Cassian leads Elowen onward after her courteous acknowledgment of Prince Adrian, Elowen notices her father, Lord Garrick Vale, speaking with other guests with Georgia beside him.
+- Scene significance: climactic succession pressure; Elowen protects the carefully constructed public image of unity and deference beside Cassian
+- Situation: Cassian offers to take Elowen over to greet her father after she spots Garrick with Georgia. Elowen smiles and answers, 'No thank you,' deliberately avoiding Garrick for now because she knows interaction with her father is likely to break the careful persona she is presenting tonight.
 
 ## Recent beats
-- New canon: Garrick Vale and Georgia are both present at Prince Oren's ball, and Georgia is publicly at Garrick's side while he converses with others. This is a visible development in their cautious courtship, but does NOT establish engagement, love, exclusivity or marriage.
-- Existing Garrick/Georgia canon: Elowen seated them together at her wedding; Garrick discreetly asked whether Georgia enjoyed his company; Georgia reportedly did and was open to genuine personal courtship; Garrick later sent tasteful flowers and asked to call properly; Georgia accepted. Courtship was beginning.
-- Do not invent Georgia's family name, exact age, clothing, title, prior marital status, or further courtship milestones unless established. Georgia is the sister of Elowen's friend Daphne.
-- Elowen has not yet approached Garrick/Georgia in this beat. Cassian is still leading her through the room under their planned public dynamic.
-- Prince Adrian is present and has exchanged only a polite raised-glass acknowledgment with Elowen. Cassian then led Elowen away; no private conversation occurred.
-- Elowen remains warm and socially natural while publicly deferential to Cassian. She wears gold with foreign-gift golden hair ornaments and the Veyne Pink; Cassian is darkly dressed and publicly cold.
+- New player-established motivation: Elowen believes Garrick would break/disrupt the careful public persona she is trying to exude at Oren's ball. She therefore chooses not to approach him at this point. Do not specify exactly how Garrick would disrupt it unless shown in play.
+- Elowen's persona is not false warmth; her normal courtly warmth remains genuine. The constructed element is her unusually visible obedience/deference to Cassian and the image of Cassian as the clear political center of their pair.
+- Garrick Vale and Georgia are both present, with Georgia publicly beside Garrick as he speaks with others. Their courtship is visibly progressing but no engagement/love/marriage is established.
+- Cassian offered Elowen the choice rather than directing her toward Garrick, consistent with their established private partnership despite the public deference performance.
+- Prince Adrian is present and has exchanged only a polite raised-glass acknowledgment with Elowen. No private conversation occurred.
+- Elowen wears gold with foreign-gift golden hair ornaments and the Veyne Pink; Cassian is darkly dressed and publicly cold.
 - Oren himself has not yet been directly approached. Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished.
 - POV/style: narration third person, present tense; dialogue natural first/second person. NPC private thoughts remain inaccessible.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
