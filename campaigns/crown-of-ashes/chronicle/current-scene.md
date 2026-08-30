@@ -1,16 +1,16 @@
 # Current scene
 
-- Location: Arrival/entrance at Prince Oren's ball
+- Location: Prince Oren's ball, immediately after Cassian and Elowen's entrance
 - Time: evening, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure; Cassian and Elowen make their first public entrance into Oren's political arena
-- Situation: Elowen walks beside Cassian with a small smile, eyes lowered and head turned toward him. Her gold dress and foreign-gift ornaments can evoke queenly splendor, but she deliberately does not embody sovereign authority; her bearing communicates chosen deference toward Cassian rather than a claim to rule in her own right.
+- Scene significance: climactic succession pressure; the Veynes begin working Oren's room
+- Situation: Elowen, maintaining her deliberate public deference beside Cassian, quietly asks, 'Who do we speak to first, husband?' This visibly reinforces Cassian as the political center while inviting him to choose their opening contact.
 
 ## Recent beats
-- New canon/intent: Elowen may visually resemble a queen in gold, but she does not carry herself as the sovereign. Her lowered gaze and orientation toward Cassian are deliberate public signals that authority rests with him; she presents as the wife/partner of a potential king rather than a rival center of command.
-- This is consistent with Elowen's stated strategy of visibly deferring to Cassian's judgment/opinion when useful. It is chosen political theater, not actual erasure of her agency or their substantive private partnership.
-- Cassian's public demeanor is cold, controlled and politically severe. Elowen privately values that she knows his warmer, playful self. He may acknowledge her presence through restrained gestures rather than breaking his public mask.
-- Elowen wears a gold gown, golden hair accessories gifted by one neighboring kingdom, and the established Veyne Pink on her left hand. Cassian wears restrained dark Veyne dress.
-- The ball is hosted by rival claimant Prince Oren. Exact venue architecture, guest list, stated occasion and Oren's precise tactical plan remain unestablished; reveal through play rather than assume.
-- Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished. The letters remain for controlled sequencing rather than indiscriminate display.
+- New beat: Elowen publicly/quietly seeks Cassian's judgment on whom they approach first. This directly enacts her planned strategy of chosen deference while preserving their substantive partnership.
+- Cassian should choose strategically based on established domestic targets, especially western/undecided houses, but exact attendees must not be invented as present without canon support. Lady Aramelle Sorne is a known useful western contact from prior tea, but whether she/her husband is physically present at Oren's ball is not yet established; if needed, establish presence through scene rather than assume exact spouse identity/name.
+- Cassian and Elowen have just entered: Elowen in gold, eyes lowered/head inclined toward Cassian, foreign-gift golden hair accessories, Veyne Pink on left hand; Cassian in restrained dark Veyne dress with cold public demeanor.
+- Their private banter continues beneath public composure. Cassian knows Elowen's deference is intentional political theater and may quietly appreciate/use it.
+- The ball is hosted by rival claimant Prince Oren. Exact guest list, venue details, stated occasion and Oren's precise tactical plan remain unestablished.
+- Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished. Cassian intends controlled sequencing, especially to undecided/western houses, not indiscriminate public revelation.
 - POV/style: narration third person, present tense; dialogue natural first/second person.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
