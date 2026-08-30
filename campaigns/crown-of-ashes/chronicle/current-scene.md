@@ -2,14 +2,14 @@
 
 - Location: Veyrhold — Veyne House, Elowen and Cassian's private rooms
 - Time: a few days later, Year 312 of the Crown (exact date not established)
-- Scene significance: charged political aftermath of the pillow-dagger culprit's exposure
-- Situation: Asked what should happen to Lady Sabine Orrell, Elowen tentatively proposes, 'Marry her off?'
+- Scene significance: charged political aftermath softens into marital trust after the pillow-dagger mystery is solved
+- Situation: After proposing that Sabine Orrell be removed from Veyrhold through an Orrell-arranged distant remarriage/settlement, Elowen tells Cassian the dagger has occupied too much of his mind. She says she was never afraid because she had him and trusted him, but that the unresolved threat made him 'intolerably cautious.'
 
 ## Recent beats
-- Cassian treats the proposal seriously rather than dismissing it. In this setting, remarriage for a widowed noblewoman could remove Sabine from Veyrhold, place her under another household's supervision/interests, and give House Orrell a face-saving mechanism, but it is not automatically sufficient punishment for threatening Lady Veyne.
-- Cassian points out the political complications: forcing a marriage too crudely could look like Veyne seizing control of an Orrell woman's marital disposition and alarm undecided houses; marrying Sabine to a powerful or nearby lord could simply give her a new political base; a distant, carefully chosen match might effectively become honorable exile.
-- Cassian may be dryly amused that Elowen's proposed answer to a jealous former lover is to find the woman a husband, but he should not trivialize the dagger threat.
-- Elowen's suggestion can become a negotiated settlement: House Orrell publicly/privately acknowledges Sabine acted without house sanction, pays restitution or gives guarantees, Sabine is removed from Veyrhold and married/placed at distance under terms preventing return/access, while avoiding collective punishment of innocent Orrell kin. Exact match/person remains undecided; do not invent a named husband without later establishment.
-- Sabine is a widow; her first husband's identity and circumstances are not established. Do not invent them.
-- Cassian continues to give Elowen meaningful standing because she was the target. Final punishment remains undecided until played further.
+- Cassian is affected by Elowen's statement that she trusted him enough not to be afraid. This directly touches his deepest motive beneath the elaborate security orders: fear of losing her and frustration at being unable to identify the pillow breach.
+- He should not take Elowen's lack of fear as proof his precautions were unnecessary. He can distinguish her trust in him from objective safety, while admitting that his fear led him to overreach and make her world smaller.
+- The mystery's resolution gives Cassian a concrete reason to relax the extraordinary post-wedding restrictions. Ordinary high-status security remains sensible, but the specific regime of intrusive pre-searches/approval and excessive control can be reduced now that the pillow access route and culprit are known and contained.
+- Cassian may tease 'intolerably cautious' but should acknowledge the criticism. He has already admitted that when frightened he issues orders and can confuse controlling variables with solving the problem.
+- Elowen's trust is relationally significant: she was not fearless because she believed herself invulnerable, but because she believed Cassian would protect her. Cassian should recognize both the tenderness and the burden in that without becoming melodramatic.
+- Sabine remains alive and secured; final settlement is not yet formally concluded. Proposed direction: House Orrell distances itself, accepts responsibility for removing the danger, Sabine leaves Veyrhold and may enter a distant second marriage arranged by her own house; guarantees/acknowledgment/compensation still to be negotiated.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved and unconnected to Sabine.
