@@ -2,16 +2,16 @@
 
 - Location: Prince Oren's ball, circulating among the gathered nobility
 - Time: evening, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure; Elowen and Cassian deliberately shape his public image before undecided nobles
-- Situation: After Cassian remarks that Elowen is making him look reasonable, Elowen asks, 'How would you like me to make you look?' She takes a glass of wine from a passing tray for Cassian first and then one for herself, another small visible gesture of chosen attentiveness/deference.
+- Scene significance: climactic succession pressure; an old marriage possibility enters the social field
+- Situation: Elowen laughs at Cassian's observation that she looks as though she already knows whose future court this will be. Across the room she then makes eye contact with Prince Oren's brother—the man who had wished to marry her instead.
 
 ## Recent beats
-- New beat: Elowen explicitly invites Cassian to define the public image he wants her to help project. Her taking his wine first reinforces the performance without requiring exaggerated submission.
-- Cassian's strongest strategic answer should fit established needs: not harmless or soft, but stable, governable, self-controlled, capable of ending the succession without punishing every former opponent. Western houses specifically fear that a Veyne king backed by Vale will treat late/undecided houses as enemies. The desired image is therefore strength that does not require vengeance.
-- Elowen's warmth remains unchanged from her normal courtly manner. Her role is to make Cassian accessible without pretending he is someone else; Cassian remains cold, controlled and authoritative.
-- Opening strategy remains: avoid clustering with existing allies, do not approach Oren first, circulate among undecided/western houses, demand no allegiance, and selectively reveal limited foreign-confidence information only if useful.
-- No named attendee has yet been established in the immediate group. Do not invent previously canonical NPC presence without establishing it through play.
-- Elowen wears gold with foreign-gift golden hair ornaments and the Veyne Pink; Cassian is darkly dressed and publicly cold.
+- New canon from player: Prince Oren has a brother who previously wished to marry Elowen. His name, age, exact title, personality, when/how he expressed the wish, whether a formal proposal was made, and Elowen's prior feelings toward him are not yet established. Do not invent these details as settled canon without play.
+- Oren's brother is physically present at the ball and makes eye contact with Elowen while she is on Cassian's arm. His immediate reaction can be observable, but do not narrate private thoughts or assume hostility/jealousy beyond what behavior establishes.
+- Cassian's knowledge of the brother's former wish to marry Elowen is not established in the currently loaded canon. Do not assume Cassian knows unless established through dialogue/player input or a relevant file read.
+- Elowen remains warm and socially natural while publicly deferential to Cassian. She has just asked how he wants to appear; Cassian answered: strong enough to rule, secure enough not to need revenge, stable enough to end the succession.
+- Elowen wears gold with foreign-gift golden hair ornaments and the Veyne Pink; Cassian is darkly dressed, publicly cold, and she is on his arm.
+- Oren himself has not yet been directly approached. Exact guest list beyond Oren's brother and other established-in-scene attendees remains open.
 - Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished.
-- POV/style: narration third person, present tense; dialogue natural first/second person.
+- POV/style: narration third person, present tense; dialogue natural first/second person. NPC private thoughts remain inaccessible.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
