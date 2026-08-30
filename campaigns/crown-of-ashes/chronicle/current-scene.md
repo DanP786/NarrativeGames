@@ -3,13 +3,13 @@
 - Location: Veyrhold — Veyne House, Elowen and Cassian's private rooms
 - Time: a few days later, Year 312 of the Crown (exact date not established)
 - Scene significance: charged political aftermath of the pillow-dagger culprit's exposure
-- Situation: After learning Cassian personally questioned former lover Lady Sabine Orrell, Elowen asks what Sabine's house has said about her arrest.
+- Situation: Asked what should happen to Lady Sabine Orrell, Elowen tentatively proposes, 'Marry her off?'
 
 ## Recent beats
-- House Orrell's response is newly established: they have formally distanced themselves from Sabine rather than openly contesting Veyne custody. Their senior representative sent a carefully worded message expressing shock, denying prior knowledge or authorization, and asking that Sabine's treatment reflect her rank while the evidence is examined.
-- House Orrell has NOT accepted collective responsibility and has NOT confessed involvement. They frame Sabine's conduct as personal if proven, seeking to prevent her jealousy from becoming a house-level act against Veyne/Vale.
-- They have not demanded immediate release because Cassian's evidence includes the laundress confession and payment/intermediary trail, making an aggressive denial politically risky. They do want access/representation and assurance Sabine will not simply disappear or be summarily punished without notice.
-- Cassian reads their posture as containment: preserve House Orrell, sacrifice political defense of Sabine if necessary, avoid feud with Veyne and Vale. He has not yet decided whether to force a public acknowledgment/apology, restitution, exile, confinement or harsher punishment.
-- Elowen has standing in the decision because she was the target and because an attack on Lady Veyne implicates both her personal safety and dynastic dignity. Cassian should be willing to discuss political consequences rather than deciding everything alone.
-- Sabine remains alive and secured. She claims the dagger was intended to frighten Elowen, not kill her. Cassian rejects that as exculpatory.
+- Cassian treats the proposal seriously rather than dismissing it. In this setting, remarriage for a widowed noblewoman could remove Sabine from Veyrhold, place her under another household's supervision/interests, and give House Orrell a face-saving mechanism, but it is not automatically sufficient punishment for threatening Lady Veyne.
+- Cassian points out the political complications: forcing a marriage too crudely could look like Veyne seizing control of an Orrell woman's marital disposition and alarm undecided houses; marrying Sabine to a powerful or nearby lord could simply give her a new political base; a distant, carefully chosen match might effectively become honorable exile.
+- Cassian may be dryly amused that Elowen's proposed answer to a jealous former lover is to find the woman a husband, but he should not trivialize the dagger threat.
+- Elowen's suggestion can become a negotiated settlement: House Orrell publicly/privately acknowledges Sabine acted without house sanction, pays restitution or gives guarantees, Sabine is removed from Veyrhold and married/placed at distance under terms preventing return/access, while avoiding collective punishment of innocent Orrell kin. Exact match/person remains undecided; do not invent a named husband without later establishment.
+- Sabine is a widow; her first husband's identity and circumstances are not established. Do not invent them.
+- Cassian continues to give Elowen meaningful standing because she was the target. Final punishment remains undecided until played further.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved and unconnected to Sabine.
