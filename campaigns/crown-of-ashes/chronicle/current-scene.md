@@ -1,15 +1,16 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, Elowen and Cassian's private rooms
+- Location: Veyrhold — Veyne House, Cassian's study
 - Time: a few days later, Year 312 of the Crown (exact date not established)
-- Scene significance: charged political aftermath softens into marital trust after the pillow-dagger mystery is solved
-- Situation: After proposing that Sabine Orrell be removed from Veyrhold through an Orrell-arranged distant remarriage/settlement, Elowen tells Cassian the dagger has occupied too much of his mind. She says she was never afraid because she had him and trusted him, but that the unresolved threat made him 'intolerably cautious.'
+- Scene significance: climactic succession pressure; foreign support may help break the deadlock
+- Situation: Elowen enters Cassian's study while the prolonged royal vacancy is reaching a breaking point. Cassian is under severe pressure as demands for a crowned ruler intensify and popular unrest threatens to become rebellion. Elowen arrives carrying letters/declarations of support from two neighboring kingdoms for Cassian's claim.
 
 ## Recent beats
-- Cassian is affected by Elowen's statement that she trusted him enough not to be afraid. This directly touches his deepest motive beneath the elaborate security orders: fear of losing her and frustration at being unable to identify the pillow breach.
-- He should not take Elowen's lack of fear as proof his precautions were unnecessary. He can distinguish her trust in him from objective safety, while admitting that his fear led him to overreach and make her world smaller.
-- The mystery's resolution gives Cassian a concrete reason to relax the extraordinary post-wedding restrictions. Ordinary high-status security remains sensible, but the specific regime of intrusive pre-searches/approval and excessive control can be reduced now that the pillow access route and culprit are known and contained.
-- Cassian may tease 'intolerably cautious' but should acknowledge the criticism. He has already admitted that when frightened he issues orders and can confuse controlling variables with solving the problem.
-- Elowen's trust is relationally significant: she was not fearless because she believed herself invulnerable, but because she believed Cassian would protect her. Cassian should recognize both the tenderness and the burden in that without becoming melodramatic.
-- Sabine remains alive and secured; final settlement is not yet formally concluded. Proposed direction: House Orrell distances itself, accepts responsibility for removing the danger, Sabine leaves Veyrhold and may enter a distant second marriage arranged by her own house; guarantees/acknowledgment/compensation still to be negotiated.
-- Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved and unconnected to Sabine.
+- New canon from player: Ardelane has now been without a crowned king for months; political and popular patience is collapsing, with the people close to rebellion and increasingly demanding that the succession be settled.
+- New canon from player: Elowen possesses written support from two neighboring kingdoms for Cassian's claim. The neighboring kingdoms are not yet named and the exact form/strength of their support is not yet established beyond letters of support; do not invent military guarantees, treaties, recognition terms, bribes, or secret concessions unless played.
+- Cassian is visibly stressed by the succession crisis. His claim remains opposed by Prince Oren, and domestic legitimacy matters; foreign support is valuable diplomatic weight but cannot simply substitute for Ardelane's own political settlement.
+- Elowen has been independently building domestic support among noblewomen and houses through hospitality/listening/stability framing. Lady Aramelle Sorne conveyed the western houses' key concern: they need a credible distinction between opposing Cassian during the succession and becoming enemies of King Cassian afterward. Cassian knows this and recognizes Elowen's political work as helping his path to the crown.
+- The letters should land as a meaningful surprise/achievement for Elowen, not something Cassian already knows unless she reveals how she obtained them. Let the player establish senders, method and terms if desired.
+- Cassian should evaluate the letters strategically once he reads them: authenticity, wording, whether support is recognition of Cassian specifically or merely preference for stability, and how to use them domestically without making Cassian look like a foreign-imposed king.
+- Tone: high political pressure with intimate marital partnership underneath it. Cassian is exhausted/stressed rather than helpless. Elowen arrives with potentially decisive leverage.
+- Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved. Sabine Orrell's dagger plot has been exposed and is separate.
