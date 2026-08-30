@@ -2,15 +2,14 @@
 
 - Location: Veyrhold — Veyne House, Elowen and Cassian's private rooms
 - Time: a few days later, Year 312 of the Crown (exact date not established)
-- Scene significance: charged revelation after the pillow-dagger culprit is exposed
-- Situation: Cassian has told Elowen that Lady Sabine Orrell, a former lover from several years ago, arranged the dagger warning by bribing a junior laundress with legitimate linen access. Elowen seriously asks, 'You spoke with her?'
+- Scene significance: charged political aftermath of the pillow-dagger culprit's exposure
+- Situation: After learning Cassian personally questioned former lover Lady Sabine Orrell, Elowen asks what Sabine's house has said about her arrest.
 
 ## Recent beats
-- Cassian answers yes: once the laundress's confession/payment trail made Sabine the identified source, Cassian personally confronted/questioned Sabine. He did not resume private social contact with her; this was an interrogation/confrontation after she was secured.
-- Cassian tells Elowen rather than concealing the encounter. Sabine admitted arranging the warning but insists she meant to frighten Elowen, not have her killed. Cassian does not accept that claimed distinction as exculpatory because a weapon placed beside a sleeping wife is inherently threatening and could have escalated.
-- Sabine's jealousy centered on Elowen occupying Cassian's intimate/domestic/dynastic place. She may have spoken possessively about knowing Cassian before Elowen did or implied Elowen displaced her, but do not establish a marriage promise: Cassian made none.
-- Cassian's former affair was several years ago, ended without a promise of marriage, and he had not seen Sabine privately since well before marrying Elowen. Do not invent exact duration, sexual details, dates, or additional former lovers.
-- Cassian is controlled and direct. He can recognize that Elowen's serious question may concern not only evidence but what passed between him and a former lover; he should answer without defensiveness or making Elowen pry.
-- Sabine is alive and secured/detained; final punishment remains undecided on-screen. Elowen has agency in responding before that decision.
+- House Orrell's response is newly established: they have formally distanced themselves from Sabine rather than openly contesting Veyne custody. Their senior representative sent a carefully worded message expressing shock, denying prior knowledge or authorization, and asking that Sabine's treatment reflect her rank while the evidence is examined.
+- House Orrell has NOT accepted collective responsibility and has NOT confessed involvement. They frame Sabine's conduct as personal if proven, seeking to prevent her jealousy from becoming a house-level act against Veyne/Vale.
+- They have not demanded immediate release because Cassian's evidence includes the laundress confession and payment/intermediary trail, making an aggressive denial politically risky. They do want access/representation and assurance Sabine will not simply disappear or be summarily punished without notice.
+- Cassian reads their posture as containment: preserve House Orrell, sacrifice political defense of Sabine if necessary, avoid feud with Veyne and Vale. He has not yet decided whether to force a public acknowledgment/apology, restitution, exile, confinement or harsher punishment.
+- Elowen has standing in the decision because she was the target and because an attack on Lady Veyne implicates both her personal safety and dynastic dignity. Cassian should be willing to discuss political consequences rather than deciding everything alone.
+- Sabine remains alive and secured. She claims the dagger was intended to frighten Elowen, not kill her. Cassian rejects that as exculpatory.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved and unconnected to Sabine.
-- OOC pronunciation remains: Veyne = 'Vane' (/veɪn/), one syllable.
