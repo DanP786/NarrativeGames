@@ -2,15 +2,16 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: a few days later, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure; foreign support may help break the deadlock
-- Situation: Elowen enters Cassian's study while the prolonged royal vacancy is reaching a breaking point. Cassian is under severe pressure as demands for a crowned ruler intensify and popular unrest threatens to become rebellion. Elowen arrives carrying letters/declarations of support from two neighboring kingdoms for Cassian's claim.
+- Scene significance: climactic succession pressure; Elowen reveals an independent soft-power diplomacy campaign
+- Situation: Cassian asks how Elowen obtained written support from two neighboring kingdoms. Elowen answers that she has 'merely' been writing to open friendships, sending gifts, and sending envoys in the form of entertainment.
 
 ## Recent beats
-- New canon from player: Ardelane has now been without a crowned king for months; political and popular patience is collapsing, with the people close to rebellion and increasingly demanding that the succession be settled.
-- New canon from player: Elowen possesses written support from two neighboring kingdoms for Cassian's claim. The neighboring kingdoms are not yet named and the exact form/strength of their support is not yet established beyond letters of support; do not invent military guarantees, treaties, recognition terms, bribes, or secret concessions unless played.
-- Cassian is visibly stressed by the succession crisis. His claim remains opposed by Prince Oren, and domestic legitimacy matters; foreign support is valuable diplomatic weight but cannot simply substitute for Ardelane's own political settlement.
-- Elowen has been independently building domestic support among noblewomen and houses through hospitality/listening/stability framing. Lady Aramelle Sorne conveyed the western houses' key concern: they need a credible distinction between opposing Cassian during the succession and becoming enemies of King Cassian afterward. Cassian knows this and recognizes Elowen's political work as helping his path to the crown.
-- The letters should land as a meaningful surprise/achievement for Elowen, not something Cassian already knows unless she reveals how she obtained them. Let the player establish senders, method and terms if desired.
-- Cassian should evaluate the letters strategically once he reads them: authenticity, wording, whether support is recognition of Cassian specifically or merely preference for stability, and how to use them domestically without making Cassian look like a foreign-imposed king.
-- Tone: high political pressure with intimate marital partnership underneath it. Cassian is exhausted/stressed rather than helpless. Elowen arrives with potentially decisive leverage.
-- Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved. Sabine Orrell's dagger plot has been exposed and is separate.
+- New canon: Elowen has independently conducted soft-power diplomacy abroad through friendly correspondence, gifts and traveling entertainment functioning as informal cultural envoys. She frames it modestly rather than as formal state negotiation.
+- Do not invent the identities of the two neighboring kingdoms, exact gifts, entertainers, recipients, costs, promises, treaties or concessions unless the player establishes them. The letters themselves remain support for Cassian's claim, but exact wording/strength is not yet established beyond meaningful written support.
+- Cassian should recognize the sophistication: because Elowen did not send threatening diplomats or demand commitments, she created familiarity and goodwill before asking/receiving political support. Entertainment could enter courts without the defensive reaction produced by formal envoys, carrying a favorable impression of the Veyne-Vale household and Ardelane stability.
+- Cassian should also immediately care whether Elowen promised anything in return or committed his future crown. He can ask directly rather than assume. If she made no binding promises, the letters become especially valuable because they are relatively clean endorsements rather than purchased treaties.
+- This mirrors Elowen's domestic method with noblewomen: listening, hospitality, social connection and stability framing rather than demanding allegiance. Cassian has already recognized that her social work is political intelligence/persuasion.
+- Cassian may be impressed, amused by her word 'merely,' and slightly appalled that she has been running an informal foreign-relations operation from his household without making a spectacle of it. Do not diminish her agency by implying Cassian secretly arranged it.
+- Strategic caution remains: foreign support must be introduced domestically in a way that signals regional confidence/stability rather than foreign selection of Ardelane's king.
+- The kingdom has been without a crowned ruler for months and popular unrest is nearing rebellion, increasing the urgency of using the new leverage.
+- Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
