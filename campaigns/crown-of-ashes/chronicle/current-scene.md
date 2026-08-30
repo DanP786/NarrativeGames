@@ -2,14 +2,15 @@
 
 - Location: Veyrhold — Veyne House, Cassian's study
 - Time: a few days later, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure shifts toward an imminent social-political event
-- Situation: After revealing her entertainers also observe foreign courts for visible invasion risks, Elowen jokes, 'Don't give me ideas, dear husband.' She says she has a ball to prepare for and asks whether Cassian will attend.
+- Scene significance: climactic succession pressure; Cassian and Elowen are invited into rival claimant Oren's social-political arena
+- Situation: Cassian asks whose upcoming ball Elowen is preparing for. Elowen answers: 'Oren's.' Cassian has already said he will attend regardless.
 
 ## Recent beats
-- New canon: Elowen is preparing for an upcoming ball. Host, venue, exact date, guest list, purpose, dress and whether Elowen herself organized it are not yet established; do not invent these unless played.
-- Cassian should strongly favor attending if politically possible: with Ardelane near popular rebellion after months without a crowned king, a major ball is an opportunity to be visibly present, project calm/legitimacy, read undecided houses, and appear beside Elowen as a functioning Veyne-Vale partnership.
-- Cassian is stressed and overloaded with succession work, so attendance has a cost; his choice to attend can be both political and personal. He may ask whose ball it is / who will attend before finalizing tactical plans, but should answer Elowen's direct invitation rather than reflexively withholding commitment.
-- Two neighboring kingdoms have already sent meaningful written support for Cassian; six other foreign court responses remain unestablished. These letters are not yet for indiscriminate public display. Cassian intends controlled sequencing to selected domestic power brokers, especially western houses.
-- Elowen wrote to all eight relevant foreign courts, offered no binding concessions beyond favorable consideration in future negotiations, and used correspondence, gifts and entertainment as soft-power diplomacy. Entertainers also observe only naturally visible/heard signs of foreign mobilization or hostile sentiment; Cassian explicitly warned against turning them into covert infiltrators.
+- New canon: The upcoming ball is hosted by Prince Oren, Cassian's rival claimant to Ardelane's vacant crown. Venue, exact date, guest list, stated occasion and Oren's motive for hosting remain unestablished; do not invent them as fact before play.
+- Cassian recognizes attending Oren's ball as politically necessary and dangerous: absence could look like fear or weakness; attendance lets Cassian visibly demonstrate confidence, observe Oren's coalition and appear beside Elowen as the joined Veyne-Vale power bloc. He should not assume violence or treachery without evidence.
+- Elowen's two foreign support letters are especially sensitive in this context. Cassian does not want them indiscriminately revealed at Oren's event; controlled disclosure remains the plan unless circumstances change.
+- Elowen is preparing for the ball; what she intends to wear/do there is not established. Cassian can be amused that she delivered the host's identity as an understated bombshell.
+- Ardelane has been without a crowned ruler for months; popular patience is nearing rebellion. Cassian and Oren remain rival claimants. Social events among the nobility therefore carry unusually high political weight.
+- Two neighboring kingdoms have sent meaningful written support for Cassian. Six other foreign responses remain unestablished. Elowen wrote to all eight relevant foreign courts using correspondence, gifts and entertainment, while making no binding commitments beyond favorable consideration for future negotiations.
 - POV/style: third person, present tense.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
