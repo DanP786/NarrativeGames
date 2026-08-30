@@ -7,6 +7,7 @@
 
 ## Recent beats
 - New canon from player: Prince Oren has a brother who previously wished to marry Elowen. His name, age, exact title, personality, when/how he expressed the wish, whether a formal proposal was made, and Elowen's prior feelings toward him are not yet established. Do not invent these details as settled canon without play.
+- OOC name check: current NPC files/index do NOT establish an Adrian. Treat 'Adrian' as unconfirmed unless player confirms that name; refer to him as Oren's brother for now.
 - Oren's brother is physically present at the ball and makes eye contact with Elowen while she is on Cassian's arm. His immediate reaction can be observable, but do not narrate private thoughts or assume hostility/jealousy beyond what behavior establishes.
 - Cassian's knowledge of the brother's former wish to marry Elowen is not established in the currently loaded canon. Do not assume Cassian knows unless established through dialogue/player input or a relevant file read.
 - Elowen remains warm and socially natural while publicly deferential to Cassian. She has just asked how he wants to appear; Cassian answered: strong enough to rule, secure enough not to need revenge, stable enough to end the succession.
