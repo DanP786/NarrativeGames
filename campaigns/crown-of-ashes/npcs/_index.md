@@ -5,3 +5,4 @@
 - Lord Osric Fenmere | alive | Cathedral of the Nine Bells, Veyrhold | Neutral | last seen S01 (present amid the cathedral crisis; status after the melee not yet established)
 - Lord Cassian Veyne | alive | Cathedral of the Nine Bells, Veyrhold | Hostile | last seen S01 (alive within the Veyne position after Alaric's death halted the fighting; Elowen remains on his side of the stalemate)
 - Prince Alaric | dead | Cathedral of the Nine Bells, Veyrhold | last seen S01 (killed near the royal dais during the funeral melee)
+- Prince Adrian | alive | Prince Oren's ball, Veyrhold | relationship to Elowen not yet tagged | last seen S01 (Oren's brother; previously petitioned to marry Elowen instead of Cassian; makes eye contact with the now-married Lady Veyne at Oren's ball)
