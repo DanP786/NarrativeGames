@@ -1,15 +1,17 @@
 # Current scene
 
-- Location: Veyrhold — private sitting room adjoining Elowen and Cassian's dressing rooms
-- Time: immediately before departure for Prince Oren's ball, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure; intimate teasing immediately before a politically charged public appearance
-- Situation: After Cassian tells Elowen to save discussion of his 'control' for somewhere Oren is not providing the champagne, Elowen retrieves her glass, sips, and suggests, 'Perhaps when we return to our bedchambers?'
+- Location: Arrival at Prince Oren's ball, at the carriage
+- Time: evening, Year 312 of the Crown (exact date not established)
+- Scene significance: climactic succession pressure; Cassian and Elowen cross from private intimacy into public political performance
+- Situation: The carriage ride remains easy and playful between the newlyweds. The instant they arrive, Cassian's demeanor shifts into the cold, controlled political face he presents publicly. Elowen feels privately warmed by the contrast because she knows the affectionate, playful version of him that others do not receive.
 
 ## Recent beats
-- New beat: Elowen explicitly carries the playful/intimate 'control' tease forward to their private bedchambers after the ball. Keep any sexual content suggestive and non-graphic.
-- Their established relationship boundary remains intact: Cassian distinguishes freely chosen/yielded control in intimacy or political theater from coercive control over Elowen's life. Their marriage is affectionate, consensual and politically collaborative.
-- Elowen intends strategic visible deference at Oren's ball when useful: asking Cassian's opinion, moving with him and signaling trust in his judgment while remaining visibly capable in her own right.
-- Elowen is dressed in gold with golden foreign-gift hair accessories and the established Veyne Pink; Cassian is dressed darkly and restrained. They are about to depart for Prince Oren's ball.
-- Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished. The letters remain for controlled sequencing rather than indiscriminate display.
-- POV/style: narration third person, present tense; dialogue natural first/second person.
+- New emotional beat: Elowen consciously appreciates that Cassian is different with her in private. His public coldness does not feel like distance from her; the contrast reinforces the intimacy and trust of their marriage.
+- Cassian's public demeanor at Oren's ball is politically controlled, severe and difficult to read. With Elowen he remains capable of subtle private signals/gestures that outsiders may not recognize.
+- Elowen intends strategic visible deference when useful, signaling trust in Cassian's judgment without surrendering her substantive agency. Their public presentation should communicate unity and mutual confidence.
+- Elowen is dressed in gold with golden hair accessories gifted by one neighboring kingdom and the established Veyne Pink on her left hand. Cassian is dressed darkly and restrained, avoiding premature royal display.
+- The ball is hosted by rival claimant Prince Oren. Venue, exact guest list, stated occasion and Oren's precise tactical plan remain unestablished and should emerge through play rather than retroactive assumption.
+- Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished. The letters remain for controlled sequencing rather than indiscriminate display at the ball.
+- Elowen and Cassian's private teasing about 'control' is consensual/intimate and remains distinct from Cassian's past overprotective political behavior, which they have explicitly addressed.
+- POV/style: narration third person, present tense; dialogue natural first/second person. Do not state unprovided private thoughts for NPCs; Elowen's internal warmth is player-established and may be narrated.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
