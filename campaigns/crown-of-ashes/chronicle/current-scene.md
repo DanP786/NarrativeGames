@@ -1,15 +1,22 @@
 # Current scene
 
-- Location: Veyrhold — Veyne House, private sitting room after supper
-- Time: later that evening, Year 312 of the Crown (exact date not established)
-- Scene significance: intimate conversation tests Cassian's fear against dynastic duty and childbirth risk
-- Situation: Elowen shifts onto Cassian's lap, lifting her skirts enough to straddle him, and challenges his admitted fear of losing her: 'What about with childbirth? Are you going to stop trying to make an heir in the danger of me dying giving birth?'
+- Location: Veyrhold — Veyne House, Elowen and Cassian's private rooms
+- Time: a few days later, Year 312 of the Crown (exact date not established)
+- Scene significance: charged revelation resolving the pillow-dagger breach
+- Situation: Cassian has finally identified who arranged for the dagger to be left at Elowen's pillow: Lady Sabine Orrell, a widowed noblewoman with whom Cassian had a discreet affair several years before his marriage. Cassian comes to tell Elowen himself.
 
-## Recent beats
-- Keep physical intimacy suggestive/non-graphic. The important beat is the reproductive/political question, not sexual description.
-- Cassian cannot honestly dismiss childbirth as safe. He is dynastically minded and wants a durable Veyne-Vale future, but Elowen's life matters to him independently of producing an heir.
-- His answer should reject the idea that fear entitles him to make a unilateral reproductive decision in either direction. He can want children/heirs and still acknowledge that Elowen bears the bodily danger and therefore must have meaningful agency in whether they accept that risk.
-- Cassian's control instinct may make pregnancy/childbirth especially difficult for him because it is a danger he cannot solve with guards, searches or controlled routes. He may anticipate becoming overbearing about physicians, rest, attendants and preparations, while recognizing Elowen will challenge him if he turns care into confinement.
-- Do not establish a current pregnancy unless separately established. No conception outcome or fertility fact is canon here.
-- Tone remains affectionate, candid and teasing at the edges, but the subject is serious. Cassian may admit that if pregnancy endangered Elowen acutely he would prioritize her life over dynastic expectations; do not invent setting-specific medical procedures or guarantees.
-- No investigative thread intrudes unless player redirects.
+## Dagger resolution
+- Lady Sabine Orrell was Cassian's former lover several years ago. The affair ended without a promise of marriage; Cassian did not consider it an ongoing attachment and had not seen her privately since well before his marriage to Elowen.
+- Sabine became fixated on Cassian's marriage after the wedding, particularly on Elowen occupying the private/domestic place beside Cassian that Sabine had once imagined might someday become hers. She was jealous and resentful but was not acting for House Dacre, Greyfell attackers, the stolen royal courier, the priest attack, or the wider coercion network.
+- Sabine did not personally enter Veyne House. She bribed a junior laundress who had legitimate access to household linen circulation. The laundress concealed the dagger among folded bed linens and placed it at/on Elowen's pillow during routine chamber work. This is why searches of doors, guard rotations and service passages failed to expose an illicit entry route: there was none.
+- The laundress has confessed after investigators traced an unexplained payment/gift to her. Sabine's intermediary/payment trail then exposed Sabine. The exact investigative mechanics need not become forensic beyond plausible household accounting/testimony.
+- Sabine intended the dagger as intimidation/a possessive warning to Elowen rather than an immediate assassination attempt, but Cassian regards placing a weapon beside his sleeping wife as a grave threat regardless of Sabine's claimed intent.
+- Cassian's earlier suspicion that jealousy/a former lover might be involved is vindicated, but he should take no pleasure in being right. He is furious that his own past created the avenue of threat and likely feels responsible for failing to anticipate Sabine.
+- Sabine's fate has not yet been decided on-screen. Cassian may have her detained/secured pending Elowen's response, but do not execute, torture, exile or otherwise finalize punishment without playing the decision.
+- This discovery resolves the immediate mystery of physical access to Elowen's pillow but does not resolve the separate Greyfell/courier/priest/Dacre conspiracy threads.
+
+## Pronunciation note
+- OOC pronunciation for Veyne: 'Vane' (/veɪn/), one syllable.
+
+## Tone
+- Cassian is controlled but visibly furious beneath the surface. He tells Elowen directly rather than letting her hear through servants. The revelation should give Elowen agency in responding to the culprit and Cassian's former relationship.
