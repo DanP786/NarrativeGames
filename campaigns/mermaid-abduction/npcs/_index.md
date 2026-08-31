@@ -1,3 +1,3 @@
 # NPC index
 
-- Unnamed merman | alive | offshore near Casey's familiar shore | Neutral | not yet encountered openly (has watched Casey from the sea)
+- Vaeren | alive | air chamber within unnamed deep settlement | Neutral | Casey's merman captor; watched her from the sea, abducted her according to the old taking tradition, calls her "saelith"
