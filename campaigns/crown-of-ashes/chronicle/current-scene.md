@@ -2,18 +2,17 @@
 
 - Location: Prince Oren's ball, before Oren and Princess Beatrice
 - Time: evening, Year 312 of the Crown (exact date not established)
-- Scene significance: climactic succession pressure with a sudden personal discovery in Elowen's peripheral view
-- Situation: While listening to Cassian and Oren discuss the danger of the prolonged succession vacancy, Elowen spots her friend Daphne across the room with Daphne's husband. Daphne has a visibly pregnant belly and has not told Elowen she is with child.
+- Scene significance: climactic succession pressure; Prince Adrian joins the rival claimants' public conversation
+- Situation: Cassian and Oren continue their controlled discussion about preventing Ardelane from breaking under the prolonged succession vacancy. Prince Adrian, Oren's brother, now joins the group. Elowen remains beside Cassian, listening; she has also just noticed Daphne across the room visibly pregnant despite Daphne never having told her.
 
 ## Recent beats
-- New canon: Daphne is married; her husband is present with her at Oren's ball. His name, title, house, appearance, personality and marriage dynamics are NOT yet established.
-- New canon: Daphne is visibly pregnant/with child. The pregnancy is advanced enough to be externally noticeable to Elowen. Exact gestational stage, due date, health, sex of child, whether this is her first pregnancy, and who else knew beforehand are NOT established.
-- New canon: Daphne did NOT tell Elowen about the pregnancy before Elowen saw the visible bump at the ball. The reason is NOT established; do not assume estrangement, secrecy, malice, fear or deliberate exclusion without evidence.
-- Elowen notices Daphne only from the corner of her eye while still standing with Cassian before Oren and Beatrice. Her immediate emotional reaction beyond noticing the surprise is for the player to determine.
-- Cassian and Oren have begun a substantive but controlled conversation: both acknowledge the months-long vacancy cannot continue indefinitely and threatens the realm. Oren suggested both concern themselves with preventing the realm breaking while they compete; Cassian called that a conversation worth having. Neither has conceded the crown.
-- Elowen is currently listening and publicly allowing Cassian to lead politically, consistent with her deliberate deference strategy.
-- Princess Beatrice remains present. Her birth house, political role and deeper marriage dynamics remain unestablished.
-- Garrick and Georgia are elsewhere at the ball. Prince Adrian is present and previously petitioned to marry Elowen instead of Cassian.
+- New beat: Prince Adrian joins Cassian, Elowen, Oren and Princess Beatrice during the substantive succession conversation. His exact political alignment beyond being Oren's brother, his view of the rival claims, and his intended purpose in joining remain unestablished until shown in play.
+- Adrian previously petitioned to marry Elowen instead of Cassian before Elowen's marriage. Earlier tonight he and Elowen exchanged only a polite raised-glass acknowledgment. Do not assume Cassian's exact knowledge of the old petition unless established.
+- Cassian and Oren both acknowledge the months-long vacancy is dangerous. Oren proposed concern with preventing the realm breaking while they compete; Cassian called that a conversation worth having. Neither concedes legitimacy.
+- Daphne is married and present with her husband. She is visibly pregnant/with child, advanced enough to notice across the ballroom, and did not tell Elowen beforehand. Exact stage, health, reason for not telling, and husband's identity/details remain unestablished.
+- Elowen is listening and publicly allowing Cassian to lead politically, consistent with her deliberate deference strategy. Her reaction to Daphne's undisclosed pregnancy remains for the player to determine.
+- Princess Beatrice remains present and has begun participating when addressed. Her birth house, political role and deeper marriage dynamics remain unestablished.
+- Garrick and Georgia are elsewhere at the ball.
 - Elowen wears gold with foreign-gift golden hair ornaments and the Veyne Pink; Cassian is darkly dressed and publicly cold.
 - Two neighboring kingdoms have sent written support for Cassian's claim; six responses remain unestablished and remain undisclosed here.
 - POV/style: narration third person, present tense; dialogue natural first/second person. NPC private thoughts remain inaccessible.
