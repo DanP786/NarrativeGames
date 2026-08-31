@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 31 August 2026
+- Date: 31 August / 1 September 2026 by human surface reckoning; Casey cannot presently verify the transition
 - Season: late summer
-- Time of day: night
-- Current location: human coastline, near Casey's familiar stretch of shore
-- Notable upcoming: Casey's disappearance; the hidden merfolk world beyond the shore
+- Time of day: unknown to Casey after sleeping several hours in the lightless deep settlement
+- Current location: air chamber within an unnamed deep merfolk settlement
+- Notable upcoming: Casey's first sustained contact with merfolk beyond Vaeren; the meaning of "saelith" and the taking tradition remain unresolved
