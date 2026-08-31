@@ -4,7 +4,6 @@
 - Location: submerged offshore from Casey's familiar shore
 - Time: late-summer night
 - The merman is carrying out the old taking tradition and has abducted Casey by force.
-- Casey entered the surf believing someone might need help, discovered an actual merman, and learned that he has watched her from the sea.
-- When Casey retreated, he seized her and dragged her beyond standing depth, then deliberately pulled her beneath the surface and began swimming seaward.
 - Casey fought his hold and tried to reach the surface but could not overpower him underwater; the struggle consumed much of her remaining breath.
-- Convinced she is about to die, Casey's panic becomes stark terror as her body begins forcing her toward an involuntary breath. She remains conscious but is moments from drowning unless something changes.
+- As Casey reaches the point of involuntarily inhaling and believes she is about to drown, the merman seals his mouth over hers and forces a breath of air into her lungs.
+- The act keeps Casey from immediately drowning but does not free her; he continues holding her underwater and remains in control of where they are going.
