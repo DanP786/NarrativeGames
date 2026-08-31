@@ -3,8 +3,8 @@
 - Scene significance: charged
 - Location: air chamber within the unnamed deep merfolk settlement
 - Time: late-summer night
-- Casey remains captive in the breathable chamber after being forcibly taken from the shore by the merman who had watched her there.
-- The merman has given Casey his name: Vaeren. He calls Casey "saelith," an untranslated culturally meaningful role tied to the old taking tradition.
-- Casey addresses him by name and pleads, "Vaeren, take me home."
-- Vaeren clearly understands the request. He refuses, indicating the human shore as the home Casey came from but the deep settlement/chamber as the place he now intends her to remain. His refusal is deliberate rather than a language misunderstanding.
-- Casey remains exhausted, cold and isolated; the only usable exit is underwater.
+- Casey remains captive in the breathable chamber after being forcibly taken from the shore by Vaeren, the merman who had watched her there.
+- Vaeren calls Casey "saelith," an untranslated culturally meaningful role tied to the old taking tradition, and has deliberately refused her request to be returned to the human shore.
+- Casey moves toward Vaeren on her hands and knees despite exhaustion and tells him, "This isn't my home. This can't be my home." Her soaked clothes continue to leave her visibly cold and shivering.
+- Vaeren recognizes both her rejection of his use of "home" and her physical distress. He does not agree to return her, but shifts his immediate attention toward getting her warm, again indicating the dry woven covering rather than forcing physical contact.
+- Casey remains exhausted and isolated; the only usable exit is underwater.
