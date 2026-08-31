@@ -2,17 +2,17 @@
 
 - Location: Veyne House, private bedchamber/sitting area before bed
 - Time: late night, Year 312 of the Crown (exact date not established)
-- Scene significance: charged romantic aftermath after a politically successful ball
-- Situation: Cassian thanks Elowen for how she handled the evening. Elowen lifts her nightdress enough to straddle him and answers, 'Of course husband. I enjoyed myself.' Their interaction turns physically affectionate and suggestive while remaining grounded in their established consensual marital dynamic.
+- Scene significance: charged romantic aftermath; playful intimacy turns toward the old grievance of Cassian's political marriage proposal
+- Situation: Elowen is voluntarily straddling Cassian in affectionate, suggestive intimacy. After Cassian says he prefers the woman who chooses when to yield and tells him to go to hell when deserved, Elowen raises an eyebrow and says, 'If I could do that I would have told you where to put your proposal.' This directly recalls Cassian's acknowledged hypocrisy in originally pursuing marriage politically through Garrick rather than first asking Elowen.
 
 ## Recent beats
-- New beat: Elowen voluntarily straddles Cassian while they speak privately before bed, signaling playful/romantic intimacy. Keep any further sexual content suggestive/non-graphic and consent-forward.
-- Elowen explicitly says she enjoyed herself at Oren's ball despite the political labor and personal complications.
-- Cassian praised Elowen as 'magnificent,' specifically because she let him lead without making herself smaller and maintained their public strategy through personal distractions.
-- Cassian has read Adrian's full note and intends to verify its warning rather than trust or dismiss it. Adrian's motive/source remain unknown.
-- Cassian explicitly reassured Elowen that her handling of Adrian's note was not deception. His irritation is directed at Adrian, including jealous/possessive dislike of Adrian choosing Elowen as the covert channel.
+- New beat: Elowen jokes pointedly that, had she possessed the freedom to tell Cassian to go to hell at the time, she would have told him where to put his marriage proposal. The line is teasing but grounded in a real established grievance about how their match began.
+- Cassian has previously acknowledged the hypocrisy that he politically proposed marriage through Garrick without first asking Elowen. He should not defensively rewrite that history.
+- Their present marital dynamic is affectionate, playful and deeply trusting. Physical intimacy remains consensual and suggestive/non-graphic.
+- Elowen explicitly enjoyed Oren's ball and their deliberate public performance of chosen deference/obedience. Cassian praised her for yielding publicly without making herself smaller.
+- Cassian has read Adrian's full note and intends to verify its warning. Adrian's motive/source remain unknown.
+- Cassian reassured Elowen her handling of Adrian's note was not deception; his irritation is directed at Adrian.
 - Ball result: Cassian and Oren publicly agreed losing-side supporters should not automatically be treated as traitors; Cassian spread that principle among undecided nobles.
-- Daphne is visibly pregnant and did not tell Elowen; Elowen deferred approaching her. Garrick danced with Georgia a couple of times. These threads remain unresolved.
-- Their established marital dynamic is affectionate, playful and deeply trusting; private teasing about obedience/control is consensual and distinct from coercive control over Elowen's life.
+- Daphne is visibly pregnant and did not tell Elowen; Garrick danced with Georgia a couple of times. These personal threads remain unresolved.
 - POV/style: narration third person, present tense; dialogue natural first/second person. NPC private thoughts remain inaccessible.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
