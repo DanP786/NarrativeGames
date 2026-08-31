@@ -1,9 +1,10 @@
 # Current scene
 
 - Scene significance: climactic
-- Location: Casey's familiar shore / surf
+- Location: submerged offshore from Casey's familiar shore
 - Time: late-summer night
-- The merman has decided that tonight he will act on the old taking tradition.
-- Casey entered the surf believing someone might need help and discovered an actual merman, who demonstrated that he knows her name and has watched her from the sea.
-- Casey steps backward after realizing he has been watching her. The merman abruptly seizes her ankle and drags her off balance into the surf, beginning the abduction by force.
-- Casey is now in immediate physical danger in the water; she is an ordinary human with no underwater-survival training.
+- The merman is carrying out the old taking tradition and has abducted Casey by force.
+- Casey entered the surf believing someone might need help, discovered an actual merman, and learned that he has watched her from the sea.
+- When Casey retreated, he seized her and dragged her beyond standing depth.
+- Casey manages only a startled "What..." before he deliberately pulls her beneath the surface and swims seaward with her held against him.
+- Casey has taken a breath but is an ordinary human with no underwater-survival training. She is submerged, frightened, and dependent on reaching air before her breath fails.
