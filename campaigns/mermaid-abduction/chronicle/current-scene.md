@@ -5,3 +5,4 @@
 - Time: late-summer night
 - Casey has not yet discovered that merfolk are real.
 - Her unseen merman observer is offshore and has decided that tonight he will act on the old taking tradition.
+- Casey notices him in the water and, concerned he may be in trouble, squints into the darkness and tries to assess whether he is okay.
