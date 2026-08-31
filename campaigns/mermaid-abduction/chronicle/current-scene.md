@@ -1,9 +1,9 @@
 # Current scene
 
-- Scene significance: climactic
-- Location: deep water approaching an unknown merfolk settlement
+- Scene significance: charged
+- Location: inside the unnamed deep merfolk settlement
 - Time: late-summer night
-- The merman has abducted Casey by force and repeatedly keeps her alive underwater by supplying air mouth-to-mouth while carrying her far from shore.
-- Casey has stopped resisting and pleading for the surface, conserving strength while wholly dependent on him for air.
-- Pale blue-green lights have resolved into a vast inhabited merfolk settlement, and multiple merfolk have noticed the approaching pair.
-- Casey's borrowed breath runs low again. Her captor recognizes the signs and supplies another breath mouth-to-mouth in full view of the watching merfolk, then retains control of her and continues toward the settlement.
+- The merman has abducted Casey by force and kept her alive during the descent by repeatedly supplying air mouth-to-mouth.
+- Casey stops resisting and waits to learn where he is taking her.
+- Her captor carries her past watching merfolk through bioluminescent stone passages and toward a secluded opening higher within the settlement.
+- The passage ends at a natural chamber containing a trapped pocket of breathable air above the waterline. He brings Casey toward this chamber rather than continuing to keep her indefinitely submerged.
