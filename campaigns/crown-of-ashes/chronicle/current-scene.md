@@ -1,19 +1,19 @@
 # Current scene
 
-- Location: Veyne House, private room after returning from Prince Oren's ball
-- Time: late evening/night, Year 312 of the Crown (exact date not established)
-- Scene significance: charged private aftermath; Cassian now physically has Adrian's covert warning and reacts to both its contents and the intimate place Elowen used to conceal it
-- Situation: After Cassian reassures Elowen that he does not view her conduct as deception and asks to see Adrian's note, Elowen retrieves the folded note from between her breasts and places it in Cassian's hand. Cassian visibly dislikes that Adrian's note was stored there, an irritation rooted in his established dislike/possessiveness regarding Adrian, but he does not treat Elowen's practical concealment as wrongdoing.
+- Location: Veyne House, private bedchamber/sitting area before bed
+- Time: late night, Year 312 of the Crown (exact date not established)
+- Scene significance: charged private aftermath; politics gives way to intimate marital conversation after the ball
+- Situation: After separating briefly to be undressed and prepared for bed, Cassian and Elowen meet again privately before sleeping. Court clothes and public personas are gone. Adrian's note has been read; Cassian has reassured Elowen that he does not believe she deceived him. They now have room to discuss the evening personally as husband and wife.
 
 ## Recent beats
-- New canon: Elowen concealed Adrian's note between her breasts while at the ball and retrieves it from there once privately home. This was a practical concealed storage choice; no erotic intent by Elowen is established.
-- New canon/observable reaction: Cassian dislikes where Elowen stored Adrian's note. Keep this as jealous/possessive irritation and dry marital reaction, not coercive anger or accusation against Elowen.
-- Cassian has explicitly reassured Elowen: he is not angry with her, she told him almost immediately at the first safe opportunity, and waiting until they could not be overheard was good sense. His anger is at Adrian covertly involving her and choosing her as the channel.
-- Cassian now has the physical note and can read its exact text. Exact note: 'You should know what your husband is not being told. The council is closer to choosing than either claimant believes. There are men attempting to force the matter before winter worsens. Do not speak to me here. A.'
-- Cassian has not previously heard the explicit sentence that 'There are men attempting to force the matter before winter worsens'; reading the note now reveals that detail to him.
-- Adrian's motive/source remain unknown; warning unverified. It does not identify which claimant the council favors, who is forcing the matter, or the mechanism.
-- Cassian knows Adrian previously tried to disrupt/ruin his marriage negotiations with Elowen by petitioning to marry her and still dislikes him.
+- New beat: Cassian and Elowen have both been undressed from their formal ball attire and meet again before bed. Exact nightclothes/degree of dress are not specified; keep intimacy romantic/suggestive rather than graphic unless player directs otherwise within allowed bounds.
+- Cassian has read Adrian's full note, including: 'There are men attempting to force the matter before winter worsens.' He intends to verify rather than trust or dismiss it. Adrian's motive/source remain unknown.
+- Cassian explicitly reassured Elowen that her waiting for a safe moment to disclose the warning was good sense, not deception. He is angry/possessive about Adrian choosing Elowen as covert channel, not accusing Elowen of wrongdoing.
+- Elowen had concealed Adrian's note between her breasts; Cassian dryly/jealously disliked 'the geography' while recognizing the tactical reasoning.
 - Ball result: Cassian and Oren publicly agreed losing-side supporters should not automatically be treated as traitors; Cassian spread that principle among undecided nobles.
-- Daphne is visibly pregnant and did not tell Elowen; Garrick danced with Georgia a couple of times. These personal threads remain unresolved.
+- Cassian and Elowen did not dance because the evening was for politics.
+- Daphne is visibly pregnant and did not tell Elowen; Elowen deferred approaching her. Garrick danced with Georgia a couple of times. These personal threads remain unresolved and may naturally surface in private conversation.
+- Elowen's gold gown, foreign-gift hair ornaments and Veyne Pink were part of the ball presentation; formal attire is now removed for the night, though the ring's current exact placement should not be asserted unless relevant/established.
+- Their established marital dynamic is affectionate, playful and deeply trusting; private teasing about obedience/control is consensual and distinct from coercive control over Elowen's life.
 - POV/style: narration third person, present tense; dialogue natural first/second person. NPC private thoughts remain inaccessible.
 - Separate Greyfell/courier/priest/Dacre conspiracy remains unresolved.
