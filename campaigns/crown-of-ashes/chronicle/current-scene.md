@@ -2,15 +2,15 @@
 
 - Location: Veyne House, private bedchamber/sitting area before bed
 - Time: late night, Year 312 of the Crown (exact date not established)
-- Scene significance: charged romantic aftermath; Elowen directly contrasts Cassian's public and private selves
-- Situation: Elowen is voluntarily straddling Cassian in affectionate, suggestive intimacy. After teasing him about his original political marriage proposal, she looks into his eyes and tells him, 'You are a completely different person in private.' The moment invites Cassian to address the contrast between his severe public political persona and the warmer, more vulnerable husband Elowen sees alone.
+- Scene significance: charged romantic aftermath; Elowen asks directly whether Cassian now trusts her
+- Situation: Elowen is voluntarily straddling Cassian in affectionate, suggestive intimacy. After observing how different he is in private, she asks: 'You told me you didn’t trust me before we were married. Has that changed?' Cassian answers from their accumulated marriage and partnership rather than denying his former distrust. He distinguishes trusting Elowen herself from blindly trusting every circumstance around them.
 
 ## Recent beats
-- New beat: Elowen explicitly observes that Cassian is 'a completely different person in private' while looking into his eyes. This is intimate observation, not an accusation unless her next words make it one.
-- Cassian's public presentation is controlled, severe, politically cold and authoritative; privately with Elowen he is affectionate, playful, candid about fear and capable of admitting fault. Both are established facets of him rather than one necessarily being false.
-- Cassian has acknowledged his original proposal was arrogant and politically routed through Garrick without first asking Elowen; he does not rewrite that history.
+- New beat: Elowen directly asks whether Cassian's pre-marriage distrust of her has changed. This is a serious trust question beneath their playful physical intimacy.
+- Historical canon from Cassian's NPC record: before marriage, political distrust was substantial because of the blood feud and dynastic circumstances, even as Elowen repeatedly saved Cassian's life, shared operational information, and earned respect. Cassian must not rewrite that earlier distrust as nonexistent.
+- Current relationship canon strongly supports a major change: Elowen and Cassian are married political partners; he listens to her, accepts challenge, relies on her judgment, recognizes her independent coalition work, and has just explicitly told her that her handling of Adrian's note was good sense rather than deception.
+- Cassian's current answer should not imply naive or absolute trust: he remains security-minded and wary of manipulation around both of them. Trust in Elowen can coexist with verification of information, political caution, and fear for her safety.
 - Their present physical intimacy is consensual and suggestive/non-graphic.
-- Elowen explicitly enjoyed Oren's ball and their public performance of chosen deference/obedience. Cassian praised her for yielding publicly without making herself smaller.
 - Cassian has read Adrian's full note and intends to verify its warning. Adrian's motive/source remain unknown.
 - Ball result: Cassian and Oren publicly agreed losing-side supporters should not automatically be treated as traitors; Cassian spread that principle among undecided nobles.
 - Daphne is visibly pregnant and did not tell Elowen; Garrick danced with Georgia a couple of times. These personal threads remain unresolved.
