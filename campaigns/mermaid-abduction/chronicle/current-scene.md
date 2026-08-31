@@ -5,6 +5,6 @@
 - Time: late-summer night
 - The merman abducted Casey by force and kept her alive during the descent by repeatedly supplying air mouth-to-mouth.
 - He brought her into a secluded natural chamber with breathable air and provided a dry woven marine covering after noticing her shivering.
-- After crying for a long while, Casey regains enough control to tell him, "I want to go home."
-- He recognizes "home" from his observations of her on shore and understands the direction of her request. He does not agree to return her; instead he indicates that her former shore-home is above/away and identifies the deep settlement or chamber as where she is now meant to remain.
+- After he refuses Casey's request to return home and indicates that she is meant to remain here, Casey tells him, "I don't belong here, I can't breathe under water."
+- He understands her reference to breathing by recalling the descent and indicates that he knows she cannot breathe underwater. His response makes clear that he considers supplying her air and providing an air chamber an answer to that limitation rather than a reason to return her.
 - Casey remains exhausted, cold and isolated. The chamber's only apparent exit is underwater.
