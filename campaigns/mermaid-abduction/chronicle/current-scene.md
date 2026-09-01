@@ -5,9 +5,9 @@
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
 - Casey is in the pool with Vaeren; her colorful marine-made garments have been removed with her willing permission during their reciprocal anatomical exploration. Hair ornaments and bioluminescent cheek cosmetic remain.
-- After Vaeren explicitly pauses for an answer and Casey says "Yes" while wrapping her arms around his neck, their intimacy crosses into sex. The act itself is not described graphically.
-- Casey immediately discovers that intimacy with a merfolk partner feels unfamiliar in ways she could not have predicted from human experience. The difference is registered through surprise, closeness and the alienness of Vaeren's body rather than explicit anatomical detail.
-- Vaeren remains attentive to Casey's reaction and holds still long enough to read whether she wants him to continue; her earlier yes is not treated as permission to ignore a change of mind or discomfort.
-- This consensual sexual encounter does not erase the broader coercive reality of Casey's captivity, Vaeren's refusal to return her to shore, or the unequal power between them.
+- After the unfamiliar first sensation makes Vaeren pause and check Casey's reaction, Casey deliberately chooses to continue the consensual sexual encounter, drawing close and communicating her decision clearly through her actions and response.
+- The sexual activity remains off-page/non-graphic. The scene focuses instead on Casey's conscious choice, the strangeness of intimacy across two different bodies, their limited shared language and Vaeren's continued attention to her cues.
+- Vaeren does not treat Casey's continued consent as permission to ignore later hesitation or withdrawal.
+- The encounter deepens the complicated attraction and trust developing between Casey and Vaeren, but it does not erase the broader coercive reality of Casey's captivity, Vaeren's refusal to return her to shore, or the unequal power between them.
 - Casey's rearranged bed and drying shirt remain in place. The warming drink remains nearby.
 - Casey and Vaeren are alone together. Casey's private strategy remains unknown to Vaeren.
