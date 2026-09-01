@@ -4,10 +4,11 @@
 - Location: Seryn's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Among the clothes Seryn brings Casey is a colorful handkerchief-style crop top adapted for a human body.
-- Casey turns to face Vaeren and removes her bikini top in order to change into Seryn's colorful crop top. She makes no effort to conceal the brief nudity from Vaeren and is untroubled by him seeing her while she changes.
-- Vaeren notices Casey's lack of concealment but does not treat it as permission for further intimacy; he remains attentive and restrained while she changes.
-- Casey puts on the colorful crop top. Seryn is delighted to see Casey wearing something she selected for her.
-- Daniel remains present. The moment establishes Casey's increased comfort with being physically unguarded around Vaeren without establishing forgiveness, romantic commitment or blanket consent to intimacy.
+- Casey now wears the colorful handkerchief-style crop top Seryn selected for her, while her bikini bottoms remain on.
+- Seryn slaps Vaeren's arm in an impatient sibling-like command to release Casey. Vaeren lets Casey out of his supporting hold rather than contesting his sister over the harmless interaction.
+- Seryn takes Casey by the hand and draws her farther away in the chamber so she can inspect how the new top looks, then leads her toward the pile of clothes while keeping hold of her hand.
+- Casey treads water under her own power beside Seryn. Vaeren is left behind holding Casey's removed bikini top.
+- Seryn remains delighted and intent on choosing more clothes for Casey. Vaeren watches closely but does not interfere.
+- Daniel remains present and can communicate with Casey in English.
 - Daniel's age, origin and exact circumstances of his taking remain unknown to Casey.
 - Casey's private strategy remains to learn enough language and local knowledge to gain leverage toward eventually persuading Vaeren to return her home.
