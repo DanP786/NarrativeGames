@@ -4,7 +4,6 @@
 - Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey tries the food Vaeren brought while deliberately maintaining eye contact with him, continuing her attempt to charm him and build trust.
-- The first item she samples is unfamiliar but edible: a pale, firm marine flesh with a mild salty-sweet taste. Vaeren watches closely for Casey's reaction, apparently treating whether she accepts and likes the food as important information about caring for a human saelith.
-- Casey's sustained gaze makes the exchange feel more personal than simple feeding. Vaeren responds with focused attention but does not presume physical escalation; he instead uses gesture to ask whether she likes the food and waits for her answer.
-- Casey's strategic motive remains private: she intends to use rapport, language learning and increased trust to gain knowledge and eventually persuade Vaeren to return her to the surface.
+- When Vaeren offers another piece of food questioningly, Casey takes hold of his wrist rather than taking the food from his fingers and guides his hand toward her mouth. She bites the offered piece while maintaining the deliberately intimate, trusting presentation she has been cultivating.
+- Vaeren recognizes Casey's choice as another instance of her initiating closeness. He holds still and allows her to control the contact, watching her reaction to the food rather than turning the gesture into further physical intimacy.
+- The exchange deepens their nonverbal rapport and Vaeren's sense that Casey is voluntarily engaging with him, while Casey's private strategic purpose remains to gain trust, language and eventual leverage toward returning home.
