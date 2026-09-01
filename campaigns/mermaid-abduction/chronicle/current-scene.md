@@ -1,10 +1,11 @@
 # Current scene
 
 - Scene significance: charged
-- Location: submerged settlement passages, departing Mara's occupied air chamber
+- Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey takes a full breath and voluntarily signals readiness to leave Mara's chamber with Vaeren.
-- As Vaeren carries her underwater, Casey wraps an arm around his shoulder and rests her head against his chest for stability and comfort during the swim. Vaeren notices the more trusting physical posture but does not presume further intimacy; he secures her carefully against him and swims at a measured pace suited to her human limits.
-- Mara remains behind in her chamber after telling Casey she may return to visit, ask questions and learn the merfolk language.
-- Casey and Vaeren retain their established travel signal: tapping him means she needs air.
+- Vaeren carries Casey back through the submerged settlement to the secluded breathable chamber where he first brought her. Their return completes the trip to Mara's chamber without incident.
+- Vaeren brings Casey to the stone ledge and lets her regain solid footing rather than keeping hold of her. The woven coverings Casey used for warmth and sleep remain in the chamber, as do her earlier signs of occupation.
+- Casey now knows this chamber is intended by Vaeren as their shared household/home under the saelith custom, though she does not accept that designation as equivalent to her human home.
+- Casey has met Mara, learned the broad meaning and disputed obligations of saelith, and knows she may return to Mara for questions and language help.
+- Casey and Vaeren still have only limited direct shared vocabulary, making language learning an immediate practical issue between them.
