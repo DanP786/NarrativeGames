@@ -4,7 +4,8 @@
 - Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- The same unnamed merman who previously made the childbearing gesture has intruded again and openly stared over Casey's body.
-- After verbally reprimanding the visitor and blocking his view of Casey, Vaeren escalates the dismissal by forcefully splashing water directly at him, an unmistakable physical command to back off without yet attacking him.
-- Vaeren remains positioned between Casey and the visitor. Casey cannot translate the exchange or know the visitor's exact motives, but Vaeren's displeasure with his behavior is obvious.
+- The intrusive merman evades Vaeren by diving and unexpectedly resurfaces immediately beside Casey at the ledge, entering her personal space before Vaeren can remain physically between them.
+- Seen this close, Casey judges the visitor to look younger than Vaeren and distinctly insolent: his response to Vaeren's reprimand reads more like provocative boundary-testing than fear or deference.
+- Casey privately wonders whether the younger merman might be Vaeren's brother because of the familiar, defiant quality of their interaction, but no kinship between them is established yet.
+- Vaeren reacts immediately to the visitor appearing beside Casey; his displeasure sharpens at the deliberate circumvention of his warning.
 - Casey's private strategy remains to learn enough language and local knowledge to gain leverage toward eventually persuading Vaeren to return her home.
