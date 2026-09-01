@@ -1,15 +1,15 @@
 # Current scene
 
 - Scene significance: charged
-- Location: submerged thoroughfares and inhabited spaces of the unnamed deep merfolk settlement
-- Time: roughly two hours later by Casey's subjective estimate; exact surface time remains unknown
+- Location: an underwater gathering chamber within the unnamed deep merfolk settlement
+- Time: roughly two hours after Casey and Vaeren began their extended exploration; exact surface time remains unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey is dressed in Seryn's colorful marine-made two-piece outfit, with hair ornaments and bioluminescent cheek cosmetic still in place. Her damp surface shirt, rearranged bed and warming drink remain back in Casey and Vaeren's chamber.
-- Casey and Vaeren spend roughly two hours exploring parts of the submerged settlement together. Casey increasingly swims under her own power while Vaeren stays close, sometimes taking her hand and towing her faster through longer passages.
-- The temporary merfolk biological effect from Casey and Vaeren's consensual sexual encounter continues to make breath-holding markedly easier, but Casey remains human, cannot breathe water, and still periodically needs fresh air.
-- During the exploration Casey continues using the established signal to ask Vaeren for breath when she needs it. Vaeren supplies air mouth-to-mouth as he has before, allowing them to continue without always returning immediately to an air chamber.
-- Casey gets a longer practical look at the settlement's three-dimensional routes, bioluminescent habitation and patterns of merfolk movement. No new named NPC interaction or newly defined formal district is established during this exploratory stretch.
-- The altered breath-hold effect lasts for at least this roughly two-hour exploratory period. Its total duration, precise limits, mechanism, reproductive significance, risks and whether repeated exposure changes anything remain unestablished.
-- Vaeren remains beside Casey throughout and does not permit solitary submerged travel.
-- The encounter has deepened attraction and trust between Casey and Vaeren but does not erase the broader coercive reality of her captivity, his refusal to return her to shore, or the unequal power between them.
-- Casey's private strategy remains unknown to Vaeren.
+- Casey is dressed in Seryn's colorful marine-made two-piece outfit, with hair ornaments and bioluminescent cheek cosmetic still in place.
+- After roughly two hours exploring, Vaeren leads Casey into a larger fully submerged gathering chamber. Casey recognizes Neris, Seryn and Daniel already present there.
+- Two additional older adult merfolk are present, one male and one female. Their age, placement with Vaeren's siblings and the siblings' behavior strongly suggest to Casey that they may be Vaeren, Seryn and Neris's parents, but their identities and exact family relationship are not yet confirmed to Casey.
+- Casey's temporary merfolk biological effect continues to make breath-holding markedly easier, but she remains human and cannot breathe water. She still relies on Vaeren for periodic air during prolonged submerged travel.
+- Vaeren remains beside Casey as he brings her into the gathering rather than leaving her to enter alone.
+- Neris knows only that he previously interrupted Casey and Vaeren during an obviously intimate private moment; he did not witness their later sexual encounter. Seryn and Daniel likewise have not been established as knowing that Casey and Vaeren have had sex or that Casey's breath-hold ability is temporarily altered.
+- No names, personalities, attitudes toward humans/saelith, or detailed history have yet been established for the two older merfolk.
+- Casey's captivity and Vaeren's refusal to return her to shore remain unchanged despite the attraction and trust developing between them.
+- Casey's private strategy remains unknown to Vaeren and the others.
