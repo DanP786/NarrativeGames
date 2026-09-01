@@ -4,9 +4,9 @@
 - Location: Seryn's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey remains in the water with both arms around Vaeren's neck as he brings her close to Seryn and Seryn's human male saelith.
-- Seryn reacts to Casey's arrival with immediate, unmistakable delight. Her attention moves excitedly between Casey and Vaeren, and she warmly welcomes Casey rather than treating her presence as an intrusion.
-- Seryn's delight is especially visible when she notices Casey voluntarily clinging to Vaeren; Casey cannot yet know what cultural assumptions Seryn draws from that sight because she cannot follow Seryn's rapid merfolk speech.
-- Vaeren remains restrained beside his much more expressive sister and continues supporting Casey without escalating her chosen physical closeness.
-- The human man's name, age, origin, personality, history below the sea, feelings about Seryn and circumstances of his taking remain unknown to Casey.
+- After enthusiastically greeting Casey, Seryn abruptly darts beneath the water and away through a submerged route to fetch clothing suitable for Casey. Casey does not yet know what Seryn has gone to retrieve.
+- Casey remains with Vaeren and Seryn's human male saelith, waiting for the man to answer her question about whether he speaks English. Casey is still close to Vaeren in the water.
+- Seryn's human saelith answers Casey in fluent English, confirming they can communicate directly. He introduces himself as Daniel.
+- Daniel is established as an adult human man and Seryn's saelith. His age, origin, length of time below the sea, circumstances of his taking and present feelings about Seryn remain unknown to Casey.
+- Seryn is temporarily away from the chamber fetching clothes for Casey and is expected to return shortly.
 - Casey's private strategy remains to learn enough language and local knowledge to gain leverage toward eventually persuading Vaeren to return her home.
