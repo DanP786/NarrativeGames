@@ -4,7 +4,7 @@
 - Location: air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive in the breathable chamber after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- After the visitor's crude childbearing gesture and Vaeren's attempted correction, Casey asks whether this chamber is now meant to be her home with Vaeren and whether there are female merfolk ("mermaids") of his own kind.
-- Vaeren understands "home" and Casey's pairing gesture. He affirms that he intends a shared home/belonging between himself and Casey under the concept of "saelith." He also confirms that female merfolk exist; Casey's human term "mermaid" is unfamiliar to him.
-- Vaeren's answers establish that Casey was not taken because female merfolk simply do not exist. Why the old taking tradition specifically reaches toward human women, and what "saelith" fully entails, remain unresolved.
+- Casey reasons from the only human mermaid folklore she knows: beautiful mermaids lure men with song and drag them beneath the sea. She wonders whether those stories could be distorted memories of human men being taken into merfolk settlements rather than simply drowned.
+- Casey asks Vaeren whether female merfolk also have or take "saelith," using gestures to indicate a female merfolk, a human man, and the same paired relationship Vaeren has indicated between himself and Casey.
+- Vaeren understands enough of the comparison to affirm that the taking tradition is not exclusively practiced by male merfolk toward human women; female merfolk can also take human men into the analogous bonded role. Casey does not yet know whether every drowning/luring legend reflects this practice, how common it is, or whether the roles are perfectly symmetrical.
 - Vaeren keeps his distance at the pool's edge. Casey's clothes are drying nearby; the chamber's only usable exit is underwater.
