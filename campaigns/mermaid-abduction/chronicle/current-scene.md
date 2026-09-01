@@ -4,8 +4,7 @@
 - Location: occupied air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey asks Mara to teach her the merfolk language instead of Vaeren and asks whether she can stay in Mara's chamber.
-- Mara says no to Casey staying with her. She explains that while Casey is welcome to visit and Mara can help her with language and orientation, simply keeping Casey in Mara's chamber would amount to openly taking responsibility for another merfolk's claimed saelith and would provoke a conflict Mara cannot safely resolve by declaring sanctuary.
-- Mara also argues that hiding with her would leave Casey dependent on Mara rather than reducing Casey's dependence. She wants Casey to learn the language from multiple sources, including Vaeren, both because immersion will be faster and because Casey needs to understand how Vaeren himself uses words tied to their disputed relationship.
-- Mara makes clear that her refusal is not rejection: Casey can return, ask questions and seek help, but Mara will not promise that Casey can live permanently in her chamber as an escape from Vaeren.
-- Vaeren remains in the pool, watching closely; he cannot follow the English words but can see Casey's distress and Mara's refusal.
+- After Mara refuses to let Casey remain permanently in her chamber, Casey accepts the answer sadly. She drops the dry woven covering and pulls her wet shirt back on over the bikini she has been wearing beneath her clothes.
+- Casey scoots to the ledge beside Vaeren, signaling that she is ready to leave with him despite her disappointment.
+- Vaeren immediately notices Casey's subdued mood. He does not seize or hurry her; he moves close enough to support her in the water and waits for her to initiate contact, consistent with the travel pattern they established on the way to Mara's chamber.
+- Mara remains behind and reiterates that Casey can return to visit and learn from her.
