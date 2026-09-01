@@ -4,7 +4,7 @@
 - Location: air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive in the breathable chamber after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- After learning that female merfolk can also take human men into an analogous "saelith" role, Casey asks Vaeren whether other humans are here in the settlement/home.
-- Vaeren understands her by having her distinguish herself as human and indicate others like her. He confirms that other living humans are present somewhere within the broader merfolk settlement, though not in the air chamber with Casey.
-- Vaeren indicates multiple others rather than a single person, and gestures outward into the settlement. Casey has not yet met them and does not know how many there are, how long they have been here, their circumstances, or whether they can communicate with her.
-- Vaeren keeps his distance at the pool's edge. Casey's clothes are drying nearby; the chamber's only usable exit is underwater.
+- After learning that several other living humans are somewhere within the broader settlement, Casey moves voluntarily to the pool edge beside Vaeren and tells him, "Take me," indicating that she wants him to bring her to them.
+- Casey begins putting her still-damp human clothes back on beneath/around the woven covering in preparation to leave the chamber. The clothing is unpleasantly damp but no longer dripping wet after drying on the stone.
+- Vaeren understands Casey's request as a request to travel into the settlement and see the other humans. He waits for her to finish dressing rather than pulling her into the water immediately.
+- Reaching the other humans requires underwater travel through the settlement; Casey cannot make that journey safely without Vaeren supplying air or another means of breathing.
