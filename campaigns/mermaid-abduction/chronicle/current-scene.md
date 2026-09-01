@@ -4,7 +4,8 @@
 - Location: occupied air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Wrapped in Mara's dry covering after removing her wet top, Casey asks Mara how long she has been in the merfolk settlement.
-- Mara says she was taken from the human world fourteen years ago, when she was twenty-two. She has therefore spent a substantial portion of her adult life below the sea and is an experienced source on the settlement and taking tradition, though her own experience cannot automatically stand for every saelith relationship.
+- Casey asks Mara directly whether she is happy after fourteen years below the sea.
+- Mara answers that she is happy now, but carefully separates her present life from the way it began: she was terrified, furious and wanted to return home when first taken, and she refuses to present eventual attachment or adaptation as proof that the taking was justified.
+- Mara indicates that her life in the settlement has become genuinely hers over time and includes people she loves, while also acknowledging grief for the human life she lost. Her experience therefore offers Casey neither a simple warning nor a promise that Casey will eventually feel the same.
 - Vaeren remains in the pool at the ledge, observing without understanding the full English exchange.
-- Casey still does not know Mara's own saelith circumstances in detail, whether Mara ever tried to leave, or whether returning permanently to the human world is possible.
+- Casey still does not know the details of Mara's own saelith relationship, whether she tried to escape, or whether permanent return to the human world is possible.
