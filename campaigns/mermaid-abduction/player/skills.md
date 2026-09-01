@@ -4,7 +4,7 @@
 _None._
 
 ## Adept
-- Rapport & De-escalation (0 ticks) — naturally good at putting people at ease, lowering social temperature and finding a human connection.
+- Rapport & De-escalation (1 tick) — naturally good at putting people at ease, lowering social temperature and finding a human connection.
 
 ## Novice
 - Practical First Aid (0 ticks) — nursing studies provide useful foundational medical knowledge, but she is not yet a qualified nurse.
