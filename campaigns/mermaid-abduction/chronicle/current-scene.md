@@ -4,6 +4,6 @@
 - Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- As the improvised language lesson exhausts obvious objects in the chamber, Casey shifts to anatomy vocabulary. She indicates ordinary body parts on herself and Vaeren—head, face, eyes, mouth, shoulder, arm, hand, chest, legs and tail—asking for the corresponding words and giving him English equivalents.
-- Casey deliberately makes the lesson more tactile by taking Vaeren's hand and placing/guiding it to non-intimate parts of her body as she names them, then touching corresponding parts of him. Vaeren recognizes that Casey is initiating the contact and follows her teaching game cautiously rather than expanding the touching beyond what she explicitly demonstrates.
-- The close physical lesson increases personal tension and familiarity between them, but it remains focused on language rather than becoming sexual activity. Casey's private strategic motive—to learn enough to understand the settlement and eventually persuade Vaeren to return her home—remains unknown to him.
+- During the increasingly tactile language lesson, Casey deliberately guides Vaeren's hand from the ordinary anatomy lesson to her breast, testing both the vocabulary and how he responds when she explicitly initiates more intimate contact.
+- Vaeren is visibly startled by the escalation and looks to Casey for confirmation rather than treating it as blanket permission. He gives her the merfolk word in the same teaching pattern, then leaves further escalation to Casey instead of taking control of the encounter.
+- The moment introduces unmistakable sexual tension but does not progress into sexual activity. Casey's broader strategic motive and uncertainty about Vaeren remain private.
