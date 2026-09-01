@@ -1,9 +1,10 @@
 # Current scene
 
 - Scene significance: charged
-- Location: approaching a cluster of air chambers within the unnamed deep merfolk settlement
+- Location: occupied air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- As Vaeren carries Casey toward the air chambers where other humans may be found, her initial urgency gives way to apprehension about what she will discover there.
-- Casey's tension is visible in the way she clings to Vaeren and hesitates as they near the nearest chamber. Vaeren notices the physical hesitation and slows rather than forcing her immediately through the entrance.
-- Casey remains dependent on Vaeren for air and underwater movement. The nearby air chambers are now within reach, but Casey has not yet entered or met another human.
+- Despite her apprehension, Casey nods and points toward the nearest air pocket, signaling Vaeren to continue. He carries her through the submerged entrance and surfaces with her inside an inhabited breathable chamber.
+- Casey encounters another living human for the first time since her abduction: an adult human woman who is already resident in the settlement and immediately recognizes Casey as human and newly taken.
+- Vaeren remains in the pool with Casey and does not prevent the two humans from seeing or speaking to one another.
+- Casey has not yet learned the woman's name, how long she has lived here, her relationship to the merfolk, or what she knows about "saelith."
