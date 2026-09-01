@@ -6,9 +6,9 @@
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
 - Casey is dressed in the colorful two-piece outfit Seryn selected, with marine-made ornaments woven through her wet hair and soft bioluminescent cosmetic along her cheekbones.
 - Casey has voluntarily welcomed kissing from Vaeren after explicitly saying yes in context.
-- After accidentally discovering an intimate response in Vaeren's concealed merfolk anatomy, Casey whispers teasingly, "Do you have a boner?"
-- Vaeren recognizes Casey's teasing tone but does not know the English slang word "boner." He understands that she is referring to what she just touched and reacts with visible embarrassment/wariness rather than escalating the sexual contact.
-- Casey's teasing establishes playful sexual tension in the immediate interaction, but not consent to further sexual activity.
+- After teasing Vaeren about the intimate response she accidentally discovered, Casey giggles and pushes herself away from him through the pool until her back meets the chamber wall.
+- Vaeren allows Casey to create the distance rather than following immediately or trapping her against the wall. He remains in the water watching her, visibly aware that she is teasing him.
+- The exchange leaves playful sexual tension between them, but Casey's earlier consent remains limited to the kissing she welcomed and does not establish consent to further sexual activity.
 - Exact merfolk reproductive anatomy remains undescribed and unestablished beyond being normally concealed within the lower body and capable of becoming externally noticeable in intimate circumstances.
 - The broader relationship remains unequal and coercive because Vaeren still refuses to return Casey to the human shore.
 - Casey and Vaeren remain alone together in the breathable surface water of their air chamber.
