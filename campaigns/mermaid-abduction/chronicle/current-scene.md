@@ -4,7 +4,7 @@
 - Location: air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive in the breathable chamber after being forcibly taken from the shore by Vaeren, who refuses to return her home and calls her "saelith."
-- Casey wakes to a tense exchange between Vaeren and another merfolk visitor. Vaeren positions himself between the visitor and Casey.
-- When the visitor also uses the word "saelith," Casey pulls her coverings closer and says, "I don't know what that is," looking between them.
-- Vaeren recognizes that Casey is asking for the term's meaning. The visitor attempts a simple explanation through gesture: indicating Vaeren, Casey, and a paired/together relationship. The exact obligations and cultural meaning remain unclear to Casey.
+- The unnamed visitor clarifies one implication of "saelith" by gesturing a rounded pregnant belly after indicating Casey and Vaeren as a pair. Casey understands that reproduction or childbearing is connected to the role, though the term's full cultural meaning and obligations remain unknown.
+- Horrified, Casey retreats as far from both merfolk as the chamber permits, clutching the coverings around herself.
+- Vaeren reacts angrily to the visitor's blunt revelation, seizes the visitor, and drags them both beneath the water. Casey is left alone in the air chamber for the moment.
 - Casey's clothes are drying nearby. The chamber's only usable exit is underwater.
