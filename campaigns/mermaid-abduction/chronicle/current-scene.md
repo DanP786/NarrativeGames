@@ -4,7 +4,7 @@
 - Location: occupied air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey removes her wet top and wraps Mara's dry woven covering securely around herself for warmth, then immediately asks Mara what "saelith" means.
-- Mara explains that there is no clean one-word English translation. In the taking tradition, "saelith" means a human taken from the shore and claimed into an enduring paired household/bond with a merfolk taker: closer to a culturally recognized mate or spouse-role than a guest or ordinary companion, but defined by merfolk custom rather than human consent or marriage law.
-- Mara confirms that reproduction and children can be associated with the role, explaining the earlier visitor's belly gesture, but says childbearing is not the complete definition of "saelith" and the term itself does not simply mean breeder.
-- Vaeren remains in the pool at the ledge, observing without understanding the full English exchange. Casey has not yet learned the tradition's detailed rules, whether the bond can be refused or dissolved, Mara's own status, or how Vaeren personally intends to enact it.
+- Wrapped in Mara's dry covering after removing her wet top, Casey asks Mara how long she has been in the merfolk settlement.
+- Mara says she was taken from the human world fourteen years ago, when she was twenty-two. She has therefore spent a substantial portion of her adult life below the sea and is an experienced source on the settlement and taking tradition, though her own experience cannot automatically stand for every saelith relationship.
+- Vaeren remains in the pool at the ledge, observing without understanding the full English exchange.
+- Casey still does not know Mara's own saelith circumstances in detail, whether Mara ever tried to leave, or whether returning permanently to the human world is possible.
