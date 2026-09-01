@@ -5,12 +5,11 @@
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
 - Casey is wearing both pieces of Seryn's colorful marine-made outfit, with marine-made ornaments woven through her damp hair and soft bioluminescent cosmetic along her cheekbones.
-- Casey has rearranged the woven coverings into a more comfortable human-style bed and hung her damp shirt near a fresh-air fissure to dry.
-- Vaeren returned with fresh drinking water containing an unidentified non-intoxicating warming preparation intended to help a cold surface human recover warmth in the deep environment.
-- After Casey collapses laughing at Vaeren's use of the English slang word "boner," Vaeren pulls himself fully onto the dry ledge in concern. Casey sits up wiping tears from her face and realizes this is the first time she has seen Vaeren fully out of the water.
-- On dry stone, Vaeren's merfolk form is unmistakably adapted for swimming rather than human-style movement: his powerful scaled tail extends behind him in place of legs, and he supports/repositions himself with his arms and torso rather than standing. His exact locomotion over longer stretches of dry ground remains unestablished.
-- Casey can now inspect the transition from Vaeren's broadly humanlike upper body into his scaled lower body without water obscuring it. No additional explicit reproductive anatomy is exposed; those structures remain normally concealed.
-- Vaeren remains close because he had approached to check Casey after her sudden collapse, but he recognizes that she is laughing rather than ill.
-- The exact ingredient, preparation and merfolk term for the warming addition remain unestablished.
+- Vaeren is fully out of the water beside Casey, giving her the clearest view she has yet had of his merfolk anatomy. His broadly humanlike torso transitions gradually into dense overlapping scales and the long, powerful tail that replaces human hips and legs as a locomotor structure.
+- Casey openly studies his tail and body while talking conversationally in English despite knowing Vaeren will understand only scattered familiar words and her tone. She comments and asks questions aloud as a way of thinking through what she sees.
+- The visible anatomy confirms that Vaeren is genuinely adapted for aquatic life: his lower body is muscular, flexible and built around propulsion rather than human-style walking. The exact mechanics of longer dry-land locomotion remain unestablished.
+- Vaeren tolerates Casey's curious inspection and watches her in return, recognizing curiosity from her gaze and tone even when he cannot follow the sentences.
+- No explicit reproductive anatomy is visible during the inspection; those structures remain normally concealed within his lower body, consistent with what Casey has previously learned.
+- Casey's rearranged bed and drying shirt remain in place. The warming drink remains nearby.
 - Casey and Vaeren are alone together. The broader relationship remains unequal and coercive because Vaeren still refuses to return Casey to the human shore.
 - Casey's private strategy remains unknown to Vaeren.
