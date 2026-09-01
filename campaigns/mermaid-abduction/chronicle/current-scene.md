@@ -4,11 +4,12 @@
 - Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey is underwater in the pool with Vaeren after their first consensual sexual encounter; her colorful marine-made garments remain off, while hair ornaments and bioluminescent cheek cosmetic remain.
-- The unfamiliar warmth spreading through Casey and her temporarily altered breath-hold response are now established as effects of a merfolk biological substance transferred during sex. Vaeren demonstrates the connection to Casey underwater in a direct but non-graphic way, making clear that the lingering substance from their encounter is responsible for the warmth and increased ease of holding her breath.
-- Casey remains human and cannot breathe water. The effect extends comfortable breath-holding rather than replacing her need for air.
-- Exact duration, degree of breath extension, biochemical mechanism, reproductive significance, risks, whether all merfolk produce the effect, and whether repeated exposure changes anything remain unestablished.
-- Vaeren clearly expected the effect and deliberately had Casey take a full breath before submerging so she could discover it while he remained close enough to return her to air.
-- The encounter deepens the complicated attraction and trust developing between Casey and Vaeren, but it does not erase the broader coercive reality of Casey's captivity, Vaeren's refusal to return her to shore, or the unequal power between them.
-- Casey's rearranged bed, drying shirt, warming drink and removed marine-made clothing remain in the chamber.
+- Casey remains underwater after discovering that a merfolk biological effect from her consensual encounter with Vaeren temporarily extends her comfortable breath-holding while leaving her human and still dependent on air.
+- Excited by the new physical freedom, Casey starts swimming toward the chamber's submerged exit on her own.
+- Vaeren catches Casey by the ankle before she reaches the passage. Because he has previously forbidden her from disappearing or traveling submerged alone, Casey initially spins around in alarm at being physically stopped.
+- Vaeren's immediate purpose in this moment is practical rather than punitive: he retrieves/pushes Casey's removed colorful marine-made clothing toward her, indicating that he wants her dressed before they go farther. He does not drag her back to the ledge or end the prospect of leaving the chamber with him.
+- Casey's removed clothing is now within reach underwater. Her hair ornaments and bioluminescent cheek cosmetic remain in place.
+- The altered breath-hold effect's exact duration, limits, mechanism, reproductive significance and risks remain unestablished.
+- The encounter has deepened attraction and trust between Casey and Vaeren but does not erase the broader coercive reality of her captivity, his refusal to return her to shore, or the unequal power between them.
+- Casey's rearranged bed, drying shirt and warming drink remain in the chamber.
 - Casey's private strategy remains unknown to Vaeren.
