@@ -4,11 +4,11 @@
 - Location: Seryn's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for several hours; exact surface time unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey now wears the colorful handkerchief-style crop top Seryn selected for her, while her bikini bottoms remain on.
-- Seryn slaps Vaeren's arm in an impatient sibling-like command to release Casey. Vaeren lets Casey out of his supporting hold rather than contesting his sister over the harmless interaction.
-- Seryn takes Casey by the hand and draws her farther away in the chamber so she can inspect how the new top looks, then leads her toward the pile of clothes while keeping hold of her hand.
-- Casey treads water under her own power beside Seryn. Vaeren is left behind holding Casey's removed bikini top.
-- Seryn remains delighted and intent on choosing more clothes for Casey. Vaeren watches closely but does not interfere.
-- Daniel remains present and can communicate with Casey in English.
+- Seryn gives Casey a colorful bottom made to coordinate with the handkerchief-style crop top, completing the outfit and replacing Casey's bikini bottoms.
+- Seryn then enthusiastically hauls Casey onto the dry ledge and begins arranging Casey's wet hair, weaving beautiful decorative marine-made ornaments and materials into it.
+- Casey permits Seryn's enthusiastic attention and uses the opportunity to continue asking Daniel questions in English while Seryn works on her hair.
+- Vaeren remains nearby with Casey's discarded bikini pieces. He becomes mildly annoyed at being excluded from the English conversation rather than angry at Casey or Daniel.
+- Vaeren addresses Daniel and appears to ask him to translate what Casey and Daniel are saying. Daniel recognizes the request and is now positioned to interpret between them, giving Vaeren potential access to the spoken conversation without granting him knowledge of Casey's private thoughts or strategy.
+- Seryn remains delighted by Casey and focused on decorating her hair.
 - Daniel's age, origin and exact circumstances of his taking remain unknown to Casey.
-- Casey's private strategy remains to learn enough language and local knowledge to gain leverage toward eventually persuading Vaeren to return her home.
+- Casey's private strategy remains to learn enough language and local knowledge to gain leverage toward eventually persuading Vaeren to return her home; this remains unknown to Vaeren and Daniel unless Casey chooses to disclose it.
