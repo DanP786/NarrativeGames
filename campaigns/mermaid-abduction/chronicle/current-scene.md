@@ -8,9 +8,10 @@
 - Casey previously checked Vaeren after the assault for obvious head-injury signs and found no obvious immediate red flags, though concussion/bruising/delayed symptoms cannot be ruled out.
 - Vaeren has brought Casey a bundled assortment of varied potential gifts. No individual item is established as a formal rite or binding token. The gifts remain on the dry ledge.
 - After holding Casey quietly in the pool for an extended while, Vaeren indicates that she should sleep/rest and helps lift her from the water onto the dry ledge.
-- Casey wrings water from the lower length of her hair. For the first time since her latest immersion, the upper portion has begun drying while only the ends/lower length remain wet.
-- To avoid sleeping in wet clothing, Casey removes the colorful marine-made garments she had been wearing and leaves them to dry. Her nudity is practical but deliberately made teasing by the wicked look she gives Vaeren afterward; it does not by itself grant consent to further sexual activity.
-- Casey then slowly backs toward her woven-covering bed while maintaining the provocative/playful look toward Vaeren. Vaeren's response to the teasing invitation/display is not yet established.
+- Casey wrings water from the lower length of her hair; the upper portion has begun drying. She removes her wet colorful marine-made garments and leaves them to dry rather than sleeping in them.
+- Casey deliberately turns the practical nudity into teasing, giving Vaeren a wicked/playful look as she backs toward her woven-covering bed. Nudity and teasing do not by themselves grant consent to further sexual activity.
+- Rather than obeying Vaeren's suggestion to sleep, Casey sits among the bedding and remains awake, watching him with a sustained teasing smile. She is openly waiting to see how he responds rather than initiating any further physical act herself.
+- Vaeren's response to Casey's continued teasing is not yet established.
 - The closeness and teasing do not resolve Casey's captivity or Vaeren's continued refusal to return her to the surface.
 - Daniel, Seryn and Mara are absent. Mara's saelith's exact name remains unverified in a form Casey can confidently reproduce.
 - Casey remains human and cannot breathe water. The temporary warmth/oxygen-conservation effect may still be active, but its precise remaining strength/duration is unestablished.
