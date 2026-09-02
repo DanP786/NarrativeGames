@@ -9,8 +9,8 @@
 - Vaeren brought Casey a bundled assortment of varied potential gifts. No individual item is established as a formal rite or binding token. The bundle remains on the dry ledge.
 - Casey removed her wet colorful marine-made garments to dry and deliberately turned the practical nudity into teasing. She then initiated intimate contact by kneeling before Vaeren and touching his chest. Nudity/teasing do not establish blanket consent.
 - Vaeren guided Casey backward into the woven bedding and produced food from the container, making clear that he intends her to eat/rest despite recognizing her teasing.
-- While Casey lies in the bedding, Vaeren briefly answers her teasing with an intimate caress to her breast, startling a gasp from her. He does not turn the moment into a more explicit sexual act; instead he immediately brings the offered food to Casey's lips, playfully combining intimacy with his insistence that she eat.
-- Casey's gasp is an immediate startled/affected reaction and does not establish blanket future consent. Her response to the offered food is not yet established.
+- Vaeren turns the exchange into a playful rhythm: each time Casey accepts a bite he brings to her lips, he answers with another brief affectionate/intimate caress, rewarding her cooperation without escalating into an explicit sexual act. Casey recognizes the pattern and is knowingly participating in the teasing exchange.
+- The pattern remains consensual only within the immediate playful contact; it does not establish blanket future consent or make food conditional on sexual access. Vaeren continues providing food as part of his established duty/care for Casey.
 - The container contains food intended for Casey; the exact food remains unestablished.
 - The intimacy does not resolve Casey's captivity or Vaeren's continued refusal to return her to the surface.
 - Daniel, Seryn and Mara are absent. Mara's saelith's exact name remains unverified in a form Casey can confidently reproduce.
