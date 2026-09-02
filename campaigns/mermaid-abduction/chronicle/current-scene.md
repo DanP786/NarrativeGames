@@ -12,7 +12,7 @@
 - The hidden air garden is a secluded natural chamber at the settlement's outer edge where the submerged passage rises into a broad breathable cavern. A shallow dark pool occupies its lower center, while shelves and terraces of pale stone rise dry above the water. Dense colonies of naturally bioluminescent marine growth visible through water-filled fissures and along wet margins cast blue-green light across the cavern; mineral formations catch it in muted pearly colors.
 - Vaeren brought Casey to the hidden air garden because he considers it beautiful and deliberately wanted to share a special place from his world with her, not because he intends them to move here. Casey and Vaeren's established air chamber remains their household/home. Why this particular place matters personally to Vaeren remains undisclosed unless explored in-scene.
 - The chamber is quiet and presently unoccupied besides Casey and Vaeren.
-- Casey admires the living blue-green light, then turns toward Vaeren smiling and thanks him in merfolk for bringing her here.
-- Vaeren receives the thanks as genuine appreciation. He responds with quiet visible warmth and closes some of the distance between them without forcing further intimacy.
-- Casey remains human and cannot breathe water.
+- After Casey thanks Vaeren for bringing her, Vaeren closes the distance and teasingly whispers in merfolk, "Sex later." Casey immediately answers, "Sex now," clearly initiating and consenting to sexual intimacy in this immediate context.
+- Vaeren recognizes Casey's answer as an immediate choice rather than a standing permission. Their intimacy proceeds privately/off-page in the secluded air garden; no graphic sexual mechanics are established or narrated.
+- Casey remains human and cannot breathe water. Any previously established temporary warmth/oxygen-conservation effect may follow intimacy, but no additional biological effects are established by this encounter.
 - Casey's private long-term strategy of learning the language and settlement, gaining trust/influence and hoping eventually to persuade Vaeren to return her remains unspoken to Vaeren unless later changed by player action.
