@@ -4,12 +4,12 @@
 - Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: after Casey has slept for an unmeasured interval; exact surface time remains unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Casey wakes warm and dry beneath the woven coverings of her bed. Her hair and skin have dried during sleep.
-- Casey finds her previously damp surface shirt now dry and puts it on without other clothing underneath. Her colorful marine-made garments remain available/drying nearby unless moved later.
-- Vaeren is not present in the chamber when Casey wakes and begins investigating.
-- Numerous objects are arranged in piles along the water's edge, substantially more than the earlier single bundle of gifts. Casey begins rummaging through them.
-- At closer range, the accumulation does not look like a random heap of presents alone. The mix and quantity give Casey the strong practical impression of household belongings being brought in—as though someone is moving possessions into the chamber. Exact individual objects, ownership, source, who brought them, and whether the intended occupant is Vaeren or someone else remain unestablished.
+- Casey woke warm and dry and put on her now-dry surface shirt without other clothing underneath. Her colorful marine-made garments remain available nearby unless moved later.
+- Vaeren is absent from the chamber.
+- Numerous objects have been left in piles along the water's edge, substantially more than the earlier bundle of gifts. Their mix and quantity give the practical impression of household belongings being moved into the chamber, but their exact ownership/source and who transported them remain unestablished.
+- Casey looks expectantly into the pool for Vaeren, receives no immediate appearance/answer, and makes a unilateral decision: until told otherwise, the newly arrived things are hers.
+- Casey begins sorting and arranging the piles around the dry portion of the chamber according to her own preferences, treating the assortment as possessions she is free to use and beginning to impose a distinctly Casey-shaped order on the space. Exact individual objects and final arrangement remain open to discovery as she sorts.
+- Casey's act of claiming/arranging the belongings gives her more practical control over the chamber but does not by itself establish their legal/cultural ownership, acceptance of saelith status, or acceptance of the chamber as her permanent home.
 - Before sleeping, Casey learned through simple words/gestures that the severe-eyed merman who attacked Vaeren is Mara's saelith and that his anger concerns Vaeren previously bringing newly taken Casey to Mara's chamber while he was absent; the exact cultural rule/threat remains unestablished.
-- Casey previously checked Vaeren after the assault for obvious head-injury signs and found no obvious immediate red flags, though concussion/bruising/delayed symptoms cannot be ruled out.
-- Casey remains human and cannot breathe water. After this unmeasured sleep interval, the status of the temporary warmth/oxygen-conservation effect is unestablished and should not be assumed active without new evidence.
+- Casey remains human and cannot breathe water. After the unmeasured sleep interval, the status of the temporary warmth/oxygen-conservation effect remains unestablished and should not be assumed active without new evidence.
 - Casey's private strategy of learning the language/settlement and gaining trust and influence in hopes of eventually persuading Vaeren to return her remains unknown to Vaeren and the others.
