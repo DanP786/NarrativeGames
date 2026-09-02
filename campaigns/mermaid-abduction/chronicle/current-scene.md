@@ -7,11 +7,11 @@
 - Casey has confirmed through simple words/gestures that the unfamiliar muscular, severe-eyed merman who attacked Vaeren is Mara's saelith. She has pieced together that his anger concerns Vaeren previously bringing newly taken Casey to Mara's chamber while Mara's saelith was absent; exact cultural rule/threat remains unestablished.
 - Casey previously checked Vaeren after the assault for obvious head-injury signs and found no obvious immediate red flags, though concussion/bruising/delayed symptoms cannot be ruled out.
 - Vaeren brought Casey a bundled assortment of varied potential gifts. No individual item is established as a formal rite or binding token. The bundle remains on the dry ledge.
-- Casey removed her wet colorful marine-made garments to dry and deliberately turned the practical nudity into teasing. Nudity/teasing do not by themselves grant consent to further sexual activity.
-- Vaeren produced a familiar type of food container from the bundle. Casey initially set it aside, knelt before him and touched his chest in a deliberate intimate invitation.
-- Vaeren is not diverted from his apparent priority. He guides Casey backward into the woven bedding and settles her lying down there, then retrieves/opens the food container and produces food for her rather than escalating the intimacy.
-- The container is now established to contain food intended for Casey. The exact food remains unestablished unless later identified.
-- Vaeren's response makes clear in action that he recognized Casey's teasing but is presently insisting on food/rest first. Casey's response to being firmly redirected is not yet established.
+- Casey removed her wet colorful marine-made garments to dry and deliberately turned the practical nudity into teasing. She then initiated intimate contact by kneeling before Vaeren and touching his chest. Nudity/teasing do not establish blanket consent.
+- Vaeren guided Casey backward into the woven bedding and produced food from the container, making clear that he intends her to eat/rest despite recognizing her teasing.
+- While Casey lies in the bedding, Vaeren briefly answers her teasing with an intimate caress to her breast, startling a gasp from her. He does not turn the moment into a more explicit sexual act; instead he immediately brings the offered food to Casey's lips, playfully combining intimacy with his insistence that she eat.
+- Casey's gasp is an immediate startled/affected reaction and does not establish blanket future consent. Her response to the offered food is not yet established.
+- The container contains food intended for Casey; the exact food remains unestablished.
 - The intimacy does not resolve Casey's captivity or Vaeren's continued refusal to return her to the surface.
 - Daniel, Seryn and Mara are absent. Mara's saelith's exact name remains unverified in a form Casey can confidently reproduce.
 - Casey remains human and cannot breathe water. The temporary warmth/oxygen-conservation effect may still be active, but its precise remaining strength/duration is unestablished.
