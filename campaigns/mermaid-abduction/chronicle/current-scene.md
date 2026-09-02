@@ -4,11 +4,10 @@
 - Location: Casey and Vaeren's air chamber within the unnamed deep merfolk settlement
 - Time: later after Vaeren's departure; an unmeasured stretch of time has passed and exact surface time remains unknown
 - Casey remains captive after being forcibly taken from the shore by Vaeren, who refuses to return her human home and calls her "saelith."
-- Daniel and Seryn previously departed after translating Vaeren's boundaries. Vaeren then invited Casey into the water; Casey pointedly ignored him, and he accepted the refusal and left through the submerged passage.
-- Frustrated by Vaeren leaving so readily, Casey kicks her feet in the pool. After what feels like an age alone, she lies back on the chamber floor with her feet still dangling in the water.
-- A rough unfamiliar merfolk voice abruptly sounds through the chamber. Casey sits up and finds an unfamiliar adult merman at the pool, muscular and severe-eyed, looking directly at her.
-- The stranger speaks in the merfolk language. Casey cannot understand the sentence; the only word she clearly catches is "Vaeren." Whether he is asking where Vaeren is, summoning him, identifying Casey through him, or saying something else is not yet established.
-- Vaeren is currently absent from the chamber. Daniel, Seryn and Mara are also absent. Casey is alone with the unfamiliar merman and has no translator.
-- The stranger's name, affiliation, motives, relationship to Vaeren, disposition and knowledge of Casey are unestablished. He has not yet physically threatened or touched Casey.
+- Vaeren, Daniel, Seryn and Mara are absent. Casey is alone in the chamber with an unfamiliar adult merman who arrived through the submerged passage while Vaeren was away.
+- The stranger is muscular, severe-eyed and rough-voiced. He initially addresses Casey in an untranslated merfolk sentence containing Vaeren's name.
+- The unfamiliar merman comes closer to the pool edge and repeats the same sentence, again including "Vaeren." Casey still cannot understand the rest. His exact question/statement, identity, affiliation, motive and relationship to Vaeren remain unestablished.
+- Alarmed by the stranger approaching, Casey immediately pulls her feet out of the water and scoots backward across the dry stone until she is as far from the pool as the chamber permits. Her retreat is an unmistakable visible sign that she does not welcome his approach.
+- The stranger has not yet touched Casey or made an explicit physical threat. His next response to her retreat is not yet established.
 - Casey remains human and cannot breathe water. The temporary warmth/oxygen-conservation effect may still be active, but its precise remaining strength/duration is unestablished.
 - Casey's private strategy of learning the language/settlement and gaining trust and influence in hopes of eventually persuading Vaeren to return her remains unknown to Vaeren and the others.
