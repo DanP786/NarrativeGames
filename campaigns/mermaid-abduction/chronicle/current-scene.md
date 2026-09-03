@@ -5,13 +5,11 @@
 - Time: night/rest period following Casey's failed escape attempt and near-drowning on day three of Vaeren's absence; exact surface date/time remains unverifiable below the sea
 - On day three Casey made a genuine escape attempt, successfully navigating familiar routes before pushing into unknown passages. Fear and finite breath forced her back; she nearly drowned returning to a known breathable refuge but survived without NPC rescue. After recovering, she returned to the home chamber by familiar route.
 - That night Casey deliberately sleeps beside the pool ledge intending to catch Vaeren leaving the food/water that have appeared during his absence. She instead wakes to Neris climbing from the pool with a parcel of food and a vessel of fresh water.
-- Casey sleepily asks what Neris is doing; he jokes that he is stealing her food, then admits he is bringing it.
-- Casey asks, "Does Vaeren know?"
-- Neris confirms that Vaeren knows about THIS delivery and in fact told/asked Neris to bring Casey food and fresh water. This establishes that Vaeren is intentionally ensuring Casey is provisioned despite remaining away from the chamber.
-- Neris does NOT establish that he personally made every prior delivery. He indicates only enough to make clear Vaeren arranged the present provision; the exact delivery history remains unestablished.
-- Vaeren's act of arranging provisions is consistent with his established duty/care and with his emotional withdrawal: he is making sure Casey's human needs are met without returning to her himself. It does not establish forgiveness, reconciliation, dissolution, surface permission, or a desire for contact.
-- Neris does not yet volunteer Vaeren's exact location or detailed emotional state. Those remain unestablished unless Neris actually knows and says so later.
-- Neris's knowledge of the private rupture remains limited to what he witnessed, was told, or plausibly learned. Do not assume he knows Casey lied about pregnancy, proposed escape to Mara, nearly drowned, or the precise content of Casey and Vaeren's argument.
+- Casey asks whether Vaeren knows. Neris confirms Vaeren told/asked him to bring this food and fresh water, establishing that Vaeren is intentionally ensuring Casey is provisioned despite remaining away from the chamber.
+- Casey draws her legs up to her chest, nods, and quietly says, "Okay." She does not immediately ask where Vaeren is or send a message through Neris.
+- Neris observes Casey's subdued posture and answer. He does not know her private thoughts and does not automatically know about her failed escape/near-drowning or the precise content of her rupture with Vaeren.
+- Neris remains at the pool ledge for the moment rather than immediately forcing conversation or teasing. The food and water are within Casey's reach.
+- Vaeren remains absent. His exact location and detailed emotional state remain unestablished. His arranging provisions shows continuing practical care/duty but does not establish forgiveness, reconciliation, dissolution, surface permission, or desire for direct contact.
 - Casey remains physically capable after the near-drowning but recently exhausted/strained; no lasting injury has been established. She remains human and cannot breathe water.
 - Casey's relationship with Vaeren remains acutely ruptured. Some affection/intimacy/home-making were genuinely desired; her reciprocal saelith wording arose from a cross-cultural misunderstanding; she still wants freedom/the surface.
 - Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
