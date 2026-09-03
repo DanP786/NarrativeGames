@@ -1,19 +1,16 @@
 # Current scene
 
-- Scene significance: charged
-- Location: Casey and Vaeren's air chamber
-- Time: approximately two days after Vaeren left following the major rupture; exact surface date/time remains difficult for Casey to verify below the sea
-- Casey secretly traveled alone to Mara's chamber, asked whether Mara feared Rhaelor, and proposed escaping together. Mara refused because she genuinely chooses her present life and Rhaelor now despite never excusing her original abduction.
-- Vaeren found Casey on her return. Casey initially concealed the visit's purpose with a fabricated pregnancy scare, then confessed. No pregnancy, missed period or illness is established.
-- Casey admitted she reached Mara and proposed escape. She also clarified that not everything between her and Vaeren was false: she genuinely liked decorating their home, knowing his family, and Vaeren touching her. Her attraction, affection, enjoyment of consensual intimacy, teasing, home-making and attachment remain genuine alongside her continuing desire for the surface and her escape strategy.
-- Casey explained that her reciprocal saelith claim arose from a cross-cultural misunderstanding: because Vaeren had already taken her as his saelith, she believed that automatically made him hers and did not understand he would hear her words as a freely chosen reciprocal commitment.
-- Vaeren was deeply hurt. He withdrew physically, said he would not touch Casey again and that she did not need to pretend, then left through the pool without forcing further answers. His exact destination remains unestablished.
-- Casey spends approximately the next two days entirely alone in the air chamber. No one openly visits her, speaks to her, or stays with her during this period.
-- Food and fresh water continue to appear while Casey sleeps, sufficient to meet her immediate needs. Casey never witnesses who brings them. The provider therefore remains unestablished; do not state as fact that Vaeren personally delivers them.
-- With no company and little to do, Casey repeatedly occupies herself: she rearranges the chamber four separate times, does sit-ups/exercises, and inspects portions of the cave she has already inspected before. These activities produce no newly established hidden exit, object, passage or discovery.
-- The household becomes an increasingly claustrophobic expression of Casey's isolation: she keeps changing the arrangement of a space she previously enjoyed making her own, but there is no new social contact and no answer from Vaeren.
-- Vaeren has not been established to return during the two-day interval. His exact location, activities, emotional state and whether he personally supplied the provisions remain unknown to Casey.
-- The two-day absence does not itself establish abandonment/dissolution of saelith status, forgiveness, punishment, permission for Casey to leave, or a change in Vaeren's surface-return position.
-- Casey remains human and cannot breathe water. Solo submerged travel remains dangerous despite improved familiarity with some routes/refuges.
+- Scene significance: climactic
+- Location: submerged route outside Casey and Vaeren's air chamber, moving away from home toward known breathable refuges/settlement routes
+- Time: day three of Casey's isolation after Vaeren left following the major rupture; exact surface date/time remains difficult for Casey to verify below the sea
+- Casey spent approximately two full days alone in the air chamber after Vaeren left. No one openly visited. Food and fresh water appeared while she slept from an unwitnessed provider. She rearranged the chamber four times, exercised, and repeatedly inspected already familiar stone without finding anything new.
+- On day three, Casey decides to make a break for it rather than remain waiting in the chamber. She enters the pool and leaves the household alone.
+- Casey's immediate action is an attempted departure/escape from the chamber, not yet a successful escape from the settlement or return to the human surface. Her exact ultimate route/destination beyond getting out is not established by the action alone.
+- Casey has meaningful learned competence on some familiar submerged routes: she previously traveled alone all the way from home to Mara's chamber and most of the way back, using known breathable refuges and springboard techniques. She can therefore successfully leave the chamber and begin moving along familiar routes without immediate automatic failure.
+- Casey remains an ordinary human with Untrained Underwater Survival. She cannot breathe water, has finite breath/endurance, and does not know an established route to the surface. Familiar-route success must not be generalized into arbitrary deep navigation or safe surface escape.
+- No NPC is established to witness Casey entering the water or leaving the chamber. Do not invent Vaeren intercepting her immediately merely because provisions had been appearing; the provider and Vaeren's exact whereabouts remain unknown.
+- Vaeren knows Casey previously disappeared alone and reached Mara, but after the rupture he has not established any new guard, confinement mechanism or watcher around the chamber.
+- Casey has confessed that she reached Mara and proposed escape, and clarified that some affection/intimacy/home-making with Vaeren was genuine. Her reciprocal saelith statement arose from a cross-cultural misunderstanding about choice. The relationship remains acutely ruptured.
+- Casey's desire for the human surface remains genuine. Her current departure is a concrete exercise of agency after two days of isolation, though where she goes and how far she risks traveling remain open to the player's next action.
 - Rhaelor is not established to know about Casey's secret visit. Mara has not been established to have told anyone.
 - Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
