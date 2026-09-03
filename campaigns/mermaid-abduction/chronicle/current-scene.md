@@ -1,18 +1,17 @@
 # Current scene
 
-- Scene significance: climactic
-- Location: Casey and Vaeren's air chamber, sleeping area; Vaeren departs through the pool into the submerged settlement
-- Time: after a period of sleep following Casey's clandestine trip to Mara; exact surface date/time remains difficult for Casey to verify below the sea
-- Casey secretly traveled alone to Mara's chamber after concluding Mara could not truly be happy with Rhaelor, especially after witnessing Rhaelor's earlier violent attack on Vaeren. Casey asked Mara whether she feared Rhaelor and then asked whether Mara would try to escape with her. Mara refused because she genuinely chooses her present life and Rhaelor now despite never excusing her original abduction. Casey left quietly while Rhaelor remained asleep.
-- Vaeren found Casey approximately two-thirds of the way home after discovering she was missing. Casey concealed the actual purpose with a false pregnancy scare, then later confessed that she had been lying. No pregnancy, missed period or illness is established; those claims were fabricated.
-- Casey initially characterized the deception as "everything" / "all of it," causing Vaeren to believe the pregnancy, reciprocal saelith claim, kisses/desire and broader relationship presentation were all false. She later clarified that important parts were genuine: she liked decorating their home, getting to know his family, and Vaeren touching her.
-- Casey admitted she successfully reached Mara and asked Mara to escape with her because she believed Mara could not truly be happy with Rhaelor after Rhaelor's attack on Vaeren. Mara refused and wanted to stay.
-- Casey explained that when she called Vaeren her saelith in return, she did not realize she had a choice in the status: because Vaeren had already taken her as his saelith, she believed that automatically made him hers. Vaeren therefore recognizes a major cross-cultural misunderstanding: Casey's reciprocal statement was sincere under her understanding, but not the freely chosen commitment he believed he had received.
-- Casey's attraction, affection, enjoyment of consensual intimacy, teasing, home-making and attachment remain genuine alongside her desire for the surface and her escape strategy. Vaeren still does not know the full prior timeline/mechanics of Casey's strategy to cultivate trust, attachment and freedom as leverage.
-- After the clarification, Casey folds inward on the bedding, arms around herself, head resting on her arms, eyes closed. She does not speak or reach for Vaeren.
-- Vaeren leaves the air chamber. He does not touch Casey before going and does not force further answers. He crosses to the pool and disappears into the submerged passage, leaving Casey alone in the breathable household chamber.
-- Vaeren's exact destination after entering the submerged settlement is NOT established. Do not assume he goes to family, Mara/Rhaelor, or any particular place unless established in play.
-- Vaeren's departure is an emotional withdrawal during the acute rupture, not an established abandonment/dissolution of saelith status and not permission for Casey to return to the surface. His future intentions remain unresolved.
-- Casey is now alone in the chamber with the household she helped shape, including the transplanted living light near the wet pool margin. Her human biological limits remain unchanged; she cannot breathe water and solo submerged travel remains dangerous despite improved route familiarity.
-- Rhaelor remained asleep when Casey departed Mara's chamber and is not established to know she visited. Mara has not been established to have told anyone.
-- Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability. Casey remains human and cannot breathe water.
+- Scene significance: charged
+- Location: Casey and Vaeren's air chamber
+- Time: after another period of sleep following Casey and Vaeren's major rupture; exact surface date/time remains difficult for Casey to verify below the sea
+- Casey secretly traveled alone to Mara's chamber, asked whether Mara feared Rhaelor, and proposed escaping together. Mara refused because she genuinely chooses her present life and Rhaelor now despite never excusing her original abduction.
+- Vaeren found Casey on her return. Casey initially concealed the visit's purpose with a fabricated pregnancy scare, then confessed. No pregnancy, missed period or illness is established.
+- Casey admitted she reached Mara and proposed escape. She also clarified that not everything between her and Vaeren was false: she genuinely liked decorating their home, knowing his family, and Vaeren touching her. Her attraction, affection, enjoyment of consensual intimacy, teasing, home-making and attachment remain genuine alongside her continuing desire for the surface and her escape strategy.
+- Casey explained that her reciprocal saelith claim arose from a cross-cultural misunderstanding: because Vaeren had already taken her as his saelith, she believed that automatically made him hers and did not understand he would hear her words as a freely chosen reciprocal commitment.
+- Vaeren was deeply hurt. He withdrew physically, said he would not touch Casey again and that she did not need to pretend, then ultimately left through the pool without forcing further answers. His exact destination was not established.
+- After Vaeren leaves, Casey goes back to sleep alone in the chamber.
+- When Casey wakes, a parcel of food and a vessel of fresh water have been left for her. The provider is NOT directly witnessed or established by the objects alone. Do not state as fact that Vaeren personally delivered them unless later established, though provision is consistent with his established household duties/care.
+- No note/message or other new object is established with the provisions. Vaeren is not present when Casey wakes unless subsequently established in play.
+- The provisions mean Casey's immediate food/water needs are met despite the emotional rupture, but they do not resolve the relationship, establish forgiveness, dissolve saelith status, or grant return to the surface.
+- Casey remains human and cannot breathe water. Solo submerged travel remains dangerous despite improved familiarity with some routes/refuges.
+- Rhaelor is not established to know about Casey's secret visit. Mara has not been established to have told anyone.
+- Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
