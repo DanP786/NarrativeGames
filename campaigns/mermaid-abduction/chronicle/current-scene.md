@@ -1,15 +1,15 @@
 # Current scene
 
-- Scene significance: charged
+- Scene significance: climactic
 - Location: Casey and Vaeren's air chamber, on the bed behind the privacy curtain
-- Time: several additional days after Casey caught Neris delivering provisions; Vaeren has now been absent for roughly a week or more since the major rupture, though exact surface date/time remains unverifiable below the sea
-- After Casey caught Neris bringing food and water at Vaeren's request, Neris continues making brief provision deliveries while Vaeren remains absent. Prolonged isolation wears Casey down; she stops eating, abandons her restless routines and lies withdrawn on the bed, though she continues enough water intake to remain alive in the current scene.
-- On the latest delivery Neris notices multiple untouched meals, checks behind the privacy curtain and directly observes Casey awake but profoundly withdrawn. He tells her she has to eat; Casey closes her eyes without speaking or engaging.
-- Neris recognizes the visible situation as serious enough that merely delivering provisions is no longer adequate. He does not force food or physical contact and leaves intending to alert someone. Exactly whom he seeks first and what he tells them remains unestablished.
-- After Neris leaves, Casey curls more tightly into herself on the bed and falls asleep without eating.
-- Casey is asleep at the end of the beat. Her withdrawal, inactivity and inadequate food intake continue. She remains hydrated enough for the present scene, but continued lack of food is progressively weakening her.
-- No self-harm intent is established; observable facts are food refusal/loss of eating, withdrawal, inactivity, sleeping and refusal to engage amid prolonged isolation/distress.
-- Vaeren remains absent. His exact location, detailed emotional state and awareness of Casey's stopped eating remain unestablished at the end of this beat. His earlier arrangement for Neris to provision Casey remains evidence of practical care/duty, not reconciliation.
+- Time: the next waking period/day after Neris found Casey withdrawn and left intending to alert someone; Vaeren has been absent roughly a week or more since the major rupture, exact surface date/time unverifiable
+- Casey wakes but does not get out of bed or resume eating. She remains curled/withdrawn and physically weakened by several days of inadequate food intake, though she is still taking enough water to remain alive at present.
+- After her recent near-drowning during the failed escape attempt, Casey is too afraid of drowning to deliberately use the submerged routes as a way to die or to repeat the blind escape attempt in her current weakened state.
+- Casey now consciously considers whether continuing not to eat could eventually kill her. She recognizes that starvation would be slow rather than immediate and sighs at the prospect. This marks the first explicit emergence of suicidal thinking in the campaign, specifically passive/indirect contemplation through refusing food rather than an immediate active attempt in this beat.
+- Casey has not yet taken a new active self-harm action beyond the already established refusal/loss of eating, and she has not stopped drinking water. Her next choice remains open.
+- The physical consequences of continued food refusal are real: worsening weakness, fatigue, impaired concentration and increased danger in any submerged travel. Do not compress prolonged starvation into an unrealistically immediate death.
+- Neris left after the previous visit intending to alert someone because Casey's visible deterioration exceeded what he could handle through routine provisions. Exactly whom he sought, what he reported and whether anyone is approaching have not yet been established.
+- Vaeren remains absent at the start of this waking beat. His exact location, detailed emotional state and awareness of Casey's stopped eating/suicidal thinking are not established. He cannot know Casey's private thoughts without being told or observing relevant behavior.
 - Casey's relationship with Vaeren remains acutely ruptured. Some affection/intimacy/home-making were genuinely desired; her reciprocal saelith wording arose from a cross-cultural misunderstanding; she still wants freedom/the surface.
-- Casey remains an ordinary human and cannot breathe water. Her recent near-drowning and declining food intake make reckless submerged travel especially dangerous.
+- Casey remains an ordinary human and cannot breathe water.
 - Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
