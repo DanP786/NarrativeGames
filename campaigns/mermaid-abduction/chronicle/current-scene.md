@@ -1,16 +1,16 @@
 # Current scene
 
 - Scene significance: charged
-- Location: Casey and Vaeren's air chamber, at the pool ledge
-- Time: night/rest period following Casey's failed escape attempt and near-drowning on day three of Vaeren's absence; exact surface date/time remains unverifiable below the sea
-- On day three Casey made a genuine escape attempt, successfully navigating familiar routes before pushing into unknown passages. Fear and finite breath forced her back; she nearly drowned returning to a known breathable refuge but survived without NPC rescue. After recovering, she returned to the home chamber by familiar route.
-- That night Casey deliberately sleeps beside the pool ledge intending to catch Vaeren leaving the food/water that have appeared during his absence. She instead wakes to Neris climbing from the pool with a parcel of food and a vessel of fresh water.
-- Casey asks whether Vaeren knows. Neris confirms Vaeren told/asked him to bring this food and fresh water, establishing that Vaeren is intentionally ensuring Casey is provisioned despite remaining away from the chamber.
-- Casey draws her legs up to her chest and quietly asks Neris, "How long am I going to stay like this?"
-- Neris understands the question as asking how long Casey and Vaeren will remain separated/in this unresolved state. He does not pretend to know Vaeren's private decision or give Casey a false timetable. He answers that he does not know and indicates that this is something between Casey and Vaeren rather than something Neris can decide for them.
-- Neris does not yet volunteer Vaeren's exact location or detailed emotional state, and does not claim knowledge of the private argument's contents. He remains more subdued than his usual teasing manner because Casey is plainly distressed.
-- Neris is established as provider for this delivery at Vaeren's request. Prior delivery identities remain unestablished.
-- Vaeren remains absent. His exact location and detailed emotional state remain unestablished. His arranging provisions shows continuing practical care/duty but does not establish forgiveness, reconciliation, dissolution, surface permission, or desire for direct contact.
-- Casey remains physically capable after the near-drowning but recently exhausted/strained; no lasting injury has been established. She remains human and cannot breathe water.
+- Location: Casey and Vaeren's air chamber, on the bed behind the privacy curtain
+- Time: several additional days after Casey caught Neris delivering provisions; Vaeren has now been absent for roughly a week or more since the major rupture, though exact surface date/time remains unverifiable below the sea
+- After Casey caught Neris bringing food and water at Vaeren's request, the pattern continues across several days: Neris makes the deliveries while Casey is awake rather than slipping them in during sleep, but he does not stay to provide companionship or extended conversation.
+- Neris's repeated deliveries establish that Casey continues to receive food and fresh water. Vaeren remains absent and does not personally return during this interval.
+- Casey's isolation continues with no established visits from Seryn, Daniel, Mara, Rhaelor, Vaeren, or other NPCs. Neris is the only established recurring visitor in this interval and his visits are brief/provision-focused.
+- As the days pass without change, Casey withdraws. Eventually she stops eating the food Neris brings and spends her time lying on the bed rather than maintaining her earlier restless routines.
+- Casey's refusal/loss of eating is now a physical-risk development. She is still drinking enough water to remain alive at the present scene unless the player establishes otherwise, but reduced/no food intake will progressively cause weakness, fatigue, impaired concentration and greater danger during underwater travel if it continues.
+- No self-harm intent is established by Casey's refusal to eat; the observable fact is that she has stopped eating and withdrawn to bed amid prolonged isolation/distress.
+- Neris can observe uneaten provisions on his deliveries and Casey's increasing withdrawal, but he cannot know her private motives without asking/being told. What he chooses to report to Vaeren is not yet established.
+- Vaeren remains absent. His exact location, detailed emotional state, and awareness of Casey's stopped eating are not yet established. His earlier arrangement for Neris to provision Casey remains evidence of practical care/duty, not reconciliation.
 - Casey's relationship with Vaeren remains acutely ruptured. Some affection/intimacy/home-making were genuinely desired; her reciprocal saelith wording arose from a cross-cultural misunderstanding; she still wants freedom/the surface.
+- Casey remains an ordinary human and cannot breathe water. Her recent near-drowning and now declining food intake make reckless submerged travel especially dangerous.
 - Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
