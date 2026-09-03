@@ -1,16 +1,17 @@
 # Current scene
 
 - Scene significance: climactic
-- Location: submerged routes beyond a known breathable refuge, moving away from Casey and Vaeren's chamber toward the outer/less familiar settlement passages
+- Location: known breathable refuge along submerged routes outside Casey and Vaeren's chamber
 - Time: day three of Casey's isolation after Vaeren left following the major rupture; exact surface date/time remains difficult for Casey to verify below the sea
 - Casey spent approximately two full days alone in the air chamber after Vaeren left. No one openly visited. Food and fresh water appeared while she slept from an unwitnessed provider.
-- On day three Casey leaves the household alone. She successfully traverses a familiar submerged route to a known breathable refuge using skills learned through weeks of guided travel, route familiarity and springboard technique.
-- At the refuge Casey consciously rejects remaining confined in the household like a captive/zoo animal and decides she has to attempt something beyond the known circuit even without a known route to the human surface. She sets off underwater again.
-- Casey's goal is now materially an escape attempt rather than merely leaving the chamber. She wants out of captivity and ultimately the surface, but she still lacks an established route to the surface and cannot identify arbitrary passages as leading upward/home.
-- Casey can use familiar landmarks and learned movement efficiently at first, but as she pushes beyond the routes she knows well, the environment becomes less legible. Bioluminescent settlement structures, branching stone passages, currents and changes in depth do not map cleanly onto human ideas of roads or 'up equals surface.'
-- Casey remains an ordinary human with Untrained Underwater Survival. She cannot breathe water. Her meaningful familiarity with some settlement routes/refuges allows real progress and prevents automatic immediate failure, but it does not make unknown-route navigation safe.
-- Casey reaches a decision point where the next continuation would take her beyond reliable knowledge of the nearest breathable refuge/return route. Her lungs and need for air impose a hard practical constraint. The next player action can determine whether she commits farther into unknown water, chooses a route/landmark, turns toward a known location such as the hidden air garden/Mara/Seryn, or does something else.
-- No NPC is established to have witnessed Casey's departure or to be following/intercepting her yet. Vaeren's exact whereabouts and the identity of the person leaving provisions remain unknown.
+- On day three Casey leaves the household alone and turns the departure into a genuine escape attempt. She traverses a familiar route to a known breathable refuge, then deliberately pushes beyond the routes she reliably knows because she cannot accept remaining captive/contained in the chamber.
+- In less familiar branching passages Casey becomes frightened by the combination of unknown navigation, finite breath and lack of any known route to the surface. She abandons the push into unknown water and turns back toward the last known breathable refuge.
+- The return nearly kills her. Fear and urgency degrade her efficiency; her lungs reach their limit before the refuge. Casey experiences involuntary respiratory distress underwater and comes extremely close to drowning, but she successfully reaches the known air pocket without NPC rescue.
+- Casey breaks the surface in severe distress, coughing/gasping and exhausted. She survives, remains conscious/alive, and can recover with air/rest, but the near-drowning is a real failure/consequence rather than a clean retreat.
+- Casey's escape attempt has therefore failed at the unknown-route threshold. She has learned experientially that familiar-route competence does not make blind exploration survivable and that she cannot simply search random submerged passages for the surface on one breath.
+- No NPC is established to have witnessed the near-drowning, followed Casey, or intercepted/rescued her. Vaeren's exact whereabouts and the identity of the person leaving provisions remain unknown.
+- Casey remains outside the home chamber at the known refuge after surfacing. Returning home still requires another familiar submerged leg after she recovers; she has not yet done so in this turn.
+- Casey remains an ordinary human with Untrained Underwater Survival and cannot breathe water. The near-drowning does not grant new biological adaptation.
 - Casey has confessed that she reached Mara and proposed escape, and clarified that some affection/intimacy/home-making with Vaeren was genuine. Her reciprocal saelith statement arose from a cross-cultural misunderstanding about choice. The relationship remains acutely ruptured.
 - Rhaelor is not established to know about Casey's secret visit. Mara has not been established to have told anyone.
 - Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
