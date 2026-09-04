@@ -1,6 +1,6 @@
 # Current scene
 
-- Scene significance: charged
+- Scene significance: climactic
 - Location: Casey and Vaeren's air chamber
 - Time: the day after Casey freely said she wants to stay; exact surface date/time unverifiable
 - Casey survived a serious drowning/aspiration event after prolonged food refusal and an active suicidal crisis. She has resumed eating and sleeping and is gradually recovering physically; her recent laughter, intimacy and decision to stay do NOT establish that the preceding emotional crisis is fully resolved.
@@ -8,11 +8,11 @@
 - Casey privately recognizes that she loves Vaeren but still has NOT said this aloud; Vaeren does not know it.
 - The next day has a quieter domestic texture. Casey relaxes on a mattress-like resting surface newly gifted to her by Neris while Vaeren repairs a fishing net nearby.
 - Casey asks what changed Vaeren's mind after she admitted lying. Vaeren explains that the lie eventually forced him to understand why a captive who expected honesty to be answered with prevention might lie, and Casey's later deterioration/crisis forced him to confront that keeping her alive was not the same as having the right to decide where her life must be. Casey says she is glad he offered the shore because now he can believe her when she says she wants to stay; Vaeren agrees that a real alternative makes her choice credible.
-- Casey shifts toward reciprocal courtship and asks whether Vaeren had "girlfriends" before taking her. Established in this scene: Vaeren had prior sexual experience and a small number of brief/non-saelith romantic or physical attachments with merfolk women. He never previously had/took a saelith, never formed an enduring household bond comparable to what he sought with Casey, and says he did not love those prior women. Exact names, number and timing remain unestablished.
-- Vaeren teasingly confirms the prior women were pretty, prompting Casey's playful jealousy.
-- Casey picks up the cushion she previously threw and bats Vaeren with it, asking, "How do you know you didn't love them if you've never been in love?" This directly challenges Vaeren's certainty about his own emotional history and opens a new question: whether he understands himself to be in love now.
-- Vaeren has not previously explicitly told Casey "I love you" in established canon. He has repeatedly said he wants her, cannot find another her, wants their household/life, listened for her laughter, could not leave her to die, and has now relinquished his claimed right to keep her despite wanting her to stay. He can reason from the contrast between his prior attachments and what Casey has become to him without claiming an objective universal definition of love.
-- Vaeren may realize or admit that if Casey's human word "love" means wanting her as a particular person while valuing her freedom enough to risk losing her, then what he feels for Casey qualifies. This would be a significant emotional disclosure if spoken; it should not imply that love excuses the abduction or that Casey owes reciprocity.
-- Casey's private love remains unknown to Vaeren unless she explicitly reveals it. Her playful questioning/jealousy is not enough for him to know.
+- Casey asks whether Vaeren had "girlfriends" before taking her. Established: Vaeren had prior sexual experience and a small number of brief/non-saelith romantic or physical attachments with merfolk women, but never previously had/took a saelith or formed an enduring household bond comparable to what he sought with Casey. He says he did not love those prior women. Exact names, number and timing remain unestablished.
+- Casey playfully challenges how Vaeren can know he did not love them if he has never been in love. Vaeren reflects that losing prior women did not frighten him or rearrange his understanding of the world; with Casey he learned another language to be understood, questioned lifelong beliefs because she challenged their cruelty, and discovered he would rather give her up than keep her wrongly. He concludes he did not know what love was before, but knows the difference now.
+- Casey now sits up, visibly bracing herself, and prompts, "And...?" She expects/anticipates Vaeren naming that difference directly.
+- Vaeren explicitly tells Casey for the FIRST time that he loves her. This is a major emotional disclosure. He should say it plainly enough that Casey cannot mistake the meaning, even if the exact merfolk wording carries its own cadence/weight.
+- Vaeren's declaration does NOT demand reciprocity. He does not ask Casey to say it back, does not treat love as justification for the abduction, and does not use it to weaken the shore promise. His arc makes the declaration meaningful precisely because he now understands loving Casey cannot mean denying her choice.
+- Casey privately already knows she loves Vaeren, but she has still NOT told him at the moment of his declaration. Her response remains open for the player.
 - Vaeren's shore promise remains operative if Casey later changes her mind.
 - Casey ordinarily speaks merfolk now; dialogue is rendered in English for readability.
