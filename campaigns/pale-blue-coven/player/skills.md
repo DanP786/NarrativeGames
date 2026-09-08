@@ -4,7 +4,7 @@
 - None
 
 ## Adept
-- Agility & dagger fighting (1 tick) — Seraphina's defining competence; fast and precise at close range, but not built to overpower stronger opponents.
+- Agility & dagger fighting (2 ticks) — Seraphina's defining competence; fast and precise at close range, but not built to overpower stronger opponents.
 
 ## Novice
 - Stealth (1 tick) — practiced through hunting and secretly following the knight.
