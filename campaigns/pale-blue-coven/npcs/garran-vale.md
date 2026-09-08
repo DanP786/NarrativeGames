@@ -40,9 +40,11 @@ To be established through play. His existing oath and conduct establish that he 
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
 - S01: Garran is hunting the same necromancer whose activities Seraphina used to explain her excursions to Yseld.
 - S01: Soldiers at the Pike and Crown report that Garran left town pursuing the necromancer north beyond the old gallows road, apparently without waiting for ordinary soldiers to accompany him.
+- S01: Seraphina learns the necromancer is attempting to raise roughly two dozen corpses and believes Garran does not know the full number he may face; she follows his trail north.
 
 ## Knowledge
 - Knows a necromancer is attempting to raise the dead and is actively hunting that threat.
+- His awareness of the necromancer's roughly two-dozen intended corpses is not established; Seraphina currently believes he does not know the full number.
 - Does not know Seraphina is a vampire.
 - No knowledge of Seraphina's feelings has been established.
 - Any awareness of having been followed has not yet been established.
