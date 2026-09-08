@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: whereabouts uncertain; pursuing the necromancer north beyond the old gallows road
+- Location: ruined croft north beyond the old gallows road; engaged with risen dead
 - Relationship to Seraphina: Unaware
 
 ## Description, voice & mannerisms
@@ -41,6 +41,7 @@ To be established through play. His existing oath and conduct establish that he 
 - S01: Garran is hunting the same necromancer whose activities Seraphina used to explain her excursions to Yseld.
 - S01: Soldiers at the Pike and Crown report that Garran left town pursuing the necromancer north beyond the old gallows road, apparently without waiting for ordinary soldiers to accompany him.
 - S01: Seraphina learns the necromancer is attempting to raise roughly two dozen corpses and believes Garran does not know the full number he may face; she follows his trail north.
+- S01: At the ruined croft Garran engages the risen dead alone. Seraphina watches unseen as additional corpses emerge around his flanks and rear.
 
 ## Knowledge
 - Knows a necromancer is attempting to raise the dead and is actively hunting that threat.
