@@ -8,7 +8,7 @@
 
 ## Novice
 - Stealth (0 ticks) — practiced through hunting and secretly following the knight.
-- Observation (0 ticks) — quiet, watchful, attentive to details and behavior.
+- Observation (1 tick) — quiet, watchful, attentive to details and behavior.
 - Mortal disguise (0 ticks) — makeup, clothing and practiced behavior used to conceal signs of undeath and pass among humans.
 
 ## Notable Untrained
