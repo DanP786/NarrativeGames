@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: inside the tithe pit north beyond the old gallows road, interrogating the captured bone-harvesting overseer while Seraphina guards the prisoners
+- Location: tithe pit north beyond the old gallows road, interrogation complete and prisoners secured
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -17,9 +17,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Committed to hunting monsters
 
 ## Short-term goals
-- Secure the surviving bone-harvesting crew and question the armed overseer.
-- Follow the lead toward Bellwater and an old tannery on the east bank, as given by the overseer.
-- Determine who controls the larger operation supplying human remains to necromancers.
+- Turn the captured bone-harvesting crew over to lawful custody rather than leave wounded prisoners unattended.
+- Investigate the old tannery on Bellwater's east bank, which the overseer identifies as a collection point for harvested remains.
+- Identify the organization or patron controlling the larger trade; the pit crew dealt through intermediaries and cannot name the ultimate master.
 - Keep Seraphina close while reassessing both her usefulness and the unexplained nature of her speed.
 
 ## Long-term goals
@@ -32,34 +32,33 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 20 / 100 — Seraphina's perimeter watch catches a wounded prisoner's covert reach for a concealed weapon before it can become a threat.
-- Affection: 11 / 100 — no new personal movement.
-- Respect: 35 / 100 — her alertness materially protects the interrogation and prisoners.
-- Loyalty: 9 / 100 — she continues doing exactly what she claimed: watching Garran's back while he focuses elsewhere.
+- Trust: 21 / 100 — Seraphina has repeatedly kept watch and prevented a prisoner from reaching a concealed knife while Garran focused on questioning.
+- Affection: 11 / 100 — no new personal movement during the close of interrogation.
+- Respect: 35 / 100 — her usefulness and restraint remain established.
+- Loyalty: 9 / 100 — she has consistently supported his immediate operation.
 - Fear: 9 / 100 — her earlier predatory speed remains unexplained.
-- Suspicion: 48 / 100 — useful, consistent conduct marginally offsets broader questions about her.
+- Suspicion: 48 / 100 — unanswered questions about Seraphina remain, but the investigation presently takes priority.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina have subdued the bone-harvesting crew at the tithe pit. Seraphina now patrols while Garran questions the overseer. Her watch proves useful when she catches a wounded laborer reaching beneath a cart for a concealed knife, pins his arm with her muddy shoe, and investigates rather than allowing him to arm himself. Her stated claim that she is watching Garran's back is increasingly borne out by her actions.
+**Wary.** Garran and Seraphina have completed the immediate confrontation at the tithe pit. Seraphina's conduct has repeatedly supported Garran: she preserved prisoners, watched his back, and caught an attempted reach for a concealed knife. Garran remains suspicious of her unexplained abilities and motives but presently treats her as a useful companion whose actions have earned practical confidence.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
 - S01: Seraphina follows Garran to the necromancer's ruined croft and intervenes when the risen dead begin surrounding him.
 - S01: Seraphina and Garran kill the necromancer and break his raising, then discover his ledger and the tithe-pit lead.
 - S01: Their cooperation continues into teasing road conversation despite Garran rejecting Seraphina's explanation for her presence.
-- S01: They locate the tithe pit and observe a crew harvesting bones by lantern light.
-- S01: Garran challenges the workers; their armed overseer orders them to flee and attacks him.
-- S01: Seraphina chases the fleeing men like prey and disables them with precise nonlethal cuts, honoring Garran's instruction.
-- S01: Seraphina admits she came because she heard a knight was alone and wanted to help, and says she watches Garran so he can investigate without watching his back.
-- S01: During Garran's interrogation, Seraphina shifts to a perimeter patrol and catches a wounded laborer covertly reaching beneath a cart for a concealed knife.
+- S01: They locate the tithe pit and subdue a crew harvesting bones by lantern light.
+- S01: Seraphina chases fleeing men and disables them with precise nonlethal cuts, honoring Garran's instruction.
+- S01: Seraphina says she came because she heard a knight was alone and wanted to help, and says she watches Garran so he can investigate without watching his back.
+- S01: During Garran's interrogation, Seraphina catches a wounded laborer covertly reaching beneath a cart for a concealed knife.
+- S01: Garran completes the interrogation. The strongest actionable lead is an old tannery on Bellwater's east bank used as a collection point; the captured crew cannot reliably identify the ultimate patron behind the trade.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
 - Knows the necromancer has been killed and his raising disrupted.
 - Knows from the ledger that the intended force was roughly two dozen corpses and that an additional corpse source is called the 'tithe pit.'
-- Has reached the tithe pit: an enormous old mass-burial trench containing hundreds of exposed bones.
-- Knows at least five people were present harvesting bones, including an armed overseer who recognized Garran's name and ordered the others to flee.
-- Knows the overseer has named Bellwater and an old tannery on the east bank as a lead concerning the bone trade.
+- Knows at least five people were present harvesting bones at the tithe pit, including an armed overseer.
+- Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains; the pit crew dealt through intermediaries and cannot reliably name the ultimate patron.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
