@@ -19,7 +19,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 ## Short-term goals
 - Secure the surviving bone-harvesting crew and question the armed overseer.
 - Determine where harvested remains are being delivered and identify the larger operation behind the dead necromancer.
-- Keep Seraphina in sight while reassessing both her usefulness and the unexplained nature of her speed.
+- Learn how Seraphina heard that a lone knight was pursuing the necromancer and why that was enough to make her seek him out.
+- Keep Seraphina close while reassessing both her usefulness and the unexplained nature of her speed.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -30,15 +31,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 15 / 100 — Seraphina remains nearby and lets Garran handle the prisoners rather than interfering.
-- Affection: 8 / 100 — Garran notices that her attention is fixed more on him than on the mystery surrounding the bone trade, though he cannot know why.
-- Respect: 30 / 100 — her restraint and combat usefulness remain established.
-- Loyalty: 5 / 100 — she continues supporting his operation without contesting control.
+- Trust: 18 / 100 — Seraphina replaces an obviously weak necromancy-curiosity story with a simpler explanation consistent with her actual conduct: she heard a knight was alone, came to help, and has been watching his back.
+- Affection: 10 / 100 — learning that she deliberately came because she heard he was alone lands personally, even though her motives remain unclear.
+- Respect: 32 / 100 — her claim that she is watching his back matches her restraint, tactical cooperation, and repeated interventions in his favor.
+- Loyalty: 8 / 100 — she explicitly frames her attention as protecting Garran while he conducts the investigation.
 - Fear: 9 / 100 — her earlier predatory speed remains unexplained.
-- Suspicion: 51 / 100 — her unusual lack of interest in the larger criminal mystery contrasts with the 'morbid fascination with necromancy' she claimed brought her here.
+- Suspicion: 49 / 100 — the new account better explains her behavior but immediately raises concrete questions about how she heard of Garran and why she chose to help a stranger.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina have subdued the immediate bone-harvesting crew at the tithe pit. Seraphina preserved fleeing suspects as Garran requested, then shows little interest in the larger mystery and instead watches Garran while he secures and questions the prisoners. Garran notices the inconsistency with her claimed fascination with necromancy but does not know the reason for her attention.
+**Wary.** Garran and Seraphina have subdued the immediate bone-harvesting crew at the tithe pit. Confronted about watching him rather than showing interest in necromancy, Seraphina admits her earlier explanation was incomplete: she says she heard a knight was alone out here and wanted to help, and that she watches Garran so he can investigate without watching his own back. The explanation fits her conduct far better, but Garran remains wary because it leaves unanswered how she learned of him and why she chose to risk herself for a stranger.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -48,7 +49,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: They locate the tithe pit and observe a crew harvesting bones by lantern light.
 - S01: Garran challenges the workers; their armed overseer orders them to flee and attacks him.
 - S01: Seraphina chases the fleeing men like prey and disables them with precise nonlethal cuts, honoring Garran's instruction.
-- S01: With the immediate fight ending, Seraphina pays little attention to the emerging larger conspiracy and instead watches Garran handle the aftermath.
+- S01: With the immediate fight ending, Seraphina pays little attention to the larger conspiracy and instead watches Garran handle the aftermath.
+- S01: When Garran asks why she is watching him, Seraphina says she heard a knight was alone out here and wanted to help; she says she is watching him so he can conduct his investigation without needing to watch his back.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -58,8 +60,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows at least five people were present harvesting bones, including an armed overseer who recognized Garran's name and ordered the others to flee.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
-- Notices Seraphina is paying more attention to him than to the bone-harvesting mystery despite her claimed fascination with necromancy.
-- Does not fully accept Seraphina's explanations for her presence.
+- Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
+- Knows Seraphina says her close attention to him is intended to let him investigate without needing to watch his own back.
+- Does not yet know how she heard about him or why helping an unknown knight mattered enough to risk herself.
 - Does not know Seraphina is a vampire.
-- Does not know Seraphina has been following him.
+- Does not know Seraphina has been following him for longer than tonight.
 - Does not know Seraphina's feelings for him.
