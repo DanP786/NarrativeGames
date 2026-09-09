@@ -7,7 +7,7 @@
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
-Not yet fully established in play. Seraphina knows him from prolonged observation as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tends to test the story with practical follow-up questions rather than accuse without proof.
+Not yet fully established in play. Seraphina knows him from prolonged observation as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tends to test the story with practical follow-up questions rather than accuse without proof. His humor, when it surfaces, is dry and understated.
 
 ## Traits
 - Serious
@@ -30,15 +30,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 10 / 100 — Seraphina remains cooperative despite teasing his earlier suggestion that she might seek soldiers.
-- Affection: 5 / 100 — her amusement and willingness to tease him begin to establish a personal texture to their interaction.
+- Trust: 10 / 100 — Seraphina remains beside him and cooperative, though she jokes that she might simply abandon the errand if sent for help.
+- Affection: 6 / 100 — her pout and playful resistance draw out more of Garran's dry humor.
 - Respect: 23 / 100 — her effectiveness in the fight remains established.
 - Loyalty: 1 / 100 — their voluntary cooperation continues.
 - Fear: 5 / 100 — her speed remains concerning but no new supernatural evidence has appeared.
 - Suspicion: 46 / 100 — nothing in the exchange resolves the unanswered questions about her.
 
 ## Relationship to player
-**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. He openly rejects her stated explanation for being at the croft but has invited her to accompany him in pursuing the tithe-pit lead. Seraphina is conspicuously pleased to join him and has begun teasing him, including reminding him of the possibility of running back to town for soldiers. He remains suspicious but accepts her as a useful companion for the immediate investigation.
+**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. He openly rejects her stated explanation for being at the croft but has invited her to accompany him in pursuing the tithe-pit lead. Seraphina is conspicuously pleased to join him and increasingly teases him; Garran has begun answering with restrained, dry humor while remaining suspicious of her unexplained identity and motives.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -50,7 +50,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: While clearing the remaining dead, Seraphina explains knowing his boot-knife location as recognition of a common hiding place.
 - S01: Asked why she was on the old gallows road, Seraphina claims a morbid fascination with necromancy; Garran tells her he does not believe her but does not treat her as an enemy.
 - S01: Garran invites Seraphina to pursue the tithe-pit lead with him; she beams and falls into step.
-- S01: When Garran tells her to follow his direction if fighting starts, Seraphina amusedly asks whether he would rather she run back to town and tell the guard he needs soldiers.
+- S01: Their road conversation becomes teasing: after Garran suggests she would probably follow him if sent for soldiers, Seraphina pouts and says she might simply run back and tell no one.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
