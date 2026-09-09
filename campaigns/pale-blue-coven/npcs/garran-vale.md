@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: Bellwater, preparing to take a limited period of rest while Seraphina watches Saint Orra's approaches
+- Location: Bellwater market district, reunited with Seraphina late in the working day
 - Relationship to Seraphina: Wary; increasingly proven investigative ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -18,8 +18,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Short-term goals
 - Identify the organization or patron controlling the larger trade in harvested human remains.
-- Take a limited period of sleep before the expected evening/night surveillance so exhaustion does not compromise the watch or a possible pursuit.
-- Have Seraphina observe Saint Orra's approaches during the remaining working day without confronting or following unexpected covert movement alone.
+- Hear Seraphina's report from her daylight circulation around Saint Orra's and use the observation positions she identified for the coming watch.
 - Conduct discreet surveillance of Saint Orra's rear gate after legitimate public work ends and follow the next covert cart or participant without prematurely exposing the investigation.
 - Learn more about Seraphina; her unexplained abilities, motives, and evident competence at covert information gathering remain unresolved.
 
@@ -33,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 35 / 100 — Garran accepts enough reliance on Seraphina to sleep while she keeps watch on the investigation's target approaches.
-- Affection: 27 / 100 — her repeated practical concern for his wellbeing is difficult to mistake as mere tactical convenience, even though he does not know its deeper source.
-- Respect: 50 / 100 — her suggestion correctly accounts for the demands of a long surveillance and possible pursuit after his sleepless night.
-- Loyalty: 12 / 100 — allowing himself to rest while she watches marks a small increase in mutual practical dependence.
+- Trust: 36 / 100 — Garran returns from resting to find Seraphina still carrying out the agreed watch without having precipitated a confrontation.
+- Affection: 28 / 100 — the ordinary sight of Seraphina shopping while faithfully maintaining the watch adds a small personal dimension to an otherwise grim partnership.
+- Respect: 50 / 100 — unchanged pending her report of the daylight watch.
+- Loyalty: 12 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 55 / 100 — unchanged; trusting her with the watch does not resolve the questions surrounding her.
+- Suspicion: 55 / 100 — unchanged; he has no knowledge of her feeding while he slept.
 
 ## Relationship to player
-**Wary.** Garran increasingly relies on Seraphina as a capable partner despite unresolved suspicion about her origins and abilities. He accepts her suggestion that he sleep before the night watch and entrusts her with observing Saint Orra's approaches during the remaining working day, while setting a boundary against confronting or pursuing unexpected activity alone.
+**Wary.** Garran increasingly relies on Seraphina as a capable partner despite unresolved suspicion about her origins and abilities. After accepting her insistence that he rest, he rejoins her late in the working day better rested and mostly cleaned up, finding that she has maintained the agreed discreet observation without exposing the investigation.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -66,6 +65,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina reports her Saint Orra investigation in full: covert third-bell handbell signals, rear-gate cart traffic, a heavy delivery the previous night, processed human remains, and a crate bearing the tannery's split-bell mark. She also distinguishes the apparently legitimate public burial work from the covert operation rather than accusing all Saint Orra staff without evidence.
 - S01: Garran asks Seraphina's opinion on the next move. She recommends watching Saint Orra's rear gate, and he agrees to build the next phase around discreet surveillance.
 - S01: Seraphina suggests Garran sleep before the night watch while she observes the streets through the remaining working day. Garran accepts the practical need for rest and entrusts her with the daylight watch, instructing her not to confront or pursue unexpected activity alone.
+- S01: After several hours of rest, Garran finds Seraphina in Bellwater's market district inspecting a pearlescent jewellery box while continuing her intermittent watch of Saint Orra's approaches. He is better rested and mostly cleaned of the previous night's grime.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -81,7 +81,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina entered Saint Orra's under a false missing-servant story, secretly inspected the rear outbuilding while a burial keeper checked records, and left without exposing herself.
 - Knows Seraphina found evidence that Saint Orra's public intake operation genuinely functions, including an intact unidentified woman recorded in the legitimate ledger; therefore ordinary staff complicity is not yet established.
 - Knows Seraphina recommends watching Saint Orra's rear gate rather than immediately confronting the site or pursuing records first.
-- Knows Seraphina has offered to take the daylight street watch so he can sleep before the expected night surveillance.
+- Knows Seraphina offered to take the daylight street watch so he could sleep before the expected night surveillance, and that she remained on that task until he returned.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
@@ -95,6 +95,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina says her remark about his awful appearance was concern for his wellbeing because he has not slept.
 - Does not know how she originally heard about him or why helping him mattered enough to risk herself.
 - Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
+- Does not know Seraphina fed on a warehouse laborer while he slept.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him since before their first direct meeting.
 - Does not know Seraphina's feelings for him.
