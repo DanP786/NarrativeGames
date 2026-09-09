@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: tithe pit north beyond the old gallows road, securing prisoners after Seraphina's departure
+- Location: old tannery on Bellwater's east bank
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -17,10 +17,10 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Committed to hunting monsters
 
 ## Short-term goals
-- Turn the captured bone-harvesting crew over to lawful custody rather than leave wounded prisoners unattended.
-- Investigate the old tannery on Bellwater's east bank, which the overseer identifies as a collection point for harvested remains.
+- Investigate the old tannery on Bellwater's east bank, which the overseer identified as a collection point for harvested remains.
 - Identify the organization or patron controlling the larger trade; the pit crew dealt through intermediaries and cannot name the ultimate master.
-- Learn more about Seraphina if their paths cross again; her departure leaves several questions unresolved.
+- Determine who has recently used or cleared the tannery and what evidence remains.
+- Learn more about Seraphina now that she has followed him to the tannery; her unexplained abilities and motives remain unresolved.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -33,14 +33,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 21 / 100 — her established assistance remains meaningful.
-- Affection: 13 / 100 — her mock-offended farewell about a lady not lurking leaves a small, memorable personal impression.
-- Respect: 35 / 100 — her usefulness and restraint remain established.
-- Loyalty: 9 / 100 — no change; she has completed what she said she came to do.
-- Fear: 9 / 100 — her earlier predatory speed remains unexplained.
-- Suspicion: 50 / 100 — she leaves with several questions about her still unanswered.
+- Affection: 15 / 100 — despite his suspicion, Seraphina actually appearing at his next destination after their teasing farewell is personally amusing and welcome enough to register.
+- Respect: 36 / 100 — she tracked the investigation to the correct location without needing him to fetch her.
+- Loyalty: 9 / 100 — unchanged.
+- Fear: 10 / 100 — her silent, self-possessed entrance into a potentially hostile building reinforces the unsettlingly predatory edge to her competence.
+- Suspicion: 52 / 100 — her ability to find him again and her conspicuous confidence in danger add to unresolved questions about who she is.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina have completed the immediate confrontation at the tithe pit. Seraphina declines his offered handshake, wishes him luck, and when teased about possibly lurking near his next destination answers in mock offense that a lady does not lurk. She then genuinely departs into the night. Garran remains suspicious of her unexplained abilities and motives, but her assistance and distinctive manner have made her memorable to him.
+**Wary.** Garran has delivered the tithe-pit prisoners to lawful custody and reached the old tannery on Bellwater's east bank ahead of Seraphina. Seraphina has now followed him there and enters the dark tannery with conspicuous, predator-like confidence. Garran remains suspicious of her unexplained abilities and motives, but her arrival also fulfills his earlier teasing expectation that she might appear at his next destination.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -53,6 +53,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: During Garran's interrogation, Seraphina catches a wounded laborer covertly reaching beneath a cart for a concealed knife.
 - S01: Garran completes the interrogation. The strongest actionable lead is an old tannery on Bellwater's east bank used as a collection point.
 - S01: Garran thanks Seraphina and offers his hand. She declines physical contact and starts to leave. When teased about lurking near his next destination, she replies, 'A lady does not lurk,' and returns toward her coven.
+- S01: Garran delivers the captured tithe-pit crew to lawful custody and proceeds to the old tannery on Bellwater's east bank. Seraphina later follows him there and enters the building confidently.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -65,8 +66,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina says her close attention to him is intended to let him investigate without needing to watch his own back.
 - Knows her perimeter watch caught a wounded laborer attempting to reach a concealed knife beneath a cart.
 - Knows Seraphina declined his offered handshake before departing, but not why.
-- Does not know how she heard about him or why helping an unknown knight mattered enough to risk herself.
-- Does not know where Seraphina goes after leaving the tithe pit.
+- Knows Seraphina has now found him again at the old tannery after their joking exchange about her possibly appearing at his next destination.
+- Does not know how she originally heard about him or why helping him mattered enough to risk herself.
+- Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
 - Does not know Seraphina is a vampire.
-- Does not know Seraphina has been following him for longer than tonight.
+- Does not know Seraphina has been following him since before their first direct meeting.
 - Does not know Seraphina's feelings for him.
