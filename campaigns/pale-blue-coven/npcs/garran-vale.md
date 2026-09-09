@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: field around the ruined croft north beyond the old gallows road; clearing the last risen dead with Seraphina
+- Location: leaving the ruined croft north beyond the old gallows road with Seraphina
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -18,7 +18,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Short-term goals
 - Determine the location and nature of the 'tithe pit' referenced by both the necromancer and his ledger.
-- Ensure the disrupted raising cannot resume and deal with any remaining active dead.
+- Investigate the tithe pit with Seraphina accompanying him.
 - Learn who Seraphina is and why she was at the croft; test her claim that curiosity about necromancy brought her there.
 
 ## Long-term goals
@@ -30,15 +30,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 9 / 100 — Seraphina continues helping, but her explanation for being at the croft is visibly thin.
-- Affection: 3 / 100 — her dry amusement and self-possession continue to register personally, though no bond exists.
-- Respect: 23 / 100 — she remains calm and effective while putting down the remaining risen dead.
-- Loyalty: 0 / 100 — no established bond.
+- Trust: 10 / 100 — despite the poor explanation, Seraphina immediately agrees to accompany him toward the next danger.
+- Affection: 4 / 100 — her unmistakable delight at being invited along registers personally.
+- Respect: 23 / 100 — her effectiveness in the fight remains established.
+- Loyalty: 1 / 100 — the first voluntary continuation of their cooperation beyond the immediate fight.
 - Fear: 5 / 100 — her speed remains concerning but no new supernatural evidence has appeared.
-- Suspicion: 46 / 100 — claiming a morbid fascination with necromancy and a preference for looking her best does not adequately explain arriving armed at this exact remote site.
+- Suspicion: 46 / 100 — her enthusiasm does nothing to explain who she is or why she was there.
 
 ## Relationship to player
-**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. She explains her presence by suggesting a morbid fascination with necromancy brought her to investigate personally, and jokes that her impractical finery is simply because she likes to look her best. Garran finds the story possible in pieces but unconvincing as a whole and intends to test it rather than openly accept it.
+**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. He openly rejects her stated explanation for being at the croft but, because she saved him and materially aided the hunt, invites her to accompany him in pursuing the tithe-pit lead. Seraphina beams and immediately falls into step beside him. He remains suspicious, but their cooperation now extends beyond the emergency that introduced them.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -48,7 +48,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina mortally wounds the necromancer, redirects Garran toward questioning him, and later finds and shares his ledger.
 - S01: Seraphina introduces herself as Seraphina/Sera and returns Garran's cleaned boot dagger.
 - S01: While clearing the remaining dead, Seraphina explains knowing his boot-knife location as recognition of a common hiding place.
-- S01: Asked why she was on the old gallows road, Seraphina suggests she has a morbid fascination with necromancy and came to see it herself; when Garran questions her fine clothing, she says she likes to look her best.
+- S01: Asked why she was on the old gallows road, Seraphina claims a morbid fascination with necromancy; Garran tells her he does not believe her but does not treat her as an enemy.
+- S01: Garran announces he is pursuing the tithe-pit lead and invites Seraphina to come. She beams and immediately falls into step with him.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -58,6 +59,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Has heard Seraphina explain her discovery of his boot dagger as recognition of a common hiding place.
 - Has heard Seraphina claim curiosity or fascination with necromancy as her reason for coming to the area, and personal vanity as the reason for her fine dress.
 - Does not fully accept those explanations.
+- Knows Seraphina is conspicuously pleased to accompany him toward the tithe pit.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him.
 - Does not know Seraphina's feelings for him.
