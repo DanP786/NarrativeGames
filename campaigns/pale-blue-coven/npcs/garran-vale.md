@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: leaving the ruined croft north beyond the old gallows road with Seraphina
+- Location: travelling away from the ruined croft north beyond the old gallows road with Seraphina
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -30,15 +30,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 10 / 100 — despite the poor explanation, Seraphina immediately agrees to accompany him toward the next danger.
-- Affection: 4 / 100 — her unmistakable delight at being invited along registers personally.
+- Trust: 10 / 100 — Seraphina remains cooperative despite teasing his earlier suggestion that she might seek soldiers.
+- Affection: 5 / 100 — her amusement and willingness to tease him begin to establish a personal texture to their interaction.
 - Respect: 23 / 100 — her effectiveness in the fight remains established.
-- Loyalty: 1 / 100 — the first voluntary continuation of their cooperation beyond the immediate fight.
+- Loyalty: 1 / 100 — their voluntary cooperation continues.
 - Fear: 5 / 100 — her speed remains concerning but no new supernatural evidence has appeared.
-- Suspicion: 46 / 100 — her enthusiasm does nothing to explain who she is or why she was there.
+- Suspicion: 46 / 100 — nothing in the exchange resolves the unanswered questions about her.
 
 ## Relationship to player
-**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. He openly rejects her stated explanation for being at the croft but, because she saved him and materially aided the hunt, invites her to accompany him in pursuing the tithe-pit lead. Seraphina beams and immediately falls into step beside him. He remains suspicious, but their cooperation now extends beyond the emergency that introduced them.
+**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. He openly rejects her stated explanation for being at the croft but has invited her to accompany him in pursuing the tithe-pit lead. Seraphina is conspicuously pleased to join him and has begun teasing him, including reminding him of the possibility of running back to town for soldiers. He remains suspicious but accepts her as a useful companion for the immediate investigation.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -49,7 +49,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina introduces herself as Seraphina/Sera and returns Garran's cleaned boot dagger.
 - S01: While clearing the remaining dead, Seraphina explains knowing his boot-knife location as recognition of a common hiding place.
 - S01: Asked why she was on the old gallows road, Seraphina claims a morbid fascination with necromancy; Garran tells her he does not believe her but does not treat her as an enemy.
-- S01: Garran announces he is pursuing the tithe-pit lead and invites Seraphina to come. She beams and immediately falls into step with him.
+- S01: Garran invites Seraphina to pursue the tithe-pit lead with him; she beams and falls into step.
+- S01: When Garran tells her to follow his direction if fighting starts, Seraphina amusedly asks whether he would rather she run back to town and tell the guard he needs soldiers.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -59,7 +60,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Has heard Seraphina explain her discovery of his boot dagger as recognition of a common hiding place.
 - Has heard Seraphina claim curiosity or fascination with necromancy as her reason for coming to the area, and personal vanity as the reason for her fine dress.
 - Does not fully accept those explanations.
-- Knows Seraphina is conspicuously pleased to accompany him toward the tithe pit.
+- Knows Seraphina is conspicuously pleased to accompany him and comfortable teasing him.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him.
 - Does not know Seraphina's feelings for him.
