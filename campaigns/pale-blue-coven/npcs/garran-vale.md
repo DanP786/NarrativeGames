@@ -33,14 +33,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 21 / 100 — her established assistance remains meaningful.
-- Affection: 15 / 100 — despite his suspicion, Seraphina actually appearing at his next destination after their teasing farewell is personally amusing and welcome enough to register.
-- Respect: 36 / 100 — she tracked the investigation to the correct location without needing him to fetch her.
+- Affection: 17 / 100 — Seraphina's immediate, familiar concern disguised as blunt teasing lands as unexpectedly personal after their night of danger.
+- Respect: 36 / 100 — unchanged.
 - Loyalty: 9 / 100 — unchanged.
-- Fear: 10 / 100 — her silent, self-possessed entrance into a potentially hostile building reinforces the unsettlingly predatory edge to her competence.
-- Suspicion: 52 / 100 — her ability to find him again and her conspicuous confidence in danger add to unresolved questions about who she is.
+- Fear: 10 / 100 — unchanged.
+- Suspicion: 52 / 100 — unchanged; her unexplained abilities and motives remain unresolved.
 
 ## Relationship to player
-**Wary.** Garran has delivered the tithe-pit prisoners to lawful custody and reached the old tannery on Bellwater's east bank ahead of Seraphina. Seraphina has now followed him there and enters the dark tannery with conspicuous, predator-like confidence. Garran remains suspicious of her unexplained abilities and motives, but her arrival also fulfills his earlier teasing expectation that she might appear at his next destination.
+**Wary.** Garran has delivered the tithe-pit prisoners to lawful custody and reached the old tannery on Bellwater's east bank ahead of Seraphina. Seraphina follows him there, enters with conspicuous confidence, ignores his dry remark about her appearing at his next destination, walks directly up to him, and tells him, 'You look awful.' Garran remains suspicious of her unexplained abilities and motives, but their manner with one another is becoming more personally familiar.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -54,6 +54,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Garran completes the interrogation. The strongest actionable lead is an old tannery on Bellwater's east bank used as a collection point.
 - S01: Garran thanks Seraphina and offers his hand. She declines physical contact and starts to leave. When teased about lurking near his next destination, she replies, 'A lady does not lurk,' and returns toward her coven.
 - S01: Garran delivers the captured tithe-pit crew to lawful custody and proceeds to the old tannery on Bellwater's east bank. Seraphina later follows him there and enters the building confidently.
+- S01: Seraphina walks directly up to Garran, disregards what he was investigating, and bluntly tells him he looks awful.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
