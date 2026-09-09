@@ -3,11 +3,11 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: inside the tithe pit north beyond the old gallows road, securing and questioning the bone-harvesting crew with Seraphina nearby
+- Location: inside the tithe pit north beyond the old gallows road, interrogating the captured bone-harvesting overseer with Seraphina nearby
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
-Not yet fully established in play. Seraphina knows him from prolonged observation as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tends to test the story with practical follow-up questions rather than accuse without proof. His humor, when it surfaces, is dry and understated.
+Not yet fully established in play. Seraphina knows him from prolonged observation as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tends to test the story with practical follow-up questions rather than accuse without proof. His humor, when it surfaces, is dry and understated. In questioning, he prefers concrete facts, controlled silence, and testing answers against known evidence rather than theatrical threats.
 
 ## Traits
 - Serious
@@ -28,18 +28,19 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 ## Methods & lines
 - In immediate danger, gives short practical commands and prioritizes the active threat.
 - When an explanation seems incomplete, tests it with concrete follow-up questions rather than immediately accusing without evidence.
+- In interrogation, uses specific questions, known evidence, and uncomfortable silence before escalating force.
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 18 / 100 — Seraphina replaces an obviously weak necromancy-curiosity story with a simpler explanation consistent with her actual conduct: she heard a knight was alone, came to help, and has been watching his back.
-- Affection: 10 / 100 — learning that she deliberately came because she heard he was alone lands personally, even though her motives remain unclear.
-- Respect: 32 / 100 — her claim that she is watching his back matches her restraint, tactical cooperation, and repeated interventions in his favor.
-- Loyalty: 8 / 100 — she explicitly frames her attention as protecting Garran while he conducts the investigation.
+- Trust: 18 / 100 — Seraphina continues keeping watch while Garran handles the prisoner.
+- Affection: 11 / 100 — her increasingly intense attention is impossible to miss and begins to register as something more personally directed, though Garran does not know its cause.
+- Respect: 32 / 100 — her earlier restraint and combat usefulness remain established.
+- Loyalty: 8 / 100 — she continues supporting his operation without interfering.
 - Fear: 9 / 100 — her earlier predatory speed remains unexplained.
-- Suspicion: 49 / 100 — the new account better explains her behavior but immediately raises concrete questions about how she heard of Garran and why she chose to help a stranger.
+- Suspicion: 50 / 100 — her sustained focus on Garran rather than the investigation remains strange and keeps his questions about her motives alive.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina have subdued the immediate bone-harvesting crew at the tithe pit. Confronted about watching him rather than showing interest in necromancy, Seraphina admits her earlier explanation was incomplete: she says she heard a knight was alone out here and wanted to help, and that she watches Garran so he can investigate without watching his own back. The explanation fits her conduct far better, but Garran remains wary because it leaves unanswered how she learned of him and why she chose to risk herself for a stranger.
+**Wary.** Garran and Seraphina have subdued the immediate bone-harvesting crew at the tithe pit. Seraphina says she came because she heard a knight was alone and wanted to help, and that she watches Garran so he can investigate without watching his own back. While he interrogates the overseer, she continues staring at him with even greater intensity. Garran cannot know her private excitement at being scrutinized by him, but he can plainly see that her attention is unusually fixed on him.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -49,8 +50,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: They locate the tithe pit and observe a crew harvesting bones by lantern light.
 - S01: Garran challenges the workers; their armed overseer orders them to flee and attacks him.
 - S01: Seraphina chases the fleeing men like prey and disables them with precise nonlethal cuts, honoring Garran's instruction.
-- S01: With the immediate fight ending, Seraphina pays little attention to the larger conspiracy and instead watches Garran handle the aftermath.
-- S01: When Garran asks why she is watching him, Seraphina says she heard a knight was alone out here and wanted to help; she says she is watching him so he can conduct his investigation without needing to watch his back.
+- S01: Seraphina admits she came because she heard a knight was alone and wanted to help, and says she watches Garran so he can investigate without watching his back.
+- S01: During Garran's interrogation of the captured overseer, Seraphina continues watching Garran with conspicuous intensity rather than focusing on the mystery itself.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -62,6 +63,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
 - Knows Seraphina says her close attention to him is intended to let him investigate without needing to watch his own back.
+- Can observe that Seraphina's attention remains intensely fixed on him even while he questions a prisoner.
 - Does not yet know how she heard about him or why helping an unknown knight mattered enough to risk herself.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him for longer than tonight.
