@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: tithe pit north beyond the old gallows road, with Seraphina departing and prisoners secured
+- Location: tithe pit north beyond the old gallows road, securing prisoners after Seraphina's departure
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -20,7 +20,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Turn the captured bone-harvesting crew over to lawful custody rather than leave wounded prisoners unattended.
 - Investigate the old tannery on Bellwater's east bank, which the overseer identifies as a collection point for harvested remains.
 - Identify the organization or patron controlling the larger trade; the pit crew dealt through intermediaries and cannot name the ultimate master.
-- Learn more about Seraphina if their paths cross again; her abrupt departure leaves several questions unresolved.
+- Learn more about Seraphina if their paths cross again; her departure leaves several questions unresolved.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -33,14 +33,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 21 / 100 — her established assistance remains meaningful.
-- Affection: 12 / 100 — Seraphina's warm-eyed farewell after spending the night helping him leaves a small personal impression.
+- Affection: 13 / 100 — her mock-offended farewell about a lady not lurking leaves a small, memorable personal impression.
 - Respect: 35 / 100 — her usefulness and restraint remain established.
 - Loyalty: 9 / 100 — no change; she has completed what she said she came to do.
 - Fear: 9 / 100 — her earlier predatory speed remains unexplained.
-- Suspicion: 50 / 100 — she deliberately declines an offered handshake and departs just as the immediate danger ends, adding another small unexplained behavior without revealing why.
+- Suspicion: 50 / 100 — she leaves with several questions about her still unanswered.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina have completed the immediate confrontation at the tithe pit. After Garran thanks her and offers his hand, Seraphina calls him Sir Vale but does not take it; instead she wishes him luck with the rest of his investigation and starts to leave. Garran cannot know that she avoids contact to conceal the unnatural coldness of her skin, but the refusal registers as another unexplained detail. Her actions throughout the night nevertheless earned practical confidence and respect.
+**Wary.** Garran and Seraphina have completed the immediate confrontation at the tithe pit. Seraphina declines his offered handshake, wishes him luck, and when teased about possibly lurking near his next destination answers in mock offense that a lady does not lurk. She then genuinely departs into the night. Garran remains suspicious of her unexplained abilities and motives, but her assistance and distinctive manner have made her memorable to him.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -52,7 +52,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina says she came because she heard a knight was alone and wanted to help, and says she watches Garran so he can investigate without watching his back.
 - S01: During Garran's interrogation, Seraphina catches a wounded laborer covertly reaching beneath a cart for a concealed knife.
 - S01: Garran completes the interrogation. The strongest actionable lead is an old tannery on Bellwater's east bank used as a collection point.
-- S01: Garran thanks Seraphina and offers his hand. She declines physical contact, calls him Sir Vale, wishes him luck with the rest of the investigation, and begins to leave.
+- S01: Garran thanks Seraphina and offers his hand. She declines physical contact and starts to leave. When teased about lurking near his next destination, she replies, 'A lady does not lurk,' and returns toward her coven.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -65,7 +65,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina says her close attention to him is intended to let him investigate without needing to watch his own back.
 - Knows her perimeter watch caught a wounded laborer attempting to reach a concealed knife beneath a cart.
 - Knows Seraphina declined his offered handshake before departing, but not why.
-- Does not yet know how she heard about him or why helping an unknown knight mattered enough to risk herself.
+- Does not know how she heard about him or why helping an unknown knight mattered enough to risk herself.
+- Does not know where Seraphina goes after leaving the tithe pit.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him for longer than tonight.
 - Does not know Seraphina's feelings for him.
