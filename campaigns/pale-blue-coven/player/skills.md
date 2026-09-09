@@ -9,7 +9,7 @@
 ## Novice
 - Stealth (1 tick) — practiced through hunting and secretly following the knight.
 - Observation (10 ticks) — quiet, watchful, attentive to details and behavior.
-- Mortal disguise (0 ticks) — makeup, clothing and practiced behavior used to conceal signs of undeath and pass among humans.
+- Mortal disguise (1 tick) — makeup, clothing and practiced behavior used to conceal signs of undeath and pass among humans.
 
 ## Notable Untrained
 - Raw strength — physically weak by vampiric standards.
