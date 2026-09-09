@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: outside the old tannery on Bellwater's east bank, following Seraphina into the district
+- Location: Bellwater east-bank district, separated temporarily from Seraphina to find food
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -19,7 +19,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 ## Short-term goals
 - Identify the organization or patron controlling the larger trade in harvested human remains.
 - Follow the surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.' Saint Orra is associated in ordinary regional religious knowledge with burial and care of the unclaimed dead, but the notation's exact referent remains unknown.
-- Follow Seraphina's proposed method of discreetly gathering street gossip from beggars and prostitutes while avoiding unnecessarily announcing the investigation.
+- Let Seraphina pursue discreet street gossip without his conspicuous presence compromising her approach; obtain food while they are separated.
 - Learn more about Seraphina; her unexplained abilities, motives, and evident familiarity with discreet information gathering remain unresolved.
 
 ## Long-term goals
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 23 / 100 — unchanged.
-- Affection: 22 / 100 — her tutting response to the repeated lurking joke continues their increasingly familiar banter.
-- Respect: 40 / 100 — unchanged.
+- Trust: 25 / 100 — Garran allows Seraphina to work independently on the shared lead and expects her to return with whatever she learns.
+- Affection: 23 / 100 — her blunt instruction that he go feed himself carries the same practical concern she already expressed over his lack of sleep.
+- Respect: 41 / 100 — she recognizes that anyone who has seen her beside a conspicuous knight is unsuitable for discreet questioning and adjusts accordingly.
 - Loyalty: 9 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 53 / 100 — Garran can observe that Seraphina deliberately lowers her hood before stepping into direct sunlight, though he does not know why and has no basis yet to identify it as supernatural.
+- Suspicion: 53 / 100 — unchanged; independent action is consistent with her stated plan but leaves existing questions unresolved.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina are moving out from the old tannery to pursue the 'Saint Orra — third bell' lead through discreet street gossip. When he repeats the lurking joke, Seraphina tuts, says, 'The lurking again?' and walks out. Garran can observe that she deliberately lowers her hood before entering direct sunlight, but he does not know the reason. Their banter is becoming familiar even while his questions about her continue accumulating.
+**Wary.** Garran and Seraphina temporarily separate in Bellwater. Seraphina tells the exhausted knight to get food and says she will find him when she has answers, then avoids witnesses who have already seen them together and slips away to gather gossip alone. Garran accepts the practical need for separation and trusts her enough to work the shared lead independently.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -60,6 +60,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina says she is not well versed in saints. Garran identifies Saint Orra as associated with burial and the unclaimed dead, while the slip's precise meaning remains unresolved.
 - S01: Seraphina proposes seeking gossip from beggars and prostitutes to identify Saint Orra discreetly. Garran accepts the practical logic of the approach.
 - S01: When Garran again jokes about lurking, Seraphina tuts, says, 'The lurking again?' and walks out, deliberately lowering her hood before stepping into direct morning sunlight.
+- S01: Seraphina tells Garran to get food and says she will find him when she has answers, then deliberately avoids potential informants who have seen her with him and slips into an alley to work alone.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -71,13 +72,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Saint Orra through ordinary regional religious knowledge as associated with burial and care of the unclaimed dead; does not yet know the slip's exact referent.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
+- Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
+- Knows Seraphina has promised to find him when she has answers from her independent inquiries.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
 - Knows Seraphina says her close attention to him is intended to let him investigate without needing to watch his own back.
 - Knows her perimeter watch caught a wounded laborer attempting to reach a concealed knife beneath a cart.
 - Knows Seraphina declined his offered handshake before departing, but not why.
-- Knows Seraphina has now found him again at the old tannery after their joking exchange about her possibly appearing at his next destination.
 - Knows Seraphina says her remark about his awful appearance was concern for his wellbeing because he has not slept.
 - Does not know how she originally heard about him or why helping him mattered enough to risk herself.
 - Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
