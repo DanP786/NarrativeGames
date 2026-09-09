@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: Bellwater east-bank district, separated temporarily from Seraphina to find food
+- Location: outside a modest Bellwater cookshop near the east-bank market lanes, reunited with Seraphina
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -18,8 +18,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Short-term goals
 - Identify the organization or patron controlling the larger trade in harvested human remains.
-- Follow the surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.' Saint Orra is associated in ordinary regional religious knowledge with burial and care of the unclaimed dead, but the notation's exact referent remains unknown.
-- Let Seraphina pursue discreet street gossip without his conspicuous presence compromising her approach; obtain food while they are separated.
+- Follow the surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.' Saint Orra is associated in ordinary regional religious knowledge with burial and care of the unclaimed dead, but Garran does not yet know what Seraphina discovered while investigating it.
+- Hear Seraphina's report from her independent street inquiry and decide the next move from the evidence.
 - Learn more about Seraphina; her unexplained abilities, motives, and evident familiarity with discreet information gathering remain unresolved.
 
 ## Long-term goals
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 25 / 100 — Garran allows Seraphina to work independently on the shared lead and expects her to return with whatever she learns.
-- Affection: 23 / 100 — her blunt instruction that he go feed himself carries the same practical concern she already expressed over his lack of sleep.
-- Respect: 41 / 100 — she recognizes that anyone who has seen her beside a conspicuous knight is unsuitable for discreet questioning and adjusts accordingly.
+- Trust: 26 / 100 — Seraphina returns as promised after working the Saint Orra lead independently.
+- Affection: 23 / 100 — unchanged.
+- Respect: 41 / 100 — unchanged pending the substance of her report.
 - Loyalty: 9 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 53 / 100 — unchanged; independent action is consistent with her stated plan but leaves existing questions unresolved.
+- Suspicion: 53 / 100 — unchanged; her return is consistent with her stated plan but does not resolve existing questions about her.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina temporarily separate in Bellwater. Seraphina tells the exhausted knight to get food and says she will find him when she has answers, then avoids witnesses who have already seen them together and slips away to gather gossip alone. Garran accepts the practical need for separation and trusts her enough to work the shared lead independently.
+**Wary.** Garran and Seraphina have reunited in Bellwater after briefly separating so she could gather discreet information while he ate. Seraphina returns as promised. Garran is ready to hear what she learned and continues to treat her as a useful but unexplained ally.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -61,6 +61,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina proposes seeking gossip from beggars and prostitutes to identify Saint Orra discreetly. Garran accepts the practical logic of the approach.
 - S01: When Garran again jokes about lurking, Seraphina tuts, says, 'The lurking again?' and walks out, deliberately lowering her hood before stepping into direct morning sunlight.
 - S01: Seraphina tells Garran to get food and says she will find him when she has answers, then deliberately avoids potential informants who have seen her with him and slips into an alley to work alone.
+- S01: Garran obeys Seraphina's instruction to eat while she investigates independently. She later returns to him outside a Bellwater cookshop as promised.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -69,11 +70,11 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains.
 - Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain.
 - Knows the concealed compartment contained a waxed-cloth packet with a tally slip marked by a split-bell seal and 'Saint Orra — third bell.'
-- Knows Saint Orra through ordinary regional religious knowledge as associated with burial and care of the unclaimed dead; does not yet know the slip's exact referent.
+- Knows Saint Orra through ordinary regional religious knowledge as associated with burial and care of the unclaimed dead; does not yet know what Seraphina discovered there.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
-- Knows Seraphina has promised to find him when she has answers from her independent inquiries.
+- Knows Seraphina promised to find him when she had answers and has now returned as promised.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
