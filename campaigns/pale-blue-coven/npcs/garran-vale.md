@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: inside the tithe pit north beyond the old gallows road, confronting the armed overseer while Seraphina intercepts runners
+- Location: inside the tithe pit north beyond the old gallows road, securing and questioning the bone-harvesting crew with Seraphina nearby
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -17,9 +17,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Committed to hunting monsters
 
 ## Short-term goals
-- Subdue the armed overseer and secure the bone-harvesting crew alive where possible.
-- Question the overseer/workers about where the harvested bones were going and who else is involved.
-- Keep Seraphina coordinated while reassessing the extraordinary speed and precision she displays.
+- Secure the surviving bone-harvesting crew and question the armed overseer.
+- Determine where harvested remains are being delivered and identify the larger operation behind the dead necromancer.
+- Keep Seraphina in sight while reassessing both her usefulness and the unexplained nature of her speed.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -30,15 +30,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 15 / 100 — Seraphina follows his instruction exactly in substance, stopping fleeing suspects without killing them.
-- Affection: 7 / 100 — no personal movement during active violence.
-- Respect: 30 / 100 — her ability to chase down multiple fleeing men and disable them precisely is formidable.
-- Loyalty: 5 / 100 — she acts directly in support of his plan and preserves prisoners as requested.
-- Fear: 9 / 100 — her predatory speed and precision are increasingly difficult to reconcile with an ordinary well-trained woman.
-- Suspicion: 50 / 100 — the same display that proves her usefulness intensifies Garran's concern about what she actually is.
+- Trust: 15 / 100 — Seraphina remains nearby and lets Garran handle the prisoners rather than interfering.
+- Affection: 8 / 100 — Garran notices that her attention is fixed more on him than on the mystery surrounding the bone trade, though he cannot know why.
+- Respect: 30 / 100 — her restraint and combat usefulness remain established.
+- Loyalty: 5 / 100 — she continues supporting his operation without contesting control.
+- Fear: 9 / 100 — her earlier predatory speed remains unexplained.
+- Suspicion: 51 / 100 — her unusual lack of interest in the larger criminal mystery contrasts with the 'morbid fascination with necromancy' she claimed brought her here.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina are actively fighting together at the tithe pit. When the bone-harvesting crew scatters, Seraphina follows Garran's instruction to stop runners without killing them, pursuing with unnerving speed and using precise dagger cuts to cripple escape rather than take lives. Her obedience and restraint build tactical confidence, while the manner of her success deepens his unanswered concern about her nature.
+**Wary.** Garran and Seraphina have subdued the immediate bone-harvesting crew at the tithe pit. Seraphina preserved fleeing suspects as Garran requested, then shows little interest in the larger mystery and instead watches Garran while he secures and questions the prisoners. Garran notices the inconsistency with her claimed fascination with necromancy but does not know the reason for her attention.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -46,8 +46,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina and Garran kill the necromancer and break his raising, then discover his ledger and the tithe-pit lead.
 - S01: Their cooperation continues into teasing road conversation despite Garran rejecting Seraphina's explanation for her presence.
 - S01: They locate the tithe pit and observe a crew harvesting bones by lantern light.
-- S01: Garran challenges the workers; an armed overseer orders them to run and attacks Garran. At least one previously hidden fifth man also flees.
-- S01: Seraphina chases the fleeing men like prey and disables runners with precise nonlethal cuts, deliberately honoring Garran's instruction to stop rather than kill them.
+- S01: Garran challenges the workers; their armed overseer orders them to flee and attacks him.
+- S01: Seraphina chases the fleeing men like prey and disables them with precise nonlethal cuts, honoring Garran's instruction.
+- S01: With the immediate fight ending, Seraphina pays little attention to the emerging larger conspiracy and instead watches Garran handle the aftermath.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -57,6 +58,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows at least five people were present harvesting bones, including an armed overseer who recognized Garran's name and ordered the others to flee.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
+- Notices Seraphina is paying more attention to him than to the bone-harvesting mystery despite her claimed fascination with necromancy.
 - Does not fully accept Seraphina's explanations for her presence.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him.
