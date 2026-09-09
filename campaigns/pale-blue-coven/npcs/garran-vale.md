@@ -33,14 +33,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 37 / 100 — unchanged.
-- Affection: 30 / 100 — Seraphina again notices and comments on his physical condition after having insisted he eat and rest, reinforcing the pattern of personal concern he can observe even if he cannot know its source.
-- Respect: 52 / 100 — unchanged.
+- Affection: 32 / 100 — Seraphina openly frames her bossiness as a consequence of caring whether he is fit enough to survive and notice danger, strengthening the personal warmth Garran can observe beneath their practical partnership.
+- Respect: 53 / 100 — her reasoning is sound: exhaustion makes an investigator miss things, and she acted on that rather than merely complaining about it.
 - Loyalty: 12 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 55 / 100 — unchanged; he has no knowledge of her feeding while he slept.
+- Suspicion: 55 / 100 — unchanged; her concern does not answer the larger questions about who she is.
 
 ## Relationship to player
-**Wary.** Garran increasingly relies on Seraphina as a capable partner despite unresolved suspicion about her origins and abilities. He follows her to the observation position she selected, and her repeated attention to his wellbeing has become an observable personal pattern alongside their practical partnership.
+**Wary.** Garran increasingly relies on Seraphina as a capable partner despite unresolved suspicion about her origins and abilities. Her repeated practical concern for his wellbeing is now openly acknowledged between them through teasing, making the partnership increasingly personal without resolving his doubts about her.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -68,6 +68,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: After several hours of rest, Garran finds Seraphina in Bellwater's market district inspecting a pearlescent jewellery box while continuing her intermittent watch of Saint Orra's approaches. He is better rested and mostly cleaned of the previous night's grime.
 - S01: Seraphina reports that nothing suspicious occurred while Garran slept, but that she travelled every route she could find to Saint Orra's and learned the surrounding approaches and useful observation positions.
 - S01: Seraphina leads Garran to the best observation position she found and tells him, 'You look better.'
+- S01: Seraphina explains that if Garran is not at his best he will miss things, leaving him with 'a little bossy lady' telling him what to do.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -86,6 +87,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina offered to take the daylight street watch so he could sleep before the expected night surveillance, and that she remained on that task until he returned.
 - Knows Seraphina reports no suspicious Saint Orra activity during his sleep and says she used the daylight to travel every route she could find to the chapel, learning the approaches and useful observation positions.
 - Knows Seraphina again comments positively on his physical condition after his rest, following her earlier concern about his lack of sleep.
+- Knows Seraphina explicitly says her bossiness follows from the practical fact that an exhausted Garran will miss things and fail to operate at his best.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
