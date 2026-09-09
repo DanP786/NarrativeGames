@@ -19,7 +19,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 ## Short-term goals
 - Investigate the old tannery on Bellwater's east bank, which the overseer identified as a collection point for harvested remains.
 - Identify the organization or patron controlling the larger trade; the pit crew dealt through intermediaries and cannot name the ultimate master.
-- Follow evidence that the tannery was recently cleared and the surviving clue from its concealed floor compartment: a small waxed-cloth packet containing a tally slip marked with a split-bell seal and the notation 'Saint Orra — third bell.'
+- Follow the surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.' Saint Orra is associated in ordinary regional religious knowledge with burial and care of the unclaimed dead, but the notation's exact referent remains unknown.
 - Learn more about Seraphina now that she has followed him to the tannery; her unexplained abilities and motives remain unresolved.
 
 ## Long-term goals
@@ -33,14 +33,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 22 / 100 — unchanged.
-- Affection: 21 / 100 — Seraphina explicitly frames her remark about his appearance as concern for his wellbeing and notices that he has not slept; the personal concern lands despite his reserve.
+- Affection: 21 / 100 — unchanged.
 - Respect: 38 / 100 — unchanged.
 - Loyalty: 9 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 51 / 100 — unchanged; her concern does not answer the larger questions around her.
+- Suspicion: 51 / 100 — unchanged.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina are investigating the old tannery together. Seraphina crouches beside the opened concealed compartment and clarifies that her remark about his awful appearance was concern for his wellbeing because he has not slept. The admission adds an unexpectedly personal note to their increasingly familiar manner. The compartment contains a waxed-cloth packet overlooked during the tannery's clearing; inside is a tally slip marked with a split-bell seal and the words 'Saint Orra — third bell,' providing their next concrete lead.
+**Wary.** Garran and Seraphina are investigating the old tannery together. Seraphina has expressed concern that Garran has not slept. Their investigation has produced a tally slip marked with a split-bell seal and 'Saint Orra — third bell.' Seraphina says she is not well versed in saints; Garran knows Saint Orra as associated with burial and care of the unclaimed dead but does not yet know what the notation specifically indicates.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -57,6 +57,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina walks directly up to Garran, disregards what he was investigating, and bluntly tells him he looks awful.
 - S01: Seraphina says she did sleep, then surveys the tannery and asks whether there is any sign of the second buyer. Together they establish that the place appears recently cleared and identify a concealed floor compartment beneath a worktable.
 - S01: Seraphina crouches to inspect the compartment and tells Garran she was concerned for his wellbeing because he has not slept. They find a surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.'
+- S01: Seraphina says she is not well versed in saints. Garran identifies Saint Orra as associated with burial and the unclaimed dead, while the slip's precise meaning remains unresolved.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -65,6 +66,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains.
 - Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain.
 - Knows the concealed compartment contained a waxed-cloth packet with a tally slip marked by a split-bell seal and 'Saint Orra — third bell.'
+- Knows Saint Orra through ordinary regional religious knowledge as associated with burial and care of the unclaimed dead; does not yet know the slip's exact referent.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
