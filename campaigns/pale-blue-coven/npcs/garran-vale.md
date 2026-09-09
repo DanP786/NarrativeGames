@@ -18,8 +18,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Short-term goals
 - Identify the organization or patron controlling the larger trade in harvested human remains.
-- Determine who controls Saint Orra's covert rear-yard traffic without prematurely exposing the investigation or harming legitimate burial work.
-- Trace the split-bell-marked transport chain beyond Saint Orra's, potentially by surveillance of the rear gate, following future carts, examining the marked crate chain, or identifying authorized access through records and local authority.
+- Conduct discreet surveillance of Saint Orra's rear gate and follow the next covert cart or participant without prematurely exposing the investigation or harming legitimate burial work.
+- Inspect the approaches to Saint Orra's separately from Seraphina during daylight and choose concealed observation positions for an evening/night watch, avoiding the conspicuous sight of the knight and Seraphina together near the target.
 - Learn more about Seraphina; her unexplained abilities, motives, and evident competence at covert information gathering remain unresolved.
 
 ## Long-term goals
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 31 / 100 — Seraphina returns as promised and gives Garran a detailed, actionable report rather than withholding the results of her independent inquiry.
-- Affection: 24 / 100 — her continued voluntary return and cooperation registers personally, though the investigation remains foremost.
-- Respect: 48 / 100 — she independently identified Saint Orra's covert signal, infiltrated the site under a plausible pretext, found the matching split-bell mark, and distinguished evidence of criminal traffic from assumptions about legitimate staff.
-- Loyalty: 11 / 100 — shared danger and reliable investigative cooperation are beginning to create a practical bond.
+- Trust: 32 / 100 — Garran accepts Seraphina's recommendation on the next investigative step after her successful independent inquiry.
+- Affection: 24 / 100 — unchanged.
+- Respect: 49 / 100 — her preference for surveillance matches the need to preserve the lead and avoid harming potentially innocent burial staff.
+- Loyalty: 11 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 55 / 100 — her report proves unusual competence at deception, covert entry, and criminal-street information gathering, reinforcing unresolved questions about who she is even as her reliability improves.
+- Suspicion: 55 / 100 — unchanged; her usefulness and unexplained covert competence continue side by side.
 
 ## Relationship to player
-**Wary.** Garran now treats Seraphina as a proven and highly useful investigative ally while remaining uncertain about her origins and capabilities. She returned as promised and supplied strong evidence connecting Saint Orra's covert body traffic to the tannery, but the skill with which she obtained it adds to the unanswered questions surrounding her.
+**Wary.** Garran now treats Seraphina as a proven and highly useful investigative ally while remaining uncertain about her origins and capabilities. He accepts her recommendation to watch Saint Orra's rear gate and incorporates it into the investigation rather than treating her merely as an auxiliary.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -63,6 +63,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina tells Garran to get food and says she will find him when she has answers, then deliberately avoids potential informants who have seen her with him and slips into an alley to work alone.
 - S01: Garran obeys Seraphina's instruction to eat while she investigates independently. She later returns to him outside a Bellwater cookshop as promised.
 - S01: Seraphina reports her Saint Orra investigation in full: covert third-bell handbell signals, rear-gate cart traffic, a heavy delivery the previous night, processed human remains, and a crate bearing the tannery's split-bell mark. She also distinguishes the apparently legitimate public burial work from the covert operation rather than accusing all Saint Orra staff without evidence.
+- S01: Garran asks Seraphina's opinion on the next move. She recommends watching Saint Orra's rear gate, and he agrees to build the next phase around discreet surveillance.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -77,6 +78,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows from Seraphina that the rear service outbuilding contained processed human remains, including bones and dismembered parts with deliberate tool marks, and a transport crate bearing the split-bell emblem.
 - Knows Seraphina entered Saint Orra's under a false missing-servant story, secretly inspected the rear outbuilding while a burial keeper checked records, and left without exposing herself.
 - Knows Seraphina found evidence that Saint Orra's public intake operation genuinely functions, including an intact unidentified woman recorded in the legitimate ledger; therefore ordinary staff complicity is not yet established.
+- Knows Seraphina recommends watching Saint Orra's rear gate rather than immediately confronting the site or pursuing records first.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
