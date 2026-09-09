@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 18th day of Harvestwane, Year 612 of the Crown Reckoning
+- Date: 19th day of Harvestwane, Year 612 of the Crown Reckoning
 - Season: early autumn
-- Time of day: late deep night, moving toward the hours before dawn
+- Time of day: morning, after several hours of rest
 - Current location: The Pale Court
-- Notable upcoming: Seraphina has returned with the information Lady Yseld ordered her to gather: the necromancer is dead, his intended raising involved roughly two dozen corpses, the tithe pit supplied human remains, other men are involved in the corpse trade, and a mortal knight was hunting the necromancer. Yseld ordered Seraphina to report directly.
+- Notable upcoming: Lady Yseld has ordered Seraphina to accept the unnamed knight's invitation to continue helping him, learn who he is and what he knows, conceal the Pale Court and Seraphina's nature, never feed from him, and report threats to the coven before acting independently. Seraphina knows the knight is Sir Garran Vale but has concealed his identity from Yseld. Garran's established actionable lead is the old tannery on Bellwater's east bank.
