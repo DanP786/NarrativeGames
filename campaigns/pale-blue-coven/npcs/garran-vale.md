@@ -19,7 +19,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 ## Short-term goals
 - Investigate the old tannery on Bellwater's east bank, which the overseer identified as a collection point for harvested remains.
 - Identify the organization or patron controlling the larger trade; the pit crew dealt through intermediaries and cannot name the ultimate master.
-- Determine who has recently used or cleared the tannery and what evidence remains.
+- Follow evidence that the tannery was recently cleared rather than long abandoned: fresh scrape marks, bone dust, and a concealed floor compartment beneath a worktable.
 - Learn more about Seraphina now that she has followed him to the tannery; her unexplained abilities and motives remain unresolved.
 
 ## Long-term goals
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 21 / 100 — her established assistance remains meaningful.
-- Affection: 17 / 100 — Seraphina's immediate, familiar concern disguised as blunt teasing lands as unexpectedly personal after their night of danger.
-- Respect: 36 / 100 — unchanged.
+- Trust: 22 / 100 — Seraphina immediately turns her attention to the investigation and begins looking for the next lead rather than merely seeking his company.
+- Affection: 18 / 100 — her cheerful admission that she slept while he did not continues their increasingly familiar teasing.
+- Respect: 38 / 100 — she quickly notices physical evidence in the tannery that supports his conclusion that the site was recently cleared and helps focus attention on a concealed floor compartment.
 - Loyalty: 9 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 52 / 100 — unchanged; her unexplained abilities and motives remain unresolved.
+- Suspicion: 51 / 100 — her useful investigative behavior marginally offsets, but does not resolve, his broader questions about her.
 
 ## Relationship to player
-**Wary.** Garran has delivered the tithe-pit prisoners to lawful custody and reached the old tannery on Bellwater's east bank ahead of Seraphina. Seraphina follows him there, enters with conspicuous confidence, ignores his dry remark about her appearing at his next destination, walks directly up to him, and tells him, 'You look awful.' Garran remains suspicious of her unexplained abilities and motives, but their manner with one another is becoming more personally familiar.
+**Wary.** Garran and Seraphina are now investigating the old tannery together. Seraphina cheerfully confirms she slept after teasing him about his exhausted appearance, then asks about the second buyer while surveying the building. Garran has found no buyer waiting at the tannery; evidence instead suggests the collection point was recently cleared. Seraphina's observation helps identify fresh scrape marks, bone dust, and a concealed floor compartment beneath an old worktable.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -55,12 +55,14 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Garran thanks Seraphina and offers his hand. She declines physical contact and starts to leave. When teased about lurking near his next destination, she replies, 'A lady does not lurk,' and returns toward her coven.
 - S01: Garran delivers the captured tithe-pit crew to lawful custody and proceeds to the old tannery on Bellwater's east bank. Seraphina later follows him there and enters the building confidently.
 - S01: Seraphina walks directly up to Garran, disregards what he was investigating, and bluntly tells him he looks awful.
+- S01: Seraphina says she did sleep, then surveys the tannery and asks whether there is any sign of the second buyer. Together they establish that the place appears recently cleared and identify a concealed floor compartment beneath a worktable.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
 - Knows the necromancer has been killed and his raising disrupted.
 - Knows from the ledger that the intended force was roughly two dozen corpses and that an additional corpse source is called the 'tithe pit.'
 - Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains.
+- Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain, and a concealed floor compartment has been found beneath an old worktable.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
