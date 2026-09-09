@@ -15,7 +15,7 @@ Yseld appears to be a woman in her late thirties, broad-shouldered and severe, w
 - Dislikes waste and public disorder
 
 ## Short-term goals
-- Exploit Seraphina's invitation from the unnamed knight as a possible source of intelligence while limiting exposure to the Pale Court.
+- Exploit Seraphina's invitation from the unnamed knight as a source of intelligence while limiting exposure to the Pale Court.
 - Determine the identity, allegiance, competence, and current knowledge of the unnamed knight.
 - Clarify the next collection/buyer lead, which Seraphina calls 'Blackwell,' and how it relates to the tithe-pit corpse trade.
 - Determine whether the knight saw anything beyond Seraphina's dagger skill that could expose her vampiric nature.
@@ -31,15 +31,15 @@ Yseld appears to be a woman in her late thirties, broad-shouldered and severe, w
 - Last resort: destroy a fledgling she believes has become an uncontrollable existential threat to the coven.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 37 / 100 — Seraphina supplies useful new facts about the raised dead, the tithe pit, the continuing investigation, and voluntarily reports that the knight invited her to continue helping him.
+- Trust: 38 / 100 — Seraphina accepts the new intelligence-gathering order without argument.
 - Affection: 20 / 100 — unchanged.
-- Respect: 61 / 100 — Seraphina has penetrated farther into both the corpse operation and the mortal hunter's confidence than Yseld expected, creating a potentially valuable intelligence position.
-- Loyalty: 27 / 100 — reporting the invitation rather than concealing it gives Yseld an opportunity to direct how Seraphina uses the contact.
+- Respect: 61 / 100 — unchanged; Seraphina remains potentially valuable in the mortal hunter's confidence.
+- Loyalty: 29 / 100 — immediate obedience gives Yseld some confidence Seraphina will continue reporting rather than simply pursuing her own interest.
 - Fear: 5 / 100 — unchanged.
-- Suspicion: 75 / 100 — an unnamed knight inviting Seraphina to accompany his continuing investigation implies substantially more rapport and cooperation than Seraphina's earlier account suggested.
+- Suspicion: 75 / 100 — unchanged; obedience does not resolve the gaps in Seraphina's story.
 
 ## Relationship to player
-**Wary.** Seraphina reports that roughly eight corpses were active, with the knight having destroyed about half by the time she arrived; the investigation then led them to the tithe pit and onward toward a place she calls Blackwell and another buyer. Most importantly, Seraphina reveals that the knight invited her to continue helping him. Yseld sees both danger and opportunity: a mortal hunter who voluntarily keeps Seraphina close could provide intelligence, but the invitation confirms their interaction was more extensive than Seraphina initially implied.
+**Wary.** Yseld has ordered Seraphina to accept the unnamed knight's invitation and remain useful to him as an intelligence source. Seraphina answers, 'Yes ma'am,' without argument. Yseld expects her to learn who the knight is, what he hunts and knows, keep the Pale Court concealed, avoid feeding from him, and report threats before acting independently.
 
 ## History with player
 - Yseld participated in the Pale Court's destruction of Seraphina's village eighteen years ago.
@@ -51,6 +51,7 @@ Yseld appears to be a woman in her late thirties, broad-shouldered and severe, w
 - S01: Seraphina says she intended only to observe but intervened against a threat, killed the necromancer after he recognized her nature, admits the knight now knows her personally, and claims she did not catch his name.
 - S01: Seraphina says the knight knows her only as Sera, knows neither her home nor her nature, and knows she can fight with a dagger.
 - S01: Seraphina reports roughly eight corpses were active, the knight had destroyed about half before she arrived, the trail led them to the tithe pit and then toward 'Blackwell' and another buyer, and the knight invited her to help with the continuing investigation.
+- S01: Yseld orders Seraphina to accept the invitation, learn about the knight and his knowledge, conceal the Pale Court and her nature, avoid feeding from him, and report threats before deciding how to act. Seraphina agrees.
 
 ## Knowledge
 - Knows Seraphina has been making increasingly long excursions away from the Pale Court.
@@ -58,9 +59,7 @@ Yseld appears to be a woman in her late thirties, broad-shouldered and severe, w
 - Knows Seraphina reports roughly eight animated corpses were active and that the knight had destroyed about half before her arrival.
 - Knows the investigation led Seraphina and the knight together to the tithe pit, which Seraphina identifies as connected to the corpse supply.
 - Knows Seraphina says the continuing trail leads to a place she calls 'Blackwell' and another buyer; the exact nature/location of this lead remains to be clarified.
-- Knows the knight intends to continue following that lead.
-- Knows the knight invited Seraphina to continue helping him.
-- Knows Seraphina says she initially intended only to observe but intervened when there was a threat and killed the necromancer because he recognized what she was.
+- Knows the knight intends to continue following that lead and invited Seraphina to help him.
 - Believes, based on Seraphina's report, that the knight knows her only as 'Sera,' does not know where she lives, does not know she is a vampire, and knows she is skilled with a dagger.
 - Believes, based on Seraphina's report, that the knight's name is unknown to Seraphina; Yseld has no proof otherwise.
 - Does not know the knight is Sir Garran Vale.
