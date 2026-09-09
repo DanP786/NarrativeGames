@@ -1,6 +1,6 @@
 # Inventory
 
-- Pair of fighting daggers (one was thrown into the necromancer during the ruined-croft fight and is recoverable there; the other remains with Seraphina unless otherwise established)
+- Pair of fighting daggers (both recovered; one currently in Seraphina's hand after being taken from the dead necromancer's fingers)
 - Black leather clothing
 - Pale-blue coven fabrics and accessories
 - Small makeup kit with pigments and applicators
