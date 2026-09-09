@@ -4,7 +4,7 @@
 - Nature: human
 - Role: sworn knight and monster-hunter
 - Location: outside a modest Bellwater cookshop near the east-bank market lanes, reunited with Seraphina
-- Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
+- Relationship to Seraphina: Wary; increasingly proven investigative ally of uncertain origin
 
 ## Description, voice & mannerisms
 Not yet fully established in play. Seraphina knows him from prolonged observation as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tends to test the story with practical follow-up questions rather than accuse without proof. His humor, when it surfaces, is dry and understated. In questioning, he prefers concrete facts, controlled silence, and testing answers against known evidence rather than theatrical threats.
@@ -18,9 +18,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 
 ## Short-term goals
 - Identify the organization or patron controlling the larger trade in harvested human remains.
-- Follow the surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.' Saint Orra is associated in ordinary regional religious knowledge with burial and care of the unclaimed dead, but Garran does not yet know what Seraphina discovered while investigating it.
-- Hear Seraphina's report from her independent street inquiry and decide the next move from the evidence.
-- Learn more about Seraphina; her unexplained abilities, motives, and evident familiarity with discreet information gathering remain unresolved.
+- Determine who controls Saint Orra's covert rear-yard traffic without prematurely exposing the investigation or harming legitimate burial work.
+- Trace the split-bell-marked transport chain beyond Saint Orra's, potentially by surveillance of the rear gate, following future carts, examining the marked crate chain, or identifying authorized access through records and local authority.
+- Learn more about Seraphina; her unexplained abilities, motives, and evident competence at covert information gathering remain unresolved.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 26 / 100 — Seraphina returns as promised after working the Saint Orra lead independently.
-- Affection: 23 / 100 — unchanged.
-- Respect: 41 / 100 — unchanged pending the substance of her report.
-- Loyalty: 9 / 100 — unchanged.
+- Trust: 31 / 100 — Seraphina returns as promised and gives Garran a detailed, actionable report rather than withholding the results of her independent inquiry.
+- Affection: 24 / 100 — her continued voluntary return and cooperation registers personally, though the investigation remains foremost.
+- Respect: 48 / 100 — she independently identified Saint Orra's covert signal, infiltrated the site under a plausible pretext, found the matching split-bell mark, and distinguished evidence of criminal traffic from assumptions about legitimate staff.
+- Loyalty: 11 / 100 — shared danger and reliable investigative cooperation are beginning to create a practical bond.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 53 / 100 — unchanged; her return is consistent with her stated plan but does not resolve existing questions about her.
+- Suspicion: 55 / 100 — her report proves unusual competence at deception, covert entry, and criminal-street information gathering, reinforcing unresolved questions about who she is even as her reliability improves.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina have reunited in Bellwater after briefly separating so she could gather discreet information while he ate. Seraphina returns as promised. Garran is ready to hear what she learned and continues to treat her as a useful but unexplained ally.
+**Wary.** Garran now treats Seraphina as a proven and highly useful investigative ally while remaining uncertain about her origins and capabilities. She returned as promised and supplied strong evidence connecting Saint Orra's covert body traffic to the tannery, but the skill with which she obtained it adds to the unanswered questions surrounding her.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -62,6 +62,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: When Garran again jokes about lurking, Seraphina tuts, says, 'The lurking again?' and walks out, deliberately lowering her hood before stepping into direct morning sunlight.
 - S01: Seraphina tells Garran to get food and says she will find him when she has answers, then deliberately avoids potential informants who have seen her with him and slips into an alley to work alone.
 - S01: Garran obeys Seraphina's instruction to eat while she investigates independently. She later returns to him outside a Bellwater cookshop as promised.
+- S01: Seraphina reports her Saint Orra investigation in full: covert third-bell handbell signals, rear-gate cart traffic, a heavy delivery the previous night, processed human remains, and a crate bearing the tannery's split-bell mark. She also distinguishes the apparently legitimate public burial work from the covert operation rather than accusing all Saint Orra staff without evidence.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -70,11 +71,16 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains.
 - Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain.
 - Knows the concealed compartment contained a waxed-cloth packet with a tally slip marked by a split-bell seal and 'Saint Orra — third bell.'
-- Knows Saint Orra through ordinary regional religious knowledge as associated with burial and care of the unclaimed dead; does not yet know what Seraphina discovered there.
+- Knows Saint Orra's is a legitimate burial chapel and paupers' yard for unclaimed dead that also contains a covert rear-yard operation connected materially to the tannery by the same split-bell emblem.
+- Knows from Seraphina that a covert handbell is rung three times after public burial work on certain nights and covered carts then use Saint Orra's rear lane.
+- Knows from Seraphina that the most recent such activity was the previous night: a heavily laden cart arrived and departed riding higher.
+- Knows from Seraphina that the rear service outbuilding contained processed human remains, including bones and dismembered parts with deliberate tool marks, and a transport crate bearing the split-bell emblem.
+- Knows Seraphina entered Saint Orra's under a false missing-servant story, secretly inspected the rear outbuilding while a burial keeper checked records, and left without exposing herself.
+- Knows Seraphina found evidence that Saint Orra's public intake operation genuinely functions, including an intact unidentified woman recorded in the legitimate ledger; therefore ordinary staff complicity is not yet established.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
-- Knows Seraphina promised to find him when she had answers and has now returned as promised.
+- Knows Seraphina promised to find him when she had answers and returned as promised.
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
