@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: at a weathered crown/line/crosses boundary marker beside a descending woodland path north beyond the old gallows road, with Seraphina
+- Location: overlooking the tithe pit north beyond the old gallows road, with Seraphina immediately behind him
 - Relationship to Seraphina: Wary; newly introduced ally of uncertain origin
 
 ## Description, voice & mannerisms
@@ -17,9 +17,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Committed to hunting monsters
 
 ## Short-term goals
-- Investigate the descending woodland path marked with the same crown/line/crosses symbol as the necromancer's tithe-pit entries.
-- Determine the location and nature of the tithe pit.
-- Learn who Seraphina is and why she was at the croft; test her claim that curiosity about necromancy brought her there.
+- Identify the people currently working inside the tithe pit and determine whether they are connected to the dead necromancer.
+- Determine the full nature and scale of the tithe pit before committing to a fight.
+- Keep Seraphina close and coordinated if violence starts.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -30,38 +30,33 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 10 / 100 — Seraphina remains beside him and cooperative as they reach the marked path.
-- Affection: 7 / 100 — her playful challenge and conspicuous dagger flourish reinforce the personal banter developing between them.
-- Respect: 24 / 100 — her effortless knife handling reinforces the competence already demonstrated in combat.
-- Loyalty: 1 / 100 — their voluntary cooperation continues.
-- Fear: 5 / 100 — her speed remains concerning but no new supernatural evidence has appeared.
-- Suspicion: 46 / 100 — nothing in the exchange resolves the unanswered questions about her.
+- Trust: 11 / 100 — when an unknown lantern appears at the pit, Seraphina immediately takes position behind him rather than acting independently.
+- Affection: 7 / 100 — no new personal movement during the tense approach.
+- Respect: 24 / 100 — her established combat competence remains relevant.
+- Loyalty: 2 / 100 — Seraphina visibly treats Garran as the front of their two-person formation when danger appears.
+- Fear: 5 / 100 — no new supernatural evidence about Seraphina.
+- Suspicion: 45 / 100 — her cooperative tactical behavior marginally eases immediate concern without resolving her identity.
 
 ## Relationship to player
-**Wary.** Garran knows Seraphina by name and has fought beside her against the necromancer's dead. He has invited her to pursue the tithe-pit lead despite rejecting her explanation for being at the croft. Their exchanges have become teasing, and Garran has begun answering with restrained dry humor. At the marker matching the ledger's symbol, Seraphina chides him for making assumptions about a lady he has just met while casually flipping her dagger into a reverse grip along her forearm.
+**Wary.** Garran and Seraphina have voluntarily continued together from the ruined croft to the tithe pit. Their exchanges have become teasing, but danger has now returned: lights and human activity are visible inside the mass-burial trench. Seraphina steps directly behind Garran and peers around him with her dagger ready, tacitly accepting his lead for the moment.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
 - S01: Seraphina follows Garran to the necromancer's ruined croft and intervenes when the risen dead begin surrounding him.
-- S01: Seraphina kills a risen corpse approaching Garran from behind, revealing herself to him for the first time.
-- S01: Seraphina throws a dagger into the necromancer's upper body, disrupts his ritual, and takes Garran's concealed boot dagger while rushing the croft.
-- S01: Seraphina mortally wounds the necromancer, redirects Garran toward questioning him, and later finds and shares his ledger.
+- S01: Seraphina and Garran kill the necromancer and break his raising, then discover his ledger and the tithe-pit lead.
 - S01: Seraphina introduces herself as Seraphina/Sera and returns Garran's cleaned boot dagger.
-- S01: While clearing the remaining dead, Seraphina explains knowing his boot-knife location as recognition of a common hiding place.
-- S01: Asked why she was on the old gallows road, Seraphina claims a morbid fascination with necromancy; Garran tells her he does not believe her but does not treat her as an enemy.
-- S01: Garran invites Seraphina to pursue the tithe-pit lead with him; she beams and falls into step.
-- S01: Their road conversation becomes teasing. At a marker matching the ledger symbol, Seraphina tells Garran he is making many assumptions about a lady he just met and flips her dagger into a reverse grip along her forearm.
+- S01: Their cooperation continues into teasing road conversation despite Garran rejecting Seraphina's explanation for her presence.
+- S01: They locate a woodland marker matching the ledger symbol and descend to an enormous old burial trench containing hundreds of exposed bones.
+- S01: A lantern and metal-on-stone sounds reveal someone else is already at the pit. Seraphina immediately steps behind Garran, ready for a fight and peering around him.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
 - Knows the necromancer has been killed and his raising disrupted.
 - Knows from the ledger that the intended force was roughly two dozen corpses and that an additional corpse source is called the 'tithe pit.'
-- Has found a weathered roadside marker bearing the same crown/line/crosses symbol as the ledger beside a narrow descending woodland path.
-- Knows Seraphina is highly capable with a dagger and comfortable handling one with practiced flourishes.
-- Has heard Seraphina explain her discovery of his boot dagger as recognition of a common hiding place.
-- Has heard Seraphina claim curiosity or fascination with necromancy as her reason for coming to the area, and personal vanity as the reason for her fine dress.
-- Does not fully accept those explanations.
-- Knows Seraphina is conspicuously pleased to accompany him and comfortable teasing him.
+- Has now reached the tithe pit: an enormous old mass-burial trench containing hundreds of exposed bones.
+- Knows at least one unknown person is present at the pit at night; exact number and allegiance remain unconfirmed.
+- Knows Seraphina is highly capable with a dagger and has now seen her fall in behind him when an unknown threat appears.
+- Does not fully accept Seraphina's explanations for her presence.
 - Does not know Seraphina is a vampire.
 - Does not know Seraphina has been following him.
 - Does not know Seraphina's feelings for him.
