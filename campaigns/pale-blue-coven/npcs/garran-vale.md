@@ -19,7 +19,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 ## Short-term goals
 - Investigate the old tannery on Bellwater's east bank, which the overseer identified as a collection point for harvested remains.
 - Identify the organization or patron controlling the larger trade; the pit crew dealt through intermediaries and cannot name the ultimate master.
-- Follow evidence that the tannery was recently cleared rather than long abandoned: fresh scrape marks, bone dust, and a concealed floor compartment beneath a worktable.
+- Follow evidence that the tannery was recently cleared and the surviving clue from its concealed floor compartment: a small waxed-cloth packet containing a tally slip marked with a split-bell seal and the notation 'Saint Orra — third bell.'
 - Learn more about Seraphina now that she has followed him to the tannery; her unexplained abilities and motives remain unresolved.
 
 ## Long-term goals
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 22 / 100 — Seraphina immediately turns her attention to the investigation and begins looking for the next lead rather than merely seeking his company.
-- Affection: 18 / 100 — her cheerful admission that she slept while he did not continues their increasingly familiar teasing.
-- Respect: 38 / 100 — she quickly notices physical evidence in the tannery that supports his conclusion that the site was recently cleared and helps focus attention on a concealed floor compartment.
+- Trust: 22 / 100 — unchanged.
+- Affection: 21 / 100 — Seraphina explicitly frames her remark about his appearance as concern for his wellbeing and notices that he has not slept; the personal concern lands despite his reserve.
+- Respect: 38 / 100 — unchanged.
 - Loyalty: 9 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 51 / 100 — her useful investigative behavior marginally offsets, but does not resolve, his broader questions about her.
+- Suspicion: 51 / 100 — unchanged; her concern does not answer the larger questions around her.
 
 ## Relationship to player
-**Wary.** Garran and Seraphina are now investigating the old tannery together. Seraphina cheerfully confirms she slept after teasing him about his exhausted appearance, then asks about the second buyer while surveying the building. Garran has found no buyer waiting at the tannery; evidence instead suggests the collection point was recently cleared. Seraphina's observation helps identify fresh scrape marks, bone dust, and a concealed floor compartment beneath an old worktable.
+**Wary.** Garran and Seraphina are investigating the old tannery together. Seraphina crouches beside the opened concealed compartment and clarifies that her remark about his awful appearance was concern for his wellbeing because he has not slept. The admission adds an unexpectedly personal note to their increasingly familiar manner. The compartment contains a waxed-cloth packet overlooked during the tannery's clearing; inside is a tally slip marked with a split-bell seal and the words 'Saint Orra — third bell,' providing their next concrete lead.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -56,13 +56,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Garran delivers the captured tithe-pit crew to lawful custody and proceeds to the old tannery on Bellwater's east bank. Seraphina later follows him there and enters the building confidently.
 - S01: Seraphina walks directly up to Garran, disregards what he was investigating, and bluntly tells him he looks awful.
 - S01: Seraphina says she did sleep, then surveys the tannery and asks whether there is any sign of the second buyer. Together they establish that the place appears recently cleared and identify a concealed floor compartment beneath a worktable.
+- S01: Seraphina crouches to inspect the compartment and tells Garran she was concerned for his wellbeing because he has not slept. They find a surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.'
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
 - Knows the necromancer has been killed and his raising disrupted.
 - Knows from the ledger that the intended force was roughly two dozen corpses and that an additional corpse source is called the 'tithe pit.'
 - Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains.
-- Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain, and a concealed floor compartment has been found beneath an old worktable.
+- Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain.
+- Knows the concealed compartment contained a waxed-cloth packet with a tally slip marked by a split-bell seal and 'Saint Orra — third bell.'
 - Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
 - Knows Seraphina followed his instruction not to kill fleeing suspects.
 - Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
@@ -70,6 +72,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows her perimeter watch caught a wounded laborer attempting to reach a concealed knife beneath a cart.
 - Knows Seraphina declined his offered handshake before departing, but not why.
 - Knows Seraphina has now found him again at the old tannery after their joking exchange about her possibly appearing at his next destination.
+- Knows Seraphina says her remark about his awful appearance was concern for his wellbeing because he has not slept.
 - Does not know how she originally heard about him or why helping him mattered enough to risk herself.
 - Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
 - Does not know Seraphina is a vampire.
