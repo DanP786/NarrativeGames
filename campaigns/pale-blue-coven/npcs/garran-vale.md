@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: concealed beside Seraphina near the neglected walled yard beyond Bellwater
+- Location: inside the neglected walled yard beyond Bellwater with Seraphina, approaching the low stone building
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; actively relying on her discipline and night observation
 
 ## Description, voice & mannerisms
@@ -17,10 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Let the Saint Orra cart driver depart without exposing the surveillance.
-- Find and identify the seventh load described as fresh and whole when loaded.
-- Determine what lies below or through the low stone building and whether the fresh body is still intact or poses an immediate supernatural threat.
-- Avoid premature intervention until the driver is clear and the two remaining workers can be handled without losing the larger lead.
+- Locate the seventh load described as fresh and whole when loaded.
+- Determine what lies below the low stone building and whether the fresh body is still intact or poses an immediate supernatural threat.
+- Enter without alerting the two known workers if possible.
+- Keep Seraphina with him during the infiltration rather than sending her below alone.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
@@ -33,15 +33,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 33 / 100 — Seraphina continues holding position and follows the plan despite the disturbing discovery of a fresh whole body among the loads.
+- Trust: 34 / 100 — Seraphina follows Garran into the yard exactly as agreed and maintains disciplined concealment.
 - Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the work.
-- Respect: 77 / 100 — her restraint under a potentially urgent discovery reinforces her field discipline.
-- Loyalty: 11 / 100 — she remains with Garran and the shared objective rather than acting independently.
-- Fear: 50 / 100 — unchanged; no new immediate threat from Seraphina.
-- Suspicion: 77 / 100 — unchanged regarding her unresolved personal secrets.
+- Respect: 78 / 100 — her movement is quiet enough that Garran briefly has to check that she remains behind him.
+- Loyalty: 12 / 100 — she continues into danger beside him rather than separating or fleeing.
+- Fear: 50 / 100 — unchanged; her supernatural capability remains striking but is being used in support of their shared objective.
+- Suspicion: 77 / 100 — unchanged regarding unresolved personal secrets.
 
 ## Relationship to player
-**Hostile uncertainty under effective cooperation.** Seraphina remains silent and disciplined after she and Garran learn that one of seven delivered loads was described as fresh and whole when loaded. Garran intends to let the driver leave and then investigate the seventh load with Seraphina rather than send her alone.
+**Hostile uncertainty under effective cooperation.** Seraphina follows Garran into the walled yard so silently that he briefly checks that she is still behind him. They enter together and move toward the cellar-level hatch while the two known workers remain somewhere inside the building.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -59,7 +59,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina successfully shadows the cart away from Bellwater while Garran follows behind.
 - S01: Seraphina follows the cart to a neglected walled yard and discovers crates being unloaded into a low stone building.
 - S01: Seraphina confirms to Garran that the one crate she saw inside contained bones, while making clear she did not see inside the others.
-- S01: Seraphina and Garran overhear that seven loads were delivered: six bone and one fresh, the latter described as whole when loaded. They remain concealed and intend to investigate after the driver leaves.
+- S01: Seraphina and Garran overhear that seven loads were delivered: six bone and one fresh, the latter described as whole when loaded.
+- S01: After the driver departs, Seraphina follows Garran through the wall breach and into the yard without detection.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -74,11 +75,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina ran because she expects Garran, as a monster-hunter, to kill her and that she still believes he may do so.
 - Knows Seraphina repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
 - Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
-- Knows the heavily laden covered cart departed Saint Orra after the three-bell signal and travelled without a lantern along less-travelled roads.
-- Knows the cart reached a neglected walled yard containing a low stone building.
-- Knows three humans have been visible in the yard and that the building has a cellar-level opening or loading hatch near its rear wall.
+- Knows the Saint Orra cart reached this neglected walled yard and delivered seven loads.
 - Knows one opened crate contained cleaned human bones.
-- Knows from overheard conversation that seven loads were delivered: six described as bone and one as fresh; the driver said the fresh one was whole when loaded.
+- Knows from overheard conversation that six loads were described as bone and one as fresh; the driver said the fresh one was whole when loaded.
+- Knows two workers remain somewhere inside the low stone building and that movement can be heard below ground near the cellar-level loading hatch.
 - Does not know whether fresh means a corpse, living captive, or something else, nor its present condition.
 - Does not know the occupants' identities or whether this is the final destination.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
