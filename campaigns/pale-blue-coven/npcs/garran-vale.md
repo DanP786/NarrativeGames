@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: neglected yard outside the Bellwater corpse-processing site, facing Seraphina after securing the prisoners below
-- Relationship to Seraphina: Hostile uncertainty under painful moral conflict; Garran now knows she fed from both a helpless captive and the man who sexually attacked her, while her repeated restraint, cooperation, vulnerability, and willingness to submit herself to his judgment prevent a simple verdict
+- Location: neglected yard outside the Bellwater corpse-processing site as Seraphina departs
+- Relationship to Seraphina: Hostile uncertainty under painful moral conflict; Garran has chosen neither to kill nor imprison her tonight, but his oath and unanswered questions remain unresolved
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,8 +17,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Decide what immediate course to take with Seraphina now that the Bellwater prisoners are secured and she is openly waiting for his judgment.
-- Preserve the captured men for later questioning or lawful custody rather than killing them unnecessarily.
+- Arrange custody or later handling of the surviving Bellwater prisoners and evidence.
 - Determine the limits Seraphina places on feeding from humans and whether her stated restraint can be relied upon under pressure.
 - Determine how much Seraphina took from the dead swordsman and whether feeding materially contributed to his death.
 - Avoid collapsing Seraphina's response to attempted sexual violence into a purely abstract monster-hunting judgment while still taking her feeding seriously.
@@ -36,15 +35,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 40 / 100 — slight increase because Seraphina remains in the yard waiting rather than using the separation to flee.
-- Affection: 60 / 100 — slight increase from seeing her cleaned, wounded, solemn, and apparently braced for his judgment after the night's violence.
-- Respect: 88 / 100 — slight increase because she again submits herself to the consequences rather than evading them.
-- Loyalty: 29 / 100 — slight increase because she continues to stay when departure remains physically possible.
+- Trust: 40 / 100 — unchanged.
+- Affection: 59 / 100 — slight decrease as Seraphina leaves angry and without reply, creating emotional distance without erasing Garran's concern.
+- Respect: 88 / 100 — unchanged; she accepts his decision and leaves without violence or evasion.
+- Loyalty: 29 / 100 — unchanged.
 - Fear: 55 / 100 — unchanged.
-- Suspicion: 82 / 100 — unchanged; the extent and consequence of the swordsman feeding remain unresolved.
+- Suspicion: 82 / 100 — unchanged; major questions remain unresolved.
 
 ## Relationship to player
-**Hostile uncertainty at the point of judgment.** With the prisoners secured, Seraphina stands before Garran in the yard, eyes lowered and face solemn, waiting for whatever he decides. She remains armed but keeps both daggers sheathed and has not used repeated opportunities to flee. Garran's oath, the confirmed human feeding, her restraint, her protection of lives, the sexual violence she survived, and her declared love now press against one another without an easy resolution.
+**Hostile uncertainty under separation.** Garran has decided not to kill or imprison Seraphina tonight and explicitly permits her to go home, while warning that the matter between them is unfinished. Seraphina sets her jaw, says nothing, and walks away without looking back. Their immediate cooperation at Bellwater ends with neither reconciliation nor violence: Garran has spared her for now, but his oath and his unanswered questions about her feeding remain active.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -89,6 +88,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: When Garran asks how much she took, Seraphina folds her arms and answers, "Enough to heal, to catch that bastard," confirming the feeding was a deliberate tactical measure to recover enough to pursue the fugitive.
 - S01: Seraphina confirms the fresh blood Garran saw on her mouth in the yard belonged to the swordsman. She angrily says she cannot change her nature, challenges whether Garran would rather have had her dying or too weak to stop the man's sexual assault, then says she will wait outside and turns to leave.
 - S01: After Garran finishes securing the prisoners and comes outside, Seraphina stands before him with her eyes lowered and expression solemn, silently waiting for his verdict rather than fleeing.
+- S01: Garran decides he will neither kill nor imprison Seraphina tonight and permits her to go home, while stating the matter between them is unfinished. Seraphina sets her jaw and walks away without looking back.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
