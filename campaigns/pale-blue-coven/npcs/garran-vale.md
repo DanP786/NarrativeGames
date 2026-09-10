@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: concealed observation position overlooking Saint Orra's rear service lane; close to Seraphina at the wall after the immediate physical struggle has eased
-- Relationship to Seraphina: Hostile uncertainty; immediate violence is receding, but his oath and her feeding remain unresolved
+- Location: moving with Seraphina to observe Saint Orra's rear service approach after the three-bell signal
+- Relationship to Seraphina: Hostile uncertainty; immediate violence has receded enough for them to resume working together, but his oath and her feeding remain unresolved
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,11 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Keep the confrontation from returning to unnecessary violence while remaining alert to Seraphina's speed.
-- Resolve what his oath requires when Seraphina plainly expects execution for her nature despite repeatedly refusing to harm him.
-- Separate judgment of Seraphina's vampirism from judgment of her actual conduct without excusing her attacks on humans.
-- Eventually establish the remaining facts about the sober laborer and Seraphina's feeding.
-- Maintain awareness of the Saint Orra surveillance objective while the personal confrontation unfolds.
+- Observe and identify the activity triggered by Saint Orra's three-bell signal.
+- Work with Seraphina against the Saint Orra operation without forgetting the unresolved danger and moral questions between them.
+- Prevent the personal confrontation from compromising the surveillance objective.
+- Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -33,33 +32,29 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 21 / 100 — Seraphina remains still and unarmed after the restraint eases rather than exploiting the moment to flee or attack.
-- Affection: 34 / 100 — her visible worry and sadness after expecting death deepen the personal difficulty of his judgment.
-- Respect: 65 / 100 — unchanged; her continued restraint remains significant.
-- Loyalty: 3 / 100 — unchanged.
-- Fear: 56 / 100 — immediate threat continues to recede as she remains passive.
-- Suspicion: 84 / 100 — major unanswered questions remain, but her present behavior is increasingly legible as fear rather than predatory maneuvering.
+- Trust: 23 / 100 — after being given an opening, Seraphina chooses to fall into step with him rather than flee.
+- Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the resumed work.
+- Respect: 67 / 100 — she returns immediately to the dangerous shared objective despite what just happened between them.
+- Loyalty: 5 / 100 — limited and situational, but she chooses continued cooperation when she could attempt escape again.
+- Fear: 55 / 100 — she remains dangerous, but her conduct continues to show restraint.
+- Suspicion: 83 / 100 — unresolved questions remain, though her willingness to resume the mission is evidence against immediate betrayal.
 
 ## Relationship to player
-**Hostile uncertainty, immediate violence receding.** Seraphina sags against the wall after the confrontation, hands lowered behind her and expression worried and sad. She neither reaches for her weapons nor tries to run again. Garran remains wary, but the immediate question is shifting away from self-defense and toward the harder judgment of what her admitted predation, demonstrated restraint, and attachment to him mean for his oath.
+**Hostile uncertainty under renewed cooperation.** Three slow bell strokes from Saint Orra interrupt the aftermath of the confrontation. Seraphina hugs her recovered cloak to herself and silently falls into step with Garran when he returns to the surveillance objective. Their personal conflict is unresolved, but they are again acting as partners against the Saint Orra operation.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
 - S01: Seraphina follows Garran to the necromancer's ruined croft and intervenes when the risen dead begin surrounding him.
 - S01: Seraphina and Garran kill the necromancer and break his raising, then discover his ledger and the tithe-pit lead.
 - S01: Their cooperation continues through the tithe-pit investigation, where Seraphina obeys Garran's demand for restraint and protects him and the prisoners.
-- S01: Seraphina repeatedly expresses concern for Garran's wellbeing, tells him to eat and sleep, and takes over the daylight watch while he rests.
 - S01: Seraphina independently exposes Saint Orra's covert body-processing operation and returns to Garran as promised.
 - S01: Garran identifies Seraphina as a vampire and draws his sword.
 - S01: Seraphina says, 'Because I love you,' refuses to betray her coven, and reveals she followed Garran for roughly a year before their direct meeting.
 - S01: Seraphina says she wanted nothing except to know Garran was safe.
-- S01: Seraphina says she feeds mostly on drunks and men who are rough with women and that her victims live.
-- S01: She admits feeding on a sober laborer while Garran slept and says he was alive afterward.
-- S01: Seraphina bolts; Garran catches her cloak. She releases it and continues running, but Garran catches her by the hair and hauls her back. She does not draw her weapons.
-- S01: Garran pins Seraphina against the wall with his forearm across her throat. With tears streaming down her cheeks, she asks, 'Would that make it easier to kill me? If I fought you?'
-- S01: Asked why she ran, Seraphina answers, 'You kill monsters like me, of course I ran.'
-- S01: Asked whether she still believes Garran will kill her, Seraphina looks at his sword and then his eyes, keeps her hands away from her weapons, and answers, 'Yes.'
-- S01: As the immediate violence eases, Seraphina sags against the wall and looks at Garran with worry and sadness rather than fleeing or arming herself.
+- S01: Seraphina admits feeding on humans, including a sober laborer while Garran slept, and says her victims live.
+- S01: Seraphina bolts; Garran catches and physically restrains her, but she repeatedly refuses to draw her weapons or attack him.
+- S01: Seraphina explains that she ran because Garran kills monsters like her and admits she still expects he may kill her.
+- S01: Three slow bell strokes sound from Saint Orra. Garran turns back to the surveillance objective; Seraphina hugs her cloak to herself and silently falls into step with him.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -72,7 +67,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina fed on a sober laborer while Garran slept earlier on the 19th of Harvestwane and says the man was alive afterward.
 - Does not know why she selected him, exactly how much blood she took, or the precise condition in which she left him.
 - Knows Seraphina ran because she expects Garran, as a monster-hunter, to kill her and that she still believes he may do so.
-- Knows Seraphina has repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
+- Knows Seraphina repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
+- Knows that after the three-bell signal she chose to resume working beside him rather than attempt another escape.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
