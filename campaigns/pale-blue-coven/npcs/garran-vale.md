@@ -17,10 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Keep the wounded armed man fully secured while watching for an attack from deeper in the tunnels.
-- Keep Seraphina from immediately pursuing while she remains visibly disoriented from the head impact and strangling.
+- Keep the wounded armed man fully secured while watching the prepared position deeper in the tunnels.
+- Keep Seraphina from immediately pursuing while she remains visibly affected by the head impact and strangling, despite her claim to be able to see.
 - Secure the wounded fugitive and account for the remaining cellar prisoner.
-- Stop anyone deeper below from escaping or destroying evidence.
+- Find a way past or around the low wooden obstruction without charging blindly into the concealed defender.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
@@ -34,15 +34,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 40 / 100 — Seraphina heeds the immediate need not to charge blindly after the next threat and instead watches the passage from the wall.
-- Affection: 40 / 100 — concern remains active while she is injured and disoriented.
-- Respect: 84 / 100 — unchanged.
+- Trust: 40 / 100 — Seraphina provides useful low-light tactical information, though Garran doubts she is fully recovered.
+- Affection: 41 / 100 — her attempt to remain useful while visibly hurt increases his concern rather than reassuring him.
+- Respect: 85 / 100 — despite impaired vision, she extracts actionable detail from darkness Garran cannot penetrate.
 - Loyalty: 18 / 100 — unchanged.
 - Fear: 48 / 100 — unchanged.
-- Suspicion: 74 / 100 — her continued practical cooperation marginally reduces immediate operational suspicion without resolving deeper secrets.
+- Suspicion: 75 / 100 — Garran suspects she is concealing the severity of her current impairment, offsetting the operational trust gained from her report.
 
 ## Relationship to player
-**Hostile uncertainty under increasingly effective tactical cooperation, with visible concern for Seraphina's safety.** Injured and disoriented, Seraphina sits against the wall and watches the deeper passage rather than charging after the new movement. Garran remains focused on both the tunnel threat and keeping her from worsening her condition.
+**Hostile uncertainty under increasingly effective tactical cooperation, with visible concern for Seraphina's safety.** Seraphina gives Garran useful information from darkness his human eyes cannot read, but he is not convinced by her attempt to present herself as fully recovered.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -68,6 +68,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina wounds the fugitive behind the knee, leaps from him into the armed lantern-bearer, and is then pinned beneath the larger man after their collision.
 - S01: Garran reaches the chamber, tears the attacker off Seraphina while she is choking, and takes over the immediate fight as she rolls clear coughing and disoriented.
 - S01: Seraphina detects further movement deeper below, then remains seated against the wall watching the passage rather than pursuing while injured.
+- S01: Seraphina conceals that her vision remains blurred and gives Garran the low-light details she can still reliably distinguish: a left bend, a low wooden obstruction, and at least one human defender keeping low behind it.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -92,7 +93,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows one additional man went through the deeper passage earlier and had not returned before the escape.
 - Knows the escaped worker shouted a warning into the tunnels and was then wounded behind the knee by Seraphina's thrown dagger.
 - Knows Seraphina took a hard blow to the head against stone, staggered, pursued anyway, and was subsequently pinned and strangled by a larger armed man until Garran pulled him off her.
-- Knows Seraphina has now seen further human movement beyond the next bend and is watching it while remaining seated due to her injuries.
+- Knows Seraphina can distinguish more in deep darkness than he can and has reported a low wooden obstruction and at least one concealed defender around the next bend.
+- Suspects Seraphina is understating or concealing the severity of her current visual impairment.
 - Does not know the dead man's identity, cause of death, Master Hadrik's full identity or location, the ultimate purpose of the processed remains, or what lies farther into the burial tunnels.
 - Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
