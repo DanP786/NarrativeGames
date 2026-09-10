@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: advancing into the deeper burial passage beneath the Bellwater processing site to deal with the crossbow defender
+- Location: neglected walled yard beyond Bellwater, kneeling near Seraphina after returning from the burial works
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is unmistakable in crisis
 
 ## Description, voice & mannerisms
@@ -17,11 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Neutralize and, if feasible, take the crossbow defender alive as Seraphina requested.
-- Return to Seraphina as soon as the prepared firing position is secured.
-- Regain full control of the wounded prisoners, whose security has been compromised by the active threat.
-- Determine how badly Seraphina is wounded after she pulled the bolt from her own side and packed the wound with her cloak.
+- Determine how badly Seraphina is wounded and what happened in the yard after she pursued the escaped swordsman.
+- Regain full control of the remaining living prisoners.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
+- Establish what happened with the crossbow defender after his advance through the burial passage.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
@@ -42,7 +41,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Suspicion: 76 / 100 — unchanged.
 
 ## Relationship to player
-**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Garran has moved farther into the passage to neutralize the prepared crossbow position, leaving badly wounded Seraphina behind cover for the moment. He intends to return once the immediate ranged threat is controlled.
+**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Garran has returned from the deeper burial passage and found Seraphina alive but bloodied beside the dead escaped swordsman. He is concerned for her condition and immediately suspicious of the unexplained scene, but the larger Bellwater threat remains active.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -72,9 +71,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina later forces herself upright, leans heavily on the wall, and takes a step toward the prepared passage despite still being visibly unsteady.
 - S01: The concealed defender fires a crossbow bolt into Seraphina's side, dropping her in the passage with the bolt still embedded.
 - S01: Seraphina tells Garran to take the hostile men prisoner and leave her. Garran refuses to leave her exposed, pulls her toward cover, and continues against the threat.
-- S01: Seraphina tears the embedded crossbow bolt from her own side, screams from the pain, rolls facedown to muffle herself, and packs the wound with her cloak while retaining her dagger.
-- S01: Tears stream down Seraphina's face and her whole body shakes, but she suppresses further cries while holding pressure on the wound.
+- S01: Seraphina tears the embedded crossbow bolt from her own side, screams, and packs the wound with her cloak.
 - S01: Garran advances farther into the passage to deal with the crossbow position, temporarily leaving Seraphina behind cover with the wounded prisoners.
+- S01: Garran later returns through the cellar and reaches the rear yard, where he finds Seraphina lying beside the dead escaped swordsman. Seraphina says the man ran and she chased him, then immediately asks about the archer rather than explaining the rest of the scene.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -103,11 +102,13 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina substantially understated her impairment before advancing.
 - Knows the concealed defender struck Seraphina in the side with a crossbow bolt.
 - Knows that even after being struck, Seraphina explicitly prioritized taking the hostile men prisoner and told Garran to leave her rather than abandon the objective.
-- Knows Seraphina deliberately removed the crossbow bolt herself and packed the resulting wound with her cloak, suggesting she believes removal is necessary despite the bleeding.
-- Knows the wound remains extremely painful despite whatever unnatural resilience she possesses; she shakes violently and cries while trying to suppress any sound.
-- Does not yet understand the speed, limits, or requirements of Seraphina's vampiric healing.
-- Does not know the dead man's identity, cause of death, Master Hadrik's full identity or location, the ultimate purpose of the processed remains, or what lies farther into the burial tunnels.
-- Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
+- Knows Seraphina deliberately removed the crossbow bolt herself and packed the resulting wound with her cloak.
+- Knows Seraphina later pursued the escaped swordsman into the yard and that the man is now dead beside her.
+- Can see evidence of a violent close struggle in the yard, Seraphina's bloodied condition, and blood around her mouth, but does not yet know exactly what occurred.
+- Does not know Seraphina briefly fed from the bound cellar worker.
+- Does not know Seraphina drank her fill from the dying swordsman.
+- Does not know the swordsman attempted to sexually assault Seraphina.
+- Does not know an unidentified rival vampire entered the yard, offered Seraphina his blood and a change of allegiance, learned she belongs to the Pale Court, and then departed.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
 - Does not yet know with certainty that Seraphina's declaration of love is sincere.
