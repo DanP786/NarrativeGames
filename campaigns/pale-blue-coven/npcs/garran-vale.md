@@ -20,7 +20,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Identify the organization or patron controlling the larger trade in harvested human remains.
 - Maintain discreet surveillance from the position Seraphina identified overlooking Saint Orra's rear approach.
 - Follow the next covert cart or participant after the three-bell signal without prematurely exposing the investigation.
-- Determine whether Seraphina is herself sworn or otherwise committed to fighting monsters, and learn more about the source of her unusual competence and motives.
+- Learn what Seraphina means when she says she fights monsters while carefully avoiding saying she is sworn to do so, and determine the source of her unusual competence and motives.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -32,15 +32,15 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 38 / 100 — Seraphina gives a coherent reason for valuing his safety that fits her actions, even if it does not fully explain her personal investment.
-- Affection: 34 / 100 — being told plainly that his work matters and that people are safer because he is alive lands as sincere personal regard.
-- Respect: 54 / 100 — Garran explicitly recognizes that Seraphina's own actions have made people safer as well.
+- Trust: 38 / 100 — unchanged; her statement is plausible but incomplete.
+- Affection: 34 / 100 — unchanged.
+- Respect: 55 / 100 — her admission that she fights monsters fits the competence Garran has witnessed and gives him another reason to take her seriously.
 - Loyalty: 12 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 56 / 100 — her answer still leaves unexplained why she possesses the skills and willingness to enter monster fights, prompting him to ask whether she has an oath of her own.
+- Suspicion: 59 / 100 — Garran asked whether she was sworn; Seraphina answered that she fights monsters, a precise distinction that leaves the oath, allegiance, and origin of her training unanswered.
 
 ## Relationship to player
-**Wary.** Garran increasingly relies on Seraphina and now openly credits her with protecting others, but her origins and the source of her unusual competence remain unresolved. Her statement that people are safer with him around deepens the personal regard between them while prompting him to test whether they share a formal commitment to fighting monsters.
+**Wary.** Garran increasingly relies on Seraphina and recognizes that she has experience fighting monsters, but her careful refusal to say whether she is sworn to that work sharpens his questions about her allegiance and background.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -70,6 +70,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina leads Garran to the best observation position she found and tells him, 'You look better.'
 - S01: Seraphina explains that if Garran is not at his best he will miss things, leaving him with 'a little bossy lady' telling him what to do.
 - S01: Asked why his safety mattered to her, Seraphina says Garran's work is important and people are safer with him around. Garran points out that her own actions have also made people safer and asks whether she too is sworn to fight monsters.
+- S01: Seraphina answers, 'I fight monsters, yes,' without saying that she is sworn to do so.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -90,7 +91,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina again comments positively on his physical condition after his rest, following her earlier concern about his lack of sleep.
 - Knows Seraphina explicitly says her bossiness follows from the practical fact that an exhausted Garran will miss things and fail to operate at his best.
 - Knows Seraphina says his work is important and that people are safer with him around.
-- Recognizes from direct experience that Seraphina's own fighting and restraint have protected people, and has asked whether she is sworn to fight monsters as well.
+- Recognizes from direct experience that Seraphina's own fighting and restraint have protected people.
+- Knows Seraphina says, 'I fight monsters, yes,' but did not answer whether she is sworn to a lord, church, order, or other cause to do so.
+- Does not know what kinds of monsters Seraphina has fought before their meeting or under what circumstances.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
@@ -105,6 +108,6 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Does not know how she originally heard about him or why helping him mattered enough to risk herself beyond her stated belief that his work makes people safer.
 - Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
 - Does not know Seraphina fed on a warehouse laborer while he slept.
-- Does not know Seraphina is a vampire.
+- Does not know Seraphina is a vampire or belongs to the Pale Court.
 - Does not know Seraphina has been following him since before their first direct meeting.
 - Does not know Seraphina's feelings for him.
