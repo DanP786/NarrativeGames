@@ -20,27 +20,27 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Identify the organization or patron controlling the larger trade in harvested human remains.
 - Maintain discreet surveillance from the position Seraphina identified overlooking Saint Orra's rear approach.
 - Follow the next covert cart or participant after the three-bell signal without prematurely exposing the investigation.
-- Learn more about Seraphina; her unexplained abilities, motives, and evident competence at covert information gathering remain unresolved.
+- Determine whether Seraphina is herself sworn or otherwise committed to fighting monsters, and learn more about the source of her unusual competence and motives.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
 
 ## Methods & lines
 - In immediate danger, gives short practical commands and prioritizes the active threat.
-- When an explanation seems incomplete, tests it with concrete follow-up questions rather than immediately accusing without proof.
+- When an explanation seems incomplete, tests it with concrete follow-up questions rather than immediately accusing without evidence.
 - In interrogation, uses specific questions, known evidence, and uncomfortable silence before escalating force.
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 37 / 100 — unchanged.
-- Affection: 32 / 100 — Seraphina openly frames her bossiness as a consequence of caring whether he is fit enough to survive and notice danger, strengthening the personal warmth Garran can observe beneath their practical partnership.
-- Respect: 53 / 100 — her reasoning is sound: exhaustion makes an investigator miss things, and she acted on that rather than merely complaining about it.
+- Trust: 38 / 100 — Seraphina gives a coherent reason for valuing his safety that fits her actions, even if it does not fully explain her personal investment.
+- Affection: 34 / 100 — being told plainly that his work matters and that people are safer because he is alive lands as sincere personal regard.
+- Respect: 54 / 100 — Garran explicitly recognizes that Seraphina's own actions have made people safer as well.
 - Loyalty: 12 / 100 — unchanged.
 - Fear: 10 / 100 — unchanged.
-- Suspicion: 55 / 100 — unchanged; her concern does not answer the larger questions about who she is.
+- Suspicion: 56 / 100 — her answer still leaves unexplained why she possesses the skills and willingness to enter monster fights, prompting him to ask whether she has an oath of her own.
 
 ## Relationship to player
-**Wary.** Garran increasingly relies on Seraphina as a capable partner despite unresolved suspicion about her origins and abilities. Her repeated practical concern for his wellbeing is now openly acknowledged between them through teasing, making the partnership increasingly personal without resolving his doubts about her.
+**Wary.** Garran increasingly relies on Seraphina and now openly credits her with protecting others, but her origins and the source of her unusual competence remain unresolved. Her statement that people are safer with him around deepens the personal regard between them while prompting him to test whether they share a formal commitment to fighting monsters.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
@@ -69,6 +69,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina reports that nothing suspicious occurred while Garran slept, but that she travelled every route she could find to Saint Orra's and learned the surrounding approaches and useful observation positions.
 - S01: Seraphina leads Garran to the best observation position she found and tells him, 'You look better.'
 - S01: Seraphina explains that if Garran is not at his best he will miss things, leaving him with 'a little bossy lady' telling him what to do.
+- S01: Asked why his safety mattered to her, Seraphina says Garran's work is important and people are safer with him around. Garran points out that her own actions have also made people safer and asks whether she too is sworn to fight monsters.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
@@ -88,6 +89,8 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows Seraphina reports no suspicious Saint Orra activity during his sleep and says she used the daylight to travel every route she could find to the chapel, learning the approaches and useful observation positions.
 - Knows Seraphina again comments positively on his physical condition after his rest, following her earlier concern about his lack of sleep.
 - Knows Seraphina explicitly says her bossiness follows from the practical fact that an exhausted Garran will miss things and fail to operate at his best.
+- Knows Seraphina says his work is important and that people are safer with him around.
+- Recognizes from direct experience that Seraphina's own fighting and restraint have protected people, and has asked whether she is sworn to fight monsters as well.
 - Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
 - Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
 - Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
@@ -99,7 +102,7 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Knows her perimeter watch caught a wounded laborer attempting to reach a concealed knife beneath a cart.
 - Knows Seraphina declined his offered handshake before departing, but not why.
 - Knows Seraphina says her remark about his awful appearance was concern for his wellbeing because he has not slept.
-- Does not know how she originally heard about him or why helping him mattered enough to risk herself.
+- Does not know how she originally heard about him or why helping him mattered enough to risk herself beyond her stated belief that his work makes people safer.
 - Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
 - Does not know Seraphina fed on a warehouse laborer while he slept.
 - Does not know Seraphina is a vampire.
