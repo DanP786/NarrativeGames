@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: on the cellar stair beneath the low stone building beyond Bellwater, with Seraphina
-- Relationship to Seraphina: Hostile uncertainty under effective cooperation; actively relying on her discipline and night observation
+- Location: cellar beneath the low stone building beyond Bellwater, with Seraphina and two subdued workers
+- Relationship to Seraphina: Hostile uncertainty under effective cooperation; increasingly proven tactical partnership despite unresolved mortal danger between them
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,10 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Quietly control or disable the two workers before they can raise an alarm or reach the deeper passage.
-- Preserve evidence in the cellar and identify the recently dead seventh body if possible.
-- Investigate the deeper passage after the immediate human threat is controlled.
-- Keep Seraphina with him during the infiltration.
+- Keep both workers alive and silent long enough to question them.
+- Determine who controls the operation, what the remains are for, and what lies through the deeper passage.
+- Preserve evidence and identify the recently dead seventh body if possible.
+- Keep Seraphina with him while securing the cellar and investigating deeper.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
@@ -33,15 +33,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 36 / 100 — Seraphina remains close and controlled during the descent, following Garran's lead without exposing them.
+- Trust: 38 / 100 — Seraphina executes the coordinated ambush exactly when Garran moves and preserves her assigned target alive.
 - Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the work.
-- Respect: 80 / 100 — her stealth and observation continue to provide concrete tactical advantage.
-- Loyalty: 14 / 100 — she continues into the cellar beside him despite the danger.
-- Fear: 49 / 100 — unchanged; her supernatural capability remains controlled and useful.
-- Suspicion: 76 / 100 — unchanged regarding unresolved personal secrets.
+- Respect: 82 / 100 — her speed, precision, and restraint make the two-person ambush immediately effective.
+- Loyalty: 16 / 100 — she acts in concert with Garran under danger rather than pursuing her own course.
+- Fear: 50 / 100 — seeing her predatory speed at arm's length reinforces how dangerous she is even while she obeys his restraint.
+- Suspicion: 75 / 100 — operational trust improves, though major personal questions remain unresolved.
 
 ## Relationship to player
-**Hostile uncertainty under effective cooperation.** Seraphina follows Garran closely into the cellar without detection. Together they have located the seventh load: a recently dead human body already being deliberately cut and processed by the two workers, with a dark passage leading deeper into the site.
+**Hostile uncertainty under increasingly effective tactical cooperation.** Seraphina waits for Garran to initiate the cellar ambush, then takes the second worker alive with speed and precision. Garran has immediate evidence that she can use distinctly predatory capability under his direction without automatically killing a vulnerable human target.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -61,6 +61,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina and Garran overhear that seven loads were delivered: six bone and one fresh, the latter described as whole when loaded.
 - S01: After the driver departs, Seraphina follows Garran through the wall breach and into the building without detection.
 - S01: Seraphina follows Garran into the cellar and they locate the seventh load as a recently dead young human man whose body is being deliberately processed by the two workers.
+- S01: Seraphina waits for Garran to initiate an ambush, then takes her assigned worker alive with a dagger at his throat while Garran controls the other.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -79,6 +80,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows the seventh load is the intact body of a recently dead young human man and that the workers have begun deliberately cutting and processing it.
 - Knows six bone crates are stacked in the cellar and that tools, bowls, cloths, and marked containers are arranged for deliberate processing.
 - Knows a second dark passage or doorway leads deeper beyond the cellar.
+- Knows Seraphina can close on an unsuspecting human with startling speed while retaining enough control to take him alive when instructed.
 - Does not know the dead man's identity, cause of death, the ultimate purpose of the processed remains, or what lies beyond the deeper passage.
 - Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
