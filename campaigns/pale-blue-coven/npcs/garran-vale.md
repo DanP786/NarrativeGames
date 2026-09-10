@@ -3,11 +3,11 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: concealed observation position overlooking the approach to Saint Orra's rear service lane with Seraphina
-- Relationship to Seraphina: Wary; increasingly proven investigative ally of uncertain origin
+- Location: concealed observation position overlooking Saint Orra's rear service lane, sword drawn on Seraphina
+- Relationship to Seraphina: Hostile uncertainty; personally attached but confronting her as a probable vampire
 
 ## Description, voice & mannerisms
-Not yet fully established in play. Seraphina knows him from prolonged observation as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tends to test the story with practical follow-up questions rather than accuse without proof. His humor, when it surfaces, is dry and understated. In questioning, he prefers concrete facts, controlled silence, and testing answers against known evidence rather than theatrical threats.
+Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
 
 ## Traits
 - Serious
@@ -17,10 +17,9 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Committed to hunting monsters
 
 ## Short-term goals
-- Identify the organization or patron controlling the larger trade in harvested human remains.
-- Maintain discreet surveillance from the position Seraphina identified overlooking Saint Orra's rear approach.
-- Follow the next covert cart or participant after the three-bell signal without prematurely exposing the investigation.
-- Learn what Seraphina means when she says she fights monsters while carefully avoiding saying she is sworn to do so, and determine the source of her unusual competence and motives.
+- Determine whether Seraphina is indeed a vampire and whether she presents an immediate threat.
+- Reconcile her probable nature with her repeated actions protecting him, preserving human lives, and helping expose the corpse trade.
+- Maintain awareness of Saint Orra's rear approach despite the sudden confrontation if circumstances allow.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -32,18 +31,18 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 38 / 100 — unchanged; her statement is plausible but incomplete.
-- Affection: 34 / 100 — unchanged.
-- Respect: 55 / 100 — her admission that she fights monsters fits the competence Garran has witnessed and gives him another reason to take her seriously.
-- Loyalty: 12 / 100 — unchanged.
-- Fear: 10 / 100 — unchanged.
-- Suspicion: 59 / 100 — Garran asked whether she was sworn; Seraphina answered that she fights monsters, a precise distinction that leaves the oath, allegiance, and origin of her training unanswered.
+- Trust: 18 / 100 — the realization that Seraphina has concealed being a probable vampire makes every prior explanation suspect, though her repeated concrete assistance prevents trust from collapsing entirely.
+- Affection: 34 / 100 — personal warmth does not vanish merely because the revelation is horrifying; it now conflicts directly with his oath.
+- Respect: 55 / 100 — unchanged; her demonstrated competence and restraint remain facts.
+- Loyalty: 8 / 100 — sharply strained by probable supernatural identity and deception.
+- Fear: 38 / 100 — Garran has personally witnessed speed beyond ordinary human capability and now understands he may be within striking distance of a vampire.
+- Suspicion: 92 / 100 — the accumulated physical and behavioral signs now form a coherent explanation: Seraphina is probably a vampire.
 
 ## Relationship to player
-**Wary.** Garran increasingly relies on Seraphina and recognizes that she has experience fighting monsters, but her careful refusal to say whether she is sworn to that work sharpens his questions about her allegiance and background.
+**Hostile uncertainty.** Garran has drawn his sword after recognizing that the unexplained signs around Seraphina fit vampirism. His oath demands hostility toward monsters, but he also has direct evidence that Seraphina saved his life, obeyed his demand for restraint, protected human prisoners, exposed a trade in human remains, and repeatedly cared for his wellbeing. He has not yet resolved that contradiction.
 
 ## History with player
-- Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so.
+- Before S01: Seraphina repeatedly followed Garran from afar, sometimes travelling far from the Pale Court to do so; Garran does not know this.
 - S01: Seraphina follows Garran to the necromancer's ruined croft and intervenes when the risen dead begin surrounding him.
 - S01: Seraphina and Garran kill the necromancer and break his raising, then discover his ledger and the tithe-pit lead.
 - S01: Their cooperation continues into teasing road conversation despite Garran rejecting Seraphina's explanation for her presence.
@@ -52,62 +51,32 @@ Not yet fully established in play. Seraphina knows him from prolonged observatio
 - S01: Seraphina says she came because she heard a knight was alone and wanted to help, and says she watches Garran so he can investigate without watching his back.
 - S01: During Garran's interrogation, Seraphina catches a wounded laborer covertly reaching beneath a cart for a concealed knife.
 - S01: Garran completes the interrogation. The strongest actionable lead is an old tannery on Bellwater's east bank used as a collection point.
-- S01: Garran thanks Seraphina and offers his hand. She declines physical contact and starts to leave. When teased about lurking near his next destination, she replies, 'A lady does not lurk,' and returns toward her coven.
-- S01: Garran delivers the captured tithe-pit crew to lawful custody and proceeds to the old tannery on Bellwater's east bank. Seraphina later follows him there and enters the building confidently.
-- S01: Seraphina walks directly up to Garran, disregards what he was investigating, and bluntly tells him he looks awful.
-- S01: Seraphina says she did sleep, then surveys the tannery and asks whether there is any sign of the second buyer. Together they establish that the place appears recently cleared and identify a concealed floor compartment beneath a worktable.
-- S01: Seraphina crouches to inspect the compartment and tells Garran she was concerned for his wellbeing because he has not slept. They find a surviving tally slip marked with a split-bell seal and 'Saint Orra — third bell.'
-- S01: Seraphina says she is not well versed in saints. Garran identifies Saint Orra as associated with burial and the unclaimed dead, while the slip's precise meaning remains unresolved.
-- S01: Seraphina proposes seeking gossip from beggars and prostitutes to identify Saint Orra discreetly. Garran accepts the practical logic of the approach.
-- S01: When Garran again jokes about lurking, Seraphina tuts, says, 'The lurking again?' and walks out, deliberately lowering her hood before stepping into direct morning sunlight.
-- S01: Seraphina tells Garran to get food and says she will find him when she has answers, then deliberately avoids potential informants who have seen her with him and slips into an alley to work alone.
-- S01: Garran obeys Seraphina's instruction to eat while she investigates independently. She later returns to him outside a Bellwater cookshop as promised.
-- S01: Seraphina reports her Saint Orra investigation in full: covert third-bell handbell signals, rear-gate cart traffic, a heavy delivery the previous night, processed human remains, and a crate bearing the tannery's split-bell mark. She also distinguishes the apparently legitimate public burial work from the covert operation rather than accusing all Saint Orra staff without evidence.
-- S01: Garran asks Seraphina's opinion on the next move. She recommends watching Saint Orra's rear gate, and he agrees to build the next phase around discreet surveillance.
-- S01: Seraphina suggests Garran sleep before the night watch while she observes the streets through the remaining working day. Garran accepts the practical need for rest and entrusts her with the daylight watch, instructing her not to confront or pursue unexpected activity alone.
-- S01: After several hours of rest, Garran finds Seraphina in Bellwater's market district inspecting a pearlescent jewellery box while continuing her intermittent watch of Saint Orra's approaches. He is better rested and mostly cleaned of the previous night's grime.
-- S01: Seraphina reports that nothing suspicious occurred while Garran slept, but that she travelled every route she could find to Saint Orra's and learned the surrounding approaches and useful observation positions.
-- S01: Seraphina leads Garran to the best observation position she found and tells him, 'You look better.'
-- S01: Seraphina explains that if Garran is not at his best he will miss things, leaving him with 'a little bossy lady' telling him what to do.
-- S01: Asked why his safety mattered to her, Seraphina says Garran's work is important and people are safer with him around. Garran points out that her own actions have also made people safer and asks whether she too is sworn to fight monsters.
-- S01: Seraphina answers, 'I fight monsters, yes,' without saying that she is sworn to do so.
+- S01: Garran thanks Seraphina and offers his hand. She declines physical contact and starts to leave.
+- S01: At Bellwater, Seraphina bluntly tells Garran he looks awful and later says she was concerned because he had not slept.
+- S01: Together they find the tally slip marked with a split-bell seal and 'Saint Orra — third bell.'
+- S01: Seraphina independently infiltrates Saint Orra's and reports the covert body-processing operation and its connection to the tannery.
+- S01: Seraphina recommends watching Saint Orra's rear gate. Garran agrees.
+- S01: Seraphina makes Garran eat and rest before the night watch, then spends the remaining daylight mapping Saint Orra's approaches.
+- S01: At their concealed watch position, Seraphina tells Garran his work is important and people are safer with him around.
+- S01: When Garran asks whether she is sworn to fight monsters, Seraphina says only, 'I fight monsters, yes.'
+- S01: Garran finally connects her extraordinary speed, combat ability, avoided handshake, unusual tolerance of the cold, daylight hooding, and silvery eye reflection in the failing light. He draws his sword and confronts her as a probable vampire. Seraphina steps back without attacking or breaking eye contact.
 
 ## Knowledge
 - Knows Seraphina's name and that she offered 'Sera' as the name he may call her.
 - Knows the necromancer has been killed and his raising disrupted.
-- Knows from the ledger that the intended force was roughly two dozen corpses and that an additional corpse source is called the 'tithe pit.'
-- Knows from interrogation that an old tannery on Bellwater's east bank serves as a collection point for harvested remains.
-- Knows the tannery was likely cleared recently rather than simply abandoned; fresh scrape marks and bone dust remain.
-- Knows the concealed compartment contained a waxed-cloth packet with a tally slip marked by a split-bell seal and 'Saint Orra — third bell.'
-- Knows Saint Orra's is a legitimate burial chapel and paupers' yard for unclaimed dead that also contains a covert rear-yard operation connected materially to the tannery by the same split-bell emblem.
-- Knows from Seraphina that a covert handbell is rung three times after public burial work on certain nights and covered carts then use Saint Orra's rear lane.
-- Knows from Seraphina that the most recent such activity was the previous night: a heavily laden cart arrived and departed riding higher.
-- Knows from Seraphina that the rear service outbuilding contained processed human remains, including bones and dismembered parts with deliberate tool marks, and a transport crate bearing the split-bell emblem.
-- Knows Seraphina entered Saint Orra's under a false missing-servant story, secretly inspected the rear outbuilding while a burial keeper checked records, and left without exposing herself.
-- Knows Seraphina found evidence that Saint Orra's public intake operation genuinely functions, including an intact unidentified woman recorded in the legitimate ledger; therefore ordinary staff complicity is not yet established.
-- Knows Seraphina recommends watching Saint Orra's rear gate rather than immediately confronting the site or pursuing records first.
-- Knows Seraphina offered to take the daylight street watch so he could sleep before the expected night surveillance, and that she remained on that task until he returned.
-- Knows Seraphina reports no suspicious Saint Orra activity during his sleep and says she used the daylight to travel every route she could find to the chapel, learning the approaches and useful observation positions.
-- Knows Seraphina again comments positively on his physical condition after his rest, following her earlier concern about his lack of sleep.
-- Knows Seraphina explicitly says her bossiness follows from the practical fact that an exhausted Garran will miss things and fail to operate at his best.
-- Knows Seraphina says his work is important and that people are safer with him around.
-- Recognizes from direct experience that Seraphina's own fighting and restraint have protected people.
-- Knows Seraphina says, 'I fight monsters, yes,' but did not answer whether she is sworn to a lord, church, order, or other cause to do so.
-- Does not know what kinds of monsters Seraphina has fought before their meeting or under what circumstances.
-- Knows Seraphina considers beggars and prostitutes particularly useful sources of gossip and discreet street information.
-- Knows Seraphina deliberately lowers her hood before entering direct morning sunlight; does not know why.
-- Knows Seraphina recognizes that questioning people who have already seen her beside him would compromise discretion.
-- Knows Seraphina promised to find him when she had answers and returned as promised.
-- Knows Seraphina can pursue multiple fleeing humans with alarming speed and place disabling dagger cuts precisely enough to preserve their lives.
-- Knows Seraphina followed his instruction not to kill fleeing suspects.
-- Knows Seraphina says she heard that a knight was alone in this area and came specifically because she wanted to help him.
-- Knows Seraphina says her close attention to him is intended to let him investigate without needing to watch his own back.
-- Knows her perimeter watch caught a wounded laborer attempting to reach a concealed knife beneath a cart.
-- Knows Seraphina declined his offered handshake before departing, but not why.
-- Knows Seraphina says her remark about his awful appearance was concern for his wellbeing because he has not slept.
-- Does not know how she originally heard about him or why helping him mattered enough to risk herself beyond her stated belief that his work makes people safer.
-- Does not know where Seraphina went between leaving the tithe pit and arriving at Bellwater.
+- Knows the tithe-pit and Bellwater tannery evidence and Saint Orra's connection to the covert trade in processed human remains.
+- Knows Seraphina independently infiltrated Saint Orra's, found evidence, returned as promised, and distinguished legitimate burial work from unproven staff complicity.
+- Knows Seraphina repeatedly protected him and acted with restraint toward humans when asked.
+- Knows Seraphina says his work is important and people are safer with him around.
+- Knows Seraphina says, 'I fight monsters, yes,' but avoided saying whether she is sworn to do so.
+- Has personally witnessed Seraphina pursue multiple fleeing humans with speed beyond ordinary expectation and place precise disabling cuts without killing them.
+- Knows Seraphina declined his offered handshake. In light of his current conclusion, he suspects she avoided revealing unnaturally cold skin, though he did not know this at the time.
+- Has observed Seraphina deliberately use her hooded cloak against daylight and previously noticed her unusual behavior around direct sunlight.
+- Has now observed a distinctive silvery reflection in Seraphina's eyes in the failing light, which he associates with unnatural night sight.
+- Recalls that Seraphina appeared inadequately dressed for the cold during their first night's work without visibly suffering from it; he now treats this as another supporting sign rather than proof by itself.
+- Strongly concludes that Seraphina is a vampire.
+- Does not know Seraphina belongs to the Pale Court.
+- Does not know Seraphina's maker or history.
 - Does not know Seraphina fed on a warehouse laborer while he slept.
-- Does not know Seraphina is a vampire or belongs to the Pale Court.
-- Does not know Seraphina has been following him since before their first direct meeting.
+- Does not know Seraphina has followed him since before their first direct meeting.
 - Does not know Seraphina's feelings for him.
