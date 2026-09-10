@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: mouth of the deeper burial passage beneath the Bellwater processing site, between wounded Seraphina and the crossbow threat
+- Location: advancing into the deeper burial passage beneath the Bellwater processing site to deal with the crossbow defender
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is unmistakable in crisis
 
 ## Description, voice & mannerisms
@@ -18,9 +18,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Short-term goals
 - Neutralize and, if feasible, take the crossbow defender alive as Seraphina requested.
-- Prevent another shot from reaching Seraphina while she is down behind cover.
-- Get back to Seraphina as soon as the immediate firing position is suppressed; her shaking and forced silence make clear that the wound remains severe despite her unusual healing.
-- Prevent the wounded prisoners from exploiting the crisis.
+- Return to Seraphina as soon as the prepared firing position is secured.
+- Regain full control of the wounded prisoners, whose security has been compromised by the active threat.
+- Determine how badly Seraphina is wounded after she pulled the bolt from her own side and packed the wound with her cloak.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
@@ -35,14 +35,14 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 40 / 100 — unchanged.
-- Affection: 54 / 100 — Seraphina's visible tears and violent shaking despite her effort to make no sound intensify Garran's concern.
+- Affection: 54 / 100 — unchanged.
 - Respect: 87 / 100 — unchanged.
-- Loyalty: 24 / 100 — Garran's determination to return to her as soon as the firing position is suppressed strengthens.
-- Fear: 52 / 100 — her silence does not reassure him; it makes the severity harder to judge.
+- Loyalty: 24 / 100 — unchanged.
+- Fear: 52 / 100 — unchanged.
 - Suspicion: 76 / 100 — unchanged.
 
 ## Relationship to player
-**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Seraphina is shaking and crying silently behind cover while holding pressure on her wound. Garran remains forced to divide attention between her and an active prepared defender, but her condition has become an urgent personal concern.
+**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Garran has moved farther into the passage to neutralize the prepared crossbow position, leaving badly wounded Seraphina behind cover for the moment. He intends to return once the immediate ranged threat is controlled.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -74,6 +74,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina tells Garran to take the hostile men prisoner and leave her. Garran refuses to leave her exposed, pulls her toward cover, and continues against the threat.
 - S01: Seraphina tears the embedded crossbow bolt from her own side, screams from the pain, rolls facedown to muffle herself, and packs the wound with her cloak while retaining her dagger.
 - S01: Tears stream down Seraphina's face and her whole body shakes, but she suppresses further cries while holding pressure on the wound.
+- S01: Garran advances farther into the passage to deal with the crossbow position, temporarily leaving Seraphina behind cover with the wounded prisoners.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
