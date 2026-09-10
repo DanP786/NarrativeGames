@@ -1,6 +1,7 @@
 # Inventory
 
-- Pair of fighting daggers: both retained at Veyne Hall after Seraphina's abduction; precise storage within the hall is currently unresolved.
+- New matched pair of fighting daggers with ivory handles: newly given to Seraphina by Lucien at Veyne Hall to accompany her new red armour and identity. Currently in Seraphina's possession.
+- Original pair of fighting daggers: retained elsewhere at Veyne Hall after Seraphina's abduction; not currently carried, discarded, or destroyed.
 - Original black leather clothing/armor: retained at Veyne Hall; outer leather at the left upper arm was cut by a heavy blade and the side had been pulled back to clean the healing crossbow wound. Precise storage currently unresolved.
 - Pale-blue coven fabrics and accessories: retained at Veyne Hall; precise storage currently unresolved.
 - Hooded cloak suitable for keeping direct sunlight off Seraphina's skin: blood-soaked from earlier use and retained at Veyne Hall; precise storage currently unresolved.
