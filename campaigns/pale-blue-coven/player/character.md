@@ -14,4 +14,4 @@ Seraphina was taken by her present coven after its vampires killed most of her v
 
 ## Current state
 
-Seraphina has repeatedly strayed far from the coven to follow a mortal knight from a distance. She is drawn to his authority, seriousness, strength, confidence and absolute commitment to his duty. She believes herself in love with him. He is sworn to kill all monsters and does not know she exists as anything more than, at most, an unseen presence.
+Seraphina has revealed herself as a vampire to Sir Garran Vale during their Bellwater investigation and confessed that she loves him. She remains badly wounded after a crossbow bolt struck her side in the burial tunnels; she tore the bolt free and initially packed the wound with her cloak. During pursuit of an escaping wounded prisoner, she briefly feeds from a living worker tied to the cellar processing table, deliberately stopping after a short drink and leaving him alive. Fresh blood accelerates her vampiric healing and steadies her enough to continue pursuit, though the side wound is not instantly erased. Garran does not witness this feeding.
