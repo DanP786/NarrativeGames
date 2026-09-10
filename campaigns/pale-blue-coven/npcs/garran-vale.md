@@ -17,8 +17,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Keep both workers alive and silent long enough to question them.
-- Determine who controls the operation, what the remains are for, and what lies through the deeper passage.
+- Keep both workers alive and controlled while extracting actionable facts.
+- Investigate the deeper passage and locate the man who went below earlier and has not returned.
+- Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Preserve evidence and identify the recently dead seventh body if possible.
 - Keep Seraphina with him while securing the cellar and investigating deeper.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
@@ -33,15 +34,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 38 / 100 — Seraphina executes the coordinated ambush exactly when Garran moves and preserves her assigned target alive.
+- Trust: 39 / 100 — Seraphina maintains control of her prisoner without interfering with Garran's questioning or harming him.
 - Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the work.
-- Respect: 82 / 100 — her speed, precision, and restraint make the two-person ambush immediately effective.
-- Loyalty: 16 / 100 — she acts in concert with Garran under danger rather than pursuing her own course.
-- Fear: 50 / 100 — seeing her predatory speed at arm's length reinforces how dangerous she is even while she obeys his restraint.
-- Suspicion: 75 / 100 — operational trust improves, though major personal questions remain unresolved.
+- Respect: 83 / 100 — her silent control of a much larger prisoner reinforces her usefulness and restraint.
+- Loyalty: 17 / 100 — she continues functioning as Garran's partner during the interrogation.
+- Fear: 50 / 100 — her predatory presence remains unmistakable at close range even while controlled.
+- Suspicion: 75 / 100 — unchanged regarding unresolved personal secrets.
 
 ## Relationship to player
-**Hostile uncertainty under increasingly effective tactical cooperation.** Seraphina waits for Garran to initiate the cellar ambush, then takes the second worker alive with speed and precision. Garran has immediate evidence that she can use distinctly predatory capability under his direction without automatically killing a vulnerable human target.
+**Hostile uncertainty under increasingly effective tactical cooperation.** Seraphina silently controls the taller worker while Garran questions the other. Her presence contributes to the prisoners' compliance without her needing to injure or threaten them verbally.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -62,6 +63,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: After the driver departs, Seraphina follows Garran through the wall breach and into the building without detection.
 - S01: Seraphina follows Garran into the cellar and they locate the seventh load as a recently dead young human man whose body is being deliberately processed by the two workers.
 - S01: Seraphina waits for Garran to initiate an ambush, then takes her assigned worker alive with a dagger at his throat while Garran controls the other.
+- S01: Garran questions the workers while Seraphina silently controls one; they learn of an intermediary called Master Hadrik and that another man is presently somewhere deeper below.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -79,9 +81,13 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows the Saint Orra cart delivered six bone loads and one fresh whole load to this site.
 - Knows the seventh load is the intact body of a recently dead young human man and that the workers have begun deliberately cutting and processing it.
 - Knows six bone crates are stacked in the cellar and that tools, bowls, cloths, and marked containers are arranged for deliberate processing.
-- Knows a second dark passage or doorway leads deeper beyond the cellar.
+- Knows a dark passage leads deeper from the cellar.
+- Knows the workers identify themselves as paid processors rather than the masters of the operation.
+- Knows they say prepared remains pass onward to an intermediary or buyer called Master Hadrik, who does not usually enter the workroom.
+- Knows the workers claim not to know the ultimate purpose of the remains.
+- Knows one additional man went through the deeper passage earlier and has not yet returned.
 - Knows Seraphina can close on an unsuspecting human with startling speed while retaining enough control to take him alive when instructed.
-- Does not know the dead man's identity, cause of death, the ultimate purpose of the processed remains, or what lies beyond the deeper passage.
+- Does not know the dead man's identity, cause of death, Master Hadrik's full identity or location, the ultimate purpose of the processed remains, or what lies beyond the deeper passage.
 - Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
