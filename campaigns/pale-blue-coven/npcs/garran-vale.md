@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: following behind Seraphina as she shadows the covered cart away from Bellwater
-- Relationship to Seraphina: Hostile uncertainty under renewed cooperation; actively relying on her tracking and night observation
+- Location: following behind Seraphina near a neglected walled yard beyond Bellwater where the Saint Orra cart has stopped
+- Relationship to Seraphina: Hostile uncertainty under effective cooperation; actively relying on her tracking and night observation
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,9 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Follow the covered cart without alerting its driver or any concealed escort.
-- Determine the cart's destination and what is being transported.
-- Rely on Seraphina's superior night observation while keeping enough distance to avoid exposing them together.
+- Observe the walled-yard destination or transfer point without exposing Seraphina or himself.
+- Determine who receives the Saint Orra cart and what is being transported.
+- Avoid premature intervention until the scale of the operation and immediate threats are clearer.
+- Continue relying on Seraphina's superior night observation while maintaining tactical separation.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
@@ -32,15 +33,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 27 / 100 — Seraphina follows his plan exactly and successfully maintains the trail without exposing them.
+- Trust: 29 / 100 — Seraphina successfully reacquires and follows the cart without exposing their pursuit.
 - Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the work.
-- Respect: 71 / 100 — her competence at night surveillance is now directly useful to his objective.
-- Loyalty: 8 / 100 — continued disciplined cooperation is accumulating evidence of practical reliability.
-- Fear: 52 / 100 — immediate fear continues to recede while her abilities are directed toward their shared target.
-- Suspicion: 80 / 100 — major unanswered questions remain, but her current conduct is consistently cooperative.
+- Respect: 73 / 100 — her night surveillance is proving consistently effective under pressure.
+- Loyalty: 9 / 100 — repeated disciplined cooperation continues to build limited practical reliance.
+- Fear: 51 / 100 — immediate fear remains lower while her supernatural advantages are used in service of the shared investigation.
+- Suspicion: 79 / 100 — major personal questions remain, but her operational conduct is reliable.
 
 ## Relationship to player
-**Hostile uncertainty under effective cooperation.** Seraphina obeys Garran's instruction and successfully shadows the covered cart away from Saint Orra, using darkness and distance while Garran follows behind. He is now relying directly on abilities that also helped expose her vampirism, creating an uneasy but functional partnership.
+**Hostile uncertainty under effective cooperation.** Seraphina moves ahead at Garran's signal, successfully reacquires the cart, and follows it to a neglected walled yard without detection. Garran is increasingly willing to rely on her competence during the investigation even though his judgment of her vampirism and feeding remains unresolved.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -55,7 +56,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina explains that she ran because Garran kills monsters like her and admits she still expects he may kill her.
 - S01: Three slow bell strokes sound from Saint Orra. Garran turns back to the surveillance objective; Seraphina resumes working with him.
 - S01: A heavily laden covered cart emerges from Saint Orra's rear gate after the signal.
-- S01: Seraphina successfully shadows the cart away from Bellwater while Garran follows behind, keeping their distance and avoiding detection.
+- S01: Seraphina successfully shadows the cart away from Bellwater while Garran follows behind.
+- S01: Seraphina follows the cart to a neglected walled yard with a long low stone building, where a rear door opens after the driver gives a two-knock signal.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -70,8 +72,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina ran because she expects Garran, as a monster-hunter, to kill her and that she still believes he may do so.
 - Knows Seraphina repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
 - Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
-- Knows the heavily laden covered cart departed Saint Orra after the three-bell signal and is travelling away from the denser Bellwater streets without a lantern, favoring less-travelled roads.
-- Does not know the cart's destination or exact contents.
+- Knows the heavily laden covered cart departed Saint Orra after the three-bell signal and travelled without a lantern along less-travelled roads.
+- Knows the cart has entered a neglected walled yard containing a long low stone building and was admitted after a two-knock signal; at least one person is inside.
+- Does not know the cart's exact contents, the occupants' identities, or whether this is the final destination.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
