@@ -33,15 +33,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 31 / 100 — Seraphina deliberately falls back enough to bring Garran forward rather than continuing alone, while maintaining watch on the target.
+- Trust: 32 / 100 — Seraphina reports exactly what she observed and does not embellish what she cannot confirm.
 - Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the work.
-- Respect: 75 / 100 — she balances initiative with discipline, gathering useful information and then re-establishing contact rather than overreaching.
-- Loyalty: 10 / 100 — her decision to include him in the next stage rather than act independently strengthens practical reliance.
-- Fear: 50 / 100 — immediate fear continues to recede during disciplined cooperation.
-- Suspicion: 78 / 100 — major personal questions remain, but her operational behavior continues to be reliable.
+- Respect: 76 / 100 — her concise distinction between what she saw and what remains unknown fits disciplined field work.
+- Loyalty: 10 / 100 — unchanged; cooperation remains practical and situational.
+- Fear: 50 / 100 — unchanged; there is no new immediate threat from Seraphina.
+- Suspicion: 77 / 100 — her refusal to overstate evidence modestly strengthens the credibility of her operational reporting, though major personal questions remain.
 
 ## Relationship to player
-**Hostile uncertainty under effective cooperation.** Seraphina scouts the walled yard, then deliberately eases back into Garran's view without taking her attention off the suspects. Garran recognizes the signal and rejoins her concealed position. Her conduct is giving him repeated evidence that, during this investigation, she will gather information, follow direction, and return rather than disappearing into danger alone.
+**Hostile uncertainty under effective cooperation.** Seraphina reports that she saw bones in one crate while carefully limiting the claim to what she actually observed. Garran accepts the report without forcing speculation and continues treating her as a capable surveillance partner, despite their unresolved personal conflict.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -57,8 +57,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Three slow bell strokes sound from Saint Orra. Garran turns back to the surveillance objective; Seraphina resumes working with him.
 - S01: A heavily laden covered cart emerges from Saint Orra's rear gate after the signal.
 - S01: Seraphina successfully shadows the cart away from Bellwater while Garran follows behind.
-- S01: Seraphina follows the cart to a neglected walled yard and discovers crates of cleaned human bones being unloaded into a low stone building.
-- S01: Seraphina eases back into Garran's view while keeping watch, allowing him to rejoin her concealed position without either of them being detected.
+- S01: Seraphina follows the cart to a neglected walled yard and discovers crates being unloaded into a low stone building.
+- S01: Seraphina confirms to Garran that the one crate she saw inside contained bones, while making clear she did not see inside the others.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -75,7 +75,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
 - Knows the heavily laden covered cart departed Saint Orra after the three-bell signal and travelled without a lantern along less-travelled roads.
 - Knows the cart reached a neglected walled yard containing a low stone building.
-- Through Seraphina's close observation, now knows the cart carries rough crates including at least one visibly packed with cleaned human bones, that three humans are presently visible in the yard, and that the building has a cellar-level opening or loading hatch near its rear wall.
+- Knows three humans are presently visible in the yard and that the building has a cellar-level opening or loading hatch near its rear wall.
+- Knows from Seraphina's direct observation that one opened crate contained cleaned human bones; she did not claim knowledge of the other crates' contents.
 - Does not know the occupants' identities, the full contents of the cart, or whether this is the final destination.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
