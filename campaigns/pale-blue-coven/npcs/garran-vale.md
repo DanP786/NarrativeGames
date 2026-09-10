@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: cellar beneath the Bellwater corpse-processing site, confronting new evidence that Seraphina fed from a bound prisoner
-- Relationship to Seraphina: Hostile uncertainty under effective cooperation; protective concern and growing evidence of voluntary loyalty now sharply complicated by confirmed feeding from a helpless captive
+- Location: cellar beneath the Bellwater corpse-processing site, confronting Seraphina over feeding from a bound prisoner
+- Relationship to Seraphina: Hostile uncertainty under renewed mistrust; her continued loyalty and restraint coexist with confirmed willingness to feed from a helpless captive for tactical recovery
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -19,8 +19,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 ## Short-term goals
 - Finish securing the Bellwater site and remaining living prisoners.
 - Preserve the captured men for later questioning or lawful custody rather than killing them unnecessarily.
-- Establish exactly why Seraphina fed from the bound cellar worker, how much she took, and whether the feeding was connected to her accelerated recovery.
-- Establish the source and circumstances of the fresh blood around Seraphina's mouth and the dead swordsman in the yard; the cellar-worker feeding may explain some blood but not necessarily all of what Garran observed later.
+- Determine the limits Seraphina places on feeding from helpless humans and whether her stated restraint can be relied upon under pressure.
+- Establish the source and circumstances of the fresh blood around Seraphina's mouth and the dead swordsman in the yard; the cellar-worker feeding does not necessarily explain the later fresh blood.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Determine the schedule and destination of the next onward collection of prepared remains.
 - Resolve what his oath requires regarding Seraphina rather than evading the question indefinitely.
@@ -35,15 +35,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 38 / 100 — falls after a living bound prisoner credibly reports Seraphina fed from him while Garran was absent and Seraphina does not deny it.
-- Affection: 57 / 100 — slight decrease; concern remains, but the new evidence cuts directly against the restraint Garran has been trying to reconcile with her vampirism.
-- Respect: 86 / 100 — decreases because feeding from a helpless captive without Garran's knowledge violates the restraint she had repeatedly demonstrated during their cooperation.
-- Loyalty: 27 / 100 — unchanged; her later voluntary choice to stay and help remains concrete evidence even though the feeding complicates its meaning.
-- Fear: 54 / 100 — rises because Garran now has direct evidence she will feed opportunistically from a helpless person when he is absent.
-- Suspicion: 86 / 100 — rises sharply; her silence leaves motive, quantity, and the later blood around her mouth unresolved.
+- Trust: 39 / 100 — slight recovery because Seraphina gives a direct motive when pressed and the victim is visibly alive, though the underlying unauthorized feeding remains serious.
+- Affection: 57 / 100 — unchanged.
+- Respect: 87 / 100 — slight recovery because the feeding was undertaken to regain enough function to pursue an escaping dangerous prisoner rather than for casual appetite, though using a bound captive remains morally grave to Garran.
+- Loyalty: 28 / 100 — slight increase because her stated motive was to recover in order to continue the shared pursuit rather than abandon it.
+- Fear: 54 / 100 — unchanged; he now knows feeding can rapidly restore her and that she will use a helpless human tactically.
+- Suspicion: 83 / 100 — decreases slightly because the purpose of this feeding is now explained, but the later blood around her mouth and dead swordsman remain unresolved.
 
 ## Relationship to player
-**Hostile uncertainty under renewed mistrust.** Seraphina's repeated voluntary cooperation remains real, but the bound cellar worker has now directly accused her of feeding from him while Garran was away. Seraphina turns away with a hardened expression rather than denying or explaining it. Garran now knows she fed from a helpless captive during their operation, forcing him to reassess the restraint he had been crediting her with and intensifying the unresolved question of what his oath requires.
+**Hostile uncertainty under renewed mistrust.** Seraphina admits she fed from the bound cellar worker "enough to heal, to catch that bastard." Garran now understands the feeding as a deliberate tactical choice made while badly wounded so she could pursue the fugitive. The captive's survival and Seraphina's direct explanation preserve some evidence of restraint and commitment to the shared objective, but Garran is confronted with the fact that her moral boundary permits using a helpless human as a source of blood when she judges it necessary.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -84,7 +84,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: After Garran tells her she is not his prisoner and moves past her, leaving the route toward the cellar physically open, Seraphina chooses not to leave and instead follows close behind him into the burial works.
 - S01: Garran finishes questioning the captured crossbow defender. The prisoner admits only that prepared material is collected onward rather than received here by Hadrik directly; Hadrik's current location and the ultimate use remain unknown.
 - S01: Seraphina silently helps Garran secure the surviving prisoners and immediate site, taking practical tasks without prompting despite lingering pain.
-- S01: The bound cellar worker accuses Seraphina of biting him while Garran was away. Seraphina turns her head away with a hardened expression and offers no denial or explanation, giving Garran direct witness evidence that she fed from a helpless captive during the operation.
+- S01: The bound cellar worker accuses Seraphina of biting him while Garran was away. Seraphina initially turns away with a hardened expression rather than denying it.
+- S01: When Garran asks how much she took, Seraphina folds her arms and answers, "Enough to heal, to catch that bastard," confirming the feeding was a deliberate tactical measure to recover enough to pursue the fugitive.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -101,9 +102,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina immediately sheathed both daggers and yielded the narrow passage when he ordered her to put the weapons away.
 - Knows Seraphina had an unobstructed opportunity to leave after he told her she was not his prisoner, but voluntarily chose to remain and follow him instead.
 - Knows Seraphina continued helping secure living prisoners without prompting despite her injuries.
-- Knows from the bound cellar worker's direct accusation, combined with Seraphina's refusal to deny it, that Seraphina fed from him while Garran was away.
-- Does not yet know why Seraphina fed from the bound worker, how much blood she took, or that she deliberately stopped after a short drink and left him alive.
-- Can plausibly connect that feeding with her improved ability to pursue the fugitive and heal, but has not witnessed the causal mechanism directly.
+- Knows from the bound cellar worker's direct accusation and Seraphina's admission that she fed from him while Garran was away.
+- Knows Seraphina says she took enough blood to heal and catch the escaping swordsman; the worker's continued survival is visible evidence that she did not drain him dry.
+- Knows feeding can materially accelerate Seraphina's recovery, explaining how she regained enough function to continue the pursuit after severe injury.
+- Does not know the exact quantity she took from the worker or that she deliberately stopped after only a short drink.
 - Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
 - Knows the Saint Orra cart delivered six bone loads and one fresh whole load to this site.
 - Knows the seventh load is the intact body of a recently dead young human man and that the workers have begun deliberately cutting and processing it.
