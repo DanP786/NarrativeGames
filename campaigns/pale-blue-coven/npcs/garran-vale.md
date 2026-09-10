@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: neglected walled yard beyond Bellwater, with Seraphina heading back into the stone building
+- Location: narrow burial passage beneath the Bellwater corpse-processing site, blocking Seraphina's path back toward the cellar
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is unmistakable in crisis
 
 ## Description, voice & mannerisms
@@ -17,11 +17,12 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Keep Seraphina and the remaining prisoners secure while the Bellwater site is brought under control.
+- Prevent Seraphina from simply leaving until the Bellwater site is secured and the immediate facts are established.
 - Regain full control of the remaining living prisoners.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Question the captured crossbow defender.
-- Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
+- Establish the source and circumstances of the fresh blood around Seraphina's mouth and the dead swordsman in the yard.
+- Resolve what his oath requires regarding Seraphina rather than evading the question indefinitely.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -38,10 +39,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Respect: 87 / 100 — unchanged.
 - Loyalty: 24 / 100 — unchanged.
 - Fear: 52 / 100 — unchanged.
-- Suspicion: 76 / 100 — unchanged.
+- Suspicion: 78 / 100 — increased slightly because Seraphina asks to leave while the source of fresh blood around her mouth remains unexplained.
 
 ## Relationship to player
-**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Garran now knows the escaped swordsman attempted to sexually assault Seraphina but did not rape her. His unresolved oath and suspicion remain, but immediate concern for her safety continues as she returns into the building to recover her weapon and deal with the remaining prisoners.
+**Hostile uncertainty under immediate moral and practical pressure.** Seraphina has directly asked Garran to either kill her, take her prisoner, or let her return home. Garran is not prepared to choose death or formal captivity on impulse, but neither can he simply let her leave while the Bellwater operation remains unsecured and critical facts about the yard and her sudden healing remain unexplained.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -77,10 +78,11 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Garran tells Seraphina the archer is alive, disarmed, hurt, and bound. He asks what the escaped swordsman did to her after reading the signs of a violent close struggle.
 - S01: Seraphina bluntly tells Garran that the wounded swordsman attempted to use sexual violence against her. She then sits up and wipes blood from her mouth with her cloak, no longer needing pressure on the healing crossbow wound.
 - S01: Seraphina clarifies that the swordsman did not rape her, then rises and heads back into the building to retrieve her first dagger from the wounded worker below.
+- S01: Seraphina retrieves her first dagger, turns to find Garran blocking the narrow passage, and flatly asks him to either kill her, take her prisoner, or let her return home.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
-- Strongly concludes Seraphina is a vampire based on her speed, combat ability, avoided handshake, unusual cold tolerance, daylight hooding, and silvery eye reflection.
+- Strongly concludes Seraphina is a vampire based on her speed, combat ability, avoided handshake, unusual cold tolerance, daylight hooding, silvery eye reflection, and accelerated healing.
 - Knows Seraphina explicitly said, 'Because I love you.' Evidence increasingly prevents easy dismissal, though he has not accepted it with certainty.
 - Knows Seraphina refuses to reveal her coven's location or numbers.
 - Knows Seraphina's coven is aware that she has been following him, but that she began following him before they knew about him and did so for roughly a year.
@@ -108,7 +110,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina deliberately removed the crossbow bolt herself and packed the resulting wound with her cloak.
 - Knows Seraphina later pursued the escaped swordsman into the yard and that the man is now dead beside her.
 - Knows the escaped swordsman attempted to sexually assault Seraphina during their struggle and, from Seraphina's explicit answer, that he did not rape her.
-- Can see blood around Seraphina's mouth and that her severe side wound has improved with unnatural speed, but does not yet know exactly how or from whom she fed.
+- Can see that Seraphina's severe side wound has improved with unnatural speed and saw fresh blood around her mouth, but does not yet know exactly how or from whom she fed.
 - Does not know Seraphina briefly fed from the bound cellar worker.
 - Does not know Seraphina drank her fill from the dying swordsman.
 - Does not know an unidentified rival vampire entered the yard, offered Seraphina his blood and a change of allegiance, learned she belongs to the Pale Court, and then departed.
