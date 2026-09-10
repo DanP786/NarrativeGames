@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: burial passages beneath the Bellwater corpse-processing site, with Seraphina following close behind
+- Location: burial passages beneath the Bellwater corpse-processing site, with Seraphina close behind
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; protective concern complicated by her voluntary decision to remain after being given a physical opportunity to leave
 
 ## Description, voice & mannerisms
@@ -18,9 +18,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Short-term goals
 - Secure the Bellwater site and remaining living prisoners.
-- Avoid treating Seraphina as a formal prisoner unless he actually chooses to take responsibility for doing so.
+- Preserve the captured men for later questioning or lawful custody rather than killing them unnecessarily.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
-- Question the captured crossbow defender.
+- Determine the schedule and destination of the next onward collection of prepared remains.
 - Establish the source and circumstances of the fresh blood around Seraphina's mouth and the dead swordsman in the yard.
 - Resolve what his oath requires regarding Seraphina rather than evading the question indefinitely.
 
@@ -34,15 +34,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 43 / 100 — increased because Seraphina had a clear physical opportunity to leave after being told she was not his prisoner and voluntarily remained.
-- Affection: 58 / 100 — slight increase from her choosing to stay close despite being hurt and having asked to go home.
-- Respect: 88 / 100 — slight increase because she remains to finish dangerous work rather than taking the open escape.
-- Loyalty: 26 / 100 — increased because her voluntary choice to follow when she could leave is concrete evidence of commitment to their shared immediate purpose.
-- Fear: 50 / 100 — slight decrease after another voluntary act of cooperation while armed but with weapons sheathed.
+- Trust: 43 / 100 — unchanged.
+- Affection: 58 / 100 — unchanged.
+- Respect: 88 / 100 — unchanged.
+- Loyalty: 26 / 100 — unchanged.
+- Fear: 50 / 100 — unchanged.
 - Suspicion: 78 / 100 — unchanged; the unexplained blood and healing remain unresolved.
 
 ## Relationship to player
-**Hostile uncertainty under immediate moral and practical pressure.** Garran told Seraphina she was not his prisoner, then physically moved out of the way and left her route toward the cellar open. She could have walked away. Instead, with both daggers sheathed, she chose to follow close behind him into the dangerous burial works. Garran can recognize the choice as voluntary cooperation, though he cannot know her private reason for making it.
+**Hostile uncertainty under immediate moral and practical pressure.** Garran told Seraphina she was not his prisoner, then physically moved out of the way and left her route toward the cellar open. She could have walked away. Instead, with both daggers sheathed, she chose to remain. During his interrogation of the captured archer she refuses an offered chance to sit and holds herself stoically still despite visible discomfort, allowing him to finish his duty without further interruption.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -72,7 +72,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina later forces herself upright, leans heavily on the wall, and takes a step toward the prepared passage despite still being visibly unsteady.
 - S01: The concealed defender fires a crossbow bolt into Seraphina's side, dropping her in the passage with the bolt still embedded.
 - S01: Seraphina tells Garran to take the hostile men prisoner and leave her. Garran refuses to leave her exposed, pulls her toward cover, and continues against the threat.
-- S01: Seraphina tears the embedded crossbow bolt from her own side, screams, and packs the wound with her cloak.
+- S01: Seraphina tears the embedded crossbow bolt from her own side, screams, and packs the resulting wound with her cloak.
 - S01: Garran advances farther into the passage to deal with the crossbow position, temporarily leaving Seraphina behind cover with the wounded prisoners.
 - S01: Garran later returns through the cellar and reaches the rear yard, where he finds Seraphina lying beside the dead escaped swordsman. Seraphina says the man ran and she chased him, then immediately asks about the archer rather than explaining the rest of the scene.
 - S01: Garran tells Seraphina the archer is alive, disarmed, hurt, and bound. He asks what the escaped swordsman did to her after reading the signs of a violent close struggle.
@@ -81,6 +81,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina retrieves her first dagger, turns to find Garran blocking the narrow passage, and flatly asks him to either kill her, take her prisoner, or let her return home.
 - S01: Garran refuses to let Seraphina leave before the site is secured and orders her to sheath her daggers. Her face falls; she immediately obeys, presses her back to the narrow passage wall, and lowers her eyes so he can pass.
 - S01: After Garran tells her she is not his prisoner and moves past her, leaving the route toward the cellar physically open, Seraphina chooses not to leave and instead follows close behind him into the burial works.
+- S01: Garran finishes questioning the captured crossbow defender. The prisoner admits only that prepared material is collected onward rather than received here by Hadrik directly; Hadrik's current location and the ultimate use remain unknown.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -117,6 +118,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Can see that Seraphina's severe side wound has improved with unnatural speed and saw fresh blood around her mouth, but does not yet know exactly how or from whom she fed.
 - Does not know Seraphina briefly fed from the bound cellar worker.
 - Does not know Seraphina drank her fill from the dying swordsman.
+- Knows from the captured archer that Hadrik does not normally receive prepared remains directly at this cellar; material is collected onward on a schedule, but the exact next collection details, destination, Hadrik's present location, and ultimate purpose remain unresolved.
 - Does not know an unidentified rival vampire entered the yard, offered Seraphina his blood and a change of allegiance, learned she belongs to the Pale Court, and then departed.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
