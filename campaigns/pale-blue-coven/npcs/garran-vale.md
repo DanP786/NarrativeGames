@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: concealed observation position overlooking Saint Orra's rear service lane; restraining Seraphina by the hair after catching her second attempt to continue fleeing, sword still in his other hand
-- Relationship to Seraphina: Hostile uncertainty; physically restraining her while registering that she still refuses to draw weapons against him
+- Location: concealed observation position overlooking Saint Orra's rear service lane; pinning Seraphina against a wall with his forearm across her throat after stopping her escape
+- Relationship to Seraphina: Hostile uncertainty; her refusal to fight is now directly confronting the moral simplicity of his oath
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,10 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Keep Seraphina from escaping without giving her room to exploit her superior speed.
-- Determine why she is fleeing and whether she intends only escape or something more dangerous.
-- Avoid giving her an opening to draw her daggers while deciding whether continued physical restraint is necessary.
-- Decide what his oath requires when the vampire he is physically restraining continues not to attack him despite having weapons and extraordinary speed.
+- Keep Seraphina from exploiting her superior speed to escape.
+- Determine why she fled and whether she intends only escape or something more dangerous.
+- Confront the fact that Seraphina repeatedly refuses to use lethal force against him even while physically restrained and frightened.
+- Decide whether his oath requires killing her merely because she is a vampire, or whether her individual conduct must matter to his judgment.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -32,15 +32,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 14 / 100 — flight remains a serious breach, but her continued refusal to draw weapons limits the threat implied by it.
-- Affection: 23 / 100 — hearing her cry out under his own restraint creates discomfort without resolving his hostility.
-- Respect: 61 / 100 — she has the means to turn the struggle violent and still does not reach for her daggers.
+- Trust: 15 / 100 — flight remains damaging, but she touches only his restraining wrist and still does not escalate to weapons or attack.
+- Affection: 27 / 100 — her tears and direct question force him to confront the personal cost of what he may do to her.
+- Respect: 64 / 100 — refusing to fight when fighting might be safer or easier for her increasingly looks deliberate rather than helpless.
 - Loyalty: 3 / 100 — unchanged.
-- Fear: 69 / 100 — close physical contact with a much faster vampire is dangerous, though her nonaggression is increasingly deliberate.
-- Suspicion: 95 / 100 — he still does not know why she is so desperate to get away.
+- Fear: 66 / 100 — he remains acutely aware of her speed and nature, but her repeated nonaggression reduces the immediate expectation of attack.
+- Suspicion: 93 / 100 — he still needs to understand her attempted flight and feeding, though her motives toward him look less predatory.
 
 ## Relationship to player
-**Hostile uncertainty, physically restrained.** Seraphina slips free of her caught cloak and tries to continue running. Garran catches her by the hair before she gets three steps farther and hauls her back. She cries out but still does not reach for either dagger. Her escape attempt keeps Garran's threat response high; her conspicuous refusal to turn the struggle into a fight continues to contradict the simplest picture of her as an immediate predator.
+**Hostile uncertainty under physical restraint.** Garran pins Seraphina against the wall after stopping her escape. With tears running down her face, she asks whether fighting him would make it easier for him to kill her. The question strikes directly at the conflict he has been trying to resolve through evidence: if she attacked, his oath and immediate self-defense would align cleanly. Her continued refusal to do so deprives him of that certainty.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -54,7 +54,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina says she wanted nothing except to know Garran was safe.
 - S01: Seraphina says she feeds mostly on drunks and men who are rough with women and that her victims live.
 - S01: She admits feeding on a sober laborer while Garran slept and says he was alive afterward.
-- S01: Seraphina bolts; Garran catches her cloak. She releases the choking cloak and runs on, but before she gets three more steps he catches her by the hair and pulls her back. She cries out and does not reach for her weapons.
+- S01: Seraphina bolts; Garran catches her cloak. She releases it and continues running, but Garran catches her by the hair and hauls her back. She does not draw her weapons.
+- S01: Garran pins Seraphina against the wall with his forearm across her throat. With tears streaming down her cheeks, she asks, 'Would that make it easier to kill me? If I fought you?'
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -66,8 +67,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina says she feeds mostly on drunks and men who are rough with women and says her victims live.
 - Knows Seraphina fed on a sober laborer while Garran slept earlier on the 19th of Harvestwane and says the man was alive afterward.
 - Does not know why she selected him, exactly how much blood she took, or the precise condition in which she left him.
-- Knows Seraphina has made a determined attempt to flee, first abandoning her caught cloak and then continuing to run.
-- Knows that when he catches her painfully by the hair, she cries out but still does not reach for either dagger or attack him.
+- Knows Seraphina made a determined attempt to flee but has repeatedly refused to draw either dagger or attack him even when caught painfully and physically pinned.
+- Knows Seraphina understands that fighting him might make killing her easier for him to justify; she has asked him this directly.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
