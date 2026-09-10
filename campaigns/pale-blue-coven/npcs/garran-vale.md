@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: at the rear entrance of the low stone building in the neglected walled yard beyond Bellwater, with Seraphina
+- Location: on the cellar stair beneath the low stone building beyond Bellwater, with Seraphina
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; actively relying on her discipline and night observation
 
 ## Description, voice & mannerisms
@@ -17,10 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Enter the low stone building without alerting the two known workers.
-- Locate the seventh load described as fresh and whole when loaded.
-- Determine what lies in the cellar and whether the fresh body is intact or poses an immediate supernatural threat.
-- Keep Seraphina with him during the infiltration rather than sending her below alone.
+- Quietly control or disable the two workers before they can raise an alarm or reach the deeper passage.
+- Preserve evidence in the cellar and identify the recently dead seventh body if possible.
+- Investigate the deeper passage after the immediate human threat is controlled.
+- Keep Seraphina with him during the infiltration.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
@@ -33,15 +33,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 35 / 100 — Seraphina continues following Garran's lead exactly during the infiltration.
+- Trust: 36 / 100 — Seraphina remains close and controlled during the descent, following Garran's lead without exposing them.
 - Affection: 34 / 100 — unchanged; the emotional conflict remains unresolved beneath the work.
-- Respect: 79 / 100 — her continued quiet movement keeps their approach undetected.
-- Loyalty: 13 / 100 — she stays beside him as they prepare to enter the building.
-- Fear: 49 / 100 — her supernatural advantages remain controlled and directed toward their shared objective.
-- Suspicion: 76 / 100 — repeated disciplined cooperation modestly reduces immediate operational suspicion, though personal questions remain unresolved.
+- Respect: 80 / 100 — her stealth and observation continue to provide concrete tactical advantage.
+- Loyalty: 14 / 100 — she continues into the cellar beside him despite the danger.
+- Fear: 49 / 100 — unchanged; her supernatural capability remains controlled and useful.
+- Suspicion: 76 / 100 — unchanged regarding unresolved personal secrets.
 
 ## Relationship to player
-**Hostile uncertainty under effective cooperation.** Seraphina continues taking Garran's lead and follows him silently to the rear entrance. They have reached an unlocked door into an empty service room with stairs descending toward the two known workers and the seventh load.
+**Hostile uncertainty under effective cooperation.** Seraphina follows Garran closely into the cellar without detection. Together they have located the seventh load: a recently dead human body already being deliberately cut and processed by the two workers, with a dark passage leading deeper into the site.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -58,10 +58,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: A heavily laden covered cart emerges from Saint Orra's rear gate after the signal.
 - S01: Seraphina successfully shadows the cart away from Bellwater while Garran follows behind.
 - S01: Seraphina follows the cart to a neglected walled yard and discovers crates being unloaded into a low stone building.
-- S01: Seraphina confirms to Garran that the one crate she saw inside contained bones, while making clear she did not see inside the others.
 - S01: Seraphina and Garran overhear that seven loads were delivered: six bone and one fresh, the latter described as whole when loaded.
-- S01: After the driver departs, Seraphina follows Garran through the wall breach and into the yard without detection.
-- S01: Seraphina follows Garran from the cellar hatch to the rear entrance, where they find an unlocked service room and stairs descending toward the workers.
+- S01: After the driver departs, Seraphina follows Garran through the wall breach and into the building without detection.
+- S01: Seraphina follows Garran into the cellar and they locate the seventh load as a recently dead young human man whose body is being deliberately processed by the two workers.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -76,14 +75,12 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina ran because she expects Garran, as a monster-hunter, to kill her and that she still believes he may do so.
 - Knows Seraphina repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
 - Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
-- Knows the Saint Orra cart reached this neglected walled yard and delivered seven loads.
-- Knows one opened crate contained cleaned human bones.
-- Knows from overheard conversation that six loads were described as bone and one as fresh; the driver said the fresh one was whole when loaded.
-- Knows the two workers are currently below the service room rather than immediately behind the rear entrance.
-- Knows the rear door is unlocked and a stone stair descends from the service room into the cellar.
-- Does not know whether fresh means a corpse, living captive, or something else, nor its present condition.
-- Does not know the occupants' identities or whether this is the final destination.
-- Does not know whether the coven later ordered her to remain close after discovering her interest.
+- Knows the Saint Orra cart delivered six bone loads and one fresh whole load to this site.
+- Knows the seventh load is the intact body of a recently dead young human man and that the workers have begun deliberately cutting and processing it.
+- Knows six bone crates are stacked in the cellar and that tools, bowls, cloths, and marked containers are arranged for deliberate processing.
+- Knows a second dark passage or doorway leads deeper beyond the cellar.
+- Does not know the dead man's identity, cause of death, the ultimate purpose of the processed remains, or what lies beyond the deeper passage.
+- Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
 - Does not yet know with certainty that Seraphina's declaration of love is sincere.
