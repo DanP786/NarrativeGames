@@ -4,7 +4,7 @@
 - Nature: human
 - Role: sworn knight and monster-hunter
 - Location: concealed observation position overlooking Saint Orra's rear service lane; sword lowered but still in hand facing Seraphina, who is backed against a wall
-- Relationship to Seraphina: Hostile uncertainty; her admission of feeding on humans reinforces his oath even as her conduct complicates his judgment
+- Relationship to Seraphina: Hostile uncertainty; her claim of nonlethal feeding materially complicates his judgment
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -18,9 +18,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Short-term goals
 - Determine whether Seraphina presents an immediate threat.
-- Establish how Seraphina feeds, how often, and whether her victims survive.
-- Test her claim that she chooses drunks and men who are rough with women rather than indiscriminately hunting humans.
-- Decide what his oath requires when confronted with a vampire who admits attacking humans but whose recent conduct has repeatedly preserved human life.
+- Test Seraphina's claim that she deliberately leaves feeding victims alive.
+- Establish how often she feeds and what harm survivors suffer.
+- Decide what his oath requires when confronted with a vampire who admits attacking humans for blood but claims restraint and has repeatedly demonstrated restraint in his presence.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -32,15 +32,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 15 / 100 — Seraphina answers an incriminating question rather than evading it, but Garran has no independent proof of how selectively she feeds.
-- Affection: 29 / 100 — slight recoil at the concrete reality that she feeds on people.
-- Respect: 55 / 100 — unchanged; her willingness to answer plainly registers without absolving the conduct.
+- Trust: 18 / 100 — her claim is unverified, but it aligns with restraint Garran has personally witnessed.
+- Affection: 30 / 100 — slight recovery as her feeding practice, if true, is less lethal than he feared.
+- Respect: 58 / 100 — deliberate restraint while feeding would be significant, and her conduct at the tithe pit supports the possibility.
 - Loyalty: 4 / 100 — unchanged.
-- Fear: 61 / 100 — the abstract fact of vampirism becomes concrete: she admits hunting human beings for blood.
-- Suspicion: 90 / 100 — Garran now needs specifics about whether those attacks end in death and how she decides who deserves to become prey.
+- Fear: 56 / 100 — still high, but the claim that she leaves victims alive reduces the immediate image of her as an indiscriminate killer.
+- Suspicion: 86 / 100 — Garran remains deeply suspicious and will want details rather than accepting a single-word assurance.
 
 ## Relationship to player
-**Hostile uncertainty.** Seraphina admits that she feeds primarily on drunks and men who are rough with women. Garran does not treat target selection as absolution: she has confirmed that she attacks humans for blood. Yet her shame, her candid answer, and her demonstrated restraint toward prisoners and Garran prevent the admission from resolving his conflict cleanly.
+**Hostile uncertainty.** Seraphina says the humans she feeds upon survive. Garran has only her word for it, but the claim is consistent with restraint he has already seen from her. The moral conflict sharpens: she admits preying upon humans, yet may not be the kind of killer his oath has taught him to expect.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -55,7 +55,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina says, 'Because I love you.' Garran initially refuses to believe her.
 - S01: Seraphina refuses to reveal her coven, confirms the coven knows she has followed Garran, and says she began following him before they knew about him.
 - S01: Seraphina reveals she secretly followed Garran for roughly a year and says she wanted nothing except to know he was safe.
-- S01: Asked whom she feeds upon, Seraphina looks ashamed and says, 'Drunks mostly, men who are rough with women.'
+- S01: Seraphina says she feeds mostly on drunks and men who are rough with women.
+- S01: Asked whether her feeding victims live, Seraphina answers, 'Yes.'
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -67,8 +68,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina began following him before her coven knew about him and did so for roughly a year before their direct meeting.
 - Knows Seraphina says she wanted nothing from him and followed only because she wanted to know he was safe.
 - Knows Seraphina says she feeds mostly on drunks and men who are rough with women.
-- Does not know how often she feeds, how she selects or verifies targets, or whether her victims usually survive.
-- Does not know that she fed from a warehouse laborer earlier today.
+- Knows Seraphina says the humans she feeds upon live.
+- Does not know how often she feeds, how she selects or verifies targets, or how badly survivors are harmed.
+- Does not know that she fed from a warehouse laborer earlier today and left him alive but profoundly weakened.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
 - Knows that even when backed against a wall under his sword, Seraphina keeps her hands visible and does not reach for her daggers or attack.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
