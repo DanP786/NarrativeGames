@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: neglected walled yard beyond Bellwater, kneeling near Seraphina after returning from the burial works
+- Location: neglected walled yard beyond Bellwater, beside Seraphina and the dead escaped swordsman
 - Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is unmistakable in crisis
 
 ## Description, voice & mannerisms
@@ -17,10 +17,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Determine how badly Seraphina is wounded and what happened in the yard after she pursued the escaped swordsman.
+- Determine Seraphina's remaining injuries and ensure there are no immediate threats in the yard.
 - Regain full control of the remaining living prisoners.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
-- Establish what happened with the crossbow defender after his advance through the burial passage.
+- Establish the condition and information of the captured crossbow defender.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
 
 ## Long-term goals
@@ -34,14 +34,14 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 40 / 100 — unchanged.
-- Affection: 54 / 100 — unchanged.
+- Affection: 56 / 100 — increased by protective concern after learning the escaped swordsman attempted to sexually assault Seraphina.
 - Respect: 87 / 100 — unchanged.
 - Loyalty: 24 / 100 — unchanged.
 - Fear: 52 / 100 — unchanged.
 - Suspicion: 76 / 100 — unchanged.
 
 ## Relationship to player
-**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Garran has returned from the deeper burial passage and found Seraphina alive but bloodied beside the dead escaped swordsman. He is concerned for her condition and immediately suspicious of the unexplained scene, but the larger Bellwater threat remains active.
+**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Garran has returned from the deeper burial passage, found Seraphina alive beside the dead escaped swordsman, and now knows the man attempted to sexually assault her during their struggle. His unresolved oath and suspicion remain, but immediate concern for Seraphina is sharpened by what happened in his absence.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -74,6 +74,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina tears the embedded crossbow bolt from her own side, screams, and packs the wound with her cloak.
 - S01: Garran advances farther into the passage to deal with the crossbow position, temporarily leaving Seraphina behind cover with the wounded prisoners.
 - S01: Garran later returns through the cellar and reaches the rear yard, where he finds Seraphina lying beside the dead escaped swordsman. Seraphina says the man ran and she chased him, then immediately asks about the archer rather than explaining the rest of the scene.
+- S01: Garran tells Seraphina the archer is alive, disarmed, hurt, and bound. He asks what the escaped swordsman did to her after reading the signs of a violent close struggle.
+- S01: Seraphina bluntly tells Garran that the wounded swordsman attempted to use sexual violence against her. She then sits up and wipes blood from her mouth with her cloak, no longer needing pressure on the healing crossbow wound.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -104,10 +106,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows that even after being struck, Seraphina explicitly prioritized taking the hostile men prisoner and told Garran to leave her rather than abandon the objective.
 - Knows Seraphina deliberately removed the crossbow bolt herself and packed the resulting wound with her cloak.
 - Knows Seraphina later pursued the escaped swordsman into the yard and that the man is now dead beside her.
-- Can see evidence of a violent close struggle in the yard, Seraphina's bloodied condition, and blood around her mouth, but does not yet know exactly what occurred.
+- Knows from Seraphina's explicit statement and the physical scene that the escaped swordsman attempted to sexually assault her during their struggle.
+- Can see blood around Seraphina's mouth and that her severe side wound has improved with unnatural speed, but does not yet know exactly how or from whom she fed.
 - Does not know Seraphina briefly fed from the bound cellar worker.
 - Does not know Seraphina drank her fill from the dying swordsman.
-- Does not know the swordsman attempted to sexually assault Seraphina.
 - Does not know an unidentified rival vampire entered the yard, offered Seraphina his blood and a change of allegiance, learned she belongs to the Pale Court, and then departed.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
 - Does not know Seraphina's maker or history.
