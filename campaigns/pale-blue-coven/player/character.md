@@ -6,7 +6,7 @@
 - Coven standing: useful outsider; one of the youngest members, but proven
 - Appearance: honey-blonde hair, blue eyes, small build suited to agility rather than strength. She favors black leather with pale-blue fabrics, the colors of her coven. She loves experimenting with makeup and uses it to lend her skin a more living flush.
 - Temperament: quiet and observant.
-- Feeding: dislikes torturing prey and usually leaves those she feeds from alive.
+- Feeding: dislikes torturing prey and usually leaves those she feeds from alive. She has not allowed herself to drink completely freely since she was first turned.
 
 ## History
 
@@ -14,4 +14,4 @@ Seraphina was taken by her present coven after its vampires killed most of her v
 
 ## Current state
 
-Seraphina has revealed herself as a vampire to Sir Garran Vale during their Bellwater investigation and confessed that she loves him. She was badly wounded when a crossbow bolt struck her side in the burial tunnels; she tore the bolt free and initially packed the wound with her cloak. During pursuit of an escaping wounded prisoner, she briefly fed from a living worker tied to the cellar processing table, deliberately stopping after a short drink and leaving him alive. Later, after that escaping swordsman attempted to sexually assault her and was mortally wounded in their struggle, Seraphina crawled to him and drank her fill. He is dead afterward. The larger feeding substantially strengthens Seraphina and accelerates her vampiric healing, though her injuries do not vanish instantaneously. Garran witnessed neither feeding.
+Seraphina has revealed herself as a vampire to Sir Garran Vale during their Bellwater investigation and confessed that she loves him. She was badly wounded when a crossbow bolt struck her side in the burial tunnels; she tore the bolt free and initially packed the wound with her cloak. During pursuit of an escaping wounded prisoner, she briefly fed from a living worker tied to the cellar processing table, deliberately stopping after a short drink and leaving him alive. Later, after that escaping swordsman attempted to sexually assault her and was mortally wounded in their struggle, Seraphina crawled to him and drank her fill, the first time she has permitted herself to drink that freely since she was first turned. He is dead afterward. The unusually full feeding substantially strengthens Seraphina and accelerates her vampiric healing, though her injuries do not vanish instantaneously. She is now lying on her back in the yard beside the dead swordsman, taking a moment to recover while the blood works through her. Garran witnessed neither feeding.
