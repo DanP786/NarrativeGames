@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: mouth of the deeper burial passage beneath the Bellwater processing site, protecting wounded Seraphina from the crossbow line
-- Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is now unmistakable in crisis
+- Location: mouth of the deeper burial passage beneath the Bellwater processing site, between wounded Seraphina and the crossbow threat
+- Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is unmistakable in crisis
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,9 +17,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Get Seraphina out of the crossbowman's direct line without removing the embedded bolt.
 - Neutralize and, if feasible, take the crossbow defender alive as Seraphina requested.
-- Determine how badly Seraphina is wounded once immediate fire is suppressed.
+- Prevent another shot from reaching Seraphina while she is down behind cover.
+- Determine how badly Seraphina is wounded after she pulled the bolt from her own side and began packing the wound with her cloak.
 - Prevent the wounded prisoners from exploiting the crisis.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
@@ -34,15 +34,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 40 / 100 — even badly wounded, Seraphina's immediate priority is taking the hostile men prisoner rather than killing them.
-- Affection: 50 / 100 — her telling him to leave her while she is seriously wounded intensifies rather than reduces his protective concern.
-- Respect: 87 / 100 — she remains focused on the objective and preservation of prisoners while wounded.
-- Loyalty: 22 / 100 — Garran explicitly refuses to abandon her under active hostile fire.
-- Fear: 49 / 100 — unchanged.
-- Suspicion: 75 / 100 — immediate suspicion eases slightly in the face of her insistence on prisoners despite her wound, though deeper questions remain.
+- Trust: 40 / 100 — unchanged.
+- Affection: 52 / 100 — hearing Seraphina scream as she tears the bolt free sharpens his personal concern.
+- Respect: 87 / 100 — unchanged.
+- Loyalty: 23 / 100 — Garran remains committed to protecting her while managing the hostile position.
+- Fear: 51 / 100 — the violent removal and uncertain severity of her wound increase alarm, compounded by his ignorance of vampiric healing.
+- Suspicion: 76 / 100 — her unfamiliar self-treatment underscores how much he does not know about her physiology.
 
 ## Relationship to player
-**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Seraphina tells Garran to leave her and take the attackers prisoner. Garran refuses to abandon her in the crossbow line, moves her toward cover, and intends to preserve the defender alive if circumstances permit.
+**Hostile uncertainty temporarily subordinated to protection and shared purpose.** Seraphina has torn the crossbow bolt from her own side and packed the wound while Garran remains between her and the prepared defender. Her physiology and the correct treatment for her injuries are largely unknown to him.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -72,6 +72,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina later forces herself upright, leans heavily on the wall, and takes a step toward the prepared passage despite still being visibly unsteady.
 - S01: The concealed defender fires a crossbow bolt into Seraphina's side, dropping her in the passage with the bolt still embedded.
 - S01: Seraphina tells Garran to take the hostile men prisoner and leave her. Garran refuses to leave her exposed, pulls her toward cover, and continues against the threat.
+- S01: Seraphina tears the embedded crossbow bolt from her own side, screams from the pain, rolls facedown to muffle herself, and packs the wound with her cloak while retaining her dagger.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -98,9 +99,10 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina took a hard blow to the head against stone, staggered, pursued anyway, and was subsequently pinned and strangled by a larger armed man until Garran pulled him off her.
 - Knows Seraphina can distinguish more in deep darkness than he can and has reported a low wooden obstruction and at least one concealed defender around the next bend.
 - Knows Seraphina substantially understated her impairment before advancing.
-- Knows the concealed defender has a crossbow and has struck Seraphina in the side with a bolt that remains embedded.
+- Knows the concealed defender struck Seraphina in the side with a crossbow bolt.
 - Knows that even after being struck, Seraphina explicitly prioritized taking the hostile men prisoner and told Garran to leave her rather than abandon the objective.
-- Does not yet know the depth or internal severity of Seraphina's crossbow wound or how vampiric physiology affects it.
+- Knows Seraphina deliberately removed the crossbow bolt herself and packed the resulting wound with her cloak, suggesting she believes removal is necessary despite the bleeding.
+- Does not yet understand the speed, limits, or requirements of Seraphina's vampiric healing.
 - Does not know the dead man's identity, cause of death, Master Hadrik's full identity or location, the ultimate purpose of the processed remains, or what lies farther into the burial tunnels.
 - Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
