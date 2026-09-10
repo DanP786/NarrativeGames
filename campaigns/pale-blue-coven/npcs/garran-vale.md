@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: narrow burial passage beneath the Bellwater corpse-processing site, blocking Seraphina's path back toward the cellar
-- Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is unmistakable in crisis
+- Location: narrow burial passage beneath the Bellwater corpse-processing site, directly beside Seraphina
+- Relationship to Seraphina: Hostile uncertainty under effective cooperation; protective concern complicated by the realization that his refusal to release her has placed her under his practical authority
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,8 +17,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Prevent Seraphina from simply leaving until the Bellwater site is secured and the immediate facts are established.
-- Regain full control of the remaining living prisoners.
+- Secure the Bellwater site and remaining living prisoners before allowing anyone to leave.
+- Avoid treating Seraphina as a formal prisoner unless he actually chooses to take responsibility for doing so.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Question the captured crossbow defender.
 - Establish the source and circumstances of the fresh blood around Seraphina's mouth and the dead swordsman in the yard.
@@ -34,15 +34,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 40 / 100 — unchanged.
-- Affection: 56 / 100 — unchanged.
+- Trust: 41 / 100 — slight increase after Seraphina immediately sheaths both weapons and yields the passage when ordered.
+- Affection: 57 / 100 — slight increase from seeing her disappointment and unresisting compliance after he refuses to let her go.
 - Respect: 87 / 100 — unchanged.
 - Loyalty: 24 / 100 — unchanged.
-- Fear: 52 / 100 — unchanged.
-- Suspicion: 78 / 100 — increased slightly because Seraphina asks to leave while the source of fresh blood around her mouth remains unexplained.
+- Fear: 51 / 100 — slight decrease after her voluntary disarmament and submission rather than challenging him in the confined passage.
+- Suspicion: 78 / 100 — unchanged; the unexplained blood and healing remain unresolved.
 
 ## Relationship to player
-**Hostile uncertainty under immediate moral and practical pressure.** Seraphina has directly asked Garran to either kill her, take her prisoner, or let her return home. Garran is not prepared to choose death or formal captivity on impulse, but neither can he simply let her leave while the Bellwater operation remains unsecured and critical facts about the yard and her sudden healing remain unexplained.
+**Hostile uncertainty under immediate moral and practical pressure.** Seraphina has directly asked Garran to kill her, imprison her, or let her go home. Garran refused to let her leave without formally declaring her a prisoner. When ordered to sheath her daggers, Seraphina immediately obeyed, pressed herself against the narrow wall, and lowered her eyes to let him pass. That compliance makes the practical imbalance between them impossible for Garran to ignore even while the Bellwater investigation remains unfinished.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -79,6 +79,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina bluntly tells Garran that the wounded swordsman attempted to use sexual violence against her. She then sits up and wipes blood from her mouth with her cloak, no longer needing pressure on the healing crossbow wound.
 - S01: Seraphina clarifies that the swordsman did not rape her, then rises and heads back into the building to retrieve her first dagger from the wounded worker below.
 - S01: Seraphina retrieves her first dagger, turns to find Garran blocking the narrow passage, and flatly asks him to either kill her, take her prisoner, or let her return home.
+- S01: Garran refuses to let Seraphina leave before the site is secured and orders her to sheath her daggers. Her face falls; she immediately obeys, presses her back to the narrow passage wall, and lowers her eyes so he can pass.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -92,6 +93,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Does not know why she selected him, exactly how much blood she took, or the precise condition in which she left him.
 - Knows Seraphina ran because she expects Garran, as a monster-hunter, to kill her and that she still believes he may do so.
 - Knows Seraphina repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
+- Knows Seraphina immediately sheathed both daggers and yielded the narrow passage when he ordered her to put the weapons away.
 - Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
 - Knows the Saint Orra cart delivered six bone loads and one fresh whole load to this site.
 - Knows the seventh load is the intact body of a recently dead young human man and that the workers have begun deliberately cutting and processing it.
