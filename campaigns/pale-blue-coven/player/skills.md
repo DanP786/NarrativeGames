@@ -7,7 +7,7 @@
 - Agility & dagger fighting (8 ticks) — Seraphina's defining competence; fast and precise at close range, but not built to overpower stronger opponents.
 
 ## Novice
-- Stealth (7 ticks) — practiced through hunting and secretly following the knight.
+- Stealth (8 ticks) — practiced through hunting and secretly following the knight.
 - Observation (16 ticks) — quiet, watchful, attentive to details and behavior.
 - Mortal disguise (1 tick) — makeup, clothing and practiced behavior used to conceal signs of undeath and pass among humans.
 
