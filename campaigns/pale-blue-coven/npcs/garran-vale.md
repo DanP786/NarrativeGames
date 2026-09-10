@@ -3,8 +3,8 @@
 - Status: alive
 - Nature: human
 - Role: sworn knight and monster-hunter
-- Location: entering an old burial chamber beneath the Bellwater processing site as Seraphina is pinned beneath an armed man
-- Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate concern for her safety now intrudes openly on the tactical situation
+- Location: old burial chamber beneath the Bellwater processing site, physically engaging the man who had Seraphina pinned
+- Relationship to Seraphina: Hostile uncertainty under effective cooperation; immediate personal concern for her safety is now visible in his actions
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -17,9 +17,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Committed to hunting monsters
 
 ## Short-term goals
-- Immediately get the armed man off Seraphina and prevent him from killing or seriously injuring her.
-- Secure the wounded fugitive and the armed man if possible.
-- Determine what happened to the remaining cellar prisoner after responding to Seraphina's pursuit.
+- Fully secure the armed man he has pulled off Seraphina.
+- Check Seraphina's condition once the immediate attacker is controlled; she has taken a hard head impact and been strangled.
+- Secure the wounded fugitive and account for the remaining cellar prisoner.
 - Stop anyone deeper below from escaping or destroying evidence.
 - Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
 - Later resolve what his oath requires regarding Seraphina and establish the remaining facts about her feeding.
@@ -35,14 +35,14 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 39 / 100 — unchanged during the immediate combat crisis.
-- Affection: 38 / 100 — seeing Seraphina pinned and choking after already taking a hard head blow produces unmistakable immediate concern.
-- Respect: 84 / 100 — even pinned beneath a much larger opponent, she disables his weapon arm and continues fighting.
-- Loyalty: 18 / 100 — she pursued the alarmed threat rather than letting him escape deeper into the operation.
-- Fear: 49 / 100 — seeing her physically vulnerable to sufficient force complicates the image of her as an untouchable supernatural predator.
+- Affection: 40 / 100 — Garran acts immediately and forcefully to get the attacker off Seraphina, with concern extending beyond abstract tactical utility.
+- Respect: 84 / 100 — unchanged; her earlier resistance remains evident despite her present disorientation.
+- Loyalty: 18 / 100 — unchanged.
+- Fear: 48 / 100 — her current physical vulnerability further complicates his image of her as an overwhelmingly dangerous creature.
 - Suspicion: 75 / 100 — unchanged regarding unresolved personal secrets.
 
 ## Relationship to player
-**Hostile uncertainty under increasingly effective tactical cooperation, with immediate personal concern breaking through.** Garran reaches the burial chamber to find Seraphina pinned beneath the armed man, choking while still fighting. His immediate priority is now to get the attacker off her.
+**Hostile uncertainty under increasingly effective tactical cooperation, with visible concern for Seraphina's safety.** Garran physically tears the attacker off Seraphina when he finds her pinned and choking. Seraphina rolls clear coughing and disoriented while Garran takes over the immediate close-quarters threat.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -65,7 +65,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina waits for Garran to initiate an ambush, then takes her assigned worker alive with a dagger at his throat while Garran controls the other.
 - S01: Garran questions the workers while Seraphina silently controls one; they learn of an intermediary called Master Hadrik and that another man is presently somewhere deeper below.
 - S01: Seraphina's much larger captive suddenly slams her into the cellar wall and escapes into the burial tunnels. She pursues despite a hard head impact and brief stagger; the fugitive shouts a warning below.
-- S01: Seraphina wounds the fugitive behind the knee, leaps from him into the armed lantern-bearer, and is then pinned beneath the larger man after their collision. Garran reaches the chamber while she is choking and fighting under him.
+- S01: Seraphina wounds the fugitive behind the knee, leaps from him into the armed lantern-bearer, and is then pinned beneath the larger man after their collision.
+- S01: Garran reaches the chamber, tears the attacker off Seraphina while she is choking, and takes over the immediate fight as she rolls clear coughing and disoriented.
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -89,7 +90,7 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows the workers claim not to know the ultimate purpose of the remains.
 - Knows one additional man went through the deeper passage earlier and had not returned before the escape.
 - Knows the escaped worker shouted a warning into the tunnels and was then wounded behind the knee by Seraphina's thrown dagger.
-- Knows Seraphina took a hard blow to the head against stone, staggered, pursued anyway, and is now being physically overpowered by a larger armed human after disabling his weapon arm.
+- Knows Seraphina took a hard blow to the head against stone, staggered, pursued anyway, and was subsequently pinned and strangled by a larger armed man until Garran pulled him off her.
 - Does not know the dead man's identity, cause of death, Master Hadrik's full identity or location, the ultimate purpose of the processed remains, or what lies farther into the burial tunnels.
 - Does not know whether the coven later ordered Seraphina to remain close after discovering her interest.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
