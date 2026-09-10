@@ -4,7 +4,7 @@
 - Nature: human
 - Role: sworn knight and monster-hunter
 - Location: concealed observation position overlooking Saint Orra's rear service lane; sword lowered but still in hand facing Seraphina, who is backed against a wall
-- Relationship to Seraphina: Hostile uncertainty; her claim of nonlethal feeding materially complicates his judgment
+- Relationship to Seraphina: Hostile uncertainty; shaken by her admission that she fed on a laborer while he slept
 
 ## Description, voice & mannerisms
 Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
@@ -18,9 +18,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 
 ## Short-term goals
 - Determine whether Seraphina presents an immediate threat.
-- Test Seraphina's claim that she deliberately leaves feeding victims alive.
-- Establish how often she feeds and what harm survivors suffer.
-- Decide what his oath requires when confronted with a vampire who admits attacking humans for blood but claims restraint and has repeatedly demonstrated restraint in his presence.
+- Learn exactly what happened to the laborer Seraphina fed upon while Garran slept, including whether he survived and how badly he was harmed.
+- Test Seraphina's claim of selective, nonlethal feeding against this specific recent victim.
+- Decide what his oath requires when confronted with a vampire whose feeding is now immediate and concrete rather than abstract.
 
 ## Long-term goals
 - Fulfil his oath to hunt and destroy monsters.
@@ -32,15 +32,15 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 18 / 100 — her claim is unverified, but it aligns with restraint Garran has personally witnessed.
-- Affection: 30 / 100 — slight recovery as her feeding practice, if true, is less lethal than he feared.
-- Respect: 58 / 100 — deliberate restraint while feeding would be significant, and her conduct at the tithe pit supports the possibility.
+- Trust: 17 / 100 — the admission is disturbing but voluntarily truthful about conduct Seraphina could easily have concealed.
+- Affection: 27 / 100 — concrete knowledge that she attacked a human while he slept produces renewed recoil.
+- Respect: 59 / 100 — her willingness to confess something immediately incriminating rather than lie registers with Garran.
 - Loyalty: 4 / 100 — unchanged.
-- Fear: 56 / 100 — still high, but the claim that she leaves victims alive reduces the immediate image of her as an indiscriminate killer.
-- Suspicion: 86 / 100 — Garran remains deeply suspicious and will want details rather than accepting a single-word assurance.
+- Fear: 62 / 100 — she fed only hours ago while he was vulnerable and unaware.
+- Suspicion: 91 / 100 — Garran now needs the specific facts of the attack and victim before he can judge her claims of restraint.
 
 ## Relationship to player
-**Hostile uncertainty.** Seraphina says the humans she feeds upon survive. Garran has only her word for it, but the claim is consistent with restraint he has already seen from her. The moral conflict sharpens: she admits preying upon humans, yet may not be the kind of killer his oath has taught him to expect.
+**Hostile uncertainty.** Seraphina admits that she fed on a laborer while Garran slept. The timing makes the reality of her predation immediate and personal: while he trusted her to handle the watch, she left and attacked a human. At the same time, she volunteers the truth despite having every incentive to hide it, complicating Garran's assessment of her honesty.
 
 ## History with player
 - Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
@@ -55,8 +55,8 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - S01: Seraphina says, 'Because I love you.' Garran initially refuses to believe her.
 - S01: Seraphina refuses to reveal her coven, confirms the coven knows she has followed Garran, and says she began following him before they knew about him.
 - S01: Seraphina reveals she secretly followed Garran for roughly a year and says she wanted nothing except to know he was safe.
-- S01: Seraphina says she feeds mostly on drunks and men who are rough with women.
-- S01: Asked whether her feeding victims live, Seraphina answers, 'Yes.'
+- S01: Seraphina says she feeds mostly on drunks and men who are rough with women and that her victims live.
+- S01: Asked when she last fed, Seraphina becomes visibly distressed and admits, 'While you slept, a labourer.'
 
 ## Knowledge
 - Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
@@ -67,10 +67,9 @@ Seraphina knows him as a man of authority, seriousness, physical strength and co
 - Knows Seraphina's coven is aware that she has been following him.
 - Knows Seraphina began following him before her coven knew about him and did so for roughly a year before their direct meeting.
 - Knows Seraphina says she wanted nothing from him and followed only because she wanted to know he was safe.
-- Knows Seraphina says she feeds mostly on drunks and men who are rough with women.
-- Knows Seraphina says the humans she feeds upon live.
-- Does not know how often she feeds, how she selects or verifies targets, or how badly survivors are harmed.
-- Does not know that she fed from a warehouse laborer earlier today and left him alive but profoundly weakened.
+- Knows Seraphina says she feeds mostly on drunks and men who are rough with women and says her victims live.
+- Knows Seraphina fed on a laborer while Garran slept earlier on the 19th of Harvestwane.
+- Does not yet know the laborer was sober, how Seraphina selected him, how deeply she fed, or that she left him alive but profoundly weakened.
 - Does not know whether the coven later ordered her to remain close after discovering her interest.
 - Knows that even when backed against a wall under his sword, Seraphina keeps her hands visible and does not reach for her daggers or attack.
 - Does not know the coven is the Pale Court, where it is located, or its strength.
