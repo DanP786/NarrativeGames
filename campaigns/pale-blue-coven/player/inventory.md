@@ -1,12 +1,19 @@
 # Inventory
 
-- New matched pair of fighting daggers with ivory handles: newly given to Seraphina by Lucien at Veyne Hall to accompany her new red armour and identity. Currently in Seraphina's possession.
-- Original pair of fighting daggers: retained elsewhere at Veyne Hall after Seraphina's abduction; not currently carried, discarded, or destroyed.
-- Original black leather clothing/armor: retained at Veyne Hall; outer leather at the left upper arm was cut by a heavy blade and the side had been pulled back to clean the healing crossbow wound. Precise storage currently unresolved.
-- Pale-blue coven fabrics and accessories: retained at Veyne Hall; precise storage currently unresolved.
-- Hooded cloak suitable for keeping direct sunlight off Seraphina's skin: blood-soaked from earlier use and retained at Veyne Hall; precise storage currently unresolved.
-- Clean ordinary cloth previously used as a dressing over the healing crossbow wound; current condition/location among Seraphina's effects unresolved after she was cleaned and redressed during captivity.
-- Small makeup kit with pigments and applicators: retained at Veyne Hall; precise storage currently unresolved.
-- New fitted red leather armour: currently worn. Prepared by Lucien specifically for Seraphina's small frame. The cut is unmistakably feminine and visually striking while remaining functional fighting armour, deliberately replacing Pale Court black with red as part of her new identity beside Lucien.
+## Weapons
+- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's.
+- Original fighting daggers — retained at Veyne Hall.
 
-Other ordinary personal effects are abstracted until narratively relevant.
+## Armour & clothing
+- Fitted red leather armour — functional martial clothing chosen/provided by Lucien; Seraphina's standard martial outfit when appropriate.
+- Original black leather armour — retained at Veyne Hall; damaged from earlier fighting.
+- Pale-blue fabrics/accessories from Pale Court life — retained among Seraphina's effects.
+- Hooded sunlight cloak — retained; blood-soaked from Bellwater injuries.
+- Civilian black ensemble — high-waisted trousers, thigh-high boots, and feminine black overcoat cinched at the waist; worn on the current Bellwater night-market outing.
+
+## Personal effects
+- Small makeup kit — retained; used by Seraphina to imitate a living flush.
+- Gem-encrusted betrothal ring from Lucien Veyne — enormous, elaborate workmanship beyond Bellwater's local production; resized by Lucien to fit Seraphina's small hand and currently worn on her left hand. Exact gemstone, metal, provenance, value, and deeper symbolism are not yet established.
+
+## Other
+- Other personal effects remain abstracted unless established in play.
