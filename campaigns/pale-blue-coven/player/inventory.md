@@ -1,14 +1,14 @@
 # Inventory
 
 ## Weapons
-- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's for the Bellwater investigation. During the underground limeworks fight, Seraphina throws one into a lantern-bearing searcher's upper torso before killing him with the other. The thrown dagger remains lodged in or immediately beside the dead man's upper torso at the service junction and has not yet been retrieved; Seraphina currently has the other dagger in hand.
+- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's for the Bellwater investigation. During the underground limeworks fight, Seraphina throws one into a lantern-bearing searcher's upper torso, kills him with the other, then retrieves the thrown dagger before returning toward the blood chamber. Both are currently back in her possession and bloodied from the underground killings.
 - Original fighting daggers — retained at Veyne Hall.
 
 ## Armour & clothing
 - Fitted red leather armour — functional martial clothing chosen/provided by Lucien; Seraphina's standard martial outfit when appropriate; currently worn for the Bellwater investigation.
 - Original black leather armour — retained at Veyne Hall; damaged from earlier fighting.
 - Pale-blue fabrics/accessories from Pale Court life — retained among Seraphina's effects.
-- Hooded sunlight cloak — blood-soaked from earlier Bellwater injuries; Seraphina removes it at the underground service junction for freer movement and throws it partway up the steep stone stairs toward the daylight-edged hatch as a deliberate false trail while she hides in the dark lateral passage. It is not currently worn.
+- Hooded sunlight cloak — blood-soaked from earlier Bellwater injuries; Seraphina removes it at the underground service junction for freer movement and throws it partway up the steep stone stairs toward the daylight-edged hatch as a deliberate false trail. It remains there while Seraphina returns toward the blood chamber and is not currently worn.
 - Civilian black ensemble — high-waisted trousers, thigh-high boots, and feminine black overcoat cinched at the waist; retained at Veyne Hall unless otherwise established.
 
 ## Personal effects
