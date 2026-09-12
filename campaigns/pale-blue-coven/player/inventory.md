@@ -8,7 +8,7 @@
 - Fitted red leather armour — functional martial clothing chosen/provided by Lucien; Seraphina's standard martial outfit when appropriate; currently worn for the Bellwater investigation.
 - Original black leather armour — retained at Veyne Hall; damaged from earlier fighting.
 - Pale-blue fabrics/accessories from Pale Court life — retained among Seraphina's effects.
-- Hooded sunlight cloak — blood-soaked from earlier Bellwater injuries; Seraphina removes it at the underground service junction for freer movement and leaves it concealed nearby in the dark lateral passage while she lies in ambush. It is not currently worn.
+- Hooded sunlight cloak — blood-soaked from earlier Bellwater injuries; Seraphina removes it at the underground service junction for freer movement and throws it partway up the steep stone stairs toward the daylight-edged hatch as a deliberate false trail while she hides in the dark lateral passage. It is not currently worn.
 - Civilian black ensemble — high-waisted trousers, thigh-high boots, and feminine black overcoat cinched at the waist; retained at Veyne Hall unless otherwise established.
 
 ## Personal effects
