@@ -1,7 +1,7 @@
 # Inventory
 
 ## Weapons
-- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's and carried sheathed at her sides for the Bellwater investigation. One has fresh blood on it from Seraphina's silent killing of the blood-chamber worker Renn.
+- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's for the Bellwater investigation. During the underground limeworks fight, Seraphina throws one into a lantern-bearing searcher's upper torso before killing him with the other. The thrown dagger remains lodged in or immediately beside the dead man's upper torso at the service junction and has not yet been retrieved; Seraphina currently has the other dagger in hand.
 - Original fighting daggers — retained at Veyne Hall.
 
 ## Armour & clothing
