@@ -1,7 +1,7 @@
 # Inventory
 
 ## Weapons
-- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's for the Bellwater investigation. During the underground limeworks fight, Seraphina previously throws and retrieves one dagger against a lantern-bearing searcher. In the blood chamber she later throws both simultaneously into the final two active guards while they are engaged with Garran and Frederick. After the chamber resistance ends, Seraphina walks over and retrieves both blades from the fallen guards. Both daggers are currently back in her possession and heavily bloodied.
+- Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne; currently Seraphina's for the Bellwater investigation. During the underground limeworks fight, Seraphina previously throws and retrieves one dagger against a lantern-bearing searcher. In the blood chamber she later throws both simultaneously into the final two active guards while they are engaged with Garran and Frederick. After the chamber resistance ends, Seraphina retrieves both blades from the fallen guards. At the rear holding room she sheathes both heavily bloodied daggers before telling the seven captives they are free. Both are currently sheathed on her person.
 - Original fighting daggers — retained at Veyne Hall.
 
 ## Armour & clothing
