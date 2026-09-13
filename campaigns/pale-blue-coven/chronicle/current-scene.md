@@ -1,8 +1,8 @@
 # Current scene
 
-When Lucien asks Seraphina what she wants him to do rather than simply submitting to whatever he decides, Seraphina answers plainly: "To love me."
+When Lucien asks what Seraphina needs from him in order to feel loved, she answers, "To trust me. Even though I've given you no reason to..." Her answer openly acknowledges both her desire for Lucien's trust and her belief that her recent conduct has failed to justify it.
 
-The answer changes the immediate tenor of the confrontation. Lucien goes still and treats the request seriously rather than as an invitation to sex or another command. He tells Seraphina that he does love her, but acknowledges that locking her away and leaving her alone has not made that love easy for her to recognize. He does not return the ring yet and does not declare the trust conflict resolved. Instead, he asks what being loved by him needs to mean to Seraphina, leaving her to define the answer rather than prescribing it for her.
+Lucien does not simply accept Seraphina's self-condemnation. He distinguishes between her having given him reasons to be angry and frightened and her having given him no reason at all to trust her. He points to the fact that she returned to him, told him the truth about Garran's kiss once confronted, and is presently speaking plainly rather than merely offering obedience. He also acknowledges that trust cannot meaningfully be rebuilt by keeping her perpetually locked away where she has no opportunity to exercise choice. The trust conflict remains unresolved, but Lucien's response shifts it away from requiring perfect obedience as the sole proof of trustworthiness.
 
 Lucien still does not know Seraphina's private hours-long spiral over whether remaining with him is best for her unless she reveals it. Seraphina's voluntary closeness and compliant/open posture do not establish blanket consent to sexual activity. No sexual activity occurs in this beat.
 
