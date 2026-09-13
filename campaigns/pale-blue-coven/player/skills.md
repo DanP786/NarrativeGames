@@ -8,7 +8,7 @@
 
 ## Novice
 - Stealth (24 ticks) — practiced through hunting and secretly following the knight. The additional tick records her earlier successful concealed movement when she rejoined Garran outside the limeworks.
-- Observation (29 ticks) — quiet, watchful, attentive to details and behavior.
+- Observation (30 ticks) — quiet, watchful, attentive to details and behavior. The latest tick records Seraphina noticing three predatory men approaching and beginning to position themselves around her cart before they reach immediate grabbing distance.
 - Mortal disguise (1 tick) — makeup, clothing and practiced behavior used to conceal signs of undeath and pass among humans.
 
 ## Notable Untrained
