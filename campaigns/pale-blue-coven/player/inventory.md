@@ -14,7 +14,7 @@
 ## Personal effects
 - Small makeup kit — retained; used by Seraphina to imitate a living flush.
 - Gem-encrusted betrothal ring from Lucien Veyne — enormous, elaborate workmanship beyond Bellwater's local production; resized by Lucien to fit Seraphina's small hand. During the carriage ride away from Bellwater, Lucien takes the ring from where Seraphina had hidden it beneath her armour/clothing and pockets it. He tells Seraphina she will have to earn the right to wear it again. The engagement is not explicitly ended, but the ring is currently in Lucien's possession and not on Seraphina's person.
-- Private leather-strap arrangement — placed on Seraphina by Lucien before the Bellwater expedition as part of their established consensual private intimacy; exact intimate placement/effects intentionally undescribed. While preparing to bathe after returning to Veyne Hall, Seraphina reaches to remove the straps and Lucien tells her, "Not those." Whether Seraphina complies is unresolved.
+- Private leather-strap arrangement — used by Lucien and Seraphina as part of their established consensual private intimacy; exact intimate placement/effects intentionally undescribed. Lucien had instructed Seraphina to leave the straps in place after Bellwater. Following their later trust conversation and renewed consensual intimacy in their private rooms, the straps are removed from Seraphina. They remain among their private effects unless otherwise established.
 
 ## Other
 - Other personal effects remain abstracted unless established in play.
