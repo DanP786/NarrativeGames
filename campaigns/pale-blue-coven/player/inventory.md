@@ -10,6 +10,7 @@
 - Pale-blue fabrics/accessories from Pale Court life — retained among Seraphina's effects.
 - Hooded sunlight cloak — blood-soaked from earlier Bellwater injuries; left behind on the Bellwater operation cart when Seraphina departs with Lucien at night. It is not currently on Seraphina's person.
 - Civilian black ensemble — high-waisted trousers, thigh-high boots, and feminine black overcoat cinched at the waist; retained at Veyne Hall unless otherwise established.
+- Red silk halter dress — figure-hugging red silk dress kept in the private wardrobe at Veyne Hall. Seraphina puts it on after playfully declaring she will withhold from Lucien; currently worn without undergarments.
 
 ## Personal effects
 - Small makeup kit — retained; used by Seraphina to imitate a living flush.
