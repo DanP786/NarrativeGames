@@ -13,7 +13,7 @@
 
 ## Personal effects
 - Small makeup kit — retained; used by Seraphina to imitate a living flush.
-- Gem-encrusted betrothal ring from Lucien Veyne — enormous, elaborate workmanship beyond Bellwater's local production; resized by Lucien to fit Seraphina's small hand. Seraphina had hidden it beneath the front of her armour/clothing for the Bellwater expedition. During the carriage ride away from Bellwater, Lucien retrieves the ring from her person while angry over her broken field condition and Garran's revealed kiss. The ring is currently in Lucien's possession; whether he intends to return it is unresolved.
+- Gem-encrusted betrothal ring from Lucien Veyne — enormous, elaborate workmanship beyond Bellwater's local production; resized by Lucien to fit Seraphina's small hand. During the carriage ride away from Bellwater, Lucien takes the ring from where Seraphina had hidden it beneath her armour/clothing and pockets it. He tells Seraphina she will have to earn the right to wear it again. The engagement is not explicitly ended, but the ring is currently in Lucien's possession and not on Seraphina's person.
 
 ## Other
 - Other personal effects remain abstracted unless established in play.
