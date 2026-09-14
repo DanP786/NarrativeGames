@@ -9,9 +9,9 @@
 - Original black leather armour — retained at Veyne Hall; damaged from earlier fighting.
 - Pale-blue fabrics/accessories from Pale Court life — retained among Seraphina's effects at Veyne Hall.
 - Hooded sunlight cloak — blood-soaked from earlier Bellwater injuries; left behind on the Bellwater operation cart when Seraphina departed with Lucien at night. It is not currently on Seraphina's person.
-- Civilian black ensemble — high-waisted trousers, thigh-high boots, and feminine black overcoat cinched at the waist. At Edric's hut Seraphina removes her boots and the stiff/leather travelling pieces and retains comfortable cloth layers while resting.
-- Black cloak — removed inside Edric's hut before Seraphina goes to bed; remains with her gear there.
-- Leather travelling harnesses — removed inside Edric's hut before Seraphina goes to bed; remain with her gear there.
+- Civilian black ensemble — high-waisted trousers, thigh-high boots, and feminine black overcoat cinched at the waist. Seraphina puts the travelling ensemble back on at Edric's hut as evening approaches.
+- Black cloak — put back on/carried by Seraphina as she prepares to leave Edric's hut at evening.
+- Leather travelling harnesses — put back on by Seraphina as she prepares to leave Edric's hut at evening.
 - Red silk halter dress — retained at Veyne Hall. Seraphina used it during her now-ended attempt to communicate continued choice and repair through playful temptation.
 - Additional striking dresses — retained/expected at Veyne Hall; exact designs, makers and delivery dates not established. The campaign they were commissioned for has ended.
 
@@ -21,7 +21,7 @@
 - Private leather-strap arrangement — remains among the private effects at Veyne Hall unless otherwise established.
 
 ## Current clothing practice
-- Seraphina is awake at Edric's shuttered woodland hut in comfortable cloth layers, with her boots, black cloak and leather travelling harnesses still removed nearby. Her original fighting daggers have been returned to her possession.
+- Seraphina is dressing to resume travelling from Edric's woodland hut in her civilian black ensemble, boots, leather travelling harnesses and black cloak, with her original fighting daggers back in her possession.
 
 ## Other
 - Other personal effects remain abstracted unless established in play.
