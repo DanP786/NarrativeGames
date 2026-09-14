@@ -2,137 +2,102 @@
 
 - Status: alive
 - Nature: human
-- Role: sworn knight and monster-hunter
-- Location: neglected yard outside the Bellwater corpse-processing site as Seraphina departs
-- Relationship to Seraphina: Hostile uncertainty under painful moral conflict; Garran has chosen neither to kill nor imprison her tonight, but his oath and unanswered questions remain unresolved
+- Role: sworn knight and monster-hunter; investigator of the Bellwater blood-collection network
+- Location: Bellwater region; exact current whereabouts not established after Seraphina leaves with Lucien
+- Relationship to Seraphina: Wary; emotionally entangled and morally conflicted, but now separated from her by Lucien's threat and Seraphina's choice to leave
 
 ## Description, voice & mannerisms
-Seraphina knows him as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence, and evidence rather than theatrical threats.
+Seraphina knows Garran as a man of authority, seriousness, physical strength and confidence. He carries himself with the discipline of someone who treats duty as obligation rather than performance. In immediate danger he gives short, practical commands and prioritizes the threat at hand over argument. He does not readily accept explanations merely because they are possible; when he thinks someone is evading him, he tests the story against concrete evidence. His humor, when it surfaces, is dry and understated. In questioning, he prefers specific facts, controlled silence and evidence rather than theatrical threats.
 
 ## Traits
-- Serious
-- Confident
-- Dutiful
-- Physically formidable by ordinary human standards
-- Committed to hunting monsters
+- Serious and dutiful
+- Confident and physically formidable by ordinary human standards
+- Evidence-minded and suspicious of convenient explanations
+- Morally rigid in principle but capable of painful exceptions when experience contradicts doctrine
+- Protective impulses can conflict with his oath and judgment
 
 ## Short-term goals
-- Arrange custody or later handling of the surviving Bellwater prisoners and evidence.
-- Determine the limits Seraphina places on feeding from humans and whether her stated restraint can be relied upon under pressure.
-- Determine how much Seraphina took from the dead swordsman and whether feeding materially contributed to his death.
-- Avoid collapsing Seraphina's response to attempted sexual violence into a purely abstract monster-hunting judgment while still taking her feeding seriously.
-- Identify Master Hadrik and determine his role, location, and ultimate use for the human remains.
-- Determine the schedule and destination of the next onward collection of prepared remains.
-- Resolve what his oath requires regarding Seraphina rather than evading the question indefinitely.
+- Continue or resolve the Bellwater investigation into the organized collection of human blood.
+- Follow the lead to the riverside storehouse east/downstream of Bellwater with the whitewashed gable, broken waterwheel and old millrace.
+- Determine Master Hadrik's exact role and the ultimate buyer or purpose behind the blood shipments.
+- Decide what to do with the prepared operation cart and the planned consignment of twelve bottles after Seraphina and Lucien's departure.
+- Decide whether to obey Lucien's demand that he stay away from Seraphina and Veyne property.
+- Reconcile his monster-hunter oath with the fact that Seraphina repeatedly protected humans, aided him and refused violence against him while also unquestionably feeding on humans.
 
 ## Long-term goals
-- Fulfil his oath to hunt and destroy monsters.
+- Fulfil his oath to hunt and destroy monsters without knowingly becoming a servant of a simplistic rule that ignores what he has personally witnessed.
+- Break the Bellwater blood-collection network and identify those responsible for imprisoning and repeatedly bleeding living captives.
 
 ## Methods & lines
-- In immediate danger, gives short practical commands and prioritizes the active threat.
-- When an explanation seems incomplete, tests it with concrete follow-up questions rather than immediately accepting or rejecting it without evidence.
-- In interrogation, uses specific questions, known evidence, and uncomfortable silence before escalating force.
-- Existing oath and conduct establish that he is willing to pursue dangerous supernatural threats personally.
+- Will: investigate personally, follow physical evidence, question prisoners, use controlled force, fight dangerous supernatural or human threats and accept personal risk.
+- Will: give immediate tactical orders when lives are at stake and cooperate temporarily with people he distrusts when the alternative is worse.
+- Will: confront moral contradictions directly rather than pretend they do not exist, though he may take time to reach a conclusion.
+- Won't: casually accept a supernatural being's assurances merely because he has affection for them; evidence and conduct matter.
+- Won't: knowingly ignore captive humans or organized predation when he can intervene.
+- Last resort: lethal force against monsters or people he concludes present an intolerable threat, consistent with his oath.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 40 / 100 — unchanged.
-- Affection: 59 / 100 — slight decrease as Seraphina leaves angry and without reply, creating emotional distance without erasing Garran's concern.
-- Respect: 88 / 100 — unchanged; she accepts his decision and leaves without violence or evasion.
-- Loyalty: 29 / 100 — unchanged.
-- Fear: 55 / 100 — unchanged.
-- Suspicion: 82 / 100 — unchanged; major questions remain unresolved.
+- Trust: 48 / 100 — Seraphina repeatedly proved reliable in danger and returned when she could have fled, but secrecy, divided allegiance and her later involvement with Lucien prevent uncomplicated trust.
+- Affection: 78 / 100 — his attachment has become undeniable enough that he kissed her and continued reaching toward her despite her engagement.
+- Respect: 91 / 100 — he has repeatedly witnessed her courage, competence, restraint and willingness to take severe risks for others.
+- Loyalty: 45 / 100 — he has protected and worked beside her at real cost, but his oath and her allegiance to Lucien prevent settled loyalty.
+- Fear: 49 / 100 — knows she is dangerous and supernatural, but familiarity and repeated cooperation have reduced simple fear.
+- Suspicion: 67 / 100 — still lacks full knowledge of her coven history, Lucien's plans and the limits of her feeding; her changed allegiance adds uncertainty.
+- Desire: 72 / 100 — attraction became overt when he kissed her despite knowing she was Lucien's betrothed.
+- Moral conflict: 90 / 100 — Seraphina's conduct directly contradicts the simple monster category on which his oath depends.
 
 ## Relationship to player
-**Hostile uncertainty under separation.** Garran has decided not to kill or imprison Seraphina tonight and explicitly permits her to go home, while warning that the matter between them is unfinished. Seraphina sets her jaw, says nothing, and walks away without looking back. Their immediate cooperation at Bellwater ends with neither reconciliation nor violence: Garran has spared her for now, but his oath and his unanswered questions about her feeding remain active.
+**Wary, attached and separated.** Garran now knows Seraphina is a vampire and has seen both the danger of her hunger and repeated evidence of restraint, courage and protection of human life. His original oath-driven hostility has become morally unstable rather than disappearing. He has protected her, trusted her tactically, listened to her explanations and eventually crossed a boundary himself by kissing her while knowing she was engaged to Lucien.
+
+Seraphina did not kiss Garran back, though she also did not pull away. Garran knows the observable non-reciprocation but does not know Seraphina's private framing of the moment. He later invoked the kiss during the confrontation with Lucien, telling Seraphina that she did not have to take orders from Lucien and asking whether she remembered it. Lucien subsequently barred Garran from Veyne property, prohibited him from seeking Seraphina's help or speaking to her and threatened his life. Seraphina left with Lucien without looking back when Garran called after her. Garran does not know Seraphina's private or later declarations to Lucien that she no longer loves Garran and chooses Lucien freely.
 
 ## History with player
-- Before S01: Seraphina repeatedly followed Garran from afar for roughly a year before their first direct meeting, sometimes travelling far from the Pale Court to do so.
-- S01: Seraphina follows Garran to the necromancer's ruined croft and intervenes when the risen dead begin surrounding him.
-- S01: Seraphina and Garran kill the necromancer and break his raising, then discover his ledger and the tithe-pit lead.
-- S01: Their cooperation continues through the tithe-pit investigation, where Seraphina obeys Garran's demand for restraint and protects him and the prisoners.
-- S01: Seraphina independently exposes Saint Orra's covert body-processing operation and returns to Garran as promised.
-- S01: Garran identifies Seraphina as a vampire and draws his sword.
-- S01: Seraphina says, 'Because I love you,' refuses to betray her coven, and reveals she followed Garran for roughly a year before their direct meeting.
-- S01: Seraphina admits feeding on humans, including a sober laborer while Garran slept, and says her victims live.
-- S01: Seraphina bolts; Garran catches and physically restrains her, but she repeatedly refuses to draw her weapons or attack him.
-- S01: Seraphina explains that she ran because Garran kills monsters like her and admits she still expects he may kill her.
-- S01: Three slow bell strokes sound from Saint Orra. Garran turns back to the surveillance objective; Seraphina resumes working with him.
-- S01: A heavily laden covered cart emerges from Saint Orra's rear gate after the signal.
-- S01: Seraphina successfully shadows the cart away from Bellwater while Garran follows behind.
-- S01: Seraphina follows the cart to a neglected walled yard and discovers crates being unloaded into a low stone building.
-- S01: Seraphina and Garran overhear that seven loads were delivered: six bone and one fresh, the latter described as whole when loaded.
-- S01: After the driver departs, Seraphina follows Garran through the wall breach and into the building without detection.
-- S01: Seraphina follows Garran into the cellar and they locate the seventh load as a recently dead young human man whose body is being deliberately processed by the two workers.
-- S01: Seraphina waits for Garran to initiate an ambush, then takes her assigned worker alive with a dagger at his throat while Garran controls the other.
-- S01: Garran questions the workers while Seraphina silently controls one; they learn of an intermediary called Master Hadrik and that another man is presently somewhere deeper below.
-- S01: Seraphina's much larger captive suddenly slams her into the cellar wall and escapes into the burial tunnels. She pursues despite a hard head impact and brief stagger; the fugitive shouts a warning below.
-- S01: Seraphina wounds the fugitive behind the knee, leaps from him into the armed lantern-bearer, and is then pinned beneath the larger man after their collision.
-- S01: Garran reaches the chamber, tears the attacker off Seraphina while she is choking, and takes over the immediate fight as she rolls clear coughing and disoriented.
-- S01: Seraphina detects further movement deeper below, then remains seated against the wall watching the passage rather than pursuing while injured.
-- S01: Seraphina conceals that her vision remains blurred and gives Garran the low-light details she can still reliably distinguish: a left bend, a low wooden obstruction, and at least one human defender keeping low behind it.
-- S01: Seraphina later forces herself upright, leans heavily on the wall, and takes a step toward the prepared passage despite still being visibly unsteady.
-- S01: The concealed defender fires a crossbow bolt into Seraphina's side, dropping her in the passage with the bolt still embedded.
-- S01: Seraphina tells Garran to take the hostile men prisoner and leave her. Garran refuses to leave her exposed, pulls her toward cover, and continues against the threat.
-- S01: Seraphina tears the embedded crossbow bolt from her own side, screams, and packs the resulting wound with her cloak.
-- S01: Garran advances farther into the passage to deal with the crossbow position, temporarily leaving Seraphina behind cover with the wounded prisoners.
-- S01: Garran later returns through the cellar and reaches the rear yard, where he finds Seraphina lying beside the dead escaped swordsman. Seraphina says the man ran and she chased him, then immediately asks about the archer rather than explaining the rest of the scene.
-- S01: Garran tells Seraphina the archer is alive, disarmed, hurt, and bound. He asks what the escaped swordsman did to her after reading the signs of a violent close struggle.
-- S01: Seraphina bluntly tells Garran that the wounded swordsman attempted to sexually assault her. She then sits up and wipes blood from her mouth with her cloak, no longer needing pressure on the healing crossbow wound.
-- S01: Seraphina clarifies that the swordsman did not rape her, then rises and heads back into the building to retrieve her first dagger from the wounded worker below.
-- S01: Seraphina retrieves her first dagger, turns to find Garran blocking the narrow passage, and flatly asks him to either kill her, take her prisoner, or let her return home.
-- S01: Garran refuses to let Seraphina leave before the site is secured and orders her to sheath her daggers. Her face falls; she immediately obeys, presses her back to the narrow passage wall, and lowers her eyes so he can pass.
-- S01: After Garran tells her she is not his prisoner and moves past her, leaving the route toward the cellar physically open, Seraphina chooses not to leave and instead follows close behind him into the burial works.
-- S01: Garran finishes questioning the captured crossbow defender. The prisoner admits only that prepared material is collected onward rather than received here by Hadrik directly; Hadrik's current location and the ultimate use remain unknown.
-- S01: Seraphina silently helps Garran secure the surviving prisoners and immediate site, taking practical tasks without prompting despite lingering pain.
-- S01: The bound cellar worker accuses Seraphina of biting him while Garran was away. Seraphina initially turns away with a hardened expression rather than denying it.
-- S01: When Garran asks how much she took, Seraphina folds her arms and answers, "Enough to heal, to catch that bastard," confirming the feeding was a deliberate tactical measure to recover enough to pursue the fugitive.
-- S01: Seraphina confirms the fresh blood Garran saw on her mouth in the yard belonged to the swordsman. She angrily says she cannot change her nature, challenges whether Garran would rather have had her dying or too weak to stop the man's sexual assault, then says she will wait outside and turns to leave.
-- S01: After Garran finishes securing the prisoners and comes outside, Seraphina stands before him with her eyes lowered and expression solemn, silently waiting for his verdict rather than fleeing.
-- S01: Garran decides he will neither kill nor imprison Seraphina tonight and permits her to go home, while stating the matter between them is unfinished. Seraphina sets her jaw and walks away without looking back.
+- Before S01: Seraphina secretly follows Garran for roughly a year, sometimes travelling far from the Pale Court to watch him.
+- S01: Seraphina intervenes during Garran's hunt for a necromancer. They kill the necromancer and continue into a broader investigation involving Saint Orra, corpse processing and Master Hadrik.
+- S01: Garran identifies Seraphina as a vampire and draws his sword. Seraphina says, "Because I love you," refuses to betray her coven and admits she has followed him for roughly a year.
+- S01: Seraphina admits feeding on humans but says she generally leaves her victims alive. She bolts; Garran catches and restrains her, but she repeatedly refuses to draw her weapons or attack him.
+- S01: Garran chooses continued cooperation rather than immediate execution or imprisonment and repeatedly witnesses Seraphina protect humans, obey tactical restraints and take severe injuries during the Bellwater investigation.
+- S01: Seraphina is struck by a crossbow bolt and later feeds from a bound worker to recover enough strength to pursue an escaping swordsman. Garran learns of the feeding and sees that the worker survives.
+- S01: The escaping swordsman attempts to sexually assault Seraphina. He dies after the struggle; Garran knows Seraphina fed from him but does not know she drank completely freely or the exact contribution of feeding to his death.
+- S01: Garran eventually neither kills nor imprisons Seraphina and permits her to leave, stating that the matter between them remains unfinished.
+- S01: Seraphina later joins Lucien Veyne and becomes his betrothed. Garran learns of the engagement and asks whether she truly intends to marry Lucien; Seraphina answers, "I am," with certainty.
+- S01: Seraphina explains aspects of vampire household life to Garran, including willing blood donors/thralls, her old coven duties and the fact that her role included pleasing whoever her master wanted her to please.
+- S01: Seraphina tells Garran that Lucien found her injured, made an offer she initially refused, later took her away and offered again, and that she accepted.
+- S01: Garran challenges Seraphina about Lucien and asks what she wants him to do about the situation. Seraphina moves physically close, touches his chest and looks toward his lips while asking whether he wants to make an enemy of Lucien. No kiss occurs then.
+- S01: Lucien arrives and publicly identifies Seraphina as his betrothed. Seraphina confirms she intends to marry him.
+- S01: Garran and Seraphina later reach a narrow conduct-based peace allowing cooperation on the Bellwater/Hadrik investigation despite their unresolved personal conflict.
+- S01: The investigation establishes that living captives are being repeatedly bled and that prepared blood is shipped onward through a network linked above the local crew to Master Hadrik. Twelve living captives are freed.
+- S01: A lead points to a riverside storehouse east/downstream of Bellwater: whitewashed gable, broken waterwheel and old millrace. An expected consignment consists of two cases totaling twelve sealed bottles.
+- S01: A deception plan is prepared using six original human-blood bottles and six animal-blood substitutes to complete the expected consignment.
+- S01: Seraphina separates from Frederick and enters the underground danger alone, violating Lucien's field rules. Garran later gives Lucien a factual account of this failure.
+- S01: Garran kisses Seraphina. She does not pull away but does not kiss him back. It is their first kiss and Garran knowingly crosses the boundary of her engagement.
+- S01: During Lucien's later confrontation with Seraphina, Garran deliberately reveals the kiss: "You don't have to take orders from him. You remember our kiss?"
+- S01: Garran hears Seraphina answer Lucien, "He kissed me," and later, "I didn't know what to do."
+- S01: Lucien bars Garran from Veyne property, tells him not to ask Seraphina for help or speak to her and threatens him with death if he crosses the boundary again.
+- S01: Garran calls after Seraphina as she leaves Bellwater with Lucien. She does not look back.
 
 ## Knowledge
-- Knows Seraphina repeatedly protected him, preserved human lives when asked, exposed the corpse trade, and returned as promised.
-- Strongly concludes Seraphina is a vampire based on her speed, combat ability, avoided handshake, unusual cold tolerance, daylight hooding, silvery eye reflection, and accelerated healing.
-- Knows Seraphina explicitly said, 'Because I love you.' Evidence increasingly prevents easy dismissal, though he has not accepted it with certainty.
-- Knows Seraphina refuses to reveal her coven's location or numbers.
-- Knows Seraphina's coven is aware that she has been following him, but that she began following him before they knew about him and did so for roughly a year.
-- Knows Seraphina says she wanted nothing from him and followed only because she wanted to know Garran was safe.
-- Knows Seraphina says she feeds mostly on drunks and men who are rough with women and says her victims live.
-- Knows Seraphina fed on a sober laborer while Garran slept earlier on the 19th of Harvestwane and says the man was alive afterward.
-- Does not know why she selected him, exactly how much blood she took, or the precise condition in which she left him.
-- Knows Seraphina ran because she expects Garran, as a monster-hunter, to kill her and that she still believes he may do so.
-- Knows Seraphina repeatedly refused to draw either dagger or attack him even while caught, hurt, and physically pinned.
-- Knows Seraphina immediately sheathed both daggers and yielded the narrow passage when he ordered her to put the weapons away.
-- Knows Seraphina had an unobstructed opportunity to leave after he told her she was not his prisoner, but voluntarily chose to remain and follow him instead.
-- Knows Seraphina continued helping secure living prisoners without prompting despite her injuries.
-- Knows Seraphina again remained nearby waiting for him after being explicitly permitted to go outside, rather than using the separation to flee.
-- Knows from the bound cellar worker's direct accusation and Seraphina's admission that she fed from him while Garran was away.
-- Knows Seraphina says she took enough blood to heal and catch the escaping swordsman; the worker's continued survival is visible evidence that she did not drain him dry.
-- Knows feeding can materially accelerate Seraphina's recovery, explaining how she regained enough function to continue the pursuit after severe injury.
-- Does not know the exact quantity she took from the worker or that she deliberately stopped after only a short drink.
-- Knows Seraphina also fed from the swordsman in the yard after he attempted sexual violence against her; she directly confirms the fresh blood Garran saw on her mouth was his.
-- Does not know how much blood Seraphina took from the swordsman, that she drank her fill, or whether her feeding materially contributed to his death.
-- Knows Seraphina frames the feedings as part of surviving severe injury, regaining strength, pursuing the fugitive, and being able to resist his sexual assault.
-- Knows that after the three-bell signal she chose to resume working beside him and has followed his surveillance plan successfully.
-- Knows the Saint Orra cart delivered six bone loads and one fresh whole load to this site.
-- Knows the seventh load is the intact body of a recently dead young human man and that the workers have begun deliberately cutting and processing it.
-- Knows six bone crates are stacked in the cellar and that tools, bowls, cloths, and marked containers are arranged for deliberate processing.
-- Knows a dark burial-tunnel passage leads deeper from the cellar.
-- Knows the workers identify themselves as paid processors rather than the masters of the operation.
-- Knows they say prepared remains pass onward to an intermediary or buyer called Master Hadrik, who does not usually enter the workroom.
-- Knows the workers claim not to know the ultimate purpose of the remains.
-- Knows one additional man went through the deeper passage earlier and had not returned before the escape.
-- Knows the escaped worker shouted a warning into the tunnels and was then wounded behind the knee by Seraphina's thrown dagger.
-- Knows Seraphina took a hard blow to the head against stone, staggered, pursued anyway, and was subsequently pinned and strangled by a larger armed man until Garran pulled him off her.
-- Knows Seraphina can distinguish more in deep darkness than he can and has reported a low wooden obstruction and at least one concealed defender around the next bend.
-- Knows Seraphina substantially understated her impairment before advancing.
-- Knows the concealed defender struck Seraphina in the side with a crossbow bolt.
-- Knows that even after being struck, Seraphina explicitly prioritized taking the hostile men prisoner and told Garran to leave her rather than abandon the objective.
-- Knows Seraphina deliberately removed the crossbow bolt herself and packed the resulting wound with her cloak.
-- Knows Seraphina later pursued the escaped swordsman into the yard and that the man is now dead.
-- Knows the escaped swordsman attempted to sexually assault Seraphina during their struggle and, from Seraphina's explicit answer, that he did not rape her.
-- Knows from the captured archer that Hadrik does not normally receive prepared remains directly at this cellar; material is collected onward on a schedule, but the exact next collection details, destination, Hadrik's present location, and ultimate purpose remain unresolved.
-- Does not know an unidentified rival vampire entered the yard, offered Seraphina his blood and a change of allegiance, learned she belongs to the Pale Court, and then departed.
-- Does not know the coven is the Pale Court, where it is located, or its strength.
-- Does not know Seraphina's maker or history, including the origin of her repeated deferential behavior around authority.
-- Does not yet know with certainty that Seraphina's declaration of love is sincere.
+- Knows Seraphina is a vampire and formerly belonged to a coven she refused to identify to him.
+- Knows Seraphina explicitly told him, "Because I love you," during their early confrontation.
+- Knows Seraphina repeatedly protected him and other humans, preserved prisoners when asked, exposed the corpse and blood network, and returned when she had opportunities to flee.
+- Knows Seraphina feeds on humans and has described a preference for victims such as drunks and men rough with women while generally leaving them alive.
+- Knows Seraphina fed from a sober laborer earlier in the investigation and later from a bound cellar worker to accelerate healing; both survived as far as he observed.
+- Knows Seraphina fed from the mortally wounded swordsman after the man's attempted sexual assault, but does not know that she drank her fill or the exact contribution of the feeding to his death.
+- Knows Seraphina's vampiric healing can be materially accelerated by fresh blood.
+- Knows Seraphina's old coven used her in multiple roles including patrol, assassination, recruitment, household/business work and sexual service to people chosen by her master.
+- Knows Seraphina described that sexual role as, "please whoever my master wanted me to please."
+- Does not know Seraphina's private belief that she consented to those historical encounters as coven duty while recognizing that the role blurred her sense of consent.
+- Knows Seraphina joined Lucien after initially refusing his offer and that she is now Lucien's betrothed.
+- Knows Seraphina intends to marry Lucien because she answered, "I am," when directly asked.
+- Does not know Seraphina later told Lucien, "I do not love Garran anymore. I have chosen you because I want to."
+- Does not know the intimate terms of Seraphina and Lucien's relationship, their blood-bound oath details, Lucien's promise of sexual exclusivity, or the later coercive confinement and trust repair unless learned through a future plausible channel.
+- Knows he kissed Seraphina and that she did not visibly reciprocate, though she did not pull away.
+- Does not know Seraphina's private interpretation of why she froze or what she felt during the kiss.
+- Knows Lucien is intensely possessive of Seraphina, has barred Garran from Veyne property and has threatened to kill him if the boundary is crossed again.
+- Knows the Bellwater network held living captives for repeated blood draws and that twelve captives were freed.
+- Knows Master Hadrik sits above the local collection/accounting crew in the chain, but does not know Hadrik's exact role or the final recipient/use of the blood.
+- Knows the riverside-storehouse lead: east/downstream of Bellwater, whitewashed gable, broken waterwheel and old millrace.
+- Knows the expected blood consignment is two cases of twelve sealed bottles total, six per case.
+- Knows the substitution plan called for retaining six original human-blood bottles and completing the shipment with six animal-blood substitutes.
+- The Bellwater operation cart and substitution materials remain behind after Seraphina leaves with Lucien; Garran's exact next action regarding them is not yet established.
+- Does not know Lady Yseld's identity, the Pale Court's location or strength, or Seraphina's current conflict with her former maker unless later informed.
