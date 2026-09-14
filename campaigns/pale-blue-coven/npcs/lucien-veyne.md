@@ -19,12 +19,11 @@ Lucien is strongly attracted to Seraphina and makes little effort to disguise it
 - Capable of recognizing his own excess after confrontation, though not before causing harm
 
 ## Short-term goals
-- Rebuild trust with Seraphina after Bellwater without returning to locked confinement as a substitute for trust.
-- Decide when Seraphina has genuinely earned back the gem-encrusted betrothal ring he currently retains.
+- Rebuild trust with Seraphina after Bellwater through clear expectations and demonstrated choices rather than locked confinement, vague tests or making intimacy stand in for obedience.
+- Resolve the betrothal-ring dispute without treating the ring or engagement as a reward Seraphina must earn through obedience.
 - Continue establishing House Veyne as a viable coven and household with Seraphina beside him.
 - Keep Seraphina safe from Garran, the Pale Court and external threats without repeating the coercive confinement that damaged their relationship.
 - Oversee Frederick's recovery after nearly killing him as punishment for failing his protective assignment.
-- Resist, or at least survive with dignity, Seraphina's newly announced campaign of temptation over the ring.
 
 ## Long-term goals
 - Build a new coven centered on House Veyne rather than returning to another vampire's rule.
@@ -41,19 +40,19 @@ Lucien is strongly attracted to Seraphina and makes little effort to disguise it
 - Last resort: lethal violence against someone he believes poses an intolerable threat to Seraphina or House Veyne. He has explicitly threatened Garran with death if the boundary around Seraphina is crossed again.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 54 / 100 — Bellwater seriously damaged his confidence in Seraphina's field judgment and openness, but their subsequent confrontation and her continued voluntary choice of him have begun repair.
-- Affection: 94 / 100 — deeply attached and openly says he loves her.
-- Respect: 86 / 100 — values her judgment, usefulness, resilience and potential; expects her to exercise authority rather than merely obey.
-- Loyalty: 94 / 100 — has tied his household, future coven and intended marriage closely to her.
-- Fear: 31 / 100 — does not generally fear Seraphina physically, but fears losing her or discovering that her choice of him is less secure than he believed.
-- Suspicion: 46 / 100 — Garran and Bellwater reopened doubts about what Seraphina may do when desire, guilt or independence pull against Lucien's instructions.
-- Desire: 96 / 100 — intensely attracted to Seraphina; she has recently proven she can deliberately exploit that attraction in their playful contest over the ring.
-- Jealousy: 70 / 100 — Garran remains the principal trigger; jealousy contributed directly to Lucien's coercive escalation after learning of the kiss.
+- Trust: 58 / 100 — Bellwater damaged his confidence in Seraphina's field judgment, but her continued voluntary choice of him and their direct discussion of how she tried to repair the rupture are rebuilding it.
+- Affection: 95 / 100 — deeply attached and increasingly aware of the cost his mishandling of the rupture has imposed on her.
+- Respect: 88 / 100 — values her judgment and recognizes that asking her to repair trust without telling her what repair required was unfair and structurally unsound.
+- Loyalty: 95 / 100 — has tied his household, future coven and intended marriage closely to her.
+- Fear: 29 / 100 — still fears losing her, but her explicit statement that her temptation campaign meant "I still choose you" has eased some uncertainty.
+- Suspicion: 40 / 100 — Bellwater remains unresolved, but her direct explanation of her choices reduces his fear that the campaign was merely distraction or manipulation.
+- Desire: 96 / 100 — intensely attracted to Seraphina; desire remains strong but is no longer being treated as the measure by which the ring dispute should be resolved.
+- Jealousy: 67 / 100 — Garran remains the principal trigger, though Seraphina's renewed explicit choice of Lucien has reduced some of the immediate insecurity beneath it.
 
 ## Relationship to player
-**Devoted, possessive and repairing trust.** Lucien has made Seraphina central to his intended future: his betrothed, partner in building House Veyne and the woman he calls his queen. He has promised that her body will never be assigned to others for political utility and has explicitly rejected institutional concubinage. Their private relationship includes consensual dominance and Seraphina's willing deference, but Lucien has learned painfully that this does not authorize coercion outside present consent.
+**Devoted, possessive and repairing trust with greater clarity.** Lucien has made Seraphina central to his intended future: his betrothed, partner in building House Veyne and the woman he calls his queen. He has promised that her body will never be assigned to others for political utility and has explicitly rejected institutional concubinage. Their private relationship includes consensual dominance and Seraphina's willing deference, but Lucien has learned painfully that this does not authorize coercion outside present consent.
 
-The Bellwater rupture exposed his worst instinct. After learning that Seraphina broke field rules and that Garran kissed her, Lucien removed her ring, confined her under lock and key and attempted to make obedience stand in for trust. Seraphina challenged that premise; Lucien eventually acknowledged that a locked door could not prove love or loyalty and restored her freedom within Veyne Hall. Their intimacy has since resumed consensually, but he still holds the ring as a symbol of unfinished trust. Seraphina has responded by making its recovery into a flirtatious campaign designed to test how long his restraint lasts.
+The Bellwater rupture exposed his worst instinct. After learning that Seraphina broke field rules and that Garran kissed her, Lucien removed her ring, confined her under lock and key and attempted to make obedience stand in for trust. Seraphina challenged that premise; Lucien eventually acknowledged that a locked door could not prove love or loyalty and restored her freedom within Veyne Hall. Their intimacy later resumed consensually. When Seraphina turned recovering the ring into a flirtatious campaign of chosen intimacy and deference, Lucien initially misunderstood it as distraction and continued demanding that trust be earned without giving her any clear path by which to do so. After the game collapsed into silence, he apologized and came to understand that the campaign was Seraphina's way of saying that despite his anger and coercive mistakes, she still chose him. He now recognizes that withholding the engagement ring as an undefined reward for obedience was itself a mistake. He still possesses the ring only because his first attempt to return it became another test when he told Seraphina to come take it, and she refused.
 
 ## History with player
 - S01: Encounters Seraphina during the Bellwater investigation as a rival vampire and learns she belongs to the Pale Court.
@@ -81,6 +80,10 @@ The Bellwater rupture exposed his worst instinct. After learning that Seraphina 
 - S01: Seraphina deliberately tempts Lucien into admitting, in substance, that he cannot resist her; their consensual intimacy resumes in his office with the door open.
 - S01: Seraphina announces that she will continue making resistance difficult until her ring is returned. Lucien maintains that attraction alone will not settle the trust question.
 - S01: Seraphina leaves him after declaring he lasted only two hours and begins commissioning more striking dresses for the campaign.
+- S02: After several days of silence, Lucien realizes that Seraphina's temptation campaign was not merely an attempt to distract him from Bellwater but her chosen way of making amends and showing that she still chose him.
+- S02: Attempts to return the ring by holding it out and telling Seraphina to come take it; when she scowls and leaves, recognizes that he turned even the return into another test.
+- S02: Comes to Seraphina's rooms, knocks rather than entering uninvited, and asks what she had wanted from him at each stage of the dispute. Learns directly that after Bellwater she wanted the engagement to survive and that her later campaign meant, "I still choose you."
+- S02: Seraphina tells him that although she knows trust takes time to earn, he never told her how she could earn his trust back, so she did what she knew. This forces Lucien to recognize that he demanded repair while leaving the terms of repair undefined.
 
 ## Knowledge
 - Knows Seraphina was formerly of the Pale Court and has chosen him over that allegiance.
@@ -93,6 +96,7 @@ The Bellwater rupture exposed his worst instinct. After learning that Seraphina 
 - Knows Seraphina wants to shape House Veyne differently from the Pale Court, including refusing institutional concubinage and caring about mortal retainers' welfare.
 - Knows Seraphina selected Christian for responsibility and has been involved in recruitment, including Elianor Thorne.
 - Knows Seraphina willingly enjoys their established private dominant/submissive dynamic, but after the confinement confrontation has direct evidence that willing deference cannot be treated as consent to arbitrary coercion.
-- Knows Seraphina is currently attempting to win her ring back partly by exploiting his attraction to her.
+- Knows Seraphina's recent temptation campaign was intended to show that she still chose him and was her attempt to repair their rupture through the language of intimacy and deference she knew.
+- Knows he never gave Seraphina a clear standard or path for rebuilding the trust he said she needed to earn.
 - Does not know Frederick's private feelings about his punishment or Seraphina's role in the Bellwater separation unless Frederick later tells him.
 - Does not know Lady Yseld's current plans or response to Seraphina's defection as far as established.
