@@ -2,7 +2,7 @@
 
 ## Weapons
 - Matched pair of ivory-handled fighting daggers — commissioned/provided by Lucien Veyne. Seraphina deliberately leaves them behind at Veyne Hall when she departs alone late at night after her painful conversation with Lucien.
-- Original fighting daggers — brought by Seraphina when she leaves Veyne Hall. At Edric's woodland hut near dawn, Seraphina voluntarily offers both to him handle-first for his keeping while she shelters there. Edric leaves them on the hut's table. They are not currently on Seraphina's person.
+- Original fighting daggers — brought by Seraphina when she leaves Veyne Hall. At Edric's woodland hut she voluntarily gives both into his keeping while she sleeps through the daylight. As evening approaches, Edric returns them handle-first and Seraphina takes them back. They are currently in Seraphina's possession.
 
 ## Armour & clothing
 - Fitted red leather armour — functional martial clothing chosen/provided by Lucien. Seraphina leaves it behind at Veyne Hall when she departs.
@@ -21,7 +21,7 @@
 - Private leather-strap arrangement — remains among the private effects at Veyne Hall unless otherwise established.
 
 ## Current clothing practice
-- Seraphina is resting in the narrow bed at Edric's shuttered woodland hut in comfortable cloth layers, with her boots, black cloak and leather travelling harnesses removed nearby. Her original fighting daggers rest on the table in Edric's keeping.
+- Seraphina is awake at Edric's shuttered woodland hut in comfortable cloth layers, with her boots, black cloak and leather travelling harnesses still removed nearby. Her original fighting daggers have been returned to her possession.
 
 ## Other
 - Other personal effects remain abstracted unless established in play.
