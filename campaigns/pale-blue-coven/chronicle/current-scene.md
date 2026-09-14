@@ -1,8 +1,8 @@
 # Current scene
 
-Standing close to Lucien at the office desk after learning why Frederick was nearly beaten to death, Seraphina says, "I broke more than one person's trust then." She recognizes that her Bellwater choice affected Frederick as well as Lucien: Frederick had accepted responsibility for remaining close enough to protect her, and Seraphina's deliberate decision to go underground before he could follow helped put him in breach of that duty.
+Seraphina raises an eyebrow at Lucien's remark that there has been enough punishment around Veyne Hall and answers simply, "Oh?" Lucien uses the opening to return some of their earlier teasing without abandoning the seriousness of the Frederick conversation. He identifies Seraphina's current playful withholding of physical affection as one of the punishments presently being inflicted in the house, distinguishing it from the coercive confinement and from his severe physical punishment of Frederick.
 
-Lucien does not let Seraphina turn that recognition into sole responsibility for Frederick's punishment. He acknowledges that her choice had consequences for more than herself, but maintains that Frederick was still responsible for his own assigned duty and that Lucien himself chose the severity of Frederick's punishment. He treats rebuilding trust as requiring future conduct rather than endless self-condemnation.
+Lucien remains close to Seraphina at the office desk. He is visibly tempted by the fitted red silk halter dress and red lipstick she deliberately chose earlier, but he continues to respect her announced withdrawal of physical availability and does not seize or initiate sexual contact. Their earlier flirtatious contest therefore remains active beneath the heavier discussion.
 
 Frederick is elsewhere in Veyne Hall, badly beaten but healing. Whether Frederick personally believes Seraphina broke his trust, resents her, blames himself or accepts Lucien's punishment remains unknown because Frederick has not said. Seraphina has not yet spoken to him about it.
 
