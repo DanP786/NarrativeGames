@@ -6,6 +6,7 @@
 - More comfortable yielding to chosen authority than commanding by reflex, but increasingly willing to exercise household authority in her own name.
 - Shows unusual concern, by vampire standards, for whether mortals survive feeding and whether humans under vampire authority are willing, materially cared for and treated as people rather than consumable property.
 - Capable of playful provocation and deliberate sensual confidence with Lucien in private, a marked contrast with her older habit of restrained usefulness.
+- Her clothing has become expressive enough that members of the Veyne household have learned to read broad changes in her mood from it. Striking, carefully chosen clothes tend to accompany confidence or playfulness; a sudden retreat into plain linen or practical trousers and tunics is conspicuous even when nobody comments on it openly.
 
 ## Pale Court reputation
 - Formerly a useful outsider: proven and accepted, but never fully inside the inner circle.
@@ -21,6 +22,7 @@
 - Selected Christian for greater responsibility and conditionally offered him stewardship.
 - Has been chosen by Elianor Thorne as her prospective maker.
 - Her Bellwater decision to separate from Frederick and enter danger alone caused a serious trust rupture with Lucien and contributed to Frederick's later punishment.
+- The household has become familiar enough with Seraphina to notice her use of clothing as an outward mood signal, though retainers are generally prudent enough not to comment openly on tensions between her and Lucien.
 
 ## Bellwater / Garran circle
 - Sir Garran Vale knows Seraphina is a vampire, has fought beside her and has witnessed both her feeding and her repeated protection of human lives.
