@@ -1,8 +1,8 @@
 # Current scene
 
-Seraphina answers Lucien's complaint about her playful withholding with a low, teasing, "Mmmm, you know how to end it." She deliberately steps closer, raises her head toward him and exposes her neck. In the context of their established consensual private dynamic, the gesture is a clear present invitation for Lucien to close the distance and engage physically; it does not establish blanket future consent.
+Seraphina remains completely pliant beneath Lucien's invited touch and whispers, "If you admit it is you who cannot resist me." Her surrender of physical resistance in this moment is deliberate and consensual within their established private dynamic; it does not create blanket future consent.
 
-Lucien recognizes the invitation. He closes the remaining distance and touches Seraphina with controlled familiarity, accepting that she has chosen to end at least part of her earlier withholding. The exchange remains intimate and suggestive rather than graphic. His response is voluntary and reciprocal rather than an override of her earlier boundary.
+Lucien recognizes that Seraphina is bargaining for a verbal concession rather than merely physical attention. Amused and visibly affected by her, he concedes the point in substance: Seraphina has deliberately made herself difficult for him to resist. He does not pretend indifference merely to win their playful contest. Their closeness remains affectionate and suggestive rather than graphic.
 
 The serious matters around them remain unresolved despite the renewed intimacy: Frederick is elsewhere in Veyne Hall, badly beaten but healing, and Seraphina has not yet spoken to him about whether he believes she broke his trust. Lucien still retains Seraphina's gem-encrusted betrothal ring, and the larger trust issue between Lucien and Seraphina has not been erased.
 
