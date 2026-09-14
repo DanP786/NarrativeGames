@@ -2,6 +2,6 @@
 
 - Date: late Harvestwane, Year 612 of the Crown Reckoning; several days after the 20th
 - Season: early autumn
-- Time of day: night; exact hour varies across the recent sequence of evenings
-- Current location: Bellwater and its surrounding roads and settlements; Seraphina and Lucien Veyne are using Veyne Hall as their base while searching for prospective recruits
-- Notable upcoming: Seraphina has declared allegiance to Lucien Veyne and accepted his proposed place as queen of a new coven. Over several nights they have begun scouting people who might become useful, trusted recruits. Lady Yseld and the Pale Court have not yet been informed of Seraphina's changed allegiance. Garran remains associated with the unresolved Bellwater corpse-processing investigation and Master Hadrik lead, but he does not know the circumstances of Seraphina's disappearance or her allegiance to Lucien.
+- Time of day: later in the same day after Seraphina and Lucien spent more than half the day in their private rooms; exact hour not fixed
+- Current location: Veyne Hall; Seraphina is in her own office
+- Notable upcoming: Seraphina is commissioning additional striking dresses as part of a playful campaign to recover her betrothal ring from Lucien, who still ties its return to restored trust. Frederick is badly beaten but healing elsewhere in Veyne Hall and Seraphina has not yet spoken with him about it. Christian's prospective stewardship depends on his handling of retainer welfare and a household winter-solstice celebration. Elianor Thorne remains mortal while arranging her affairs before a planned turning by Seraphina. Lady Yseld and the Pale Court have not been informed of Seraphina's changed allegiance as far as established. The Bellwater blood-substitution operation, riverside-storehouse lead and Master Hadrik investigation remain unresolved.

@@ -1,9 +1,3 @@
 # Current scene
 
-Seraphina leaves Lucien behind and goes to her own office in Veyne Hall. There she begins turning the playful contest over her withheld betrothal ring into an organized campaign: she drafts requests for additional dresses intended to be even more striking and provocative than the fitted red silk halter dress that already proved effective against Lucien's restraint. Exact designs, fabrics, colours, makers, costs and delivery dates are not yet fixed and remain subject to Seraphina's instructions.
-
-The requests are for clothing for Seraphina herself, not for household uniforms or a change in House Veyne policy. Lucien still possesses the gem-encrusted betrothal ring and has tied its return to restored trust; Seraphina has chosen temptation and presentation as part of her effort to pressure him playfully rather than accepting the contest passively. The engagement remains intact.
-
-Seraphina is now in her own office at Veyne Hall, barefoot in the fitted red silk halter dress, with her honey-blonde hair reasonably ordered and the obvious smeared lipstick around her face wiped away. She remains free to move within Veyne Hall.
-
-Frederick is elsewhere in Veyne Hall, badly beaten but healing, and Seraphina has not yet spoken to him about whether he believes she broke his trust. The Bellwater substitution plan, riverside-storehouse lead and Hadrik investigation remain unresolved. Seraphina's fitted red leather armour and matched ivory-handled daggers remain set aside in the private rooms. The leather straps remain among their private effects. Her black sunlight cloak remains behind at the Bellwater operation cart.
+Session 01 closes with Seraphina in her own office at Veyne Hall, commissioning additional striking dresses as part of her playful campaign to recover the betrothal ring Lucien still possesses. She remains free to move within Veyne Hall. Frederick is elsewhere in the Hall, badly beaten but healing; Seraphina has not yet spoken to him about whether he believes she broke his trust. The Bellwater blood-substitution operation, riverside-storehouse lead and Hadrik investigation remain unresolved.

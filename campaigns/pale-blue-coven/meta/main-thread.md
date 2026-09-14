@@ -1,8 +1,8 @@
 # Main thread
 
-- Status: sketch
-- Central question: What survives when Seraphina's love for Sir Garran Vale, a man sworn to destroy her kind, collides with her obligations to the coven that made her?
-- PC want: To remain close to Garran, whom she has come to love from afar, and perhaps someday be seen by him as something other than a monster.
-- Obstacle: Garran's oath and convictions; Seraphina's vampiric nature; the coven's expectations and growing notice of her excursions.
-- Antagonist / pressure: Not yet hardened. The coven's scrutiny and Garran's monster-hunting duty are the immediate opposing forces.
-- Establishing arc: Bring Garran or his work into direct contact with Seraphina's hidden existence, deepen the coven's scrutiny, and force Seraphina to make her desire concrete through action.
+- Status: active
+- Central question: What kind of freedom and loyalty can Seraphina build after leaving the Pale Court when love, vampiric hierarchy and her own learned habits of submission keep testing whether her choices are truly hers?
+- PC want: To build a place beside Lucien Veyne that she chooses freely, help shape House Veyne into something different from the Pale Court, and recover the trust represented by her withheld betrothal ring without surrendering her agency.
+- Obstacles: Lady Yseld and the Pale Court remain an eventual threat; Lucien's possessiveness and capacity for coercive violence complicate the trust Seraphina has chosen to place in him; Seraphina's learned deference and history of being used blur the boundary between chosen submission and imposed obedience; Garran and the unresolved Bellwater blood network remain dangerous external threads.
+- Antagonist / pressure: No single antagonist has fully hardened. Yseld represents the old coven and its claims, Lucien's worst instincts threaten the freedom he promises, and the Hadrik blood network provides an unresolved external danger.
+- Current direction: House Veyne is taking shape around Seraphina and Lucien. Christian is being tested for stewardship, Frederick is recovering after Lucien's severe punishment, and Elianor Thorne intends eventually to accept vampirism from Seraphina. The immediate relationship thread centers on rebuilding trust between Seraphina and Lucien while the ring remains in Lucien's possession.
