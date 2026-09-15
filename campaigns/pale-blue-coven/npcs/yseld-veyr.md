@@ -2,8 +2,8 @@
 
 - Status: alive
 - Nature: vampire
-- Location: The Pale Court
-- Relationship to Seraphina: Wary; maker and fledgling
+- Location: ruined priory undercroft
+- Relationship to Seraphina: Wary; maker and estranged fledgling
 
 ## Description, voice & mannerisms
 Yseld appears to be a woman in her late thirties, broad-shouldered and severe, with iron-grey hair worn in a single heavy braid. She dresses plainly by the standards of the Pale Court: black wool, pale-blue sash, little jewelry. She speaks in complete, deliberate sentences and dislikes rhetorical games. When displeased, she becomes quieter rather than louder. She habitually cleans or repairs useful objects while speaking, as if conversation is not sufficient reason for idle hands.
@@ -15,11 +15,11 @@ Yseld appears to be a woman in her late thirties, broad-shouldered and severe, w
 - Dislikes waste and public disorder
 
 ## Short-term goals
-- Exploit Seraphina's invitation from the unnamed knight as a source of intelligence while limiting exposure to the Pale Court.
-- Determine the identity, allegiance, competence, and current knowledge of the unnamed knight.
-- Clarify the next collection/buyer lead, which Seraphina calls 'Blackwell,' and how it relates to the tithe-pit corpse trade.
-- Determine whether the knight saw anything beyond Seraphina's dagger skill that could expose her vampiric nature.
-- Determine what Seraphina is still omitting about her repeated interest in the affair.
+- Determine the identity, allegiance, location, and security implications of the unknown vampire Seraphina stayed with after Blackwell.
+- Determine how much Hadrik's network learned while surveilling Seraphina and whether it exposed other vampires.
+- Extract a reliable account of the Blackwell investigation, including the church, suppliers, captive humans, and subsequent supply chain.
+- Reassess Seraphina's relationship to the Pale Court now that Seraphina has explicitly said her loyalty ended over Yseld's sexual use of her.
+- Determine the true identity and current knowledge of the knight, whose relationship with Seraphina is clearly more complicated than Seraphina's original report admitted.
 
 ## Long-term goals
 - Preserve and strengthen the Pale Court's position against mortal hunters and rival covens.
@@ -31,39 +31,43 @@ Yseld appears to be a woman in her late thirties, broad-shouldered and severe, w
 - Last resort: destroy a fledgling she believes has become an uncontrollable existential threat to the coven.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 38 / 100 — Seraphina accepts the new intelligence-gathering order without argument.
-- Affection: 20 / 100 — unchanged.
-- Respect: 61 / 100 — unchanged; Seraphina remains potentially valuable in the mortal hunter's confidence.
-- Loyalty: 29 / 100 — immediate obedience gives Yseld some confidence Seraphina will continue reporting rather than simply pursuing her own interest.
-- Fear: 5 / 100 — unchanged.
-- Suspicion: 75 / 100 — unchanged; obedience does not resolve the gaps in Seraphina's story.
+- Trust: 24 / 100 — Seraphina has admitted withholding major movements and openly states that Yseld lost her loyalty long ago.
+- Affection: 18 / 100 — the accusation lands personally even though Yseld is not sentimental about their bond.
+- Respect: 66 / 100 — Seraphina's willingness to state the rupture plainly rather than continue performing obedience earns a measure of hard respect.
+- Loyalty: 8 / 100 — Yseld now accepts that Seraphina does not regard herself as loyal to her or the Pale Court.
+- Fear: 9 / 100 — an unknown vampire relationship plus organized surveillance creates a real security concern, though not panic.
+- Suspicion: 91 / 100 — Seraphina is plainly protecting major facts about another vampire and her movements.
 
 ## Relationship to player
-**Wary.** Yseld has ordered Seraphina to accept the unnamed knight's invitation and remain useful to him as an intelligence source. Seraphina answers, 'Yes ma'am,' without argument. Yseld expects her to learn who the knight is, what he hunts and knows, keep the Pale Court concealed, avoid feeding from him, and report threats before acting independently.
+**Wary.** Yseld has forcibly recovered Seraphina after her prolonged disappearance and is interrogating her about Hadrik's surveillance, Blackwell, the unnamed knight, and an unknown vampire Seraphina stayed with. Seraphina has now explicitly told Yseld that her loyalty ended when Yseld began giving her to men for political and social utility. Yseld understands that the old pattern of outward obedience can no longer be treated as evidence of inward allegiance.
 
 ## History with player
 - Yseld participated in the Pale Court's destruction of Seraphina's village eighteen years ago.
 - She chose to turn Seraphina for practical reasons and trained her without offering much affection.
-- Seraphina has since proven herself useful enough to retain standing despite remaining outside the coven's inner circle.
+- Yseld used Seraphina's body as a coven resource, ordering her to sexually please politically or socially useful visiting men, human and vampire. Seraphina now explicitly identifies this as the point at which Yseld lost her loyalty.
+- Seraphina nevertheless became useful enough to retain standing in the Pale Court through patrols, fighting, recruitment, and other duties.
 - S01: Seraphina initially explained her repeated excursions by revealing a human necromancer attempting to reanimate a horde of zombies.
 - S01: Yseld ordered Seraphina to investigate the necromancer's numbers, corpse source, and whether anyone else was hunting him, then report directly.
-- S01: Seraphina returns and reports that she overheard a knight was hunting the necromancer, that the necromancer successfully animated corpses, and that both he and the raised dead are now destroyed.
-- S01: Seraphina says she intended only to observe but intervened against a threat, killed the necromancer after he recognized her nature, admits the knight now knows her personally, and claims she did not catch his name.
-- S01: Seraphina says the knight knows her only as Sera, knows neither her home nor her nature, and knows she can fight with a dagger.
-- S01: Seraphina reports roughly eight corpses were active, the knight had destroyed about half before she arrived, the trail led them to the tithe pit and then toward 'Blackwell' and another buyer, and the knight invited her to help with the continuing investigation.
-- S01: Yseld orders Seraphina to accept the invitation, learn about the knight and his knowledge, conceal the Pale Court and her nature, avoid feeding from him, and report threats before deciding how to act. Seraphina agrees.
+- S01: Seraphina returned and reported that a knight was hunting the necromancer, that the necromancer successfully animated corpses, and that both he and the raised dead were destroyed.
+- S01: Seraphina claimed she did not know the knight's name and that he did not know her nature or home.
+- S01: Seraphina reported roughly eight corpses, a tithe-pit corpse supply, a Blackwell lead, another buyer, and the knight's invitation to continue investigating together. Yseld ordered her to accept, gather intelligence, conceal the Pale Court and her nature, avoid feeding from him, and report threats.
+- S02: After Seraphina failed to return, Pale Court vampires captured her alive near a ruined priory. Yseld personally interrogates her there.
+- S02: Seraphina reports a wider network supplying necromancers with human bone, flesh, and blood; identifies Hadrik as another recipient; and says Hadrik's people knew she was a vampire and were ordered only to follow and observe her.
+- S02: Seraphina identifies Blackwell as a large town and reports that a church there led to suppliers, captive humans, and another supply chain. She says the watchers were obvious in Blackwell but does not know whether they followed afterward.
+- S02: Seraphina's reaction to a direct question reveals that she stayed with or had significant contact with another vampire after Blackwell. She refuses to identify that vampire.
+- S02: When Yseld calls this a loyalty question, Seraphina quietly tells her, "You lost my loyalty when you started giving me to men."
 
 ## Knowledge
 - Knows Seraphina has been making increasingly long excursions away from the Pale Court.
-- Knows a human necromancer in that region succeeded in animating corpses and is now dead.
-- Knows Seraphina reports roughly eight animated corpses were active and that the knight had destroyed about half before her arrival.
-- Knows the investigation led Seraphina and the knight together to the tithe pit, which Seraphina identifies as connected to the corpse supply.
-- Knows Seraphina says the continuing trail leads to a place she calls 'Blackwell' and another buyer; the exact nature/location of this lead remains to be clarified.
-- Knows the knight intends to continue following that lead and invited Seraphina to help him.
-- Believes, based on Seraphina's report, that the knight knows her only as 'Sera,' does not know where she lives, does not know she is a vampire, and knows she is skilled with a dagger.
-- Believes, based on Seraphina's report, that the knight's name is unknown to Seraphina; Yseld has no proof otherwise.
+- Knows the original necromancer was one customer in a wider supply network and is dead.
+- Knows Seraphina reports another necromancer, Hadrik, receiving human bone, flesh, and blood.
+- Knows Seraphina says Hadrik's people identified her as a vampire and were ordered to follow and observe rather than attack or intervene.
+- Knows the surveillance was obvious to Seraphina in Blackwell; does not know whether it continued afterward.
+- Knows Blackwell is a large town and that Seraphina reports a church there led to further suppliers, captive humans, and another supply chain.
+- Knows Seraphina concealed her post-Blackwell movements and reacted strongly when asked whether she stayed with another vampire.
+- Knows there is an unknown vampire important enough that Seraphina refuses to identify them despite direct pressure from Yseld.
+- Knows Seraphina explicitly considers her loyalty to Yseld lost because Yseld ordered her to sexually please men for coven utility.
+- Believes Seraphina's original report about the unnamed knight was materially incomplete or false in some respects, but still does not know his identity.
 - Does not know the knight is Sir Garran Vale.
-- Does not know Garran witnessed Seraphina's alarming pursuit speed and precise disabling attacks.
-- Does not know the full nature of Seraphina's feelings for the knight.
-- Still suspects Seraphina's stated reasons may not fully explain the intensity of her repeated journeys.
-- Is hiding how she learned the pattern of Seraphina's excursions and whether anyone else in the coven knows.
+- Does not know Lucien Veyne's identity, that Seraphina entered allegiance with him, that they became engaged, or that House Veyne is forming.
+- Is hiding how she learned the pattern of Seraphina's excursions and how much of the Pale Court knows about the search for Seraphina.

@@ -1,6 +1,6 @@
 # NPC index
 
-- Lady Yseld Veyr | alive | The Pale Court | Wary | last seen S01 (Seraphina's cold, practical maker; as far as established has not been informed of Seraphina's defection to Lucien Veyne)
+- Lady Yseld Veyr | alive | ruined priory undercroft | Wary | last seen S02 (Seraphina's cold, practical maker; captured Seraphina after her disappearance and is interrogating her over Hadrik's surveillance and an unknown vampire; Seraphina has explicitly said Yseld lost her loyalty by giving her to men)
 - Sir Garran Vale | alive | Bellwater region | Wary | last seen S01 (knows Seraphina is a vampire and Lucien's betrothed; kissed her during the Hadrik investigation and was later threatened and barred from Veyne property by Lucien)
 - Lucien Veyne | alive | Veyne Hall | Devoted | last seen S02 (vampire lord, Seraphina's chosen fiancé and co-founder of House Veyne; still possesses her betrothal ring after their trust rupture deepened and Seraphina left Veyne Hall alone without announcing a destination)
 - Christian | alive | Veyne Hall | Friendly | last seen S01 (young House Veyne retainer selected by Seraphina for greater responsibility; stewardship is conditional on retainer-welfare and solstice work)
