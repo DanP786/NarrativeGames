@@ -4,7 +4,7 @@
 - None
 
 ## Adept
-- Agility & dagger fighting (26 ticks) — Seraphina's defining competence; fast and precise at close range, but not built to overpower stronger opponents.
+- Agility & dagger fighting (27 ticks) — Seraphina's defining competence; fast and precise at close range, but not built to overpower stronger opponents. The latest tick records her successful rapid movement through the Pale Court's confined passages during an urgent escape attempt while unarmed and dressed for the ball.
 
 ## Novice
 - Stealth (24 ticks) — practiced through hunting and secretly following the knight. The additional tick records her earlier successful concealed movement when she rejoined Garran outside the limeworks.
