@@ -22,10 +22,9 @@ Lucien is strongly attracted to Seraphina and makes little effort to disguise it
 - Get Seraphina safely away from the Pale Court after she explicitly asked him to take her away and said her home is with him.
 - Rebuild trust with Seraphina through clear expectations and demonstrated choices rather than locked confinement, vague tests or making intimacy stand in for obedience.
 - Accept that Seraphina's declaration that her home is with him does not automatically settle whether she wants the betrothal ring returned.
-- Repair, if Seraphina permits it, the damage caused when he treated her chosen intimacy as insufficient proof and thereby made her feel valued less than those who had previously used her.
+- Reckon with the fact that Yseld immediately resumed assigning Seraphina sexually to a useful mortal lord after forcibly returning her to the Pale Court.
 - Continue establishing House Veyne as a viable coven and household with Seraphina beside him if she continues to choose that future.
 - Keep Seraphina safe from Garran, the Pale Court and external threats without repeating the coercive confinement that damaged their relationship.
-- Oversee Frederick's recovery after nearly killing him as punishment for failing his protective assignment.
 
 ## Long-term goals
 - Build a new coven centered on House Veyne rather than returning to another vampire's rule.
@@ -38,25 +37,26 @@ Lucien is strongly attracted to Seraphina and makes little effort to disguise it
 - Will: indulge and encourage Seraphina's willing private submission while expecting independent judgment from her in public and operational matters.
 - Will: use violence severely when he believes loyalty, protection or possession has been breached.
 - Won't: institutionalize concubinage or require Seraphina to give sexual access to others for political utility; he explicitly promised sexual exclusivity and said he would never ask her to give herself to another.
+- Won't: treat Seraphina's gracious social performance under Pale Court orders as sexual consent.
 - Won't: treat later consensual intimacy as retroactive consent for earlier coercion.
 - Last resort: lethal violence against someone he believes poses an intolerable threat to Seraphina or House Veyne.
 
 ## Disposition (GM-only — never narrate as numbers)
-- Trust: 68 / 100 — Seraphina's urgent voluntary flight with him and explicit statement that her home is with him substantially answer his fear that she had chosen to return to the Pale Court, though earlier trust damage remains real.
-- Affection: 97 / 100 — her declaration lands at the center of the future he wants with her.
-- Respect: 91 / 100 — she has made a dangerous, explicit choice under pressure rather than merely accepting his claim over her.
-- Loyalty: 97 / 100 — he is actively risking conflict with the Pale Court to get her out after she asked him to take her away.
-- Fear: 36 / 100 — immediate fear of losing Seraphina to a voluntary return is sharply reduced, while danger from Pale Court pursuit remains.
-- Suspicion: 24 / 100 — her conduct strongly contradicts the idea that she willingly abandoned him for the Pale Court.
-- Desire: 93 / 100 — attraction remains intense, but immediate survival and the emotional significance of her choice take priority.
-- Jealousy: 56 / 100 — Othmar's presence and Garran remain possible triggers, but Seraphina's explicit choice of home with Lucien reduces the immediate possessive uncertainty.
+- Trust: 70 / 100 — Seraphina is now giving him direct, difficult information about what happened inside the Pale Court and has explicitly chosen home with him.
+- Affection: 97 / 100 — remains intensely attached.
+- Respect: 92 / 100 — her direct disclosure and active escape reinforce his respect for her choice under pressure.
+- Loyalty: 98 / 100 — the revelation about Othmar hardens his commitment to keep her out of Yseld's control.
+- Fear: 39 / 100 — fear of voluntary abandonment is reduced, but the concrete danger Yseld poses to Seraphina is clearer.
+- Suspicion: 20 / 100 — her conduct and disclosure sharply contradict suspicion that she willingly resumed Pale Court allegiance.
+- Desire: 93 / 100 — attraction remains intense, but immediate survival and the coercive nature of the Othmar revelation make protection and anger more salient.
+- Jealousy: 45 / 100 — learning Othmar was an imposed assignment shifts the emotional frame away from rivalry and toward anger at Yseld's coercion.
 
 ## Relationship to player
 **Devoted, possessive, and newly reassured by an explicit choice.** Lucien has made Seraphina central to his intended future: his betrothed, partner in building House Veyne and the woman he calls his queen. He has promised that her body will never be assigned to others for political utility. Their private relationship includes consensual dominance and Seraphina's willing deference, but Lucien has learned painfully that this does not authorize coercion outside present consent.
 
 The Bellwater rupture exposed his worst instinct. After learning that Seraphina broke field rules and that Garran kissed her, Lucien removed her ring, confined her under lock and key and attempted to make obedience stand in for trust. Seraphina challenged that premise; Lucien eventually acknowledged that a locked door could not prove love or loyalty and restored her freedom. Their later attempt at repair failed when he demanded that trust be earned without giving her a clear path and treated her chosen intimacy as insufficient proof. Seraphina eventually left Veyne Hall and said she did not know whether she wanted the ring.
 
-After Seraphina was forcibly recovered by the Pale Court, Lucien entered a Pale Court ball, found her with Lord Othmar Rell, publicly called her his betrothed, and helped her flee when she urgently asked him to take her away. During the mounted escape he admitted he had believed she willingly went back to the Pale Court. Seraphina answered, "My home is with you. I know that now." Lucien treats this as a meaningful renewed choice of him and their shared home, not as automatic consent to erase the unresolved harms or force the ring back onto her hand.
+After Seraphina was forcibly recovered by the Pale Court, Lucien entered a Pale Court ball, found her with Lord Othmar Rell, publicly called her his betrothed, and helped her flee when she urgently asked him to take her away. During the mounted escape he admitted he had believed she willingly went back to the Pale Court. Seraphina answered, "My home is with you. I know that now." She then disclosed that Yseld had assigned her to entertain Othmar, make him feel special, allow whatever he wanted from her, and smile through it. Lucien now understands that the scene he interrupted was not Seraphina choosing another man but Yseld reinstating the same coercive political-sexual duty Seraphina had identified as the reason her loyalty to the Pale Court ended.
 
 ## History with player
 - S01: Encounters Seraphina during the Bellwater investigation as a rival vampire and learns she belongs to the Pale Court.
@@ -79,6 +79,7 @@ After Seraphina was forcibly recovered by the Pale Court, Lucien entered a Pale 
 - S02: When Seraphina urgently says, "Take me away from here. Now," Lucien immediately attempts to extract her. They flee the Pale Court together, aided briefly by Sven after Seraphina insists she wants to leave.
 - S02: Lucien lifts Seraphina onto a prepared horse and mounts behind her, abandoning a second horse to save time. Seraphina guides their route through country around the Pale Court and across a shallower upstream river crossing.
 - S02: Lucien admits he thought Seraphina had willingly returned to the Pale Court after leaving him. Seraphina tells him, "My home is with you. I know that now."
+- S02: Seraphina tells Lucien Yseld had assigned her to entertain Othmar, make him feel special, let him do whatever he wanted with her, and smile through it. Lucien now knows the specific coercive nature of the Othmar assignment.
 
 ## Knowledge
 - Knows Seraphina was formerly of the Pale Court and chose him over that allegiance.
@@ -93,7 +94,7 @@ After Seraphina was forcibly recovered by the Pale Court, Lucien entered a Pale 
 - Knows Seraphina's temptation campaign was intended to show she still chose him and was her attempt to repair their rupture.
 - Knows he never gave Seraphina a clear standard or path for rebuilding the trust he said she needed to earn.
 - Knows Seraphina previously said she might no longer want the betrothal ring.
-- Now knows Seraphina did not voluntarily return to the Pale Court and explicitly wants to leave it with him.
-- Now knows Seraphina says her home is with him.
-- Does not yet have established knowledge that Yseld assigned Seraphina to Othmar for the evening or what Yseld expected that assignment to entail.
+- Knows Seraphina did not voluntarily return to the Pale Court and explicitly wants to leave it with him.
+- Knows Seraphina says her home is with him.
+- Now knows Yseld assigned Seraphina to Othmar to entertain him, make him feel special, submit to whatever he wanted from her, and maintain a pleasant outward performance.
 - Does not know Lady Yseld's full current plans or how much she now knows about House Veyne.
