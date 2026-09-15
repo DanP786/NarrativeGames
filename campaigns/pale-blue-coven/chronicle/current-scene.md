@@ -4,4 +4,6 @@ Night has fallen on the day after Seraphina left Veyne Hall without announcing a
 
 Rather than taking the old road east toward the village Edric mentioned, Seraphina chooses west, following the woodland track toward the larger roads. She still has no declared final destination. The forest path gradually broadens and bears signs of more regular traffic as it approaches the road network beyond the deep woods.
 
+Seraphina reaches the larger road and deliberately follows the busier route, accepting greater exposure in exchange for the traffic and settlements it is likely to reach. Cart ruts score the damp road, and the occasional distant lantern marks other travellers moving through the autumn night.
+
 Veyne Hall remains far behind her, though taking the larger roads may make her movements easier for travellers or searchers to encounter or reconstruct. The engagement with Lucien has not been formally ended, but Seraphina does not know whether she wants the ring; Lucien still possesses it. The Bellwater blood-substitution operation, riverside-storehouse lead and Hadrik investigation remain unresolved.
