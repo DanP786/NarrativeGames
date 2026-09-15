@@ -3,7 +3,7 @@
 - Status: alive
 - Nature: vampire
 - Role: lord of Veyne Hall; founder of the emerging House Veyne
-- Location: Veyne Hall
+- Location: The Pale Court, at the ball
 - Relationship to Seraphina: Devoted; her chosen fiancé and coven partner, with a serious trust rupture after Bellwater now compounded by the harm caused during his handling of their reconciliation
 
 ## Description, voice & mannerisms
@@ -86,6 +86,7 @@ The Bellwater rupture exposed his worst instinct. After learning that Seraphina 
 - S02: Comes to Seraphina's rooms, knocks rather than entering uninvited, and asks what she had wanted from him at each stage of the dispute. Learns directly that after Bellwater she wanted the engagement to survive and that her later campaign meant, "I still choose you."
 - S02: Seraphina tells him that although she knows trust takes time to earn, he never told her how she could earn his trust back, so she did what she knew. This forces Lucien to recognize that he demanded repair while leaving the terms of repair undefined.
 - S02: Seraphina says she no longer knows whether she wants the ring. She tells Lucien that giving herself to him was something she enjoyed, but his asking what more she would do made that chosen gift feel insufficient and made her feel not good enough—worse than those who had used her before.
+- S02: Lucien appears at a Pale Court ball after Seraphina has been forcibly returned there. He finds her in a quieter gallery with Lord Othmar Rell, calls her "little bunny," and when Othmar asks whether they know one another, states plainly, "She is my betrothed." His declaration risks exposing Seraphina's concealed allegiance and relationship to Yseld and the Pale Court.
 
 ## Knowledge
 - Knows Seraphina was formerly of the Pale Court and has chosen him over that allegiance.
@@ -101,5 +102,6 @@ The Bellwater rupture exposed his worst instinct. After learning that Seraphina 
 - Knows Seraphina's recent temptation campaign was intended to show that she still chose him and was her attempt to repair their rupture through the language of intimacy and deference she knew.
 - Knows he never gave Seraphina a clear standard or path for rebuilding the trust he said she needed to earn.
 - Knows Seraphina may no longer want the betrothal ring because his handling of her attempt to repair trust made her feel personally insufficient and echoed, more painfully for her, the pattern of people who had used her.
+- Does not yet have established knowledge that Yseld assigned Seraphina to Othmar for the evening or what Yseld expected that assignment to entail.
 - Does not know Frederick's private feelings about his punishment or Seraphina's role in the Bellwater separation unless Frederick later tells him.
 - Does not know Lady Yseld's current plans or response to Seraphina's defection as far as established.
