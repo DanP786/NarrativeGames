@@ -9,7 +9,7 @@
 ## Novice
 - Stealth (24 ticks) — practiced through hunting and secretly following the knight. The additional tick records her earlier successful concealed movement when she rejoined Garran outside the limeworks.
 - Observation (31 ticks) — quiet, watchful, attentive to details and behavior. The latest tick records her careful inspection of a deliberately hung cloth-and-twig figure on a forest road, distinguishing its constructed details without assuming an unestablished supernatural meaning.
-- Mortal disguise (1 tick) — makeup, clothing and practiced behavior used to conceal signs of undeath and pass among humans.
+- Mortal disguise (2 ticks) — makeup, clothing and practiced behavior used to conceal signs of undeath and control outward presentation. The latest tick records Seraphina deliberately using her makeup after returning to Veyne Hall, sharpening her appearance in response to feeling socially threatened by Mara Voss.
 
 ## Notable Untrained
 - Raw strength — physically weak by vampiric standards.
