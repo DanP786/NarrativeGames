@@ -10,3 +10,8 @@
 - Helped uncover the Bellwater blood-collection network, killed hostile humans underground and participated in freeing twelve living captives.
 - Violated Lucien's field rules by separating from Frederick and entering danger alone. Garran later kissed her; Seraphina did not kiss him back but did not pull away. The resulting confrontation ruptured trust with Lucien.
 - After Lucien coercively confined her, challenged the premise that locked obedience could rebuild trust. Lucien acknowledged the failure of that approach and Seraphina later exercised restored freedom of movement within Veyne Hall.
+- Left Veyne Hall freely when Lucien's undefined demands for trust made her chosen intimacy feel insufficient; survived alone long enough to shelter with the mortal woodsman Edric before being forcibly recovered by the Pale Court.
+- Chose to flee the Pale Court with Lucien when he came for her, telling him, "My home is with you. I know that now," and explicitly disclosing Yseld's coercive assignment of her to Lord Othmar Rell.
+- Reclaimed her betrothal ring from Lucien without accepting another test and reaffirmed the engagement by choice.
+- Challenged Lucien to make House Veyne structurally different from the Pale Court by granting her genuine governing authority rather than treating private submission, sexual exclusivity or affection as a substitute for power. Lucien accepted the challenge.
+- Judged the Pale Court's proposed truce meeting reasonable and helped determine House Veyne's response, choosing Frederick as the preferred third attendee if he is sufficiently recovered to fight.

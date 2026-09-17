@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: late Harvestwane, Year 612 of the Crown Reckoning; the night after Seraphina left Veyne Hall alone following her painful private reckoning with Lucien
+- Date: late Harvestwane, Year 612 of the Crown Reckoning; daylight following Seraphina and Lucien's return to Veyne Hall
 - Season: early autumn
-- Time of day: night, shortly after dusk
-- Current location: a larger country road west of Edric's isolated woodland hut, far beyond Veyne Hall
-- Notable upcoming: Seraphina left Veyne Hall without announcing a destination, wandered through the night, and sheltered through the following daylight in the hut of a mortal woodsman named Edric. She voluntarily surrendered her old daggers while sleeping, warned Edric to tell any searchers the truth rather than risk himself, named Sir Vale as the one seeker whose presence should not make Edric distrust his safety, and left her coin purse behind as payment. She has resumed travelling west and reached a larger road without declaring a final destination. Lucien still possesses the betrothal ring; the engagement has not formally ended, but Seraphina does not know whether she wants it and the intended marriage is no longer secure. Frederick remains badly beaten but healing. Christian's prospective stewardship and Elianor Thorne's planned turning remain unresolved at Veyne Hall. Lady Yseld and the Pale Court have not been informed of Seraphina's changed allegiance as far as established. The Bellwater blood-substitution operation, riverside-storehouse lead and Master Hadrik investigation remain unresolved.
+- Time of day: daylight rest
+- Current location: Veyne Hall
+- Notable upcoming: House Veyne has received a Pale Court demand for a truce meeting at midnight three nights after the letter's delivery, at an old chapel upon the north road. Lucien and Seraphina intend to attend. The Court will send two representatives and permits Lucien to bring Seraphina and one other; Frederick is Seraphina's preferred third attendee if sufficiently recovered to fight. The letter's author and the identities of the Pale Court representatives are unknown. The Bellwater blood-substitution operation, riverside-storehouse lead, Master Hadrik network, Christian's prospective stewardship and Elianor Thorne's planned turning remain unresolved.
