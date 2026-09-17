@@ -15,15 +15,16 @@
 - Red silk halter dress — retained at Veyne Hall. Seraphina used it during her now-ended attempt to communicate continued choice and repair through playful temptation.
 - Additional striking/revealing dresses — retained/expected at Veyne Hall; exact designs, makers and delivery dates not established. Seraphina and Lucien recently discussed them during their reconciliation.
 - Black-and-pale-blue Pale Court ball gown — worn during Seraphina's forced return and escape; travel-stained and rumpled after the journey home, now removed in her chamber after bathing.
+- White gown — Seraphina's own chosen clothing after returning to Veyne Hall; worn after deliberately rejecting the garments Mara Voss laid out for her.
 
 ## Personal effects
-- Small makeup kit — at Veyne Hall and currently in Seraphina's use after bathing and dressing. She deliberately applies makeup on returning home because Mara Voss's beauty and familiarity with Lucien make her feel socially threatened.
-- Gem-encrusted betrothal ring from Lucien Veyne — remains in Lucien's possession. Seraphina has now explicitly asked him to return it when they reach home, and Lucien promised to do so without another test.
+- Small makeup kit — at Veyne Hall and used after Seraphina's return. She deliberately applied makeup after bathing because Mara Voss's beauty and familiarity with Lucien made her feel socially threatened.
+- Gem-encrusted betrothal ring from Lucien Veyne — returned directly to Seraphina by Lucien in his office after she seriously demanded, "My ring." Lucien honored his promise not to attach another test or demand proof. Seraphina is wearing it again.
 - Coin purse — deliberately left behind at Edric's woodland hut as unannounced payment for the bed and shelter he gave Seraphina; exact contents/value were never established.
 - Private leather-strap arrangement — remains among the private effects at Veyne Hall unless otherwise established.
 
 ## Current clothing practice
-- Seraphina has returned to Veyne Hall, bathed and chosen her own clothing rather than the outfit Mara Voss laid out. The exact outfit has not yet been established. She has repaired her hair and applied makeup deliberately. She is currently unarmed unless she chooses to retrieve the ivory-handled daggers.
+- Seraphina is currently clean and carefully groomed, wearing her own white gown and deliberate makeup. Her gem-encrusted betrothal ring is once again on her hand. She is currently unarmed unless she chooses to retrieve the ivory-handled daggers.
 
 ## Other
 - Other personal effects remain abstracted unless established in play.
