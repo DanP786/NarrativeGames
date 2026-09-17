@@ -5,7 +5,8 @@
 - Mira says, "I don't want anything to change." Korren understands this as a present choice and takes her back into his arms deliberately. In the quiet afterward he affectionately catalogues the human features he finds alien and appealing, including her extreme smallness and fuller proportions. Their teasing turns into familiar consensual intimacy; afterward Korren settles Mira carefully so her injured foot is protected.
 - A visitor approaches. Korren covers Mira, fastens his hide wrap, and blocks the entrance while Mira sits up wrapped in the fur and listens.
 - The visitor is Senna. She asks first whether Mira is awake, then says she has come for the conversation promised after the fire. Senna specifically wants Mira alone and wants to speak about what Mira knows of the made thing in her neck.
-- Mira gives Korren a tiny nod granting the private conversation. Korren tells Senna, "She is not dressed," protecting Mira's privacy rather than refusing Senna. Senna waits outside while Korren prepares to give Mira the space to cover or dress herself before Senna enters.
+- Mira gives Korren a tiny nod granting the private conversation. Korren tells Senna, "She is not dressed," protecting Mira's privacy rather than refusing Senna. Senna waits outside while Mira dresses herself.
+- Mira puts on the river-green mated-wife clothing and remembers Korren's earlier dismissive opinion of human underwear: to him it is inconvenient extra clothing that gets between mates. The memory embarrasses and amuses her while also underlining how thoroughly ordinary his possessive assumptions have begun to feel inside their private life. She finishes dressing without putting weight on the injured foot; Senna still waits outside.
 
 ## Carry-forward
 - Ada is under Senna's roof; the other human women have begun converging there.
