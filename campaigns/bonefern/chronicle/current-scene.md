@@ -6,10 +6,11 @@
 - A visitor approaches. Korren covers Mira, fastens his hide wrap, and blocks the entrance while Mira sits up wrapped in the fur and listens.
 - The visitor is Senna. She asks first whether Mira is awake, then says she has come for the conversation promised after the fire. Senna specifically wants Mira alone and wants to speak about what Mira knows of the made thing in her neck.
 - Mira gives Korren a tiny nod granting the private conversation. Korren tells Senna, "She is not dressed," protecting Mira's privacy rather than refusing Senna. Senna waits outside while Mira dresses herself.
-- Mira puts on the river-green mated-wife clothing and remembers Korren's earlier dismissive opinion of human underwear: to him it is inconvenient extra clothing that gets between mates. The memory embarrasses and amuses her while also underlining how thoroughly ordinary his possessive assumptions have begun to feel inside their private life. She finishes dressing without putting weight on the injured foot; Senna still waits outside.
+- Mira puts on the river-green mated-wife clothing and remembers Korren's earlier dismissive opinion of human underwear: to him it is inconvenient extra clothing that gets between mates. The memory embarrasses and amuses her while also underlining how thoroughly ordinary his possessive assumptions have begun to feel inside their private life.
+- Dressed, Mira shifts higher against the bed structure, bracing her back securely and extending the injured foot so it bears no weight. She calls that she is dressed and settles herself to receive Senna without trying to stand.
 
 ## Carry-forward
 - Ada is under Senna's roof; the other human women have begun converging there.
-- Senna is at Korren's lodge now for the promised private neck conversation and is waiting outside.
+- Senna is at Korren's lodge now for the promised private neck conversation and is about to enter.
 - Mira's foot is dressed with moss-pad and salve; Senna's instruction remains: walk on it slow, not far, not today.
 - Korren now knows explicitly that Mira distinguishes the unchosen beginning from choosing him now. He does not know the spore mechanism or Mira's private conversation with Ada.
