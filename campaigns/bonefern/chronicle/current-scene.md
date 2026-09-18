@@ -9,8 +9,8 @@
 - Mira explains buried contractual consent may have authorized unknown procedures. The women arrived with no clothing, tools, records, or contract copy. Senna proposes independent memory accounts and examinations.
 - Mira confirms she had a cosmetic implant removed during an ordinary pre-boarding physical and explains human implant-site conventions: cosmetic inner bicep, medical above breast near heart, neurological/brain/mind at base of skull. She rejects mind-control as an explanation from her experience; she and the other women remain behaviorally distinct. She knows therapeutic neurological implants can affect mental states but not coercive control technology.
 - Mira notes that thousands were aboard but exactly six women were selected after medical and psychological screening. The six did not know one another as a group; Mira had only seen Suvi around and both worked night shift. Mira suspects selection from extensive crew profiles may explain why these six were chosen. Senna plans to compare the six women's assessment memories separately.
-- When Senna asks whether Mira wants Korren told what she disclosed, Mira asks whether Senna thinks he would even want to know. Mira observes that Korren has not asked about her life before Vethaal and seems to prefer her attention on living here with him and learning Vahn-rii ways.
-- Senna answers without claiming Korren's private thoughts: from his behavior, she believes he wants to know what can threaten or take Mira from him, but has shown less curiosity about the parts of her former life that do not touch their present life together. Senna distinguishes wanting Mira from wanting to know all of Mira. She says this is not necessarily cruelty, but it is a limitation Mira should see clearly. Senna will not tell Korren the private details without Mira's permission; she notes that the hidden implant and the possibility that an outside hand selected Mira may eventually become relevant to his safety and hers.
+- Mira asks whether Korren would even want to know about her former life, observing that he has not asked. Senna distinguishes his demonstrated desire to keep/protect Mira from demonstrated curiosity about her former identity and promises not to carry Mira's private history to him without permission, while noting threat-relevant facts may eventually matter to both mates.
+- As Senna appears ready to leave the subject, Mira stops her with, "There's something else..." Senna immediately gives her full attention and waits without guessing or prompting the content, preserving Mira's control over the disclosure.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -20,12 +20,11 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
+- Senna is alone with Mira in Korren's lodge and has paused to hear an additional disclosure from Mira.
 - Ada is under Senna's roof; the other human women have begun converging there.
 - Senna knows the broad mission, intelligent-life prohibition, unchosen implant, possible buried contractual consent, no possessions/records, pre-voyage implant removal, human implant-site conventions, and that thousands were screened but six selected.
 - Mira suspects selection from crew profiles but does not know the criteria. Senna intends independent assessment-memory comparisons.
 - Senna does not yet know the spore mechanism or device's exact functions.
-- Mira has noticed Korren's lack of questions about her pre-Vethaal life. Senna has framed this as a distinction between his strong interest in keeping/protecting Mira and his demonstrated curiosity about her former identity.
-- Senna will keep today's details private from Korren unless Mira permits disclosure, while warning that threat-relevant facts may eventually matter to both mates.
-- Mira supports telling all six women about implants.
+- Senna will keep today's private history from Korren unless Mira permits disclosure, except she has warned that genuinely threat-relevant discoveries may eventually matter to both mates.
 - Mira's foot is dressed; no weight/not far today.
 - Korren remains outside; conversation private from him.
