@@ -8,13 +8,15 @@
 - Mira gives Senna her fullest account yet of the human mission: six women were workers aboard a sky transport seeking a habitable world; mission rules forbade settling a planet with intelligent life; trained first-landing personnel, not workers like Mira, should have landed; the women are frightened and unprepared for Vethaal.
 - Mira explains the human contract system and realizes aloud that buried or misleading terms may have technically authorized procedures/reassignment/research without the women understanding what they agreed to. Senna rejects hidden meaning as meaningful choice in her own moral frame.
 - The women arrived with no clothing, tools, records, or contract copy. Senna proposes independent memory accounts and examinations of all six women.
-- Senna takes Mira's new pre-voyage-removal fact seriously: if implants were removed before departure and hidden ones are present now, there is a narrower window in which they could have been installed—during the voyage or after the women lost memory/control. She agrees the women should be told plainly, but intends to separate confirmed facts (a hidden made thing is present) from Mira's translation inference and from Senna's own suspicions. She asks Mira whether she remembers the removal of her old implants and whether she had any at all before departure.
+- Mira confirms she personally had a cosmetic implant before the voyage, used to improve her appearance by keeping her hair glossy and skin dewy. She is self-conscious admitting its purpose. It was removed during the ordinary pre-boarding physical examination by doctors whose job was to confirm crew health/readiness. Mira remembers nothing suspicious about those clinicians from the information she presently has.
+- Senna treats the remembered medical screening as a useful boundary rather than evidence against the doctors: Mira knowingly entered the examination with an implant and knowingly left without it, whereas the current nape device appeared later without her knowledge. Senna asks whether the pre-boarding doctors left any wound/scar at Mira's nape or worked elsewhere on her body, seeking to determine whether the present device could plausibly have been inserted during that known examination. Mira has not yet answered.
 
 ## Carry-forward
 - Ada is under Senna's roof; the other human women have begun converging there.
 - Senna is alone with Mira in Korren's lodge. She knows the mission structure, intelligent-life prohibition, workers-vs-first-landing distinction, unchosen implant, possible buried contractual consent, that the women arrived with nothing, and that human crew had to remove pre-existing implants before the voyage.
+- Mira personally had a cosmetic appearance-enhancing implant removed by doctors during her pre-boarding physical exam. No suspicious behavior by those doctors is established.
 - Senna does not yet know the spore mechanism.
 - Mira supports telling all six women about the hidden implants. Senna intends to distinguish observed fact from inference when doing so.
-- Senna has asked whether Mira personally had any implants removed before departure and what she remembers of that process.
+- Senna has asked whether the known pre-boarding removal involved Mira's nape or left any wound there, testing whether the current device could have been placed during that examination.
 - Mira's foot is dressed with moss-pad and salve; Senna's instruction remains: walk on it slow, not far, not today.
 - Korren is outside; the conversation remains private from him.
