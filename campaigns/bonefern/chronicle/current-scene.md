@@ -6,7 +6,8 @@
 - Mira chose to tell Ada about the spores herself. Because Mira's right foot remains dressed and no-weight, Korren carried her to Senna's lodge. Mira reached both arms toward him before he crossed the lodge; he gathered her up immediately.
 - Korren delivered Mira into Senna's lodge and left the private subject untouched. Ada registered Mira arriving in his arms but did not reopen their old argument. Senna gives the human women room to speak.
 - Ada asks for the information Mira promised. Mira begins carefully: "I don't know any more than you do. But I have ideas." Ada asks her to distinguish observation from inference.
-- Mira gives Ada the first premise: "I think the bond is biological. From flora and/or fauna on this planet." Ada accepts this as a working model and immediately narrows the question to the cave: if the agent is environmental, she wants to know what changes between ordinary jungle exposure and the terminal chamber where the bond manifests.
+- Mira gives Ada the first premise: "I think the bond is biological. From flora and/or fauna on this planet." Ada asks what differs in the cave.
+- Mira proposes that the causal agent may exist at low levels elsewhere but reach a bond-triggering concentration in deep places. She explicitly warns that this means the danger may not be confined to the one sacred cave: other deep or enclosed places could potentially accumulate the same agent. Ada immediately treats that as a practical hazard model rather than a sacred-site rule: avoiding one ritual cave may not be enough.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -16,9 +17,9 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- Mira and Ada are in the promised private information exchange in Senna's lodge. Mira has told Ada her working premise that the bond is biological and originates in local flora and/or fauna.
-- Ada now wants the cave-specific mechanism: what changes between ambient jungle exposure and the terminal chamber where the bond manifests.
-- Ada does not yet know Mira's specific spore/high-concentration hypothesis or the new S07 implant/mission discoveries.
+- Mira and Ada are in the promised private information exchange in Senna's lodge. Mira has told Ada the bond is probably biological/local and may depend on concentration of an environmental agent in deep/enclosed places.
+- Ada now understands that avoiding the known sacred cave may not guarantee safety; other deep places could theoretically pose the same risk.
+- Ada does not yet know Mira's specific spore/fungal mechanism or the new S07 implant/mission discoveries.
 - Senna intends to question Mari independently about bond onset before contaminating her account.
 - Korren does not know the private subject and is outside the conversation.
 - Mira's right foot remains dressed/no-weight.
