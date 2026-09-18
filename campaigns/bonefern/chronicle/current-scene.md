@@ -10,7 +10,8 @@
 - Mira confirms she had a cosmetic implant removed during an ordinary pre-boarding physical and explains human implant-site conventions: cosmetic inner bicep, medical above breast near heart, neurological/brain/mind at base of skull. She rejects mind-control as an explanation from her experience; she and the other women remain behaviorally distinct. She knows therapeutic neurological implants can affect mental states but not coercive control technology.
 - Mira notes that thousands were aboard but exactly six women were selected after medical and psychological screening. The six did not know one another as a group; Mira had only seen Suvi around and both worked night shift. Mira suspects selection from extensive crew profiles may explain why these six were chosen. Senna plans to compare the six women's assessment memories separately.
 - Mira asks whether Korren would even want to know about her former life, observing that he has not asked. Senna distinguishes his demonstrated desire to keep/protect Mira from demonstrated curiosity about her former identity and promises not to carry Mira's private history to him without permission, while noting threat-relevant facts may eventually matter to both mates.
-- As Senna appears ready to leave the subject, Mira stops her with, "There's something else..." Senna immediately gives her full attention and waits without guessing or prompting the content, preserving Mira's control over the disclosure.
+- Mira then gives Senna the withheld cave hypothesis. She says Vahn-rii believe the rocks choose mates, but she saw glowing fungi in the cave. She explains that fungi release tiny spores, sometimes invisible, which can enter through breathing and alter a body or mind. Mira hypothesizes that the cave bond may be produced by inhaled spores rather than by the rock itself.
+- Senna takes the claim seriously because it fits observed ritual structure without requiring her to accept Mira's conclusion as proven: mates are brought into a specific deep place, breathe its air, and something changes there. She asks whether Mira noticed a bodily change begin after breathing the cave air and whether Drenn and Mari's bond occurred in the same kind of glowing growth. This is the first time Senna consciously considers a natural cave organism as the bond mechanism.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -20,11 +21,11 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- Senna is alone with Mira in Korren's lodge and has paused to hear an additional disclosure from Mira.
-- Ada is under Senna's roof; the other human women have begun converging there.
-- Senna knows the broad mission, intelligent-life prohibition, unchosen implant, possible buried contractual consent, no possessions/records, pre-voyage implant removal, human implant-site conventions, and that thousands were screened but six selected.
-- Mira suspects selection from crew profiles but does not know the criteria. Senna intends independent assessment-memory comparisons.
-- Senna does not yet know the spore mechanism or device's exact functions.
-- Senna will keep today's private history from Korren unless Mira permits disclosure, except she has warned that genuinely threat-relevant discoveries may eventually matter to both mates.
+- Senna is alone with Mira in Korren's lodge; Korren remains outside and does not know this conversation.
+- Senna now knows Mira's spore hypothesis: glowing cave fungi may release invisible inhaled spores capable of altering body/mind and may be the physical mechanism behind Vahn-rii mating bonds.
+- Senna treats spores as a hypothesis, not established fact. Her immediate evidentiary questions concern timing of Mira's bodily changes and whether Mari/Drenn encountered the same glowing growth.
+- This is a major threshold: Senna now has both the outside-selection/implant problem and a separate possible native ecological mechanism for the bond. She has not been told that implants cause the bond, and Mira has not claimed they do.
+- Ada is under Senna's roof and expects spore knowledge soon. Other human women are converging there.
+- Senna knows the mission, intelligent-life prohibition, unchosen implant, possible buried contractual consent, no possessions/records, pre-voyage implant removal, implant-site conventions, and six-of-thousands selection.
+- Mira suspects crew profiling selected the six but does not know criteria. Senna intends independent assessment-memory comparisons.
 - Mira's foot is dressed; no weight/not far today.
-- Korren remains outside; conversation private from him.
