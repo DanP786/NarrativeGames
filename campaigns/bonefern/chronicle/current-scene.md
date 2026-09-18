@@ -12,7 +12,7 @@
 - Mira asks whether Korren would even want to know about her former life, observing that he has not asked. Senna distinguishes his demonstrated desire to keep/protect Mira from demonstrated curiosity about her former identity and promises not to carry Mira's private history to him without permission, while noting threat-relevant facts may eventually matter to both mates.
 - Mira gives Senna the withheld cave hypothesis: glowing fungi release tiny spores, sometimes invisible, which can enter through breathing and alter a body or mind; the cave bond may be produced by spores rather than the rock itself.
 - Mira refines the hypothesis: spores could already exist at low levels in ordinary air or food and only trigger when a pair reaches the enclosed cave's high concentration, where spores cannot disperse easily. Her own bond did not begin until she and Korren reached the terminal claiming place deep in the cave. She cannot explain why Korren's previous cave journeys with other women did not produce a bond.
-- Senna recognizes that failed prior pairings do not disprove Mira's mechanism because Vahn-rii tradition already treats the deep place as selective rather than universally effective. She begins separating two questions: what physical thing in the cave causes the change, and why it acts on some pairings but not others. She also recognizes that the ritual's deepest chamber may matter because it traps/concentrates the cave growth's unseen material. She asks whether the change happened to Korren and Mira at the same moment or whether one reacted first, seeking a discriminating observation rather than assuming the answer.
+- Asked who reacted first at bond onset, Mira answers that she did. Senna treats this as an important observation but not proof of mechanism. It weakens any simple account in which Mira merely responded psychologically to a visible change in Korren. Senna now wants Mira's exact first bodily/sensory symptom before Korren visibly answered, and separately wants Mari's account of her own onset without telling Mari Mira's answer first.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -23,9 +23,9 @@
 
 ## Carry-forward
 - Senna is alone with Mira in Korren's lodge; Korren remains outside and does not know this conversation.
-- Senna now knows Mira's expanded spore hypothesis: low environmental exposure may precede activation; enclosed deep-cave concentration may trigger it; Mira's bond began only at the terminal claiming chamber. Korren had previously gone to the cave with other women without bonding, cause unknown.
-- Senna now distinguishes mechanism (spore/fungus) from compatibility/selectivity (why some pairs bond). She treats both as unresolved hypotheses.
-- Senna's immediate question: did Mira or Korren react first at the bond's onset, or was it simultaneous?
+- Senna knows Mira's expanded spore hypothesis and now knows Mira experienced bond onset before Korren visibly reacted.
+- Senna distinguishes mechanism (spore/fungus) from compatibility/selectivity (why some pairs bond) and treats both as unresolved.
+- Senna's immediate question: what exactly was Mira's first bodily/sensory change before Korren's response? She also intends to ask Mari independently about onset order and symptoms.
 - Ada is under Senna's roof and expects spore knowledge soon. Other human women are converging there.
 - Senna knows the mission, intelligent-life prohibition, unchosen implant, possible buried contractual consent, no possessions/records, pre-voyage implant removal, implant-site conventions, and six-of-thousands selection.
 - Mira suspects crew profiling selected the six but does not know criteria. Senna intends independent assessment-memory comparisons.
