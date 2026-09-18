@@ -13,7 +13,8 @@
 - Mira gives Senna the withheld cave hypothesis: glowing fungi release tiny spores, sometimes invisible, which can enter through breathing and alter a body or mind; the cave bond may be produced by spores rather than the rock itself. She refines it: low environmental exposure could precede activation, with high concentration trapped in the terminal claiming chamber. Korren's prior failed cave pairings remain unexplained.
 - Mira identifies her first bond-onset symptom as an intense sexual/claiming urge toward Korren, preceding his visible response. Asked whether attraction existed before the cave, Mira becomes deeply shy but admits that it did: before the cave, Korren had already encouraged sexual desire between them. Thus the cave did not create attraction to Korren from nothing; at minimum it sharply intensified an existing desire into an urgent claiming impulse.
 - Senna treats this distinction as important. She does not press Mira for intimate details. Her working question becomes whether the cave amplifies an existing compatible attraction rather than manufacturing attachment wholesale. This could also fit Korren's failed prior pairings without proving why they failed. Senna intends to ask Mari independently whether she wanted Drenn before the bond onset, without giving her Mira's answer.
-- Senna tells Mira that Ada has waited long enough and asks whether Mira wants to give Ada the spore knowledge herself. Mira nods and says, "I'll speak with Ada." Senna accepts the choice and prepares to arrange the conversation without exposing Mira's private disclosure to Korren or contaminating Mari's independent account.
+- Senna tells Mira that Ada has waited long enough and asks whether Mira wants to give Ada the spore knowledge herself. Mira nods and says, "I'll speak with Ada." Senna accepts the choice.
+- Senna goes to arrange the conversation without exposing Mira's private disclosure to Korren. Korren returns to carry Mira because Senna has forbidden her to walk on the dressed foot. Before he has crossed the lodge, Mira lifts both arms toward him to be picked up. Korren recognizes the voluntary gesture immediately and gathers her up without making her wait, keeping the injured foot clear.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -23,12 +24,12 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- Senna is alone with Mira in Korren's lodge; Korren remains outside and does not know this conversation.
-- Mira has chosen to tell Ada about the spores herself. Senna will preserve that choice and avoid giving Mari Mira's answers before interviewing Mari independently.
+- Mira has chosen to tell Ada about the spores herself; Senna is arranging that conversation while preserving Mari's independent account.
+- Korren does not know the private content of Mira and Senna's conversation. He is carrying Mira toward Senna's lodge because her foot remains no-weight/not-far today.
+- Mira voluntarily reached both arms for Korren before he reached her; he noticed and responded immediately.
 - Senna knows Mira desired Korren before the cave and that Korren had encouraged that desire; the bond onset intensified existing attraction into an urgent claiming desire rather than creating attraction from nothing.
 - Senna distinguishes mechanism, compatibility, desire, and consent and treats the spore theory as unresolved.
 - Senna intends to ask Mari independently about first symptoms, onset order, and whether attraction to Drenn predated the bond.
 - Ada is under Senna's roof and expects spore knowledge soon. Other human women are converging there.
 - Senna knows the mission, intelligent-life prohibition, unchosen implant, possible buried contractual consent, no possessions/records, pre-voyage implant removal, implant-site conventions, and six-of-thousands selection.
 - Mira suspects crew profiling selected the six but does not know criteria. Senna intends independent assessment-memory comparisons.
-- Mira's foot is dressed; no weight/not far today.
