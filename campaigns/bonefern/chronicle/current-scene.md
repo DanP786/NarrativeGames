@@ -7,10 +7,10 @@
 - Mira gives Ada her working model: the bond is biological/local, perhaps caused by an environmental agent concentrated in deep places; glowing cave fungi are a candidate. She stresses the theory is unconfirmed and that her expertise is filtration/clean water, not biology.
 - Mira tells Ada the nape implant likely provides translation and reasons whoever installed it wanted the women able to communicate with the tribe. Ada recognizes that pre-arrival Kael'tha translation implies prior knowledge and deliberate placement.
 - Mira notes that being dumped naked already made accident implausible; the translator may instead point toward motive. She adds that the women were left on patrol/hunting routes, suggesting they were intended to be found by Vahn-rii.
-- Mira proposes gathering all six women because being kept separately by individual men has prevented comparison. Senna agrees in principle but wants Mari independently questioned about bond onset first, before exposure to Mira's theory; afterward Senna can gather the women under a legitimate women's custom/pretext.
+- Mira proposes gathering all six women because being kept separately by individual men has prevented comparison. Senna agrees in principle but wants Mari independently questioned about bond onset first; afterward Senna can gather the women under a legitimate women's custom/pretext.
 - Mira asks Ada to run the eventual meeting, saying the others may not trust Mira because she accepted the bond. Ada accepts but insists Mira still speak and provide her evidence firsthand.
-- Mira asks whether she can see Korren while Senna questions Mari and prepares the gathering. Senna permits it and sends word for him; the later meeting itself remains keeper-free.
-- With Senna gone, Mira waits awkwardly beside Ada in the lodge. Ada does not force conversation or reopen their conflict. The silence is strained but no longer openly hostile; both women remain in place while they wait for Korren to arrive.
+- Senna goes to question Mari and sends word for Korren at Mira's request. Mira and Ada wait awkwardly together.
+- Ada tells Mira she does not think Mira is lying, but believes Mira believes what she says. Mira challenges her: why listen if Ada thinks she is delusional? Ada rejects the word as too simple. She distinguishes Mira's observations from Mira's interpretation of the bond and Korren: Mira is the primary witness to the first known human bond, and compromised judgment in one domain would not erase factual observations. Ada admits she does not know whether Mira's attachment is chemically distorted, genuinely chosen, or both; that uncertainty is precisely why she wants evidence separated from conclusions.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -21,8 +21,8 @@
 
 ## Carry-forward
 - A six-woman information-sharing meeting is planned after Senna obtains Mari's independent bond-onset account. Ada will chair; Mira will participate firsthand.
-- Senna has gone to question Mari and has sent word for Korren at Mira's request.
-- Mira and Ada are waiting together in Senna's lodge; the silence is strained but not openly hostile.
+- Senna is questioning Mari; Korren has been sent for and his footsteps were approaching the lodge before Mira challenged Ada.
+- Ada does not consider Mira simply delusional. She distrusts Mira's interpretation of the bond/relationship but considers Mira's direct observations essential evidence, and admits genuine uncertainty about where chemical influence ends and choice begins.
 - Mira still needs transport because her right foot is dressed/no-weight.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
 - Korren does not know the private subject.
