@@ -17,7 +17,8 @@
 - Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
 - Ada shifts toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
 - During the scar comparison, Mira removes her right-foot dressing despite Senna's warning, inspects the still-swollen/discolored injury, flexes it painfully, then attempts a poor rewrap with uneven tension and inadequate support.
-- Senna takes over re-dressing after Mira says the prior wrap was hurting. Mira clarifies quietly that it was throbbing. Senna treats this as useful symptom information, checks the wrap pressure/circulation by touch and rebinds with less constriction while maintaining support. She distinguishes expected injury throbbing from a dressing that worsens it and tells Mira to report if the pulse intensifies under the new wrap. Foot remains no-weight.
+- Senna takes over re-dressing after Mira says the prior wrap was hurting. Mira clarifies quietly that it was throbbing. Senna checks pressure/circulation and rebinds with less constriction while maintaining support; foot remains no-weight.
+- Mira silently watches Senna work and folds both arms around her waist over the river-stone bead cord of her mated-wife clothing. She offers no further explanation and does not rejoin the discussion. Senna finishes tending the foot without pressing Mira to speak.
 - Heavy rain continues over the lodge; the scar comparison remains in progress around them.
 
 ## Hidden GM canon — not known in-world
@@ -29,6 +30,6 @@
 
 ## Carry-forward
 - All six human women remain in Senna's lodge; scar comparison continues.
-- Mira has offered no hypothesis and remains largely withdrawn.
-- Senna is carefully re-dressing Mira's injured right foot after Mira reported the old dressing was throbbing. New wrap is being set with less constriction while preserving support. Foot remains no-weight.
+- Mira has offered no hypothesis and remains withdrawn, arms folded around her waist over the river-stone mate beads.
+- Senna has re-dressed Mira's injured right foot with less constriction. Foot remains no-weight.
 - Heavy rain continues.
