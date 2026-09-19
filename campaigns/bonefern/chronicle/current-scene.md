@@ -11,7 +11,8 @@
 - Mira rested against Korren and said, "I hate this." He held her quietly rather than trying to solve it.
 - Senna found them beneath the roots after completing her independent questioning of Mari. She withheld Mari's answers and told Mira the six women are being gathered; she wants facts compared before theories are imposed.
 - Mira nodded sadly for Korren to carry her back. At Senna's lodge Korren stopped at the threshold, reminded her quietly: facts, what she thinks, what she does not know; she does not have to make them like her answers. Mira protested softly at parting; Korren understood the reluctance, touched forehead to hers, and held her until she could be safely settled.
-- Mira watches Korren leave the threshold until he disappears from view, then drops her gaze to her bandaged right foot and refuses eye contact with the room. The other five human women are now present: Ada, Mari, Ren, Liesel, and Suvi. No keeper is inside. The room initially holds the silence rather than forcing Mira to perform composure. Ada, despite the unresolved argument, honors the agreed chair role and opens in human speech with a procedural frame rather than an accusation: nobody has to defend what she feels; they are there to establish what happened, what each remembers, and what remains unknown. Senna stays outside the human-language discussion except where needed for the room/custom, preserving the women's private channel.
+- Mira watched Korren leave, then dropped her gaze to her bandaged right foot. All six human women are present with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
+- Mira remains silent and keeps staring at her injured foot. Ada does not force her to speak first. Instead, honoring the chair role and Mira's visible withdrawal, Ada starts with herself: she states that she remembers the Helia-Voss, ordinary pre-transfer life, then a blank, then waking on Vethaal without clothes or equipment; she will proceed by concrete chronology and invite the others to do the same. Mira's silence is allowed to stand rather than being interpreted aloud.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -22,8 +23,8 @@
 
 ## Carry-forward
 - Senna has completed her independent questioning of Mari but has not yet disclosed Mari's answers to Mira or the group.
-- All six human women are now together in Senna's lodge: Mira, Ada, Mari, Ren, Liesel, Suvi. No male keeper is inside. Ada chairs in human speech.
-- Ada has opened with a facts-first procedure and explicitly says nobody must defend what she feels. This does not erase her unresolved confrontation with Mira.
-- Mira is seated with her injured right foot protected, looking down and avoiding everyone's eyes after watching Korren leave.
+- All six human women are together in Senna's lodge: Mira, Ada, Mari, Ren, Liesel, Suvi. No male keeper is inside. Ada chairs in human speech.
+- Ada has opened with a facts-first procedure and explicitly says nobody must defend what she feels. Mira remains silent and avoids eye contact; Ada has chosen not to force her and begins with her own chronology instead.
+- Mira is seated with her injured right foot protected, staring at it after watching Korren leave.
 - Mira has told Korren the other women treat her will as suspect because she accepted the bond, that Ada/Senna make her feel accused of hiding knowledge when she is theorizing, and that she hates confrontation and feels cast as an enemy because she accepted Korren's claim. Korren does not know the actual scientific/private content of Mira's theories.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
