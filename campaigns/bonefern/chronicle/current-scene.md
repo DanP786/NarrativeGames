@@ -16,19 +16,19 @@
 - Ada completes the facts-first pass and opens hypotheses. Mira offers nothing. Senna does not disclose Mira's private spore theory for her.
 - Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
 - Ada shifts toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
-- As the women begin exposing/comparing their head and neck marks, Mira starts deliberately unwrapping the dressing from her injured right foot instead. The action is visible and redirects Senna's attention because the foot had been dressed for no weight after Mira's failed attempt to stand. Mira has not explained why she is removing it.
+- During the scar comparison, Mira deliberately removes the rest of her right-foot dressing despite Senna's warning that the foot is not ready for weight. Mira ignores the warning and looks at the injury itself. With the support removed, the foot is still visibly swollen and discolored from the recent cliff injury/failed weight-bearing, and moving it brings a deep hot throb. No new diagnosis is established. Senna remains attentive but does not attribute motives Mira has not voiced.
 - Heavy rain continues over the lodge.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
-- The experiment tests whether human women exposed to the planet's naturally occurring cave spores will form the same ecological mating bond with Kael’tha males, and whether bonded human/Kael'tha pairs can produce children.
+- The experiment tests whether human women exposed to the planet's naturally occurring cave spores will form the same ecological mating bond with Kael’tha males, and whether bonded human/Kael’tha pairs can produce children.
 - The spores and the bond are a genuine native ecological phenomenon. The implants do NOT create, control, or cause the bond and do NOT mind-control the women.
 - The implants have other engineered functions including translation; their presence is part of the experiment infrastructure, not the source of the bond.
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
 - All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
-- Women have begun the close comparison of head/neck marks. No cause/function is established.
-- Mira has offered no hypothesis and is not joining the scar comparison yet. Instead she has begun deliberately unwrapping her injured right foot dressing without explanation.
-- Senna has noticed because the foot is supposed to remain no-weight.
+- Women are comparing head/neck marks; no cause/function is established.
+- Mira has offered no hypothesis and is not joining the scar comparison. She has fully removed her right-foot dressing and is inspecting the still-swollen/discolored injury despite Senna's warning. It remains no-weight based on the failed stand and current condition.
+- Senna is watching but has not forced the issue.
 - Heavy rain continues.
