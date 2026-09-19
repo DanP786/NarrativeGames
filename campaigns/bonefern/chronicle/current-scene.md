@@ -1,4 +1,4 @@
-# Current scene — returning to Senna's lodge, Day 10 midday
+# Current scene — threshold of Senna's lodge, Day 10 midday
 
 - Earlier in Korren's lodge, Mira and Korren privately separated the unchosen beginning of his claim from Mira's present choice. Mira told him she does not want their life together to change; Korren accepted the distinction and her present choice.
 - Senna privately questioned Mira about the hidden implants, the Helia-Voss mission, pre-voyage implant removal, screening, the six-of-thousands selection, and Mira's implant-site knowledge. Mira suspects crew profiling selected the six but does not know the criteria.
@@ -10,7 +10,8 @@
 - Korren came to understand Mira's distinction between observed facts, hypotheses, and unknowns. Mira admitted she hates confrontation and feels cast as an enemy because she accepted Korren's claim. Korren said the others' fear does not itself make Mira their enemy, and that requiring Mira to reject him as proof of agency would itself demand she surrender a choice.
 - Mira rested against Korren and said, "I hate this." He held her quietly rather than trying to solve it.
 - Senna found them beneath the roots after completing her independent questioning of Mari. She withheld Mari's answers and told Mira the six women are being gathered; she wants facts compared before theories are imposed.
-- Mira gives Korren a sad look and nods once. Korren accepts the nod as permission to move her, rises with Mira in his arms without putting weight through her injured right foot, and carries her back toward Senna's lodge. Senna leads. Korren does not try to accompany Mira into the women's meeting; his role is only to get her safely back unless Mira asks otherwise.
+- Mira nodded sadly for Korren to carry her back. At Senna's lodge Korren stopped at the threshold, reminded her quietly: facts, what she thinks, what she does not know; she does not have to make them like her answers.
+- Mira answers with a small protesting sound, still visibly sad and reluctant to leave him. Korren understands it as reluctance rather than refusal. He does not tease or press her; he touches his forehead briefly to hers and tells her, "I know." He keeps holding her until Senna is ready to receive/settle her, preserving the no-weight restriction. The women's voices are audible inside; the meeting is immediately next.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -21,8 +22,8 @@
 
 ## Carry-forward
 - Senna has completed her independent questioning of Mari but has not yet disclosed Mari's answers to Mira or the group.
-- The six-woman information-sharing meeting is now being gathered. Ada is to chair; Mira will provide firsthand evidence. Senna wants Mari's independent account compared without contamination by prior interpretation.
+- The six-woman information-sharing meeting is gathered/being gathered inside Senna's lodge. Ada is to chair; Mira will provide firsthand evidence. Senna wants Mari's independent account compared without contamination by prior interpretation.
 - Mira and Ada's confrontation remains unresolved.
 - Mira has told Korren the other women treat her will as suspect because she accepted the bond, that Ada/Senna make her feel accused of hiding knowledge when she is theorizing, and that she hates confrontation and feels cast as an enemy because she accepted Korren's claim. Korren does not know the actual scientific/private content of Mira's theories.
-- Mira is being carried back to Senna's lodge by Korren, following Senna. Her right foot remains dressed/no-weight and cannot safely carry her.
+- Mira is still in Korren's arms at Senna's threshold, reluctant and sad, about to be settled inside. Her right foot remains dressed/no-weight.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
