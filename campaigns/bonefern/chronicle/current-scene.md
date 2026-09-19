@@ -15,20 +15,20 @@
 - Mari's entry was unwilling. Mira summarized her sequence as "The same as Mari," after which Ada distinguished that Mira had chosen to enter the cave. Mira went outwardly blank and silent. Privately she experiences that distinction through the larger coercive context and feels condemned for accepting what she believed she could not control; this remains private.
 - Ada completes the facts-first pass and opens hypotheses. Mira offers nothing. Senna does not disclose Mira's private spore theory for her.
 - Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
-- Mira remains withdrawn, picking at the edge of her right-foot dressing while the discussion continues.
-- Ada turns the hypotheses toward practical tests rather than argument. She identifies two immediate questions that do not require accepting any theory: whether the head/neck marks are materially alike when examined closely, and whether the unbonded women can be kept completely out of sacred caves while the group learns more. Senna agrees that no woman needs to enter the deep place merely to test an idea. The room now has the beginnings of a precautionary plan without establishing what causes the bond.
-- Rain is heavy over Senna's lodge. Mira has not been asked to speak again yet.
+- Ada shifts toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
+- As the women begin exposing/comparing their head and neck marks, Mira starts deliberately unwrapping the dressing from her injured right foot instead. The action is visible and redirects Senna's attention because the foot had been dressed for no weight after Mira's failed attempt to stand. Mira has not explained why she is removing it.
+- Heavy rain continues over the lodge.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
-- The experiment tests whether human women exposed to the planet's naturally occurring cave spores will form the same ecological mating bond with Kael’tha males, and whether bonded human/Kael’tha pairs can produce children.
+- The experiment tests whether human women exposed to the planet's naturally occurring cave spores will form the same ecological mating bond with Kael’tha males, and whether bonded human/Kael'tha pairs can produce children.
 - The spores and the bond are a genuine native ecological phenomenon. The implants do NOT create, control, or cause the bond and do NOT mind-control the women.
 - The implants have other engineered functions including translation; their presence is part of the experiment infrastructure, not the source of the bond.
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
 - All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
-- Mira remains silent/withdrawn, visibly picking at her foot dressing. Her private resentment/hurt is not known to others.
-- No hypothesis is established. Mira has not voiced her spore model to the group.
-- Ada has shifted toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
-- Heavy rain continues; Mira has not yet been asked to speak again.
+- Women have begun the close comparison of head/neck marks. No cause/function is established.
+- Mira has offered no hypothesis and is not joining the scar comparison yet. Instead she has begun deliberately unwrapping her injured right foot dressing without explanation.
+- Senna has noticed because the foot is supposed to remain no-weight.
+- Heavy rain continues.
