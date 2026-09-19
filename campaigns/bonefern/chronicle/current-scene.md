@@ -9,7 +9,8 @@
 - Mira notes that being dumped naked already made accident implausible; the translator may instead point toward motive. She adds that the women were left on patrol/hunting routes, suggesting they were intended to be found by Vahn-rii.
 - Mira proposes gathering all six women because being kept separately by individual men has prevented comparison. Senna agrees in principle but wants Mari independently questioned about bond onset first, before exposure to Mira's theory; afterward Senna can gather the women under a legitimate women's custom/pretext.
 - Mira asks Ada to run the eventual meeting, saying the others may not trust Mira because she accepted the bond. Ada accepts but insists Mira still speak and provide her evidence firsthand.
-- Mira asks whether she can see Korren while Senna questions Mari and prepares the gathering. Senna permits it without objection; the restriction is on the later women's meeting being keeper-free, not on Mira seeing her mate beforehand. Because Mira's right foot remains no-weight, she cannot simply walk out to find him and will need Korren fetched or another safe way to move.
+- Mira asks whether she can see Korren while Senna questions Mari and prepares the gathering. Senna permits it and sends word for him; the later meeting itself remains keeper-free.
+- With Senna gone, Mira waits awkwardly beside Ada in the lodge. Ada does not force conversation or reopen their conflict. The silence is strained but no longer openly hostile; both women remain in place while they wait for Korren to arrive.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -20,7 +21,8 @@
 
 ## Carry-forward
 - A six-woman information-sharing meeting is planned after Senna obtains Mari's independent bond-onset account. Ada will chair; Mira will participate firsthand.
-- Mira has asked to see Korren during the interval. Senna allows it; the later meeting itself remains keeper-free.
+- Senna has gone to question Mari and has sent word for Korren at Mira's request.
+- Mira and Ada are waiting together in Senna's lodge; the silence is strained but not openly hostile.
 - Mira still needs transport because her right foot is dressed/no-weight.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
-- Korren does not know the private subject and is outside the conversation.
+- Korren does not know the private subject.
