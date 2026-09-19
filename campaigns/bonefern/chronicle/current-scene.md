@@ -15,8 +15,10 @@
 - Mira's anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting. Nevertheless, she listens closely for corroboration and contradiction.
 - The factual comparison establishes: all six understand spoken Kael'tha despite never learning it; unexplained head/neck marks exist among them; Mira and Mari are the two known women taken through the sacred-cave sequence and both report the reciprocal/humming event afterward. No causal mechanism is established.
 - Mari's entry was unwilling. Mira summarized her sequence as "The same as Mari," after which Ada distinguished that Mira had chosen to enter the cave. Mira went outwardly blank and silent. Privately she experiences that distinction through the larger coercive context and feels condemned for accepting what she believed she could not control; this remains private.
-- Ada completes the initial facts-first pass and explicitly marks the transition to hypotheses. She summarizes only the established pattern, not a cause: unexplained arrival/blank, shared language comprehension, unexplained head/neck marks, and a bond-associated change in the two women exposed to the sacred cave sequence. She says the room can now offer explanations, but each must be named as a guess and tied to the observations it explains.
-- Senna remains quiet at the transition, watching Mira as well as Mari. Senna knows Mira has a cave-spore hypothesis from their private conversation but does not volunteer it for her; Mira retains the choice whether to state it to the group.
+- Ada completes the facts-first pass and opens hypotheses, requiring each explanation to be labeled as a guess and tied to observations.
+- Mira offers nothing during the opening of the hypothesis phase. Senna does not disclose Mira's private spore theory for her.
+- The other women begin testing possibilities without settling them as truth. Suvi suggests the shared language and unexplained head/neck marks may be connected because both are common to all six, while explicitly acknowledging correlation is not proof. Ren asks whether whoever placed them on Vethaal could have altered them before the memory blank; Ada marks this as plausible but currently untestable. Liesel quietly points out that a single explanation does not have to account for both translation and the cave-associated bond change; there may be more than one mechanism. Ada preserves that distinction.
+- The room now has competing working models rather than a consensus: one hidden intervention may explain several anomalies, or separate mechanisms may be involved. Mira's cave-spore hypothesis has not been voiced to the full group.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -28,6 +30,6 @@
 ## Carry-forward
 - All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
 - Mira is outwardly blank-faced, silent, and eyes-down while anxiety and foot pain continue. Her resentment/hurt about the coercive context and feeling judged are private.
-- The initial facts-first pass is complete. Established pattern: unexplained blank/arrival; automatic Kael'tha comprehension; unexplained head/neck marks; Mira and Mari both underwent the sacred-cave sequence and report reciprocal/humming change afterward.
-- Ada has now opened the hypotheses phase. Any explanation must be labeled as a guess rather than knowledge.
-- Senna will not disclose Mira's private spore hypothesis for her. Mira can choose whether to state it herself.
+- The facts-first pass is complete; hypotheses are now being tested.
+- Mira has offered no hypothesis. Senna has not disclosed Mira's private spore model.
+- Suvi has raised a possible connection between common head/neck marks and common language comprehension; Ren has raised pre-blank human alteration; Liesel has cautioned that translation and cave-bond effects may have separate mechanisms. None is established.
