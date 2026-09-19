@@ -16,7 +16,8 @@
 - Ada completes the facts-first pass and opens hypotheses. Mira offers nothing. Senna does not disclose Mira's private spore theory for her.
 - Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
 - Ada shifts toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
-- During the scar comparison, Mira deliberately removes the rest of her right-foot dressing despite Senna's warning that the foot is not ready for weight. Mira ignores the warning and looks at the injury itself. With the support removed, the foot is still visibly swollen and discolored from the recent cliff injury/failed weight-bearing, and moving it brings a deep hot throb. No new diagnosis is established. Senna remains attentive but does not attribute motives Mira has not voiced.
+- During the scar comparison, Mira removes her right-foot dressing despite Senna's warning, inspects the still-swollen/discolored injury, then flexes the foot. The motion is possible but provokes a sharp/deep pain response and does not change the no-weight assessment.
+- Mira then attempts to rewrap the foot herself. The result is poor: uneven turns, gaps, bunching, and inconsistent tension that does not restore the prior support. Senna can plainly see the dressing is inadequate. Mira has not asked for help.
 - Heavy rain continues over the lodge.
 
 ## Hidden GM canon — not known in-world
@@ -27,8 +28,8 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
-- Women are comparing head/neck marks; no cause/function is established.
-- Mira has offered no hypothesis and is not joining the scar comparison. She has fully removed her right-foot dressing and is inspecting the still-swollen/discolored injury despite Senna's warning. It remains no-weight based on the failed stand and current condition.
-- Senna is watching but has not forced the issue.
+- All six human women remain in Senna's lodge; scar comparison continues.
+- Mira has offered no hypothesis and is withdrawn from the discussion.
+- Mira flexed the injured right foot, provoking pain, then attempted to rewrap it herself. The new wrap is visibly poor and provides inadequate support. The foot remains no-weight.
+- Senna is watching and can see the rewrap is inadequate; Mira has not asked for help.
 - Heavy rain continues.
