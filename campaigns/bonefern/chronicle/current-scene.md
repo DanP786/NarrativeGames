@@ -12,7 +12,8 @@
 - Senna found them beneath the roots after completing her independent questioning of Mari. She withheld Mari's answers and told Mira the six women are being gathered; she wants facts compared before theories are imposed.
 - Mira nodded sadly for Korren to carry her back. At Senna's lodge Korren stopped at the threshold, reminded her quietly: facts, what she thinks, what she does not know; she does not have to make them like her answers. Mira protested softly at parting; Korren understood the reluctance, touched forehead to hers, and held her until she could be safely settled.
 - Mira watched Korren leave, then dropped her gaze to her bandaged right foot. All six human women are present with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
-- Mira remains silent and keeps staring at her injured foot. Ada does not force her to speak first. Instead, honoring the chair role and Mira's visible withdrawal, Ada starts with herself: she states that she remembers the Helia-Voss, ordinary pre-transfer life, then a blank, then waking on Vethaal without clothes or equipment; she will proceed by concrete chronology and invite the others to do the same. Mira's silence is allowed to stand rather than being interpreted aloud.
+- Mira remains silent and keeps staring at her injured foot. Ada does not force her to speak first and begins with her own chronology: Helia-Voss, ordinary ship life, a blank, then waking on Vethaal without clothes or equipment.
+- Mira continues not to volunteer. She appears withdrawn and fixed on her foot but listens closely while the discussion moves around her. Ada accepts the nonparticipation for now rather than making it a confrontation. Ren, Liesel, Suvi, and Mari begin contributing their own fragments in turn; the immediate purpose is to compare last pre-blank and first post-blank memories before anyone argues mechanism. No one yet interprets Mira's silence aloud.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -24,7 +25,7 @@
 ## Carry-forward
 - Senna has completed her independent questioning of Mari but has not yet disclosed Mari's answers to Mira or the group.
 - All six human women are together in Senna's lodge: Mira, Ada, Mari, Ren, Liesel, Suvi. No male keeper is inside. Ada chairs in human speech.
-- Ada has opened with a facts-first procedure and explicitly says nobody must defend what she feels. Mira remains silent and avoids eye contact; Ada has chosen not to force her and begins with her own chronology instead.
-- Mira is seated with her injured right foot protected, staring at it after watching Korren leave.
+- Ada has opened with a facts-first procedure and explicitly says nobody must defend what she feels. Mira remains silent and avoids eye contact; Ada does not force her. The other women are beginning their own chronological accounts around her.
+- Mira appears disengaged but is actually listening closely while staring at her protected injured foot.
 - Mira has told Korren the other women treat her will as suspect because she accepted the bond, that Ada/Senna make her feel accused of hiding knowledge when she is theorizing, and that she hates confrontation and feels cast as an enemy because she accepted Korren's claim. Korren does not know the actual scientific/private content of Mira's theories.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
