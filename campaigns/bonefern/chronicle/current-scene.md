@@ -11,9 +11,10 @@
 - Korren later carried Mira back to Senna's lodge. At the threshold he reminded her to separate facts, what she thinks, and what she does not know. Mira protested softly at parting; he touched forehead to hers before leaving.
 - All six human women are together with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
 - First memory round: Ada, Ren, Liesel, Suvi, and Mari each gave fragments of last pre-blank and first post-blank memories. Mira gave only: "I don't remember anything. I was working. Then here." Shared pattern: ordinary ship activity, unexplained blank, waking on Vethaal without normal possessions/equipment.
-- The meeting moves to pre-boarding medical clearance and psychological screening. Mira has relevant information already disclosed privately to Senna — ordinary pre-boarding medical examination, removal of her cosmetic implant, implant-placement conventions, medical/psych screening, and her suspicion that the six were profile-selected from thousands — but initially volunteers nothing.
-- Mira's anxiety makes her injured foot throb with her heartbeat. She keeps her eyes down.
-- Ada directly asks whether Mira remembers undergoing pre-boarding medical and psychological clearance. Mira nods once and answers: "I don't remember anything unusual." She offers no additional detail. Ada accepts the literal answer but distinguishes unusual-at-the-time from useful-in-hindsight, then returns the question to the group: they should compare ordinary procedures too, because a shared routine detail may matter now. She does not accuse Mira of lying or force a fuller answer.
+- The meeting moves to pre-boarding medical clearance and psychological screening. Mira has relevant information already disclosed privately to Senna — ordinary pre-boarding medical examination, removal of her cosmetic implant, implant-placement conventions, medical/psych screening, and her suspicion that the six were profile-selected from thousands — but volunteers almost nothing.
+- Ada directly asks whether Mira remembers undergoing pre-boarding medical and psychological clearance. Mira nods once and answers: "I don't remember anything unusual." Ada accepts the literal answer and reframes the comparison around ordinary details that may matter in hindsight.
+- Mira listens while the others continue. She keeps her eyes down and says nothing. Her anxiety worsens: heartbeat fast enough to make her injured foot pulse painfully, body increasingly aware of the enclosed lodge and the women around her. Privately, she begins regretting having asked for the six-woman meeting at all. No one has access to that regret unless she voices it.
+- The meeting continues despite Mira's withdrawal; the next useful comparison is approaching the implanted neck/translation evidence, which will make Mira's privately held pre-boarding implant knowledge increasingly relevant.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -25,6 +26,6 @@
 ## Carry-forward
 - Senna has completed her independent questioning of Mari but has not yet disclosed Mari's answers to Mira or the group.
 - All six human women are together in Senna's lodge: Mira, Ada, Mari, Ren, Liesel, Suvi. No male keeper is inside. Ada chairs in human speech.
-- The meeting is comparing pre-boarding medical/psych screening. Mira answered Ada's direct question only with a nod and "I don't remember anything unusual," keeping her eyes down and volunteering nothing further.
-- Ada has not accused Mira; she has reframed the comparison around ordinary details that may only look significant in hindsight.
+- Mira remains silent, eyes down, and increasingly anxious; she privately regrets calling the meeting. Her foot throbs harder with her elevated pulse.
+- Ada has not accused Mira; she has kept the meeting facts-first and allowed Mira's minimal answers to stand.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
