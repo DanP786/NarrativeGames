@@ -12,9 +12,9 @@
 - All six human women are together with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
 - First memory round: Ada, Ren, Liesel, Suvi, and Mari each gave fragments of last pre-blank and first post-blank memories. Mira gave only: "I don't remember anything. I was working. Then here." Shared pattern: ordinary ship activity, unexplained blank, waking on Vethaal without normal possessions/equipment.
 - The meeting moves to pre-boarding medical clearance and psychological screening. Mira answers Ada's direct question only: she remembers clearance but "I don't remember anything unusual." She keeps her eyes down and volunteers nothing further.
-- Mira listens while the others continue. Her anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting.
-- Clarification of Mira's reasoning: she is not treating her screening/profile theory, implant-function theory, or cave-spore model as established facts. Because Ada and Senna explicitly asked for facts before guesses, Mira deliberately does not volunteer those hypotheses during the factual round. Her silence on those theories is therefore consistent with the meeting's stated procedure, not evidence that Mira believes she knows the answers. She may still possess factual observations relevant to later comparison, but she is presently choosing to answer only what is directly asked.
-- The group is approaching comparison of neck scars and automatic Kael'tha translation. These are observable facts; what caused them or what the implants do remains an inference unless independently established.
+- Mira's anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting. Nevertheless, she keeps listening closely rather than withdrawing mentally.
+- Mira is following the facts-first rule literally: she is not volunteering screening/profile, implant-function, or cave-spore hypotheses as knowledge. She listens for corroboration and contradiction while the women compare what each can actually remember.
+- The factual comparison reaches two shared observations: all six understand spoken Kael'tha despite never learning it, and unexplained marks/scars associated with the head/neck area are present among the women, though Suvi's visible geometric mark is at the temple rather than the nape. The group has not yet established what any mark does or whether the marks cause translation. Cause/function remain hypotheses.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -26,7 +26,7 @@
 ## Carry-forward
 - Senna has completed her independent questioning of Mari but has not yet disclosed Mari's answers to Mira or the group.
 - All six human women are together in Senna's lodge: Mira, Ada, Mari, Ren, Liesel, Suvi. No male keeper is inside. Ada chairs in human speech.
-- Mira remains silent, eyes down, and increasingly anxious; she privately regrets calling the meeting. Her foot throbs harder with her elevated pulse.
-- Mira is following the facts-first rule literally: she is not volunteering hypotheses as though they were knowledge. Do not narratively characterize her theories as facts she is knowingly hiding.
-- Ada has not accused Mira; she has kept the meeting facts-first and allowed Mira's minimal answers to stand.
+- Mira remains silent and eyes-down but is listening closely despite worsening anxiety and foot pain.
+- The group now has two shared factual observations in discussion: automatic Kael'tha comprehension and unexplained head/neck marks. No causal link between them is established yet.
+- Mira is following facts-first literally; do not characterize her theories as facts she knowingly hides.
 - Ada still does not know Mira's S07 factual observations about pre-voyage implant-removal rules/site conventions or the fact that thousands were aboard; Mira's profile-selection conclusion remains a suspicion, not fact.
