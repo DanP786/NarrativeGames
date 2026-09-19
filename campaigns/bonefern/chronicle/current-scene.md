@@ -11,10 +11,12 @@
 - Korren later carried Mira back to Senna's lodge. At the threshold he reminded her to separate facts, what she thinks, and what she does not know. Mira protested softly at parting; he touched forehead to hers before leaving.
 - All six human women are together with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
 - First memory round: Ada, Ren, Liesel, Suvi, and Mari each gave fragments of last pre-blank and first post-blank memories. Mira gave only: "I don't remember anything. I was working. Then here." Shared pattern: ordinary ship activity, unexplained blank, waking on Vethaal without normal possessions/equipment.
-- The meeting moves to pre-boarding medical clearance and psychological screening. Mira answers Ada's direct question only: she remembers clearance but "I don't remember anything unusual." She keeps her eyes down and volunteers nothing further.
-- Mira's anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting. Nevertheless, she keeps listening closely rather than withdrawing mentally.
-- Mira is following the facts-first rule literally: she is not volunteering screening/profile, implant-function, or cave-spore hypotheses as knowledge. She listens for corroboration and contradiction while the women compare what each can actually remember.
-- The factual comparison reaches two shared observations: all six understand spoken Kael'tha despite never learning it, and unexplained marks/scars associated with the head/neck area are present among the women, though Suvi's visible geometric mark is at the temple rather than the nape. The group has not yet established what any mark does or whether the marks cause translation. Cause/function remain hypotheses.
+- The meeting moves through pre-boarding medical/psych screening. Mira answers only that she remembers clearance but nothing unusual. She keeps her eyes down and volunteers nothing further.
+- Mira's anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting. Nevertheless, she listens closely for corroboration and contradiction.
+- The factual comparison establishes two observations: all six understand spoken Kael'tha despite never learning it, and unexplained marks/scars associated with the head/neck are present among the women, with Suvi's visible mark at the temple rather than nape. No causal link is established.
+- Ada keeps cause out of the factual round and turns to exposure chronology: who has been taken into a sacred cave/rock place, what happened before entry, what changed during or after, and who has never entered. This creates a direct comparison between Mira and Mari, the two known bonded women, and the unbonded women without yet assuming mechanism.
+- Mari is visibly distressed by the turn but remains in the meeting. Ada does not ask her to interpret the bond; only to give sequence. Senna has Mari's independent account available as a cross-check but has not yet disclosed it.
+- Mira remains silent and eyes-down as the cave chronology begins. Her own firsthand sequence will be relevant when the round reaches her, but the scene has not supplied her answer.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -24,9 +26,9 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- Senna has completed her independent questioning of Mari but has not yet disclosed Mari's answers to Mira or the group.
-- All six human women are together in Senna's lodge: Mira, Ada, Mari, Ren, Liesel, Suvi. No male keeper is inside. Ada chairs in human speech.
-- Mira remains silent and eyes-down but is listening closely despite worsening anxiety and foot pain.
-- The group now has two shared factual observations in discussion: automatic Kael'tha comprehension and unexplained head/neck marks. No causal link between them is established yet.
+- All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
+- Mira remains silent and eyes-down but listens closely despite worsening anxiety and foot pain.
+- The group has factual observations of automatic Kael'tha comprehension and unexplained head/neck marks, but no established cause/function.
+- Ada has now moved the factual round to sacred-cave exposure chronology, comparing bonded Mira/Mari with unbonded women without assuming cause.
+- Senna has Mari's independently collected account available to cross-check after Mari speaks; she has not disclosed it yet.
 - Mira is following facts-first literally; do not characterize her theories as facts she knowingly hides.
-- Ada still does not know Mira's S07 factual observations about pre-voyage implant-removal rules/site conventions or the fact that thousands were aboard; Mira's profile-selection conclusion remains a suspicion, not fact.
