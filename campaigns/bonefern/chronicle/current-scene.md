@@ -10,14 +10,14 @@
 - Korren came to understand Mira's distinction between observed facts, hypotheses, and unknowns. Mira admitted she hates confrontation and feels cast as an enemy because she accepted Korren's claim. Korren said the others' fear does not itself make Mira their enemy, and that requiring Mira to reject him as proof of agency would itself demand she surrender a choice.
 - Korren later carried Mira back to Senna's lodge. At the threshold he reminded her to separate facts, what she thinks, and what she does not know. Mira protested softly at parting; he touched forehead to hers before leaving.
 - All six human women are together with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
-- First memory round: Ada, Ren, Liesel, Suvi, and Mari each gave fragments of last pre-blank and first post-blank memories. Mira gave only: "I don't remember anything. I was working. Then here." Shared pattern: ordinary ship activity, unexplained blank, waking on Vethaal without normal possessions/equipment.
-- The meeting moves through pre-boarding medical/psych screening. Mira answers only that she remembers clearance but nothing unusual. She keeps her eyes down and volunteers nothing further.
+- First memory round found a shared pattern of ordinary ship activity, unexplained blank, then Vethaal without normal possessions/equipment. Mira contributed only: "I don't remember anything. I was working. Then here." On screening she said she remembers clearance but nothing unusual.
 - The factual comparison establishes: all six understand spoken Kael'tha despite never learning it; unexplained head/neck marks exist among them; Mira and Mari are the two known women taken through the sacred-cave sequence and both report the reciprocal/humming event afterward. No causal mechanism is established.
 - Mari's entry was unwilling. Mira summarized her sequence as "The same as Mari," after which Ada distinguished that Mira had chosen to enter the cave. Mira went outwardly blank and silent. Privately she experiences that distinction through the larger coercive context and feels condemned for accepting what she believed she could not control; this remains private.
-- Ada completes the facts-first pass and opens hypotheses, requiring each explanation to be labeled as a guess and tied to observations.
-- Mira offers nothing during the opening of the hypothesis phase. Senna does not disclose Mira's private spore theory for her.
-- Suvi suggests the shared language and unexplained head/neck marks may be connected, while acknowledging correlation is not proof. Ren raises the possibility of alteration during the memory blank. Liesel notes translation and cave-bond effects may have separate mechanisms. None is established.
-- As the hypothesis discussion continues around her, Mira stares down and worries/picks at the edge of the dressing on her injured right foot. She does not join the discussion. The small repetitive movement is visible, but her private reasons and thoughts remain unreadable to the others.
+- Ada completes the facts-first pass and opens hypotheses. Mira offers nothing. Senna does not disclose Mira's private spore theory for her.
+- Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
+- Mira remains withdrawn, picking at the edge of her right-foot dressing while the discussion continues.
+- Ada turns the hypotheses toward practical tests rather than argument. She identifies two immediate questions that do not require accepting any theory: whether the head/neck marks are materially alike when examined closely, and whether the unbonded women can be kept completely out of sacred caves while the group learns more. Senna agrees that no woman needs to enter the deep place merely to test an idea. The room now has the beginnings of a precautionary plan without establishing what causes the bond.
+- Rain is heavy over Senna's lodge. Mira has not been asked to speak again yet.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -28,7 +28,7 @@
 
 ## Carry-forward
 - All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
-- Mira remains silent and withdrawn, now visibly picking at the edge of her right-foot dressing while the others discuss hypotheses.
-- The facts-first pass is complete; hypotheses are being tested.
-- Mira has offered no hypothesis. Senna has not disclosed Mira's private spore model.
-- Current voiced possibilities: marks may relate to translation; alteration may have happened during the memory blank; translation and cave-bond effects may be separate mechanisms. None is established.
+- Mira remains silent/withdrawn, visibly picking at her foot dressing. Her private resentment/hurt is not known to others.
+- No hypothesis is established. Mira has not voiced her spore model to the group.
+- Ada has shifted toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
+- Heavy rain continues; Mira has not yet been asked to speak again.
