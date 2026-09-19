@@ -12,13 +12,12 @@
 - All six human women are together with no male keeper inside. Ada opened in human speech: this is not a trial; nobody has to defend what she feels; they will establish memories/facts first, then guesses, and say when they do not know.
 - First memory round: Ada, Ren, Liesel, Suvi, and Mari each gave fragments of last pre-blank and first post-blank memories. Mira gave only: "I don't remember anything. I was working. Then here." Shared pattern: ordinary ship activity, unexplained blank, waking on Vethaal without normal possessions/equipment.
 - The meeting moves through pre-boarding medical/psych screening. Mira answers only that she remembers clearance but nothing unusual. She keeps her eyes down and volunteers nothing further.
-- Mira's anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting. Nevertheless, she listens closely for corroboration and contradiction.
 - The factual comparison establishes: all six understand spoken Kael'tha despite never learning it; unexplained head/neck marks exist among them; Mira and Mari are the two known women taken through the sacred-cave sequence and both report the reciprocal/humming event afterward. No causal mechanism is established.
 - Mari's entry was unwilling. Mira summarized her sequence as "The same as Mari," after which Ada distinguished that Mira had chosen to enter the cave. Mira went outwardly blank and silent. Privately she experiences that distinction through the larger coercive context and feels condemned for accepting what she believed she could not control; this remains private.
 - Ada completes the facts-first pass and opens hypotheses, requiring each explanation to be labeled as a guess and tied to observations.
 - Mira offers nothing during the opening of the hypothesis phase. Senna does not disclose Mira's private spore theory for her.
-- The other women begin testing possibilities without settling them as truth. Suvi suggests the shared language and unexplained head/neck marks may be connected because both are common to all six, while explicitly acknowledging correlation is not proof. Ren asks whether whoever placed them on Vethaal could have altered them before the memory blank; Ada marks this as plausible but currently untestable. Liesel quietly points out that a single explanation does not have to account for both translation and the cave-associated bond change; there may be more than one mechanism. Ada preserves that distinction.
-- The room now has competing working models rather than a consensus: one hidden intervention may explain several anomalies, or separate mechanisms may be involved. Mira's cave-spore hypothesis has not been voiced to the full group.
+- Suvi suggests the shared language and unexplained head/neck marks may be connected, while acknowledging correlation is not proof. Ren raises the possibility of alteration during the memory blank. Liesel notes translation and cave-bond effects may have separate mechanisms. None is established.
+- As the hypothesis discussion continues around her, Mira stares down and worries/picks at the edge of the dressing on her injured right foot. She does not join the discussion. The small repetitive movement is visible, but her private reasons and thoughts remain unreadable to the others.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -29,7 +28,7 @@
 
 ## Carry-forward
 - All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
-- Mira is outwardly blank-faced, silent, and eyes-down while anxiety and foot pain continue. Her resentment/hurt about the coercive context and feeling judged are private.
-- The facts-first pass is complete; hypotheses are now being tested.
+- Mira remains silent and withdrawn, now visibly picking at the edge of her right-foot dressing while the others discuss hypotheses.
+- The facts-first pass is complete; hypotheses are being tested.
 - Mira has offered no hypothesis. Senna has not disclosed Mira's private spore model.
-- Suvi has raised a possible connection between common head/neck marks and common language comprehension; Ren has raised pre-blank human alteration; Liesel has cautioned that translation and cave-bond effects may have separate mechanisms. None is established.
+- Current voiced possibilities: marks may relate to translation; alteration may have happened during the memory blank; translation and cave-bond effects may be separate mechanisms. None is established.
