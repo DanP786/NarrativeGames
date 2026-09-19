@@ -8,7 +8,8 @@
 - Mira tells Ada the nape implant likely provides translation and reasons whoever installed it wanted the women able to communicate with the tribe. Ada recognizes that pre-arrival Kael'tha translation implies prior knowledge and deliberate placement.
 - Mira notes that being dumped naked already made accident implausible; the translator may instead point toward motive. She adds that the women were left on patrol/hunting routes, suggesting they were intended to be found by Vahn-rii.
 - Mira proposes gathering all six women because being kept separately by individual men has prevented comparison. Senna agrees in principle but wants Mari independently questioned about bond onset first, before exposure to Mira's theory; afterward Senna can gather the women under a legitimate women's custom/pretext.
-- Mira asks Ada to run the eventual meeting, saying the others may not trust Mira because she accepted the bond. Ada accepts the role. She does not absolve Mira's choices or claim the distrust is universal, but agrees that as the unbonded woman who has openly resisted being taken to the rock, she is better positioned to chair the comparison without the meeting becoming an argument about Mira and Korren. Ada insists Mira still needs to speak and provide her evidence firsthand rather than disappear from the inquiry.
+- Mira asks Ada to run the eventual meeting, saying the others may not trust Mira because she accepted the bond. Ada accepts but insists Mira still speak and provide her evidence firsthand.
+- Mira asks whether she can see Korren while Senna questions Mari and prepares the gathering. Senna permits it without objection; the restriction is on the later women's meeting being keeper-free, not on Mira seeing her mate beforehand. Because Mira's right foot remains no-weight, she cannot simply walk out to find him and will need Korren fetched or another safe way to move.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -18,9 +19,8 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- Mira has given Ada the glowing-fungi/concentration hypothesis and translation-implant hypothesis.
-- A six-woman information-sharing meeting is planned after Senna obtains Mari's independent bond-onset account.
-- Ada will chair/run the meeting at Mira's request; Mira believes her acceptance of the bond damages her credibility with the other women. Ada agrees she is better positioned to chair but requires Mira to participate and give evidence firsthand.
+- A six-woman information-sharing meeting is planned after Senna obtains Mari's independent bond-onset account. Ada will chair; Mira will participate firsthand.
+- Mira has asked to see Korren during the interval. Senna allows it; the later meeting itself remains keeper-free.
+- Mira still needs transport because her right foot is dressed/no-weight.
 - Ada still does not know Mira's S07 findings about pre-voyage implant-removal rules/site conventions, exactly six selected from thousands after medical/psych screening, or profile-based selection suspicion.
 - Korren does not know the private subject and is outside the conversation.
-- Mira's right foot remains dressed/no-weight.
