@@ -16,10 +16,10 @@
 - Ada completes the facts-first pass and opens hypotheses. Mira offers nothing. Senna does not disclose Mira's private spore theory for her.
 - Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
 - Ada shifts toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
-- During the scar comparison, Mira removes her right-foot dressing despite Senna's warning, inspects the still-swollen/discolored injury, flexes it painfully, then attempts a poor rewrap with uneven tension and inadequate support.
-- Senna takes over re-dressing after Mira says the prior wrap was hurting. Mira clarifies quietly that it was throbbing. Senna checks pressure/circulation and rebinds with less constriction while maintaining support; foot remains no-weight.
-- Mira silently watches Senna work and folds both arms around her waist over the river-stone bead cord of her mated-wife clothing. After Senna finishes, Mira quietly thanks her. Senna accepts the thanks without pressing Mira to speak further and remains near her while the comparison continues.
-- Heavy rain continues over the lodge; the scar comparison remains in progress around them.
+- During the scar comparison, Mira removes her right-foot dressing despite Senna's warning, inspects the still-swollen/discolored injury, flexes it painfully, then attempts a poor rewrap. Senna re-dresses it after Mira reports throbbing; foot remains no-weight. Mira quietly thanks her and stays withdrawn with her arms around her waist over the river-stone mate beads.
+- The scar comparison progresses without requiring Mira to speak. Ada establishes an observable pattern: Ren, Liesel, Ada, and Mari each have a small healed abnormality at/near the base of the skull; Suvi's conspicuous geometric temple mark is the placement outlier. Mira's nape site is already known to Senna but has not been newly exposed in the group. The marks are not visually identical enough to prove a single device/function, but their clustering is difficult to dismiss as random.
+- Ada keeps the conclusion narrow: common placement is evidence of deliberate intervention, not evidence that the marks cause the cave bond. Liesel's earlier warning about separate mechanisms remains live. No hidden function or implant mechanism is established to the group.
+- Heavy rain continues over the lodge.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -29,7 +29,8 @@
 - Preserve POV: Mira, Senna, Korren, Ada, and the other in-world characters do not know these hidden facts unless they discover evidence through play.
 
 ## Carry-forward
-- All six human women remain in Senna's lodge; scar comparison continues.
-- Mira remains withdrawn, arms around her waist over the river-stone mate beads, but quietly thanked Senna for tending her foot.
-- Senna has re-dressed Mira's injured right foot with less constriction and remains near her. Foot remains no-weight.
+- All six human women remain in Senna's lodge.
+- Scar comparison now shows a clustering of healed abnormalities at/near the base of the skull for Ren, Liesel, Ada, Mari, and known Mira; Suvi's geometric temple mark is the placement outlier. This supports deliberate intervention but does not establish function or connection to the cave bond.
+- Mira remains withdrawn and has not exposed her nape anew or volunteered her implant-site knowledge. Her foot is re-dressed and no-weight.
+- Ada is keeping conclusions narrow and separating intervention evidence from bond-causation claims.
 - Heavy rain continues.
