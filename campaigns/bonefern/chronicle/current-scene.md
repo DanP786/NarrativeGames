@@ -14,9 +14,9 @@
 - The meeting moves through pre-boarding medical/psych screening. Mira answers only that she remembers clearance but nothing unusual. She keeps her eyes down and volunteers nothing further.
 - Mira's anxiety worsens and her injured foot throbs with her heartbeat; privately she regrets having asked for the meeting. Nevertheless, she listens closely for corroboration and contradiction.
 - The factual comparison establishes two observations: all six understand spoken Kael'tha despite never learning it, and unexplained marks/scars associated with the head/neck are present among the women, with Suvi's visible mark at the temple rather than nape. No causal link is established.
-- Ada keeps cause out of the factual round and turns to exposure chronology: who has been taken into a sacred cave/rock place, what happened before entry, what changed during or after, and who has never entered. This creates a direct comparison between Mira and Mari, the two known bonded women, and the unbonded women without yet assuming mechanism.
-- Mari is visibly distressed by the turn but remains in the meeting. Ada does not ask her to interpret the bond; only to give sequence. Senna has Mari's independent account available as a cross-check but has not yet disclosed it.
-- Mira remains silent and eyes-down as the cave chronology begins. Her own firsthand sequence will be relevant when the round reaches her, but the scene has not supplied her answer.
+- Ada turns to sacred-cave exposure chronology without assuming cause. Mari gives the essential sequence: she did not want to go, Drenn took her into the sacred place, she heard the sound and then involuntarily made the humming sound back. Senna's independent questioning is consistent with Mari's account.
+- Asked for her own sequence, Mira answers only: "The same as Mari." She does not elaborate. This establishes Mira's claim that the relevant sequence matches Mari's without adding interpretation: cave exposure followed by the involuntary/reciprocal sound and bond-associated change. Ada accepts the answer provisionally but now has reason to clarify later whether "same" includes Mari's lack of willingness to enter, since Mira's known cave entry was voluntary.
+- Mira remains anxious, eyes down, and economical with speech.
 
 ## Hidden GM canon — not known in-world
 - The six women were deliberately selected from thousands for a covert experiment. Selection factors include healthy childbearing age and a psychological predisposition toward accepting/settling into being controlled, claimed, or kept by the local tribesmen under the right circumstances.
@@ -27,8 +27,8 @@
 
 ## Carry-forward
 - All six human women are together in Senna's lodge with no male keeper inside; Ada chairs in human speech.
-- Mira remains silent and eyes-down but listens closely despite worsening anxiety and foot pain.
+- Mira remains silent/terse and eyes-down but listens closely despite worsening anxiety and foot pain.
 - The group has factual observations of automatic Kael'tha comprehension and unexplained head/neck marks, but no established cause/function.
-- Ada has now moved the factual round to sacred-cave exposure chronology, comparing bonded Mira/Mari with unbonded women without assuming cause.
-- Senna has Mari's independently collected account available to cross-check after Mari speaks; she has not disclosed it yet.
+- Cave chronology now has matching core sequence from Mari and Mira. Mira summarized hers as "The same as Mari" rather than elaborating.
+- Important distinction still unresolved in the room: Mari says she did not want to enter; Mira entered her cave voluntarily. Ada may need to separate entry-consent from what happened after entry rather than treating "same" as literally identical.
 - Mira is following facts-first literally; do not characterize her theories as facts she knowingly hides.
