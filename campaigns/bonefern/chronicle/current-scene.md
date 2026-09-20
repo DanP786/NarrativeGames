@@ -1,4 +1,4 @@
-# Current scene — stream in foreign Kael'tha territory, ~Day 71–76, mid-afternoon
+# Current scene — en route to foreign Kael'tha village, ~Day 71–76, mid-afternoon
 
 Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Liesel has voluntarily bonded with Asho; Ren remains unbonded with Vesh but has softened; Ada remains unbonded/unclaimed; Mari remains bonded with Drenn and substantially frightened/conflicted.
 
@@ -6,15 +6,15 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 - Earlier today Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed. Mira has told none of the other human women.
 - At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Overwhelmed, Mira fled into the jungle, became disoriented, and wandered for roughly three hours into another Kael'tha people's territory.
 - Two foreign Kael'tha males found Mira. Both recognize her Vahn-rii mate-bead cord. They refuse to cross the territorial boundary and decide to take her to their own village for water and for their elders/leader to arrange her return. Both know Korren's name and react negatively/warily; the precise history remains unrevealed.
-- Mira follows as quickly as her short, tired legs allow. The males adjust their natural pace after seeing she cannot sustain it.
-- The group reaches a narrow running stream. Mira immediately focuses on the water. Her filtration expertise remains intact despite exhaustion: she does not blindly gulp from stagnant pooling, but selects the visibly moving, cleaner flow and drinks carefully enough not to make herself sick after prolonged heat/thirst. The foreign males allow the stop and watch her unfamiliar behavior with curiosity.
-- Mira remains exhausted, scratched, emotionally raw, and far from home, but the immediate dehydration pressure begins to ease. The foreign village remains ahead.
+- After drinking carefully from a running stream, Mira follows their instruction and continues toward the foreign village despite having many questions. Her immediate thirst is eased but she remains tired, scratched, and emotionally raw.
+- While walking, the first male studies Mira's size and asks whether she is a child because she is so small. His question is genuine cross-species confusion rather than mockery: he has never seen a human and is trying to reconcile Mira's adult mate-marking and bearing with her 5'2" stature relative to Kael'tha adults.
+- Neither male has touched or carried Mira. They continue moderating their pace for her.
 - Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine.
-- Mira is 5'2" and not athletic; after roughly three hours of lost walking in humid jungle plus the continued walk with the strangers, she is physically depleted.
-- Mira is Adept in filtration/life-support systems and will apply that competence to water selection even while distressed.
+- Mira is 26, fully adult, 5'2", Puerto Rican, and notably small beside Kael'tha adults.
+- Mira is not athletic; after roughly three hours lost plus the continued walk with the strangers, she is physically depleted.
 - Mira's river-stone mate-bead cord remains visibly worn over her light dress. It was tied on by Korren before she left for the meeting.
 - Kael'tha territorial boundaries can restrict members of one people from entering another's land without consequence. The foreign males will not casually cross into Vahn-rii territory.
 - Mira may plausibly be pregnant, but this remains unconfirmed and has no supernatural or bond-based signal.
