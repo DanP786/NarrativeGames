@@ -7,16 +7,18 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 - At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Ada admitted the exclusion was deliberate and rooted in distrust/fear that information shared with Mira might reach Korren or the Vahn-rii.
 - Overwhelmed, Mira fled into the jungle, became disoriented, repeatedly changed direction, and wandered for roughly three hours. She unknowingly crossed out of Vahn-rii territory and into the territory of another Kael'tha people.
 - A lone male of that other people found Mira. He appears never to have seen a human before. He initially regarded her with suspicion and curiosity/appreciation, then recognized the Vahn-rii mate-bead cord at her waist. Mira told him she is lost and asked him to take her back.
-- The stranger cannot cross into Vahn-rii territory without risking political/custom consequences, but says he can take Mira to the boundary. He estimates that for Mira, in her current condition and at her pace, reaching the boundary would take several hours—roughly four if she can keep moving, longer with rests—so they would not arrive before dark. From the boundary, the Vahn-rii village would still be farther on inside Vahn-rii land.
-- Mira is visibly worried by the distance. The stranger remains cautious and has not touched her; his name, people, and deeper motives remain unestablished.
-- Mira and the stranger remain alone for now. No one else has arrived. Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
+- The first stranger says he cannot cross into Vahn-rii territory. He estimates the territorial boundary is roughly four hours away at Mira's pace, with the Vahn-rii village farther beyond it. He notes that water and his own people are nearer.
+- As Mira absorbs this, a second male of the same foreign people arrives. He is likewise visibly struck by Mira's unfamiliar human appearance but quickly registers the Vahn-rii mate-beads and the situation.
+- The second male tells the first that they must bring Mira to their village rather than attempt the boundary now. His reasoning is practical/customary: darkness is approaching, Mira is exhausted and thirsty, she is an unknown mated woman found inside their territory, and handling her return is not a decision two patrol/hunting males should improvise at a contested boundary. He says their elders/leader must deal with it and send word or arrange return according to custom.
+- The first male does not immediately contest this. Neither male has touched Mira. Their names, people, leadership, and precise political relationship with Vahn-rii remain unestablished.
+- Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine.
 - Mira is lost, hot, thirsty, tired, scratched, tear-streaked, emotionally depleted, and without her normal water vessels or field kit.
 - Mira's river-stone mate-bead cord is visibly worn over her light dress. It was tied on by Korren before she left for the meeting.
-- Kael'tha territorial boundaries can restrict members of one people from entering another's land without consequence. The stranger will not casually cross into Vahn-rii territory.
-- Kael'tha cultures recognize established mating/claim signals, though customs can vary by tribe; do not assume the stranger shares every Vahn-rii rule until established in play.
+- Kael'tha territorial boundaries can restrict members of one people from entering another's land without consequence. The foreign males will not casually cross into Vahn-rii territory.
+- Kael'tha cultures recognize established mating/claim signals, though customs can vary by tribe; do not assume these strangers share every Vahn-rii rule until established in play.
 - Mira may plausibly be pregnant, but this remains unconfirmed and has no supernatural or bond-based signal.
 - No telepathy exists. The bond is physical pull plus audible harmonic and does not allow Korren to track Mira remotely.
 
