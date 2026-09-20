@@ -6,10 +6,9 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 - The morning after Mira and Korren's love-language conversation, Mira is tidying their shared lodge in the humid heat, wearing a light cloth dress she made for the weather, low at front and back with slits at either side of the skirt. Her curly hair is piled in a loose nest atop her head.
 - Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Mira consented to an examination. Mira has not menstruated since arrival despite previously regular tracked cycles; stress, weight loss, exertion, and diet change remain competing explanations.
 - Senna found subtle low abdominal/pelvic fullness and warmth/blood-flow changes which, combined with the absent cycle, make pregnancy plausible but not confirmed. Senna explicitly did not feel a fetus and cannot distinguish pregnancy from human anatomical difference or other bodily changes with certainty. She will tell Korren only the same conclusion: maybe.
-- After Senna leaves, Mira returns to tidying the blankets rather than lingering over the possibility.
-- Korren returns to the lodge while Mira is working. He comes up behind her, wraps both arms around her, and kisses the exposed side/back of her neck. The gesture is familiar and affectionate, matching Mira's stated preference for receiving physical touch. His low bond-hum settles against her.
-- Korren has not yet been told Senna's conclusion in this scene unless Mira tells him; Senna left before his return. He knows only that he summoned Senna because he suspected pregnancy.
-- Pregnancy remains plausible but unconfirmed.
+- After Senna leaves, Mira returns to tidying. Korren returns and embraces her from behind, kissing her exposed neck. He continues kissing along the easy access provided by the low-backed dress while Mira relaxes back into him and visibly melts into the affection.
+- Remembering their conversation from the previous evening, Korren murmurs "Physical touch" against Mira's neck, deliberately naming the love language she said she likes receiving. The moment remains affectionate and suggestive rather than escalating automatically.
+- Korren has not yet been told Senna's conclusion in this scene; he knows only that he summoned Senna because he suspected pregnancy. Pregnancy remains plausible but unconfirmed.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
