@@ -5,15 +5,15 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 ## Immediate scene
 - Earlier today Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed. Mira has told none of the other human women.
 - At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Ada admitted the exclusion was deliberate and rooted in distrust/fear that information shared with Mira might reach Korren or the Vahn-rii.
-- Overwhelmed, Mira fled into the jungle, became disoriented, repeatedly changed direction, and wandered for roughly three hours. By mid-afternoon she stopped beneath a large buttressed tree and broke down crying from the exclusion, fear of being lost, regret at leaving unprepared, and the unresolved possibility of pregnancy.
-- Mira remains curled in a crouch when a twig snaps nearby. A lone Kael'tha male unknown to Mira emerges from the vegetation. He is not Vahn-rii and appears genuinely startled by her unfamiliar human appearance.
-- The stranger holds his weapon cautiously and suspiciously rather than immediately attacking. Mira rises slowly. His gaze travels over her with visible curiosity and a measure of appreciation, then stops at the woven river-stone mate-bead cord around her waist.
-- Recognition changes his attention: whatever he thinks Mira is, the mate-bead cord is culturally legible enough to make him register that another male has an established claim/mating status associated with her. His exact tribe, intentions, and interpretation beyond that have not yet been established.
-- Mira and the stranger now face one another alone in the deep jungle. No one else has arrived. Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
+- Overwhelmed, Mira fled into the jungle, became disoriented, repeatedly changed direction, and wandered for roughly three hours. By mid-afternoon she stopped beneath a large buttressed tree and broke down crying.
+- A lone Kael'tha male unknown to Mira and evidently not Vahn-rii found her. He appeared never to have seen a human before, held his weapon cautiously, looked her over with curiosity/appreciation, then recognized the mate-bead cord at her waist and asked, "Where is your male?"
+- Mira wipes her eyes and answers, "Back at the village. I'm lost."
+- The stranger registers her tear-streaked state and the implications of a mated woman alone this far from settlement. He does not immediately approach or touch her. He asks which village and keeps his weapon lowered but in hand, remaining wary. His tribe, name, motives, and precise customs remain unestablished.
+- Mira and the stranger remain alone in the deep jungle. No one else has arrived. Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine.
-- Mira is lost, hot, thirsty, tired, scratched, emotionally depleted, and without her normal water vessels or field kit.
+- Mira is lost, hot, thirsty, tired, scratched, tear-streaked, emotionally depleted, and without her normal water vessels or field kit.
 - Mira's river-stone mate-bead cord is visibly worn over her light dress. It was tied on by Korren before she left for the meeting.
 - Kael'tha cultures recognize established mating/claim signals, though customs can vary by tribe; do not assume the stranger shares every Vahn-rii rule until established in play.
 - Mira may plausibly be pregnant, but this remains unconfirmed and has no supernatural or bond-based signal.
