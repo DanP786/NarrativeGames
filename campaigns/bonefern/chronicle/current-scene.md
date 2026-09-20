@@ -5,9 +5,10 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 ## Immediate scene
 - The morning after Mira and Korren's love-language conversation, Korren is away from the lodge and Mira is tidying their shared home in the humid heat.
 - Mira wears a light cloth dress she made for the weather: low at front and back, with slits at either side of the skirt for airflow and movement. Her curly hair is piled in a loose nest atop her head.
-- Senna enters because Korren summoned her without telling Mira, asking Senna to see whether Mira might be pregnant. Senna clarifies Korren only suspects from small changes he has noticed; the bond provides no supernatural pregnancy knowledge.
-- Senna tells Mira that Korren asking brought her to the lodge but Mira decides whether she is examined. Mira answers, "It's fine," and sits on the sleeping furs, consenting to the examination.
-- Senna begins conservatively rather than pretending she can diagnose pregnancy by touch alone. She asks Mira about her menstrual bleeding/cycle since arriving, appetite, nausea, breast tenderness, unusual fatigue, smell sensitivity, dizziness, and other changes, intending to combine Mira's answers with a basic physical examination. Pregnancy status remains unknown pending Mira's answers and Senna's assessment.
+- Senna entered because Korren summoned her without telling Mira, asking Senna to see whether Mira might be pregnant. Senna clarified Korren only suspects from small changes he noticed; the bond provides no supernatural pregnancy knowledge.
+- Mira consented to Senna's examination. Asked about symptoms, Mira reports that she has not menstruated at all since arriving. Mira herself notes stress could explain this. She also reports sleeping more than aboard ship, but contextualizes that she previously slept no more than about six hours and now lives a more physically demanding life. She has lost noticeable weight and is still adapting to local food.
+- Senna treats the absent bleeding as meaningful but not diagnostic because Mira's stress, weight loss, diet change, and increased exertion could also disrupt her cycle. The sleeping change is similarly ambiguous. Senna asks next about Mira's normal pre-arrival menstrual pattern and whether she has noticed nausea, breast changes/tenderness, or new smell sensitivity before deciding what a physical examination can add.
+- Pregnancy status remains unknown.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
