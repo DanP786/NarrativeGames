@@ -1,22 +1,22 @@
-# Current scene — foreign Kael'tha territory beyond Vahn-rii lands, ~Day 71–76, mid-afternoon
+# Current scene — stream in foreign Kael'tha territory, ~Day 71–76, mid-afternoon
 
 Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Liesel has voluntarily bonded with Asho; Ren remains unbonded with Vesh but has softened; Ada remains unbonded/unclaimed; Mari remains bonded with Drenn and substantially frightened/conflicted.
 
 ## Immediate scene
 - Earlier today Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed. Mira has told none of the other human women.
 - At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Overwhelmed, Mira fled into the jungle, became disoriented, and wandered for roughly three hours into another Kael'tha people's territory.
-- Two foreign Kael'tha males found Mira. Both recognize her Vahn-rii mate-bead cord. They refuse to cross the territorial boundary and decide to take her to their own village for water and for their elders/leader to arrange her return.
-- Mira named Korren as her mate. Both males know his name and react negatively/warily; the precise history remains unrevealed. This makes them more urgent about getting Mira to a controlled settlement rather than lingering in the jungle.
-- Mira follows them as quickly as her short, tired legs can manage. The males initially move at their natural long stride but adjust when it becomes obvious Mira cannot sustain it after hours lost in the heat. They do not touch or carry her at this point.
-- Mira is being led toward water and the foreign village. She remains exhausted, thirsty, scratched, emotionally raw, and uncertain about the strangers, but following experienced locals is safer than continuing alone.
+- Two foreign Kael'tha males found Mira. Both recognize her Vahn-rii mate-bead cord. They refuse to cross the territorial boundary and decide to take her to their own village for water and for their elders/leader to arrange her return. Both know Korren's name and react negatively/warily; the precise history remains unrevealed.
+- Mira follows as quickly as her short, tired legs allow. The males adjust their natural pace after seeing she cannot sustain it.
+- The group reaches a narrow running stream. Mira immediately focuses on the water. Her filtration expertise remains intact despite exhaustion: she does not blindly gulp from stagnant pooling, but selects the visibly moving, cleaner flow and drinks carefully enough not to make herself sick after prolonged heat/thirst. The foreign males allow the stop and watch her unfamiliar behavior with curiosity.
+- Mira remains exhausted, scratched, emotionally raw, and far from home, but the immediate dehydration pressure begins to ease. The foreign village remains ahead.
 - Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine.
-- Mira is 5'2" and not athletic; after roughly three hours of lost walking in humid jungle, she cannot maintain a Kael'tha male's natural travel pace.
+- Mira is 5'2" and not athletic; after roughly three hours of lost walking in humid jungle plus the continued walk with the strangers, she is physically depleted.
+- Mira is Adept in filtration/life-support systems and will apply that competence to water selection even while distressed.
 - Mira's river-stone mate-bead cord remains visibly worn over her light dress. It was tied on by Korren before she left for the meeting.
 - Kael'tha territorial boundaries can restrict members of one people from entering another's land without consequence. The foreign males will not casually cross into Vahn-rii territory.
-- Kael'tha cultures recognize established mating/claim signals, though customs can vary by tribe; do not assume these strangers share every Vahn-rii rule until established in play.
 - Mira may plausibly be pregnant, but this remains unconfirmed and has no supernatural or bond-based signal.
 - No telepathy exists. The bond is physical pull plus audible harmonic and does not allow Korren to track Mira remotely.
 
