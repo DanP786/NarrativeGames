@@ -5,17 +5,17 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 ## Immediate scene
 - Earlier this morning Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed. Pregnancy remains plausible but unconfirmed, and Mira has told none of the other human women.
 - Liesel came to the lodge to invite Mira to the women's meeting. Mira agreed. Before she left, Korren wrapped Mira's woven river-stone mate-bead cord twice around her waist over the light wet-hot-season dress she made herself, polished green stone at the front and mate-knot at her right hip.
-- Mira and Liesel joked on the walk about the oppressive heat and speculated that going without mate beads might carry an unintended social meaning among the Vahn-rii.
-- When Mira and Liesel reached the gathering, the other women's conversation abruptly went quiet. The silence made Mira acutely self-conscious and reactivated anxiety from earlier meetings where she felt isolated and judged over her bond and defense of Korren. Mira managed a small "Hi."
-- Liesel responds practically rather than making Mira stand under everyone's attention: she takes Mira down with her to sit on a broad leaf. Mira settles on her heels with her hands folded in her lap, looks briefly toward Liesel, then drops her gaze. Liesel remains physically beside her, making her invitation concrete without speaking for Mira.
-- No one has yet explained the silence or spoken against Mira. Her anxiety is a response to the social history and sudden quiet, not proof of what any individual woman is thinking.
+- When Mira and Liesel reached the gathering, the other women's conversation abruptly went quiet. Mira's old social anxiety returned sharply. Liesel brought her down to sit beside her on a broad leaf; Mira sits on her heels with her hands in her lap.
+- As the meeting resumes awkwardly, Ada refers matter-of-factly to the women having met every day. Mira's head snaps up: this is the first she has learned that the meetings continued daily throughout the roughly two months in which nobody invited her or substantively spoke with her.
+- The revelation converts part of Mira's anxiety into immediate hurt and anger. She turns a scowl on Liesel, whose invitation now lands differently: Liesel apologized and came for Mira only after becoming bonded herself, while knowing the women had been gathering every day without Mira.
+- No explanation for Mira's two-month exclusion has yet been given in this scene. Do not resolve or excuse it before the women respond.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
-- Liesel's earlier apology/reconnection with Mira is now becoming action: she personally brought Mira back into the women's meeting after roughly two months of social distance and is staying beside her through the awkward re-entry.
-- Mira is confrontation-averse; social conflict is costly for her even when she chooses to speak.
+- Mira had believed she was socially abandoned by the other women for roughly two months; she now knows the other five were holding daily women's meetings during that period without inviting her.
+- Liesel's recent apology/reconnection remains sincere as established, but this new information gives Mira a concrete reason to feel newly betrayed by the timing and incompleteness of that apology.
+- Mira is confrontation-averse; anger does not erase the cost of speaking in conflict.
 - Mira's mate-bead cord is visibly worn over her newer light cloth dress.
-- The precise Vahn-rii social meaning of voluntarily going without mate beads has not yet been established in canon.
 - No telepathy exists. The bond is physical pull plus audible harmonic.
 
 ## Hidden GM canon — not known in-world
