@@ -3,12 +3,11 @@
 Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Liesel has voluntarily bonded with Asho; Ren remains unbonded with Vesh but has softened; Ada remains unbonded/unclaimed; Mari remains bonded with Drenn and substantially frightened/conflicted.
 
 ## Immediate scene
-- The morning after Mira and Korren's love-language conversation, Mira is tidying their shared lodge in the humid heat, wearing a light cloth dress she made for the weather, low at front and back with slits at either side of the skirt. Her curly hair is piled in a loose nest atop her head.
-- Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed based on more than two months of absent menstruation after previously regular cycles plus subtle physical signs. Stress, weight loss, exertion, diet change, and human/Vahn-rii anatomical uncertainty remain competing explanations. Senna left intending to tell Korren only "maybe," but has not yet spoken to him in-scene.
-- Korren returns, embraces Mira from behind, kisses her exposed neck, and deliberately names her preferred receiving love language: "Physical touch." Mira relaxes into the affection.
-- Korren guides Mira to the sleeping furs while remaining behind her. Mira kneels at the edge. He tells her he has already shared the five-love-languages idea with Drenn, Asho, Tarrik, Vesh, and others as practical relationship advice.
-- Korren slips Mira's light dress down so it pools around her knees while remaining close behind her. His hands settle over her stomach and he continues kissing her neck; the scene remains intimate and non-explicit.
-- Mira says, "You spoke to Senna too," directly naming the visit he arranged without telling her. Korren cannot know Senna's findings through the bond and has not yet heard them from Senna. The moment now puts his decision to summon Senna without first telling Mira directly between them.
+- The morning after Mira and Korren's love-language conversation, Mira is in their shared lodge in the humid heat. She made a light cloth dress for the weather; during the present intimate moment it is pooled around her knees as she kneels at the edge of the sleeping furs, Korren close behind her.
+- Earlier, Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed based on more than two months of absent menstruation after previously regular cycles plus subtle physical signs. Stress, weight loss, exertion, diet change, and human/Vahn-rii anatomical uncertainty remain competing explanations.
+- Korren returned, embraced Mira from behind, kissed her neck, and deliberately named her preferred receiving love language: "Physical touch." He told Mira he had shared her five-love-languages framework with Drenn and several other Vahn-rii as practical relationship advice.
+- When Mira confronted him about also speaking to Senna and his arranging the examination without telling her, Korren asked what Senna said. Mira answers simply, "Maybe."
+- The answer visibly stills Korren. His hands remain over Mira's stomach, but the touch changes from playful affection to careful attention. He does not treat "maybe" as certainty. He asks what Senna means by maybe rather than claiming a child is present.
 - Pregnancy remains plausible but unconfirmed.
 
 ## Continuity
