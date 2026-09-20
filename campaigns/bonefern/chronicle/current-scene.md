@@ -3,16 +3,15 @@
 - Earlier S07: Mira and Korren privately separated the unchosen beginning of his claim from Mira's present choice. Mira told him she wants their life together; Korren said refusal must remain hers if she ever wants it.
 - Senna privately learned from Mira about the hidden implants, Helia-Voss mission, pre-voyage screening/implant removal, six-of-thousands selection, implant-site conventions, and Mira's hypothesis that concentrated cave spores may trigger the mating bond. Mira suspects profiling but does not know selection criteria.
 - Mira gave Ada her working model: bond biological/local, cave fungi candidate source, nape implant likely translation. Ada recognized pre-arrival Kael'tha translation implies deliberate intervention.
-- All six human women are now together in Senna's lodge without male keepers. Ada chairs in human speech. Facts-first comparison: ordinary ship activity -> unexplained blank -> Vethaal without gear; all six understand Kael'tha; all have unexplained head/neck marks; Mira and Mari are the two known cave-bond cases. No causal mechanism established.
+- All six human women are together in Senna's lodge without male keepers. Ada chairs in human speech. Facts-first comparison: ordinary ship activity -> unexplained blank -> Vethaal without gear; all six understand Kael'tha; all have unexplained head/neck marks; Mira and Mari are the two known cave-bond cases. No causal mechanism established.
 - Mari's cave entry was unwilling. Mira said her sequence was "The same as Mari"; Ada distinguished that Mira chose to enter. Mira became withdrawn and privately felt condemned through the larger coercive context.
-- Hypotheses remain unproven: language and marks may connect; alteration may have happened during the blank; translation and cave-bond effects may be separate mechanisms. Senna does not disclose Mira's private spore theory for her.
-- Scar comparison: Ren, Liesel, Ada, Mari, and known Mira have healed abnormalities at/near the base of the skull; Suvi's geometric temple mark is the placement outlier. Deliberate intervention is strongly indicated; common function and bond connection remain unknown.
-- Mira's injured right foot was throbbing under its old wrap. Senna re-dressed it with less constriction. Foot remains no-weight. Mira stays mostly withdrawn, arms around her waist over her river-stone mate beads.
-- Safeguards were debated and revised. No cutting into marks; no deliberate bond provocation; paired-woman awareness where practical; Senna will oppose involuntary cave-taking. A blanket ban on voluntary cave entry was withdrawn after Suvi challenged Ada: informed individual choice remains each woman's.
-- Suvi openly says she likes Tarrik. Liesel says she likes Asho. Ren remains more cautious. Ada prioritizes risk containment but accepts she cannot replace another woman's decision.
-- Mira privately resents blanket anti-male framing and finally breaks her silence. She corrects the group's framing of Mari's bond: Drenn did not bring Mari to the deep place intending to bond her; he came there to stop Korren, and Ada was present too, so the pairing could as readily have involved Ada. Mira calls Mari/Drenn's bond accidental and challenges the assumption that every Vahn-rii man is poised to violate his own customs. She says the women would know this if they had bothered to understand the Vahn-rii.
-- Mira's intervention is sharp by her standards. It does not deny Mari's fear or claim Mari consented to the bond; it distinguishes Drenn's intent before the cave event from what happened after it and defends the relevance of Vahn-rii custom and individual conduct.
-- Ada cannot honestly dispute that she and Mari were brought into the cave confrontation rather than taken there by Drenn as a planned mating rite. Mari remains frightened and bonded without choosing the event, so the correction lands painfully despite the factual distinction.
+- Hypotheses remain unproven. Scar comparison shows healed abnormalities at/near the base of the skull for Ren, Liesel, Ada, Mari, and known Mira; Suvi's geometric temple mark is the placement outlier. Deliberate intervention strongly indicated; function/bond connection unknown.
+- Mira's injured right foot was throbbing under its old wrap. Senna re-dressed it with less constriction. Foot remains explicitly no-weight.
+- Safeguards revised through debate: no cutting into marks; no deliberate bond provocation; paired-woman awareness where practical; Senna opposes involuntary cave-taking. Voluntary cave entry remains each woman's decision. Suvi says she likes Tarrik; Liesel likes Asho; Ren remains cautious.
+- Mira broke her silence to correct blanket anti-male framing. She stated Drenn did not take Mari into the deep place intending to bond her; he was there to stop Korren, Ada was also present, and Mari/Drenn's pairing was accidental. She challenged the assumption every Vahn-rii man will violate custom. Ada cannot dispute the event sequence; Mari remains frightened and did not choose the bond.
+- Mira's anger then lessens. She tells the women: "They didn’t have to take us to their village. To clothe or feed us. Just remember that next time you eat." She then tries to stand and leave.
+- The attempt immediately runs into the established injury: Mira's right foot is still no-weight and cannot safely support her. Senna catches/braces her before she can put meaningful weight through it or fall, without treating the wish to leave as permission to confine her. Senna states that Mira may leave, but not by walking on that foot; she can call Korren or arrange another way to carry/support her if Mira wants out.
+- The meeting is therefore paused around Mira's attempted departure rather than resolved. Mira has not yet chosen whether to accept help, call Korren, remain, or try another means of leaving.
 - Heavy rain continues over the lodge.
 
 ## Hidden GM canon — not known in-world
@@ -22,7 +21,7 @@
 - No in-world character knows these facts without discovered evidence.
 
 ## Carry-forward
-- All six women remain in Senna's lodge; heavy rain.
-- Open disagreement now concerns risk versus generalization, not a simple women-versus-men split.
-- Mira has broken her silence to defend factual distinctions around Drenn/Mari and challenge blanket suspicion of Vahn-rii men/custom.
-- Mari remains frightened of Drenn and wounded toward Mira. Mira's foot remains no-weight.
+- All six women remain in Senna's lodge at this instant; heavy rain.
+- Mira has spoken sharply in defense of distinctions around Vahn-rii conduct/custom, then tried to leave after reminding the women the tribe voluntarily sheltered, clothed, and fed them.
+- Senna prevented injury/fall, not departure: Mira may leave but cannot safely walk on her right foot. Choice of assistance is now Mira's.
+- Mari remains frightened of Drenn and wounded toward Mira. Open disagreement is risk versus generalization, not simple women-versus-men.
