@@ -6,13 +6,15 @@ Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik, la
 - Afternoon in Mira and Korren's lodge. Mira sits working water through her filtration arrangement. Drenn has arrived alone seeking Korren's counsel about living with Mari's continued distress around their accidental bond.
 - Mira apologizes for her early words to Mari; Drenn says Mira told Mari what was true for Mira before knowing whether it could be true for Mari, and says Ada did not create Mari's fear.
 - Drenn says, "I do not need Mari to become you. I need to know how to live beside a woman who feels me in her bones and still wishes she did not."
-- Mira is hurt by "become you," hearing an implicit judgment/comparison of the way she lives with Korren. She answers: "If you don't want her to be like me then you won't find answers here. Korren dominates our relationship and I follow. I've learned to live beside him. Not the other way round." She turns back to her filtration work, closing herself off physically.
-- Drenn recognizes he has wounded her and clarifies without retracting the difference between Mira and Mari: he did not mean Mira is lesser or merely remade into obedience. He meant Mari cannot be used as if Mira's accommodation/choice is a template. He says, "I spoke badly." He adds that Korren's dominance works because Mira chooses to live inside it now; forcing the same shape onto Mari would not produce Mira, only a more frightened Mari.
-- Drenn does not ask Mira to justify her relationship or apologize for following Korren. He remains waiting for Korren, with the exchange now uncomfortable and more honest.
+- Mira is hurt by "become you" and answers: "If you don't want her to be like me then you won't find answers here. Korren dominates our relationship and I follow. I've learned to live beside him. Not the other way round." She turns back to her filtration work.
+- Drenn says he spoke badly. He explains that he cannot force the Mira/Korren shape onto Mari: Korren leads and Mira follows, but Mira chooses to keep doing so; demanding Mari do the same would only make her more afraid. He admits he is asking Korren because Korren knows how to lead a bonded woman and Drenn does not.
+- Mira swallows at Drenn's assertion that she chooses to keep following Korren. Privately, the old unresolved question surfaces again: does she have a choice? She does not voice it. She keeps working and says nothing more.
+- Drenn does not intrude on the silence or try to extract reassurance. He remains near the lodge entrance waiting for Korren. The filter's steady dripping fills the uncomfortable quiet.
 - Korren's exact current whereabouts remain unstated.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing this lodge. Mira explicitly describes their relationship as one Korren dominates and she follows, and says she has learned to live beside him rather than Korren adapting himself around her.
+- Mira's agency question remains unresolved internally despite her ongoing present-tense choice of Korren; she does not disclose this doubt to Drenn in this beat.
 - Drenn is older/senior, broad/heavy, economical, normally highly self-governed; the involuntary bond remains an affront to that self-conception even though he accepted the sacred gift-frame.
 - Mari remains frightened/conflicted and disturbed by bodily responses she did not choose. Do not make her emotional state soften off-screen without player direction or earned events.
 
