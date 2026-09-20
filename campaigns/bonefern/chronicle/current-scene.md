@@ -4,18 +4,17 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 
 ## Immediate scene
 - Earlier today Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed. Mira has told none of the other human women.
-- At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Ada admitted the exclusion was deliberate and rooted in distrust/fear that information shared with Mira might reach Korren or the Vahn-rii.
-- Overwhelmed, Mira fled into the jungle, became disoriented, repeatedly changed direction, and wandered for roughly three hours. She unknowingly crossed out of Vahn-rii territory and into the territory of another Kael'tha people.
-- Two males of that foreign people now have Mira with them. Both appear never to have seen a human before but recognize the Vahn-rii mate-bead cord at her waist. They say the boundary is roughly four hours away at Mira's pace and refuse to cross into Vahn-rii territory. The second male says they must instead take exhausted, thirsty Mira to their village so their elders/leader can handle her return and send word.
-- Mira says, "Korren is probably out there already." Both foreign males immediately pause at the name. They know who Korren is, and their reaction is distinctly negative: recognition brings tension/wariness rather than reassurance.
-- Their precise history with Korren has not yet been established. Do not invent a specific past offense until revealed in play. What is established is that Korren's name carries a reputation beyond Vahn-rii territory and these two males do not regard him favorably.
-- The males' awareness that Mira is specifically Korren's mate raises the stakes of how they handle her: she is no longer merely an unknown Vahn-rii mated woman lost in their territory.
+- At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Overwhelmed, Mira fled into the jungle, became disoriented, and wandered for roughly three hours into another Kael'tha people's territory.
+- Two foreign Kael'tha males found Mira. Both recognize her Vahn-rii mate-bead cord. They refuse to cross the territorial boundary and decide to take her to their own village for water and for their elders/leader to arrange her return.
+- Mira named Korren as her mate. Both males know his name and react negatively/warily; the precise history remains unrevealed. This makes them more urgent about getting Mira to a controlled settlement rather than lingering in the jungle.
+- Mira follows them as quickly as her short, tired legs can manage. The males initially move at their natural long stride but adjust when it becomes obvious Mira cannot sustain it after hours lost in the heat. They do not touch or carry her at this point.
+- Mira is being led toward water and the foreign village. She remains exhausted, thirsty, scratched, emotionally raw, and uncertain about the strangers, but following experienced locals is safer than continuing alone.
 - Korren cannot locate Mira through the bond; there is no telepathy or supernatural tracking.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine.
-- Mira is lost, hot, thirsty, tired, scratched, tear-streaked, emotionally depleted, and without her normal water vessels or field kit.
-- Mira's river-stone mate-bead cord is visibly worn over her light dress. It was tied on by Korren before she left for the meeting.
+- Mira is 5'2" and not athletic; after roughly three hours of lost walking in humid jungle, she cannot maintain a Kael'tha male's natural travel pace.
+- Mira's river-stone mate-bead cord remains visibly worn over her light dress. It was tied on by Korren before she left for the meeting.
 - Kael'tha territorial boundaries can restrict members of one people from entering another's land without consequence. The foreign males will not casually cross into Vahn-rii territory.
 - Kael'tha cultures recognize established mating/claim signals, though customs can vary by tribe; do not assume these strangers share every Vahn-rii rule until established in play.
 - Mira may plausibly be pregnant, but this remains unconfirmed and has no supernatural or bond-based signal.
