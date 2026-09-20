@@ -3,17 +3,17 @@
 Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Liesel has voluntarily bonded with Asho; Ren remains unbonded with Vesh but has softened; Ada remains unbonded/unclaimed; Mari remains bonded with Drenn and substantially frightened/conflicted.
 
 ## Immediate scene
-- Mira returns from fetching water with Liesel, the two sharing the full bucket. Their first substantive conversation in roughly two months has reopened Mira's hurt over being socially isolated after bonding with Korren. Liesel apologized for her own absence and asked to begin coming to Mira now; Mira accepted with a strained smile despite bitterness that Liesel reaches out only after bonding herself.
-- At Mira and Korren's lodge, Korren has returned and is already speaking with Drenn. Drenn came specifically seeking counsel from another bonded Vahn-rii male about how to live beside Mari when she experiences their accidental bond as unwanted and frightening.
-- As Mira and Liesel approach, they can hear/see the two men in serious conversation. Drenn is asking how Korren leads without turning every act of care into another proof of ownership or pressure. Korren's answer is characteristically spare: he cannot tell Drenn how to make Mari want what she does not want; he can only tell him that hearing refusal must not become punishment.
-- Korren's counsel is informed by his later agency conversation with Mira: he has come to understand that Mira's ability to say no must remain hers even though she usually follows him and does not want to perform refusal merely to prove agency. He does not present Mira and Mari as equivalent cases.
-- Drenn remains frustrated because the bond itself continually draws him toward Mari, while Mari can experience that attention as another part of the thing imposed on her.
-- Mira arrives within sight/hearing carrying one side of the water bucket with Liesel. Neither Korren nor Drenn is yet made to react beyond the natural awareness of their approach; player retains control over whether Mira joins/listens/interrupts.
+- Mira returns from fetching water with Liesel, the two sharing the full bucket. Their first substantive conversation in roughly two months reopened Mira's hurt over being socially isolated after bonding with Korren. Liesel apologized for her own absence and asked to begin coming to Mira now; Mira accepted with a strained smile despite bitterness that Liesel reaches out only after bonding herself.
+- Korren has returned and is speaking seriously with Drenn about Mari. Drenn is seeking counsel about living with a bonded woman who experiences the accidental bond as unwanted. Korren has told him he cannot make Mari want it, and that if every no costs her something, it is not a word he has allowed her to keep.
+- When Mira and Liesel arrive, Korren breaks from the conversation long enough to take the heavy water bucket from them. Without asking where it belongs, he carries it to the established place Mira uses for her filtration/domestic work and sets it there, reflecting two months of shared routine and his attention to how she works.
+- Korren then returns to Drenn rather than using Mira's arrival to end the discussion. His handling of the bucket is practical and familiar, not made into a performance before Drenn or Liesel.
+- Mira turns to Liesel and says, "Thanks." The exchange remains tentative; Mira has accepted renewed contact but has not erased the hurt or bitterness.
+- Mira then goes inside the lodge, leaving Korren and Drenn to continue their conversation outside/near the entrance. Liesel is left free to depart rather than being pulled into the men's discussion.
 
 ## Continuity
-- Mira/Korren remain bonded mates. Mira privately continues to wrestle with the question of how much choice she has inside a relationship she presently wants and follows.
-- Liesel now knows Mira experienced two months of human silence as abandonment; their reconciliation is tentative, not complete.
-- Drenn is seeking Korren's counsel because he does not want to force the Mira/Korren relationship shape onto Mari and admits he does not know how to lead a bonded woman who wishes she were not bonded.
+- Mira/Korren remain bonded mates. Mira privately continues to wrestle with how much choice she has inside a relationship she presently wants and follows.
+- Liesel knows Mira experienced two months of human silence as abandonment. Their reconciliation is an opening, not a completed repair.
+- Drenn seeks Korren's counsel because he does not want to force Mira/Korren's relationship shape onto Mari and admits he does not know how to lead a bonded woman who wishes she were not bonded.
 - Mari remains frightened/conflicted; do not soften her off-screen.
 
 ## Hidden GM canon — not known in-world
