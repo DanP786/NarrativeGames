@@ -3,18 +3,17 @@
 Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik, largely after choosing that she wanted physical intimacy with him; Liesel has voluntarily bonded with Asho after accumulated safety/trust. Ren remains unbonded with Vesh but has softened. Ada remains unbonded/unclaimed. Mari remains bonded with Drenn and substantially frightened/conflicted rather than conveniently reconciled.
 
 ## Immediate scene
-- Afternoon in Mira and Korren's lodge. Mira's old foot injury has healed enough for ordinary daily movement. She sits working water through her filtration arrangement.
-- Drenn arrives alone, controlled but frustrated, asking for Korren because two months have not made Mari comfortable with their accidental bond.
-- Mira tells him: "I'm sorry Drenn. She listens to Ada. I wanted us to be friends. But I said the wrong thing when we met."
-- Drenn understands that Mira means her early conversation with Mari after the cave, when Mira tried to reassure her through Mira's own experience with Korren and suggested Drenn might someday become safety for Mari. He does not absolve or accuse Mira. He says, "You told her what was true for you before you knew whether it could be true for her." He recognizes why Mari would hear that badly.
-- Drenn also rejects the idea that Ada's influence alone explains Mari's continued distress: "Ada did not put the fear in her. The deep places did enough of that." He acknowledges that Mari listening to Ada is not the same thing as Ada creating Mari's resistance.
-- He remains frustrated and wants Korren's counsel, but the frustration is increasingly directed at the problem and his own helplessness rather than at Mari for failing to become like Mira, Suvi, or Liesel.
-- Korren's exact current whereabouts remain unstated; Drenn is waiting at the lodge for him.
+- Afternoon in Mira and Korren's lodge. Mira sits working water through her filtration arrangement. Drenn has arrived alone seeking Korren's counsel about living with Mari's continued distress around their accidental bond.
+- Mira apologizes for her early words to Mari; Drenn says Mira told Mari what was true for Mira before knowing whether it could be true for Mari, and says Ada did not create Mari's fear.
+- Drenn says, "I do not need Mari to become you. I need to know how to live beside a woman who feels me in her bones and still wishes she did not."
+- Mira is hurt by "become you," hearing an implicit judgment/comparison of the way she lives with Korren. She answers: "If you don't want her to be like me then you won't find answers here. Korren dominates our relationship and I follow. I've learned to live beside him. Not the other way round." She turns back to her filtration work, closing herself off physically.
+- Drenn recognizes he has wounded her and clarifies without retracting the difference between Mira and Mari: he did not mean Mira is lesser or merely remade into obedience. He meant Mari cannot be used as if Mira's accommodation/choice is a template. He says, "I spoke badly." He adds that Korren's dominance works because Mira chooses to live inside it now; forcing the same shape onto Mari would not produce Mira, only a more frightened Mari.
+- Drenn does not ask Mira to justify her relationship or apologize for following Korren. He remains waiting for Korren, with the exchange now uncomfortable and more honest.
+- Korren's exact current whereabouts remain unstated.
 
 ## Continuity
-- Mira/Korren remain bonded mates sharing this lodge.
+- Mira/Korren remain bonded mates sharing this lodge. Mira explicitly describes their relationship as one Korren dominates and she follows, and says she has learned to live beside him rather than Korren adapting himself around her.
 - Drenn is older/senior, broad/heavy, economical, normally highly self-governed; the involuntary bond remains an affront to that self-conception even though he accepted the sacred gift-frame.
-- Drenn suspects Mira understands more about the mechanism than she has said, but this visit is directed toward Korren and his own relationship problem rather than an interrogation of Mira.
 - Mari remains frightened/conflicted and disturbed by bodily responses she did not choose. Do not make her emotional state soften off-screen without player direction or earned events.
 
 ## Hidden GM canon — not known in-world
