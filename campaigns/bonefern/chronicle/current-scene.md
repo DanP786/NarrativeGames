@@ -7,8 +7,9 @@
 - Mira's injured right foot remains no-weight. Senna helped her outside and settled her beneath the overhang. Mira intends to wait for Korren.
 - Senna revealed she was bonded when younger; her mate died many rains ago. The bond survives as an unanswered absence. She has not taken another mate.
 - Senna explained Vahn-rii bond culture: being chosen by the deep is a sacred honor and Vahn-rii are raised knowing the stakes before entering; acceptance is culturally expected but does not mean every individual privately wants every part. Sky-women expose a gap because they were not raised with the rite's knowledge.
-- Mira asks: "Have there been any sightings of a sky ship?"
-- Established campaign history provides no known sighting of an actual sky ship by Senna/Vahn-rii during the ten days since the women appeared. The women were found separately on the ground with no arrival craft or tracks leading to them; the Vahn-rii know them as sky-women because of their claimed origin/strangeness, not because the tribe watched a vessel land. Senna can distinguish lights/strange things in the sky from a confirmed vessel if relevant, but must not invent a ship sighting.
+- Senna confirms no known Vahn-rii sighting of an actual sky ship during the women's arrival; the six were found on the ground without arrival craft/tracks.
+- Mira says quietly, "I just want some answers." Senna does not offer false reassurance or pretend to possess them. She distinguishes the answers already earned from the missing ones: someone deliberately altered the women before Vethaal; the six did not arrive by any ordinary route the Vahn-rii witnessed; the deep-place event is real and repeatable in at least Mira/Mari; and the responsible outside hand remains unknown.
+- Senna tells Mira that wanting answers does not require deciding in advance that Korren/the Vahn-rii are the cause, nor deciding they are innocent of every danger. She proposes that the next useful inquiry should follow evidence outward: ask other Vahn-rii territories whether anything strange was seen in the sky or whether other objects/traces appeared when the women did, rather than exposing another woman to a cave.
 - Heavy rain continues. Senna remains beside Mira; the other five women remain inside; Korren has not yet arrived.
 
 ## Hidden GM canon — not known in-world
@@ -18,5 +19,6 @@
 
 ## Carry-forward
 - Senna's bonded-widow history and Vahn-rii bond-culture clarification established.
-- No confirmed Vahn-rii sighting of a sky ship is established in canon.
+- No confirmed Vahn-rii sighting of a sky ship.
+- New investigative avenue: seek reports from other territories/tribes about sky phenomena or traces around the time the six appeared.
 - Mira remains seated outside, right foot no-weight, waiting for Korren. Heavy rain.
