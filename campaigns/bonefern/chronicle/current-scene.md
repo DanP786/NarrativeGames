@@ -5,18 +5,17 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 ## Immediate scene
 - Earlier this morning Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed. Pregnancy remains plausible but unconfirmed, and Mira has told none of the other human women.
 - At the women's meeting, Ada revealed that the other five human women have been gathering every day throughout the roughly two months in which nobody invited Mira or substantively spoke with her. Ada admitted the exclusion was deliberate and rooted in distrust/fear that information shared with Mira might reach Korren or the Vahn-rii.
-- Overwhelmed by hurt, humiliation, and anger, Mira left before she cried in front of them or said something in anger. She initially walked away through the village, biting her lip and trying unsuccessfully to contain tears.
-- Mira does not return to the lodge. Instead she crosses beyond the village edge and enters the jungle without choosing or tracking a direction, driven only by the need to get away from the women and the village. She pushes deeper through the wet-hot vegetation while emotionally overwhelmed and pays little attention to route markers or orientation.
-- The village sounds fade behind her. Mira is now alone beyond the settled paths and at growing risk of becoming disoriented if she continues without attending to direction.
-- No one has yet followed Mira in established canon, and Korren does not know where she has gone. The bond provides no telepathic location or knowledge of her thoughts.
+- Overwhelmed by hurt, humiliation, and anger, Mira left the meeting and walked blindly beyond the village into the jungle. She did not track her turns or route and became disoriented beyond the settled paths.
+- After realizing she no longer knows where the village is, Mira looks around and chooses the direction she believes leads back. Her wilderness navigation is untrained, and the dense jungle offers poor sightlines and misleadingly repetitive terrain. The direction is wrong.
+- Mira continues deeper away from the Vahn-rii village while believing for a time that she is retracing her route. The ground and vegetation do not yet give her an unmistakable correction, so the mistake costs her additional distance before doubt begins to return.
+- No one has yet reached Mira in established canon. Korren does not know her location, and the bond provides no telepathic tracking or knowledge of her thoughts.
 
 ## Continuity
-- Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
+- Mira/Korren remain bonded mates sharing the lodge and an established daily routine.
 - Mira now knows the other five held daily women's meetings without her for roughly two months.
-- Liesel's recent apology/reconnection remains sincere as established, but Mira now has a concrete reason to feel newly betrayed by Liesel's failure to disclose the daily meetings before bringing her into one.
-- Ada admitted the exclusion was deliberate and rooted in distrust/fear; she did not claim it was fair.
-- Mira is confrontation-averse; when overwhelmed, leaving before she loses control is consistent with the high personal cost confrontation carries for her.
+- Mira is untrained in wilderness survival/navigation. Her filtration knowledge does not confer tracking or route-finding skill.
 - Mira's mate-bead cord remains visibly worn over her light dress.
+- Mira may plausibly be pregnant, but this remains unconfirmed and has no supernatural or bond-based signal.
 - No telepathy exists. The bond is physical pull plus audible harmonic and does not allow Korren to track Mira remotely.
 
 ## Hidden GM canon — not known in-world
