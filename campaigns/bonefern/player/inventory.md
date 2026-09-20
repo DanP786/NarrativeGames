@@ -1,8 +1,10 @@
 # Inventory
 
-## Worn
-- **Vahn-rii mated-wife outfit**, fitted for Mira and put on her by Korren: deep river-green hide skirt; matching shoulder-tied top; woven river-stone bead cord wrapped twice at the waist with a polished green stone at the front and the practised Vahn-rii mate-knot at her right hip.
-- No underwear beneath the Vahn-rii outfit, consistent with the established clothing/custom of Mira and Korren's household.
+## Worn / clothing
+- **Vahn-rii formal mated-wife outfit**, fitted for Mira and first put on her by Korren: deep river-green hide skirt; matching shoulder-tied top.
+- **Woven river-stone mate-bead cord:** wrapped twice at the waist with a polished green stone at the front and the practised Vahn-rii mate-knot at her right hip. It can be worn with the formal outfit or separately over other clothing. **Currently worn over Mira's light dress for the women's meeting.**
+- **Light wet-hot-season dress made by Mira:** thin cloth, low at front and back, with slits at either side of the skirt for airflow and movement. **Currently worn.**
+- No underwear beneath Mira's established Vahn-rii clothing, consistent with the established clothing/custom of Mira and Korren's household.
 
 ## Carried
 - Nothing permanently carried as personal kit.
