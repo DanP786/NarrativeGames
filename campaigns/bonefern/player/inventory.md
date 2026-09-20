@@ -1,20 +1,23 @@
 # Inventory
 
 ## Worn
-- The dust-red Vahn-rii hide wrap (skirt + breast-band), originally tied by Senna, **re-cut to her body by Korren**. Travel-worn after the four-day return; back on after the caves.
+- **Vahn-rii mated-wife outfit**, fitted for Mira and put on her by Korren: deep river-green hide skirt; matching shoulder-tied top; woven river-stone bead cord wrapped twice at the waist with a polished green stone at the front and the practised Vahn-rii mate-knot at her right hip.
+- No underwear beneath the Vahn-rii outfit, consistent with the established clothing/custom of Mira and Korren's household.
 
 ## Carried
-- Nothing of her own. (On the journey she carried/was handed Korren's journey-store food, now mostly spent; the pack is his.)
+- Nothing permanently carried as personal kit.
 
 ## Body
-- **Sealed nape-implant** (translation chip = the spore route), surgical scar at the base of the skull. Now **known** to Mira (since Day 2) and **awake/activated** since the cave. All six women carry one; only Mira knows hers is there. Ada & Mari now know they have a scar, not what it is.
-- Bite-leaf residue largely gone; bond-hum (matched to Korren's, one note since the cave) is a constant low presence in her own chest.
+- **Sealed nape implant** with a surgical scar at the base of the skull. Mira knows it exists but does not know its full function. **GM canon:** it includes translation/experiment infrastructure but does NOT cause, control, or route the native mating bond.
+- **Bond-hum**, matched to Korren's since the cave, remains a low physical/audible presence.
+- Faint inner-bicep scar from a pre-voyage cosmetic implant that was removed during ordinary medical processing.
 
-## At Korren's lodge (the camp)
-- Korren's furs and lodge; the journey-pack and blade are his. Mira owns no possessions of her own here.
+## At Korren and Mira's lodge
+- Shared sleeping furs and ordinary household materials.
+- Mira's filtration arrangement and water vessels are part of her established daily work space.
+- Korren's weapons and older journey gear remain his.
+- Mira arrived without personal possessions from the ship; what she now uses is overwhelmingly made, given, or shared within Vahn-rii village life.
 
 ## Lost / unaccounted
-- Whatever she was wearing boarding the transfer corridor on the *Helia-Voss.*
-- Her quarters and personal effects, presumably still aboard the ship.
-
-*Note: Mira arrived with nothing and still owns nothing she can call hers but the wrap on her back — a fact worth remembering when the story asks what she has to bargain, trade, or run with.*
+- Whatever Mira wore before her disappearance from the *Helia-Voss* transfer corridor.
+- Her former shipboard quarters and personal effects.
