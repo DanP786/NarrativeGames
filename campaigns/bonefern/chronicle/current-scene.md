@@ -17,8 +17,12 @@
 - Suvi suggests the shared language and unexplained head/neck marks may be connected; Ren raises alteration during the memory blank; Liesel notes translation and cave-bond effects may be separate mechanisms. None is established.
 - Ada shifts toward practical precautions/tests: compare the marks closely and keep unbonded women out of sacred caves while evidence is gathered. Senna supports not exposing anyone merely as a test.
 - During the scar comparison, Mira removes her right-foot dressing despite Senna's warning, inspects the still-swollen/discolored injury, flexes it painfully, then attempts a poor rewrap. Senna re-dresses it after Mira reports throbbing; foot remains no-weight. Mira quietly thanks her and stays withdrawn with her arms around her waist over the river-stone mate beads.
-- The scar comparison progresses without requiring Mira to speak. Ada establishes an observable pattern: Ren, Liesel, Ada, and Mari each have a small healed abnormality at/near the base of the skull; Suvi's conspicuous geometric temple mark is the placement outlier. Mira's nape site is already known to Senna but has not been newly exposed in the group. The marks are not visually identical enough to prove a single device/function, but their clustering is difficult to dismiss as random.
-- Ada keeps the conclusion narrow: common placement is evidence of deliberate intervention, not evidence that the marks cause the cave bond. Liesel's earlier warning about separate mechanisms remains live. No hidden function or implant mechanism is established to the group.
+- Scar comparison establishes a clustering of healed abnormalities at/near the base of the skull for Ren, Liesel, Ada, Mari, and known Mira; Suvi's geometric temple mark is the placement outlier. Ada keeps the conclusion narrow: deliberate intervention is strongly indicated, but common function and connection to the cave bond remain unproven.
+- Without requiring Mira's input, the women turn the pattern into safeguards. Ada proposes that the four unbonded women do not go anywhere alone with their keepers and do not enter any deep/sacred cave; Ren immediately supports a paired-woman rule where possible. Suvi points out that the men can physically separate them, so the rule needs Senna's standing inside Vahn-rii custom rather than relying only on resistance.
+- Senna agrees to carry a women's prohibition in Vahn-rii terms: no unbonded sky-woman is ready to be taken to a deep place, and any man attempting it without women's leave crosses her authority over readiness. She does not claim this will overpower every male by force, only that it creates a public/custom barrier.
+- Mari, frightened by the comparison between bonded and unbonded women, asks whether the safeguards mean nothing can be done for her because she has already been through the cave. Ada answers that observation is not abandonment: Mari and Mira are not tests to be used, but their ongoing symptoms/changes can be recorded if they choose to report them. No one is to provoke the bond deliberately.
+- The group also agrees not to cut into any head/neck mark without a safer method and better knowledge. The immediate plan is observation, keeping the unbonded four away from caves, preserving private human-language meetings, and looking for noninvasive differences between the six.
+- Mira remains silent throughout this continuation; no one forces her to contribute.
 - Heavy rain continues over the lodge.
 
 ## Hidden GM canon — not known in-world
@@ -30,7 +34,7 @@
 
 ## Carry-forward
 - All six human women remain in Senna's lodge.
-- Scar comparison now shows a clustering of healed abnormalities at/near the base of the skull for Ren, Liesel, Ada, Mari, and known Mira; Suvi's geometric temple mark is the placement outlier. This supports deliberate intervention but does not establish function or connection to the cave bond.
-- Mira remains withdrawn and has not exposed her nape anew or volunteered her implant-site knowledge. Her foot is re-dressed and no-weight.
-- Ada is keeping conclusions narrow and separating intervention evidence from bond-causation claims.
+- The meeting now has concrete safeguards: four unbonded women stay out of sacred/deep caves; paired-woman presence where possible; Senna will use women's custom/authority to oppose any cave-taking without women's leave; no cutting into marks; continue private human-language meetings and noninvasive observation.
+- Mari and Mira are explicitly not to be treated as experiments or deliberately provoked; either may report ongoing bond effects voluntarily.
+- Mira remained silent through this continuation, withdrawn over her mate beads; foot remains re-dressed and no-weight.
 - Heavy rain continues.
