@@ -4,11 +4,11 @@ Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Li
 
 ## Immediate scene
 - Mira returned from fetching water with Liesel. Their first substantive conversation in roughly two months reopened Mira's hurt over being socially isolated after bonding with Korren. Liesel apologized for her own absence and asked to begin coming to Mira now; Mira accepted with a strained smile despite bitterness that Liesel reaches out only after bonding herself.
-- Korren has spent part of the afternoon counseling Drenn about Mari. He told Drenn he cannot make Mari want their accidental bond and that if every no costs her something, it is not a word Drenn has allowed her to keep.
-- Mira went inside and occupied herself preparing food by the fire while Korren and Drenn continued outside.
-- While rummaging through their food stores, Mira bends forward. Korren has finished/paused his conversation with Drenn and comes inside quietly enough that Mira first registers him when his large hands settle around her hips from behind.
-- The touch is familiar and possessive rather than violent: Korren's hands span her hips over the river-green mated-wife clothing and his bond-hum settles close behind her. He does not immediately escalate beyond the intimate hold, leaving Mira room to respond.
-- Drenn is no longer participating in the immediate interior beat; his exact departure/position outside is not emphasized.
+- Korren spent part of the afternoon counseling Drenn about Mari. He told Drenn he cannot make Mari want their accidental bond and that if every no costs her something, it is not a word Drenn has allowed her to keep.
+- Mira occupied herself preparing food. While she bent over their stores, Korren came inside and settled both hands around her hips from behind, familiar and possessive, saying her name.
+- Mira blushes at being caught bent over in the compromising posture. She straightens slowly and turns within/away from Korren's hold to face him, hands empty.
+- Korren lets the movement happen rather than holding her in place. He remains close, his attention fixed on her flushed face. His hands ease from her hips as she turns, but the matched bond-hum remains physically close between them.
+- The moment is intimate and suggestive but not explicit. Mira's embarrassment is mixed with familiarity; Korren does not assume escalation or override her response.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
