@@ -6,8 +6,9 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 - The morning after Mira and Korren's love-language conversation, Mira is in their shared lodge in the humid heat. Her light cloth dress is pooled around her knees as she kneels at the edge of the sleeping furs with Korren close behind her.
 - Earlier, Senna visited because Korren had privately summoned her to see whether Mira might be pregnant. Senna found pregnancy plausible but unconfirmed based on more than two months of absent menstruation after previously regular cycles plus subtle physical signs. Stress, weight loss, exertion, diet change, and human/Vahn-rii anatomical uncertainty remain competing explanations.
 - Korren returned, embraced Mira from behind, kissed her neck, and deliberately named her preferred receiving love language: "Physical touch." He told Mira he had shared her five-love-languages framework with Drenn and several other Vahn-rii as practical relationship advice.
-- When Mira confronted him about arranging Senna's examination without telling her, Korren asked what Senna said. Mira first answered "Maybe." When he asked what that meant, Mira turns around to face him and states plainly: "I might be pregnant, I might not be."
-- Korren accepts the uncertainty rather than turning it into certainty. He remains physically close and attentive, with the possibility of a child now explicitly spoken between them for the first time.
+- When Mira confronted him about arranging Senna's examination without telling her, Korren asked what Senna said. Mira first answered "Maybe," then clarified: "I might be pregnant, I might not be." Korren accepts the uncertainty and asks what a confirmed pregnancy would mean to Mira.
+- Mira answers, "I hadn't thought about it. We're a different species." Her first response is practical biological uncertainty rather than a settled emotional position about having a child.
+- Korren recognizes the distinction: Vahn-rii custom and his own expectations cannot answer whether a human/Vahn-rii pregnancy is possible or safe. He does not claim certainty Senna does not have. He stays close and frames the immediate problem as learning what they can before deciding what the possibility means.
 - Pregnancy remains plausible but unconfirmed.
 
 ## Continuity
