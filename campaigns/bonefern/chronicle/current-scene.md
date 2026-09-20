@@ -4,14 +4,15 @@ Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Li
 
 ## Immediate scene
 - Drenn remains at/near Korren and Mira's lodge waiting to speak with Korren about Mari. His earlier statement that Mira chooses to keep following Korren reopened Mira's private unresolved agency question.
-- Mira leaves with an empty bucket to fetch water, using the familiar task to get distance from the uncomfortable exchange.
-- On the village water path, Liesel spots Mira and comes toward her with an unusually buoyant half-stride/half-skip. This visible lightness contrasts with the dissociated, withdrawn woman Mira first knew.
-- Liesel has recently bonded voluntarily with Asho after weeks of feeling safe with him. She is wearing/showing her new Vahn-rii mating beads and is openly eager for Mira to notice them.
-- Liesel reaches Mira and deliberately presents the beads, pleased and a little self-conscious, asking/urging Mira to look. Her happiness is her own and should not be generalized to Mari or used as proof that all bonds resolve happily.
-- Mira still carries the empty water bucket; immediate interaction with Liesel occurs before she reaches the water source.
+- Mira leaves with an empty bucket to fetch water and meets Liesel on the village water path before reaching the water source.
+- Liesel, newly and voluntarily bonded with Asho after weeks of trust/safety, eagerly shows Mira her new Vahn-rii mating beads.
+- Mira tells her, "The colours suit you. Asho chose well."
+- Liesel is visibly delighted by Mira's approval. She admits Asho spent an absurd amount of time choosing/arranging the beads and that she teased him for taking the task so seriously, though his care clearly mattered to her.
+- Liesel's pleasure is uncomplicated in this beat: she wanted Asho, knowingly chose the deep-place rite, and likes being visibly marked as his mate. This remains Liesel's experience only and is not evidence about Mari or universal bond effects.
+- Mira still carries the empty water bucket. Her private agency unease from the Drenn conversation remains underneath the lighter encounter but is not automatically visible to Liesel.
 
 ## Continuity
-- Mira/Korren remain bonded mates. Mira's agency question is privately unsettled in this moment.
+- Mira/Korren remain bonded mates.
 - Liesel chose Asho and the deep-place rite knowingly after developing safety/trust with him; their attraction/trust preceded the bond.
 - Mari remains frightened/conflicted; do not soften her off-screen.
 - Drenn is not present on the water path.
