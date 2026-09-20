@@ -4,12 +4,10 @@ Roughly two months have passed since Day 10. Suvi has voluntarily bonded with Ta
 
 ## Immediate scene
 - The morning after Mira and Korren's love-language conversation, Korren is away from the lodge and Mira is tidying their shared home in the humid heat.
-- Mira has made herself a light cloth dress for the weather: low at front and back, with slits at either side of the skirt for airflow and movement. Her curly hair is piled in a loose nest atop her head. This is a practical garment Mira made for herself rather than the formal river-green Vahn-rii mated-wife outfit.
-- Senna enters because Korren summoned her without telling Mira, asking Senna to see whether Mira might be pregnant.
-- Mira asks, "How would he know that before me?"
-- Senna clarifies that Korren does not know. He has noticed small changes in Mira over recent days and asked Senna because he suspects rather than because he possesses any special bond-sense. The mating bond does not reveal pregnancy and carries no thoughts or diagnostic knowledge.
-- Senna is mildly disapproving that Korren arranged the examination before speaking to Mira. She makes clear that Korren asked her to come, but Mira decides whether Senna examines her.
-- Senna has not yet examined Mira. Pregnancy status remains unknown.
+- Mira wears a light cloth dress she made for the weather: low at front and back, with slits at either side of the skirt for airflow and movement. Her curly hair is piled in a loose nest atop her head.
+- Senna enters because Korren summoned her without telling Mira, asking Senna to see whether Mira might be pregnant. Senna clarifies Korren only suspects from small changes he has noticed; the bond provides no supernatural pregnancy knowledge.
+- Senna tells Mira that Korren asking brought her to the lodge but Mira decides whether she is examined. Mira answers, "It's fine," and sits on the sleeping furs, consenting to the examination.
+- Senna begins conservatively rather than pretending she can diagnose pregnancy by touch alone. She asks Mira about her menstrual bleeding/cycle since arriving, appetite, nausea, breast tenderness, unusual fatigue, smell sensitivity, dizziness, and other changes, intending to combine Mira's answers with a basic physical examination. Pregnancy status remains unknown pending Mira's answers and Senna's assessment.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
