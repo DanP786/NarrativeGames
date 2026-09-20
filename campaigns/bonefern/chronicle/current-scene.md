@@ -5,11 +5,11 @@
 - Safeguards debated/revised: no cutting marks; no deliberate bond provocation; Senna opposes involuntary cave-taking; voluntary cave entry remains individual choice. Suvi likes Tarrik; Liesel likes Asho; Ren remains cautious.
 - Mira challenged blanket anti-male framing, corrected Drenn/Mari cave circumstances, defended the relevance of Vahn-rii individual conduct/custom, then left because she could no longer tolerate the room. She reminded the women the Vahn-rii voluntarily sheltered, clothed, and fed them.
 - Mira's injured right foot remains no-weight. Senna helped her outside and settled her beneath the overhang.
-- Senna revealed she was bonded when younger; her mate died many rains ago. The bond survives as an unanswered absence. She has not taken another mate. She explained that Vahn-rii are raised knowing the sacred bonding rite's stakes; cultural acceptance is expected but does not mean universal private desire. Sky-women were denied that inherited knowledge.
-- Senna confirms no known Vahn-rii sighting of an actual sky ship. Mira says, "I just want some answers." Senna proposes seeking reports from other territories/peoples about strange sky phenomena or traces around the women's arrival instead of exposing another woman to a cave.
-- Korren returns through the heavy rain and finds Mira seated outside Senna's lodge rather than inside the women's meeting. His matched bond-hum reaches her before he is fully under the overhang. He takes in her freshly re-dressed injured foot, Senna beside her, and Mira's location without assuming the reason.
-- Senna does not speak for Mira. She tells Korren only the practical fact that Mira is not to bear weight on the right foot, then leaves the explanation of why Mira came outside to Mira herself.
-- Korren comes under the shelter, wet from the rain, and crouches/settles close enough for Mira to reach him. He asks simply, "You came out. What happened?"
+- Senna revealed she was bonded when younger; her mate died many rains ago. The bond survives as an unanswered absence. She explained Vahn-rii bonding culture and confirmed no known sighting of a sky ship. Mira said she wanted answers; Senna proposed eventually asking other territories/peoples about sky phenomena around the women's arrival.
+- Korren returns through heavy rain and finds Mira outside rather than in the women's meeting. Senna tells him only that Mira must not bear weight on the injured foot and does not disclose the private discussion.
+- Korren crouches close and asks Mira what happened. Mira shakes her head and says, "I want to go home."
+- Korren does not press for the meeting's contents or mistake "home" for the lost human ship/world. In the immediate context he takes it as their lodge. He answers simply, "Then we go home." He gathers Mira carefully, supporting her back/hips and keeping the injured right foot clear, and rises with her against his chest.
+- Senna allows the departure without requiring Mira to return to the meeting. Korren carries Mira away from Senna's lodge into the heavy rain toward their own lodge.
 
 ## Hidden GM canon — not known in-world
 - Six women deliberately selected from thousands for a reproductive/bond experiment; selection includes health/childbearing age and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
@@ -17,7 +17,7 @@
 - No in-world character knows these facts without discovered evidence.
 
 ## Carry-forward
-- Korren is now physically present with Mira and Senna beneath Senna's lodge overhang.
-- Korren knows only what he can observe plus Senna's practical no-weight instruction; he has not been told the private six-woman discussion, spore theory, or Mira/Senna conversation.
-- New investigative avenue remains: ask other territories/peoples about sky phenomena around the women's arrival.
-- Mira remains seated, right foot no-weight. Heavy rain.
+- Mira and Korren are leaving Senna's lodge for their own lodge; Mira is being carried and remains no-weight on the right foot.
+- Korren still does not know the private six-woman discussion, Mira's spore hypothesis, or Mira/Senna conversation beyond observable facts.
+- New investigative avenue: ask other territories/peoples about sky phenomena around the women's arrival.
+- Heavy rain continues.
