@@ -3,12 +3,13 @@
 Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik, largely after choosing that she wanted physical intimacy with him; Liesel has voluntarily bonded with Asho after accumulated safety/trust. Ren remains unbonded with Vesh but has softened. Ada remains unbonded/unclaimed. Mari remains bonded with Drenn and substantially frightened/conflicted rather than conveniently reconciled.
 
 ## Immediate scene
-- Afternoon in Mira and Korren's lodge. Mira's old foot injury has healed enough for ordinary daily movement.
-- Mira sits quietly working water through a small filtration arrangement, using the practical craft that first gave her a sense of competence/standing on Vethaal. The task is familiar and controlled.
-- Drenn arrives at the lodge alone, visibly carrying frustration but controlled in his usual economical manner. Mari is not with him in this beat.
-- Drenn's frustration concerns the continuing difficulty of his bond with Mari: two months have not produced the acceptance/ease he sees in some other bonded pairs. He does not frame Mari's distress as proof she owes him submission, and the narration must preserve that the original bond was accidental and unwanted by Mari.
-- Drenn asks for Korren rather than trying to make Mira solve Mari for him. He wishes to speak with another bonded Vahn-rii male, specifically Korren, about living with a bond whose woman does not experience it as a welcome gift.
-- Korren's exact current whereabouts have not yet been established in-scene. Mira may answer Drenn or otherwise react before Korren appears.
+- Afternoon in Mira and Korren's lodge. Mira's old foot injury has healed enough for ordinary daily movement. She sits working water through her filtration arrangement.
+- Drenn arrives alone, controlled but frustrated, asking for Korren because two months have not made Mari comfortable with their accidental bond.
+- Mira tells him: "I'm sorry Drenn. She listens to Ada. I wanted us to be friends. But I said the wrong thing when we met."
+- Drenn understands that Mira means her early conversation with Mari after the cave, when Mira tried to reassure her through Mira's own experience with Korren and suggested Drenn might someday become safety for Mari. He does not absolve or accuse Mira. He says, "You told her what was true for you before you knew whether it could be true for her." He recognizes why Mari would hear that badly.
+- Drenn also rejects the idea that Ada's influence alone explains Mari's continued distress: "Ada did not put the fear in her. The deep places did enough of that." He acknowledges that Mari listening to Ada is not the same thing as Ada creating Mari's resistance.
+- He remains frustrated and wants Korren's counsel, but the frustration is increasingly directed at the problem and his own helplessness rather than at Mari for failing to become like Mira, Suvi, or Liesel.
+- Korren's exact current whereabouts remain unstated; Drenn is waiting at the lodge for him.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing this lodge.
@@ -18,7 +19,7 @@ Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik, la
 
 ## Hidden GM canon — not known in-world
 - Six women deliberately selected from thousands for a reproductive/bond experiment; selection includes health/childbearing age and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
-- Native cave spores genuinely cause the ecological mating bond. Implants do NOT cause/control the bond or mind-control women; implants include translation and other experiment infrastructure.
+- Native cave spores genuinely cause the ecological mating bond. Implants DO NOT cause/control the bond or mind-control women; implants include translation and other experiment infrastructure.
 
 ## Open investigation
 - Origin/experiment unanswered; possible reports from other territories about sky phenomena remain an avenue.
