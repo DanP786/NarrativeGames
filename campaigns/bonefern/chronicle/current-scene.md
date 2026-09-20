@@ -5,10 +5,10 @@ Two months have passed since Day 10. Suvi has voluntarily bonded with Tarrik; Li
 ## Immediate scene
 - Mira returned from fetching water with Liesel. Their first substantive conversation in roughly two months reopened Mira's hurt over being socially isolated after bonding with Korren. Liesel apologized for her own absence and asked to begin coming to Mira now; Mira accepted with a strained smile despite bitterness that Liesel reaches out only after bonding herself.
 - Korren spent part of the afternoon counseling Drenn about Mari. He told Drenn he cannot make Mari want their accidental bond and that if every no costs her something, it is not a word Drenn has allowed her to keep.
-- Mira occupied herself preparing food. While she bent over their stores, Korren came inside and settled both hands around her hips from behind. Mira blushed, straightened, and turned to face him. Korren teased her mildly that she was already red before she turned around because he had seen the compromising posture.
-- Mira laughs awkwardly and tries to slip past him to return to her cooking/work. Korren catches her before she can escape the embarrassment, closing a hand around her waist/hip and drawing her back into his space without hurting her.
-- The catch is intimate and playful rather than coercive escalation. Korren is plainly amused by Mira's attempt to flee her blush; he keeps her near long enough to look at her rather than immediately turning the moment sexual.
-- Mira remains flushed and caught close to him beside the fire. The moment stays suggestive/non-explicit and leaves her next response open.
+- Mira occupied herself preparing food. While she bent over their stores, Korren came inside and settled both hands around her hips from behind. Mira blushed, straightened, and turned to face him. Korren teased her mildly about being red and caught her when she tried to escape back toward her work.
+- Mira tells him, "Stop teasing me," and gives his chest the lightest possible slap/tap. The gesture is playful rather than angry and marks an ease in their domestic intimacy that Mira would not have shown early in their relationship.
+- Korren receives the tap without yielding ground. He looks down at Mira's hand and back at her, visibly amused, then loosens his hold enough that the playful catch does not become restraint. He tells her, in his spare manner, that she struck him very poorly.
+- The moment remains affectionate/suggestive but non-explicit. Mira is still flushed beside the fire with food preparation waiting.
 
 ## Continuity
 - Mira/Korren remain bonded mates sharing the lodge and an established daily routine. Mira presently wants Korren and follows his lead but privately continues to question how much choice exists inside that wanting.
