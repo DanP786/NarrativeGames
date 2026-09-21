@@ -2,10 +2,10 @@
 
 ## Worn / clothing
 - **Vahn-rii formal mated-wife outfit**, fitted for Mira and first put on her by Korren: deep river-green hide skirt; matching shoulder-tied top. Currently stored with her belongings, not worn.
-- **Woven river-stone mate-bead cord:** wraps twice at the waist with a polished green stone at the front and the practised Vahn-rii mate-knot at her right hip. **Currently OFF Mira and physically held by Sahra without Mira's consent; Sahra says Korren must earn the right to return it.**
+- **Woven river-stone mate-bead cord:** wraps twice at the waist with a polished green stone at the front and the practised Vahn-rii mate-knot at her right hip. **Currently WORN by Mira again.** Sahra returned it directly after acknowledging she should not have kept it without Mira's consent; Mira held it to her chest and thanked her warmly. Korren then retied it around Mira in public after Mira explicitly said she wanted it back.
 - **Light wet-hot-season dress made by Mira:** thin cloth, low at front and back, with slits at either side of the skirt for airflow and movement. Currently dirty from Mira's lost jungle walk and retained as Mira's property.
 - **Foreign-village fitted wardrobe:** several adult women's wet-hot-climate outfits newly made/altered specifically for Mira's human proportions, including decorative blue-green, rust-red, moss-green and related pieces with patterned woven trim, careful edging, and small local decorative details. These were gifts and create no obligation to stay.
-- Mira is currently wearing one of the fitted foreign-village outfits for independent morning exploration.
+- Mira is currently wearing one of the fitted foreign-village outfits, now with her Vahn-rii mate-cord over it; Sahra's decorative beads remain worked into her long dark hair.
 
 ## Carried
 - **Woven shoulder satchel**, village-made gift, adjustable to Mira's size.
@@ -23,7 +23,7 @@
 ## At Sahra and the chief's household / foreign village
 - Mira is being housed as a protected guest and has been offered a permanent family/tribal place but has not formally accepted it.
 - Additional fitted gifted clothing and small family gifts from Sahra's sons/their families remain with Mira's belongings.
-- Mira's Vahn-rii river-stone mate-beads are physically held by Sahra, not freely available to Mira at present.
+- **Custom adult sandals are in progress** with a local male craftworker. Prototype has been fitted but needs adjustment; finished pair is expected the following day and is not yet inventory.
 
 ## At Korren and Mira's Vahn-rii lodge
 - Shared sleeping furs and ordinary household materials.
