@@ -1,28 +1,25 @@
-# Current scene — chief's household, foreign village, ~Day 77–82, evening
+# Current scene — chief's household, foreign village, ~Day 77–82, night
 
 ## Immediate scene
-- Mira and Korren have returned to the chief/Sahra household where Mira has been staying during miscarriage recovery. Mira is well enough for gentle activity; cause of the loss remains unknown.
-- The foreign chief is **Varesh**, Sahra's mate, father of their deceased adult daughter and two living adult sons. He has offered Korren a genuine path to learn communal answerability and earn a place in this village.
-- Mira wants this village to be home and desperately wants Korren here with her. Korren has agreed to try Varesh's path, strongly dislikes its duties/rules, but has committed not to take Mira away against her choice.
-- At the household threshold, Varesh told Korren that Mira may wear her Vahn-rii mate stones if she wishes, but Korren has not yet earned the right to sleep beneath Varesh's roof. Mira remains fully welcome inside and under the household's protection.
-- Sahra then offered, if Mira wishes, a formal ceremony by which Sahra and Varesh would declare Mira their daughter before the village. This is a chosen-family/adoption offer; exact ritual details remain unestablished. Before this turn Mira had not formally accepted it.
-- **Mira searches Korren's eyes, then turns to Varesh and asks sweetly: "One night, he stays just one night. Please. Father."** Calling Varesh **Father** is deliberate and emotionally significant. It functions as Mira's first spoken acceptance/claim of the offered parent-child relationship, even though the formal daughter ceremony has not yet occurred.
-- Mira's immediate request is specifically for **one exception for one night**: she wants Korren permitted to sleep under Varesh's roof tonight. This follows their reunion, her recent miscarriage, and days of separation. It does not ask Varesh to erase Korren's earn-a-place path permanently.
-- Varesh must decide whether to hold the boundary exactly or grant a narrowly defined exception. Either response should preserve his established integrity: he cannot be manipulated into abandoning the entire lesson merely because Mira calls him Father, but he can recognize both the emotional weight of her acceptance and the unusual circumstances of reunion/recovery.
-- Korren hears Mira call Varesh Father. Given Korren's history with this family and Mira's desire for community, the word carries substantial weight. He must not treat it as Mira rejecting him; she has explicitly said she wants both family/community and Korren.
-- Sahra hears the word too. She has wanted Mira as daughter and is likely deeply affected, but should not override Mira/Varesh or turn the moment into ownership.
-- Mira's Vahn-rii river-stone mate-cord remains worn over foreign-village clothing; Sahra-decorated beads remain in her hair.
-- Korren's blade remains surrendered unless established otherwise. His work/rules and formal status remain active/unresolved.
+- Mira remains in recovery from miscarriage/early pregnancy loss; cause unknown. She is physically improved enough for gentle activity but is still being cared for and monitored informally.
+- Mira wants the foreign village as home and wants Korren there with her. Korren has accepted Varesh's earn-a-place path, dislikes its duties/rules, but is trying and has committed not to take Mira away against her choice.
+- Varesh initially barred Korren from sleeping beneath his roof until Korren earned a place. Mira then asked for a single-night exception and deliberately called Varesh **Father**. Varesh granted **one night only**, explicitly because his daughter asked for comfort after separation/injury; Korren's duties and earn-a-place conditions resume unchanged afterward. Korren is expected to sleep elsewhere beginning tomorrow unless/until he earns a place beneath Varesh's roof.
+- Varesh's one-night permission is now established canon. Korren is under Varesh's roof tonight with Mira, but has not earned permanent household/tribal status. His blade remains surrendered unless later established otherwise.
+- Mira's use of **Father** verbally embraces the chosen-family relationship offered by Sahra/Varesh, though the formal daughter ceremony has not yet occurred. Varesh called Mira **my daughter** in granting the exception. Sahra reacted emotionally and affectionately.
+- **Mira and Korren are now settled for the night in the sleeping place Mira has been using inside Varesh/Sahra's household.** Mira giggles at Korren's complaint about the arrangement appealing to everyone except him.
+- Sahra checks on Mira before sleep and asks whether she needs anything. Mira shakes her head/no, but Sahra brings her a cup anyway: a pale, rich local drink whose taste/texture reminds Mira strongly of **coconut milk**. The association evokes home/Earth/Puerto Rican family memory for Mira; the local drink is not literally established as coconut or the same species.
+- Sahra kisses Mira on the forehead good night. The gesture is maternal and affectionate, reinforcing the newly spoken mother/daughter-family relationship without replacing the still-unperformed formal ceremony.
+- Korren is present and can observe Sahra's care. He is not angry with Mira or Sahra for caring for her, though his broader tension with household rules/Varesh remains.
+- Mira's Vahn-rii river-stone mate-cord remains hers/worn unless she removes it for sleep; do not assume removal. Sahra's decorative hair beads remain unless explicitly removed.
 - Bond = physical pull + audible matched harmonic only; no telepathy.
 
 ## Continuity
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
-- Varesh and Sahra are mates; deceased adult daughter + two living adult sons with families.
-- Mira wants this village as home and Korren there with her.
-- Korren is on a genuine earn-a-place path under Varesh; standing rule before Mira's request is that he may not yet sleep under Varesh's roof.
-- **Mira has now called Varesh "Father" while asking for a one-night exception for Korren.** Formal daughter ceremony has not yet occurred, but Mira has verbally embraced the offered relationship.
-- Varesh's answer to the one-night request is not yet recorded.
-- Exact daughter ceremony details, Korren's long-term lodging/status, and criteria/timeline for earning his place remain to be established.
+- Foreign chief: **Varesh**; his mate: **Sahra**. They had a deceased adult daughter and have two living adult sons with families.
+- Mira has called Varesh Father; Varesh has called Mira his daughter. Formal daughter ceremony remains pending/unperformed.
+- Varesh granted Korren a one-night-only exception to sleep under his roof with Mira. This does not waive Korren's earn-a-place path.
+- Sahra brings Mira a local coconut-milk-like bedtime drink and kisses her forehead good night.
+- Exact daughter ceremony details, Korren's post-tonight sleeping arrangement, and criteria/timeline for earning permanent place remain to be established.
 - Custom sandals remain prototype/in-progress unless enough time passes/scene establishes completion.
 - No telepathy exists.
 
