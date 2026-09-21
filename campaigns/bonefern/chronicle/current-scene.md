@@ -1,25 +1,28 @@
-# Current scene — balcony overlooking foreign village, ~Day 77–82, later that day
+# Current scene — chief's household, foreign village, ~Day 77–82, evening
 
 ## Immediate scene
-- Mira remains in miscarriage recovery but is well enough for gentle ordinary activity. Korren knows the pregnancy was real and ended in miscarriage; cause remains unknown.
-- Mira explicitly chose to stay in the foreign village and told Korren she desperately wants him there with her. Korren agreed to try living under the chief's authority rather than take Mira away.
-- The chief has begun Korren's path with duties and rules/constraints: work/obligations Korren did not choose, respect for marked boundaries, answerability to communal authority, and accepting no/judgment instead of substituting his own decision. Exact full terms/duration/formal membership remain unresolved.
-- Korren is angry/frustrated with these constraints but **not angry with Mira**. He has committed to staying, obeying legitimate village terms while on this path, and not taking Mira away against her stated choice. If she later freely asks to leave, he will listen to that new choice too.
-- Mira explained that Vahn-rii life felt isolating: Korren was the only person there she felt she liked, while conflict around Korren/the bond repeatedly made her feel pressured to turn against him. By contrast, this village welcomed/cared for her without requiring her to reject Korren and is allowing Korren a path to earn belonging despite serious reasons to distrust him.
-- Korren recognized that Mira wanted more than kindness during recovery: she wants people/community/family, and he cannot provide an entire village by himself. He told her, **"You should not have had to become alone in order to keep choosing me."**
-- **Mira now smiles and says, "I didn't know this was an option. And I like this one. I'm so happy you're here."** This clarifies that she sees the current possibility—community plus Korren, rather than one at the cost of the other—as a newly discovered option she actively prefers.
-- Korren receives this as direct reassurance that Mira wants him personally here, not merely tolerates his presence as part of staying. It gives further personal meaning to his difficult choice to submit to the chief's path while preserving that the choice is his.
-- Their matched bond-hum remains one audible/physical note at close range; no telepathy.
-- Mira's Vahn-rii river-stone mate-cord remains worn over her foreign-village clothing; Sahra-decorated beads remain in her hair. The combination continues to embody her wish to keep Korren while choosing this village.
-- Korren's surrendered blade/status should not be assumed changed unless established in play. Exact lodging/work arrangement and formal tribal status remain unresolved.
+- Mira and Korren have returned from the balcony to the chief/Sahra household where Mira has been staying during her recovery. Mira remains well enough for gentle activity after miscarriage; cause remains unknown.
+- The foreign chief is now canonically named **Varesh**. He is Sahra's mate, father of their deceased adult daughter and two living adult sons. Varesh has been the chief who challenged Korren's boundary-breaking and offered him a genuine path to learn communal answerability and earn a place here.
+- Mira explicitly wants this village to be home and desperately wants Korren here with her. Korren has agreed to try the chief's path, is frustrated by its duties/rules, but has committed not to take Mira away against her choice.
+- **At the household entrance/interior threshold, Varesh stops Korren.** He states that he will not stop Mira from wearing her Vahn-rii mate beads/stones if she wishes; they are Mira's choice. However, **Korren is not sleeping under Varesh's roof before he earns a place beneath it.** This is a concrete immediate boundary placed on Korren, not a revocation of Mira's welcome or a demand that she remove the mate-cord.
+- Varesh's restriction means Korren must sleep elsewhere for now under whatever guest/work arrangement the village provides; exact location is not yet established. Korren's formal membership and exact criteria/timeline for earning a place under Varesh's roof remain unresolved and should develop in play.
+- Korren strongly dislikes the restriction but has agreed to respect Varesh's authority/boundaries while pursuing a place here. His anger is not directed at Mira.
+- **Sahra enters and states that Mira is under their protection.** She makes clear that if Mira wishes, Sahra and Varesh/the family will perform their people's ceremony to formally declare Mira **their daughter**. This is an offer, not an accomplished adoption and not something Sahra may decide for Mira. Mira's answer has not yet been given.
+- The daughter ceremony would make explicit/formal the family belonging that Sahra and her sons' families have already been informally extending to Mira. Exact ritual details have not yet been established and must not be invented as prior canon; they can be established if Mira accepts/asks about it.
+- Mira's Vahn-rii river-stone mate-cord remains worn over foreign-village clothing; Sahra-decorated beads remain in her hair. Varesh explicitly permits/respects Mira's choice to wear the mate-cord despite barring Korren from sleeping under his roof.
+- Korren's surrendered blade/status remains unchanged unless established otherwise. His work/rules include respect for boundaries, communal answerability, and duties he did not choose.
+- Their bond remains physical pull + audible matched harmonic only; no telepathy.
 
 ## Continuity
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
-- Mira wants the foreign village to be home and wants Korren there with her.
-- Korren has accepted the chief's teaching/path, chafes at it, but has clearly committed not to take Mira away against her expressed wish to stay.
-- Mira explicitly sees **community + Korren** as a newly available life she likes and tells him she is very happy he is here.
-- Exact terms of Korren's duties/rules remain intentionally only partly established and may be concretized in play.
-- Custom sandals remain prototype/in-progress with local craftworker unless enough time passes/scene establishes completion.
+- Foreign chief's name: **Varesh**.
+- Varesh and Sahra are mates; they had an adult daughter who chose Korren years ago and later died accidentally during the hurried departure/journey, plus two living adult sons with families.
+- Mira wants the foreign village as home and wants Korren there with her.
+- Korren is on a genuine earn-a-place path under Varesh but **may not sleep under Varesh's roof yet**.
+- Mira remains welcome under Varesh/Sahra's roof and under their protection. Her mate stones remain her choice.
+- Sahra/Varesh now offer Mira a formal daughter-declaration ceremony **if Mira wishes**. Mira has not answered yet.
+- Exact ceremony details, Korren's temporary sleeping place, and exact criteria/timeline for his earned household/tribal place remain to be established.
+- Custom sandals remain prototype/in-progress unless enough time passes/scene establishes completion.
 - No telepathy exists. Bond = physical pull plus audible harmonic only.
 
 ## Hidden GM canon — not known in-world
