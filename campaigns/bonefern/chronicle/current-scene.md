@@ -3,23 +3,23 @@
 ## Immediate scene
 - Morning has arrived after Korren's one permitted night beneath Varesh's roof. Mira remains in recovery from miscarriage/early pregnancy loss; cause unknown, but she is physically improved enough for gentle ordinary activity.
 - Mira wants this village as home and wants Korren here with her. Korren has accepted Varesh's earn-a-place path, dislikes its duties/rules, but is trying and has committed not to take Mira away against her choice.
-- Varesh granted Korren only this single night under his roof because Mira asked and called him Father. The exception does not waive Korren's duties or earn-a-place conditions. Beginning after this night, Korren is expected to sleep elsewhere unless/until he earns a place beneath Varesh's roof; exact assigned lodging remains unestablished.
-- Mira has verbally embraced the chosen-family relationship offered by Sahra/Varesh. She previously called Varesh **Father**, Varesh called her **my daughter**, and Sahra has called her daughter. The formal daughter ceremony remains pending/unperformed.
-- Mira slept better than she ever remembers sleeping and woke crying from happiness/relief. Korren held and comforted her. The household morning then became playful; Sahra ushered Mira toward breakfast and insisted she eat while Varesh prepared to give Korren his day's work.
-- **At breakfast, when Sahra tells Mira to eat, Mira smiles and answers, "Yes, Mother."** This is Mira's first explicit use of **Mother** for Sahra and complements her earlier deliberate use of Father for Varesh. Mira is now verbally claiming both Sahra and Varesh as chosen parents before the formal ceremony.
-- Sahra is likely deeply affected by Mira calling her Mother, especially given Sahra's deceased adult daughter and her already maternal care toward Mira. Her reaction should be warm and emotionally real without treating Mira as a replacement for the daughter who died.
-- Varesh and Korren are present and can hear Mira call Sahra Mother. Korren understands that Mira wants family/community alongside him; he should not treat the title as rejection. Varesh may recognize that the formal daughter ceremony is becoming a matter of confirming a relationship Mira has already begun choosing aloud.
-- Mira is at the household breakfast. Sahra is feeding/monitoring her recovery. Korren is expected to face Varesh's assigned work after breakfast; exact duty has not yet been established.
+- Mira has verbally embraced the chosen-family relationship offered by Sahra/Varesh. She has called Varesh **Father** and Sahra **Mother**; both have called her daughter. The formal daughter ceremony remains pending/unperformed.
+- Mira slept better than she ever remembers sleeping and woke crying from happiness/relief. Korren held and comforted her. Their morning became playful before Sahra ushered Mira to breakfast.
+- At breakfast Mira called Sahra **Mother** for the first time. Sahra was deeply moved, embraced/kissed Mira, and reaffirmed her as daughter. Mira clarified she used the title because she wanted to, not from obligation.
+- **While Mira eats, Sahra fixes/tends Mira's long dark hair.** The care is maternal and familiar: Sahra works through sleep-tangled waves/curls and arranges them neatly while making sure Mira continues eating.
+- **After breakfast Mira dresses in one of her fitted foreign-village outfits and wears her beads.** Sahra's decorative local hair beads are part of the finished arrangement. Mira also retains her Vahn-rii river-stone mate-bead cord as her own chosen belonging; when "her beads" is ambiguous, preserve both established bead traditions rather than silently removing either. Exact outfit color for this morning remains unestablished unless specified later.
+- **Korren has already left the household by the time Mira is dressed.** His one-night exception beneath Varesh's roof has ended. He has gone to begin/answer for Varesh's assigned work/earn-a-place obligations. Exact duty, location, and his next sleeping arrangement remain unestablished; do not invent as already known to Mira unless learned in scene.
+- Mira is therefore beginning the morning with Sahra/family/village rather than immediately following Korren. This is a natural opportunity for her independent belonging in the village to deepen.
 - Formal daughter ceremony remains pending. Custom sandals are plausibly due today after the prior fitting, but completion has not yet been established.
-- Their bond remains physical pull + low audible matched harmonic only; no telepathy.
+- Their bond remains physical pull + low audible matched harmonic only; no telepathy. With Korren away, the audible hum fades beyond close range rather than providing tracking.
 - Korren's blade remains surrendered unless later established otherwise.
 
 ## Continuity
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
 - Foreign chief: **Varesh**; his mate: **Sahra**. They had a deceased adult daughter and have two living adult sons with families.
-- **Mira has now called Varesh Father and Sahra Mother.** Both chosen-parent relationships are verbally accepted by Mira; formal daughter ceremony remains pending.
-- Korren's one-night sleeping exception is ending with morning; his earn-a-place path remains active.
-- Mira is eating breakfast under Sahra's insistence; Varesh has work for Korren today, specifics still unestablished.
+- Mira has now called Varesh Father and Sahra Mother. Both chosen-parent relationships are verbally accepted by Mira; formal daughter ceremony remains pending.
+- Sahra fixes Mira's hair while Mira eats; afterward Mira dresses and wears her beads.
+- Korren has already left to answer Varesh's morning obligations. His one-night sleeping exception is over; earn-a-place path remains active.
 - Exact daughter ceremony details, Korren's next sleeping arrangement, today's specific work assignment, and criteria/timeline for earning permanent place remain to be established.
 - Custom sandals were expected around today but are not yet established as complete.
 - No telepathy exists.
