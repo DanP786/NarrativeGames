@@ -5,13 +5,13 @@
 - Korren entered the foreign village only after waiting outside the boundary for days, surrendering his blade, and accepting escort. He later agreed before the chief to **listen**, not merely hear. His blade remains surrendered.
 - Mira and Korren reunited openly. Sahra returned Mira's mate stones after acknowledging she should not have kept them without Mira's consent; Mira warmly thanked her. Korren retied the cord around Mira's waist after Mira explicitly said she wanted it back.
 - In private Mira told Korren: **"I was pregnant. Now I'm not."** Korren asked to hold her and is holding her carefully while she grieves. Nobody knows why the pregnancy ended; Korren has rejected Mira's attempt to blame the miscarriage on getting lost.
-- Mira explained she walked away angry after discovering the other five human women had been meeting without her for roughly the whole two-month period. Korren knows the exclusion hurt her but not every motive/detail unless Mira tells him.
-- Mira sincerely praised Sahra, the chief, Sahra's family, and the village for how they treated her. Korren thanked Sahra for caring for Mira when he could not reach her and acknowledged that he is glad Mira found people who cared for her, despite his complicated history with this family/territory.
-- **Mira now looks up at Korren with both hands on his chest and says, "I want to stay here."** This is Mira's first explicit personal choice to remain in the foreign village. It supersedes her prior undecided status: she is no longer merely considering the offer. The exact duration/terms of staying and whether she formally accepts daughter/tribe status are not yet specified by Mira and must not be assumed.
-- Korren receives the statement directly while holding her. Given his history and possessiveness, it lands heavily, but his recent promise to listen and his established agency conversation with Mira are active constraints: he must not silently reinterpret her words as something else or simply decide over her. He can ask what she means/whether she wants him with her, but Mira controls those answers.
-- Sahra is present and hears Mira's statement. She has wanted Mira to stay, but the chief previously corrected her that Mira's wishes govern. Sahra must therefore treat this as Mira's choice rather than seize it as permission to dictate all terms.
-- The chief remains outside/near the entrance rather than intruding, though the decision will eventually require discussion with him because Korren's status/path in this village remains unresolved.
-- Mira's Vahn-rii river-stone mate-cord remains worn over her foreign-village clothing; Sahra-decorated beads remain in her hair. The visual combination of both affiliations remains deliberate and unresolved rather than mutually exclusive.
+- Mira explained she walked away angry after discovering the other five human women had been meeting without her for roughly the whole two-month period. She sincerely praised Sahra, the chief, Sahra's family, and the village for caring for her. Korren thanked Sahra for caring for Mira when he could not reach her.
+- Mira told Korren: **"I want to stay here."** Korren did not reinterpret or override her. He asked whether she wants him here with her.
+- **Mira answers, "Yes. Desperately."** This establishes clearly that Mira's wish to stay in the foreign village includes a strong desire for Korren to remain with her. She is not choosing the village *instead of* Korren; she wants both. Exact duration/formal tribal status still remains to be worked out.
+- Korren accepts the answer as Mira's stated choice. The practical consequence is that he must now confront the chief's genuine offered path: if he wants to remain with Mira here, he will need to live under this village's boundaries, communal authority, work/obligations, and the possibility of being told no. Do not treat this as automatic membership; the chief must still set/confirm terms.
+- Sahra is present and hears Mira's answer. She has wanted Mira to stay and previously said she would not oppose the chief trying to teach Korren. Her response can be emotional/pleased but must not erase that this is Mira's decision or dictate Korren's answer.
+- The chief remains outside/near the entrance rather than intruding; a direct conversation with him about Korren staying now becomes the natural next practical step.
+- Mira's Vahn-rii river-stone mate-cord remains worn over her foreign-village clothing; Sahra-decorated beads remain in her hair. The visual combination of both affiliations remains deliberate rather than mutually exclusive.
 - Korren remains unbound; his blade remains surrendered. His agreement to listen and obey the foreign chief's boundaries remains active.
 - Mira/Korren remain bonded mates. At close range their matched bond-hum is one audible/physical note. No telepathy exists.
 
@@ -22,7 +22,7 @@
 - Pregnancy loss is canon; Korren knows about both the pregnancy and miscarriage. Cause unknown.
 - Korren did not cross the marked boundary on his own; he entered after accepting the watchers' terms.
 - Sahra/chief family: deceased adult daughter once chose Korren; two adult living sons with families warmly welcomed Mira as a sister.
-- **Mira has explicitly said she wants to stay in the foreign village.** Duration, formal tribal/daughter status, and Korren's place in that choice remain to be established in play.
+- **Mira explicitly wants to stay in the foreign village and desperately wants Korren to stay there with her.** Duration/formal status/terms remain to be established with the chief.
 - No telepathy exists. Bond = physical pull plus audible harmonic only.
 
 ## Hidden GM canon — not known in-world
