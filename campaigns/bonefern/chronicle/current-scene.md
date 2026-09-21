@@ -7,14 +7,15 @@ Several days have passed since Mira became lost and entered the foreign tribe's 
 - Sahra and the chief have offered Mira belonging/protection without requiring her to renounce Korren or Vahn-rii. Mira has not formally accepted permanent residence or daughter-status, though Sahra's two adult sons and their families warmly called her their new sister at dinner and brought gifts.
 - Sahra still physically holds Mira's intact Vahn-rii river-stone mate-bead cord and says Korren must earn the right to return it. Mira did not consent to Sahra keeping it.
 - Mira spent the morning independently exploring the village with her satchel. A local craftworker fitted her for custom sandals; prototype needs adjustment and is not yet finished inventory.
-- Korren has now been brought physically inside the foreign village **bound with rope around torso and hands**. He initially thrashed and bared his teeth; when Mira shouted his name through the crowd, his violent struggling stopped abruptly. He was hauled onward to the chief's household while Mira followed quickly.
-- Before the chief's fire, Korren stated: **"I did not cross it."** The chief answered: **"No. You did not."** This confirms Korren himself respected the marked boundary before being brought inside, but the exact mechanics of his detention/capture and who crossed the line to seize/escort him remain to be explained in dialogue/testimony rather than invented omnisciently.
-- **Mira now goes directly to Korren's side**, smiles up at him and says, **"You're here."** She immediately puts her hands to/pulls experimentally at the ropes and asks the chief, **"Are these necessary?"** Her action is public and unhesitating despite the gathered villagers.
-- Korren remains bound at the instant of her question. His next response to Mira and the chief's decision about the ropes are live scene outcomes.
-- Mira's current appearance is visibly foreign-village integrated compared with when Korren last saw her: locally fitted adult clothing, Sahra-decorated long dark hair, woven satchel, and **no Vahn-rii mate-bead cord at her waist**. Korren may observe these concrete details. Do not narrate his private interpretation without behavior/dialogue.
-- Mira has still not told Korren about the pregnancy or miscarriage. Korren knew only that Senna had considered pregnancy possible/unconfirmed before Mira became lost. He does not know the loss unless told.
-- The chief previously stated he would genuinely allow Korren a path to join and teach him restraint, answerability, communal boundaries, and accepting judgment/no. Sahra previously said she would not oppose that attempt. Those positions remain canon despite the charged arrival.
-- Mira/Korren remain bonded mates. At this close range their matched bond-hum is perceptible again. No telepathy exists; the bond does not transmit thoughts, emotions, pregnancy, miscarriage, or location.
+- Korren has been brought physically inside the foreign village after spending days outside the marked boundary. He respected the boundary and did not cross it himself. Watchers eventually offered entry if he surrendered his weapon and submitted to being brought before the chief; he gave up his blade and his hands. Once inside the village he smelled blood on Mira, did not know its cause, and fought the restraints until Mira called his name. He was then brought bound before the chief.
+- Mira went directly to Korren's side, smiled and said **"You're here,"** pulled at his ropes, and asked the chief whether they were necessary.
+- The chief ordered Korren released after emphasizing that Korren had respected the boundary, surrendered his weapon, and submitted to entry, despite then fighting the ropes. The chief told Korren he would not threaten villagers or seize Mira and leave; Korren must hear Mira and the chief. When Korren said **"I hear you,"** the chief corrected him: Korren has always heard; the question is whether he will **listen**. Korren answered **"Yes."** His bindings were cut. He did not strike anyone or reach for a weapon.
+- **Mira immediately wraps both arms around Korren and presses herself against him, saying into his skin: "I missed you."** The reunion is openly affectionate and initiated by Mira in front of the chief, Sahra, escorts, and gathered villagers.
+- Korren is now physically free but remains inside the foreign chief's authority as an admitted visitor. His surrendered blade has not yet been returned.
+- Mira's current appearance remains visibly foreign-village integrated compared with when Korren last saw her: locally fitted adult clothing, Sahra-decorated long dark hair, woven satchel, and **no Vahn-rii mate-bead cord at her waist**.
+- Korren now knows Mira has been bleeding recently because he smelled blood after entering the village, but **he does not yet know she was pregnant or miscarried**. Mira has not told him. He knew only that Senna had earlier considered pregnancy possible/unconfirmed.
+- The chief previously stated he would genuinely allow Korren a path to join and teach him restraint, answerability, communal boundaries, and accepting judgment/no. Sahra previously said she would not oppose that attempt. Those positions remain canon.
+- Mira/Korren remain bonded mates. At close range their matched bond-hum is again one audible/physical note. No telepathy exists; the bond does not transmit thoughts, emotions, pregnancy, miscarriage, or location.
 
 ## Continuity
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
@@ -22,8 +23,8 @@ Several days have passed since Mira became lost and entered the foreign tribe's 
 - Current carried kit: woven shoulder satchel; water vessel; small provisions; clean cloth/basic recovery supplies; small sheathed utility knife.
 - Mira's Vahn-rii river-stone mate-bead cord remains intact and physically held by Sahra, off Mira.
 - Pregnancy loss is canon; Korren does not yet know. Cause unknown.
-- Korren is physically beside Mira before the foreign chief, still bound pending the chief's answer.
-- Korren did not voluntarily cross the marked foreign boundary before being brought inside; exact capture/escort circumstances pending explanation.
+- Korren is now unbound beside Mira before the foreign chief. His blade remains surrendered/not returned.
+- Korren did not cross the marked boundary on his own; he entered after accepting the watchers' terms, surrendering weapon and hands, then resisted restraint after smelling Mira's blood.
 - Sahra/chief family: deceased adult daughter once chose Korren; two adult living sons with families warmly welcomed Mira as a sister, though Mira has not formally accepted that status.
 - No telepathy exists. Bond = physical pull plus audible harmonic only.
 
