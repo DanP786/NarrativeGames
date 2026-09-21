@@ -1,4 +1,4 @@
-# Current scene — foreign village craft quarter, ~Day 77–82, morning
+# Current scene — foreign village central paths, ~Day 77–82, late morning
 
 Several days have passed since Mira became lost and entered the foreign tribe's territory. Suvi remains voluntarily bonded with Tarrik; Liesel voluntarily bonded with Asho; Ren remains unbonded with Vesh but softened; Ada remains unbonded/unclaimed; Mari remains bonded with Drenn and substantially frightened/conflicted.
 
@@ -6,26 +6,27 @@ Several days have passed since Mira became lost and entered the foreign tribe's 
 - Mira is recovering from a confirmed miscarriage/early pregnancy loss several days after arriving in the foreign village. Cause remains unknown. Pain/bleeding have diminished enough for ordinary gentle activity, though Orenna's cautions still apply.
 - Sahra and the chief have offered Mira belonging/protection without requiring her to renounce Korren or Vahn-rii. Mira has not formally accepted permanent residence or daughter-status, though Sahra's two adult sons and their families warmly called her their new sister at dinner and brought gifts.
 - Sahra still physically holds Mira's intact Vahn-rii river-stone mate-bead cord and says Korren must earn the right to return it. Mira did not consent to Sahra keeping it.
-- The foreign village is larger, more permanent, more prosperous-looking, and more decorative than Vahn-rii, with generations-deep infrastructure, fixed platforms/walkways, rainwater systems, storage, specialized communal/craft areas, carved/patterned structures, dyed fibers, beadwork, polished stone, and encouraged flowering/luminous growth.
-- Village women have made/altered adult women's clothing specifically fitted to Mira's human proportions. Sahra washed and decorated Mira's hair in local fashion the previous evening.
-- This morning Mira is exploring the village independently, wearing one of her fitted local outfits and carrying a gifted woven shoulder satchel with water, provisions, clean recovery cloth/personal supplies, and a small sheathed utility knife.
-- While Mira explores maintained village paths, a **local adult male craftworker** spots her and comes hurrying over, urgently saying he needs her help. His urgency is practical/excited rather than threatening. Mira follows him to his work area and discovers he has been **fashioning sandals specifically for her unusually small human feet**.
-- The craftworker has produced a prototype but needs Mira herself to fit it correctly. With her cooperation, he measures the length/width of her feet and checks placement around heel/ankle/toes, then has her try on the prototype pair. The sandals are locally made for humid jungle/village conditions: light, tough soles with secure straps intended to protect Mira's feet while remaining breathable and flexible. Exact materials/decorative finish can be refined in narration.
-- The prototype is close but requires adjustment based on Mira's actual gait and proportions. The interaction reinforces that villagers are adapting adult tools/clothing to Mira rather than treating her smallness as childhood. The sandals are a practical gift/accommodation and create no obligation to remain in the tribe.
-- Mira remains within the established village rather than entering deep jungle or approaching the territorial boundary.
-- Boundary-watchers have repeatedly reported movement/sign on the far side of the border, but nobody has crossed. It remains unconfirmed that the movement is Korren. No confrontation has occurred.
-- Mira/Korren's bond remains intact. No telepathy exists; the bond does not allow remote tracking.
+- Mira spent the morning independently exploring the larger foreign village, wearing locally fitted adult clothing and carrying her woven satchel with water, provisions, clean recovery supplies, and a small sheathed utility knife.
+- A local male craftworker fitted Mira for custom sandals sized to her unusually small human feet. The prototype needs adjustment and he told her to return tomorrow; finished sandals are not yet inventory.
+- **On Mira's eventual return toward the chief/Sahra household, a sudden commotion moves through the village.** People hurry past her toward a central approach/path, creating a dense crowd.
+- Through the moving bodies Mira sees a male being brought in **bound with rope around his torso and hands**. He is actively resisting the restraint—thrashing against the ropes and baring his teeth. Mira recognizes him immediately as **Korren** from his body, coloring, movement, and the bond-hum once close enough; his identity is now confirmed in-scene.
+- Mira reacts reflexively and half-runs toward Korren, but she is still physically recovering and the crowd of much larger Kael'tha closes the route. She cannot immediately reach him or establish physical contact.
+- **Korren has now crossed/been brought across the foreign boundary and is physically inside the village.** Exact circumstances of his capture—whether he crossed voluntarily, was seized at/near the boundary, submitted initially and then resisted, or what exchange occurred with watchers—are **not yet established** and must not be invented retroactively until revealed in play.
+- Likewise, Korren's reason for current thrashing is not yet omnisciently established. He may have seen/heard/smelled signs concerning Mira, may be reacting to restraint, or may have another immediate trigger; reveal through observable behavior/dialogue rather than narrator mind-reading.
+- Foreign villagers know Korren's reputation and old history with the chief's deceased daughter. His arrival therefore draws fear, anger, curiosity, and crowd attention, but do not portray every villager as sharing one emotional response.
+- The chief previously stated he would genuinely allow Korren a path to join and teach him restraint, answerability, communal boundaries, and accepting judgment/no. Sahra previously said she would not oppose that attempt. Those positions remain canon despite the charged manner of Korren's arrival.
+- Mira has not yet told Korren about the suspected pregnancy or miscarriage. Korren knew only that Senna had considered pregnancy possible/unconfirmed before Mira became lost. He does not know the loss unless someone tells him in play.
+- Mira/Korren remain bonded mates. No telepathy exists; the bond does not transmit thoughts, emotions, pregnancy, miscarriage, or location. At close range their matched audible/physical hum can again be perceived normally.
 
 ## Continuity
-- Mira/Korren remain bonded mates despite physical separation and Sahra's possession of the mate-beads.
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
-- Mira remains emotionally raw from the human women's exclusion, miscarriage, and the foreign tribe's unexpected offer of family/belonging.
-- Current local wardrobe: multiple adult women's wet-hot-climate outfits fitted specifically to Mira, including decorative blue-green, rust-red, moss-green and related pieces. Her own dirty light Vahn-rii-era dress remains her property.
-- Current carried kit for village exploration: woven shoulder satchel; water vessel; small provisions; clean cloth/basic recovery supplies; small sheathed utility knife.
-- **Footwear:** local craftworker is currently fitting Mira for custom adult sandals; prototype pair exists but is not yet established as finished/permanent inventory.
-- Pregnancy loss is canon. Cause unknown. No conclusions about future human/Kael'tha fertility can be drawn from this single loss.
+- Current local wardrobe: multiple adult women's wet-hot-climate outfits fitted specifically to Mira. Her own dirty light Vahn-rii-era dress remains her property.
+- Current carried kit: woven shoulder satchel; water vessel; small provisions; clean cloth/basic recovery supplies; small sheathed utility knife.
+- Mira's Vahn-rii river-stone mate-bead cord remains intact and physically held by Sahra, off Mira.
+- Pregnancy loss is canon; Korren does not yet know. Cause unknown.
+- Korren is now visibly present inside the foreign village, bound around torso/hands and resisting. Exact capture/border circumstances pending revelation.
 - Sahra/chief family: deceased adult daughter once chose Korren; two adult living sons with families warmly welcomed Mira as a sister, though Mira has not formally accepted that status.
-- No telepathy exists. The bond is physical pull plus audible harmonic and does not allow Korren to track Mira remotely.
+- No telepathy exists. Bond = physical pull plus audible harmonic only.
 
 ## Hidden GM canon — not known in-world
 - Six women deliberately selected from thousands for a reproductive/bond experiment; selection includes health/childbearing age and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
