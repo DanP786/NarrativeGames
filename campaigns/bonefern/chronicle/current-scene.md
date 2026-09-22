@@ -1,27 +1,25 @@
 # Current scene — foreign village, ~Day 78–83, evening
 
 ## Immediate scene
-- The day has advanced from morning into evening. Mira remains in recovery from miscarriage/early pregnancy loss but is physically improved enough for gentle ordinary activity; she has not been pushed into heavy labor.
-- Mira wants this village as home and wants Korren here with her. Korren has accepted Varesh's earn-a-place path, dislikes its duties/rules, but is genuinely applying himself and has committed not to take Mira away against her choice.
-- Mira has verbally embraced Sahra/Varesh as chosen parents, calling them **Mother** and **Father**; both call her daughter. Formal daughter ceremony remains pending/unperformed.
-- Mira wears fitted foreign-village clothing, Sahra's decorative local hair beads, her Vahn-rii river-stone mate-bead cord, and her newly completed custom sandals.
-- **Mira spends much of the day beginning her household water project.** Using her Adept filtration/life-support competence, she surveys rather than rushing construction: traces the existing water-fetch route/source, compares elevation/grade relative to Sahra and Varesh's kitchen, examines drainage, storage practices and available low-tech materials, and starts identifying a plausible gravity-fed route if terrain permits. She is serious about eventually incorporating filtration as well, but does not bolt an untested filter onto the first water-delivery attempt; source quality, flow, media, cleaning/backwash/replacement and maintenance all matter.
-- Mira's work is meaningful technical contribution, not magical modern infrastructure appearing instantly. Available local materials and labor constrain the design. She can explain principles and begin layout/prototyping; a durable household system will take continued work. Her filtration expertise is the strongest part of her competence, while fabrication remains supported by only Novice Practical Hands and local craftspeople/material knowledge may be needed.
-- **Korren is equally dedicated elsewhere throughout the day to Varesh's earn-a-place obligations.** He does not abandon or shirk the work merely because he dislikes being ordered. Exact individual tasks are not yet canonized, but his visible conduct establishes sustained effort and compliance with village expectations/boundaries rather than a token appearance.
-- **Mira and Korren meet again in the evening after spending the day separately working toward the same larger goal: making a life in this village.** Their reunion is the current scene opening. The bond's low audible harmonic becomes perceptible again only as they come into close range; it has not functioned as tracking during the day.
-- Korren's one-night exception beneath Varesh's roof is over. His sleeping place for tonight remains unestablished and should be addressed naturally this evening if relevant.
-- Formal daughter ceremony remains pending.
+- Mira and Korren have reunited in the evening after spending the day separately working toward making a life in the foreign village. Mira remains in miscarriage recovery but is physically improved enough for gentle ordinary activity.
+- Mira calls Sahra/Varesh **Mother** and **Father**; both call her daughter. Formal daughter ceremony remains pending/unperformed.
+- Mira spent much of the day surveying/planning a gravity-fed household water-delivery system for Sahra/Varesh and intends eventually to add maintainable filtration. No finished system exists yet. Her Adept filtration/life-support competence supports the project, while local materials and fabrication constraints remain real.
+- Korren spent the day seriously performing Varesh's earn-a-place obligations rather than shirking. **When Mira asks, "What did Father have you do today?" Korren explains today's concrete work:** Varesh assigned him to labor with a village work crew repairing/clearing a storm-damaged drainage and runoff channel along the lower settlement edge, including hauling stone/timber and digging/clearing packed debris. Korren was required to work under another villager's direction rather than take command, remain within the assigned work area, and ask/receive permission before leaving it even briefly. The physical labor itself was easy enough for him; accepting correction, waiting, and not substituting his own judgment for the assigned lead were the actual lesson.
+- Korren complied through the day despite irritation. He did not walk off, seize control, or turn the assignment into a contest. This is meaningful progress in Varesh's intended teaching: communal answerability and respecting authority/boundaries even when Korren believes he could do something differently or faster.
+- The repaired drainage work is ordinary village infrastructure, not punishment theater; it benefits the settlement. Varesh's method is to make Korren contribute while practicing the exact restraint he historically lacked.
+- Mira is wearing fitted foreign-village clothing, Sahra's decorative hair beads, her Vahn-rii mate-bead cord, and her new custom sandals. She has dirt on one knee/hair slightly escaped from the day's work.
+- Their low matched bond-harmonic is audible again at close range; no telepathy/tracking.
+- Korren's one-night exception beneath Varesh's roof is over. His sleeping place for tonight remains unestablished and may become relevant this evening.
 - Korren's blade remains surrendered unless later established otherwise.
 
 ## Continuity
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
-- Mira is **Adept in filtration & life-support systems (14 ticks)** and Novice in Practical Hands (3 ticks). Her water project should reflect real expertise plus low-tech constraints.
-- Mira has begun planning/surveying a household water-delivery system for Sahra/Varesh and intends eventually to add appropriate filtration. No finished running-water or filtration system exists yet.
-- Foreign chief: **Varesh**; his mate: **Sahra**. Mira calls them Father and Mother; formal daughter ceremony remains pending.
-- Mira owns/wears fitted local clothing, local hair beads, Vahn-rii mate-bead cord, and custom sandals fitted to her human feet.
-- Korren has spent the day seriously performing Varesh's earn-a-place work/obligations rather than shirking. Exact task details remain unestablished.
-- Mira and Korren reunite in the evening after a day spent apart and productively occupied.
-- Exact daughter ceremony details, Korren's tonight/longer-term sleeping arrangement, exact work assignments, and criteria/timeline for earning permanent place remain unestablished.
+- Mira is Adept in filtration & life-support systems (14 ticks), Novice Practical Hands (3 ticks).
+- Mira has begun planning/surveying household running water and later filtration; nothing finished yet.
+- Varesh assigned Korren today to a village crew repairing/clearing a lower-settlement drainage/runoff channel, hauling material and clearing debris under another villager's direction.
+- Korren's behavioral constraints today: work where assigned, follow the crew lead, accept correction, and ask before leaving the work area. He complied despite frustration.
+- Mira and Korren are together in the evening after their separate workdays.
+- Formal daughter ceremony remains pending. Korren's tonight/longer-term sleeping arrangement and criteria/timeline for earning permanent place remain unestablished.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
