@@ -1,16 +1,16 @@
-# Current scene — foreign village, ~Day 78–83, evening
+# Current scene — foreign village, ~Day 78–83, night
 
 ## Immediate scene
-- Mira, Korren, Sahra, and Varesh are sharing the evening meal in Sahra/Varesh's household. Mira remains in miscarriage recovery but is physically improved enough for gentle ordinary activity.
+- Evening meal has ended at Sahra/Varesh's household. Mira remains in miscarriage recovery but is physically improved enough for gentle ordinary activity.
 - Mira calls Sahra/Varesh **Mother** and **Father**; both call her daughter. Formal daughter ceremony remains pending/unperformed.
-- Mira spent much of the day surveying/planning a gravity-fed household water-delivery system for Sahra/Varesh and intends eventually to add maintainable filtration. Korren spent the day seriously performing Varesh's earn-a-place obligations, including drainage work under another villager's direction.
-- During dinner Varesh reports Rethan found Korren irritating but confirms Korren followed instructions, asked before leaving his assigned section, accepted correction, and did not substitute his preferred faster method after being told no. Varesh acknowledges this with a simple "Good." Sahra mentions Mira's water project and Mira begins explaining it.
-- **Later in the meal Mira asks Korren, "When did you know I was missing?"** This refers to Mira leaving the Vahn-rii settlement after the women's meeting, becoming lost for hours, and eventually being found/taken to the foreign village.
-- Korren answers carefully from his own knowledge rather than bond-omniscience: the bond did **not** tell him where Mira was and is not a tracking mechanism. He knew something was wrong when Mira failed to return within the ordinary span he expected after she left/walked away and people who might reasonably have seen her could not say where she had gone. He began looking once absence became abnormal, then followed ordinary sign/information rather than supernatural direction. Exact minute/hour and precise Vahn-rii search sequence were not previously established and should not be over-specified retroactively.
-- Korren can admit the experience frightened him, particularly because Mira had left distressed and was not an experienced wilderness traveler. His eventual arrival at the foreign boundary came through searching/travel/sign and learning she had been taken into another territory, not through sensing her location through the bond.
-- Sahra and Varesh are present for the question unless Mira/Korren deliberately move it private later; they may hear what is said aloud.
-- Mira wears fitted foreign-village clothing, Sahra's decorative hair beads, Vahn-rii mate-bead cord, and custom sandals.
-- Korren's one-night exception beneath Varesh's roof is over. His sleeping place tonight remains unestablished.
+- Mira spent the day surveying/planning a gravity-fed household water-delivery system for Sahra/Varesh and intends eventually to add maintainable filtration. Korren spent the day seriously performing Varesh's earn-a-place obligations, including drainage work under another villager's direction.
+- During dinner Mira asked when Korren knew she was missing. Established: he recognized her absence had become abnormal, searched using ordinary sign/questions/information, and eventually learned she had been taken into the foreign territory. The bond did not track her. Korren admitted he was afraid. Mira emphasized that he came to the boundary and did not cross.
+- **After dinner Mira and Korren take far too long saying good night for Sahra's liking.** Their repeated affectionate lingering/kissing at the household threshold/path is consensual, romantic and non-explicit. Korren's one-night exception beneath Varesh's roof is over, so they are genuinely separating for the night.
+- **Sahra eventually intervenes physically and maternally:** she takes/hauls Mira back inside rather than allowing the goodbye to continue indefinitely, with the affectionate authority she has increasingly used around meals/rest/recovery. This is comic/familial rather than hostile; Mira is an adult and Sahra's behavior should not erase that.
+- Sahra hands Mira a cup of the same/similar **pale, rich local drink that reminds Mira of coconut milk but is not coconut milk** (local ingredients/name remain unestablished). It is comforting food/drink, not medicine unless later established. Do not call it actual coconut milk.
+- Korren must sleep elsewhere tonight under Varesh's assignment/rules. **Exact sleeping location remains unestablished**; do not invent it until relevant/established.
+- Mira wears fitted foreign-village clothing, Sahra's decorative hair beads, Vahn-rii mate-bead cord, and custom sandals. She may remove/settle these naturally for sleep next turn.
+- Their matched low bond-harmonic fades with physical distance; no telepathy/tracking.
 - Korren's blade remains surrendered unless later established otherwise.
 
 ## Continuity
@@ -18,9 +18,9 @@
 - Mira has begun planning household running water and later filtration; nothing finished yet.
 - Korren is trying to earn acceptance into Varesh's tribe; no formal tribe change has occurred.
 - Vahn-rii must eventually be informed/obligations settled if Varesh's people accept Korren; formal transfer details remain unestablished.
-- Current scene remains the four-person evening meal.
-- **Established regarding Mira's disappearance:** Korren did not locate/sense her through the bond. He recognized an abnormal absence, searched using ordinary means/sign/information, and eventually learned her trail/situation led toward the foreign territory. Exact search chronology remains intentionally unestablished unless discovered later.
-- Formal daughter ceremony remains pending. Korren's tonight/longer-term sleeping arrangement and criteria/timeline for earning permanent place remain unestablished.
+- Mira and Korren have separated for the night after an excessively prolonged affectionate goodbye; Sahra finally pulled Mira inside.
+- Sahra gave Mira a pale rich local drink that evokes coconut milk to Mira but is **not coconut milk**. Its native name/composition remain unestablished.
+- Formal daughter ceremony remains pending. Korren's tonight/longer-term sleeping assignment and criteria/timeline for earning permanent place remain unestablished.
 - No telepathy exists; bond is physical pull/close-range audible harmonic only and cannot track at distance.
 
 ## Hidden GM canon — not known in-world
