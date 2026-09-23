@@ -1,21 +1,24 @@
 # Current scene — foreign village, ~Day 82–87, morning after naming
 
 ## Immediate scene
-- Morning after Mira's daughter naming celebration. Mira and Korren remain together briefly in Korren's assigned guest/workers' sleeping shelter after Varesh's explicit one-night exception.
-- Mira is **undressed except for her Vahn-rii river-stone mate-bead cord**, which she chose to keep on. Her long dark hair is loose/tousled and traces of ceremonial face/body paint remain smudged/faded from the previous night. This is private adult intimacy; keep narration romantic/suggestive rather than explicit.
-- Mira and Korren kiss. **Korren uses the mate-cord at Mira's waist to tug/draw her closer at her request/with established mutual comfort**, a possessive but consensual affectionate gesture. Do not treat the cord as restraint or imply nonconsent.
-- The low matched bond-harmonic is audible at close range; no telepathy.
-- Ceremony ornaments are safely gathered in the shelter after Mira/Korren removed them together before sleep. Mira's mate-cord remains worn and is not discarded.
-- Mira remains in miscarriage recovery without a newly established complication. No graphic sexual activity or medically risky exertion is established by this beat.
-- The one-night permission expires with morning. Mira is expected to return to Sahra/Varesh's household routine, while Korren resumes Varesh's earn-a-place work. This private morning does not confer tribal membership or permanent cohabitation rights.
-- Korren's accommodation remains a modest separate temporary shelter assigned during his earn-a-place period: serviceable/dry, sleeping pallet/furs, space for few belongings, not a permanent household.
-- Mira's water project remains in progress. Korren's earn-a-place process remains in progress; no formal Vahn-rii tribe transfer yet. Korren's blade remains surrendered unless later established otherwise.
+- Morning after Mira's daughter naming celebration, in Korren's assigned guest/workers' sleeping shelter after Varesh's explicit one-night exception.
+- Mira and Korren's private morning kissing/affection becomes increasingly heated but remains non-explicit. Mira is undressed except for her Vahn-rii river-stone mate-bead cord; Korren has been using the cord to draw her close with mutual comfort/consent. Her hair is loose/tousled and ceremonial paint remains faded/smudged.
+- **A knock abruptly interrupts them before the intimacy progresses further.** Someone outside has come to call/remind Korren that it is time for his assigned work under Varesh's earn-a-place rules. The caller's identity is not established unless later needed.
+- **Korren is distinctly unhappy about the timing.** His irritation is directed at the interruption/obligation, not at Mira. He knows the one-night exception is over and that refusing or delaying work would undermine exactly what he has been trying to prove. He therefore has to stop, dress/prepare, and report for work despite wanting to remain with Mira.
+- This beat reinforces Varesh's lesson: belonging requires accepting obligations and other people's authority even when inconvenient, including when Korren strongly prefers something else.
+- Mira remains in miscarriage recovery without a newly established complication. No graphic sexual activity or medically risky exertion occurs.
+- Ceremony ornaments are safely gathered in the shelter. Mira's mate-cord remains worn/property. She will need to dress before leaving the shelter; exact outfit for the day not yet selected.
+- Mira is formally/publicly **Mira, daughter of Sahra and Varesh**, retaining Mira Holloway. Sahra/Varesh are her chosen Mother/Father; their two adult sons/families are her kin.
+- The one-night permission has now expired. Mira returns to Sahra/Varesh's household routine; Korren resumes earn-a-place work. This night did not confer tribal membership/permanent cohabitation.
+- Mira's water project remains in progress. Korren's earn-a-place process remains in progress; no formal Vahn-rii transfer yet. Korren's blade remains surrendered unless later established otherwise.
+- No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: early morning, private in Korren's temporary lodging, kissing/holding one another before they must separate for the day's routines.
-- Mira is currently undressed except for the **visible Vahn-rii mate-cord at her waist**; Korren has drawn her closer by the cord during their kiss.
+- Current moment: early morning in Korren's temporary lodging, **immediately after a knock has interrupted Mira/Korren's increasingly heated but non-explicit intimacy because Korren is due at work.**
+- Korren is frustrated/unhappy about the interruption but knows he must comply if he intends to keep earning a place.
+- Mira is currently undressed except for her visible Vahn-rii mate-cord; she must dress before returning to normal village activity.
 - Mira is formally daughter of Sahra/Varesh and kin to their sons/families.
-- Varesh's permission was for one night only; normal separate lodging/work expectations resume today unless changed in play.
+- Varesh's one-night permission is over; normal separate lodging/work expectations resume.
 - Korren remains Mira's mate and is still earning a place, not yet a member.
 - Water project remains in progress; no formal Korren tribe change yet.
 - No telepathy exists.
