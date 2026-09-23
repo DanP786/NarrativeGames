@@ -1,22 +1,23 @@
-# Current scene — foreign village, ~Day 81–86, ceremony night, later
+# Current scene — foreign village, ~Day 81–86, ceremony night, very late
 
 ## Immediate scene
-- Mira's daughter naming is formally complete: she is publicly recognized as **Mira, daughter of Sahra and Varesh**, while retaining her human name Mira Holloway. Sahra/Varesh are formally her chosen Mother/Father; their two adult sons and families are her kin. The deceased daughter is not replaced/erased.
-- **The celebration has moved fully into feasting, drinking, music and dancing.** Mira has eaten and drunk her fill before joining the dancing. Her recovery remains relevant: she is physically improved, but dancing is joyous/social rather than punishing athletic exertion, and she can rest when needed.
-- Mira first learns the village's dancing by watching and joining: communal rhythms, repeated foot patterns, turns, shoulder/arm movements and group responses that can be picked up socially without prior training. She is not suddenly expert; she misses steps, laughs, follows other dancers and improves through repetition.
-- **Mira then teaches the villagers dances from her own Puerto Rican cultural memory/upbringing.** This is an important reciprocal cultural moment: she is not only being absorbed into alien custom; she brings something of Earth and her Puerto Rican family into the village and has Kael'tha relatives/neighbors attempt her rhythms and movements. Keep any named dance/music traditions accurate if later specified by the player; at present, the broad fact of Puerto Rican dance teaching is established without locking a single specific dance form.
-- Mira's short human proportions and strongly curving build make some local movement patterns look different on her than on Kael'tha bodies; conversely, Kael'tha height, long limbs and predator-built balance make Mira's taught steps look different when they imitate her. The scene is affectionate/comic/community-building, not exoticizing.
-- Mira's ornate ceremonial outfit remains on: blue-green/deep-moss layers, rust/amber accents, many ornaments, elaborate decorated hair, local face/body paint, decorated custom sandals and visible Vahn-rii mate-cord. The many beads/shells make audible movement while she dances; some hair may loosen naturally over the long celebration.
-- Korren is present and can watch/join/react if he acts, but his separate earn-a-place process remains unfinished. The naming ceremony does not confer tribal membership on him. Mira's new family does not require her to reject him.
-- Mira's water project remains in progress. Korren remains not formally transferred from Vahn-rii; blade still surrendered unless later established otherwise.
+- Mira's daughter naming is formally complete: she is publicly recognized as **Mira, daughter of Sahra and Varesh**, while retaining Mira Holloway. Sahra/Varesh are formally her chosen Mother/Father; their two adult sons and families are her kin. The deceased daughter is not replaced/erased.
+- The celebration continues deep into the night with food, drink, music, dancing, laughter and family/community contact. Mira has eaten/drunk her fill, learned village dances, and taught movements/dances from her Puerto Rican cultural memory. She has danced with Korren as well as villagers/family. Her ceremonial hair is increasingly loosened and the face paint/ornaments show the wear of a long happy night.
+- Mira remains in miscarriage recovery without a newly established complication; she rests as needed and is not pushed into punishing exertion.
+- **For this naming night only, Varesh permits Mira to sleep with Korren in Korren's assigned accommodation.** This is a deliberate one-night exception/celebratory allowance for Mira, not an acceleration of Korren's membership and not permission for Korren to sleep under Varesh's roof. Mira goes to Korren's lodging rather than Korren being admitted to Sahra/Varesh's household.
+- **Korren's accommodation is now minimally established:** while undergoing the earn-a-place process, he has been assigned a modest separate guest/workers' sleeping shelter within the village rather than Sahra/Varesh's house. It is serviceable and protected, with a sleeping pallet/furs and basic space for his few current belongings, but is not yet a permanent household or proof of membership. Avoid inventing further architectural/property details unless needed.
+- Varesh makes clear the permission is one night. Sahra is likely to fuss over Mira before letting her go, but the permission itself stands. Mira is an adult and the allowance concerns household/village boundaries, not parental control over whether she may be intimate with her mate.
+- Mira and Korren can have private affectionate time after the celebration; keep sexual content non-explicit/fade-to-black if it develops.
+- Mira's ornate ceremonial outfit remains on at the end of the public celebration: blue-green/deep-moss layers, rust/amber accents, ornaments, loosened decorated hair, ceremonial face/body paint, decorated custom sandals, and visible Vahn-rii mate-cord. She may remove these naturally in private.
+- Mira's water project remains in progress. Korren's earn-a-place process remains in progress; this exception does not confer tribal membership. No formal Vahn-rii transfer yet. Korren's blade remains surrendered unless later established otherwise.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: **later at night during Mira's naming celebration, after she has eaten/drunk her fill; Mira is dancing with the village.**
-- Mira has learned/attempted local village dances and is now also teaching dances from her Puerto Rican background, bringing a piece of her human family/culture into her new alien family.
-- Do not portray Mira as instantly technically expert at unfamiliar Kael'tha dances; learning is social, playful and iterative.
-- Mira is formally daughter of Sahra/Varesh and kin to their sons/families.
-- Mira retains visible Vahn-rii mate-cord; Korren remains her mate and is present while still undergoing Varesh's separate earn-a-place process.
+- Current moment: very late on Mira's naming-celebration night; festivities are winding down gradually but still active in pockets.
+- Mira has been formally named daughter, celebrated, danced local dances and shared Puerto Rican dancing with the village/Korren.
+- **Varesh permits Mira to spend this one night with Korren in Korren's assigned village accommodation.** Korren is still not allowed to sleep under Varesh's roof and remains not formally accepted into the tribe.
+- Korren's lodging is a modest separate guest/workers' sleeping shelter assigned during his earn-a-place period; serviceable, temporary, not a permanent home.
+- Mira retains her visible mate-cord and remains Korren's mate; tonight gives them private sleeping time together without changing Korren's status.
 - Water project remains in progress; no formal Korren tribe change yet.
 - No telepathy exists.
 
