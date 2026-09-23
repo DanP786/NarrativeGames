@@ -1,32 +1,27 @@
 # Current scene — foreign village, ~Day 81–86, ceremony day, evening
 
 ## Immediate scene
-- **Mira's daughter naming celebration is underway.** The decorated village gathering space is crowded with food, firelight, greenery and ornaments. This is a communal chosen-family ceremony, not a mating/wedding rite.
-- Mira calls Sahra/Varesh **Mother** and **Father**; they already call her daughter. The evening publicly formalizes that relationship before the village.
-- **Sahra and Varesh's two adult living sons are positioned close to them for the naming, together with their own families.** This makes the ceremony visibly a reception into an existing family rather than only a symbolic relationship with the chief and his mate: Mira is being placed alongside living brothers and their households, while the absence/memory of Sahra and Varesh's deceased adult daughter remains part of the family's history without making Mira a replacement for her.
-- Exact names, ages, mates, number/ages of children and individual personalities of the two sons/families remain **unestablished** and should not be invented in detail until they act/speak or are named in play. They may be present as close family without receiving unnecessary screen time.
-- Mira is dressed in over-elaborate local ceremonial formalwear fitted to her human proportions: layered blue-green/deep-moss fabric/hide with rust/amber accents and patterned edging, many bead/seed/shell/stone ornaments, worked arm/shoulder adornment, elaborate hair decorations, and local ceremonial face/body paint. The paint is familial/festival decoration, not a mating/bond mark.
-- Mira's **Vahn-rii river-stone mate-bead cord remains visibly at her waist by her choice**, incorporated rather than hidden. Her decorated custom sandals remain worn. Becoming Sahra/Varesh's daughter does not require rejecting Korren or her Vahn-rii mating bond.
-- Korren has seen Mira's completed appearance and is visibly struck by her; he remains present as her mate but does not insert himself into the central family rite. His separate earn-a-place process remains unfinished.
-- Varesh has taken one of Mira's hands and Sahra the other and is bringing her toward the center of the gathering. Korren remains where she left him, watching. Varesh has raised his free hand and the village has fallen quiet: **the formal naming is beginning now.**
-- Exact formal words, sequence, added family/daughter name, gifts, and ritual mechanics remain not fixed until spoken/performed in play.
-- Mira remains in miscarriage recovery without newly established complication; the celebration does not demand punishing exertion.
-- Mira's water project remains in progress, not completed. Korren's earn-a-place work remains in progress; no formal tribe change yet.
-- Korren continues sleeping separately under Varesh's rules unless changed later. Exact lodging remains unestablished. His blade remains surrendered unless later established otherwise.
+- **Mira's daughter naming ceremony has formally begun.** The decorated gathering space is crowded with village witnesses, food, firelight, greenery and ornaments. This is a chosen-family rite, not a mating/wedding rite.
+- Mira stands between Sahra and Varesh in the central family position. Their two adult living sons and their families stand close behind/beside them, visibly receiving Mira into an existing family. The deceased adult daughter is not replaced or erased by Mira.
+- Mira is in over-elaborate local ceremonial formalwear fitted to her human proportions: blue-green/deep-moss layers with rust/amber accents, patterned edging, many bead/seed/shell/stone ornaments, worked arm/shoulder adornment, elaborate hair decorations, and local ceremonial face/body paint. Her Vahn-rii river-stone mate-bead cord remains visibly at her waist by her choice; decorated custom sandals remain worn.
+- **Varesh leads the formal naming.** He frames the rite around chosen kinship and public responsibility rather than ownership: Mira came among them without birth-kin, was sheltered and cared for, then freely chose to call Sahra Mother and Varesh Father. Before witnesses he asks/affirms that this choice is still hers now, making the ceremony answer Mira's stated will rather than presume it.
+- Varesh publicly declares that receiving a daughter creates obligations in both directions: their household/family owes Mira shelter, food, protection, truthful counsel, a place at their fire, and recognition of her choices; Mira receives kinship and standing rather than becoming property. The family's sons/households are included as her new brothers/kin without detailed names yet.
+- **Naming mechanic established:** Mira keeps her own name, **Mira Holloway**. The rite does not erase or replace it. Varesh publicly names/recognizes her as **Mira, daughter of Sahra and Varesh**, with her existing personal name carried into the family. No additional invented tribal surname is imposed at this stage.
+- The ceremony includes Mira being asked aloud whether she accepts Sahra and Varesh as Mother and Father and this family as her kin; Mira's answer remains for the player unless supplied. The public recognition is completed only after her explicit answer.
+- Korren stands outside the central family grouping, present as Mira's mate and witness. He does not interrupt or treat the rite as his. His separate earn-a-place process remains unfinished. The visible mate-cord demonstrates that Mira's new family does not require rejection of Korren/Vahn-rii bond.
+- Sahra is emotionally invested and proud; Varesh performs the public words with gravity and restraint. Village response/celebration follows Mira's answer.
+- Mira remains in miscarriage recovery without newly established complication. Water project remains in progress. Korren remains not formally accepted into the tribe; no tribe transfer yet. His blade remains surrendered.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
 - Mira is 26, fully adult, 5'2", Puerto Rican, warm brown/olive skin, long black/dark-brown wavy-curly hair, dark brown eyes, hourglass build.
-- Current moment: formal daughter naming is about to be spoken/performed in the center of the evening gathering.
-- Sahra/Varesh's **two adult sons and their families are close beside the parents**, visibly part of the family receiving Mira.
-- Their deceased adult daughter remains deceased and is not replaced/erased by Mira's adoption; Mira is a new chosen daughter in her own right.
-- Names/details of the two sons and their family members remain unestablished until needed.
-- Mira's outfit remains daughter/family ceremonial dress, not bridal dress; face paint is ceremonial decoration, not a mating/bond mark.
-- Mira retains her Vahn-rii mate-cord visibly and wears decorated custom sandals.
-- Korren is present at the celebration as Mira's mate while still undergoing Varesh's separate earn-a-place process.
-- Exact daughter-ceremony words, ritual sequence, any new/additional daughter/family/tribal name, gifts and formal symbols remain intentionally unestablished until performed.
-- Mira's water project remains in progress. Korren's earn-a-place process remains in progress; no formal tribe change yet.
-- Vahn-rii must eventually be informed/obligations settled if Varesh's people accept Korren; formal transfer details remain unestablished.
+- Current moment: Varesh is performing the formal daughter naming before the village and has reached the point where Mira must explicitly accept/answer.
+- Naming established: **Mira retains the name Mira Holloway and is publicly recognized as Mira, daughter of Sahra and Varesh.** No replacement name or new tribal surname imposed.
+- Rite meaning established: chosen kinship, public family responsibility, place/protection/counsel, and recognition of Mira's agency; not ownership, mating, or replacement of the deceased daughter.
+- Sahra/Varesh's two adult sons and their families stand close as the existing family receiving Mira; their names/details remain unestablished until needed.
+- Mira retains visible Vahn-rii mate-cord; Korren is present as witness/mate but outside the central family group.
+- **Mira's explicit ceremonial answer has not yet been supplied; do not decide it for her.**
+- Mira's water project and Korren's earn-a-place process remain in progress. No formal Korren tribe change yet.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
