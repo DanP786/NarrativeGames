@@ -1,26 +1,32 @@
-# Current scene — foreign village, ~Day 82–87, morning after naming
+# Current scene — foreign village, ~Day 89–96, several days after naming
 
 ## Immediate scene
-- Morning after Mira's daughter naming celebration. Korren has left for his required earn-a-place work, and Mira has returned from his temporary shelter to Sahra/Varesh's household after her conspicuous but permitted overnight stay.
-- **Mira washes up after the celebration/night:** she cleans away the remaining smudged ceremonial face/body paint, freshens herself, and deals with her loose/tousled hair. No new medical complication is established; she remains in miscarriage recovery and should not be pushed into punishing exertion.
-- Mira changes out of the rumpled daughter-ceremony clothes into a **rust/burnt-orange doublet** from her fitted foreign-village wardrobe. The exact cut/fastenings/layering are not yet locked beyond being a fitted local garment adapted to Mira's human proportions and suitable for ordinary daytime wear in the wet-hot climate. Do not over-specify until needed.
-- Her **Vahn-rii river-stone mate-bead cord remains worn at her waist** unless she later chooses otherwise. Her custom sandals remain available for daily wear.
-- Sahra has the gathered ceremony ornaments/clothing safe at the household after Mira returned carrying the decorations from Korren's shelter. They are not lost.
+- Several days pass after Mira's daughter naming celebration, settling into a new rhythm rather than jumping immediately to Korren's acceptance.
+- **By day Mira works on the village water project.** She applies her Adept filtration/life-support experience to practical local construction/planning: source-to-kitchen gravity flow remains the goal, with attention to grade, drainage, storage, source quality, weather, cleaning, stagnation and eventually maintainable filtration using local materials. She is deliberately designing for villagers to service the system without depending permanently on her. Progress is real but the complete system is not yet declared finished.
+- Mira remains in miscarriage recovery and is improving; she works usefully without being treated as capable of punishing labor. She commonly wears her fitted foreign-village wardrobe, including the rust/burnt-orange doublet established after the ceremony, her custom sandals, and her Vahn-rii river-stone mate-cord.
+- **By evening Mira spends time with Korren.** They can eat, talk, sit together, walk within permitted areas, kiss/hold one another and otherwise maintain their relationship. Their closeness remains visible and accepted as a mate-bond, but household boundaries remain enforced.
+- **Varesh does not permit Mira and Korren another overnight together until Korren is formally accepted into the tribe.** The naming-night stay remains the sole exception. Mira returns to Sahra/Varesh's household to sleep; Korren returns to his temporary guest/workers' shelter. This is now a clear standing condition rather than a nightly negotiation.
+- Korren is unhappy with the separation but complies. His continued compliance with an inconvenient boundary is part of demonstrating that he can live under communal authority rather than simply overriding it when his desire is strong.
+- **Korren's current major assigned labor is helping build a new village house.** He performs real construction work under village direction: carrying/fitting structural materials, preparing the site and doing whatever tasks local builders assign. Exact architecture/material specifics remain unestablished until needed.
+- **Hidden from Korren: the house he is helping build is intended to become his own household if/when he is accepted into the tribe.** The village leadership/builders know the intended purpose; Korren has not been told and believes he is simply contributing labor to a village construction project. Mira's knowledge of this secret is NOT established; do not assume she knows unless told in play.
+- The house is not proof that Korren's acceptance is guaranteed regardless of his conduct; it represents serious preparation/hope for his place if he completes the process. Formal acceptance still has to occur in play.
 - Mira is formally/publicly **Mira, daughter of Sahra and Varesh**, retaining Mira Holloway. Sahra/Varesh are her chosen Mother/Father; their two adult sons/families are her kin.
-- Varesh's one-night exception is over. Mira has returned to household/daytime routine; Korren has complied with his work obligation despite being unhappy about the interruption. The night did not confer tribal membership/permanent cohabitation.
-- Mira's water project remains in progress and is available as a likely daytime focus once she is washed/dressed. Korren's earn-a-place process remains in progress; no formal Vahn-rii transfer yet. Korren's blade remains surrendered unless later established otherwise.
+- Korren remains not formally transferred from Vahn-rii. His blade remains surrendered unless later established otherwise. The question of notifying/settling obligations with Vahn-rii remains for after/around formal acceptance and is not silently resolved by construction.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: morning at Sahra/Varesh's household, **after Mira has washed away the remains of the ceremony and changed into a fitted rust/burnt-orange doublet.**
-- Mira's ceremony outfit/decorations are safely back with Sahra/the household.
-- Mira's mate-cord remains visibly worn at her waist unless changed later.
-- Korren is at work under Varesh's earn-a-place rules.
-- Mira is formally daughter of Sahra/Varesh and kin to their sons/families.
-- Water project remains in progress and can resume today; Korren remains not yet a member/no formal tribe change.
+- Current moment: several days after the naming, during an established work/evening rhythm.
+- Mira spends days advancing the maintainable gravity-fed water project and evenings with Korren.
+- Mira/Korren are **not permitted another overnight together until Korren joins/is formally accepted into the tribe**; they separate to their respective sleeping places each night.
+- Korren continues earn-a-place labor and is currently helping construct a new village house.
+- **GM secret: the house Korren is building is intended for Korren (and, by implication if she chooses to share a household with her mate, potentially Mira) once he is accepted. Korren does not know. Mira's knowledge is unestablished.**
+- Mira remains formally daughter of Sahra/Varesh and kin to their sons/families.
+- Water project is progressing but not yet declared complete.
+- Korren remains not yet a tribe member; no formal Vahn-rii transfer yet.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
 - Six women deliberately selected from thousands for a reproductive/bond experiment; selection includes health/childbearing age and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
 - The experiment is testing, among other things, whether bonded human/Vahn-rii pairs can reproduce.
 - Native cave spores genuinely cause the ecological mating bond. Implants DO NOT cause/control the bond or mind-control women; implants include translation and other experiment infrastructure.
+- The house Korren is currently helping build is intended as his future village household if he is formally accepted. Korren does not know this. Mira has not been established as knowing it.
