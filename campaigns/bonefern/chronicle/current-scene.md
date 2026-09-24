@@ -2,26 +2,28 @@
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
-- Mira has been covertly retrieved by experiment operators and is regaining consciousness beneath painfully bright artificial lights aboard her former colony ship, the ***Helia-Voss***. A clinician has told her she has been away for **134 days** and is now back aboard the ship.
-- Mira remains strongly affected by sedation: dry mouth, heavy limbs, blurred/overbright vision, incomplete orientation. The overhead clinical lights are still painfully bright to her and make focusing difficult.
+- Mira has been covertly retrieved by experiment operators and is regaining consciousness aboard her former colony ship, the ***Helia-Voss***. A clinician has told her she has been away for **134 days** and that she and the other selected women were deliberately placed planetside and monitored.
+- Mira remains affected by sedation: dry mouth, heavy limbs, blurred vision, weakness and incomplete orientation. The examination lights were dimmed to twenty percent after she struggled with their brightness.
 - Personnel have discussed stable vitals, mild/non-dangerous dehydration, prior pregnancy loss with satisfactory healing/no acute complication, and sedation clearing. Mira accepted a small sip of water.
 - Mira overheard that personnel collected sufficient semen from her vaginal canal while she was unconscious/sedated, establishing nonconsensual intimate reproductive sampling. Do not eroticize or graphically describe it. Exact technique/additional examinations remain unestablished.
-- Mira asked **“Korren..?”** and learned he is not aboard and was not retrieved. When she asked **“..why?”**, personnel explained that retrieval authorization targeted Mira; Korren is outside the human study cohort and bringing a Kael’tha adult aboard was not authorized. They described Mira as a human study participant whose medical/reproductive data required recovery, while not claiming she knowingly consented.
-- Mira now struggles out: **“I….. don’t…. Understand.”** Her confusion is compounded by sedation and the painful light.
-- The nearby clinician responds to her physical distress by reducing/dimming the overhead illumination rather than demanding she adapt to it. This is basic clinical care, not evidence of benevolent motives. The room becomes less punishing but remains unmistakably sterile/technological.
-- The clinician begins explaining in simpler terms: Mira and the other selected human women were intentionally placed on the planet as part of a monitored study; her presence there was **not an accident**. This is a major revelation available directly to Mira. The clinician does not yet need to disclose selection psychology, every experiment aim, the other women's current presence/pregnancies, or all implant functions.
-- The full specific decision trigger for retrieving Mira now remains unresolved; do not invent current pregnancy. Mira is not currently established pregnant.
+- Mira asked for Korren and learned he is not aboard and was not retrieved. Personnel said retrieval authorization targeted Mira and that bringing a Kael’tha adult aboard was not authorized.
+- Personnel have now revealed that Mira's placement was deliberate: **“The Helia-Voss never lost you. We put you there.”**
+- Mira asks **“Why?”** while trying to sit up. Because of residual sedation/weakness, sitting is difficult: her arms tremble and balance lags, but she is not forcibly pinned down. The clinician instinctively offers a steadying hand/support and can raise the medical platform if she permits it.
+- The clinician now gives the first plain statement of the experiment's central scientific purpose: **the mission discovered evidence that a native biological agent associated with the cave ecology could form an unusually strong pair-bond response between Kael’tha and humans; the study was designed to determine whether cross-species bonding could occur reliably and whether bonded human–Kael’tha pairs were reproductively compatible.** This is the experiment's real core, though the clinician may use sterile institutional language.
+- The clinician does **not** claim the implant creates or controls the bond. Native cave spores genuinely cause it. Personnel can say they suspected/identified an environmental biological mechanism, but exact spore science and how much they knew before deployment can unfold later.
+- The clinician need not yet reveal the psychological selection criterion (women predisposed toward accepting being controlled/claimed/kept under suitable circumstances), the other women's pregnancies/current locations, every implant function, or the precise trigger for Mira's retrieval.
+- Mira is not currently established pregnant. Do not invent a current pregnancy.
 - Mira's fresh Vahn-rii return-promise stain and mate-cord status remain continuity-sensitive and not yet observed by her after waking. Do not assume operators removed/destroyed them until she perceives this.
 - Hidden truth: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies under the operators' post-miscarriage intervention policy. Mira's retrieval includes reproductive sample collection, but its precise trigger remains unresolved.
 - Korren's last known state off-screen: after learning all four missing women were bonded, he inferred Mira might be unsafe and immediately left Vahn-rii for Soryn-rii. Ada followed despite his refusal to take responsibility for her. He does not yet know Mira has been taken.
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira, still sedated and overwhelmed by the too-bright lights, says **“I….. don’t…. Understand.”**
-- A clinician dims the lights and starts reducing the institutional language to plain terms: Mira's placement planetside was intentional and part of a monitored study, not an accident.
+- Current moment: Mira asks **“Why?”** and tries to sit up while still weak from sedation.
+- The clinician begins revealing the experiment's purpose: testing whether the native cave biological bonding mechanism works across human/Kael’tha pairings and whether bonded pairs can reproduce.
 - Do not supply Mira's thoughts/emotional reaction.
-- Do not yet reveal selection psychology, all implant functions, the other women's current pregnancies/presence, ship destination, or Mira's precise retrieval trigger unless learned in scene.
-- Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there; Mira is aboard the ship learning she was deliberately placed on the planet.
+- Do not yet reveal psychological selection criteria, all implant functions, other women's pregnancies/current locations, ship destination, or Mira's precise retrieval trigger unless learned in scene.
+- Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there; Mira is aboard the ship learning that her bond and reproductive life were objects of a deliberate human experiment.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
