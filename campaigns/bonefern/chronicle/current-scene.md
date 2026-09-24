@@ -2,24 +2,24 @@
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
-- After Mira explicitly asked to be returned to Korren, *Helia-Voss* personnel sedated her again. Mira wakes aboard the ***Helia-Voss*** in a cell/secured room resembling compact shipboard bunk quarters, but stripped of personalization and loose objects.
-- Mira wears **Helia-Voss patient clothing**. Her previous azure-and-rust local clothes are missing/unknown. **The Vahn-rii return-promise stain remains on her skin**, visible on her exposed arms and continuing beneath the garments. Her green river-stone mate-bead cord status remains unestablished until checked.
-- Residual sedation leaves Mira heavy-headed, dry-mouthed, weak and physically slowed. She has nevertheless stood from the bunk and remains upright by bracing against the wall.
-- The secured door has no ordinary crew control on Mira's side. The lock cycles and Mira chooses to **wait** rather than rush the opening door.
-- The door opens onto a clean *Helia-Voss* corridor. **The third speaker from the medical bay enters:** an older human doctor/research lead in clinical whites, carrying a thin display. Their exact name, title and gender remain unestablished unless introduced. A second ship-security/medical staff member remains outside in the corridor rather than crowding Mira, making clear the visit is controlled and the door is guarded.
-- The research lead notices Mira is already standing despite residual sedation and clinically notes her rapid recovery/adaptation. They are the same person who expressed satisfaction at Mira's persistent attachment to Korren and described her experimental outcome as valuable.
-- The lead has come to continue assessment/explanation rather than release Mira. The door remains controlled from outside; Mira is still confined.
-- Before this second sedation, personnel revealed: Mira and five other women were deliberately selected/deployed; the study tests native cave-spore human–Kael’tha bonding and reproductive compatibility; selection involved reproductive health, conventional human attractiveness and psychological profiles thought more likely to adapt to possessive/claiming pair dynamics; operators consider Mira's durable bond, natural conception and continued relationship valuable results; they still hope to obtain another pregnancy from her. Mira is **not currently established pregnant**, and no new insemination has been established.
-- Personnel collected semen from Mira's vaginal canal while she was unconscious during first recovery. Exact plans for that sample remain unknown.
+- Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
+- Residual sedation leaves Mira weak and heavy-headed, but she has stood and remains upright by bracing against the wall.
+- The older research lead/third voice from the medical bay has entered with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
+- Mira asks the lead directly: **“Why are you doing this?”**
+- The lead answers from the program's utilitarian/scientific perspective rather than apologizing: humanity's colony mission encountered a sapient species biologically close enough for an unprecedented native bonding mechanism to affect humans and for at least one cross-species conception (Mira's) to occur. They regard determining whether this is reproducible, whether pregnancies can survive, and what the mechanism means for future human contact/settlement as knowledge too consequential to leave unstudied.
+- The lead acknowledges in substance that ordinary informed consent would have altered the behavior being studied: if subjects knew the cave mechanism, reproductive objective, or monitoring conditions beforehand, researchers believed that knowledge would contaminate/undermine the naturalistic experiment. This is the operators' rationale for deception, not narrator endorsement.
+- The lead can distinguish the operators' goal from simple cruelty: they see the women as medically valuable human subjects and believe intervention/retrieval prevents deaths and pregnancy losses, especially after Mira's miscarriage. However, their conduct remains coercive: deliberate deployment without informed consent, covert monitoring, extraction, confinement and intimate sampling.
+- The lead does **not** claim the implant causes or controls the bond. Native cave spores genuinely cause it.
+- Mira is **not currently established pregnant** and no new insemination has been established. Operators still hope to obtain another pregnancy from her, but method/timing remain unresolved.
 - Mira has not yet learned Mari/Liesel/Suvi/Ren were retrieved after becoming pregnant unless she discovers it aboard ship.
-- Hidden truth: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies under the operators' post-miscarriage intervention policy.
+- Hidden truth: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies under the post-miscarriage intervention policy.
 - The precise administrative trigger for retrieving Mira remains unresolved.
 - Korren's last known state off-screen: after learning all four missing women were bonded, he inferred Mira might be unsafe and immediately left Vahn-rii for Soryn-rii. Ada followed. He does not yet know Mira has been taken.
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira waits upright by the wall as the secured door opens. The older research lead/third medical-bay voice steps into the room with a thin display; another staff member stays in the corridor.
-- The lead notes Mira is already on her feet and has come to continue dealing with her as a study subject. Mira remains confined.
+- Current moment: standing weakly in the secured room, Mira asks the research lead **“Why are you doing this?”**
+- The lead explains the experiment as an unprecedented scientific/reproductive/contact question whose naturalistic design depended on the subjects not knowing the real purpose. They frame retrieval/intervention as protection after Mira's miscarriage while showing no expectation that Mira will consider the lack of consent acceptable.
 - Do not supply Mira's thoughts/emotional reaction unless player states them.
 - Do not establish current pregnancy, completed insemination, other women's current locations, or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
