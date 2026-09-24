@@ -6,10 +6,9 @@
 - Residual sedation leaves Mira weak and heavy-headed. She is seated on the narrow bunk; the earlier fight has gone out of her.
 - The older male research lead/third voice from the medical bay sits several feet away with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
 - Mira is answering the interview on autopilot. She has said Korren was fascinated by her at first sight, wanted to take her to the caves immediately, and wanted her physically before the bond.
-- Asked clinically about Korren's reproductive anatomy, Mira answers with visible embarrassment: **“It’s the same. But they’re much bigger, and ridged.”** Her face burns as she says it. This establishes only broad comparative morphology: Kael’tha male reproductive anatomy is broadly human-comparable but larger and externally ridged. Do not elaborate graphically.
-- The researcher treats this as xenobiological/reproductive data rather than erotic material. He immediately asks for a more precise comparative estimate of **how much larger**—for example whether Mira means modestly larger or substantially outside ordinary human range—because the program lacks direct examination of an adult Kael’tha male.
-- Exact measurements/dimensions remain **unestablished and player-controlled**. Do not invent explicit measurements unless player supplies them; clinical/non-graphic phrasing is preferred.
-- The lead remains interested in whether morphological differences have implications for cross-species compatibility and Mira's prior conception.
+- Mira has told the researcher Kael’tha male reproductive anatomy is broadly human-comparable but much larger and ridged. When pressed for scale, **Mira silently uses her hands to indicate Korren's approximate length and width** rather than giving numerical measurements. Exact dimensions are intentionally not recorded in prose; the research lead can treat the gesture as a usable comparative estimate.
+- The researcher records the gesture clinically and moves to a functional compatibility question: **he asks whether intercourse with Korren is painful for Mira**, particularly whether the anatomical size difference causes pain/injury or whether she physically accommodates him without lasting harm. Keep discussion clinical/non-graphic; Mira's answer remains player-controlled.
+- The lead's interest is xenobiological/reproductive rather than erotic. He is assessing whether repeated natural mating is physically sustainable as part of the protocol and whether anatomy may relate to reproductive outcomes.
 - He has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
 - Two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
 - Mira is **not currently established pregnant**, and no new insemination has occurred.
@@ -21,8 +20,8 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has said Kael’tha male anatomy is broadly the same as human anatomy but much larger and ridged, visibly embarrassed by the question. The researcher asks clinically how much larger, seeking a comparative category/estimate rather than yet having direct anatomical data.
-- Exact dimensions remain unestablished. Keep further anatomical discussion clinical and non-graphic.
+- Current moment: Mira has demonstrated Korren's approximate dimensions with her hands. The researcher records the estimate and asks whether intercourse with him is painful for her or causes injury, seeking functional compatibility data.
+- Mira has not yet answered the pain question. Keep further sexual/reproductive discussion clinical and non-graphic.
 - No insemination has occurred; Mira is not currently established pregnant.
 - Do not reveal other women's current locations/pregnancies or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
