@@ -3,17 +3,14 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
 - Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
-- Residual sedation leaves Mira weak and heavy-headed. She is seated on the narrow bunk; the older male research lead sits several feet away with a thin display. A second security/medical staff member remains outside the externally controlled door.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos all conceived after bonding and were covertly retrieved after pregnancy confirmation under the post-miscarriage intervention protocol. The lead says they were alive and under medical supervision at his latest status; exact locations/stages/conditions remain unrevealed.
 - The researcher has acknowledged significant mate-separation distress among retrieved subjects and says this creates a conflict between medical control of pregnancy and maintaining the bonded pair environment. Adult Kael’tha retrieval aboard ship is not authorized. Return of pregnant women remains possible but not promised.
-- Mira asks directly: **“If I get pregnant again are you going to take me again?”**
-- The researcher answers without promising otherwise: **under the current protocol, a confirmed pregnancy after Mira's return would trigger intervention/reassessment and could result in retrieval again.** However, he says the protocol is under active revision precisely because repeated removal from a bonded mate may itself create medical risk. He cannot truthfully guarantee Mira would remain planetside for an entire future pregnancy.
-- He distinguishes **intervention** from automatic permanent shipboard confinement: the program could choose retrieval, temporary medical evaluation, closer remote monitoring, or a planned medical-support arrangement nearer the surface/pair environment if authorization/resources allow. These are possibilities under review, not established facilities or promises.
-- He tells Mira that if she is returned, he will not falsely tell her pregnancy means she will be left alone. The program intends to monitor for conception and intervene if it judges maternal/fetal risk unacceptable. This remains coercive program policy, not narrator endorsement.
-- Mira's question sharpens the practical stakes of any return: going back to Korren would not end surveillance or guarantee she cannot be taken again.
+- Mira has been told that if returned to Korren and she conceives again, confirmed pregnancy would trigger intervention/reassessment and could lead to another retrieval. The program is reconsidering this because separation distress may itself create medical risk, but no revised protocol is finalized.
+- Mira visibly deflates, closes her eyes, and says: **“Please take me back.”** This is a clear renewed request to be returned to Korren/the surface despite knowing surveillance and possible future retrieval would continue.
+- The researcher does not grant immediate freedom, but Mira's repeated, consistent mate-directed request plus the program's own concern about separation distress tips his provisional recommendation toward **returning Mira to the established pair environment rather than attempting controlled conception aboard ship**. He tells her he is prepared to recommend surface return, subject to medical clearance and operational authorization. This is not yet completed return or a guarantee.
+- He states one condition of his recommendation: the program will continue monitoring her and will intervene if another pregnancy appears medically endangered. Mira is not asked to approve that condition; it is imposed by the program.
+- The interview is effectively ending. The lead signals the corridor staff and prepares to leave Mira to rest while return clearance is reviewed. No further sedation is ordered in this beat.
 - Further sexual/reproductive discussion remains clinical/non-graphic.
-- The lead has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
-- Two protocols remain under consideration for Mira: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
 - Mira is **not currently established pregnant**, and no new insemination has occurred.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it.
 - The precise administrative trigger for retrieving Mira remains unresolved.
@@ -21,9 +18,9 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira asks whether another pregnancy would cause the program to take her from Korren again. The researcher says he cannot guarantee otherwise: under current protocol, confirmed pregnancy would trigger intervention/reassessment and could lead to another retrieval.
-- He says the policy is being reconsidered because separation distress may itself endanger bonded pregnant subjects. No revised policy has yet been finalized.
-- A return to Korren, if granted, would therefore not mean freedom from monitoring or future intervention.
+- Current moment: Mira has closed her eyes and pleaded, “Please take me back.” The researcher says he is prepared to recommend returning her to Korren/the surface rather than keeping her aboard for controlled conception, subject to medical and operational clearance.
+- Return has **not yet happened and is not guaranteed**, but the protocol decision has shifted materially in Mira's favor because her separation distress and consistent stated preference now align with the program's interest in preserving the pair environment.
+- The researcher is ending the interview and leaving her to rest while clearance is reviewed; no further sedation has been ordered.
 - Exact locations/gestational stages/conditions/outcomes of Mari/Liesel/Suvi/Ren remain unrevealed.
 - Ada was not named among the pregnant/retrieved four, but Mira has not yet voiced any inference from that.
 - No insemination has occurred; Mira is not currently established pregnant.
