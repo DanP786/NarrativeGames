@@ -6,18 +6,19 @@
 - Korren learned **Mari, Liesel, Suvi and Ren** disappeared one after another and Ada is the only human woman remaining. He told Vahn-rii searchers that he found Mira and that she is in Soryn-rii.
 - In Thaal's lodge, Korren confirmed Mira was lost/hurt, Soryn-rii sheltered and tended her, and she remains there willingly. He admitted his failure to send word: **“My only thought was of my mate.”** He explained Mira is happy in Soryn-rii after exclusion by the other human women and said **“I stay where my mate stays.”**
 - Korren explicitly declared **“I am Soryn-rii now.”** He told Thaal his place there is **“a scout, as I was here.”** Asked why he returned, Korren said: **“To answer to you. To say what has not been said in 2 moon cycles.”**
-- Thaal asked what happened when Korren said Mira had been hurt. **Korren's jaw clenches and he answers: “She was with child. She is no longer.”** This is the first disclosure to Thaal/Vahn-rii leadership that Mira conceived a child with Korren and miscarried while in Soryn-rii.
-- Korren's wording is sparse and grief-held. He does not give cause because none is known. He does not blame Mira, Soryn-rii, himself, the bond, or any outside force. Orenna's established conclusion remains that the cause is unknown.
-- Thaal now knows human–Kael’tha conception occurred at least once and that Mira lost the pregnancy. This fact is potentially significant beside the later disappearances, but neither Thaal nor Korren currently knows the four missing bonded women were pregnant or that pregnancy triggered covert ship retrieval. Do **not** let either male infer the hidden protocol without in-world evidence.
-- Thaal may respond first to Korren's loss as a male/chief who understands offspring/lineage significance, then possibly ask whether the other missing women had shown similar signs only if that knowledge is actually established in-world. Their pregnancy awareness remains deliberately unestablished.
+- Korren disclosed Mira's miscarriage: **“She was with child. She is no longer.”** Cause remains unknown. Thaal responded to the loss before treating it as information.
+- When Thaal interpreted the miscarriage as what kept Korren there, Korren corrects the emphasis: **“That is what keeps Mira. She felt safe with them.”** The point is that Mira's choice of Soryn-rii is rooted in how Soryn-rii held and cared for her through the pregnancy loss; Korren stays because Mira stays. Her safety and choice, not Korren's grief alone, are central.
+- Thaal now has a coherent explanation for Mira's residence: she was hurt and grieving, Soryn-rii cared for her, she felt safe among them, and she chose to remain. This does not yet tell him that Sahra/Varesh formally named her daughter.
+- Thaal may now understand Korren's transfer as following Mira's chosen safety while still treating Korren's status/political consequences separately. He should not reduce Mira's choice to Varesh manipulating Korren or infer political motive without evidence.
 - Korren has still not explicitly told Thaal about Mira's naming as Sahra/Varesh's daughter, their Soryn-rii house, or the full formal range-scout/boundary-warden role.
+- Korren knows four other human women are missing. He still does **not** know they became pregnant or that ship/experiment operators retrieved them. Exact Vahn-rii awareness of any missing woman's pregnancy remains unestablished.
 - Hidden progression: all humans except Ada are bonded; Mari accepted Drenn before disappearing; Liesel/Asho and Suvi/Tarrik remain bonded; Ren became bonded to an as-yet-unestablished mate before disappearing; Ada remains unbonded. Mari/Liesel/Suvi/Ren were covertly retrieved by ship operators after pregnancy detection because operators refuse to risk another loss after Mira's miscarriage.
 - Korren does **not** want the Vahn-rii chieftainship and is not returning to challenge Thaal.
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Korren has just told Thaal, jaw clenched, **“She was with child. She is no longer.”**
-- Thaal now knows Mira conceived and miscarried. Cause remains unknown. This should land as personal grief before it becomes information.
+- Current moment: Korren has clarified **“That is what keeps Mira. She felt safe with them.”**
+- Thaal now knows Mira's decision to remain in Soryn-rii is grounded in feeling safe with the people who cared for her through her miscarriage. Korren's own decision follows hers.
 - Korren has not yet disclosed Mira's daughterhood, shared home, or the full formal range-scout/boundary-warden wording.
 - Four missing women: Mari, Liesel, Suvi, Ren. Ada remains. Vahn-rii does not know the ship/pregnancy truth, and exact in-world awareness of the missing women's pregnancies is not yet established.
 - Mira's return-stain remains fresh in Soryn-rii; Korren intends to be home before it fades.
