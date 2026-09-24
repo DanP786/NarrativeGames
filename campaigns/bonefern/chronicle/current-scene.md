@@ -5,10 +5,11 @@
 - Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
 - Residual sedation leaves Mira weak and heavy-headed. She is seated on the narrow bunk; the earlier fight has gone out of her.
 - The older male research lead/third voice from the medical bay sits several feet away with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
-- Mira answers the interview **on autopilot**. She tells him that when Korren first encountered her, **he was fascinated by her, wanted to take her to the caves immediately, and wanted her physically.** These are now Mira's stated recollections/interpretation of Korren's initial behavior.
-- The lead records the account and becomes especially interested in the distinction between Korren's attraction/intent before cave exposure and the later spore-mediated bond. He treats Mira's report that Korren wanted her before the cave as evidence that initial sexual attraction and the biological bond were not identical phenomena.
-- The interview then turns clinically intimate: **the lead asks Mira about Korren's reproductive anatomy.** He frames the questions as comparative xenobiology/reproductive compatibility—whether Kael’tha anatomy differed materially from human male anatomy, whether there were obvious structural adaptations, and whether Mira noticed anything that might explain successful cross-species conception. Keep this non-graphic; exact anatomical answers remain player-controlled/unestablished unless Mira supplies them.
-- The lead's questions are invasive and data-driven rather than erotic. He is interested because the program has biological samples and evidence of conception but incomplete direct observational data about Kael’tha reproductive anatomy.
+- Mira is answering the interview on autopilot. She has said Korren was fascinated by her at first sight, wanted to take her to the caves immediately, and wanted her physically before the bond.
+- Asked clinically about Korren's reproductive anatomy, Mira answers with visible embarrassment: **“It’s the same. But they’re much bigger, and ridged.”** Her face burns as she says it. This establishes only broad comparative morphology: Kael’tha male reproductive anatomy is broadly human-comparable but larger and externally ridged. Do not elaborate graphically.
+- The researcher treats this as xenobiological/reproductive data rather than erotic material. He immediately asks for a more precise comparative estimate of **how much larger**—for example whether Mira means modestly larger or substantially outside ordinary human range—because the program lacks direct examination of an adult Kael’tha male.
+- Exact measurements/dimensions remain **unestablished and player-controlled**. Do not invent explicit measurements unless player supplies them; clinical/non-graphic phrasing is preferred.
+- The lead remains interested in whether morphological differences have implications for cross-species compatibility and Mira's prior conception.
 - He has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
 - Two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
 - Mira is **not currently established pregnant**, and no new insemination has occurred.
@@ -20,8 +21,8 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira is answering mechanically. She has told the researcher Korren was fascinated by her, wanted to take her to the caves immediately, and physically desired her from the beginning. The researcher now asks clinical questions about Korren's reproductive anatomy and any obvious differences from human male anatomy.
-- Mira has not yet answered the anatomical questions. Do not invent explicit anatomy or sexual details without player-established canon; keep clinical reproductive discussion non-graphic.
+- Current moment: Mira has said Kael’tha male anatomy is broadly the same as human anatomy but much larger and ridged, visibly embarrassed by the question. The researcher asks clinically how much larger, seeking a comparative category/estimate rather than yet having direct anatomical data.
+- Exact dimensions remain unestablished. Keep further anatomical discussion clinical and non-graphic.
 - No insemination has occurred; Mira is not currently established pregnant.
 - Do not reveal other women's current locations/pregnancies or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
