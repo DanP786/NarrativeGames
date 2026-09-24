@@ -7,23 +7,21 @@
 - Korren tells Mira **he must go to Vahn-rii** to settle unresolved obligations/transfer and address the political appearance of joining Chief Varesh while mated to Varesh's named daughter. He remains committed to Soryn-rii life and does not currently want the Vahn-rii chieftainship.
 - Mira chooses to remain Soryn-rii and tells him sadly, **“Don’t be any longer than you have to.”** Korren promises not to stay away longer than necessary and frames their Soryn-rii house/Mira as the home he will return to.
 - **Vahn-rii return-stain custom:** historically, a Vahn-rii male leaving his mate for war could paint a durable temporary stain onto the mate's skin as a promise to return before it naturally faded. It is cultural, not magical/bond-based.
-- Mira agrees to receive the return mark and asks what it looks like, stepping back and pulling her long hair away from her body to give Korren a clear view of where he might paint.
-- **New return-mark design canon:** the traditional mark is not one rigid emblem; the departing mate paints a recognizable Vahn-rii promise structure adapted to the recipient's body. It uses a **deep blue-black/green-black botanical-mineral stain**. The core design is a narrow line beginning high near the shoulder/upper back, branching into paired hooked/leaflike strokes that echo a path leaving and returning, then rejoining into a single downward line. A small closed loop/oval at the lower end signifies **home/return**. Korren explains that the unbroken joined line is the essential traditional element: leave, return, home.
-- Traditional placement is somewhere the departing mate can paint carefully and the waiting mate can preserve/inspect; upper back/shoulder-rib area is common rather than a mandatory exact location. Korren considers Mira's back/side as his canvas but has **not yet applied the stain**. Mira can still choose exact placement before application.
-- The stain should last on the order of **roughly two to three weeks under ordinary washing**, fading gradually rather than vanishing at once. This is a customary practical window, not a supernatural deadline; exact fading varies with washing/sweat/skin.
-- The native Vahn-rii term for the return-stain remains unestablished unless named later.
-- Korren's intent is tender/serious rather than ownership: a visible promise that he means to return to Mira/home. He will not apply it without her continued agreement.
+- Return-mark design uses a **deep blue-black/green-black botanical-mineral stain**. Its core structure is an unbroken line that divides into paired hooked/leaflike path strokes, rejoins, and ends in a small closed loop signifying home/return. The exact design is adapted to the recipient rather than copied from a fixed stencil. Expected practical fade window is roughly **2–3 weeks** under ordinary washing, variable and non-magical.
+- **Mira chooses an expansive version rather than a small traditional placement.** She tells Korren, **“Mmmm all over, where you like touching me the most, I want it to remind me.”** She removes her clothing voluntarily and steps back to their bed, offering her body as the canvas. This is consensual and intimate; she wants the marks to remind her physically of Korren while he is away.
+- Korren accepts the invitation but treats the return mark seriously rather than turning the marking itself into graphic sexual activity. He plans to extend the traditional leave-return-home motif across multiple non-explicit areas he habitually touches affectionately: shoulders/upper back, along her sides/ribs, waist/hips, arms and legs, linking the separate flourishes into a coherent promise design. **No explicit genital/breast marking or graphic sexual touching is established.**
+- The central unbroken return-path remains the traditional core; the wider branches/flourishes are Korren's personal adaptation for Mira. The result can be unusually extensive by Vahn-rii standards without changing the promise's meaning.
+- Mira's green river-stone mate-cord remains on her as her chosen bond symbol unless explicitly removed later; the painted promise is separate from the bond and from ownership.
+- The actual mixing/application of stain is the next beat; ingredients/native name remain unestablished. Korren has not yet completed the painted design.
 - Who specifically initiated the timing of the Vahn-rii trip, whether Varesh sends representatives, exact diplomatic procedure, exact departure day, and whether Korren's surrendered blade has now been returned remain unestablished until played.
-- Mira's green river-stone mate-cord remains her chosen property/symbol of her bond with Korren.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
 - Current moment: late afternoon inside Mira/Korren's increasingly furnished Soryn-rii home. Korren must soon travel to Vahn-rii; Mira will remain home.
-- Mira has agreed to the old Vahn-rii return-stain custom and asks what the mark looks like while pulling her hair aside so Korren can show/choose placement.
-- Return-mark design: deep blue-black/green-black durable stain; paired path/leaflike hooked strokes split and rejoin into one unbroken line, ending in a small closed home/return loop. Traditional design adapts to the mate's body rather than being an identical stencil.
-- Common placement is upper back/shoulder-rib region; exact placement on Mira is not yet chosen/applied.
-- Expected practical fade window: roughly 2–3 weeks under ordinary washing, variable and non-magical.
-- Korren intends to return before it fades. Mira presently remains Soryn-rii rather than accompanying him.
+- Mira has chosen the old Vahn-rii return-stain custom and specifically asks Korren to make the mark extensive: **“all over, where you like touching me the most, I want it to remind me.”** She voluntarily undresses and moves to their bed for him to paint her.
+- Korren will adapt the traditional leave-return-home design across shoulders/back, sides/ribs, waist/hips, arms and legs, keeping the core unbroken path-and-home motif recognizable. No explicit anatomical marking is established.
+- The stain is deep blue-black/green-black and should fade over roughly 2–3 weeks. Korren intends to return before it fades.
+- The actual painting has not yet been completed. Ingredients/native term remain unestablished.
 - Exact departure time, travel party, route, diplomatic procedure and Korren's blade status remain unestablished.
 - Korren does not currently want the Vahn-rii chieftainship. Political interpretation by Thaal remains a major unresolved risk.
 - No telepathy exists.
