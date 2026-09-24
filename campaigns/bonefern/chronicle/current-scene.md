@@ -4,11 +4,12 @@
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
 - Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
 - Residual sedation leaves Mira weak and heavy-headed, but she has stood and remains upright by bracing against the wall.
-- The older research lead/third voice from the medical bay has entered with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
-- Mira asks the lead directly: **“Why are you doing this?”**
-- The lead answers from the program's utilitarian/scientific perspective rather than apologizing: humanity's colony mission encountered a sapient species biologically close enough for an unprecedented native bonding mechanism to affect humans and for at least one cross-species conception (Mira's) to occur. They regard determining whether this is reproducible, whether pregnancies can survive, and what the mechanism means for future human contact/settlement as knowledge too consequential to leave unstudied.
-- The lead acknowledges in substance that ordinary informed consent would have altered the behavior being studied: if subjects knew the cave mechanism, reproductive objective, or monitoring conditions beforehand, researchers believed that knowledge would contaminate/undermine the naturalistic experiment. This is the operators' rationale for deception, not narrator endorsement.
-- The lead can distinguish the operators' goal from simple cruelty: they see the women as medically valuable human subjects and believe intervention/retrieval prevents deaths and pregnancy losses, especially after Mira's miscarriage. However, their conduct remains coercive: deliberate deployment without informed consent, covert monitoring, extraction, confinement and intimate sampling.
+- The older research lead/third voice from the medical bay is inside with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
+- The lead has explained the experiment as an unprecedented question about human response to the native cave bonding mechanism and cross-species reproduction. They said the study required subjects not know its true purpose, and that after Mira's miscarriage the protocol changed because the program would not observe another pregnancy without medical intervention available.
+- Mira reacts to the researcher's reference to future human settlement: **“Wait what? We can’t inhabit this planet! It has sentient beings on!”**
+- The lead clarifies that the *Helia-Voss* research team does not itself have authority to declare or execute planetary colonization, and does not claim Kael’tha sapience is unknown. Their assignment is to gather biological/contact data that will inform decisions made by authorities beyond the research team. They distinguish **human presence/contact** from a final legal/political decision to colonize, while acknowledging that future human arrival is considered possible enough to motivate the research.
+- The lead does not tell Mira that Kael’tha existence automatically prevents future human presence; instead they frame sovereignty, settlement rights, contact protocols, and planetary status as questions outside their remit. This is the institution's bureaucratic framing, not narrator endorsement.
+- The lead's wording can reveal an unsettling asymmetry: the Kael’tha themselves have not been included in the human institutional decision process represented by this experiment, despite being recognized as sapient.
 - The lead does **not** claim the implant causes or controls the bond. Native cave spores genuinely cause it.
 - Mira is **not currently established pregnant** and no new insemination has been established. Operators still hope to obtain another pregnancy from her, but method/timing remain unresolved.
 - Mira has not yet learned Mari/Liesel/Suvi/Ren were retrieved after becoming pregnant unless she discovers it aboard ship.
@@ -18,9 +19,10 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: standing weakly in the secured room, Mira asks the research lead **“Why are you doing this?”**
-- The lead explains the experiment as an unprecedented scientific/reproductive/contact question whose naturalistic design depended on the subjects not knowing the real purpose. They frame retrieval/intervention as protection after Mira's miscarriage while showing no expectation that Mira will consider the lack of consent acceptable.
+- Current moment: Mira challenges the premise of future human settlement because the planet already has sentient inhabitants.
+- The research lead responds bureaucratically: colonization/sovereignty decisions are above the research team's authority; their task is to produce data for whatever future contact decisions are made. They acknowledge Kael’tha sapience rather than disputing it.
 - Do not supply Mira's thoughts/emotional reaction unless player states them.
+- Do not canonize a final human colonization policy, governing law, or outcome yet. Future human settlement is a possibility contemplated by the program, not an established inevitable plan.
 - Do not establish current pregnancy, completed insemination, other women's current locations, or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
 - No telepathy exists.
