@@ -5,11 +5,11 @@
 - Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
 - Residual sedation leaves Mira weak and heavy-headed. She is seated on the narrow bunk; the earlier fight has gone out of her.
 - The older male research lead/third voice from the medical bay sits several feet away with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
-- Mira is answering the interview on autopilot. She has said Korren was fascinated by her at first sight, wanted to take her to the caves immediately, and wanted her physically before the bond.
-- Mira has told the researcher Kael’tha male reproductive anatomy is broadly human-comparable but much larger and ridged. When pressed for scale, **Mira silently uses her hands to indicate Korren's approximate length and width** rather than giving numerical measurements. Exact dimensions are intentionally not recorded in prose; the research lead can treat the gesture as a usable comparative estimate.
-- The researcher records the gesture clinically and moves to a functional compatibility question: **he asks whether intercourse with Korren is painful for Mira**, particularly whether the anatomical size difference causes pain/injury or whether she physically accommodates him without lasting harm. Keep discussion clinical/non-graphic; Mira's answer remains player-controlled.
-- The lead's interest is xenobiological/reproductive rather than erotic. He is assessing whether repeated natural mating is physically sustainable as part of the protocol and whether anatomy may relate to reproductive outcomes.
-- He has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
+- Mira is answering the interview on autopilot and has become **very shy** as the questions turn intimate. She has said Korren was fascinated by her at first sight, wanted to take her to the caves immediately, and wanted her physically before the bond.
+- Mira has told the researcher Kael’tha male reproductive anatomy is broadly human-comparable but much larger and ridged; she indicated Korren's approximate dimensions with her hands rather than numerical measurements.
+- Asked whether intercourse is painful, Mira answers: **“It hurts less than it did. It’s only the first moment that hurts now. That’s all.”** This establishes that intercourse with Korren was more painful earlier in their relationship, but her body has adapted; currently discomfort is brief and limited to the beginning by Mira's account. No persistent injury is established.
+- The researcher records this as evidence of physical adaptation/tolerance over repeated intercourse. He does not eroticize it. His next line of inquiry shifts toward whether the adaptation happened gradually and whether Mira ever experienced lasting injury or needed recovery time, because this bears on natural-conception protocol safety. Keep any further details clinical/non-graphic and player-controlled.
+- The lead has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
 - Two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
 - Mira is **not currently established pregnant**, and no new insemination has occurred.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it.
@@ -20,8 +20,8 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has demonstrated Korren's approximate dimensions with her hands. The researcher records the estimate and asks whether intercourse with him is painful for her or causes injury, seeking functional compatibility data.
-- Mira has not yet answered the pain question. Keep further sexual/reproductive discussion clinical and non-graphic.
+- Current moment: Mira, very shy, has told the researcher intercourse with Korren hurts less than it used to and now only hurts at the first moment. The researcher records apparent physical adaptation and is interested in whether it developed gradually and whether there was ever lasting injury/recovery burden.
+- Keep further sexual/reproductive discussion clinical and non-graphic. Mira controls her answers.
 - No insemination has occurred; Mira is not currently established pregnant.
 - Do not reveal other women's current locations/pregnancies or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
