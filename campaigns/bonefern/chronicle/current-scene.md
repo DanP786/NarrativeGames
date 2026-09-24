@@ -1,24 +1,27 @@
-# Current scene — foreign village, ~Day 89–96, evening
+# Current scene — foreign village, ~Day 119–126, about one month later
 
 ## Immediate scene
-- Several days after Mira's daughter naming, the established rhythm continues: Mira advances the village water project by day while Korren performs earn-a-place labor, currently helping construct a new village house.
-- At evening's required parting, Mira grins and tells Korren, **“Good night, my mate.”** She starts toward Sahra/Varesh's household, but Korren comes after her and pulls her close for another kiss rather than letting the goodbye end immediately.
-- During the kiss Korren murmurs an **intensely suggestive expression of how much he wants their full physical intimacy again once they are permitted to share nights.** Mira understands exactly what he means; the exchange remains non-explicit in narration.
-- Their mutual desire does not override Varesh's standing boundary: **no further overnight together until Korren is formally accepted into the tribe.** Korren is deeply frustrated by the separation but ultimately releases Mira and complies rather than turning desire into an excuse to break the rule.
-- This continued compliance matters to Korren's earn-a-place process: he is demonstrating that he can respect communal limits even when desire gives him a strong reason to dislike them.
-- Mira remains in miscarriage recovery and improving; no new medical complication established.
-- **By day Mira works on the village water project:** gravity-fed source-to-kitchen flow remains the goal, with grade, drainage, storage, source quality, weather, cleaning, stagnation and maintainable local filtration all relevant. Progress is real but the complete system is not yet declared finished.
-- **Korren's major assigned labor remains construction of a new village house.** Hidden from Korren, the house is intended to become his household if/when he is formally accepted. Korren believes he is simply contributing labor to a village construction project. Mira's knowledge of this secret remains unestablished.
+- **About another month has passed.** Mira and Korren have remained under the standing rule that they may spend evenings together but may not share another night until Korren is formally accepted into the tribe. Korren has continued to comply despite disliking the separation.
+- **Mira's village water project is now complete and functioning.** The gravity-fed system successfully brings water from the higher source toward the kitchen/household-use area. Mira has incorporated practical drainage/storage/cleaning and maintainability concerns rather than building a system only she can service. The villagers involved in its construction/use have been shown enough of its ordinary upkeep that it is intended to remain useful without permanent dependence on Mira. Exact engineering dimensions/material names remain unestablished unless later needed.
+- Completing the water project is a meaningful contribution by Mira to her adopted community and demonstrates her filtration/life-support expertise in local conditions. She can still inspect/tune/repair it as needed, but the initial project is finished rather than perpetually in progress.
+- **Korren has completed the main construction of the new village house** he was assigned to help build. He has now been put to work making/fitting furniture and household pieces for it. Exact furniture inventory and architecture remain unestablished until introduced in play.
+- Korren still has not been told who the completed house is for. After roughly a month of living/working among the villagers and getting to know households and people better, **he has begun actively wondering who is supposed to live there**, because his growing familiarity makes the lack of an obvious intended occupant increasingly noticeable. He may question villagers or infer possibilities, but he has not yet learned the truth.
+- **Hidden from Korren: the house is intended to become his own household if/when he is formally accepted into the tribe.** The furniture he is now helping make is therefore also for the home he may eventually share with Mira if she chooses to live with him. Korren does not know this. Mira's knowledge remains unestablished unless someone tells her in play.
+- The house/preparation reflects serious communal intention but does not retroactively guarantee Korren's acceptance regardless of conduct. Formal acceptance must still occur in play.
+- Over the month Korren has become more familiar with village people, work habits and household patterns rather than remaining socially isolated as a stranger. Do not invent specific new friendships/names without establishing them in play.
 - Mira is formally/publicly **Mira, daughter of Sahra and Varesh**, retaining Mira Holloway. Sahra/Varesh are her chosen Mother/Father; their two adult sons/families are her kin.
-- Korren remains not formally transferred from Vahn-rii. His blade remains surrendered unless later established otherwise. No formal acceptance/transfer yet.
+- Mira's miscarriage recovery has continued over the month without a newly established complication. Do not infer fertility outcome or new pregnancy.
+- Korren remains not formally transferred from Vahn-rii. His blade remains surrendered unless later established otherwise. Vahn-rii notification/obligation settlement remains unresolved until formal acceptance/transfer develops.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: evening at the point where Mira and Korren must separate for the night. Mira has said “Good night, my mate,” Korren followed/pulled her back into a kiss, and Korren has voiced strong sexual anticipation for when they are permitted to share nights again.
-- Keep the moment romantic/suggestive rather than sexually explicit.
-- Mira returns to Sahra/Varesh's household each night; Korren returns to his temporary lodging. No further overnight permission until formal acceptance.
-- Korren continues building a house he does not know is intended for him if accepted. Mira's knowledge remains unestablished.
-- Water project is progressing but not yet complete.
+- Current moment: ~Day 119–126, about a month after the previous evening sequence.
+- **Mira's gravity-fed village water project is complete and working**, with maintainability/local upkeep deliberately built into the result.
+- **Korren has finished building the mystery house and is now working on its furniture/interior household pieces.**
+- Korren has gotten to know the village better over the month and is beginning to wonder who the house is actually for; he does not yet know it is intended for him if accepted.
+- Mira's knowledge of the house's intended recipient remains unestablished.
+- Mira/Korren still spend evenings together but sleep separately under Varesh's standing rule until Korren formally joins/is accepted.
+- Mira remains formally daughter of Sahra/Varesh and kin to their sons/families.
 - Korren remains not yet a tribe member; no formal Vahn-rii transfer yet.
 - No telepathy exists.
 
@@ -26,4 +29,4 @@
 - Six women deliberately selected from thousands for a reproductive/bond experiment; selection includes health/childbearing age and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
 - The experiment is testing, among other things, whether bonded human/Vahn-rii pairs can reproduce.
 - Native cave spores genuinely cause the ecological mating bond. Implants DO NOT cause/control the bond or mind-control women; implants include translation and other experiment infrastructure.
-- The house Korren is currently helping build is intended as his future village household if he is formally accepted. Korren does not know this. Mira has not been established as knowing it.
+- The completed house Korren built and the furniture he is now making are intended for **Korren's future household** if he is formally accepted. Korren does not know. Mira's knowledge is not established.
