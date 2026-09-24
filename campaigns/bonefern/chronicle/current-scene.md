@@ -2,27 +2,22 @@
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Before the Helia-Voss interview ends, Mira tells the program that **Ada will not take a mate and waiting for her to do so will not produce the reproductive/bond outcome they expect.** This is Mira's assessment of Ada based on knowing her, not an objective guarantee about Ada's future choices.
-- The program proceeds with Mira's return recommendation. The precise operational details of descent/redeployment remain unremembered/unestablished; Mira does not experience or retain a continuous memory of the transfer.
-- **Mira wakes in the house she shares with Korren in Soryn-rii.** Her return-promise stain remains on her skin, somewhat more faded. She is not currently pregnant; no insemination occurred aboard ship. Exact garments/possessions returned with her remain unestablished.
-- Mira sits up groggily on the sleeping place. Residual transfer sedation leaves her heavy and slow; the house and jungle are real around her.
-- A basket had just struck the ground outside after someone discovered movement inside. **Sahra is established as the person at the doorway:** she sees Mira sitting up and freezes for a heartbeat before rushing inside. Her response is maternal, physical, and alarmed; she does not yet know where Mira has been or what happened.
-- Sahra calls for Varesh/Orenna and moves to steady Mira rather than interrogating her. She can see Mira is alive, groggy, and wearing unfamiliar ship/patient clothing if that remains what Mira was returned in; exact clothing is now established as the grey Helia-Voss patient garments unless changed later.
-- Korren is **not yet present**. His last established movement was racing from Vahn-rii toward Soryn-rii with Ada following. His exact arrival timing still must be resolved rather than teleporting him into the house.
-- The Helia-Voss program has not promised to stop monitoring Mira. If she conceives again, intervention/reassessment remains possible. Mira knows this.
-- Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos all conceived after bonding and were covertly retrieved. She was told they were alive and under medical supervision at the researcher's latest status, but she does not know their exact current locations, stages, conditions, or outcomes.
-- Mira knows adult Kael’tha retrieval aboard ship was not authorized under the protocol described to her.
-- Native cave spores genuinely cause the bond. Implants do NOT cause/control it.
-- The precise administrative trigger for Mira's own retrieval remains unresolved.
-- No telepathy exists.
+- Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii after an unremembered/unestablished transfer. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
+- Sahra discovered Mira awake and called for Varesh and Orenna. When Sahra says Korren went looking for her, Mira immediately focuses and asks **“Korren? Where?”** while trying to stand.
+- Residual sedation makes Mira's attempt unstable: her legs do not reliably support her and Sahra catches/steadies her before she can fall. Sahra insists she cannot run anywhere in this condition.
+- Sahra knows Korren left Soryn-rii for Vahn-rii before Mira vanished and has not yet returned to the house. She does **not** know his exact current position. The most she can truthfully tell Mira is that people were watching the Vahn-rii approach/paths and Korren is expected from that direction once he returns.
+- **Korren is not yet present.** His last exact established state remains racing from Vahn-rii toward Soryn-rii with Ada following after he inferred Mira might be in danger. His arrival timing is now close enough to resolve in upcoming beats, but do not teleport him without a transition/sign of approach.
+- Varesh/Orenna and other villagers are converging after Sahra's call. Mira controls whether she waits, tries to go toward Korren, or explains what happened.
+- Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
+- The Helia-Voss program continues monitoring and may intervene in any future pregnancy. Mira knows this.
+- Mira told the program Ada will not take a mate; this remains Mira's assessment, not fixed destiny.
+- Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has sat up groggily in her Soryn-rii home. Sahra, who had just arrived outside with a basket, sees her and rushes in, calling for help and moving to steady her.
-- Mira controls what she says/does and what she tells Sahra, Varesh, Orenna, or later Korren about Helia-Voss.
-- Korren has not yet arrived in-scene; resolve travel timing before his reunion with Mira.
-- Mira's statement that Ada will not take a mate is her belief/advice to the researchers, not fixed destiny for Ada.
-- No insemination occurred; Mira is not currently established pregnant.
-- No telepathy exists.
+- Current moment: Mira has tried to rise at the mention of Korren, but residual sedation makes her unsteady and Sahra catches her. Mira has asked where he is.
+- Sahra can tell her only that Korren is away/returning from the Vahn-rii direction and has not yet come home; she cannot give an exact location.
+- Korren's reunion should be approached through plausible signs/travel arrival, not instant appearance.
+- Mira controls her actions/dialogue and disclosure about Helia-Voss.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
