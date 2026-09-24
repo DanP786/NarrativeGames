@@ -1,22 +1,24 @@
 # Current scene — unknown clinical chamber, off-world/ship, ~Day 131–138
 
 ## Immediate scene
-- **POV returns to Mira as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
-- **Major canon change established by player:** Mira has now also been covertly taken by the experiment operators. She comes to consciousness beneath painfully bright artificial lights in an unknown clinical environment. This overrides the prior hidden-protocol assumption that no immediate retrieval event was underway for her.
-- The exact reason operators retrieved Mira despite her not currently being established pregnant is **not yet established**. Do not retroactively declare a pregnancy or pregnancy detection without player/canon development. Possible operator motives/mechanisms remain hidden until revealed through play.
-- Exact abduction circumstances from Soryn-rii are deliberately unestablished: where Mira was when taken, whether anyone witnessed it, whether there was physical sign, how operators bypassed Soryn-rii, whether she was sedated, and how much time elapsed before waking are unknown unless established later.
-- Mira wakes on a firm clinical surface beneath intense white artificial light. The environment is immediately and unmistakably technological rather than Soryn-rii: smooth manufactured surfaces, filtered/dry air, a faint mechanical ventilation hum, and hard illumination unlike firelight or jungle daylight. Exact ship layout, restraints, clothing state, equipment, and personnel presence should be established through observation/play rather than assumed all at once.
-- Mira's fresh Vahn-rii return-promise stain and mate-cord status at retrieval are continuity-sensitive. Unless observation establishes otherwise, do not assume operators removed/destroyed them. Her Soryn-rii departure/farewell ensemble and ordinary possessions likewise require explicit observation before canonizing what remains with her.
-- Mira has no knowledge yet of Mari, Liesel, Suvi and Ren's disappearances unless she discovers them here. Before retrieval she was unaware of the four missing women. She does know the *Helia-Voss*, shipboard systems, ordinary medical/clinical environments, her nape implant, and her own prior suspicion that the six women's arrival involved a hidden hand.
-- Hidden truth remains: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies following the experiment operators' post-miscarriage intervention policy. Mira's new retrieval is now canon but its operator rationale is unestablished. The native cave spores genuinely cause the mating bond; implants do not cause/control it or mind-control women.
+- **POV is Mira as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
+- Mira has been covertly retrieved by the experiment operators and is regaining consciousness beneath painfully bright artificial lights in an unknown technological/clinical environment. Exact abduction circumstances, elapsed time, retrieval method, and operator rationale remain unestablished.
+- Mira is still significantly groggy: dry mouth, heavy limbs, blurred/overbright vision, incomplete orientation. She can hear before she can comfortably focus visually.
+- Through/near the opening clinical door, Mira hears at least two human-sounding personnel discussing **her medical condition and health** in detached professional language. They refer to her as a subject/patient rather than using intimate knowledge. Audible details established this turn: her vitals are stable; hydration is somewhat low but not dangerous; there is evidence of the prior pregnancy loss but **no current acute complication** from it; her general recovery/healing is satisfactory; and there are no immediately alarming findings requiring emergency intervention. They also note that sedation/retrieval drugs are clearing and she may regain useful consciousness soon.
+- The personnel do **not** state that Mira is currently pregnant. Mira is not currently established pregnant. They do not yet explain why she was retrieved, who they are, what happened to the other women, or where the facility/ship is.
+- Their clinical discussion can make clear they possess medical data about Mira that strangers should not ordinarily have, but the exact monitoring source and implant role remain unrevealed. The implant does not cause/control the mating bond.
+- Mira's fresh Vahn-rii return-promise stain and mate-cord status at retrieval remain continuity-sensitive and unobserved. Do not assume operators removed/destroyed them until Mira perceives this.
+- Mira has no knowledge yet of Mari, Liesel, Suvi and Ren's disappearances unless she discovers them here. Before retrieval she was unaware of the four missing women.
+- Hidden truth: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies under the operators' post-miscarriage intervention policy. Mira's new retrieval is canon, but its specific trigger/rationale remains intentionally unresolved.
 - Korren's last known state off-screen: after learning all four missing women were bonded, he inferred Mira might be unsafe and immediately left Vahn-rii for Soryn-rii. Ada followed despite his refusal to take responsibility for her. He does not yet know Mira has been taken.
 - No telepathy exists.
 
 ## Continuity
-- Current moment: **Mira comes to beneath too-bright artificial lights.** Her senses are returning in an unknown technological/clinical space. This is the first direct POV contact with the experiment infrastructure since the original placement on the planet.
-- Do not narrate Mira's internal conclusions for her. Her technical background can make environmental details legible as she observes them.
-- Do not reveal the other women's presence, pregnancies, operator identities, ship destination, procedures, or retrieval rationale until Mira can actually perceive/learn them.
-- Korren is traveling toward Soryn-rii and believes Mira is still there; dramatic irony is now active.
+- Current moment: Mira lies groggy beneath hard clinical lights, hearing unseen personnel discuss her health while her senses return.
+- Audible medical facts: stable vitals; mild/non-dangerous dehydration; prior pregnancy loss visible in medical assessment but no current acute complication; recovery satisfactory; sedation clearing.
+- Do not narrate Mira's internal conclusions for her. Her technical/shipboard background can make medical-facility sounds and systems familiar as she perceives them.
+- Do not reveal other women's presence, pregnancies, operator identities, ship destination, procedures, or Mira's retrieval rationale until she can actually perceive/learn them.
+- Korren is traveling toward Soryn-rii and believes Mira is still there; dramatic irony is active.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
