@@ -1,27 +1,30 @@
-# Current scene — foreign village, ~Day 123–130, night
+# Current scene — Soryn-rii village, ~Day 130–137, late afternoon
 
 ## Immediate scene
-- At dinner in Sahra/Varesh's home, Varesh formally welcomed Korren into his tribe. Varesh revealed the house Korren spent weeks building/furnishing was intended for Korren if he earned acceptance; it is now Korren's household, and Mira immediately chose to share it with him: **“Of course I want it!”** The previous no-overnight rule is superseded.
-- Varesh establishes Korren's primary duty as **range-scout / boundary warden**, using his Vahn-rii scouting experience to check outer routes/boundaries, read sign, locate hazards, report changes/incursions, and support search/escort/hunting work. Korren has responsibility but is not commander or independent political authority. He still owes ordinary communal labor.
-- Varesh recognizes Mira as the village's practical **water/household-systems steward**: periodic inspection, troubleshooting, teaching, improvement and expert advice on water, filtration, drainage, storage/sanitation and related practical systems. Routine maintenance is distributed; Mira is not the sole repair person. Mira remains Adept filtration/life support.
-- **After dinner Mira and Korren go together to their new shared house for their first night living there.** The house is structurally complete and serviceable but not fully furnished. Korren has already built enough furniture/basic household fittings for them to sleep and spend the night comfortably; exact inventory remains unestablished beyond what is introduced in play.
-- **Korren does not waste time once they are privately inside their own home. He draws Mira into a mutually wanted, possessive first-night embrace/intimacy, emotionally framed as finally being able to claim time and space with his mate without a borrowed shelter, deadline, or Varesh's overnight restriction.** Sexual activity remains non-explicit/fade-to-black; no graphic anatomy or acts are established.
-- Mira welcomes him and the intimacy is consensual. The emotional emphasis is that this is their first night in a home both have chosen, not that Korren owns Mira as property. His possessiveness remains within their established consensual dynamic; a real no would still matter.
-- The house is not fully furnished, but it is enough for the night: walls/roof, a sleeping place and basic furniture Korren made. Exact architecture, rooms, textiles, storage and remaining furnishings should be established naturally later rather than assumed from the illustrative image.
-- The recent generated visualization of Mira/Korren before a tree-house-like structure and water channels is **illustrative only**; unestablished visual details from the image are not automatically canon.
+- **The tribe led by Varesh is now canonically named the Soryn-rii.** Mira and Korren's new tribal home is the Soryn-rii village/territory. Varesh remains its chief. Do not retroactively imply this name was spoken in earlier scenes where it had not yet been established.
+- Korren is now accepted as Soryn-rii from Varesh's side and shares the house he unknowingly built with Mira, who explicitly chose it as their home. Their first stretch living together becomes a warm **honeymoon-like period**: private domestic closeness, relief at unrestricted nights together, settling into shared routines and enjoying having a home. Intimacy remains consensual and any sexual detail stays non-explicit/fade-to-black.
+- The honeymoon period does not suspend village responsibilities for long. Varesh soon expects Korren to begin his standing work as **range-scout / boundary warden**, checking outer jungle routes/boundaries, reading sign, locating hazards, reporting changes/incursions, and supporting search/escort/hunting needs. He has responsibility but no command/political authority.
+- Mira continues independently as the village's **water/household-systems steward**, inspecting and troubleshooting the gravity-fed water system, refreshing maintenance knowledge, advising on filtration/drainage/storage/sanitation and identifying useful improvements. Routine upkeep remains distributed among trained villagers.
+- **About another week passes** with Mira and Korren working separate daytime duties and returning to their shared home. This establishes a first ordinary household rhythm beyond the initial honeymoon intensity.
+- The completed water system is already materially improving daily life. In gratitude, **villagers begin giving Mira and Korren practical household gifts for their still-sparse new home**. Over the week these include useful woven storage baskets, sleeping/household textiles, carved bowls/cups, a low work/eating surface, small lamps, hooks/cordage and a few decorative handmade pieces. Gifts come from multiple households rather than a single patron and are gratitude/community-welcome, not payment or debt. Exact donors for each item remain unestablished unless introduced later.
+- Mira is pleased and somewhat overwhelmed by the generosity. Their once-bare house begins visibly becoming lived-in. She is arranging the newest collection of gifted household items when Korren returns from his duties.
+- **Korren tells Mira he must go to Vahn-rii.** The unresolved transfer/obligations can no longer be left informal. His acceptance by the Soryn-rii, his departure from Vahn-rii obligations, and the political appearance created by joining Chief Varesh while mated to Varesh's named daughter need to be addressed directly with Thaal/Vahn-rii.
+- Korren does not present the trip as abandoning Mira or reversing their decision to live Soryn-rii. He still intends their Soryn-rii house to be home and still does not currently want the Vahn-rii chieftainship. The journey is to settle what he has repeatedly acknowledged must be settled.
+- **Whether Mira accompanies Korren is not decided yet.** Earlier Korren explicitly said he may need to go settle Vahn-rii obligations without Mira and return; preserve Mira's agency and let the conversation decide.
+- Who specifically ordered/initiated the timing of the Vahn-rii trip, whether Varesh accompanies/sends representatives, exact diplomatic procedure, journey duration, and whether Korren's surrendered blade has now been returned remain unestablished until played.
 - Mira's green river-stone mate-cord remains her chosen property/symbol of her bond with Korren.
-- Korren is accepted into Varesh's tribe from Varesh's side. Formal disengagement/obligation settlement with Vahn-rii and Thaal remains unresolved and politically sensitive; Thaal has not been established as notified or consenting.
-- Korren's blade status after acceptance remains unestablished; do not assume it has been returned until established in play.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: **night inside Mira and Korren's new shared house, their first night living there.** The home is not fully furnished but has enough basics for the night.
-- Once privately home, Korren immediately pulls Mira into mutually wanted possessive intimacy; handle any sexual continuation non-explicitly/fade-to-black.
-- This is the first night where they can remain together in their own home without a special overnight exception or morning separation rule.
-- Korren's duty: range-scout / boundary warden, without command authority. Mira's duty: water/household-systems steward, focused on expert inspection/troubleshooting/teaching/improvement rather than doing all maintenance herself.
-- Still unresolved: formal handling of Korren's Vahn-rii obligations/status with Thaal and political interpretation of his transfer.
+- Current moment: late afternoon in Mira and Korren's increasingly furnished Soryn-rii home, roughly another week after their first night there.
+- Mira is arranging a fresh haul of practical/decorative household gifts given by grateful villagers because the water system has improved village life.
+- Korren has just returned from range/boundary work and tells Mira: **he must go to Vahn-rii.**
+- New tribe name: **Soryn-rii**, Varesh's tribe. Mira and Korren's chosen home is now Soryn-rii.
+- Mira/Korren have enjoyed a honeymoon-like first period living together, then settled into separate daytime duties and shared evenings/nights.
+- Korren remains committed to life with Mira among Soryn-rii and does not currently want the chieftainship. The Vahn-rii journey is about unresolved obligations/transfer and political consequences, not a declared change of heart.
+- Whether Mira goes with him remains undecided.
+- Korren's blade return, travel party, exact procedure and trip duration remain unestablished.
 - Teyra is one of Mira's sisters-in-law, mated to one of Sahra/Varesh's adult sons; exact mate/children details remain unestablished.
-- Korren's blade return remains unestablished.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
