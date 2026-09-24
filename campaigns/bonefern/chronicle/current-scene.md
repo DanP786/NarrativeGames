@@ -4,9 +4,9 @@
 - **POV is temporarily switched to Korren as player character.** Player states Korren's actions/thoughts/dialogue; GM narrates environment/NPCs/consequences. Mira remains in Soryn-rii off-screen unless POV switches back.
 - Korren has returned to Vahn-rii to settle unresolved obligations and his transfer to the Soryn-rii with Thaal. Mira remains in Soryn-rii with Korren's fresh return-promise stain; he intends to return before it fades (~2–3 weeks ordinarily).
 - Korren learned from a search party that **Mari, Liesel, Suvi and Ren** disappeared one after another and Ada is the only human woman remaining. He told the searchers **“I found her”** and that Mira is **“In Soryn-rii.”**
-- Korren followed the searchers into camp and now sits opposite Thaal in the chief's lodge. Thaal opened by asking whether Mira is alive, unharmed, and in Soryn-rii because she wishes to be there.
-- Korren answers: **“Yes. She was lost and hurt, they took her in and tended to her before I found her.”** This establishes to Thaal that Soryn-rii sheltered/cared for Mira rather than abducting her, and that Mira now remains there by choice. Korren has not yet specified the miscarriage as the injury/medical crisis or explained the full sequence of her getting lost.
-- Thaal's immediate political concern is reduced in one narrow respect: Korren is not reporting that Varesh stole or detained his bonded mate. But the larger questions sharpen—why Korren remained for months, why no word was sent, and what his relationship to Soryn-rii now means.
+- Korren now sits opposite Thaal. He has confirmed Mira was lost/hurt, Soryn-rii took her in and tended her, and she remains there willingly.
+- Thaal challenged Korren for finding Mira but sending no runner, mark, or word while Vahn-rii continued searching. Asked **“Why?”**, Korren answers without excuse: **“My only thought was of my mate.”** This is an admission that his attention narrowed entirely to Mira and that he neglected his duty to inform his people; he does not blame Soryn-rii or circumstance.
+- Thaal can understand the mate-first instinct while still judging the failure of duty severely, especially because Korren was historically his second and a trusted scout. The answer is emotionally intelligible but does not erase the cost of months of wasted searching.
 - Thaal remains broader than Korren and a hand shorter, with collar-scar, chief's bead cord at throat, low controlled voice, tactical patience and long held silences. His deep file is stale on later events; preserve characterization, not superseded status facts.
 - Thaal does not yet know Mira's miscarriage, her naming as Sahra/Varesh's daughter, Korren's acceptance into Soryn-rii, their shared house, or Korren's intent to transfer allegiance.
 - Korren now knows four other human women are missing. He still does **not** know they became pregnant or that ship/experiment operators retrieved them. He does not yet know all four had become bonded unless told through play; Mari's eventual acceptance of Drenn is likewise not yet Korren knowledge unless conveyed.
@@ -15,8 +15,8 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Thaal has confirmed directly from Korren that Mira lives, Soryn-rii took her in while lost/hurt, and she remains there willingly.
-- Natural next pressures: Thaal can ask what hurt Mira, why Korren stayed/never sent word, or what Korren is doing now. He should not infer miscarriage/daughterhood/transfer without being told.
+- Current moment: Korren has answered Thaal's demand for why he sent no word with **“My only thought was of my mate.”**
+- Thaal may now press the conflict between mate-duty and tribal/second's duty, ask what kept Korren in Soryn-rii after Mira recovered, or turn toward the present crisis/other missing women. He should not infer miscarriage/daughterhood/transfer without being told.
 - Korren has not yet disclosed Mira's miscarriage, daughterhood, shared home, or his own acceptance/transfer.
 - Four missing women: Mari, Liesel, Suvi, Ren. Ada remains. Vahn-rii does not know the ship/pregnancy truth.
 - Mira's return-stain remains fresh in Soryn-rii; Korren intends to be home before it fades.
