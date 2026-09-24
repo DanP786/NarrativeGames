@@ -7,10 +7,10 @@
 - The older male research lead/third voice from the medical bay sits several feet away with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
 - Mira is answering the interview on autopilot and remains very shy as the questions turn intimate.
 - Mira has distinguished immediate physical desire from later attachment: she wanted Korren physically immediately after the caves, while wanting his nonsexual proximity came perhaps a month later. The researcher notes that this estimate overlaps the program's estimated conception window for Mira's first pregnancy, but causation/sequence remain unproven.
-- Asked whether separation felt different before versus after that period, Mira answers: **“He didn’t leave me. I went everywhere with him.”** This establishes that during the relevant early period Korren and Mira were in near-continuous proximity by Mira's account, making separation-response comparisons impossible from her recollection.
-- The researcher recognizes this as a major confound in the behavioral data. He asks whether this constant proximity was **Korren's rule/expectation at first, Mira's own choice, or both as the relationship developed**, because that distinction may help identify when her independent desire for proximity emerged despite little actual separation.
-- He also becomes interested in the rare later separations as cleaner data points, but should not assert exact episodes without reading their chronicle files. The present forced separation aboard Helia-Voss is itself an ethically coercive but scientifically informative data point to him, especially Mira's immediate request for Korren after waking.
-- Do not reinterpret Mira's later love/choice as merely biological. The researcher may hypothesize from timing but cannot establish causation from this single case.
+- Mira says Korren did not leave her during the relevant early period because she went everywhere with him, preventing a clean early separation baseline.
+- Asked whether constant proximity began as Korren's requirement or Mira's choice, Mira answers: **“He was in control. I no longer mind it.”** This establishes her own distinction between the relationship's beginning and its present state: Korren controlled the pattern initially; Mira says she no longer objects to that dynamic now. Do not flatten this into either retroactive consent to the beginning or proof her current acceptance is false.
+- The researcher recognizes the answer as directly relevant to the psychological selection criteria. He notes that the program predicted Mira might adapt to an intensely controlling/claiming partner under suitable conditions, but her statement alone cannot determine whether her later acceptance arose from personality, lived relationship, spore bond, pregnancy, or some combination.
+- The interview now moves beyond intimate mechanics. The lead asks a sharper behavioral question: **if Mira were returned to Korren and Korren told her to remain with him, would she want to obey because he commanded it, because she trusts him, because separation is distressing, or because those distinctions no longer feel clean to her?** Mira's answer remains player-controlled.
 - Further sexual/reproductive discussion remains clinical/non-graphic.
 - The lead has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
 - Two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
@@ -23,9 +23,9 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira says Korren did not leave her during the relevant early period because she went everywhere with him. The researcher identifies near-continuous proximity as a confound and asks whether that pattern began as Korren's requirement, Mira's choice, or became mutual over time.
-- He may use Mira's current forced separation and earlier/later known separations as data, but exact historical separation events require chronicle reads before reference.
-- Mira controls her answer and her interpretation of her own choices.
+- Current moment: Mira says Korren was initially in control of their constant-proximity pattern and that she no longer minds it. The researcher treats this as relevant to the program's preselection psychology but does not have enough evidence to assign a single cause to her later acceptance.
+- He has shifted to asking what Mira's present willingness to follow Korren means to her if she were returned: command, trust, bond/separation response, or an inseparable combination. Mira has not yet answered.
+- Preserve the distinction between initial imposed control and Mira's later/current choices.
 - No insemination has occurred; Mira is not currently established pregnant.
 - Do not reveal other women's current locations/pregnancies or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
@@ -33,7 +33,7 @@
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
-- The experiment tests whether native spores create human–Kael’tha mating bonds and whether bonded pairs can reproduce.
+- The experiment tests whether native spores create human-Kael’tha mating bonds and whether bonded pairs can reproduce.
 - After Mira's miscarriage, operators adopted an interventionist protocol: once another bonded human woman was confirmed pregnant, they covertly retrieved her rather than risk another planetside loss. Mari, Liesel, Suvi and Ren were retrieved this way.
 - Mira has also been retrieved. Her reproductive value and planned continued conception attempts are explicit, but the specific administrative trigger for retrieving her remains unresolved.
 - Native cave spores genuinely cause the ecological mating bond. Implants DO NOT cause/control the bond or mind-control women; implants include translation and other experiment infrastructure.
