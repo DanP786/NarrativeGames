@@ -6,20 +6,20 @@
 - Korren learned **Mari, Liesel, Suvi and Ren** disappeared one after another and Ada is the only human woman remaining. He told Vahn-rii searchers that he found Mira and that she is in Soryn-rii.
 - In Thaal's lodge, Korren confirmed Mira was lost/hurt, Soryn-rii sheltered and tended her, and she remains there willingly. He admitted his failure to send word: **“My only thought was of my mate.”** He explained Mira is happy in Soryn-rii after exclusion by the other human women and said **“I stay where my mate stays.”**
 - Korren explicitly declared **“I am Soryn-rii now.”** He told Thaal his place there is **“a scout, as I was here.”** Asked why he returned, Korren said: **“To answer to you. To say what has not been said in 2 moon cycles.”**
-- Korren disclosed Mira's miscarriage: **“She was with child. She is no longer.”** Cause remains unknown. Thaal responded to the loss before treating it as information.
-- When Thaal interpreted the miscarriage as what kept Korren there, Korren corrects the emphasis: **“That is what keeps Mira. She felt safe with them.”** The point is that Mira's choice of Soryn-rii is rooted in how Soryn-rii held and cared for her through the pregnancy loss; Korren stays because Mira stays. Her safety and choice, not Korren's grief alone, are central.
-- Thaal now has a coherent explanation for Mira's residence: she was hurt and grieving, Soryn-rii cared for her, she felt safe among them, and she chose to remain. This does not yet tell him that Sahra/Varesh formally named her daughter.
-- Thaal may now understand Korren's transfer as following Mira's chosen safety while still treating Korren's status/political consequences separately. He should not reduce Mira's choice to Varesh manipulating Korren or infer political motive without evidence.
-- Korren has still not explicitly told Thaal about Mira's naming as Sahra/Varesh's daughter, their Soryn-rii house, or the full formal range-scout/boundary-warden role.
+- Korren disclosed Mira's miscarriage: **“She was with child. She is no longer.”** Cause remains unknown. He clarified that Mira remained because she felt safe with Soryn-rii after they cared for her through the loss.
+- Asked what Varesh gave Mira that made Soryn-rii hers, Korren sighs, knowing the fact cannot reasonably remain hidden, and answers: **“A family. Varesh and Sahra took her in as their own. She is their named daughter now.”**
+- Thaal now knows the politically consequential fact that Korren's mate has been formally named daughter of Sahra and Chief Varesh. This recreates, in political appearance, the old pattern of Korren being joined to a daughter of Varesh—formerly Eshara by her own choice, now Mira through chosen/adoptive kinship. It does **not** establish that Korren or Varesh engineered the naming for political advantage.
+- Thaal knows the old Eshara/Korren history to the ordinary relevant degree and can immediately recognize how Vahn-rii males may interpret this: former chief's son + Varesh's named daughter + Soryn-rii scout can look like an alliance or renewed claim even if that is not Korren's motive. Thaal should distinguish political effect/appearance from intent and may demand clarity.
+- Korren's established truth: he did not seek Eshara for political advantage, though he knew mating Varesh's daughter would strengthen his standing; he does not want Vahn-rii chieftainship now and does not want Mira dragged to Vahn-rii so he can sit in his father's place. Mira's daughterhood was her own chosen kinship and was not Korren's scheme.
+- Korren has not yet told Thaal about the Soryn-rii house he shares with Mira or the full formal range-scout/boundary-warden wording.
 - Korren knows four other human women are missing. He still does **not** know they became pregnant or that ship/experiment operators retrieved them. Exact Vahn-rii awareness of any missing woman's pregnancy remains unestablished.
 - Hidden progression: all humans except Ada are bonded; Mari accepted Drenn before disappearing; Liesel/Asho and Suvi/Tarrik remain bonded; Ren became bonded to an as-yet-unestablished mate before disappearing; Ada remains unbonded. Mari/Liesel/Suvi/Ren were covertly retrieved by ship operators after pregnancy detection because operators refuse to risk another loss after Mira's miscarriage.
-- Korren does **not** want the Vahn-rii chieftainship and is not returning to challenge Thaal.
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Korren has clarified **“That is what keeps Mira. She felt safe with them.”**
-- Thaal now knows Mira's decision to remain in Soryn-rii is grounded in feeling safe with the people who cared for her through her miscarriage. Korren's own decision follows hers.
-- Korren has not yet disclosed Mira's daughterhood, shared home, or the full formal range-scout/boundary-warden wording.
+- Current moment: Korren has just revealed **“A family. Varesh and Sahra took her in as their own. She is their named daughter now.”**
+- This is a major political revelation. Thaal can react to the resemblance to Korren/Eshara and to how Vahn-rii will interpret Korren now being mated to Varesh's named daughter while serving Soryn-rii. He must not assert Korren's motive as fact.
+- Korren has not yet disclosed the shared Soryn-rii house or full formal range-scout/boundary-warden wording.
 - Four missing women: Mari, Liesel, Suvi, Ren. Ada remains. Vahn-rii does not know the ship/pregnancy truth, and exact in-world awareness of the missing women's pregnancies is not yet established.
 - Mira's return-stain remains fresh in Soryn-rii; Korren intends to be home before it fades.
 - No telepathy exists.
