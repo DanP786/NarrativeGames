@@ -3,25 +3,25 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii after an unremembered/unestablished transfer. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
-- The village watch announces Korren arriving from the Vahn-rii direction. Despite residual sedation and Sahra's attempt to steady her, Mira gets up and scrambles out onto the house balcony overlooking the village.
-- Mira is physically unstable but succeeds in reaching the balcony by using wall/doorframe/rail for support. Sahra follows close behind, ready to catch her rather than physically restraining her.
-- From the balcony Mira can see the village path and **Korren entering Soryn-rii below**. He has clearly pushed himself hard on the return journey: travel-worn, moving fast, attention fixed ahead as villagers begin shouting that Mira is back.
-- The news reaches Korren in-view: a Soryn-rii villager calls that **Mira has returned / is alive and at the house.** Korren stops for only a fraction of a beat and looks up toward the house/balcony.
-- **Korren and Mira see one another.** This is their first visual contact since his departure for Vahn-rii and her covert retrieval by Helia-Voss. The bond hum/proximity response may be physically perceptible as established bond behavior, but there is no telepathy.
-- Korren immediately changes from hard travel pace to direct movement toward the house. He has not yet reached/touched Mira at the exact end of the beat; reunion contact is imminent and remains open to Mira's action.
-- Ada had been following Korren from Vahn-rii. Her exact distance behind him remains unresolved; she is not yet placed in Mira's sightline or reunion.
-- Varesh/Orenna and villagers are converging. Sahra is immediately behind/near Mira on the balcony.
+- Mira, still weak from sedation, stands supported by the balcony rail with Sahra close behind. She smiles and tracks Korren's approach through the village without trying to move farther.
+- Korren sees Mira smiling on the balcony and comes directly to the house at a run, ignoring the gathering villagers except to navigate around them. He takes the access to the house/balcony quickly and reaches her.
+- On reaching Mira, Korren stops close enough to inspect her before touching: he sees she is alive, groggy/unsteady, dressed in unfamiliar grey ship clothing, and still bears the fading return-promise stain he painted before leaving. He does not yet know where she went or what Helia-Voss did.
+- Korren then closes the final distance and takes hold of Mira carefully but firmly, supporting rather than knocking her off balance. His bond hum is strongly audible/physical at close range and matches hers as established; there is no telepathy.
+- Korren's first spoken word on reaching her is **“Mira.”** His usual control is strained by relief/fear, but he does not shout.
+- Physical reunion has begun. Mira controls how she responds, what she tells him, and whether/how she embraces him.
+- Ada had been following Korren from Vahn-rii. Her exact distance behind him remains unresolved; she has not yet entered the reunion scene.
+- Varesh/Orenna and villagers are converging; Sahra is nearby but gives the pair immediate space once Korren has Mira securely supported.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
 - The Helia-Voss program continues monitoring and may intervene in any future pregnancy. Mira knows this.
 - Mira told the program Ada will not take a mate; this remains Mira's assessment, not fixed destiny.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has reached the balcony and sees Korren below as he enters Soryn-rii. Villagers tell him Mira has returned; he looks up and sees her.
-- Korren is moving directly toward the house. Physical reunion has not happened yet; let Mira control her immediate response.
-- Mira remains weak/unsteady from sedation, with Sahra close enough to catch her.
+- Current moment: Korren has reached Mira on the balcony, inspected her for injury/condition, and taken hold of her carefully to support her. He has said her name.
+- This is their first physical contact since his departure for Vahn-rii and her covert retrieval.
+- Korren does not know the experiment truth yet. Mira controls disclosure.
+- Mira remains weak/unsteady from sedation.
 - Ada's exact arrival timing behind Korren remains unresolved.
-- Mira controls disclosure about Helia-Voss.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
