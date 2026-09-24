@@ -3,13 +3,16 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
 - Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
-- Residual sedation leaves Mira weak and heavy-headed. She has been standing braced against the wall, but after the research lead claims authority over her reproductive protocol, **the fight visibly goes out of her**; she sags more heavily into the wall and asks, **“How best to proceed… what are you saying!”**
-- The older male research lead/third voice from the medical bay is inside with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
-- The lead has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted, the monitored conditions, and whether/when Mira is returned planetside.
-- In response to Mira's question, the lead clarifies the concrete options being evaluated: **(1)** return Mira to Korren under covert/remote observation and allow another conception to occur naturally; or **(2)** keep Mira aboard and use the viable biological material already recovered to attempt conception under controlled medical conditions. He describes the second option clinically and non-graphically. This establishes that laboratory/assisted insemination is genuinely under consideration but **has not yet occurred**.
-- The lead says the program has not yet finalized which path to use. Mira's demonstrated attachment to Korren is relevant because returning her to him may produce better behavioral/physiological data and natural conception, while shipboard conception offers greater medical control after her previous miscarriage.
+- Residual sedation leaves Mira weak and heavy-headed. After learning the program is deciding between returning her to Korren for monitored natural conception or keeping her aboard for medically controlled conception, **Mira steps backward and sits on the narrow bunk.** The earlier fight has gone out of her.
+- The older male research lead/third voice from the medical bay remains inside with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
+- The lead notices Mira's withdrawal but, rather than offering comfort, becomes professionally interested in reconstructing the beginning of her relationship with Korren. He shifts into an interview style and begins asking for first-person details the remote monitoring evidently did not fully capture.
+- He asks: **What did Korren do when he first saw her?** Did he approach immediately or watch first? What did he say/do before Mira understood him? When did Mira first notice the physical pull/harmonic response? Did Korren lead or carry her toward the cave, or did she enter under her own movement? What happened immediately before the bond became unmistakable? He is especially interested in separating Korren's pre-bond behavior from behavior after cave-spore exposure.
+- These are questions, not established answers. **Do not invent Mira's account or retroactively settle exact first-meeting/bond details without player input or authoritative chronicle reads.**
+- The lead's interest indicates the program has observational gaps despite covert monitoring; Mira's subjective recollection and exact sequence are valuable data.
+- He has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
+- The two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
 - This remains coercive antagonist/institution conduct, not narrator endorsement. Mira is **not currently established pregnant**, and no new insemination has occurred.
-- The lead does **not** claim the implant causes or controls the bond. Native cave spores genuinely cause it.
+- Native cave spores genuinely cause the bond. Implants do NOT cause/control it.
 - Mira has not yet learned Mari/Liesel/Suvi/Ren were retrieved after becoming pregnant unless she discovers it aboard ship.
 - Hidden truth: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies under the post-miscarriage intervention policy.
 - The precise administrative trigger for retrieving Mira remains unresolved.
@@ -17,10 +20,10 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira, visibly losing her earlier fight, asks what the lead means by “how best to proceed.” He tells her the program is deciding between returning her to Korren for monitored natural conception or keeping her aboard and attempting medically controlled conception using recovered viable biological material.
-- Neither option has been finalized. No insemination has occurred; Mira is not currently established pregnant.
-- The explicit possibility of return to Korren is now canon, but it is being weighed as experimental protocol rather than promised to Mira.
-- Do not supply further internal reaction for Mira beyond the player's statement that the fight goes out of her.
+- Current moment: Mira has retreated to sit on the bunk. The research lead, interested in her relationship history, begins questioning her about Korren's behavior at their first meeting and the sequence that led into cave exposure/bonding.
+- The researcher is trying to distinguish Korren's behavior before the bond from behavior after it and to fill observational gaps. Mira has not yet answered.
+- Do not supply Mira's answers, memories, thoughts or emotional reaction without player input. If exact historical facts are needed after she answers/references them, read the relevant chronicle/session file before relying on them.
+- No insemination has occurred; Mira is not currently established pregnant.
 - Do not reveal other women's current locations/pregnancies or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
 - No telepathy exists.
