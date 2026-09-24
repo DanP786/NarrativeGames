@@ -3,11 +3,12 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii after an unremembered/unestablished transfer. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
-- Korren has reached Mira on the balcony after racing back from Vahn-rii. He is travel-worn and sees that Mira is alive, groggy/unsteady, dressed in unfamiliar ship clothing, and still bears his fading return-promise stain.
-- Mira cries **“Korren!”** and wraps her arms around him. Korren immediately gathers her fully against him, supporting her weight and holding her with intense but controlled force. This is their first full embrace since his departure and her covert retrieval.
-- Korren's relief is physical and visible: his bioluminescent tracery brightens and his bond hum settles strongly into the shared note with Mira. He checks her bodily presence through touch without treating the bond as telepathy.
-- Korren says **“I have you.”** He does not yet interrogate Mira about where she was; immediate reunion/protective contact takes precedence. After a beat he asks the first necessary question: **“Are you hurt?”**
-- Sahra gives them space nearby while remaining ready to help because Mira is still weak from sedation. Varesh/Orenna and villagers are converging but have not interrupted the embrace yet.
+- Korren has reached Mira on the balcony after racing back from Vahn-rii. He is travel-worn and supporting her weight in a close embrace. Their bond hum has settled into its familiar shared note; there is no telepathy.
+- After Korren asks whether Mira is hurt, Mira answers **“No. Are you?”**
+- Korren answers that he is **not hurt**, though he is visibly exhausted/travel-worn from pushing hard back from Vahn-rii. He does not make his condition important compared with finding Mira alive.
+- Korren tells Mira he went to Vahn-rii, learned the other four women had disappeared, realized all four were bonded, and came back because he feared the same might happen to her. He does not yet know the true pregnancy/retrieval correlation.
+- Korren remains physically close/supportive and then asks Mira the necessary question: **“Where did they take you?”** This opens Mira's disclosure of Helia-Voss and the experiment.
+- Sahra remains nearby but gives them space. Varesh/Orenna/villagers are converging without yet interrupting.
 - Ada had been following Korren from Vahn-rii. Her exact distance behind him remains unresolved; she has not yet entered the reunion scene.
 - Korren does not know the experiment truth, Helia-Voss involvement, the other women's pregnancies/retrievals, or that future monitoring/intervention remains possible. Mira controls disclosure.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
@@ -15,11 +16,10 @@
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has wrapped her arms around Korren; he has gathered her fully against him and said, “I have you.” After allowing the reunion beat, he asks, “Are you hurt?”
-- Mira remains weak/unsteady from sedation; Korren is carrying/supporting much of her weight.
-- Korren knows only that Mira vanished and has now inexplicably returned in strange clothing. He does not know what happened aboard Helia-Voss.
+- Current moment: Mira has assured Korren she is not hurt and asked whether he is. Korren says he is not hurt, explains that the four disappearances made him race home for her, and asks, “Where did they take you?”
+- Mira remains weak/unsteady from sedation; Korren is supporting her.
+- This is the opening for Mira to reveal Helia-Voss/experiment truth in her own words.
 - Ada's exact arrival timing remains unresolved.
-- Mira controls disclosure and her response.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
