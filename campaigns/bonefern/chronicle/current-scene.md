@@ -1,34 +1,33 @@
-# Current scene — foreign village, ~Day 120–127, morning
+# Current scene — foreign village, ~Day 123–130, evening
 
 ## Immediate scene
-- Mira's gravity-fed village water project is complete. Korren has completed the mystery house and is making/fitting furniture for it; hidden from him, it is intended for his future household if formally accepted. Mira's knowledge of that house secret remains unestablished.
-- Varesh granted Mira a **specific one-night exception** to the no-shared-night rule so she and Korren could speak privately about his political history. That night has now passed; the standing separate-night rule resumes unless Varesh changes Korren's status/rules.
-- During the night Korren told Mira: his father was Vahn-rii chief; Thaal defeated and killed him in a recognized leadership challenge; Korren inherited serious standing but not automatic office; Korren declined to challenge Thaal immediately; he knew mating Eshara would strengthen him politically but says he wanted Eshara herself, not her political value; he does not currently want the chieftainship; and he wrongly treated this history as closed and therefore failed to tell Mira.
-- Mira told Korren she wants to remain in Sahra/Varesh's village rather than return to live at Vahn-rii. Korren accepts that choice and wants to earn a place here with her.
+- Several ordinary days pass after Mira's permitted night with Korren. Mira remains integrated into Sahra/Varesh's family and village life; her water system is complete and functioning. Korren continues village work and furniture-making while awaiting Varesh's decision.
+- During the earlier private night Korren told Mira: his father was Vahn-rii chief; Thaal defeated and killed him in a recognized leadership challenge; Korren inherited serious standing but not automatic office; Korren declined to challenge Thaal immediately; he knew mating Eshara would strengthen him politically but says he wanted Eshara herself, not her political value; he does not currently want the chieftainship; and he wrongly treated this history as closed and therefore failed to tell Mira.
+- Mira has told Korren she wants to remain in Sahra/Varesh's village rather than return to live at Vahn-rii. Korren accepts that choice and has been trying to earn a place here with her.
 - Mira and Korren understand that Mira's formal status as **Mira, daughter of Sahra and Varesh**, combined with her bond to Korren, may be interpreted by Thaal/Vahn-rii as Korren rebuilding an alliance/claim through Varesh's house even though Mira's adoption was genuine chosen family.
-- Mira and Korren spent the night together; sexual details remain fade-to-black/non-explicit. Morning included a last passionate goodbye before Mira left his shelter.
-- **Mira walks home repeatedly readjusting her clothing after the morning goodbye, trying to make herself presentable.** Her green river-stone mate-cord remains worn at her waist.
-- **New family canon:** **Teyra** is one of Mira's two sisters-in-law: an adult Kael’tha woman mated to one of Sahra and Varesh's two living adult sons. Which son is her mate, and their children's details if any, remain unestablished until needed. Teyra is comfortable treating Mira as family after the naming ceremony and has a dry, observant sense of humor.
-- Before Mira reaches Sahra/Varesh's household, **Teyra catches sight of her, notices the repeated clothing adjustments without needing graphic explanation, and cheerfully intercepts her.** Rather than interrogating or shaming Mira, Teyra hooks her into the family morning and brings her along to breakfast.
-- The breakfast destination/group can be established in play; Teyra's immediate intent is to feed her new sister and enjoy teasing her lightly, not expose private details.
-- How Korren and Mira will approach Thaal/Vahn-rii and formal transfer remains unresolved.
-- Korren remains not formally transferred from Vahn-rii. His blade remains surrendered unless later established otherwise.
+- **A few days later, Varesh invites Korren to dinner at his home with Sahra and Mira.** The invitation is deliberate and carries more weight than an ordinary meal.
+- During dinner Varesh tells Korren that he has watched him work, accept correction, respect boundaries he dislikes, remain when leaving would have been easier, and choose to build a life rather than simply demand one. **Varesh formally welcomes Korren into his tribe.** This is genuine acceptance/membership, not merely guest status.
+- Varesh makes clear that acceptance here does not erase Korren's unresolved obligations to Vahn-rii: Korren and Varesh will still need to handle notification/settlement with Thaal carefully. But from Varesh's side, the decision is made: Korren has a place among his people.
+- **Varesh then reveals the house Korren spent weeks building and furnishing was intended for Korren all along if he earned acceptance. It is now Korren's household/home, and Varesh explicitly tells him it is his to share with Mira.** Mira may live there with Korren by her own choice; the gift does not transfer ownership of Mira or compel her residence. The prior standing no-overnight rule is superseded by Korren's acceptance and household status: Mira and Korren may now share their home as mates if Mira chooses.
+- Korren had not known the house was intended for him. Mira's prior knowledge was unestablished, so she learns the truth at dinner alongside him unless later play establishes otherwise.
+- Korren's reaction should preserve his restrained character: stunned silence/weight rather than theatrical display. The house means the village has been preparing a possible future for him while still making acceptance conditional on his conduct.
+- Mira's green river-stone mate-cord remains her chosen property/symbol of her bond with Korren.
+- **Korren is now accepted as a member of Varesh's tribe from Varesh's side.** Formal disengagement/obligation settlement with Vahn-rii and Thaal remains unresolved and politically sensitive; do not treat Thaal as already notified or consenting.
+- Korren's blade status after acceptance remains unestablished; do not assume it has been returned until established in play.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: morning path through the village. Mira has left Korren's shelter and is trying, with limited success, to stop fussing with her clothes.
-- **Teyra**, Mira's newly established sister-in-law and mate of one of Sahra/Varesh's adult sons, intercepts her before she gets home and takes her to breakfast. Teyra is dryly amused and warmly familial rather than judgmental.
-- Exact identity/name of Teyra's mate, children, appearance and deeper history remain unestablished unless introduced in play.
-- Varesh's standing separate-night rule has resumed.
-- Mira wears her green river-stone mate-cord; it remains her chosen property/symbol of the bond.
+- Current moment: evening dinner at Sahra and Varesh's home. Varesh has just announced that Korren is welcome in the tribe and revealed that the completed house Korren built is **his home**, intended for him if he earned acceptance, to share with Mira if she chooses.
+- Mira and Korren learn the house secret at this dinner. Mira is not property and is not assigned to the house; Varesh frames it as a home for the bonded pair because Mira has already freely chosen Korren and freely chosen this village.
+- Korren's previous guest/workers-shelter status ends with acceptance. The old separate-night rule is superseded; Mira and Korren can share the new household as mates.
+- Korren is accepted by Varesh's tribe, but his Vahn-rii obligations/status with Thaal still require formal settlement. This may carry political consequences because Korren is the former chief's son and Mira is now Varesh's daughter.
 - Mira wants to stay in Sahra/Varesh's village. Korren wants a life with her here and does not currently want the Vahn-rii chieftainship.
-- Still unresolved: how they intend to approach Thaal/Vahn-rii and formal transfer.
-- Mira's water project is complete. Korren is making furniture for the house secretly intended for him if accepted; Mira's knowledge of that house secret remains unestablished.
-- Korren remains not yet a tribe member/no formal Vahn-rii transfer.
+- Mira's water project is complete and functioning.
+- Teyra is one of Mira's sisters-in-law, mated to one of Sahra/Varesh's adult sons; exact mate/children details remain unestablished.
+- Korren's blade return remains unestablished.
 - No telepathy exists.
 
 ## Hidden GM canon — not known in-world
 - Six women deliberately selected from thousands for a reproductive/bond experiment; selection includes health/childbearing age and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
 - The experiment is testing, among other things, whether bonded human/Vahn-rii pairs can reproduce.
 - Native cave spores genuinely cause the ecological mating bond. Implants DO NOT cause/control the bond or mind-control women; implants include translation and other experiment infrastructure.
-- The completed house Korren built and furniture he is making are intended for **Korren's future household** if formally accepted. Korren does not know. Mira's knowledge remains unestablished.
