@@ -3,21 +3,24 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii after an unremembered/unestablished transfer. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
-- Sahra discovered Mira awake and called for Varesh and Orenna. When Sahra says Korren went looking for her, Mira immediately focuses and asks **“Korren? Where?”** while trying to stand.
-- Residual sedation makes Mira's attempt unstable: her legs do not reliably support her and Sahra catches/steadies her before she can fall. Sahra insists she cannot run anywhere in this condition.
-- Sahra knows Korren left Soryn-rii for Vahn-rii before Mira vanished and has not yet returned to the house. She does **not** know his exact current position. The most she can truthfully tell Mira is that people were watching the Vahn-rii approach/paths and Korren is expected from that direction once he returns.
-- **Korren is not yet present.** His last exact established state remains racing from Vahn-rii toward Soryn-rii with Ada following after he inferred Mira might be in danger. His arrival timing is now close enough to resolve in upcoming beats, but do not teleport him without a transition/sign of approach.
-- Varesh/Orenna and other villagers are converging after Sahra's call. Mira controls whether she waits, tries to go toward Korren, or explains what happened.
+- Sahra discovered Mira awake and called for Varesh and Orenna. At the mention of Korren, Mira tried to stand but residual sedation made her legs fail; Sahra caught and steadied her.
+- Mira asks **“What is it?”** when calls begin passing inward through Soryn-rii from the outer paths.
+- The incoming calls are the village watch announcing **Korren's arrival from the Vahn-rii approach.** He has reached Soryn-rii after pushing hard back toward Mira. This resolves his travel timing plausibly through advance warning rather than instant appearance.
+- Sahra understands the call and tells Mira: **“Korren. They see Korren.”** She keeps Mira physically supported because Mira remains too unsteady to run safely.
+- Korren has not yet entered the house at the exact end of this beat, but he is now within the village/approach and moving toward home. His reunion with Mira is imminent.
+- Ada had been following Korren from Vahn-rii. Her exact distance behind him on arrival is not yet established; do not place her in the reunion until resolved.
+- Varesh/Orenna and villagers are also converging after Sahra's earlier call that Mira has returned. News of Mira's reappearance can now travel outward toward Korren as he enters the village.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
 - The Helia-Voss program continues monitoring and may intervene in any future pregnancy. Mira knows this.
 - Mira told the program Ada will not take a mate; this remains Mira's assessment, not fixed destiny.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has tried to rise at the mention of Korren, but residual sedation makes her unsteady and Sahra catches her. Mira has asked where he is.
-- Sahra can tell her only that Korren is away/returning from the Vahn-rii direction and has not yet come home; she cannot give an exact location.
-- Korren's reunion should be approached through plausible signs/travel arrival, not instant appearance.
-- Mira controls her actions/dialogue and disclosure about Helia-Voss.
+- Current moment: Mira asks what the rapidly relayed village calls mean. Sahra tells her the watch has sighted Korren returning from the Vahn-rii direction.
+- Korren is now arriving into Soryn-rii and will imminently learn Mira is back; he has not yet physically entered the house at the end of this beat.
+- Mira remains groggy/unsteady and Sahra is supporting her. Mira controls whether she tries to move toward him, calls, waits, etc.
+- Ada's exact arrival timing behind Korren remains unresolved.
+- Mira controls disclosure about Helia-Voss.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
