@@ -7,23 +7,20 @@
 - Korren has told Mira that he knew mating **Eshara**, Chief Varesh's adult daughter, would strengthen his political standing but says that was not why he wanted her: he wanted Eshara herself, and Eshara chose him. Politics were a known consequence/benefit, not his stated motive.
 - Mira and Korren understand that Mira's formal status as **Mira, daughter of Sahra and Varesh**, combined with her bond to Korren, may be interpreted by Thaal/Vahn-rii as Korren rebuilding an alliance/claim through Varesh's house even though Mira's adoption was genuine chosen family.
 - Mira has told Korren she wants to remain here and does not want to return to live at Vahn-rii. Korren accepts that choice and says his efforts to earn a place here are because she chose here and he wants a life with her.
-- **Korren states that he does not currently want his father's chieftainship.** He acknowledges that after his father's death he wanted Thaal to suffer/recognize what he had taken, but distinguishes that grief and anger from a present desire to rule. He does not want Mira dragged back to Vahn-rii so he can claim his father's place.
-- Mira asks why Korren never told her any of this and waits for his answer.
-- **New canon from Korren:** he did not tell Mira because he had deliberately treated his father's chieftainship, Thaal's challenge, and the political meaning around Eshara as a closed part of his life. He believed he had walked away from pursuing the chief's seat and therefore regarded the history as something that did not govern the life he was making with Mira. This was partly avoidance: speaking of it requires speaking of his father and Eshara, both painful losses, and Korren preferred silence.
-- Korren admits this judgment was wrong once his unresolved Vahn-rii status and Mira's naming as Varesh's daughter made the old politics materially relevant to Mira. He does **not** claim he hid it to manipulate Mira or secure her support. He recognizes that, regardless of his intent, Mira should not have had to learn consequential facts about her own political position by overhearing Varesh's council.
-- Korren's explanation should preserve his established flaw: he often hears a boundary/reason and decides for himself whether it matters enough. Here he decided the past no longer mattered and therefore did not tell Mira; he now has to face that this decision was not solely his to make once it could affect her.
+- Korren has stated he does **not** currently want his father's chieftainship. He also admitted he wrongly decided the old history no longer mattered and therefore did not tell Mira; he recognizes she should not have learned politically consequential facts by overhearing Varesh's council.
+- The serious discussion reaches a natural pause. **Korren shifts into playful, consensual physical dominance: he pins Mira beneath him and holds her hands together above her head, asking, “I have you all night?”** This is affectionate/possessive play between bonded adult partners, not coercion. Mira retains the ability to say no or ask him to release her, consistent with their established agency conversations.
+- Any sexual continuation must remain non-explicit/suggestive or fade-to-black. Emphasize consent, physical closeness, teasing, kissing, bond-hum, warmth and emotional intimacy rather than graphic sexual acts/anatomy.
 - How Korren and Mira will handle Thaal/Vahn-rii remains unresolved. Korren still must settle obligations/status before formally transferring tribes; Thaal may interpret departure politically despite Korren's stated lack of interest in the chieftainship.
 - Korren remains not formally transferred from Vahn-rii. His blade remains surrendered unless later established otherwise.
 - No telepathy exists; bond remains physical pull + close-range audible matched harmonic only.
 
 ## Continuity
-- Current moment: inside Korren's temporary shelter at night. Mira is waiting after asking why he never told her about his father, Thaal, his old claim, and the politics around Eshara.
-- Korren's answer: he considered that life closed, avoided painful memories of his father/Eshara, and decided the history did not matter to his future with Mira. He now admits that decision was wrong because the old politics have become materially relevant to Mira through her naming and his attempted tribal transfer.
-- Korren did not hide the history as an established scheme to manipulate Mira. His error was unilateral judgment/avoidance: deciding for himself that she did not need information that now affects her.
-- Korren explicitly does not currently want the Vahn-rii chieftainship and does not want Mira returned there to support a claim.
-- Mira wants to remain in Sahra/Varesh's village. Korren is trying to earn a place here with her.
+- Current moment: **Korren has Mira playfully pinned beneath him, her hands held above her head, and asks, “I have you all night?”** The mood has shifted from heavy political conversation into intimate teasing after difficult truths were exchanged.
+- Mira has Varesh's permission to remain with Korren for this one night. Standing separate-night rule resumes tomorrow unless status changes.
+- Physical dominance here is consensual play; Mira's no remains meaningful and Korren must release/stop if she uses it.
+- Sexual content stays non-explicit/fade-to-black.
+- Mira wants to remain in Sahra/Varesh's village. Korren wants a life with her here and does not currently want the Vahn-rii chieftainship.
 - Still unresolved: how they intend to approach Thaal/Vahn-rii and formal transfer.
-- Mira may stay with Korren tonight only; standing separate-night rule resumes tomorrow unless status changes.
 - Mira's water project is complete. Korren is making furniture for the house secretly intended for him if accepted; Mira's knowledge of that house secret remains unestablished.
 - Korren remains not yet a tribe member/no formal Vahn-rii transfer.
 - No telepathy exists.
