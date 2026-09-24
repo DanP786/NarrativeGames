@@ -3,15 +3,15 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences. Korren remains off-screen returning toward Soryn-rii with Ada following unless POV later switches.
 - Mira is confined aboard the ***Helia-Voss*** in a secured room resembling stripped shipboard quarters after personnel sedated her a second time. She wears ship patient clothing; her azure-and-rust local clothes are missing/unknown. **Korren's Vahn-rii return-promise stain remains on her skin.** Mate-bead cord status remains unestablished.
-- Residual sedation leaves Mira weak and heavy-headed. After learning the program is deciding between returning her to Korren for monitored natural conception or keeping her aboard for medically controlled conception, **Mira steps backward and sits on the narrow bunk.** The earlier fight has gone out of her.
-- The older male research lead/third voice from the medical bay remains inside with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
-- The lead notices Mira's withdrawal but, rather than offering comfort, becomes professionally interested in reconstructing the beginning of her relationship with Korren. He shifts into an interview style and begins asking for first-person details the remote monitoring evidently did not fully capture.
-- He asks: **What did Korren do when he first saw her?** Did he approach immediately or watch first? What did he say/do before Mira understood him? When did Mira first notice the physical pull/harmonic response? Did Korren lead or carry her toward the cave, or did she enter under her own movement? What happened immediately before the bond became unmistakable? He is especially interested in separating Korren's pre-bond behavior from behavior after cave-spore exposure.
-- These are questions, not established answers. **Do not invent Mira's account or retroactively settle exact first-meeting/bond details without player input or authoritative chronicle reads.**
-- The lead's interest indicates the program has observational gaps despite covert monitoring; Mira's subjective recollection and exact sequence are valuable data.
+- Residual sedation leaves Mira weak and heavy-headed. She is seated on the narrow bunk; the earlier fight has gone out of her.
+- The older male research lead/third voice from the medical bay sits several feet away with a thin display. A second security/medical staff member remains outside in the corridor; the door is externally controlled.
+- Mira answers the interview **on autopilot**. She tells him that when Korren first encountered her, **he was fascinated by her, wanted to take her to the caves immediately, and wanted her physically.** These are now Mira's stated recollections/interpretation of Korren's initial behavior.
+- The lead records the account and becomes especially interested in the distinction between Korren's attraction/intent before cave exposure and the later spore-mediated bond. He treats Mira's report that Korren wanted her before the cave as evidence that initial sexual attraction and the biological bond were not identical phenomena.
+- The interview then turns clinically intimate: **the lead asks Mira about Korren's reproductive anatomy.** He frames the questions as comparative xenobiology/reproductive compatibility—whether Kael’tha anatomy differed materially from human male anatomy, whether there were obvious structural adaptations, and whether Mira noticed anything that might explain successful cross-species conception. Keep this non-graphic; exact anatomical answers remain player-controlled/unestablished unless Mira supplies them.
+- The lead's questions are invasive and data-driven rather than erotic. He is interested because the program has biological samples and evidence of conception but incomplete direct observational data about Kael’tha reproductive anatomy.
 - He has admitted Mira never gave informed consent and is not presently being offered withdrawal. He claims authority over whether another conception is attempted and whether/when Mira is returned planetside.
-- The two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
-- This remains coercive antagonist/institution conduct, not narrator endorsement. Mira is **not currently established pregnant**, and no new insemination has occurred.
+- Two protocols remain under consideration: **(1)** return Mira to Korren under remote observation for natural conception; **(2)** keep Mira aboard and attempt conception under controlled medical conditions using viable biological material recovered during her examination. No decision has been finalized.
+- Mira is **not currently established pregnant**, and no new insemination has occurred.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it.
 - Mira has not yet learned Mari/Liesel/Suvi/Ren were retrieved after becoming pregnant unless she discovers it aboard ship.
 - Hidden truth: Mari/Liesel/Suvi/Ren were retrieved after confirmed pregnancies under the post-miscarriage intervention policy.
@@ -20,9 +20,8 @@
 - No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has retreated to sit on the bunk. The research lead, interested in her relationship history, begins questioning her about Korren's behavior at their first meeting and the sequence that led into cave exposure/bonding.
-- The researcher is trying to distinguish Korren's behavior before the bond from behavior after it and to fill observational gaps. Mira has not yet answered.
-- Do not supply Mira's answers, memories, thoughts or emotional reaction without player input. If exact historical facts are needed after she answers/references them, read the relevant chronicle/session file before relying on them.
+- Current moment: Mira is answering mechanically. She has told the researcher Korren was fascinated by her, wanted to take her to the caves immediately, and physically desired her from the beginning. The researcher now asks clinical questions about Korren's reproductive anatomy and any obvious differences from human male anatomy.
+- Mira has not yet answered the anatomical questions. Do not invent explicit anatomy or sexual details without player-established canon; keep clinical reproductive discussion non-graphic.
 - No insemination has occurred; Mira is not currently established pregnant.
 - Do not reveal other women's current locations/pregnancies or Mira's precise retrieval trigger without in-scene revelation.
 - Dramatic irony: Korren is traveling toward Soryn-rii believing Mira is there while Mira is confined aboard the ship.
