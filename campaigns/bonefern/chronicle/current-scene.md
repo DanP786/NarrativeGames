@@ -3,25 +3,25 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
-- Korren returned from Vahn-rii and reunited with Mira. He is travel-worn but unhurt. Mira is steadier after the reunion and explicitly at peace beside her mate.
-- Mira asked to go inside and told Sahra that Varesh should hear what happened. The private gathering is Mira, Korren, Sahra, and Varesh. Mira has been washing road grime from Korren with a basin of water.
-- Mira rests one hand on Korren's thigh and opens her mouth to begin explaining what happened.
-- **Ada arrives at Soryn-rii and bursts into Mira and Korren's house before Mira can begin.** Her earlier distance behind Korren is now resolved: she followed far enough behind to arrive only after Korren's reunion and the family's move indoors, but soon enough to interrupt the start of Mira's disclosure.
-- Mira visibly **scowls at Ada** on sight. This is Mira's player-declared reaction.
-- Ada is travel-worn from following Korren from Vahn-rii. She has entered urgently, driven by fear/need for refuge and by seeing/learning that Mira is alive, but she has not yet been granted permission to stay in Soryn-rii and has not heard Mira's Helia-Voss disclosure.
-- Korren reacts to Ada's intrusion with immediate controlled displeasure/protective attention. He does not speak Mira's decision for her and does not reveal his harsher private opinion of Ada. Varesh and Sahra recognize that Ada is another human woman but do not yet know her current circumstances unless told.
-- **Current canon overrides stale Ada deep-file status:** Ada is unbonded; any old statement that she is currently “claimed by Thaal” is not controlling present status. She does not want a mate/bond and followed Korren because four bonded human women vanished and she feared remaining in Vahn-rii.
-- Korren knows four bonded women vanished and feared Mira would be next. He does not know the true pregnancy/retrieval correlation. Sahra/Varesh know Mira vanished and inexplicably reappeared groggy in the house. None have heard the experiment truth yet.
+- Present in the house: Mira, Korren, Sahra, Varesh, and Ada. Ada arrived from Vahn-rii after following Korren and interrupted just as Mira was preparing to explain her disappearance.
+- Mira suppresses/buries her feelings about Ada rather than confronting her and turns back to Korren, keeping the disclosure focused on what happened.
+- Mira begins: **“I was taken back to the sky ship, Helia-Voss. The other women are there too. I assume all healthy. They want to monitor their pregnancies.”**
+- This is the first disclosure to Korren/Sahra/Varesh that Mira was taken by humans to a sky ship, that the missing women are aboard it, and that the four missing bonded women are pregnant. Mira carefully says she **assumes** they are healthy; she does not claim direct confirmation beyond what she was told aboard ship.
+- Korren reacts first to the fact that humans deliberately took Mira and the four women. The pregnancy revelation also resolves for him why all four missing women shared more than simply being bonded. He remains physically close to Mira and controlled, but his attention hardens sharply.
+- Ada is stunned by the Helia-Voss revelation: she is former Helia-Voss crew and had not known the women were deliberately being retrieved/held there. She does not interrupt Mira's first explanation after her earlier intrusion.
+- Varesh treats Mira's statement as information requiring careful separation of facts: ship identity, human agency, women alive/reported alive, pregnancies, and purpose. Sahra's protective anger is immediate but she lets Mira continue.
+- Korren/Sahra/Varesh/Ada still do **not** know the broader experiment truth unless Mira continues: deliberate placement of all six women, selection criteria, cave-agent study, reproductive purpose, monitoring, lack of consent, future pregnancy intervention risk, or recovered biological material.
+- **Current canon overrides stale Ada deep-file status:** Ada is unbonded and does not want a mate/bond. She followed Korren because four bonded human women vanished and she feared remaining in Vahn-rii.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
 - The Helia-Voss program continues monitoring and may intervene in any future pregnancy. Mira knows this.
 - Mira told the program Ada will not take a mate; this remains Mira's assessment, not fixed destiny.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira's hand rests on Korren's thigh as she is about to begin her explanation. Ada abruptly enters the house and Mira scowls at her.
-- Ada has now caught up from Vahn-rii; exact lag is resolved as enough for her to arrive after the reunion but before Mira's disclosure begins.
-- Mira controls whether Ada stays, leaves, hears the disclosure, or is addressed. Varesh retains authority over Soryn-rii residence/political refuge, but he respects Mira's wishes and does not preempt her immediate response in her own house.
-- Korren/Sahra/Varesh/Ada should react only to what Mira actually tells them about Helia-Voss.
+- Current moment: Mira has begun explaining her disappearance, telling Korren, Sahra, Varesh, and Ada that she was taken to Helia-Voss, the other missing women are there, and their pregnancies are being monitored.
+- Mira controls the rest of the disclosure. Do not automatically dump the entire experiment truth into her speech.
+- Korren remains beside Mira. Ada is present and listening despite Mira's buried hostility.
+- All NPC reactions must remain limited to what Mira has actually disclosed so far.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
