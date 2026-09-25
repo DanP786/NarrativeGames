@@ -1,19 +1,18 @@
-# Current scene — Mira and Korren's house, Soryn-rii, ~Day 134
+# Current scene — Mira and Korren's house, Soryn-rii, ~Day 135 dawn
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Mira and Korren are alone in their house after Sahra and Varesh leave with Ada. Varesh intends to send urgent word to Vahn-rii that Mari, Liesel, Suvi, and Ren were taken by the sky-ship humans, are alive according to Mira's information, and are pregnant.
-- Mira initiated intimate reunion; Korren removed the Helia-Voss patient clothes and moved her to their bed. Intimacy remains consensual and non-explicit.
-- Korren carefully looked over Mira's familiar body, reassuring himself she was physically present after her disappearance. He made clear he never doubted she remained his mate; he was checking that the ship returned her whole.
-- Korren explained that “their smell” meant the sterile/chemical/washed environmental scent of Helia-Voss clinging to Mira rather than another person's intimate scent. Mira wrapped her legs around him while he slowly removed his own travel-worn clothing, watching her face throughout.
-- Korren now whispers in Mira's ear: **“When my seed is inside you I will be satisfied.”** This is possessive/reproductive language in their established consensual reunion context, but it does **not** establish conception, pregnancy, or any explicit sexual act by itself.
-- The line carries additional weight because both now know Helia-Voss wants Mira to conceive again and may intervene/retrieve her if pregnancy occurs. Korren's desire is his own, not cooperation with the experiment. Any actual choice about trying to conceive remains unresolved unless Mira chooses it.
-- Continue intimacy only suggestively/non-explicitly or fade to black. Preserve Mira's agency and Korren's controlled, possessive tenderness.
-- Mira's faded return-promise stain remains visible. Her Vahn-rii river-stone mate-cord remains missing; exact fate unresolved. Azure/rust local clothes and other pre-retrieval possessions remain missing/unknown.
-- Mira is **not currently pregnant**. No insemination occurred aboard Helia-Voss. Any future conception remains unresolved and under Mira/Korren's agency.
+- Mira and Korren spend their first night reunited in their Soryn-rii house after her forced retrieval and return from Helia-Voss.
+- Korren sleeps very little. Through the night he repeatedly holds Mira close and, at intervals, they make love; all sexual activity is kept non-explicit/fade-to-black. His behavior is driven by relief and a need for physical reassurance that Mira is present, alive, and still his mate after he feared she had vanished like the other bonded women.
+- Mira is willingly compliant with Korren throughout the night and is happy in his arms. She does not presently care whether her deep willingness/attachment originates in the cave bond, her own later-developed love and choices, or some inseparable mixture of both. Do **not** resolve that ambiguity objectively: native spores genuinely cause the bond, but Mira's later choices and affection are also real, and no mechanism erases her agency.
+- Korren's possessiveness remains attentive rather than punitive. He does not blame Mira for being taken, the experiment, the missing cord, or the ship's interest in another conception.
+- Their repeated intimacy does **not** establish conception or pregnancy. Mira is not currently known pregnant. Any later pregnancy requires separate establishment.
+- Mira's faded return-promise stain remains visible. Her Vahn-rii river-stone mate-cord remains missing; exact fate unresolved. Her azure/rust local clothes and other pre-retrieval possessions remain missing/unknown.
+- During the prior evening Varesh said he would send word to Vahn-rii that Mari, Liesel, Suvi, and Ren were taken by the sky-ship humans, are alive according to Mira's information, and are pregnant. The message's arrival/reactions are not yet established.
+- Ada's temporary shelter/refuge is being handled by Sahra/Varesh; permanent status in Soryn-rii remains unresolved.
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira and Korren are close on their bed after forced separation. Korren has whispered that he will be satisfied when his seed is inside her. The mood is possessive, intimate, and emotionally charged by the known future-pregnancy threat.
-- Do not narrate Mira's consent to conception or her response unless the player supplies it. Do not establish pregnancy from intercourse alone.
-- Outside the house, Varesh is arranging word to Vahn-rii; Ada's temporary shelter/refuge is being handled by Sahra/Varesh, permanent status unresolved.
+- Current moment advances through the night toward dawn, ~Day 135. Mira is safe in Korren's arms in their own bed; Korren has barely slept, repeatedly reassuring himself of her presence through holding and consensual intimacy.
+- Morning can progress into practical consequences: Mira's recovery, replacement local clothing/mate-cord, Ada's status, village response, and/or eventual Vahn-rii reaction to Varesh's message. Do not decide major Mira choices without player input.
+- Keep future intimacy suggestive/non-explicit.
