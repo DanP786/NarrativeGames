@@ -4,21 +4,20 @@
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Present: Mira, Korren, Sahra, Varesh, Ada. Mira is returned from Helia-Voss in grey patient clothing; she is not currently pregnant and no insemination occurred aboard ship.
 - Mira has disclosed the deliberate bond/reproduction experiment, four pregnancies/retrievals, her requested return, possible future re-retrieval, possible future human cohabitation/colonization interest, lack of Kael’tha consultation, and selection of the six women partly for predicted psychological compatibility with Kael’tha mating culture.
-- When Ada reacts angrily to being categorized as submissive-compatible, Mira dismisses the program's judgment of Ada with **“Well they chose wrong with you.”**
-- Mira then tells Varesh: **“Father, I don’t know what they plan to do. They could leave. But I know one thing. I want to stay here. With you.”** She looks to Sahra/Varesh and then Korren, explicitly reaffirming Soryn-rii, her adopted parents, and Korren as the life/home she chooses despite the experiment's manipulation.
-- Varesh accepts Mira's statement as her present choice and does not treat it as binding away her future agency. Sahra responds as Mira's mother, protective and emotionally affected. Korren hears the choice without conflating it with the bond or selection criteria.
-- **Korren notices for the first time since Mira's return that her Vahn-rii river-stone mate-bead cord is missing from her waist.** Before retrieval it wrapped twice around her waist with polished green river stone at the front and mate-knot at the right hip. Mira's current grey Helia-Voss clothing has no cord. The cord's actual location/fate remains unknown/unestablished; only its absence is now canonically observed.
-- Korren's attention catches on the bare place where the cord should be. Because the cord is culturally/pair significant and Mira did not voluntarily establish removing it, he asks about it rather than assuming she rejected/discarded it.
-- Mira's locally tailored azure/rust clothing and other pre-retrieval possessions likewise remain missing/unknown unless later established.
-- Ada remains present and hears Mira explicitly choose Soryn-rii/Korren/family. Mira's earlier hostility remains buried rather than resolved.
-- Broader colonization remains a possibility only, not approved or inevitable. Mira's warning about humans imposing norms remains her assessment, not objective future canon.
+- Mira has reaffirmed that she wants to remain in Soryn-rii with Sahra, Varesh, and Korren.
+- Korren notices Mira's Vahn-rii river-stone mate-bead cord is missing. Mira rises onto her knees and lifts the hem of her grey ship top to look; her waist is bare. She says: **“They must have took it…”**
+- This establishes Mira's inference that Helia-Voss personnel removed/took the cord during retrieval/examination, but the cord's actual current location and whether it was stored, discarded, or otherwise handled remain unknown.
+- Korren reacts with quiet hurt and anger because the cord was a tangible sign of their mate relationship and was removed while Mira was unconscious/out of his reach. He does not blame Mira and immediately recognizes she did not choose to remove it.
+- Korren touches the bare place at her waist carefully and states that he knows she did not take it off. The missing object becomes another concrete violation alongside her forced removal.
+- Sahra understands the cultural weight of the missing mate-cord and is angered by it. Varesh treats it as evidence that Helia-Voss handled/changed Mira's belongings while she was taken, but does not infer the cord's fate beyond what is known.
+- Mira's locally tailored azure/rust clothing and other pre-retrieval possessions remain missing/unknown.
+- Ada remains present; Mira's earlier hostility toward her remains unresolved.
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has reaffirmed that she wants to remain in Soryn-rii with Sahra, Varesh, and Korren. Korren then notices her green river-stone mate-cord is missing and focuses on the absence.
-- The mate-cord's fate is unresolved. Do not invent that Helia-Voss destroyed, confiscated, stored, or returned it unless established later.
-- Mira controls how she reacts to/notices the missing cord and what she tells Korren.
-- Varesh/Sahra recognize her choice while remaining concerned about the external threat. Ada is still in the room.
+- Current moment: Mira is kneeling beside Korren with her grey top lifted enough to expose her bare waist, having realized the mate-cord is gone and inferred the ship personnel took it.
+- Korren knows Mira did not voluntarily remove the cord. Its exact fate is unresolved.
+- This can naturally lead to Korren offering/replacing the cord later, Mira asking about her other belongings, or the family returning to the larger threat; do not decide Mira's response for her.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
