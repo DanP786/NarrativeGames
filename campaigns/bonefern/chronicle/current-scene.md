@@ -2,23 +2,21 @@
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Present in the house: Mira, Korren, Sahra, Varesh, and Ada. Mira is returned from Helia-Voss in grey patient clothing; she is not currently pregnant and no insemination occurred aboard ship.
-- Mira has told them she was taken to the sky ship Helia-Voss; Mari, Liesel, Suvi, and Ren are there; she assumes they are healthy; all four are pregnant and the ship wants to monitor those pregnancies.
-- When Korren asks why, Mira continues: **“To make ensure they give birth. To be close in case they need to heal them. They sent us here to bond and reproduce…”** (Meaning preserved despite spoken grammatical stumble: the operators want successful births and medical proximity.)
-- This discloses the central experiment purpose to the room: the women's arrival on the planet was deliberate rather than accidental, and human operators intended them to form Kael’tha bonds and reproduce. Mira has not yet explained selection criteria, spores, implants, lack of informed consent, or future retrieval risk unless she continues.
-- Korren's reaction is controlled but severe: the revelation reframes his first encounter with Mira and the caves as something human outsiders deliberately arranged around them, though it does **not** mean the operators caused the native bond itself. He does not blame Mira or treat her later choices/love as unreal.
-- Varesh immediately recognizes the political implication: outsiders deliberately placed human women among Kael’tha communities to produce children without informing either people. He keeps fact and inference separate and lets Mira continue before deciding motive beyond what she states.
-- Sahra reacts protectively to Mira being used without consent and to pregnancies being treated as the objective of the placement.
-- Ada, former Helia-Voss engineer, is shocked by the deliberate-deployment revelation. She had believed their stranding/loss was real and did not know the ship had selected/sent them for this purpose. She remains unbonded and has not yet interrupted the disclosure.
-- Korren keeps physical contact with Mira, his hand over hers on his thigh. The room remains focused on Mira's account.
-- Mira knows the broader truth: selection included reproductive health, conventional attractiveness, and psychological traits; cave spores genuinely cause the bond; implants do not cause/control it; the program studies cross-species bonding/reproduction; after Mira's miscarriage it began retrieving later pregnant bonded women; future pregnancy may trigger intervention/retrieval; no informed consent/withdrawal was offered.
-- Mira controls which of these facts she discloses and in what order.
-- Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
+- Present: Mira, Korren, Sahra, Varesh, Ada. Mira is returned from Helia-Voss in grey patient clothing; she is not currently pregnant and no insemination occurred aboard ship.
+- Mira has disclosed that Helia-Voss deliberately sent the six women planetside to bond with Kael’tha and reproduce; Mari, Liesel, Suvi, and Ren are aboard the ship pregnant and being monitored to improve the chance of successful births.
+- Mira addresses Ada coolly: **“I told them you won’t bond. Whether they retrieve you or leave you here I don’t know.”** This is Mira's assessment of Ada and uncertainty about operator plans, not fixed future canon.
+- Mira turns back to Korren and says: **“I persuaded them to bring me back. They want me to conceive again…”** This discloses that Mira's return followed her own request/persuasion and that the program explicitly wants another conception from Mira and Korren's pair.
+- Korren reacts strongly but with controlled restraint. He understands that the humans who took Mira intend their mating/reproduction to continue for the study. He does not treat Mira as responsible for their plan and does not confuse operator intent with Mira's own wishes.
+- Sahra's protective anger intensifies at outsiders treating her daughter's fertility as program property. Varesh focuses on the practical threat: if the operators can take and return Mira at will and still want another pregnancy, the family/village needs to know whether another conception would trigger another removal. He asks this as the next critical question rather than assuming the answer.
+- Ada absorbs Mira's cool warning without arguing that she will bond. The revelation makes clear to her that being the only unbonded subject may affect how the operators treat her, but exact future operator action toward Ada remains unknown.
+- Mira has **not yet disclosed** to the room that confirmed future pregnancy may trigger intervention/reassessment and possible retrieval; that is the immediate question now raised by Varesh/Korren.
+- Mira also has not yet disclosed selection criteria, lack of informed consent/withdrawal, recovered biological material, or detailed cave-spore/implant distinction unless she continues.
+- Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has revealed that Helia-Voss deliberately sent the six women planetside to bond with Kael’tha and reproduce, and that the missing pregnant women were taken aboard for monitoring/medical intervention intended to help ensure successful births.
-- Korren, Sahra, Varesh, and Ada are absorbing the revelation. Mira controls the next disclosure.
-- Do not have NPCs know selection criteria, exact cave-spore mechanism, future Mira pregnancy protocol, or other undisclosed details until Mira tells them.
+- Current moment: Mira has told Ada she warned the program Ada will not bond and does not know whether they will retrieve or leave her. Mira then tells Korren she persuaded the program to return her and that they want her to conceive again.
+- Varesh's immediate practical question is whether another pregnancy would cause the sky-ship people to take Mira again. Korren is beside Mira, physically controlled but intensely focused on the answer.
+- Mira controls the answer/disclosure. Do not imply current pregnancy; Mira is not currently pregnant.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
