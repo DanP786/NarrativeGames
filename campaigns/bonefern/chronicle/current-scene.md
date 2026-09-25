@@ -3,23 +3,25 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
-- Korren returned from Vahn-rii and reunited with Mira on the balcony. He is travel-worn but unhurt. Mira is still somewhat affected by sedation but becomes steadier after the reunion; she has explicitly established that she feels at peace beside her mate.
-- When Korren asks where she was taken, Mira answers evenly: **“Let's go inside.”** She turns to Sahra and says, **“Mother, father should hear this too.”** She then moves into the house under her own power, with Korren staying close enough to catch/support her if needed rather than carrying her against her choice.
-- Sahra accepts and sends/ensures word for Varesh to join them. **Varesh arrives to hear Mira's account.** Orenna's earlier summons remains relevant medically, but she is not required to remain for the private family disclosure unless Mira asks or her condition worsens.
-- Inside, Mira fills a basin with water and begins washing the road grime from Korren. This is a calm, intimate caretaking act rather than sexual content. Korren allows it, staying close and watching Mira carefully. He does not rush her explanation while she settles herself through the familiar domestic task.
-- Sahra and Varesh give Mira space to speak in her own time. The gathering is now **Mira, Korren, Sahra, and Varesh** in the house for the forthcoming Helia-Voss/experiment disclosure.
-- Korren knows only that four bonded women vanished, feared Mira would be next, and found her returned in unfamiliar clothing. Sahra/Varesh know Mira vanished and inexplicably reappeared groggy in the house. None yet know the experiment truth.
-- Ada had been following Korren from Vahn-rii. Her exact arrival timing remains unresolved; she is not yet part of this private family scene.
+- Korren returned from Vahn-rii and reunited with Mira. He is travel-worn but unhurt. Mira is steadier after the reunion and explicitly at peace beside her mate.
+- Mira asked to go inside and told Sahra that Varesh should hear what happened. The private gathering is Mira, Korren, Sahra, and Varesh. Mira has been washing road grime from Korren with a basin of water.
+- Mira rests one hand on Korren's thigh and opens her mouth to begin explaining what happened.
+- **Ada arrives at Soryn-rii and bursts into Mira and Korren's house before Mira can begin.** Her earlier distance behind Korren is now resolved: she followed far enough behind to arrive only after Korren's reunion and the family's move indoors, but soon enough to interrupt the start of Mira's disclosure.
+- Mira visibly **scowls at Ada** on sight. This is Mira's player-declared reaction.
+- Ada is travel-worn from following Korren from Vahn-rii. She has entered urgently, driven by fear/need for refuge and by seeing/learning that Mira is alive, but she has not yet been granted permission to stay in Soryn-rii and has not heard Mira's Helia-Voss disclosure.
+- Korren reacts to Ada's intrusion with immediate controlled displeasure/protective attention. He does not speak Mira's decision for her and does not reveal his harsher private opinion of Ada. Varesh and Sahra recognize that Ada is another human woman but do not yet know her current circumstances unless told.
+- **Current canon overrides stale Ada deep-file status:** Ada is unbonded; any old statement that she is currently “claimed by Thaal” is not controlling present status. She does not want a mate/bond and followed Korren because four bonded human women vanished and she feared remaining in Vahn-rii.
+- Korren knows four bonded women vanished and feared Mira would be next. He does not know the true pregnancy/retrieval correlation. Sahra/Varesh know Mira vanished and inexplicably reappeared groggy in the house. None have heard the experiment truth yet.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
 - The Helia-Voss program continues monitoring and may intervene in any future pregnancy. Mira knows this.
 - Mira told the program Ada will not take a mate; this remains Mira's assessment, not fixed destiny.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira is inside her home with Korren, Sahra, and Varesh. She is washing travel grime from Korren with a basin of water, steadier and at peace beside him, preparing to explain where she was taken and what she learned.
-- Mira controls the disclosure. Do not put the Helia-Voss explanation into her mouth unless the player asks the GM to summarize her telling.
-- Korren/Sahra/Varesh should react only to what Mira actually tells them.
-- Ada's exact arrival timing remains unresolved.
+- Current moment: Mira's hand rests on Korren's thigh as she is about to begin her explanation. Ada abruptly enters the house and Mira scowls at her.
+- Ada has now caught up from Vahn-rii; exact lag is resolved as enough for her to arrive after the reunion but before Mira's disclosure begins.
+- Mira controls whether Ada stays, leaves, hears the disclosure, or is addressed. Varesh retains authority over Soryn-rii residence/political refuge, but he respects Mira's wishes and does not preempt her immediate response in her own house.
+- Korren/Sahra/Varesh/Ada should react only to what Mira actually tells them about Helia-Voss.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
