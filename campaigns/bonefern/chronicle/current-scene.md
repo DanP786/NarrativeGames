@@ -2,13 +2,12 @@
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Mira and Korren have spent their first reunited night in their Soryn-rii house after her forced retrieval and return from Helia-Voss. Korren slept little, repeatedly holding her and sharing consensual non-explicit intimacy for reassurance. Mira was willingly compliant and happy in his arms; she presently does not care whether that contentment comes from the cave bond, her later-developed love/choices, or both. Do not resolve the ambiguity objectively.
-- In the morning Mira washes, tends her long wavy hair with local products Sahra gave her, while Korren works nearby on a replacement mate-cord. He has said Mira is not to leave without the new cord once it is ready.
-- Mira asked what would reassure him most. Korren said the most important things are that she tell him when she leaves, where she means to go, return when she says she will, or send word if she cannot. He still likes her carrying his scent and the visible mate-cord, but understands neither could have prevented Helia-Voss from taking her.
-- Mira moves in front of Korren and begins intimate touching while saying **“They asked me about this.”** Keep the physical action non-explicit/fade-to-black. The important story beat is the disclosure that Helia-Voss researchers questioned Mira about Korren's sexual/reproductive anatomy during the clinical interview.
-- Korren reacts primarily to the fact that strangers questioned Mira about intimate details of him/their mating, especially given the experiment's reproductive purpose. His response should be controlled, possessive, and suspicious rather than blaming Mira. He can ask what they wanted to know and what she told them.
-- Mira has not yet told Korren the fuller clinical interview details, including the researchers' anatomical questioning, recovered semen sample, frequency/pain/adaptation questions, or their reproductive analysis. Do not auto-disclose those; Mira controls what she tells him.
-- The exact materials/design of the new mate-cord are not yet fixed beyond being a replacement for the culturally significant waist cord.
+- Mira and Korren are reunited in their Soryn-rii house after her forced retrieval/return from Helia-Voss. The morning is intimate and domestic; Korren is making a replacement mate-cord while Mira remains close to him. Sexual contact/references stay non-explicit.
+- Mira has told Korren the Helia-Voss researchers questioned her about his sexual/reproductive anatomy. She now specifies: **“They wanted to know what it looked like, how big, whether it made reproduction easier or harder. I told them how big you are, which is significantly bigger than human males.”**
+- This establishes that Korren now knows the researchers asked Mira about his appearance/size and whether cross-species anatomy might affect reproduction, and that Mira answered by comparing his size with human males. No exact measurements are established.
+- Korren reacts with controlled displeasure at the researchers' intrusion and clinical treatment of their mating, not with blame toward Mira. He recognizes the questioning was part of the reproductive experiment and can ask what else they asked or learned.
+- Mira has **not yet told Korren** about the recovered semen sample collected while she was sedated, nor the full clinical questioning about pain, adaptation, frequency, initiation, attachment timing, or reproductive analysis. Do not auto-disclose these; Mira controls further disclosure.
+- Korren's replacement mate-cord remains unfinished. Exact materials/design are not yet fixed.
 - Mira's faded return-promise stain remains visible. Original mate-cord remains missing; exact fate unresolved. Azure/rust local clothes and other pre-retrieval possessions remain missing/unknown.
 - Mira is **not currently known pregnant**. Recent intimacy does not establish conception or pregnancy.
 - Varesh intends to send word to Vahn-rii that Mari, Liesel, Suvi, and Ren were taken by sky-ship humans, are alive according to Mira's information, and are pregnant. Message arrival/reactions are not yet established.
@@ -16,6 +15,5 @@
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira is directly in front of Korren during intimate but non-explicit contact and has told him the ship researchers asked her about his sexual/reproductive anatomy.
-- Korren can ask what they asked/were trying to learn. Do not narrate Mira's answers or reveal the semen collection unless the player chooses to disclose it.
-- Preserve Mira's agency; keep sexual action non-explicit.
+- Current moment: Mira is close to Korren and has just explained the researchers asked about his anatomy/size and reproductive compatibility, and that she told them he is significantly larger than human males.
+- Korren can respond to the clinical intrusion and the comparison, and ask what else was asked. Preserve Mira's agency and keep physical intimacy non-explicit.
