@@ -3,21 +3,21 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Present: Mira, Korren, Sahra, Varesh, Ada. Mira is returned from Helia-Voss in grey patient clothing; she is not currently pregnant and no insemination occurred aboard ship.
-- Mira has disclosed that Helia-Voss deliberately sent the six women planetside to bond with Kael’tha and reproduce; Mari, Liesel, Suvi, and Ren are aboard the ship pregnant and being monitored to improve the chance of successful births. Mira persuaded the program to return her, and the program wants her to conceive again.
-- When Varesh asks whether another pregnancy could cause the humans to take Mira again, Mira nods and answers: **“Maybe. They’re beginning to understand the bond. They may even bring the women back if it causes too much distress. But they don’t know how cross species pregnancies are going go.”**
-- This discloses the uncertainty accurately: a future confirmed pregnancy could trigger intervention/reassessment and possible retrieval, but operators are reconsidering separation because bond-related separation distress may itself create medical/protocol risk. Return of the other women is possible, not promised. Cross-species pregnancy outcomes remain uncertain.
-- Korren now understands that another conception with Mira could expose her to another forced separation. He does not assume pregnancy itself is unwanted by Mira, but the possibility of outsiders taking her again becomes the immediate threat. He states that he will not knowingly surrender her to them, while recognizing they took her once without his knowledge and he does not yet know how to stop them.
-- Varesh distinguishes the problem: the village cannot presently defend against a method of taking people it does not understand. He wants facts about how Mira was taken/returned and whether the sky people can be detected, but those details remain unresolved even to Mira where her memory is absent.
-- Sahra is angry but focuses on Mira's safety rather than demanding a reproductive decision from her.
-- Ada hears that the program may leave/retrieve her and that the other women might eventually be returned if separation distress proves dangerous. She remains unbonded and does not know operator plans for her.
+- Mira has disclosed that Helia-Voss deliberately sent the six women planetside to bond with Kael’tha and reproduce; Mari, Liesel, Suvi, and Ren are aboard the ship pregnant and being monitored to improve the chance of successful births. Mira persuaded the program to return her, and the program wants her to conceive again. Another confirmed pregnancy could lead to intervention/retrieval, though separation distress may cause the program to reconsider and perhaps return women.
+- Mira now explains the larger human mission context: **“Our mission was to find a planet we could colonise. But any planet had sentient beings we couldn’t inhabit. Let alone sapient beings. But they said they want to see if we could co-habit.”**
+- The room now understands that the experiment may feed into a broader question of future human settlement/cohabitation. This does **not** establish a finalized colonization policy, authorization, timetable, or inevitable settlement; Mira only reports what she was told about the mission and stated interest in testing cohabitation.
+- Varesh immediately recognizes the political scale: the issue extends beyond six women and their mates to whether more humans might someday seek to live on Kael’tha land. He distinguishes cohabitation as a stated human possibility from consent by Kael’tha communities and asks who among Kael’tha was consulted/authorized it. Mira knows from Helia-Voss that Kael’tha were excluded from human institutional decision-making.
+- Korren's protective concern broadens from Mira to Soryn-rii: outsiders able to observe, take, and return people may be considering future presence. He remains beside Mira and does not turn the discussion into a decision about her reproductive choices.
+- Ada, as former Helia-Voss engineer, recognizes the original colony-search mission but did not know the covert experiment/cohabitation test. Her technical background makes the mismatch between declared mission constraints and secret experiment legible to her.
+- Sahra reacts to the implication that humans might discuss living among Kael’tha without first asking them; she remains focused on family/village safety.
 - Mira has not yet disclosed selection criteria, recovered biological material, full lack-of-consent statements, or detailed spore/implant distinction unless she continues.
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: everyone now knows another Mira pregnancy could lead to another retrieval, but that Helia-Voss is reconsidering separation because bonded-pair distress may be harmful and may potentially return the other women.
-- Korren is beside Mira, controlled but protective; Varesh is shifting toward practical defense/information gathering; Sahra remains protective; Ada is listening.
-- Mira controls further disclosure and any reproductive decision. No NPC should decide for her whether she and Korren try to conceive.
-- Exact retrieval technology/method and exact monitoring method remain unknown/unestablished.
+- Current moment: Mira has connected the reproductive/bond experiment to Helia-Voss's original colonization mission and reports that operators want to see whether humans and Kael’tha could cohabit.
+- Varesh's immediate concern is political consent: who, if anyone, among the Kael’tha was asked. Korren is thinking in terms of threat to home as well as mate. Ada is listening with shipboard knowledge but did not know the covert program.
+- Do not establish that colonization is approved or inevitable; broader authorities and final policy remain unknown.
+- Mira controls further disclosure.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
