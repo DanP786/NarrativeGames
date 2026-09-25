@@ -1,23 +1,21 @@
-# Current scene — Mira and Korren's house, Soryn-rii, ~Day 135 afternoon
+# Current scene — Mira leaving for Varesh and Sahra's house, Soryn-rii, ~Day 135 afternoon
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Mira and Korren are reunited in their Soryn-rii house after her forced retrieval/return from Helia-Voss. Their first day back together has remained intimate and domestic, with sexual activity handled non-explicitly/fade-to-black.
-- Korren remains deeply asleep, exhaustion finally overcoming his vigilance after racing from Vahn-rii and spending the reunion night mostly awake. The completed replacement mate-cord remains in his sleeping hand: more opulent than Mira's lost Vahn-rii river-stone cord and incorporating Soryn-rii gems and shells. Korren has not yet tied it onto Mira.
-- Mira is wearing a short local dress and quietly preparing food so Korren can continue sleeping.
-- Sahra came to the house for Mira and kept her voice low after seeing Korren asleep. She said Varesh wishes to speak with Mira when she is rested and that Ada has been asking what happens to her now.
-- Mira nods and answers quietly: **“ok, let me finish cooking and I’ll be right over”**. She intends to finish the food before going to speak with Varesh/Ada.
-- Sahra accepts this without requiring Korren to be awakened and leaves Mira to finish cooking. Korren remains asleep for now.
-- Mira previously agreed to Korren's request that she tell him when she leaves, where she means to go, and return when she says she will or send word if she cannot. Since Korren is currently asleep and Mira plans to leave shortly to see Varesh, how she handles informing him remains an immediate practical choice; do not decide it for her.
+- Korren remains deeply asleep in their house, exhaustion finally overcoming his vigilance after racing from Vahn-rii and spending the reunion night mostly awake.
+- Mira finishes cooking, eats a little as Sahra urged, and plates a portion for Korren to eat when he wakes.
+- The completed replacement mate-cord remains in Korren's sleeping hand. Mira gently tries to pull it free but stops rather than risk waking him. She therefore leaves **without the new mate-cord**, despite Korren's earlier possessive statement that once it was finished she should not leave the house without it. This is a practical choice made to let him sleep, not rejection of the cord.
+- Mira wants to honor Korren's request that she tell him when she leaves and where she is going. Because he is asleep, she looks for a physical sign/message that will tell him she has gone specifically to her parents, Varesh and Sahra.
+- Mira uses an understandable household marker rather than waking him: she leaves Korren's plated food in its usual place and sets one of **Sahra's hair-care containers** beside it, paired with a simple directional/household token pointing toward Varesh and Sahra's home. The exact local writing/literacy system is not established, so this functions as a familiar visual message rather than invented written language. It should be legible to Korren as: Mira went to Sahra/Varesh and expects to return.
+- Mira is wearing a short local dress. Her faded return-promise stain remains visible. Original Vahn-rii green river-stone mate-cord remains missing; exact fate unresolved. Azure/rust departure ensemble and other pre-retrieval possessions remain missing/unknown.
+- Sahra has asked Mira to come speak with Varesh; Ada has been asking what happens to her now. Ada's permanent status in Soryn-rii is unresolved and is the immediate outside topic.
 - Mira has **not yet told Korren** about the semen sample recovered from her body while she was sedated. Do not auto-disclose it; Mira controls that disclosure.
-- Mira's faded return-promise stain remains visible. Original Vahn-rii green river-stone mate-cord remains missing; exact fate unresolved. Azure/rust departure ensemble and other pre-retrieval possessions remain missing/unknown.
 - Mira is **not currently known pregnant**. Recent intimacy does not establish conception or pregnancy.
 - Varesh intends to send word to Vahn-rii that Mari, Liesel, Suvi, and Ren were taken by sky-ship humans, are alive according to Mira's information, and are pregnant. Message arrival/reactions are not yet established.
-- Ada's temporary shelter/refuge is being handled by Sahra/Varesh; permanent status in Soryn-rii remains unresolved and is now an immediate topic for discussion.
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Sahra has left after Mira promised to come over once she finishes cooking. Mira is back inside/at the cooking area, Korren still sleeping nearby with the finished cord in hand.
-- Once the food is finished, Mira will need to decide whether/how to inform sleeping Korren before going to Varesh, consistent with his earlier request. Do not force her choice.
-- The next outside scene can address Ada's status and Varesh's concerns, while Vahn-rii message arrival/reactions remain unestablished.
-- Preserve Mira's agency; all sexual references remain non-explicit.
+- Current transition: Mira has eaten, left food for Korren, left a recognizable non-written sign that she has gone to Sahra/Varesh, and is ready to walk to her parents' home while Korren sleeps.
+- The new mate-cord remains in Korren's hand and has not yet been tied on Mira.
+- Next scene can move to Varesh/Sahra/Ada and the question of Ada's status. Korren may wake later and understand where Mira went from the sign; do not have him instantly appear unless enough time passes or events warrant it.
+- Preserve Mira's agency.
