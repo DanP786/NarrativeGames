@@ -3,21 +3,22 @@
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
 - Present: Mira, Korren, Sahra, Varesh, Ada. Mira is returned from Helia-Voss in grey patient clothing; she is not currently pregnant and no insemination occurred aboard ship.
-- Mira has disclosed the deliberate bond/reproduction experiment, the four pregnancies/retrievals, her requested return, possible future re-retrieval, and Helia-Voss's interest in whether humans and Kael’tha could eventually cohabit as part of the colony-search mission.
-- Varesh asks whether any Kael’tha were consulted before the experiment. Mira answers **“No.”** She then discloses that the program selected women thought to suit Kael’tha culture, including being psychologically inclined toward submissiveness/acceptance of controlling or possessive pair dynamics.
-- Mira continues with her own assessment/prediction: **“But humans aren’t submissive by nature. They won’t want to live beside you but dictate how you live your life. The way of life as you know it would change.”** This is **Mira's warning/opinion**, not narrator-established fact about all humans or inevitable future colonization. Future human behavior and settlement policy remain unresolved.
-- Korren reacts to learning Mira was psychologically selected as a potentially compatible subject. He does not treat this as invalidating Mira's later choices, love, or bond; he recognizes that outsiders tried to predict/exploit traits she already had.
-- Varesh distinguishes the factual selection criteria from Mira's forecast about future humans. He takes her warning seriously while noting that six selected women cannot establish what all humans would do. His political concern remains lack of Kael’tha consent and potential cultural disruption if settlement is attempted.
-- Sahra is angered that strangers assessed/selectively used Mira's temperament and body for the experiment.
-- Ada reacts sharply to the characterization of the six women as selected for submissive compatibility; it clashes with her self-conception and with her refusal to bond. She may challenge the inference/selection model, but not the fact Mira was told selection criteria existed.
-- Mira has not yet disclosed recovered biological material, full lack-of-consent/withdrawal statements, or detailed spore/implant distinction unless she continues.
+- Mira has disclosed the deliberate bond/reproduction experiment, four pregnancies/retrievals, her requested return, possible future re-retrieval, possible future human cohabitation/colonization interest, lack of Kael’tha consultation, and selection of the six women partly for predicted psychological compatibility with Kael’tha mating culture.
+- When Ada reacts angrily to being categorized as submissive-compatible, Mira dismisses the program's judgment of Ada with **“Well they chose wrong with you.”**
+- Mira then tells Varesh: **“Father, I don’t know what they plan to do. They could leave. But I know one thing. I want to stay here. With you.”** She looks to Sahra/Varesh and then Korren, explicitly reaffirming Soryn-rii, her adopted parents, and Korren as the life/home she chooses despite the experiment's manipulation.
+- Varesh accepts Mira's statement as her present choice and does not treat it as binding away her future agency. Sahra responds as Mira's mother, protective and emotionally affected. Korren hears the choice without conflating it with the bond or selection criteria.
+- **Korren notices for the first time since Mira's return that her Vahn-rii river-stone mate-bead cord is missing from her waist.** Before retrieval it wrapped twice around her waist with polished green river stone at the front and mate-knot at the right hip. Mira's current grey Helia-Voss clothing has no cord. The cord's actual location/fate remains unknown/unestablished; only its absence is now canonically observed.
+- Korren's attention catches on the bare place where the cord should be. Because the cord is culturally/pair significant and Mira did not voluntarily establish removing it, he asks about it rather than assuming she rejected/discarded it.
+- Mira's locally tailored azure/rust clothing and other pre-retrieval possessions likewise remain missing/unknown unless later established.
+- Ada remains present and hears Mira explicitly choose Soryn-rii/Korren/family. Mira's earlier hostility remains buried rather than resolved.
+- Broader colonization remains a possibility only, not approved or inevitable. Mira's warning about humans imposing norms remains her assessment, not objective future canon.
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: the room now knows no Kael’tha were consulted and that the six women were selected partly for predicted psychological compatibility with possessive/protective Kael’tha mating culture. Mira warns that a larger, ordinary human population might seek to impose its norms and change Kael’tha life.
-- Treat Mira's generalization about humans as her perspective, not objective canon. Varesh should separate evidence from prediction.
-- Korren remains beside Mira; selection does not erase her agency or later chosen attachment.
-- Broader colonization remains only a possibility, not approved/inevitable.
+- Current moment: Mira has reaffirmed that she wants to remain in Soryn-rii with Sahra, Varesh, and Korren. Korren then notices her green river-stone mate-cord is missing and focuses on the absence.
+- The mate-cord's fate is unresolved. Do not invent that Helia-Voss destroyed, confiscated, stored, or returned it unless established later.
+- Mira controls how she reacts to/notices the missing cord and what she tells Korren.
+- Varesh/Sahra recognize her choice while remaining concerned about the external threat. Ada is still in the room.
 
 ## Hidden GM canon — not known in-world
 - Six women were deliberately selected from thousands for a reproductive/bond experiment; selection included health/childbearing age, conventional human attractiveness, and psychological predisposition toward accepting being controlled/claimed/kept under suitable circumstances.
