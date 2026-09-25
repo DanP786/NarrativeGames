@@ -1,24 +1,24 @@
-# Current scene — balcony of Mira and Korren's house, Soryn-rii, ~Day 134
+# Current scene — Mira and Korren's house, Soryn-rii, ~Day 134
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii after an unremembered/unestablished transfer. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
-- Korren has reached Mira on the balcony after racing back from Vahn-rii. He is travel-worn and supporting her weight in a close embrace. Their bond hum has settled into its familiar shared note; there is no telepathy.
-- After Korren asks whether Mira is hurt, Mira answers **“No. Are you?”**
-- Korren answers that he is **not hurt**, though he is visibly exhausted/travel-worn from pushing hard back from Vahn-rii. He does not make his condition important compared with finding Mira alive.
-- Korren tells Mira he went to Vahn-rii, learned the other four women had disappeared, realized all four were bonded, and came back because he feared the same might happen to her. He does not yet know the true pregnancy/retrieval correlation.
-- Korren remains physically close/supportive and then asks Mira the necessary question: **“Where did they take you?”** This opens Mira's disclosure of Helia-Voss and the experiment.
-- Sahra remains nearby but gives them space. Varesh/Orenna/villagers are converging without yet interrupting.
-- Ada had been following Korren from Vahn-rii. Her exact distance behind him remains unresolved; she has not yet entered the reunion scene.
-- Korren does not know the experiment truth, Helia-Voss involvement, the other women's pregnancies/retrievals, or that future monitoring/intervention remains possible. Mira controls disclosure.
+- Mira has been returned from Helia-Voss to the house she shares with Korren in Soryn-rii. Her return-promise stain remains somewhat faded; she wears grey Helia-Voss patient clothing. She is not currently pregnant; no insemination occurred aboard ship.
+- Korren returned from Vahn-rii and reunited with Mira on the balcony. He is travel-worn but unhurt. Mira is still somewhat affected by sedation but becomes steadier after the reunion; she has explicitly established that she feels at peace beside her mate.
+- When Korren asks where she was taken, Mira answers evenly: **“Let's go inside.”** She turns to Sahra and says, **“Mother, father should hear this too.”** She then moves into the house under her own power, with Korren staying close enough to catch/support her if needed rather than carrying her against her choice.
+- Sahra accepts and sends/ensures word for Varesh to join them. **Varesh arrives to hear Mira's account.** Orenna's earlier summons remains relevant medically, but she is not required to remain for the private family disclosure unless Mira asks or her condition worsens.
+- Inside, Mira fills a basin with water and begins washing the road grime from Korren. This is a calm, intimate caretaking act rather than sexual content. Korren allows it, staying close and watching Mira carefully. He does not rush her explanation while she settles herself through the familiar domestic task.
+- Sahra and Varesh give Mira space to speak in her own time. The gathering is now **Mira, Korren, Sahra, and Varesh** in the house for the forthcoming Helia-Voss/experiment disclosure.
+- Korren knows only that four bonded women vanished, feared Mira would be next, and found her returned in unfamiliar clothing. Sahra/Varesh know Mira vanished and inexplicably reappeared groggy in the house. None yet know the experiment truth.
+- Ada had been following Korren from Vahn-rii. Her exact arrival timing remains unresolved; she is not yet part of this private family scene.
 - Mira knows Mari Quintero, Liesel Varga, Suvi Lindqvist, and Ren Castellanos conceived after bonding and were covertly retrieved; she was told they were alive under medical supervision at latest status. Exact current locations/stages/conditions/outcomes remain unknown to her.
+- The Helia-Voss program continues monitoring and may intervene in any future pregnancy. Mira knows this.
 - Mira told the program Ada will not take a mate; this remains Mira's assessment, not fixed destiny.
 - Native cave spores genuinely cause the bond. Implants do NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Mira has assured Korren she is not hurt and asked whether he is. Korren says he is not hurt, explains that the four disappearances made him race home for her, and asks, “Where did they take you?”
-- Mira remains weak/unsteady from sedation; Korren is supporting her.
-- This is the opening for Mira to reveal Helia-Voss/experiment truth in her own words.
+- Current moment: Mira is inside her home with Korren, Sahra, and Varesh. She is washing travel grime from Korren with a basin of water, steadier and at peace beside him, preparing to explain where she was taken and what she learned.
+- Mira controls the disclosure. Do not put the Helia-Voss explanation into her mouth unless the player asks the GM to summarize her telling.
+- Korren/Sahra/Varesh should react only to what Mira actually tells them.
 - Ada's exact arrival timing remains unresolved.
 
 ## Hidden GM canon — not known in-world
