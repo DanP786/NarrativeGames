@@ -2,23 +2,20 @@
 
 ## Immediate scene
 - **POV is Mira Holloway as player character.** Player controls Mira's thoughts/actions/dialogue; GM narrates environment, other characters, and consequences.
-- Mira has left Korren sleeping at home and come to Varesh/Sahra's house. She left Korren plated food and a recognizable household sign that she had gone to her parents and expected to return. Korren remains home for now with the completed new Soryn-rii mate-cord, which has not yet been tied onto Mira.
-- Present: **Mira, Varesh, Sahra, Ada**.
-- Varesh has framed the immediate question: whether Ada may remain in Soryn-rii. He can decide whether a stranger shelters among his people, but because Ada has a painful history with Mira, he wants Mira's view and will not require forgiveness or cohabitation.
-- Mira asks Ada directly: **“Safe from what?”**
-- Ada answers concretely rather than abstractly. Her fears are: being pressured/forced into a cave and becoming bonded against her wishes; being claimed/controlled by a Kael'tha male despite Thaal having publicly relinquished his earlier claim and ordered that no Vahn-rii male put hands on her; and, after Helia-Voss's deliberate experiment was revealed, being subject to whatever the ship/program intends for the only unbonded woman still planetside. She does not know whether the program will retrieve her, leave her, or intervene another way.
-- Ada distinguishes evidence from fear: she knows Thaal ultimately laid his claim down and protected her from other males in Vahn-rii, but she does not trust that this guarantees her future there; she also now knows Helia-Voss deliberately selected/deployed the women, making her former assumption of accidental stranding false.
-- Ada does **not** claim she is currently being hunted or that Vahn-rii was about to force her into a cave; no such immediate threat is established. Her request is for a place where her refusal to bond will be treated as durable rather than temporary.
+- Present: **Mira, Varesh, Sahra, Ada**. Korren remains asleep at Mira/Korren's house with the completed replacement Soryn-rii mate-cord; Mira left him food and a recognizable sign that she went to her parents and expects to return.
+- The immediate question is whether Ada may remain in Soryn-rii. Ada has explained she wants somewhere her refusal to enter a cave/bond will be treated as durable rather than temporary, and she fears both future Kael'tha pressure and unknown Helia-Voss intentions.
+- Mira asks Varesh: **“Is that something you can guarantee Father?”** referring to Ada being able to say no to the cave/bond and have that refusal respected in Soryn-rii.
+- Varesh answers with a precise guarantee within the limits of his authority: **while Ada lives under Soryn-rii protection, no one of Soryn-rii will force, carry, trick, or coerce her into the bonding caves, and no male may claim/touch her as mate against her refusal.** Her “no” is treated as no, not “not yet.”
+- Varesh also distinguishes what he cannot guarantee: he cannot control Helia-Voss/the sky people, promise they cannot retrieve Ada, command people outside Soryn-rii, or guarantee that no danger will ever reach her. He can guarantee Soryn-rii's own law/response and that anyone violating his protection would answer to him and the tribe.
+- This guarantee does not require Ada to swear she will never voluntarily change her mind in the future. If she ever freely chooses otherwise, that would be a separate future choice; until then, her present refusal stands without pressure.
 - Ada remains the only known unbonded human woman. Mira told Helia-Voss staff she believes Ada will not take a mate, but that remains Mira's assessment, not fixed destiny.
-- Sahra remains protective of Mira and practical about Ada. Varesh distinguishes established fact from interpretation and will not let fear alone become invented fact.
-- Varesh's urgent message to Vahn-rii about Mari, Liesel, Suvi, and Ren being taken by sky-ship humans, alive according to Mira's information, and pregnant has been intended/sent, but **arrival and Vahn-rii reactions remain unestablished**.
+- Varesh's urgent message to Vahn-rii about Mari, Liesel, Suvi, and Ren being taken by sky-ship humans, alive according to Mira's information, and pregnant has been intended/sent, but arrival and Vahn-rii reactions remain unestablished.
 - Mira has **not yet told Korren** about the semen sample recovered from her body while sedated. Do not auto-disclose it; Mira controls that disclosure.
 - Mira wears a short local dress and no mate-cord; faded return-promise stain remains visible. Original Vahn-rii mate-cord and azure/rust departure ensemble remain missing/unknown.
 - Mira is **not currently known pregnant**. Recent intimacy does not establish conception or pregnancy.
 - Native cave spores genuinely cause the bond. Implants DO NOT cause/control it. No telepathy exists.
 
 ## Continuity
-- Current moment: Ada is answering Mira's question about what she wants safety from. Let Ada be precise and accountable: she can name her fears without falsely accusing Vahn-rii of an immediate plan unsupported by evidence.
-- The central decision remains whether/how Soryn-rii can offer Ada refuge and under what boundaries. Mira's relationship with Ada remains fractured; no forgiveness is presumed.
-- Korren remains asleep/home unless enough time passes or a concrete reason brings him here.
+- Current moment: Varesh is answering Mira's request for a guarantee of Ada's right to refuse bonding/cave coercion in Soryn-rii. His guarantee is strong but bounded to what he can actually command/protect.
+- The next question remains whether Ada is formally permitted to stay and under what ordinary responsibilities/boundaries. Mira's relationship with Ada remains fractured; refuge does not equal forgiveness.
 - Preserve Mira's agency.
