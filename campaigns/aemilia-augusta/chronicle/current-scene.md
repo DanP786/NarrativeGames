@@ -1,7 +1,7 @@
 # Current scene
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening. Aemilia is seventeen, a few months from eighteen; Lucius is approximately thirty.
-- Late at night in Lucius' private study, Aemilia and Lucius dissect their first substantive conversation with Titus Claudius Marcellus. Aemilia has reconstructed four genuinely new names and connections from memory, giving Lucius leads for independent verification.
-- Aemilia tells Lucius, 'I am what you made me.' When he resists taking full credit, she scoffs that he has forced her to have an opinion on everything and has undone what her father taught her in half the time.
-- Lucius accepts the substance of the charge. He distinguishes between Aemilia's father's training, which emphasized correct conduct and obedience, and his own insistence that she form judgments because private counsel is useless if she merely repeats what she thinks Lucius wants to hear.
-- Their exchange remains comfortable and teasing, but it also names a major fact of Aemilia's development: Lucius deliberately disrupted the passive habits expected of her childhood education while retaining the formal hierarchy of their marriage.
+- Late at night in Lucius' private study, Aemilia and Lucius have moved from analyzing Titus Claudius Marcellus into an intimate but nonsexual conversation about how Lucius' education changed Aemilia from the obedient girl her father raised into a woman expected to form private judgments.
+- When Lucius remarks that Aemilia's father would be horrified by what he has encouraged, Aemilia replies, 'He is certainly horrified at the lack of grandchildren.'
+- The remark brings the long-avoided subject of legitimate children directly into their private conversation. Lucius acknowledges that Aemilia's father has repeatedly applied indirect pressure over the childless marriage, but reiterates that the delay was Lucius' deliberate choice while Aemilia remained a child, not a failure for which Aemilia bears blame.
+- Lucius does not assume Aemilia's private desire for children, which she has not yet voiced. Instead he recognizes that her approaching adulthood means the subject can no longer remain indefinitely unspoken and leaves room for Aemilia to say what she herself wants.
