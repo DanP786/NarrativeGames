@@ -1,7 +1,8 @@
 # Current scene
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening. Aemilia is seventeen, a few months from eighteen; Lucius is approximately thirty.
-- Late at night, after returning from the gathering and encountering Lucius' young daughter Valeria, Aemilia follows Lucius into his private study. She privately longs for children of her own with him but has not voiced this to Lucius.
-- Behind closed doors Lucius asks for Aemilia's judgment of Titus Claudius Marcellus, restoring the private advisory role she concealed publicly.
-- Aemilia judges that Marcellus found Lucius intriguing but does not yet know what to make of him. As she speaks she settles into the private familiarity of the study and loosens her formal hairstyle, letting her hair fall over her shoulders; the action is ordinary domestic ease rather than a sexual overture.
-- Lucius agrees with the substance of her reading: Marcellus' uncertainty is useful because interest has been created without yet revealing exactly what Lucius wants. He presses Aemilia to identify what, specifically, made Marcellus uncertain, treating her social observation as part of their strategic analysis.
+- Late at night in Lucius' private study, Aemilia and Lucius dissect their successful first substantive conversation with Titus Claudius Marcellus.
+- Aemilia judges that Marcellus found Lucius intriguing but uncertain, specifically because Lucius sometimes appeared already to know what Marcellus was going to say before Marcellus said it.
+- Lucius accepts the observation and identifies the danger in it: if Marcellus concludes Lucius already possesses an independent source for the financial information, he may stop speaking freely and begin protecting his network instead.
+- Lucius therefore treats Aemilia's reading as actionable intelligence. Their next approach should give Marcellus room to surprise Lucius and demonstrate that his information has unique value, rather than making him feel he is merely confirming facts Lucius already possesses.
+- Aemilia remains in the private advisory role she conceals in public, her formal hairstyle loosened after the evening's gathering.
