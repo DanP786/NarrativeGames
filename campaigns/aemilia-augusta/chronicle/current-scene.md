@@ -1,8 +1,7 @@
 # Current scene
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening. Aemilia is seventeen, a few months from eighteen; Lucius is approximately thirty.
-- Late at night in Lucius' private study, Aemilia and Lucius dissect their first substantive conversation with Titus Claudius Marcellus.
-- Aemilia identifies Marcellus' uncertainty about Lucius: he sometimes seemed already to know what Marcellus would say, risking the impression that Lucius has another source.
-- Asked what Lucius missed, Aemilia methodically recalls every name from Marcellus' conversation that represented genuinely new information: Publius Sestius Naso, a creditor operating through Puteoli; Quintus Fufius Balbus, whose Capuan estate revenues have been pledged more aggressively than Lucius knew; Sextus Vibius, a cousin acting as guarantor for obligations beyond his apparent means; and Decimus Laelius Crispinus, a lender whose caution Marcellus described as fear rather than prudence.
-- Aemilia distinguishes these names from information Lucius already possessed instead of merely repeating the entire conversation. Her memory and attention give Lucius a compact list of new leads for later verification.
-- Lucius treats the list as useful intelligence but does not assume Marcellus' claims are proven facts; each name will require independent checking before the household acts on it.
+- Late at night in Lucius' private study, Aemilia and Lucius dissect their first substantive conversation with Titus Claudius Marcellus. Aemilia has reconstructed four genuinely new names and connections from memory, giving Lucius leads for independent verification.
+- When Lucius remarks on the contrast between her public performance of limited understanding and her private recall, Aemilia smiles and tells him, 'I am what you made me.'
+- Aemilia sits with her bare feet tucked beneath her and idly runs her fingers through her loosened hair rather than looking at Lucius. The posture is established as ordinary private comfort and security in the household, not a sexual gesture.
+- Lucius does not wholly accept credit for what she has become. He acknowledges that he supplied tutors, access and expectations, but regards Aemilia's attention, judgment and choices as her own. The exchange reinforces the mature intellectual companionship they have developed within the still-real hierarchy of their marriage.
