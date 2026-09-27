@@ -4,7 +4,7 @@
 - Aemilia is seventeen, a few months from her eighteenth birthday. Lucius is approximately thirty.
 - Their marriage remains privately unconsummated. Publicly Lucius behaves as an established husband and protects the secret without hesitation.
 - It is publicly known that Lucius has fathered children by adult enslaved women in his household; these do not satisfy the dynastic expectation for legitimate heirs from Aemilia.
-- At an elite gathering, Gaius Fabius Crispus probes Aemilia about her never having been pregnant and suggests people will inevitably question the marriage.
-- Aemilia answers that people already question it constantly and reframes the gossip as useful distraction: while society speculates about her womb and marriage, Lucius is free to conduct business under cover of their attention.
-- The answer impresses Lucius because it demonstrates exactly the political habit he spent years cultivating in her: seeing unwanted scrutiny as something that can be redirected into advantage. He does not publicly praise her education but backs her explanation with dry confidence.
-- Crispus recognizes that Aemilia is not merely shielding herself with a conventional wife's answer. His interest shifts from probing the marital secret toward assessing how much political understanding Lucius has actually allowed his wife to acquire.
+- At an elite gathering, Gaius Fabius Crispus probes Aemilia about her never having been pregnant. Aemilia reframes the constant gossip as useful distraction while Lucius conducts business.
+- Crispus shifts his probing toward Aemilia's political access and asks whether she truly leaves the room when Lucius receives men on business.
+- Aemilia laughs, calls the alternative scandalous, and dismisses the question with a sip of wine rather than lying explicitly. The answer gives Crispus nothing he can repeat as an admission while allowing conventional assumptions to do the work.
+- Lucius recognizes the technique and supports it by treating Crispus' question as socially improper rather than supplying a factual denial. Crispus is left with stronger suspicion that Aemilia knows more than an ordinary elite wife is expected to know, but no usable proof.
