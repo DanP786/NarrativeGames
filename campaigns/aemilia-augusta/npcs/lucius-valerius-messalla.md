@@ -9,6 +9,13 @@ Tall, broad-shouldered and athletic without looking like a professional soldier.
 ## Voice and mannerisms
 Controlled and educated. Speaks to make distinctions clear rather than to fill silence. Accustomed to authority and does not disguise hierarchy as equality. With Aemilia in private, years of intellectual companionship have made him less formal and more willing to expose uncertainty, dry humour and disagreement.
 
+### Forms of address for Aemilia
+- **Aemilia** — his normal form of address for her, public or private.
+- **Aemiliola** — an old private affectionate diminutive that began when she was genuinely a little girl in his household and endured as a familiar pet name as she grew older. He ordinarily keeps it private.
+- **doctissima** — 'most learned one' / 'very learned lady,' used teasingly when Aemilia is displaying, defending or becoming particularly pleased with her education and arguments.
+- **mea Aemilia** — 'my Aemilia,' comparatively rare and sincere; reserved for moments of unusually open tenderness rather than casual use.
+- In public Lucius may also deliberately call her **my wife / uxor mea** when emphasizing her recognized position and his support for the marriage.
+
 ## Traits
 - Deliberate
 - Hierarchical
