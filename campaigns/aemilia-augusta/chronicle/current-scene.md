@@ -2,9 +2,8 @@
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening.
 - Aemilia is seventeen, a few months from her eighteenth birthday. Lucius is approximately thirty.
-- Their marriage remains privately unconsummated. Publicly Lucius behaves as an established husband and protects the secret without hesitation.
-- At an elite gathering, Aemilia and Lucius set aside discussion of divorce and her approaching adulthood to pursue a political/patronage opportunity they have cultivated over several years.
-- Aemilia takes Lucius' offered arm and accompanies him across the room. They intercept their long-cultivated intermediary just before he withdraws with the previously inaccessible man they wanted to meet.
-- The intermediary, Marcus Calpurnius Varro, is now established as a wealthy, socially ambitious senator whose vanity and appetite for being thought indispensable have been cultivated by the Valerian household through indirect favours and attention. He does not realize how deliberately this has been done.
-- Varro introduces Lucius and Aemilia to Titus Claudius Marcellus, an older, reserved equestrian financier and estate creditor with unusually broad private knowledge of elite debts and provincial commercial arrangements. Lucius has wanted direct access to Marcellus for years but could not approach him without making his interest obvious.
-- Varro presents the introduction as his own clever social arrangement. Lucius allows him that satisfaction. Marcellus notices Aemilia rather than treating her as invisible and asks whether she shares her husband's interest in estate accounts, giving her an opening to participate without Lucius publicly advertising her political education.
+- At an elite gathering, Aemilia and Lucius pursue a political/patronage opportunity cultivated over several years.
+- Marcus Calpurnius Varro has finally introduced them to Titus Claudius Marcellus, a reserved equestrian financier and estate creditor whom Lucius has wanted direct access to for years.
+- Marcellus asks whether Aemilia shares Lucius' interest in estate accounts.
+- Aemilia has spent years quietly honing a complementary social role beside Lucius: she reads personalities and gives each person the kind of interaction that lowers their guard, leaving Lucius room to introduce the substantive business he wants. This is now established as a practiced part of their partnership.
+- With Marcellus, obvious flattery would be counterproductive. Aemilia instead answers with modest practical competence, presenting herself as a household mistress concerned with knowing whether estates actually produce what their stewards claim. The approach respects Marcellus' seriousness without competing with his expertise and gives Lucius a natural route into estate finance.
