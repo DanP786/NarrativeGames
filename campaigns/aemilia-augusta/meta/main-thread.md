@@ -1,8 +1,8 @@
 # Main thread
 
-- Status: sketch
-- Central question: What will Aemilia become when marriage gives her access to knowledge and influence beyond what her upbringing allowed, and what will that transformation do to her marriage, household and place in Roman society?
-- PC want: Not yet consciously defined; initially to perform the role expected of her and find her footing in her husband's household.
-- Primary obstacle: The legal, familial and social constraints of elite Augustan Rome, compounded by Aemilia's youth, dependence and inexperience.
-- Relationship thread: Lucius intends an unconventional education within a conventionally hierarchical Roman marriage. Trust, affection, authority and influence must develop through play rather than being predetermined.
-- Political thread: The Valerian and Aemilian families' interests, Augustus' social legislation, patronage and elite competition may increasingly bear on the household.
+- Status: active
+- Central question: What will Aemilia do with the education, household authority and private influence she has acquired inside a society that still formally subordinates her, and how will adulthood change the marriage in which those capacities were cultivated?
+- PC want: Preserve the household she adores and her bond with Lucius while continuing to grow into meaningful judgment and influence.
+- Primary obstacle: Elite Roman law, custom, family strategy and reputation impose real limits on female autonomy; Aemilia's influence is strongest precisely where it is least public.
+- Relationship thread: Aemilia loves Lucius deeply after years of education and shared household life. Their relationship remains structurally unequal, and the approach of her adulthood raises questions the long period of waiting allowed them to postpone.
+- Political thread: Aemilia can now understand and privately participate in the patronage, legal and political interests surrounding the Valerian domus, making elite politics an active rather than merely future pressure.

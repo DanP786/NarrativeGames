@@ -1,17 +1,17 @@
 # Aemilia
 
 - Name: Aemilia
-- Age: 12
-- Status: Freeborn Roman girl of a wealthy elite family; newly married to Lucius Valerius Messalla.
+- Age: 17, a few months from 18
+- Status: Freeborn Roman woman of a wealthy elite family; wife of Lucius Valerius Messalla.
 - Family: A wealthy branch of the gens Aemilia.
 - Current household: Valerian domus, Rome.
-- Marriage: Newly married. The marriage serves family and status interests as well as whatever personal relationship may develop over time.
-- Dowry: Substantial; exact composition and legal arrangements to be established when relevant. Enslaved attendants accompanied her into the new household.
+- Marriage: Married to Lucius for roughly five and a half years. Publicly they present an established marriage without inviting doubt about its consummation; privately Lucius has kept his wedding-night promise and has not involved Aemilia sexually while she remains a child.
+- Dowry: Substantial; part of the economic and dynastic bond between the Aemilian and Valerian families.
 
-## Background
-Aemilia has been raised to become a respectable elite Roman wife. Her father allowed the education he considered proper for a daughter: household management, textile work, religion and ritual, manners, basic literacy and some literature. She has generally been docile and accustomed to obeying older family authority.
+## Development since the wedding
+Lucius followed through on his promise to educate Aemilia. Tutors, household records, conversation and carefully widened access to the business of the domus have given her an education far beyond what her father originally intended. She has learned to read arguments rather than merely words, to follow accounts and legal interests, to understand patronage and political conversations, and to speak privately with Lucius about matters on which he still retains final authority.
 
-Her personality beyond that conditioning is intentionally unwritten. Play will determine what knowledge, responsibility, marriage and exposure to elite Roman life make of her.
+Aemilia has grown deeply attached to the Valerian household and regards it as her home. She loves Lucius in a way she did not imagine possible when she entered the marriage at twelve. That love has developed within a relationship whose hierarchy remains real: Lucius controls much of the shape of her life, but he has also consistently made room for her mind and judgment.
 
 ## Current state
-Wedding night, 18 BC. Aemilia is in the bedchamber of her new husband, Lucius Valerius Messalla, after the marriage ceremonies.
+Approximately 12 BC. Aemilia and Lucius are attending an elite private gathering in Rome. In public Lucius behaves without hesitation as the husband of an established wife, protecting the private truth that he has continued to wait.

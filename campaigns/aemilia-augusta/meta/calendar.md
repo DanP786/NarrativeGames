@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 18 BC
-- Season: to be established through play
-- Time of day: night
-- Location: Lucius Valerius Messalla's domus, Rome
-- Notable upcoming: Aemilia's first morning as wife in the Valerian household
+- Date: approximately 12 BC, a few months before Aemilia's eighteenth birthday
+- Time of day: evening
+- Location: an elite private gathering in Rome
+- Time elapsed since opening: approximately five and a half years
+- Notable upcoming: Aemilia's eighteenth birthday; the private terms of her marriage with Lucius may soon change

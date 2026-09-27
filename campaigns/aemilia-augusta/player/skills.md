@@ -4,20 +4,23 @@
 - None
 
 ## Adept
-- Household Management (0 ticks) — trained from childhood for oversight of an elite Roman household within the sphere expected of a wife.
+- Household Management (0 ticks) — years of training followed by more than five years growing into the practical role of an elite Roman household mistress.
+- Literacy & Letters (0 ticks) — sustained education under Lucius and tutors has developed her Latin reading, writing and literary comprehension well beyond her childhood foundation.
+- Elite Etiquette & Domestic Religion (0 ticks) — practiced across years of household responsibility, religious observance and elite social life.
 
 ## Novice
-- Literacy (0 ticks) — basic Latin reading and writing; educated, but not to the depth expected of an elite boy prepared for public life.
-- Textile Work (0 ticks) — spinning, wool work and the respectable domestic accomplishments expected of an elite Roman woman.
-- Elite Etiquette & Domestic Religion (0 ticks) — manners, household ritual, respectable conduct and the social forms taught by her family.
+- Greek (0 ticks) — acquired through years of formal instruction; capable of reading and conversation but not the effortless command of a lifelong bilingual scholar.
+- Roman Law & Property (0 ticks) — understands the practical legal structures most relevant to marriage, dowry, inheritance, household interests and elite disputes; not trained as a jurist.
+- Politics & Patronage (0 ticks) — can follow elite political conversation, recognize interests and obligations, and observe the exchange of influence; her experience remains largely private and indirect.
+- Accounts & Estate Business (0 ticks) — can read household accounts, follow revenues and obligations, and recognize obvious inconsistencies.
+- Textile Work (0 ticks) — traditional skill retained from childhood, though no longer central to her development.
 
-## Notable Untrained
-- Rhetoric and public speaking
-- Formal Roman law
-- Politics and statecraft
-- Greek
-- Philosophy
+## Untrained / limited
+- Formal forensic rhetoric and public oratory
+- Military command
 - Weapons and combat
+- Professional jurisprudence
+- Holding public magistracy
 
 ## Advancement
-Standard campaign thresholds apply. Aemilia's education in play can create and develop new skills.
+Standard campaign thresholds apply. Aemilia's education and experience can continue to deepen existing skills or create new ones.
