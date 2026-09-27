@@ -37,6 +37,7 @@ Warm and deeply established, while still hierarchical. Lucius retains final hous
 ## History with player
 - S01, 18 BC: Married twelve-year-old Aemilia and told her he would not consummate the marriage while she was a child.
 - Over the following years: provided tutors and personal instruction in letters, Greek, accounts, law and political observation; gradually allowed Aemilia to hear and later discuss portions of household business.
+- During the years he waited for Aemilia to grow up, Lucius fathered children by adult enslaved women of his household. Their existence is known in the household and is not a secret in elite society. These children are not legitimate heirs of his marriage to Aemilia and do not satisfy the dynastic expectation for legitimate Valerian children from the marriage.
 - Their relationship developed from near-strangers bound by family arrangement into deep mutual attachment and intellectual companionship.
 - Approximately 12 BC: Aemilia is a few months from eighteen. Their private marital history remains concealed from elite society.
 
