@@ -3,6 +3,9 @@
 ## Description
 A wealthy, socially ambitious senator in middle age. Varro enjoys being regarded as a connector of important men and an arranger of useful introductions.
 
+## Appearance
+A well-groomed Roman senator in middle age, with an animated, open expression, dark curled hair and a polished social appearance. At the S01 gathering he wears a pale formal tunic with broad reddish-purple striping. His established visual reference is the smiling man at the left edge of the S01 gathering portrait generated during play.
+
 ## Voice and mannerisms
 Genial, expansive and faintly self-congratulatory. Often presents other people's opportunities as products of his own discernment.
 

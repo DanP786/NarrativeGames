@@ -3,6 +3,9 @@
 ## Description
 An older equestrian financier and estate creditor with discreet connections across elite households and provincial commercial arrangements. Reserved rather than ostentatious.
 
+## Appearance
+An older Roman man with a sturdy build, weathered olive complexion, deep-set eyes, thick dark hair heavily threaded with grey, and a full short beard likewise greying. At the S01 gathering he wears a dark charcoal-black outer robe or mantle with restrained patterned gold edging over a pale tunic. His appearance is prosperous but deliberately less showy than the senatorial men around him. His established visual reference is the older bearded man speaking to Aemilia and Lucius in the S01 gathering portrait generated during play.
+
 ## Voice and mannerisms
 Economical speech. Watches before committing himself. Dislikes obvious flattery and men who reveal too quickly what they want.
 

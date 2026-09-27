@@ -3,6 +3,9 @@
 ## Description
 Approximately thirty-year-old Roman aristocrat from an established senatorial family. Husband of Aemilia for roughly five and a half years.
 
+## Appearance
+Tall, broad-shouldered and athletic without looking like a professional soldier. Lucius has a long, strongly structured face, olive complexion, dark brown wavy hair worn short by elite Roman standards, dark eyes, and a clean-shaven face. His bearing is controlled and patrician rather than ostentatious. At formal gatherings he favors a white tunic beneath a deep burgundy toga or mantle with restrained gold detailing and a heavy gold brooch. His established visual reference is the appearance depicted beside Aemilia in the S01 gathering portrait generated during play.
+
 ## Voice and mannerisms
 Controlled and educated. Speaks to make distinctions clear rather than to fill silence. Accustomed to authority and does not disguise hierarchy as equality. With Aemilia in private, years of intellectual companionship have made him less formal and more willing to expose uncertainty, dry humour and disagreement.
 
