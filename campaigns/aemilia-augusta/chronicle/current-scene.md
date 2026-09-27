@@ -1,8 +1,8 @@
 # Current scene
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening. Aemilia is seventeen, a few months from eighteen; Lucius is approximately thirty.
-- Late at night in Lucius' private study, Aemilia and Lucius dissect their successful first substantive conversation with Titus Claudius Marcellus.
-- Aemilia judges that Marcellus found Lucius intriguing but uncertain, specifically because Lucius sometimes appeared already to know what Marcellus was going to say before Marcellus said it.
-- Lucius accepts the observation and identifies the danger in it: if Marcellus concludes Lucius already possesses an independent source for the financial information, he may stop speaking freely and begin protecting his network instead.
-- Lucius therefore treats Aemilia's reading as actionable intelligence. Their next approach should give Marcellus room to surprise Lucius and demonstrate that his information has unique value, rather than making him feel he is merely confirming facts Lucius already possesses.
-- Aemilia remains in the private advisory role she conceals in public, her formal hairstyle loosened after the evening's gathering.
+- Late at night in Lucius' private study, Aemilia and Lucius dissect their first substantive conversation with Titus Claudius Marcellus.
+- Aemilia identifies Marcellus' uncertainty about Lucius: he sometimes seemed already to know what Marcellus would say, risking the impression that Lucius has another source.
+- Asked what Lucius missed, Aemilia methodically recalls every name from Marcellus' conversation that represented genuinely new information: Publius Sestius Naso, a creditor operating through Puteoli; Quintus Fufius Balbus, whose Capuan estate revenues have been pledged more aggressively than Lucius knew; Sextus Vibius, a cousin acting as guarantor for obligations beyond his apparent means; and Decimus Laelius Crispinus, a lender whose caution Marcellus described as fear rather than prudence.
+- Aemilia distinguishes these names from information Lucius already possessed instead of merely repeating the entire conversation. Her memory and attention give Lucius a compact list of new leads for later verification.
+- Lucius treats the list as useful intelligence but does not assume Marcellus' claims are proven facts; each name will require independent checking before the household acts on it.
