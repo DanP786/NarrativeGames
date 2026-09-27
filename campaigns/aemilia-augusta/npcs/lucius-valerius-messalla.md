@@ -1,7 +1,7 @@
 # Lucius Valerius Messalla
 
 ## Description
-Approximately thirty-year-old Roman aristocrat from an established senatorial family. Husband of Aemilia for roughly five and a half years.
+Approximately thirty-year-old Roman aristocrat from an established senatorial family. Husband of Aemilia for roughly six years.
 
 ## Appearance
 Tall, broad-shouldered and athletic without looking like a professional soldier. Lucius has a long, strongly structured face, olive complexion, dark brown wavy hair worn short by elite Roman standards, dark eyes, and a clean-shaven face. His bearing is controlled and patrician rather than ostentatious. At formal gatherings he favors a white tunic beneath a deep burgundy toga or mantle with restrained gold detailing and a heavy gold brooch. His established visual reference is the appearance depicted beside Aemilia in the S01 gathering portrait generated during play.
@@ -27,7 +27,7 @@ Controlled and educated. Speaks to make distinctions clear rather than to fill s
 - Protect and advance the Valerian domus in Augustan elite society.
 - Preserve Aemilia's standing and the public credibility of their marriage.
 - Continue using Aemilia as a private intellectual and political sounding board without publicly placing her in a role Roman elite society would treat as improper.
-- Navigate the adult phase of his marriage to Aemilia while keeping its unusual private history from becoming damaging public gossip.
+- Sustain the adult phase of his marriage to Aemilia while keeping its unusual private history from becoming damaging public gossip.
 - Seek legitimate children with Aemilia without pretending conception, survival or safe childbirth can be guaranteed.
 
 ## Methods & lines
@@ -45,7 +45,9 @@ Controlled and educated. Speaks to make distinctions clear rather than to fill s
 ## Relationship to player
 Warm and deeply established, while still hierarchical. Lucius retains final household authority and is capable of exercising it. He actively seeks Aemilia's private judgment and built much of her education himself. He has explicitly told Aemilia that he loves her. Their marriage entered its adult phase by mutual choice on Aemilia's eighteenth birthday after nearly six years in which he deliberately maintained a childhood boundary.
 
-Lucius promised that from Aemilia's eighteenth birthday onward he will not seek sexual access to Eros or any other woman. The promise is now in effect. Eros, Daphne and the children are not to be punished, discarded or displaced because of the change in his marriage.
+In the months since Aemilia became an adult, their private married life has become frequent and affectionate without being described graphically. Aemilia has learned that Lucius possesses a notably frequent sexual appetite. This gives her new context for his difficulty with abstinence during the waiting years, but does not change the coercive nature of his former sexual access to enslaved women.
+
+Lucius promised that from Aemilia's eighteenth birthday onward he will not seek sexual access to Eros or any other woman. The promise remains in effect. Eros, Daphne and the children are not to be punished, discarded or displaced because of the change in his marriage.
 
 ## Children born to enslaved women
 During the years in which he waited for Aemilia to grow up, Lucius fathered seven babies by adult enslaved women. Four died in infancy or early childhood. Three survive:
@@ -62,7 +64,8 @@ All three surviving children were born into slavery within the household's legal
 - Their relationship developed from near-strangers bound by family arrangement into deep mutual attachment and intellectual companionship.
 - Shortly before Aemilia turned eighteen, Lucius explicitly told her that he loves her. At her request he promised fidelity from her eighteenth birthday onward, including no further sexual access to Eros or any other women.
 - Lucius and Aemilia agreed that once she was an adult they would try for legitimate children together, while acknowledging that conception, survival and safe childbirth cannot be guaranteed.
-- On Aemilia's eighteenth birthday their marriage entered its adult phase by mutual choice. The night itself remains undescribed; no pregnancy or reproductive outcome is assumed.
+- On Aemilia's eighteenth birthday their marriage entered its adult phase by mutual choice. The night itself remains undescribed.
+- In the following months their intimate life becomes frequent. Lucius remains faithful to Aemilia.
 
 ## Knowledge
 Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows she loves the Valerian household and has repeatedly seen her develop independent judgments. He does not automatically know thoughts she does not express.

@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: approximately 12 BC, Aemilia's eighteenth birthday, 34 days after the confrontation at the villa of Lucius' father
-- Time of day: evening
+- Date: approximately 12 BC, several months after Aemilia's eighteenth birthday
+- Time of day: not currently fixed
 - Location: Valerian domus, Rome
-- Time elapsed since opening: approximately five years and seven months
-- Notable current: Aemilia is now eighteen. She is holding a large birthday gathering attended by members of her own family and Lucius' family, friends, Lucius' colleagues and other important guests. Lucius' promises made before this date now take effect: from Aemilia's eighteenth birthday onward he will not seek sexual access to Livia or other women, and he and Aemilia intend to try for legitimate children together.
+- Time elapsed since opening: approximately five years and ten months
+- Notable current: Aemilia is eighteen and has spent the months since Demetrios' visit implementing stricter household practices concerning water, food, waste, linens, washing and care around illness. Her adult marriage to Lucius is now an established private rhythm; Lucius' fidelity promise remains in effect, and they continue intending legitimate children together. No pregnancy has yet been established.
