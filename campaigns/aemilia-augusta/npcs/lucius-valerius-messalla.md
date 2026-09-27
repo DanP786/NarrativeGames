@@ -27,11 +27,12 @@ Controlled and educated. Speaks to make distinctions clear rather than to fill s
 - Protect and advance the Valerian domus in Augustan elite society.
 - Preserve Aemilia's standing and the public credibility of their marriage.
 - Continue using Aemilia as a private intellectual and political sounding board without publicly placing her in a role Roman elite society would treat as improper.
-- Navigate the approaching change in their marriage as Aemilia nears adulthood without publicly exposing the years in which he deliberately refused consummation.
+- Navigate the adult phase of his marriage to Aemilia while keeping its unusual private history from becoming damaging public gossip.
+- Seek legitimate children with Aemilia without pretending conception, survival or safe childbirth can be guaranteed.
 
 ## Methods & lines
 - Will: instruct, command, negotiate within elite custom, use patronage, control access, test judgment, reward competence, solicit Aemilia's private counsel.
-- Won't: publicly pretend household authority is equal; publicly expose the private history of the marriage; sexually involve Aemilia while she remains a child.
+- Won't: publicly pretend household authority is equal; publicly expose the private history of the marriage; violate his promise of fidelity to Aemilia.
 - Last resort: coercive household or political measures when he believes the domus is genuinely threatened.
 
 ## Disposition toward Aemilia (GM-only — never narrate as numbers)
@@ -42,17 +43,29 @@ Controlled and educated. Speaks to make distinctions clear rather than to fill s
 - Suspicion: 5 / 100 — ordinary political caution remains, but he has little personal suspicion of Aemilia.
 
 ## Relationship to player
-Warm and deeply established, while still hierarchical. Lucius retains final household authority and is capable of exercising it. He also actively seeks Aemilia's private judgment and has built much of her education himself. Publicly he presents their marriage as entirely conventional in its legitimacy and intimacy; privately he has kept the promise made on their wedding night.
+Warm and deeply established, while still hierarchical. Lucius retains final household authority and is capable of exercising it. He actively seeks Aemilia's private judgment and built much of her education himself. He has explicitly told Aemilia that he loves her. Their marriage entered its adult phase by mutual choice on Aemilia's eighteenth birthday after nearly six years in which he deliberately maintained a childhood boundary.
+
+Lucius promised that from Aemilia's eighteenth birthday onward he will not seek sexual access to Eros or any other woman. The promise is now in effect. Eros, Daphne and the children are not to be punished, discarded or displaced because of the change in his marriage.
+
+## Children born to enslaved women
+During the years in which he waited for Aemilia to grow up, Lucius fathered seven babies by adult enslaved women. Four died in infancy or early childhood. Three survive:
+- **Hilarus**, approximately six, son of Daphne.
+- **Fortunata**, approximately four, daughter of Eros.
+- **Felix**, approximately two, son of Eros.
+
+All three surviving children were born into slavery within the household's legal and social structure and are not legitimate dynastic heirs of Lucius' marriage to Aemilia. Lucius acknowledges them and has shown paternal affection toward them. The sexual relationships with their enslaved mothers existed within coercive structures of ownership and are not treated as freely consensual relationships.
 
 ## History with player
 - S01, 18 BC: Married twelve-year-old Aemilia and told her he would not consummate the marriage while she was a child.
 - Over the following years: provided tutors and personal instruction in letters, Greek, accounts, law and political observation; gradually allowed Aemilia to hear and later discuss portions of household business.
-- During the years he waited for Aemilia to grow up, Lucius fathered children by adult enslaved women of his household. Their existence is known in the household and is not a secret in elite society. These children are not legitimate heirs of his marriage to Aemilia and do not satisfy the dynastic expectation for legitimate Valerian children from the marriage.
+- During those years Lucius fathered seven babies by adult enslaved women; Hilarus, Fortunata and Felix survive, while four children died in infancy or early childhood.
 - Their relationship developed from near-strangers bound by family arrangement into deep mutual attachment and intellectual companionship.
-- Approximately 12 BC: Aemilia is a few months from eighteen. Their private marital history remains concealed from elite society.
+- Shortly before Aemilia turned eighteen, Lucius explicitly told her that he loves her. At her request he promised fidelity from her eighteenth birthday onward, including no further sexual access to Eros or any other women.
+- Lucius and Aemilia agreed that once she was an adult they would try for legitimate children together, while acknowledging that conception, survival and safe childbirth cannot be guaranteed.
+- On Aemilia's eighteenth birthday their marriage entered its adult phase by mutual choice. The night itself remains undescribed; no pregnancy or reproductive outcome is assumed.
 
 ## Knowledge
-Lucius now knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows she loves the Valerian household and has repeatedly seen her develop independent judgments. He does not automatically know thoughts she does not express.
+Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows she loves the Valerian household and has repeatedly seen her develop independent judgments. He does not automatically know thoughts she does not express.
 
 ## What he is hiding
-His most sensitive political pressures and compromises are revealed to Aemilia only as circumstances justify them. The fact that their marriage remains privately unconsummated is itself a secret whose exposure could create gossip and familial pressure.
+His most sensitive political pressures and compromises are revealed to Aemilia only as circumstances justify them. The unusual private history of their marriage remains sensitive information whose wider exposure could create gossip and familial pressure.
