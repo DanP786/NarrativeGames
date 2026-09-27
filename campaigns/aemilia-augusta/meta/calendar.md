@@ -4,4 +4,4 @@
 - Time of day: not currently fixed
 - Location: Valerian domus, Rome
 - Time elapsed since opening: approximately five years and ten months
-- Notable current: Aemilia is eighteen and has spent the months since Demetrios' visit implementing stricter household practices concerning water, food, waste, linens, washing and care around illness. Her adult marriage to Lucius is now an established private rhythm; Lucius' fidelity promise remains in effect, and they continue intending legitimate children together. No pregnancy has yet been established.
+- Notable current: Aemilia is eighteen. The Valerian household now follows stricter health practices developed from Demetrios' advice. Her adult marriage to Lucius is established and his fidelity promise remains in effect. Aemilia's expected monthly bleeding has failed to begin at its usual time, making pregnancy possible but not yet established.
