@@ -1,9 +1,9 @@
 # Current scene
 
 - S01, approximately 12 BC. It is Aemilia's eighteenth birthday, late evening, at the Valerian domus in Rome. The final guest has departed after Aemilia's successful large birthday gathering.
-- After asking Lucius whether he is coming, Aemilia leads him to their household bath, which she has already had prepared. Warm water, lamps, towels, oils and the practical necessities are ready after the long feast.
-- Lucius follows her and understands that the invitation is deliberate, but he still does not presume that sharing the private space determines what must happen afterward. The long-standing marital boundary has ended because Aemilia is now eighteen, but her choices remain her own and Lucius' promises remain in effect.
-- The scene is private, affectionate and anticipatory without assuming sexual activity. Household attendants can be dismissed or retained according to Aemilia's next choice.
-- From this birthday onward Lucius will not seek sexual access to Livia or any other women, and he and Aemilia intend to try for legitimate children together.
+- Aemilia has led Lucius to their prepared household bath. When Lucius carefully leaves the arrangements to her, she rolls her eyes and tells him directly, 'Come bathe with your wife.' This clearly establishes that she wants Lucius to share the bath with her.
+- Lucius accepts the invitation with affectionate amusement. He has the attendants withdraw so husband and wife can have privacy, treating the shared bath as Aemilia's deliberate invitation rather than presuming any further sexual activity from it.
+- The scene remains private, affectionate and anticipatory. Aemilia and Lucius are now together at the prepared bath after the feast; what follows remains subject to Aemilia's choices.
+- Lucius' promises are now in effect: from this birthday onward he will not seek sexual access to Livia or any other women, and he and Aemilia intend to try for legitimate children together.
 - The private reason for the marriage's previous childlessness remains known to Lucius' father; any wider consequences remain unresolved.
 - Lucius' father's personal name and exact offices remain unestablished. Aemilia's father also remains personally unnamed in canon.
