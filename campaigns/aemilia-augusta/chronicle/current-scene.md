@@ -2,9 +2,8 @@
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening.
 - Aemilia is seventeen, a few months from her eighteenth birthday. Lucius is approximately thirty.
-- Lucius fulfilled his promise to educate her. Aemilia is now experienced in household management and letters, with working knowledge of Greek, practical law, accounts, patronage and elite politics.
-- Aemilia adores the Valerian household and loves Lucius deeply, despite and partly within the reality that he retains substantial authority over her life.
-- Their marriage remains privately unconsummated. In public Lucius behaves without hesitation as though there could be no question that theirs is a conventional, established marriage, protecting Aemilia and the household from scrutiny.
-- Current location: an elite private gathering in Rome. Aemilia and Lucius are attending together.
-- Lucius comfortably performs the public role of established husband, using familiar social gestures and speech to leave no visible room for suspicion about the marriage.
-- A socially dangerous conversation begins nearby when an older elite matron turns discussion toward Aemilia's long-childless marriage, framing the question as concern about heirs and invoking the expectations of the Augustan social order. Lucius is present and alert, but does not immediately answer for Aemilia.
+- Their marriage remains privately unconsummated. Publicly Lucius behaves as an established husband and protects the secret without hesitation.
+- At an elite private gathering in Rome, an older matron probes Aemilia about the marriage's lack of children. Aemilia answers lightly that Venus will bless them with a child. Lucius deflects further scrutiny with jokes about hoping for a daughter and valuing his wife's opinions.
+- The exchange succeeds socially, but Aemilia notices that the matron's adult son, Gaius Fabius Crispus, watches the deflection rather than laughing. He later approaches Aemilia near the household shrine while Lucius is occupied by another conversation.
+- Crispus couches his intrusion as concern, saying people have begun to wonder whether the long-childless marriage conceals a private arrangement rather than simple bad luck. He does not claim knowledge of the truth, but tests Aemilia's reaction by asking whether Lucius has been 'kind' to her in marriage.
+- Lucius is across the room and has not yet intervened. Aemilia has the initiative in handling Crispus' probing question.
