@@ -1,7 +1,7 @@
 # Current scene
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening. Aemilia is seventeen, a few months from eighteen; Lucius is approximately thirty.
-- Late at night in Lucius' private study, the conversation turns directly to the future of their marriage and legitimate children.
-- Asked what she expects, Aemilia tells Lucius that he spared her the dangers of childbirth in favor of her education and allowing her to grow into a woman, and that she expects him to consummate their marriage.
-- Because Aemilia is still seventeen, Lucius does not treat the statement as permission for immediate sexual contact and maintains his established boundary against sexually involving her while she remains a child.
-- Lucius takes her answer seriously as a statement about their future rather than Rome's expectations. He confirms that once she is an adult they will revisit the marriage as husband and wife, but refuses to collapse the remaining months simply because the subject has finally been spoken aloud.
+- Late at night in Lucius' private study, Aemilia tells Lucius that she expects their marriage to be consummated once she is an adult. Lucius accepts this as her stated expectation for their future while maintaining his boundary until then.
+- Aemilia then asks, 'And what of Livia?' bringing the enslaved mother of Lucius' daughter Valeria directly into the discussion.
+- Lucius answers without romanticizing the relationship: Livia is enslaved within his household, and the power he holds over her makes any sexual relationship structurally coercive rather than a relationship between equals. He acknowledges Valeria as his daughter and says neither Livia nor Valeria will be discarded or punished because his marriage to Aemilia changes.
+- Lucius also makes clear that Aemilia's future place as his adult wife is distinct from Livia's status and that he will not ask Aemilia to pretend the situation is emotionally simple. The exact future boundaries between Lucius and Livia remain open for Aemilia to question further rather than being assumed.
