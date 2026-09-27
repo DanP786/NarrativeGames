@@ -1,7 +1,8 @@
 # Current scene
 
 - S01, approximately 12 BC, around five and a half years after the wedding-night opening. Aemilia is seventeen, a few months from eighteen; Lucius is approximately thirty.
-- The elite gathering ends successfully: Aemilia's feigned ignorance helps Lucius draw useful information from Titus Claudius Marcellus about distressed estates and obligations near Capua.
-- Late that night Aemilia and Lucius return to the Valerian domus. The household is mostly quiet and reduced to lamps, night servants and guards.
-- Lucius' young daughter Valeria runs to meet him despite the late hour. Valeria is approximately four years old, born to Livia, an adult enslaved woman of the Valerian household. Lucius acknowledges Valeria openly within the household and shows her familiar paternal affection, though her enslaved birth means she is not treated as a legitimate dynastic heir of his marriage to Aemilia.
-- Valeria is comfortable around Aemilia and has grown up knowing her as the mistress of the household. Her presence makes the household's complicated family structure tangible without altering Aemilia's established authority as Lucius' wife.
+- Late at night Aemilia and Lucius return from a successful elite gathering to the Valerian domus.
+- Lucius' approximately four-year-old daughter Valeria, born to the enslaved woman Livia, runs to meet him and is lifted into his arms. She is comfortable with both Lucius and Aemilia.
+- Seeing Lucius' children consistently causes Aemilia private emotional pain: she loves the household and is gentle with the children, but they embody both Lucius' fatherhood and the legitimate children she has not yet been allowed or expected to bear while he kept his promise to wait for her adulthood.
+- Aemilia conceals the ache and asks Valeria softly, 'Are you not tired, little lamb?' Valeria insists she is not tired even while visibly falling asleep against Lucius.
+- Lucius observes Aemilia's gentleness toward Valeria and, from long familiarity, notices that something beneath her smile is more complicated than simple amusement. He does not name an unspoken thought or expose it before Livia and the child.
