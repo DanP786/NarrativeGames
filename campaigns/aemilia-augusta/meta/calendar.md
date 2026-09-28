@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: approximately 12 BC, several months after Aemilia's eighteenth birthday; the morning after she told Lucius she had missed an expected menstrual cycle
-- Time of day: morning
-- Location: Valerian domus, Rome; a long-planned gladiatorial spectacle elsewhere in Rome is scheduled for today
-- Time elapsed since opening: approximately five years and ten months
-- Notable current: Aemilia is eighteen. Her adult marriage to Lucius is established and his fidelity promise remains in effect. Aemilia's expected monthly bleeding has failed to begin, making pregnancy possible but not yet established. Lucius is trying to persuade her to abandon today's long-planned gladiatorial outing as a precaution because of crowds, heat, jostling and the demands of a long public day.
+- Date: approximately 12 BC, some weeks after Aemilia's private pregnancy consultation with Demetrios and the trusted midwife; several months after her eighteenth birthday
+- Time of day: variable during a short period of compressed household time
+- Location: Valerian domus, Rome
+- Time elapsed since opening: approximately five years and eleven months
+- Notable current: Aemilia is eighteen and her pregnancy is progressing without an established complication. No formal announcement has been made, but household servants have largely inferred the pregnancy from changed food and household precautions and from the first subtle physical changes noticed by women attending Aemilia in the baths. Pia remains the only servant formally entrusted with the secret. Lucius's fidelity promise remains in effect.
