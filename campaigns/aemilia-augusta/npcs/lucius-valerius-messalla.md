@@ -1,7 +1,10 @@
 # Lucius Valerius Messalla
 
 ## Description
-Approximately thirty-year-old Roman aristocrat from an established senatorial family. Husband of Aemilia for roughly six years.
+Approximately thirty-year-old Roman aristocrat from an established senatorial family. Husband of Aemilia for roughly six years. Senator who has completed the junior military service expected of his rank and served as quaestor; his current public work consists chiefly of Senate business, legal advocacy, patronage, estate and credit interests, and positioning for the praetorship. Like other wealthy senators, he is not a salaried professional in the modern sense; landed wealth and household resources support his public career.
+
+## Family
+Lucius is the third surviving child of Marcus Valerius Messalla and his first wife, Claudia Pulchra. Claudia died aged thirty-two when Lucius was about ten. Lucius' full siblings are Marcus Valerius Messalla Minor, approximately thirty-five, and Valeria Messalla, approximately thirty-three. His father later married Terentia, now approximately forty-five; their children Decimus Valerius Messalla, sixteen, and Valeria Tertia, thirteen, are Lucius' paternal half-siblings. Full family structure, spouses, nieces and nephews are recorded in `world/family-trees.md`.
 
 ## Appearance
 Tall, broad-shouldered and athletic without looking like a professional soldier. Lucius has a long, strongly structured face, olive complexion, dark brown wavy hair worn short by elite Roman standards, dark eyes, and a clean-shaven face. His bearing is controlled and patrician rather than ostentatious. At formal gatherings he favors a white tunic beneath a deep burgundy toga or mantle with restrained gold detailing and a heavy gold brooch. His established visual reference is the appearance depicted beside Aemilia in the S01 gathering portrait generated during play.
@@ -66,6 +69,7 @@ All three surviving children were born into slavery within the household's legal
 - Lucius and Aemilia agreed that once she was an adult they would try for legitimate children together, while acknowledging that conception, survival and safe childbirth cannot be guaranteed.
 - On Aemilia's eighteenth birthday their marriage entered its adult phase by mutual choice. The night itself remains undescribed.
 - In the following months their intimate life becomes frequent. Lucius remains faithful to Aemilia.
+- Several months into the adult marriage, Aemilia misses an expected menstrual cycle and tells Lucius she believes she is carrying their child. Pregnancy remains possible rather than confirmed.
 
 ## Knowledge
 Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows she loves the Valerian household and has repeatedly seen her develop independent judgments. He does not automatically know thoughts she does not express.
