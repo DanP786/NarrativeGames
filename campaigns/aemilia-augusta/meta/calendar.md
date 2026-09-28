@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: approximately 12 BC, some weeks after Aemilia's private pregnancy consultation with Demetrios and the trusted midwife; several months after her eighteenth birthday
-- Time of day: variable during a short period of compressed household time
-- Location: Valerian domus, Rome
-- Time elapsed since opening: approximately five years and eleven months
-- Notable current: Aemilia is eighteen and her pregnancy is progressing without an established complication. No formal announcement has been made, but household servants have largely inferred the pregnancy from changed food and household precautions and from the first subtle physical changes noticed by women attending Aemilia in the baths. Pia remains the only servant formally entrusted with the secret. Lucius's fidelity promise remains in effect.
+- Date: approximately 12 BC; Aemilia is approximately three months pregnant and several months past her eighteenth birthday
+- Time of day: daytime, before a family birthday gathering
+- Location: Valerian domus, Rome; Lucius and Aemilia have been invited to the household of Lucius's elder brother Marcus Valerius Messalla Minor and Servilia for one of their sons' birthdays
+- Time elapsed since opening: approximately six years
+- Notable current: Aemilia's pregnancy is progressing without an established complication. The Valerian household has effectively inferred it, though Aemilia and Lucius have made no formal announcement. A family birthday gathering will put Aemilia before close Valerian relatives at roughly three months pregnant, making discreet observation likely. Lucius's fidelity promise remains in effect.
