@@ -6,24 +6,29 @@ Gaius Vibius Rufus, approximately twenty-two, is a wealthy young Roman equestria
 ## Position and resources
 Rufus is rapidly increasing his wealth through a combination of Italian landed property, contracts, credit relationships and commercial connections handled within the respectable conventions available to an equestrian household. He has become a useful practical contact within Lucius Valerius Messalla's wider business and patronage network.
 
+## Ambition and information network
+In Aemilia's judgment, Rufus is not primarily ambitious for political office. His deeper ambition is information. She believes a meaningful portion of his growing wealth is spent obtaining access, reports, correspondence, introductions and useful knowledge from commercial, estate and elite networks. This helps explain his usefulness to Lucius.
+
 ## Voice and mannerisms
 Not yet fully established in direct play. Aemilia has met him on many occasions and describes him privately to Terentia as kind and clever, with an unusual ability to anticipate how another person feels and to make practical arrangements for that person's benefit.
 
 ## Traits
 - Financially ambitious
+- Information-seeking
 - Practically competent
 - Socially rising
 - Useful to senatorial contacts
 - Kind and perceptive in Aemilia's judgment
+- Not controlling, but reluctant to concede once persuaded of a position
 
 ## Relationship to player
 Aemilia has encountered Rufus repeatedly through Lucius's business and patronage affairs. She knows him well enough socially to suggest him privately to Terentia as a possible husband for Valeria Tertia and gives a favorable personal assessment of his kindness, intelligence and attentiveness.
 
 ## Relationship to Lucius
-A useful contact rather than a social equal in pedigree. Lucius has reason to value Rufus's growing resources and practical network. Whether Lucius would support a marriage between Rufus and his half-sister Valeria Tertia has not yet been established.
+A useful contact rather than a social equal in pedigree. Lucius has reason to value Rufus's growing resources, practical network and appetite for information. Whether Lucius would support a marriage between Rufus and his half-sister Valeria Tertia has not yet been established.
 
 ## Reported private reputation
 Aemilia tells Terentia she has heard that Rufus has never attended a brothel and only occasionally attends public bathhouses. This is currently secondhand reputation reported by Aemilia, not independently established fact.
 
 ## Marriage significance
-A match with Valeria Tertia would be unconventional for the Valerian Messalla family because Rufus comes from the equestrian rather than senatorial order. His growing fortune and useful network could make the connection materially attractive, while Aemilia believes his personal character could benefit Valeria. Marcus Valerius Messalla would nevertheless have strong status and dynastic reasons to scrutinize or resist the match.
+A match with Valeria Tertia would be unconventional for the Valerian Messalla family because Rufus comes from the equestrian rather than senatorial order. His growing fortune and information network could make the connection materially and strategically attractive, while Aemilia believes his personal character could benefit Valeria. His firmness could also make him difficult when disagreements arise. Marcus Valerius Messalla would nevertheless have strong status and dynastic reasons to scrutinize or resist the match.
