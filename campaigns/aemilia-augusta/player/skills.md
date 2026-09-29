@@ -11,7 +11,7 @@
 ## Novice
 - Greek (0 ticks) — acquired through years of formal instruction; capable of reading and conversation but not the effortless command of a lifelong bilingual scholar.
 - Roman Law & Property (0 ticks) — understands the practical legal structures most relevant to marriage, dowry, inheritance, household interests and elite disputes; not trained as a jurist.
-- Politics & Patronage (2 ticks) — can follow elite political conversation, recognize interests and obligations, deliberately adapt her social manner to complement different personalities, and retain useful names and relationships while concealing the extent of her attention. Her influence remains largely private and indirect.
+- Politics & Patronage (3 ticks) — can follow elite political conversation, recognize interests and obligations, deliberately adapt her social manner to complement different personalities, retain useful names and relationships while concealing the extent of her attention, and has successfully engineered a deniable social encounter to test a possible family alliance. Her influence remains largely private and indirect.
 - Accounts & Estate Business (0 ticks) — can read household accounts, follow revenues and obligations, and recognize obvious inconsistencies.
 - Textile Work (0 ticks) — traditional skill retained from childhood, though no longer central to her development.
 
