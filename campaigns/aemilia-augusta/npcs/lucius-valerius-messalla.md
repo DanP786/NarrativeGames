@@ -28,27 +28,30 @@ Controlled and educated. Speaks to make distinctions clear rather than fill sile
 ## Current goals
 - Protect and advance the Valerian domus.
 - Preserve Aemilia's standing and the public credibility of their marriage.
-- Sustain the marriage after the loss of their first legitimate pregnancy and the unresolved breach in trust.
+- Continue the active repair of the marriage after pregnancy loss and his breach of trust.
 - Keep his fidelity promise to Aemilia.
+- Maintain the restriction ending Eros's former privileged/private access.
 
 ## Methods & lines
 - Will: instruct, command, negotiate within elite custom, use patronage, control access, test judgment, reward competence, solicit Aemilia's private counsel.
 - Won't: publicly pretend household authority is equal; publicly expose the private history of the marriage; violate his promise of fidelity to Aemilia.
-- Last resort: coercive household or political measures when he believes the domus is genuinely threatened. Played canon establishes that in a severe private marital argument he physically prevented Aemilia leaving twice; the second time broke his explicit promise not to stop her again. He later admitted, **“I was wrong.”**
+- Last resort: coercive household or political measures when he believes the domus is genuinely threatened. Played canon establishes that in a severe private marital argument he physically prevented Aemilia leaving twice; the second time broke his explicit promise not to stop her again. He later admitted, **“I was wrong.”** During repair he has explicitly acknowledged that his authority does not entitle him to compel Aemilia's beliefs, sexual intimacy, affection, or physical presence in a private argument.
 
 ## Disposition toward Aemilia (GM-only — never narrate as numbers)
-- Trust: 84 / 100 — years of household life and private counsel have made her one of the people whose judgment he most trusts.
-- Affection: 86 / 100 — deep attachment persists through grief and conflict.
-- Respect: 82 / 100 — values her education and demonstrated judgment.
-- Loyalty: 92 / 100 — identifies her interests strongly with his own household and considers protecting her standing a personal obligation.
-- Suspicion: 5 / 100 — little personal suspicion of Aemilia.
+- Trust: 88 / 100
+- Affection: 92 / 100
+- Respect: 87 / 100
+- Loyalty: 94 / 100
+- Suspicion: 3 / 100
 
 ## Relationship to player
-Deeply established and affectionate but structurally hierarchical. Lucius retains final household authority. He explicitly loves Aemilia and has long relied on her private judgment.
+Deeply established, affectionate and structurally hierarchical. Lucius retains final household authority but the marriage is now in active repair rather than simple breach.
 
-The relationship is presently breached rather than reconciled. During an argument over Eros's disclosure of a private conversation, Lucius twice physically stopped Aemilia from leaving. After the first restraint he promised not to stop her again; during the second he shut the door and forced Aemilia's shoulders against it while avoiding her pregnant belly. He recognized the contradiction and said, **“I was wrong.”** Later that night Aemilia's pregnancy loss began. No causal link between his restraint and the miscarriage is established.
+After the pregnancy loss and weeks of distance, Aemilia explicitly told Lucius that repair could begin once he finally understood her grievance concerning Eros and restricted Eros's access. Lucius acknowledged that repair also requires changed conduct from him after physically preventing Aemilia leaving and breaking his word.
 
-After the loss Lucius largely avoids forcing closeness or reopening the dispute while Aemilia is grieving. On Aemilia's second day back at household work she becomes too weak to climb stairs and calls specifically for him. He asks permission before lifting her. She voluntarily rests against his chest while he carries her and later grabs his hand to keep him beside her. He does not treat these gestures as forgiveness or resolution.
+At the country villa they discussed authority and obedience directly. Lucius admitted that he does expect obedience in substantial areas of Roman household life but accepted that marriage and future children cannot be treated as ordinary matters where Aemilia merely advises and yields. He also stated that he will not use physical power to compel sexual intimacy or prevent Aemilia leaving a private argument.
+
+Aemilia later initiated their first kiss since the breach and loss, explicitly asked Lucius to take her to their bed, and voluntarily resumed marital intimacy with him. Over the following week at the villa she consistently welcomed his touch, talked with him and touched him affectionately. She remains subdued and does not yet smile freely or laugh. Lucius does not treat renewed closeness as proof that grief or the breach have disappeared.
 
 ## Children born to enslaved women
 During the years in which he waited for Aemilia to grow up, Lucius fathered seven babies by adult enslaved women. Four died in infancy or early childhood. Three survive: Hilarus by Daphne, and Fortunata and Felix by Eros. All were born into slavery and are not legitimate dynastic heirs. The sexual relationships with their enslaved mothers existed within coercive structures of ownership and are not treated as freely consensual.
@@ -59,12 +62,14 @@ During the years in which he waited for Aemilia to grow up, Lucius fathered seve
 - Shortly before Aemilia turned eighteen, explicitly told her he loves her and promised fidelity from her eighteenth birthday onward.
 - Their marriage entered its adult phase by mutual choice; their intimate life became frequent and affectionate.
 - Aemilia became pregnant with their first legitimate child; the pregnancy was lost at approximately four months in S02.
-- S02: During a severe quarrel involving Eros, Lucius twice physically prevented Aemilia leaving and broke his promise not to do so again. He admitted he was wrong. The breach remains unresolved.
-- S02 background: During Aemilia's weeks of withdrawal after the miscarriage, Eros privately sought Lucius's company in a manner recalling their former sexual relationship. Lucius understood and was genuinely tempted but refused sexual access and did not have sex with Eros because his fidelity promise remained a hard line.
-- S02 closing: Aemilia calls for Lucius when physically unable to manage stairs, accepts being carried, rests against him, and later holds his hand to keep him beside her.
+- S02: During a severe quarrel involving Eros, Lucius twice physically prevented Aemilia leaving and broke his promise not to do so again. He admitted he was wrong.
+- During Aemilia's post-loss withdrawal, Eros privately sought Lucius's company in a manner recalling their former sexual relationship. Lucius understood and was tempted but refused sexual access and remained faithful.
+- Lucius later disclosed Eros's approach to Aemilia himself. Aemilia challenged Eros's continuing access, and Lucius ended Eros's discretionary/private access to him. Necessary matters must now pass through ordinary channels or occur with others present.
+- Aemilia and Lucius explicitly begin repairing the marriage. At the country villa she initiates renewed kissing and marital intimacy. Their affectionate physical closeness continues throughout the following week.
+- They return together to the Roman domus after approximately a week at the villa.
 
 ## Knowledge
-Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows what she has said and what he has witnessed, but not unspoken thoughts. He knows the private Eros approach occurred; Aemilia does not.
+Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows what she has said and what he has witnessed, but not unspoken thoughts. He knows Eros's private approach occurred and has disclosed it to Aemilia. He knows Aemilia wants information about Pia without automatically ordering recapture or punishment if Pia deliberately fled; as of the return to Rome, the household inquiry has produced an uncertain witness lead suggesting Pia may not have been moving freely with unfamiliar men.
 
 ## What he is hiding
-The background encounter in which Eros sought renewed private/sexual company has not been disclosed to Aemilia. Lucius did not resume sexual access and remained faithful. His most sensitive political pressures and compromises also remain selectively disclosed.
+Lucius is not presently hiding Eros's post-loss approach from Aemilia; he disclosed it voluntarily. His most sensitive political pressures and compromises remain selectively disclosed. He does not know the hidden truth of Pia's abduction and onward sale.
