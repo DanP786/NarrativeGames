@@ -25,14 +25,18 @@ Aemilia exposes a crucial distinction: Naso was told that the woman was away fro
 
 Thus Naso knowingly accepted a household attendant from strangers while aware she was merely away from her mistress and without direct confirmation from the mistress or any named owner. This materially weakens his innocent-broker defense. It still does not establish that he knew the mistress was Aemilia, knew the household was Valerian, or knew Pia had been abducted.
 
+When Aemilia brings him one of his secured tablets to inspect, Naso identifies an abbreviated **brokerage/introduction fee credited to Philargyrus** beside the relevant transaction sequence. This corroborates that Philargyrus was compensated for facilitating the transaction. The fee is accounted against transaction proceeds/expenses and does not identify Philargyrus's original principal or source of information.
+
+Naso also identifies a small **messenger reimbursement** notation associated with Philargyrus's introduction. He says the messenger is a man he has seen carrying messages for Philargyrus before, known to him only by the byname/street-name **Celer**. Naso does not know Celer's full identity/status and does not identify him as one of Pia's physical interceptors.
+
 ## Voice and manner
 Bruised, wary and commercially precise. Naso attempts to protect himself by distinguishing narrowly between what he personally arranged and acts committed by others. He is not casually defiant before Lucius, but neither does he volunteer guilt beyond what records or questioning force him to acknowledge.
 
 ## Knowledge
-Naso knows the commercial step he arranged, Faustus's network/intended Capua movement, that Philargyrus vouched for the two delivery men, and that Philargyrus possessed advance information describing Pia's household role and legitimate leave. He does not know or has not established the source of that information. He did not possess confirmation that Pia's mistress or a named owner authorized the sale.
+Naso knows the commercial step he arranged, Faustus's network/intended Capua movement, that Philargyrus vouched for the two delivery men, and that Philargyrus possessed advance information describing Pia's household role and legitimate leave. He does not know or has not established the source of that information. He did not possess confirmation that Pia's mistress or a named owner authorized the sale. His records corroborate a compensated introduction by Philargyrus and a messenger expense associated with Celer.
 
 ## Relationship to Aemilia
-No prior personal relationship. He now knows she is the domina connected to the missing woman whose transfer he brokered. Aemilia's quiet examination has repeatedly exposed gaps between what Naso actually knew and what he merely assumed.
+No prior personal relationship. He now knows she is the domina connected to the missing woman whose transfer he brokered. Aemilia's quiet examination has repeatedly exposed gaps between what Naso actually knew and what he merely assumed; she personally places the relevant tablet before him when he asks to inspect his records again.
 
 ## GM constraints
 - Do not retroactively make Naso the architect of the original interception without evidence.
@@ -40,4 +44,4 @@ No prior personal relationship. He now knows she is the domina connected to the 
 - Pia's exact current location remains unknown.
 - Do not assume Lucius inflicted or ordered Naso's beating until play establishes it.
 - Forward investigation: pursue Quintus Numisius Faustus's Roman contacts and Capuan network.
-- Backward investigation: locate **Gaius Vettius Philargyrus**, establish his source for the specific information about Pia's household role/leave, and trace that source. This is evidence of advance informed targeting, not yet evidence identifying Eros.
+- Backward investigation: locate **Gaius Vettius Philargyrus**, establish his source for the specific information about Pia's household role/leave, and trace that source. **Celer** is a secondary messenger/contact lead who may corroborate how Philargyrus received or transmitted instructions, but is not yet connected to Eros and is not established as an interceptor.
