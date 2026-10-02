@@ -1,6 +1,6 @@
 # NPC index
 
-- Lucius Valerius Messalla | alive | Valerian domus, Rome | Friendly | last seen S02 (Aemilia's husband; approximately 30; unresolved marital breach after twice physically stopping her leaving an argument; currently beside her in a private sitting room after carrying her from the stairs)
+- Lucius Valerius Messalla | alive | Valerian domus, Rome | Friendly | last seen S02 (Aemilia's husband; approximately 30; unresolved marital breach after twice physically stopping her leaving an argument; active repair underway)
 - Marcus Valerius Messalla | alive | Rome | Neutral | referenced S02 (Lucius' father, approximately 58; investigating Gaius Vibius Rufus as a possible husband for Valeria Tertia; privately knows Lucius delayed conception during Aemilia's childhood)
 - Terentia | alive | elder Messalla household, Rome | Friendly | last seen S02 (Lucius' stepmother; knows the substance of Aemilia and Lucius's marital breach; provisionally favorable toward Rufus but scrutinizing temperament and motive)
 - Claudia Pulchra | dead | — | — | background (Lucius' biological mother; first wife of Marcus Valerius Messalla; died aged 32 when Lucius was about 10)
@@ -21,9 +21,10 @@
 - Marcus Calpurnius Varro | alive | Rome | Neutral | present S01 (wealthy, socially ambitious senator; cultivated as an unwitting intermediary in a Valerian long game)
 - Titus Claudius Marcellus | alive | Rome | Neutral | present S01 (reserved older equestrian financier and estate creditor)
 - Demetrios | alive | Rome | Neutral | last seen S02 (Greek physician who attended Aemilia during the pregnancy loss; no cause established)
-- Fortunata | alive | Valerian domus, Rome | Friendly | present S01 (Lucius' approximately four-year-old daughter by Eros; familiar with Aemilia)
-- Felix | alive | Valerian domus, Rome | Neutral | present S01 (Lucius' approximately two-year-old son by Eros)
-- Hilarus | alive | Valerian domus, Rome | Neutral | present S01 (Lucius' approximately six-year-old son by Daphne)
-- Eros | alive | Valerian domus, Rome | Neutral | last seen S02 (adult enslaved woman; mother of Fortunata and Felix; her disclosure to Lucius helped precipitate the unresolved marital quarrel; later privately sought Lucius's former kind of company and was refused sexual access)
+- Fortunata | alive | Valerian domus, Rome | Friendly | present S02 (Lucius' approximately four-year-old daughter by Eros; familiar with Aemilia; knows at child level that Aemilia's baby died)
+- Felix | alive | Valerian domus, Rome | Neutral | present S02 (Lucius' approximately two-year-old son by Eros)
+- Hilarus | alive | Valerian domus, Rome | Neutral | present S02 (Lucius' approximately six-year-old son by Daphne)
+- Eros | alive | Valerian domus, Rome | Neutral | last seen S02 (adult enslaved woman; mother of Fortunata and Felix; former privileged access to Lucius ended)
 - Daphne | alive | Valerian domus, Rome | Neutral | present S01 (adult enslaved woman; mother of Hilarus; Lucius's former sexual access occurred within coercive ownership)
-- Pia | missing | unknown | Friendly | last seen S02 by absence (Aemilia's longtime enslaved personal attendant; failed to return from a genuine day of leave more than a week ago; no message, confirmed sighting, reason or fate established)
+- Pia | missing | unknown | Friendly | last seen S02 by investigation (Aemilia's longtime enslaved personal attendant; corroborated evidence indicates coercive seizure, holding-yard detention and onward transfer; current location unknown)
+- Titus Fabius Naso | alive | under Valerian control, Rome | Neutral | located S02 (Roman freedman broker identified as arranging Pia's onward transfer from the holding yard; business tablets secured; original interception role and exact knowledge unestablished)
