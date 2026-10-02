@@ -13,28 +13,27 @@ The holding yard identifies Naso as the intermediary who arranged the onward tra
 
 He says two men connected with the delivery represented that there was lawful authority to dispose of the woman. He did not personally know the owner they purported to represent. Their identities remain unestablished.
 
-Under questioning, after Aemilia identifies the relevant tablet entry and presses the practical question of who has Pia, Naso identifies the receiving commercial connection as an agent for **Quintus Numisius Faustus**, a Campanian dealer operating through contacts at **Capua**. The grouped consignment containing the woman was intended to move toward Capua.
+Naso identifies the receiving commercial connection as an agent for **Quintus Numisius Faustus**, a Campanian dealer operating through contacts at **Capua**. The grouped consignment containing the woman was intended to move toward Capua. Naso cannot establish whether Pia has arrived, remains with Faustus's people, or has since been resold.
 
-Naso cannot establish from personal knowledge whether the group has already arrived, whether the woman has since been resold, or whether she remains with Faustus's people. His records establish transfer into Faustus's commercial network, not Pia's exact present physical location.
+When Aemilia asks what proof of ownership would ordinarily be required, Naso admits he received **no formal written mandate naming the supposed owner**. He relied on the holding-yard channel, the two men's assertion of authority, their physical control of the woman, and—now established—the prior word of **Gaius Vettius Philargyrus**.
 
-When Aemilia asks what proof of ownership would ordinarily be required in a brokered sale, Naso is forced to admit he received **no formal written mandate naming the supposed owner** of the woman. He relied on the holding-yard channel, the two men's assertion that they possessed authority, and their physical control of the woman. This weakens his portrayal of the transaction as wholly routine, though it does not by itself prove he knew she was stolen.
+Philargyrus is a freedman known to Naso through prior commercial dealings involving small labor placements, transport introductions and short-notice transactions. According to Naso, Philargyrus sent word before Pia's delivery that two men would bring a woman whose disposal was authorized and that Naso could treat the transaction as legitimate. This prior relationship is why Naso says he accepted the delivery without a named-owner mandate.
+
+Naso does not claim Philargyrus owned Pia, physically delivered her, or necessarily ordered her seizure. Whether Philargyrus knew she was stolen, knew her Valerian ownership, or acted for someone else remains unestablished.
 
 ## Voice and manner
 Bruised, wary and commercially precise. Naso attempts to protect himself by distinguishing narrowly between what he personally arranged and acts committed by others. He is not casually defiant before Lucius, but neither does he volunteer guilt beyond what records or questioning force him to acknowledge.
 
 ## Knowledge
-Naso knows the commercial step he arranged and identifies Faustus's network and intended movement toward Capua. He does not automatically know the full chain behind Pia's interception or her exact present location. He is not presently established as knowing Pia's Valerian ownership when he handled the transfer.
-
-A newly exposed question is who vouched for or introduced the two delivery men strongly enough that Naso accepted their asserted authority without a named-owner mandate. The answer is not yet established.
+Naso knows the commercial step he arranged, Faustus's network/intended Capua movement, and that Philargyrus vouched for the two delivery men. He does not automatically know the full chain behind Pia's interception or her exact present location. He is not presently established as knowing Pia's Valerian ownership when he handled the transfer.
 
 ## Relationship to Aemilia
-No prior personal relationship. He now knows she is the domina connected to the missing woman whose transfer he brokered. Aemilia's quiet examination of his records and commercial practice is exposing weaknesses in his claim that he innocently handled an ordinary transaction.
+No prior personal relationship. He now knows she is the domina connected to the missing woman whose transfer he brokered. Aemilia's quiet examination and willingness to wait through silence help expose weaknesses in his claim that he innocently handled an ordinary transaction.
 
 ## GM constraints
 - Do not retroactively make Naso the architect of the original interception without evidence.
 - Do not establish a direct Naso–Eros link merely for convenience.
-- Use his business records and testimony to move the investigation one plausible link at a time.
 - Pia's exact current location remains unknown.
 - Do not assume Lucius inflicted or ordered Naso's beating until play establishes it.
-- Forward investigation: pursue Quintus Numisius Faustus's Roman contacts and Capuan network, determine whether the grouped consignment has left/arrived, and locate Pia before any further resale.
-- Backward investigation: establish who vouched for/introduced the two men and why Naso accepted their authority without a formal named-owner mandate.
+- Forward investigation: pursue Quintus Numisius Faustus's Roman contacts and Capuan network.
+- Backward investigation: locate **Gaius Vettius Philargyrus**, establish why he vouched for the two delivery men, and trace his source/contact. Philargyrus is not yet evidence against Eros; at least one further plausible link is required before Eros is implicated.
