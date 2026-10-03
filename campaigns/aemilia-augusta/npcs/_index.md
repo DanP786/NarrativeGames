@@ -26,5 +26,6 @@
 - Hilarus | alive | Valerian domus, Rome | Neutral | present S02 (Lucius' approximately six-year-old son by Daphne)
 - Eros | alive | Valerian domus, Rome | Neutral | last seen S02 (adult enslaved woman; mother of Fortunata and Felix; former privileged access to Lucius ended)
 - Daphne | alive | Valerian domus, Rome | Neutral | present S01 (adult enslaved woman; mother of Hilarus; Lucius's former sexual access occurred within coercive ownership)
-- Pia | missing | unknown | Friendly | last seen S02 by investigation (Aemilia's longtime enslaved personal attendant; corroborated evidence indicates coercive seizure, holding-yard detention and onward transfer; current location unknown)
+- Pia | alive | returning north under Valerian protection, Appian route | Friendly | recovered S02 (Aemilia's longtime enslaved personal attendant; found alive in Faustus-network staging chain and recovered; detailed condition remains unestablished pending direct observation/account)
 - Titus Fabius Naso | alive | under Valerian control, Rome | Neutral | located S02 (Roman freedman broker identified as arranging Pia's onward transfer from the holding yard; business tablets secured; original interception role and exact knowledge unestablished)
+- Gaius Vettius Philargyrus | alive | under Valerian control, Rome | Neutral | located S02 (freedman intermediary who passed Celer's advance information about Pia's leave to Naso and received a compensated introduction fee; ultimate source still unidentified)
