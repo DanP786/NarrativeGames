@@ -29,10 +29,12 @@ Aemilia tells Pia that Lucius found the person who supplied information about Pi
 
 Aemilia answers that she does not know exactly what Eros foresaw, only that Eros wanted to hurt Aemilia and went through Pia; she says Eros has hurt her beyond measure, that Pia was taken and Aemilia almost lost her, then asks Pia directly what she wants to happen.
 
-Pia does not immediately demand a specific punishment. The question visibly unsettles her because as an enslaved woman she is unused to being asked to judge another enslaved person's fate, especially by her domina. She says she wants Eros unable to do this again and does not want to live under the same roof wondering whether Eros can reach her or Aemilia through another person. Pia also asks that the truth be learned before final punishment: whether Eros knew men would seize Pia, what she expected them to do, and whether she understood Pia might be sold. Pia makes clear that if Eros knowingly exposed her to seizure, the fact that later events became worse does not make the initial betrayal harmless.
+Pia does not immediately demand a specific punishment. She says she wants Eros unable to do this again and does not want to live under the same roof wondering whether Eros can reach her or Aemilia through another person. Pia also initially asks that the truth be learned before final punishment: whether Eros knew men would seize Pia, what she expected them to do, and whether she understood Pia might be sold.
+
+Aemilia tells Pia they may never be able to prove Eros's precise intended outcome and that Eros may say whatever best seeks absolution. She says the distinction between intended and actual harm matters to Lucius but not to her, comparing it to asking someone to push another person and the victim falling, striking their head and dying: the death remains real regardless of whether it was intended. Pia understands Aemilia's point and clarifies that she is not asking for Eros's intention to erase the consequence. What matters most to Pia is that Eros deliberately chose to make Pia vulnerable to strangers; Pia does not require certainty about every downstream outcome before holding that choice against Eros. Pia remains reluctant to name a specific punishment herself, but reiterates that she does not want Eros left in a position to reach either woman again.
 
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has now told her Eros supplied the information enabling her interception and asked what Pia wants done about it.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has told her Eros supplied the information enabling her interception and asked what Pia wants done about it.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -45,6 +47,7 @@ Alive and recovered into Valerian protection after being found within the Faustu
 - Pia does not yet know the full later search chronology or that Aemilia explicitly intended to free her.
 - Pia now knows from Aemilia that Lucius's investigation identified **Eros** as the household source who supplied information about Pia's genuine day away and enabled her interception. Aemilia has told Pia Eros wanted Pia not to return in order to hurt Aemilia.
 - Pia does not yet know the full evidence chain Eros → Celer → Philargyrus → Naso, nor has she been told that Celer describes Eros's intended scheme as temporary/private removal rather than onward sale.
+- Pia now knows Aemilia does not regard uncertainty about Eros's intended downstream outcome as materially reducing Eros's responsibility for the harm that actually followed from deliberately exposing Pia to seizure.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
