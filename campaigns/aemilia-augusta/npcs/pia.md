@@ -33,8 +33,10 @@ Pia does not immediately demand a specific punishment. She says she wants Eros u
 
 Aemilia tells Pia they may never be able to prove Eros's precise intended outcome and that Eros may say whatever best seeks absolution. She says the distinction between intended and actual harm matters to Lucius but not to her, comparing it to asking someone to push another person and the victim falling, striking their head and dying: the death remains real regardless of whether it was intended. Pia understands Aemilia's point and clarifies that she is not asking for Eros's intention to erase the consequence. What matters most to Pia is that Eros deliberately chose to make Pia vulnerable to strangers; Pia does not require certainty about every downstream outcome before holding that choice against Eros. Pia remains reluctant to name a specific punishment herself, but reiterates that she does not want Eros left in a position to reach either woman again.
 
+Aemilia then holds Pia's hand and explicitly tells her: **“I do love you Pia, you are my favourite person. I know it’s not an equal friendship, you can’t choose to leave. But… I don’t want to live this life without you.”** Pia is deeply affected by both the declaration of love and Aemilia's acknowledgement that their bond is structurally unequal. She does not pretend that affection erases enslavement. She tells Aemilia that the inequality is real, but so is her own attachment: Aemilia is not interchangeable to Pia either. Pia cannot honestly describe staying as a fully free choice while enslaved, but she can truthfully say that being taken from Aemilia was not what she wanted and that returning to her mattered.
+
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has told her Eros supplied the information enabling her interception and asked what Pia wants done about it.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has told her Eros supplied the information enabling her interception, asked what Pia wants done about it, and explicitly told Pia she loves her and does not want to live her life without her.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -48,6 +50,7 @@ Alive and recovered into Valerian protection after being found within the Faustu
 - Pia now knows from Aemilia that Lucius's investigation identified **Eros** as the household source who supplied information about Pia's genuine day away and enabled her interception. Aemilia has told Pia Eros wanted Pia not to return in order to hurt Aemilia.
 - Pia does not yet know the full evidence chain Eros → Celer → Philargyrus → Naso, nor has she been told that Celer describes Eros's intended scheme as temporary/private removal rather than onward sale.
 - Pia now knows Aemilia does not regard uncertainty about Eros's intended downstream outcome as materially reducing Eros's responsibility for the harm that actually followed from deliberately exposing Pia to seizure.
+- Pia now knows Aemilia explicitly loves her, calls Pia her favourite person, recognizes their relationship cannot be an equal friendship while Pia is enslaved and cannot freely choose to leave, and says she does not want to live her life without Pia.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
@@ -64,8 +67,11 @@ Aemilia prioritizes getting Pia home and rested rather than extracting her accou
 
 Aemilia's direct question about what Pia wants done with Eros is significant because it asks an enslaved victim for judgment rather than treating her only as damaged household property. Pia responds primarily in terms of safety and truth rather than immediately naming a punishment.
 
+Aemilia's declaration of love is equally complicated by status: she explicitly names the inequality rather than calling their bond simply equal friendship. Pia reciprocates attachment without pretending she has had equal freedom to define or leave the relationship. Pia can truthfully distinguish the coercive structure from her personal desire: she did not want to be taken away from Aemilia, and being returned to her mattered deeply.
+
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
 - Pia's knowledge of the initial interception can provide clues, but she is not omniscient and should not identify hidden participants unless she actually witnessed/heard something that supports it.
 - Pia must not infer a medical cause for Aemilia's pregnancy loss from timing or appearance.
 - Pia now knows Eros was identified as the household source, but not the full investigative evidence or precise intended scope unless told.
+- Preserve the structural inequality in Aemilia/Pia's relationship even when affection is genuine. Pia should not be made to reassure Aemilia that slavery is irrelevant or that she freely chose the entire relationship when she legally cannot leave.
