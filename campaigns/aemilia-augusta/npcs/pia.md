@@ -21,9 +21,9 @@ While Aemilia tends her, Pia notices the physical changes in Aemilia that she is
 
 Pia now knows that Aemilia lost the pregnancy on the same night Pia was seized. The timing shocks and grieves her, but she does not infer medical causation or responsibility from coincidence.
 
-Aemilia then apologizes directly: **“No, I am sorry. I was so consumed in my own grief that I did not send for you to be returned. I hoped you had escaped and was happy.”** This is the first time Pia learns Aemilia initially interpreted her disappearance as possibly voluntary and hoped she had reached freedom/happiness rather than immediately ordering her recovered as property.
+Aemilia apologizes directly for not ordering Pia recovered sooner, explaining that grief consumed her and she hoped Pia had escaped and was happy. Pia says she wished every day that Aemilia knew where she was, while recognizing Aemilia could not know what had happened.
 
-Pia is affected by both parts of the confession. She does not treat Aemilia's delay as meaningless, because Pia experienced real danger during the time she remained missing; but she also understands that Aemilia had just lost her child and that Aemilia's hope was for Pia's freedom, not indifference. Pia answers with restrained honesty rather than automatic absolution: she tells Aemilia she wished Aemilia had known she was in danger, but she did not expect Aemilia to know what had actually happened. She does not accuse Aemilia of causing the seizure or sale chain.
+Aemilia then tells Pia: **“I felt abandoned, by you, by my child. But I never thought ill of you. I am sorry I did not come sooner.”** Aemilia embraces Pia again. Pia returns the embrace and answers from her own limited knowledge: she did not leave Aemilia, and she is here now. She does not claim Aemilia's delay was harmless or erase her own ordeal, but she accepts the apology as sincere and allows shared grief without assigning blame for the pregnancy loss.
 
 ## Current status
 Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome.
@@ -36,7 +36,9 @@ Aemilia intercepts Pia's returning party at a roadside stopping place on the App
 - Knows what she personally witnessed and experienced during her interception, detention, transfer and recovery, but the detailed content of that knowledge has not yet been fully established in play and must emerge through her own account without omniscience.
 - Pia did not voluntarily flee Aemilia.
 - Pia now knows Aemilia's pregnancy was lost on the same night Pia was taken. She does **not** know the medical cause, severity of the blood loss, surrounding marital quarrel, or any basis for attributing responsibility.
-- Pia now knows Aemilia did not immediately order her returned because Aemilia was consumed by grief and hoped Pia had voluntarily escaped and was happy/free. Pia does not yet know the full later search chronology or that Aemilia explicitly intended to free her.
+- Pia now knows Aemilia did not immediately order her returned because Aemilia was consumed by grief and hoped Pia had voluntarily escaped and was happy/free.
+- Pia now knows Aemilia felt abandoned by both Pia's unexplained disappearance and the loss of her child, while never thinking ill of Pia personally.
+- Pia does not yet know the full later search chronology or that Aemilia explicitly intended to free her.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
@@ -47,7 +49,9 @@ During Pia's disappearance Aemilia searched for her, feared for her safety, expl
 
 At reunion Aemilia crosses the expected social distance herself and embraces Pia publicly. Pia returns the embrace and cries quietly. Aemilia then personally guides Pia toward her own carriage and tells her they are going home. During the return journey Aemilia cleans Pia's skin and makes sure she eats and drinks.
 
-Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child. Their attachment remains strong, with room for the unequal realities and consequences of what happened to be spoken honestly.
+Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child.
+
+When Aemilia admits she felt abandoned by Pia and by the child but never thought ill of Pia, and apologizes again before embracing her, Pia returns the embrace. The exchange establishes mutual attachment and sincere reconciliation over the misunderstanding without erasing the unequal legal relationship or the real consequences of the delayed search.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
