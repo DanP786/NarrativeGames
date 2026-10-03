@@ -39,8 +39,10 @@ Aemilia kisses Pia's hand and tries to lighten the moment by observing that Pia 
 
 Aemilia admits with a smile that the state of her hair is entirely her own doing, then tells Pia that this is the first time she has laughed since Pia was taken and since the pregnancy loss. Pia's teasing stops without extinguishing the warmth. She is visibly affected by learning that Aemilia's first laugh after both losses happened here with her. Pia does not tell Aemilia that laughter means she is healed or should stop grieving; instead she treats it as a small piece of ordinary life returning and gently tells Aemilia that laughing does not betray the child she lost.
 
+Aemilia laughs again and tells Pia to rest while Deva tends Aemilia's hair instead. As Aemilia stands to leave, she softens and tells Pia: **“Rest. Anything you need, ask. You are domina of this room.”** Pia recognizes the affectionate inversion of their ordinary titles and accepts it with a tired smile. She does not mistake the phrase for literal manumission or legal authority; within the room, however, Aemilia is making clear that Pia is to be cared for rather than expected to serve.
+
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has told her Eros supplied the information enabling her interception, asked what Pia wants done about it, explicitly told Pia she loves her and does not want to live her life without her, and shared her first laugh since Pia's disappearance and the pregnancy loss with her.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she is still tired and sore but safe. Aemilia has explicitly ordered her to rest and told her to ask for anything she needs, joking that Pia is “domina of this room.”
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
