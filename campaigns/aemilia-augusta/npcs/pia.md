@@ -25,10 +25,14 @@ During the night Aemilia finally falls asleep in the chair at Pia's bedside, arm
 
 When Aemilia later wakes stiff and groaning from the awkward position, her attention immediately returns to Pia. She fusses over Pia's water, coverings, food and comfort before tending to herself. Pia is touched but mildly exasperated by the reversal and tells her, **“Domina, I have been awake long enough to know I am not dying.”** She then insists Aemilia sit rather than exhaust herself further.
 
-Aemilia then tells Pia that Lucius found the person who supplied information about Pia's day away: **Eros**. Aemilia tells her Eros wanted Pia not to return in order to hurt Aemilia. Pia is shocked by the identification and asks whether Lucius is certain and whether Eros knew what would be done to her. Pia now understands that her seizure began with deliberate information supplied from inside the Valerian household, but she does not yet know the investigative chain or the distinction between Eros's intended temporary disappearance and the later commercial sale unless Aemilia explains it.
+Aemilia tells Pia that Lucius found the person who supplied information about Pia's day away: **Eros**. Aemilia says Eros wanted Pia not to return in order to hurt Aemilia. Pia is shocked and asks whether Lucius is certain and whether Eros knew what would be done to her.
+
+Aemilia answers that she does not know exactly what Eros foresaw, only that Eros wanted to hurt Aemilia and went through Pia; she says Eros has hurt her beyond measure, that Pia was taken and Aemilia almost lost her, then asks Pia directly what she wants to happen.
+
+Pia does not immediately demand a specific punishment. The question visibly unsettles her because as an enslaved woman she is unused to being asked to judge another enslaved person's fate, especially by her domina. She says she wants Eros unable to do this again and does not want to live under the same roof wondering whether Eros can reach her or Aemilia through another person. Pia also asks that the truth be learned before final punishment: whether Eros knew men would seize Pia, what she expected them to do, and whether she understood Pia might be sold. Pia makes clear that if Eros knowingly exposed her to seizure, the fact that later events became worse does not make the initial betrayal harmless.
 
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia wakes later at her bedside and immediately resumes caring for her. Pia has now been told that Eros supplied the information enabling her interception.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has now told her Eros supplied the information enabling her interception and asked what Pia wants done about it.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -54,6 +58,8 @@ At reunion Aemilia crosses the expected social distance herself and embraces Pia
 Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child.
 
 Aemilia prioritizes getting Pia home and rested rather than extracting her account immediately. On arrival after dark, despite her own obvious exhaustion, Aemilia remains with Pia while she is settled and medically seen. She ultimately falls asleep at Pia's bedside rather than leaving her; Pia discovers this on waking first the next morning. When Aemilia wakes, she immediately resumes fussing over Pia rather than herself, deepening the temporary reversal of their ordinary mistress/attendant routine.
+
+Aemilia's direct question about what Pia wants done with Eros is significant because it asks an enslaved victim for judgment rather than treating her only as damaged household property. Pia responds primarily in terms of safety and truth rather than immediately naming a punishment.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
