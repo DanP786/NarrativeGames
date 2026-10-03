@@ -11,20 +11,25 @@ Personal attendant and familiar companion within the unequal structure of Roman 
 ## Voice and manner
 Familiar enough to speak gently and personally when privacy and rank permit, but does not forget that Aemilia is her domina. She can read Aemilia's expressions well after years of attendance.
 
-After recovery she is tired, guarded and emotionally affected by what has happened. At reunion Aemilia rushes to her, checks her over and then embraces her. Pia is startled by the public physical affection but responds rather than remaining rigid: after an instant she holds Aemilia back, carefully because both women are physically depleted. Her composure breaks into quiet tears. She does not yet deliver a full account.
+After recovery she is tired, guarded and emotionally affected by what has happened. At reunion Aemilia rushes to her, checks her over and then embraces her. Pia is startled by the public physical affection but responds rather than remaining rigid: after an instant she holds Aemilia back, carefully because both women are physically depleted. Her composure breaks into quiet tears.
 
 When Aemilia tells her, **“Come, let's get you home,”** Pia accepts her guidance toward the carriage. The word *home* visibly affects her; she answers quietly, **“Yes, domina.”** She does not resist returning to the Valerian domus.
+
+During the return journey Aemilia tells Pia **“I know”** when Pia says she did not leave voluntarily. Aemilia personally tends her: cleaning dust and grime from her skin with water and cloth, giving her water and insisting she eat small amounts of the food prepared for the journey. Pia accepts the care, though the reversal of their usual roles is emotionally striking.
+
+While Aemilia tends her, Pia notices the physical changes in Aemilia that she is uniquely well placed to recognize: Aemilia is no longer visibly pregnant, is paler/thinner and physically weaker than when Pia last attended her. Pia realizes something has happened to the pregnancy. She does not know the circumstances or cause. Her first response is a quiet, careful question rather than an assumption about how or why the pregnancy ended.
 
 ## Current status
 Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome.
 
-Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. After their reunion, Aemilia personally guides Pia into the comfortable carriage prepared for the journey back to Rome. Pia is now traveling home with Aemilia under Valerian escort rather than continuing separately with the recovery party.
+Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. After their reunion, Aemilia personally guides Pia into the comfortable carriage prepared for the journey back to Rome. Pia is now traveling home with Aemilia under Valerian escort.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
 - From the circumstances of Aemilia's eighteenth birthday, understands that the marriage entered its adult phase.
 - Knows what she personally witnessed and experienced during her interception, detention, transfer and recovery, but the detailed content of that knowledge has not yet been fully established in play and must emerge through her own account without omniscience.
 - Pia did not voluntarily flee Aemilia.
+- Pia now recognizes that Aemilia's pregnancy has ended during her absence, based on Aemilia's changed body and weakened appearance. She does **not** yet know that it was a pregnancy loss at approximately four months, the severity of the bleeding, the surrounding marital quarrel, or any claimed cause.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
@@ -33,9 +38,10 @@ Warm and longstanding in daily practice, though structurally unequal because Pia
 
 During Pia's disappearance Aemilia searched for her, feared for her safety, explicitly said she had intended to free her, and eventually pursued the commercial chain that led to Pia's recovery. Pia does not automatically know all of those facts yet.
 
-At reunion Aemilia crosses the expected social distance herself and embraces Pia publicly. Pia returns the embrace and cries quietly. Aemilia then personally guides Pia toward her own carriage and tells her they are going home. This establishes powerful mutual attachment without erasing the unequal legal relationship or imposing automatic absolution for anything either woman may later need to discuss.
+At reunion Aemilia crosses the expected social distance herself and embraces Pia publicly. Pia returns the embrace and cries quietly. Aemilia then personally guides Pia toward her own carriage and tells her they are going home. During the return journey Aemilia cleans Pia's skin and makes sure she eats and drinks. This establishes powerful mutual attachment without erasing the unequal legal relationship or imposing automatic absolution for anything either woman may later need to discuss.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
 - Pia's knowledge of the initial interception can provide clues, but she is not omniscient and should not identify the hidden organizer unless she actually witnessed/heard something that supports it.
+- Pia must not infer a medical cause for Aemilia's pregnancy loss from appearance or timing.
 - Hidden GM canon: Eros facilitated the initial interception but did not intend/order Pia's onward sale or design the full chain. Pia need not know this directly.
