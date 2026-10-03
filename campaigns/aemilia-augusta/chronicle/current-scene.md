@@ -4,15 +4,13 @@
 - OOC GM canon remains: Eros deliberately facilitated Pia's initial interception to isolate Aemilia but did not intend/order onward sale and did not design the full chain. Pregnancy loss remains medically unresolved and unrelated to Eros.
 - Pia has been **found alive** and recovered into Valerian protection/control from the Faustus-network staging chain south of Rome.
 - The backward investigation in Rome currently stands: **unidentified household-informed source → Celer → Philargyrus → Naso → onward commercial chain**. Lucius remains in Rome pursuing Celer and beginning a controlled inquiry into who knew Pia's leave arrangements. No known evidence yet identifies Eros.
-- Aemilia leaves Rome with suitable escort and comfortable transport to intercept Pia's returning party on the Appian route. The journey feels longer than it is because of her urgency.
-- Aemilia's party and the returning recovery party meet at a roadside stopping place on the Appian route.
-- Pia is alive, awake and oriented, visibly exhausted/drawn, dusty, and moving carefully. Practical clean wraps/clothing have been provided.
-- On seeing Pia, Aemilia ignores her own incomplete recovery and rushes to her. The sudden exertion costs Aemilia breath/strength but does not cause a new medical complication.
-- Aemilia first checks Pia quickly and directly for obvious harm. Close inspection establishes fatigue, soreness/stiffness, road grime and minor marks consistent with rough handling/travel, but **no obvious grave wound**. No sexual abuse or severe specific injury is established by appearance; fuller condition remains for physician examination and Pia's account.
-- Aemilia then throws her arms around Pia in a public embrace, crossing the normal social distance between elite domina and enslaved attendant.
-- Pia is startled for an instant, then returns the embrace carefully. Her composure breaks into quiet tears. She does not immediately launch into an account or automatic absolution; the reunion is allowed emotional space first.
-- The recovery party and Aemilia's escort avert attention/give reasonable space while remaining close enough to assist. The social unusualness of the embrace is visible but no one interrupts the domina.
-- Aemilia's long hair remains loose/simple down her back. Both women are physically depleted in different ways, so the embrace is close but careful once Pia responds.
-- Pia's detailed experience of interception, detention and transfer remains to be established through her own account. She did not voluntarily flee.
-- The household physician remains ready in Rome for Pia's eventual return.
-- CURRENT MOMENT: Aemilia has rushed to Pia, checked her for obvious injuries, and embraced her. Pia has returned the embrace and is crying quietly against her. They have not yet discussed what happened or what occurred in Rome during Pia's absence.
+- Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route after a journey that feels much longer than it is.
+- Pia is alive, awake and oriented, visibly exhausted/drawn, dusty, and moving carefully. Close inspection establishes fatigue, soreness/stiffness, road grime and minor marks consistent with rough handling/travel, but no obvious grave wound. No sexual abuse or severe specific injury is established by appearance; fuller condition remains for physician examination and Pia's account.
+- Aemilia ignores her own weakness, rushes to Pia, checks her for obvious harm and publicly embraces her. Pia returns the embrace carefully and cries quietly.
+- Aemilia then says, **“Come, let's get you home,”** and slowly guides Pia toward the carriage herself.
+- Pia accepts the guidance. The word *home* visibly affects her; she answers quietly, **“Yes, domina.”** She does not resist returning to the Valerian domus.
+- The escort assists without taking the moment away from Aemilia. Pia is helped into the comfortable carriage prepared by Lucius, with water, food, clean linens/wraps and room for Aemilia beside her.
+- Aemilia and Pia begin the return journey to Rome together under Valerian escort. The recovery party folds into/coordinates with the escort rather than leaving Pia to travel separately.
+- Pia's detailed account of her interception, detention and transfer has **not yet begun**. The return carriage provides privacy enough for conversation if Aemilia chooses, but Pia is tired and need not be interrogated immediately.
+- Lucius remains at the Roman domus pursuing the backward investigation and household inquiry. The household physician remains ready for Pia's arrival.
+- CURRENT MOMENT: Aemilia has guided Pia into the carriage and is bringing her home to Rome. Pia sits with her inside the carriage, physically exhausted and emotionally shaken but safe. They now have the journey back together before reaching the Valerian domus.

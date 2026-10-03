@@ -13,10 +13,12 @@ Familiar enough to speak gently and personally when privacy and rank permit, but
 
 After recovery she is tired, guarded and emotionally affected by what has happened. At reunion Aemilia rushes to her, checks her over and then embraces her. Pia is startled by the public physical affection but responds rather than remaining rigid: after an instant she holds Aemilia back, carefully because both women are physically depleted. Her composure breaks into quiet tears. She does not yet deliver a full account.
 
-## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. She is returning north carefully with the recovery party.
+When Aemilia tells her, **“Come, let's get you home,”** Pia accepts her guidance toward the carriage. The word *home* visibly affects her; she answers quietly, **“Yes, domina.”** She does not resist returning to the Valerian domus.
 
-In T116 Aemilia travels south from Rome with suitable escort and transport and intercepts Pia's returning party at a roadside stopping place on the Appian route. In T117 Aemilia ignores her own weakness, rushes to Pia, examines her quickly for obvious harm, and embraces her.
+## Current status
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome.
+
+Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. After their reunion, Aemilia personally guides Pia into the comfortable carriage prepared for the journey back to Rome. Pia is now traveling home with Aemilia under Valerian escort rather than continuing separately with the recovery party.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -31,7 +33,7 @@ Warm and longstanding in daily practice, though structurally unequal because Pia
 
 During Pia's disappearance Aemilia searched for her, feared for her safety, explicitly said she had intended to free her, and eventually pursued the commercial chain that led to Pia's recovery. Pia does not automatically know all of those facts yet.
 
-At reunion Aemilia crosses the expected social distance herself and embraces Pia publicly. Pia returns the embrace and cries quietly. This establishes powerful mutual attachment without erasing the unequal legal relationship or imposing automatic absolution for anything either woman may later need to discuss.
+At reunion Aemilia crosses the expected social distance herself and embraces Pia publicly. Pia returns the embrace and cries quietly. Aemilia then personally guides Pia toward her own carriage and tells her they are going home. This establishes powerful mutual attachment without erasing the unequal legal relationship or imposing automatic absolution for anything either woman may later need to discuss.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
