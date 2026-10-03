@@ -23,12 +23,14 @@ Pia now knows that Aemilia lost the pregnancy on the same night Pia was seized. 
 
 Aemilia apologizes directly for not ordering Pia recovered sooner, explaining that grief consumed her and she hoped Pia had escaped and was happy. Pia says she wished every day that Aemilia knew where she was, while recognizing Aemilia could not know what had happened.
 
-Aemilia then tells Pia: **“I felt abandoned, by you, by my child. But I never thought ill of you. I am sorry I did not come sooner.”** Aemilia embraces Pia again. Pia returns the embrace and answers from her own limited knowledge: she did not leave Aemilia, and she is here now. She does not claim Aemilia's delay was harmless or erase her own ordeal, but she accepts the apology as sincere and allows shared grief without assigning blame for the pregnancy loss.
+Aemilia tells Pia she felt abandoned by Pia and by her child but never thought ill of Pia, apologizes again, and embraces her. Pia returns the embrace, saying she did not leave Aemilia and is here now.
+
+When Pia notices Aemilia's own weakness, Aemilia tells her: **“Do not worry about me. We will get you home and you will rest.”** Pia recognizes the familiar firmness in Aemilia's tone and does not argue beyond a mild reminder that Aemilia must rest too. She accepts the food/water and allows herself to settle against the carriage cushions. Exhaustion begins to overtake her. Aemilia does not press her for an account on the road.
 
 ## Current status
 Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome.
 
-Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. After their reunion, Aemilia personally guides Pia into the comfortable carriage prepared for the journey back to Rome. Pia is now traveling home with Aemilia under Valerian escort.
+Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. After their reunion, Aemilia personally guides Pia into the comfortable carriage prepared for the journey back to Rome. Pia is now traveling home with Aemilia under Valerian escort. She is resting during the final part of the journey rather than being questioned.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -51,7 +53,7 @@ At reunion Aemilia crosses the expected social distance herself and embraces Pia
 
 Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child.
 
-When Aemilia admits she felt abandoned by Pia and by the child but never thought ill of Pia, and apologizes again before embracing her, Pia returns the embrace. The exchange establishes mutual attachment and sincere reconciliation over the misunderstanding without erasing the unequal legal relationship or the real consequences of the delayed search.
+When Aemilia admits she felt abandoned by Pia and by the child but never thought ill of Pia, and apologizes again before embracing her, Pia returns the embrace. Aemilia then prioritizes getting Pia home and rested rather than extracting her account immediately. The exchange establishes mutual attachment and sincere reconciliation over the misunderstanding without erasing the unequal legal relationship or the real consequences of the delayed search.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
