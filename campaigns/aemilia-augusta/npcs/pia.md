@@ -37,8 +37,10 @@ Aemilia then holds Pia's hand and explicitly tells her: **“I do love you Pia, 
 
 Aemilia kisses Pia's hand and tries to lighten the moment by observing that Pia may have noticed Aemilia's hair has been neglected without her. Pia immediately recognizes the invitation back toward their familiar rhythm. She inspects Aemilia's loose, disordered hair with mock severity and tells her that “neglected” is a generous description. The exchange produces a genuine laugh and a brief return of ordinary intimacy without erasing either woman's exhaustion or the morning's larger stakes.
 
+Aemilia admits with a smile that the state of her hair is entirely her own doing, then tells Pia that this is the first time she has laughed since Pia was taken and since the pregnancy loss. Pia's teasing stops without extinguishing the warmth. She is visibly affected by learning that Aemilia's first laugh after both losses happened here with her. Pia does not tell Aemilia that laughter means she is healed or should stop grieving; instead she treats it as a small piece of ordinary life returning and gently tells Aemilia that laughing does not betray the child she lost.
+
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has told her Eros supplied the information enabling her interception, asked what Pia wants done about it, explicitly told Pia she loves her and does not want to live her life without her, and the two have begun slipping briefly back into their familiar teasing rhythm.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia has told her Eros supplied the information enabling her interception, asked what Pia wants done about it, explicitly told Pia she loves her and does not want to live her life without her, and shared her first laugh since Pia's disappearance and the pregnancy loss with her.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -48,6 +50,7 @@ Alive and recovered into Valerian protection after being found within the Faustu
 - Pia knows Aemilia's pregnancy was lost on the same night Pia was taken. She does **not** know the medical cause, severity of the blood loss, surrounding marital quarrel, or any basis for attributing responsibility.
 - Pia knows Aemilia did not immediately order her returned because Aemilia was consumed by grief and hoped Pia had voluntarily escaped and was happy/free.
 - Pia knows Aemilia felt abandoned by both Pia's unexplained disappearance and the loss of her child, while never thinking ill of Pia personally.
+- Pia now knows Aemilia says her laugh over Pia's teasing about her hair is the first time Aemilia has laughed since Pia was taken and the pregnancy was lost.
 - Pia does not yet know the full later search chronology or that Aemilia explicitly intended to free her.
 - Pia now knows from Aemilia that Lucius's investigation identified **Eros** as the household source who supplied information about Pia's genuine day away and enabled her interception. Aemilia has told Pia Eros wanted Pia not to return in order to hurt Aemilia.
 - Pia does not yet know the full evidence chain Eros → Celer → Philargyrus → Naso, nor has she been told that Celer describes Eros's intended scheme as temporary/private removal rather than onward sale.
