@@ -4,13 +4,15 @@
 - OOC GM canon remains: Eros deliberately facilitated Pia's initial interception to isolate Aemilia but did not intend/order onward sale and did not design the full chain. Pregnancy loss remains medically unresolved and unrelated to Eros.
 - Pia has been **found alive** and recovered into Valerian protection/control from the Faustus-network staging chain south of Rome.
 - The backward investigation in Rome currently stands: **unidentified household-informed source → Celer → Philargyrus → Naso → onward commercial chain**. Lucius remains in Rome pursuing Celer and beginning a controlled inquiry into who knew Pia's leave arrangements. No known evidence yet identifies Eros.
-- Aemilia leaves Rome with suitable escort and comfortable transport to intercept Pia's returning party on the Appian route. Lucius remains behind by mutual practical division: Aemilia goes to Pia while he pursues the source of the abduction.
-- The journey south feels longer to Aemilia than its actual duration. Her incomplete physical recovery is respected by the escort; the pace is purposeful but not reckless.
-- Aemilia's party and the returning recovery party meet at a roadside stopping place on the Appian route, without false precision about exact mileage.
-- Pia is directly seen for the first time since her disappearance. She is alive, awake and oriented, visibly exhausted/drawn from detention and travel, dusty despite the recovery party's care, and moving carefully. Practical clean wraps/clothing have been provided. No severe specific injury or sexual abuse is established from appearance alone.
-- Pia recognizes Aemilia immediately. Her reaction is visibly emotional and guarded with fatigue; she addresses Aemilia as **“domina”** on first sight, but a full account of what happened has not yet begun.
-- Aemilia's long hair remains simply arranged/loose down her back from the hurried morning. The reunion is allowed to pause at first recognition rather than forcing immediate interrogation or absolution.
-- The recovery party remains nearby but gives the women reasonable space while retaining protection and practical assistance.
+- Aemilia leaves Rome with suitable escort and comfortable transport to intercept Pia's returning party on the Appian route. The journey feels longer than it is because of her urgency.
+- Aemilia's party and the returning recovery party meet at a roadside stopping place on the Appian route.
+- Pia is alive, awake and oriented, visibly exhausted/drawn, dusty, and moving carefully. Practical clean wraps/clothing have been provided.
+- On seeing Pia, Aemilia ignores her own incomplete recovery and rushes to her. The sudden exertion costs Aemilia breath/strength but does not cause a new medical complication.
+- Aemilia first checks Pia quickly and directly for obvious harm. Close inspection establishes fatigue, soreness/stiffness, road grime and minor marks consistent with rough handling/travel, but **no obvious grave wound**. No sexual abuse or severe specific injury is established by appearance; fuller condition remains for physician examination and Pia's account.
+- Aemilia then throws her arms around Pia in a public embrace, crossing the normal social distance between elite domina and enslaved attendant.
+- Pia is startled for an instant, then returns the embrace carefully. Her composure breaks into quiet tears. She does not immediately launch into an account or automatic absolution; the reunion is allowed emotional space first.
+- The recovery party and Aemilia's escort avert attention/give reasonable space while remaining close enough to assist. The social unusualness of the embrace is visible but no one interrupts the domina.
+- Aemilia's long hair remains loose/simple down her back. Both women are physically depleted in different ways, so the embrace is close but careful once Pia responds.
 - Pia's detailed experience of interception, detention and transfer remains to be established through her own account. She did not voluntarily flee.
 - The household physician remains ready in Rome for Pia's eventual return.
-- CURRENT MOMENT: After a journey that feels much longer than it is, Aemilia finally sees Pia alive at the roadside stopping place. Pia sees her too, recognizes her immediately, and says **“Domina…”** The first direct reunion is underway.
+- CURRENT MOMENT: Aemilia has rushed to Pia, checked her for obvious injuries, and embraced her. Pia has returned the embrace and is crying quietly against her. They have not yet discussed what happened or what occurred in Rome during Pia's absence.

@@ -3,7 +3,7 @@
 ## Description
 Adult enslaved woman and longtime personal attendant to Aemilia. Pia came with Aemilia from her father's household when Aemilia married into the Valerian domus and has remained one of the most familiar figures in her daily private life.
 
-On first direct sight after her recovery in S02, Pia is visibly exhausted by detention and travel. Her clothing has been replaced or supplemented with practical clean wraps by the recovery party. She is dusty and drawn, moving carefully rather than freely, but is awake, oriented, and able to recognize Aemilia immediately. No severe specific injury or sexual abuse is established by appearance alone. Any fuller physical condition remains for direct observation, physician examination and Pia's own account.
+On first direct sight after her recovery in S02, Pia is visibly exhausted by detention and travel. Her clothing has been replaced or supplemented with practical clean wraps by the recovery party. She is dusty and drawn, moving carefully rather than freely, but is awake, oriented, and able to recognize Aemilia immediately. Close inspection by Aemilia shows fatigue, road grime, soreness/stiffness and minor marks consistent with rough handling/travel, but no obvious grave wound. No sexual abuse or severe specific injury is established by appearance alone. Fuller condition remains for physician examination and Pia's own account.
 
 ## Role
 Personal attendant and familiar companion within the unequal structure of Roman slavery. She assists with Aemilia's dressing, hair and intimate domestic routine and has unusually close practical knowledge of her mistress's habits and household life.
@@ -11,12 +11,12 @@ Personal attendant and familiar companion within the unequal structure of Roman 
 ## Voice and manner
 Familiar enough to speak gently and personally when privacy and rank permit, but does not forget that Aemilia is her domina. She can read Aemilia's expressions well after years of attendance.
 
-After recovery she is tired, guarded and emotionally affected by what has happened. Her first reaction to seeing Aemilia is immediate recognition and visible emotion, but she does not yet deliver a full account before Aemilia has a chance to approach/respond.
+After recovery she is tired, guarded and emotionally affected by what has happened. At reunion Aemilia rushes to her, checks her over and then embraces her. Pia is startled by the public physical affection but responds rather than remaining rigid: after an instant she holds Aemilia back, carefully because both women are physically depleted. Her composure breaks into quiet tears. She does not yet deliver a full account.
 
 ## Current status
 Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. She is returning north carefully with the recovery party.
 
-In T116 Aemilia travels south from Rome with suitable escort and transport and intercepts Pia's returning party at a roadside stopping place on the Appian route. Aemilia and Pia see one another for the first time since Pia disappeared.
+In T116 Aemilia travels south from Rome with suitable escort and transport and intercepts Pia's returning party at a roadside stopping place on the Appian route. In T117 Aemilia ignores her own weakness, rushes to Pia, examines her quickly for obvious harm, and embraces her.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -31,7 +31,7 @@ Warm and longstanding in daily practice, though structurally unequal because Pia
 
 During Pia's disappearance Aemilia searched for her, feared for her safety, explicitly said she had intended to free her, and eventually pursued the commercial chain that led to Pia's recovery. Pia does not automatically know all of those facts yet.
 
-At reunion Pia recognizes Aemilia immediately. Her emotional response is real, but no automatic absolution, forgiveness, gratitude speech or decision about manumission is imposed on either woman.
+At reunion Aemilia crosses the expected social distance herself and embraces Pia publicly. Pia returns the embrace and cries quietly. This establishes powerful mutual attachment without erasing the unequal legal relationship or imposing automatic absolution for anything either woman may later need to discuss.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
