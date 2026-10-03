@@ -25,8 +25,10 @@ During the night Aemilia finally falls asleep in the chair at Pia's bedside, arm
 
 When Aemilia later wakes stiff and groaning from the awkward position, her attention immediately returns to Pia. She fusses over Pia's water, coverings, food and comfort before tending to herself. Pia is touched but mildly exasperated by the reversal and tells her, **“Domina, I have been awake long enough to know I am not dying.”** She then insists Aemilia sit rather than exhaust herself further.
 
+Aemilia then tells Pia that Lucius found the person who supplied information about Pia's day away: **Eros**. Aemilia tells her Eros wanted Pia not to return in order to hurt Aemilia. Pia is shocked by the identification and asks whether Lucius is certain and whether Eros knew what would be done to her. Pia now understands that her seizure began with deliberate information supplied from inside the Valerian household, but she does not yet know the investigative chain or the distinction between Eros's intended temporary disappearance and the later commercial sale unless Aemilia explains it.
+
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia wakes later at her bedside and immediately resumes caring for her.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia wakes later at her bedside and immediately resumes caring for her. Pia has now been told that Eros supplied the information enabling her interception.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -37,7 +39,8 @@ Alive and recovered into Valerian protection after being found within the Faustu
 - Pia knows Aemilia did not immediately order her returned because Aemilia was consumed by grief and hoped Pia had voluntarily escaped and was happy/free.
 - Pia knows Aemilia felt abandoned by both Pia's unexplained disappearance and the loss of her child, while never thinking ill of Pia personally.
 - Pia does not yet know the full later search chronology or that Aemilia explicitly intended to free her.
-- Pia does **not** yet know that Lucius's investigation has identified Eros as the household source behind her interception.
+- Pia now knows from Aemilia that Lucius's investigation identified **Eros** as the household source who supplied information about Pia's genuine day away and enabled her interception. Aemilia has told Pia Eros wanted Pia not to return in order to hurt Aemilia.
+- Pia does not yet know the full evidence chain Eros → Celer → Philargyrus → Naso, nor has she been told that Celer describes Eros's intended scheme as temporary/private removal rather than onward sale.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
@@ -54,6 +57,6 @@ Aemilia prioritizes getting Pia home and rested rather than extracting her accou
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
-- Pia's knowledge of the initial interception can provide clues, but she is not omniscient and should not identify the hidden organizer unless she actually witnessed/heard something that supports it.
+- Pia's knowledge of the initial interception can provide clues, but she is not omniscient and should not identify hidden participants unless she actually witnessed/heard something that supports it.
 - Pia must not infer a medical cause for Aemilia's pregnancy loss from timing or appearance.
-- Lucius now has evidence identifying Eros as the source, but Pia does not know that unless told.
+- Pia now knows Eros was identified as the household source, but not the full investigative evidence or precise intended scope unless told.
