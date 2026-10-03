@@ -16,13 +16,15 @@ Philargyrus's message contained specific advance information: the target was a *
 Naso's records corroborate that Philargyrus received a compensated brokerage/introduction fee connected with the transaction. They also record a messenger reimbursement associated with a man known as **Celer**, whom Naso has seen carrying messages for Philargyrus before.
 
 ## Current questioning
-Lucius begins questioning Philargyrus in the report room after his capture/arrival. Aemilia enters during the examination, having learned Pia is safely returning north, and stands silently beside Lucius.
+Lucius questions Philargyrus in the report room with Aemilia standing silently beside him.
 
-Philargyrus acknowledges knowing Naso and arranging introductions for payment. Confronted with Naso's record and testimony, he admits he passed the relevant advance information onward but initially tries to distinguish passing information from knowing its ultimate truth or origin.
+Philargyrus acknowledges knowing Naso and arranging introductions for payment. Confronted with Naso's record and testimony, he admits he passed the relevant advance information onward.
 
-Under Lucius's questioning and Aemilia's silent scrutiny in T113, Philargyrus gives the next link rather than the ultimate source: the particulars about the household attendant and her legitimate leave were brought to him through **Celer**, the messenger already named in Naso's tablet. Philargyrus says Celer presented the information as coming from a person with knowledge of the household woman's movements and represented the proposed interception as a private removal/temporary disappearance rather than an onward slave sale. Philargyrus has not yet identified who stood behind Celer or proved that representation true.
+He identifies **Celer** as the person who brought him the specific information that the target was a household attendant away from her mistress on legitimate leave. Celer represented the information as coming from someone with knowledge of the woman's household movements and represented the intended scheme as a private removal/temporary disappearance rather than an onward slave sale.
 
-This establishes Celer as more than a reimbursed messenger: he carried the specific targeting information into Philargyrus's hands. It does **not** establish Celer as the original source, physical interceptor, or designer of the sale chain.
+When Lucius asks where Celer can be found, Philargyrus says Celer has no fixed place known to him. He describes him as a hired messenger/go-between who frequents commercial and transport contacts around the **Porta Capena / Appian departure quarter**, especially businesses and lodging places serving men carrying messages or arranging carts southward. Philargyrus names a modest wine-shop/food-house near the gate area where Celer has previously collected payment or messages; the proprietor is not yet named in canon. Philargyrus also gives enough practical description for Valerian men to ask after Celer without broadcasting the full investigation.
+
+Lucius immediately orders men sent to the Porta Capena area and the named establishment, with instructions to take Celer alive if found and to avoid public disturbance if possible.
 
 ## Voice and manner
 Careful, defensive and socially alert. Philargyrus speaks as a freedman accustomed to commercial negotiation with men above him in status: respectful without immediate abasement, inclined to narrow distinctions about what he personally knew, said or guaranteed. Under pressure he watches the questioner closely and tries to determine how much evidence is already known before volunteering detail.
@@ -31,16 +33,17 @@ Careful, defensive and socially alert. Philargyrus speaks as a freedman accustom
 - He knows his own role in passing the advance assurance/information to Naso.
 - He received the specific household/leave information through **Celer**.
 - Celer represented the information as originating with someone who knew the household woman's movements and the intended act as a private removal/temporary disappearance, not onward sale. Whether Philargyrus fully believed this or is minimizing remains unestablished.
-- Philargyrus has not yet identified the person behind Celer.
+- Philargyrus does not claim to know Celer's fixed residence; he has supplied known haunts/working contacts near Porta Capena sufficient to launch a targeted search.
+- Philargyrus has not identified the person behind Celer.
 - He is **not established** as Pia's owner, physical abductor, the person who ordered the seizure, or a knowing handler of stolen Valerian property.
 - He did not personally deliver Pia to Naso according to Naso's account.
 - No direct Philargyrus–Eros link is established in known evidence.
 
 ## Relationship to Aemilia
-No prior personal relationship established. At first direct sight he recognizes from household context and Lucius's reaction that the young woman entering with long loose hair is the domina whose attendant is at the center of the inquiry. In T113 Aemilia stands beside Lucius and stares seriously at him without speaking; Philargyrus visibly finds the combined scrutiny harder to evade than Lucius's questions alone.
+No prior personal relationship established. At first direct sight he recognizes from household context and Lucius's reaction that the young woman entering with long loose hair is the domina whose attendant is at the center of the inquiry. Aemilia stands beside Lucius and watches him seriously without speaking; Philargyrus visibly finds the combined scrutiny difficult to evade.
 
 ## GM constraints
 - Philargyrus is an intermediary, not the endpoint.
-- Do **not** jump directly from Philargyrus to Eros. The current evidence now runs Philargyrus ← Celer ← unidentified household-informed source.
-- Celer is now established as the carrier of the specific targeting information, but not automatically the physical interceptor or original source.
+- Do **not** jump directly from Philargyrus to Eros. The current evidence runs Philargyrus ← Celer ← unidentified household-informed source.
+- Celer is established as carrier of the specific targeting information, not automatically the physical interceptor or original source.
 - Hidden GM canon remains that Eros facilitated Pia's initial interception but did not intend/order Pia's onward sale and did not design the full commercial chain.
