@@ -9,10 +9,13 @@
 - Aemilia tells Pia, **“Come, let's get you home,”** and personally guides her into the comfortable carriage prepared for the return to Rome.
 - On the return journey Pia says she did not leave Aemilia voluntarily. Aemilia answers simply, **“I know.”**
 - Aemilia tends Pia herself, cleaning dust/grime from her skin, giving her water and making her eat small amounts of the prepared food.
-- Pia notices Aemilia is no longer visibly pregnant and recognizes her pallor/physical weakness. She asks, **“Domina… the child?”**
-- Aemilia answers: **“Lost. The same night you were taken.”**
-- Pia now knows the pregnancy was lost on the same night as her seizure. The timing visibly shocks and grieves her, but she does **not** infer that the two events are medically causally connected and does not know the circumstances of the loss.
-- Pia's immediate response is sorrowful silence followed by gentle concern for Aemilia. She reaches toward Aemilia carefully and says, **“Oh, domina…”** Her own ordeal remains present, but for this moment her attention turns to the young woman she has attended for years.
-- Pia's detailed account of her interception, detention and transfer has still not begun. Aemilia has not yet told her about the severity of the blood loss, the marital breach, or the investigation in Rome.
+- Pia notices Aemilia is no longer visibly pregnant and asks, **“Domina… the child?”** Aemilia answers: **“Lost. The same night you were taken.”**
+- Pia knows the pregnancy was lost on the same night as her seizure, but does not infer medical causation or know the circumstances.
+- Aemilia then tells Pia: **“No, I am sorry. I was so consumed in my own grief that I did not send for you to be returned. I hoped you had escaped and was happy.”**
+- Pia now understands why Aemilia did not immediately order a recovery: Aemilia was grieving the pregnancy loss and initially hoped Pia's disappearance represented a successful voluntary escape rather than danger.
+- Pia does not give automatic or facile absolution. She is visibly affected and answers honestly that she wished Aemilia had known she was in danger, but also recognizes that Aemilia could not have known what had happened and had just lost her child. Pia does not accuse Aemilia of causing what happened.
+- Pia says quietly: **“I wished you knew. Every day, I wished you knew where I was.”** After a pause she adds, **“But you could not know what they had done. And you had lost your child.”**
+- The exchange deepens their reunion without erasing the structural inequality between domina and enslaved attendant or the real consequences of the delayed search.
+- Pia's detailed account of her interception, detention and transfer has still not begun. She has not yet been told the full later search chronology, the severity of Aemilia's blood loss, the marital breach, or that Aemilia had intended to free her.
 - Lucius remains at the Roman domus pursuing Celer and the household inquiry. The household physician remains ready for Pia's arrival.
-- CURRENT MOMENT: Inside the carriage returning north, Aemilia has told Pia that the child was lost on the same night Pia was taken. Pia is visibly shocked and saddened, reaches carefully toward Aemilia, and says, **“Oh, domina…”**
+- CURRENT MOMENT: In the carriage returning to Rome, Aemilia has apologized for not searching immediately and explained she hoped Pia had escaped to happiness. Pia responds with sorrowful honesty rather than easy absolution: she wished Aemilia had known she was in danger, while acknowledging Aemilia could not have known and was grieving her lost child.
