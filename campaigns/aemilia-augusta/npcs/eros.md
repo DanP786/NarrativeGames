@@ -8,6 +8,8 @@ Enslaved within the Valerian domus. Her position is constrained by ownership and
 
 Eros no longer has her former privileged route to Lucius. She is not to seek discretionary direct/private access and is not to be received alone. Necessary matters concerning the children or household are to pass through ordinary channels or occur with others present. She has not been formally expelled, sold or punished, and her children retain their ordinary place within the household, but the intangible status once created by unusual access to Lucius has ended.
 
+As of late T124, Lucius has obtained direct testimony from Celer identifying Eros as the household source who supplied the information necessary to intercept Pia during her genuine leave. Eros has not yet been confronted with this evidence in play, and no punishment or final disposition has yet been decided.
+
 ## Relationship to player
 Lives under Aemilia's authority as mistress of the household. In S02 Aemilia privately tried to discuss improving conditions and hearing enslaved people's grievances. Eros later told Lucius the substance of that private conversation and gave him her judgment that Aemilia was sheltered and likely to yield if Lucius disagreed. Aemilia experienced the disclosure and Lucius's defense of Eros as a serious wound. Aemilia has not punished Eros or her children, but her former warmth toward Eros is no longer present.
 
@@ -22,16 +24,22 @@ During the weeks of Aemilia's withdrawal after the miscarriage, Eros privately s
 
 Lucius later disclosed the approach to Aemilia. After Aemilia challenged Eros's continuing personal access as part of the marital fracture, Lucius ended Eros's discretionary/private access to him. Necessary matters concerning Fortunata, Felix or the household may still be raised through ordinary channels or with others present. Lucius continues to show paternal affection to his children and does not use the access restriction to reject them.
 
+Lucius now knows from Celer's direct account that Eros supplied the targeting information used to arrange Pia's interception. He also knows Celer describes the intended scheme as a temporary/private removal rather than onward sale. Lucius has not yet confronted Eros, and he does not treat the evidence as proof she ordered the later sale chain.
+
 ## Hidden involvement in Pia's disappearance — GM only
-Eros had a hand in setting Pia's disappearance in motion. Seeking to isolate Aemilia and remove a close attendant/confidante who strengthened Aemilia inside the household, Eros deliberately passed information or otherwise facilitated an outside interception of Pia during Pia's genuine leave.
+Eros deliberately facilitated Pia's initial interception during Pia's genuine leave. Seeking to isolate Aemilia and remove a close attendant/confidante who strengthened Aemilia inside the household, Eros dealt with Celer and supplied the key information: Pia's identity/role, the fact of her legitimate leave, and enough timing/route detail for her to be intercepted away from the domus.
 
-Eros did **not** intend or order Pia's onward sale and did not design the full chain of events that followed. The intermediaries went further than the scheme Eros intended, unlawfully seizing and ultimately selling Pia onward despite Pia already belonging to the Valerian household. Eros nevertheless bears genuine responsibility for creating the opportunity that led to Pia's disappearance.
+Eros intended a temporary/private disappearance that would separate Pia from Aemilia and destabilize Aemilia's closest daily support. She did **not** intend or order Pia's onward sale and did not design the full chain of events that followed. Celer passed the opportunity to Philargyrus, and intermediaries further down the chain went beyond the scheme Eros intended, ultimately treating Pia as saleable property and moving her south. Eros nevertheless bears genuine responsibility for deliberately creating the opportunity that led to Pia's seizure and disappearance.
 
-The exact intermediary, method of contact, intended duration/outcome of the interception, whether money or favors changed hands, and how much Eros presently knows about Pia's ultimate fate/location remain deliberately unestablished and should emerge through plausible investigation rather than retroactive omniscience.
+Whether Eros paid Celer directly, promised a favor, or used some other consideration remains unestablished. The identities of the two physical interceptors and whether Eros knew them personally also remain unestablished.
 
 Eros did **not** poison Aemilia, did not engineer the miscarriage, and must not be treated as secretly responsible for the pregnancy loss. Its medical cause remains unresolved.
 
 ## Knowledge
-Eros knows the household from within, knows her own conversation with Aemilia and what she subsequently told Lucius, and knows that she later approached Lucius and was refused sexual access. She knows that her former private/direct access to Lucius has been ended. She knows what she herself did to facilitate Pia's initial interception, but her exact knowledge of what subsequently happened to Pia remains to be established consistently with future investigation. She does not know the spouses' private exchanges about her approach, the full details of their marital breach, or Aemilia's unspoken thoughts. She can observe visible household facts, including that Aemilia and Lucius return from the country villa physically affectionate and functioning together as husband and wife.
+Eros knows the household from within, knows her own conversation with Aemilia and what she subsequently told Lucius, and knows that she later approached Lucius and was refused sexual access. She knows that her former private/direct access to Lucius has been ended.
+
+Eros knows she supplied Celer with information facilitating Pia's interception and intended Pia to disappear temporarily from Aemilia's immediate life. Her exact knowledge of how quickly the scheme turned into onward commercial trafficking, and when/if she learned Pia was being sold south, remains to be established if she is questioned.
+
+She does not know the spouses' private exchanges about her approach, the full details of their marital breach, or Aemilia's unspoken thoughts. She can observe visible household facts, including that Aemilia and Lucius returned from the country villa physically affectionate and functioning together as husband and wife.
 
 It is not established that Eros coached Fortunata to mention Aemilia's dead baby or intended Fortunata's innocent questions to wound Aemilia. Eros gave Fortunata only a simple child-level explanation that Aemilia's baby died.

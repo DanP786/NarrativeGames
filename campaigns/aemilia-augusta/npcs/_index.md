@@ -1,6 +1,6 @@
 # NPC index
 
-- Lucius Valerius Messalla | alive | Valerian domus, Rome | Friendly | last seen S02 (Aemilia's husband; approximately 30; unresolved marital breach after twice physically stopping her leaving an argument; active repair underway)
+- Lucius Valerius Messalla | alive | Valerian domus, Rome | Friendly | present S02 (Aemilia's husband; approximately 30; active marital repair; Celer has now identified Eros as source of Pia's interception information)
 - Marcus Valerius Messalla | alive | Rome | Neutral | referenced S02 (Lucius' father, approximately 58; investigating Gaius Vibius Rufus as a possible husband for Valeria Tertia; privately knows Lucius delayed conception during Aemilia's childhood)
 - Terentia | alive | elder Messalla household, Rome | Friendly | last seen S02 (Lucius' stepmother; knows the substance of Aemilia and Lucius's marital breach; provisionally favorable toward Rufus but scrutinizing temperament and motive)
 - Claudia Pulchra | dead | — | — | background (Lucius' biological mother; first wife of Marcus Valerius Messalla; died aged 32 when Lucius was about 10)
@@ -24,8 +24,9 @@
 - Fortunata | alive | Valerian domus, Rome | Friendly | present S02 (Lucius' approximately four-year-old daughter by Eros; familiar with Aemilia; knows at child level that Aemilia's baby died)
 - Felix | alive | Valerian domus, Rome | Neutral | present S02 (Lucius' approximately two-year-old son by Eros)
 - Hilarus | alive | Valerian domus, Rome | Neutral | present S02 (Lucius' approximately six-year-old son by Daphne)
-- Eros | alive | Valerian domus, Rome | Neutral | last seen S02 (adult enslaved woman; mother of Fortunata and Felix; former privileged access to Lucius ended)
+- Eros | alive | Valerian domus, Rome | Neutral | present S02 (adult enslaved woman; Celer has identified her as the household source who deliberately supplied Pia's leave/interception information; no confrontation or final disposition yet)
 - Daphne | alive | Valerian domus, Rome | Neutral | present S01 (adult enslaved woman; mother of Hilarus; Lucius's former sexual access occurred within coercive ownership)
-- Pia | alive | returning north under Valerian protection, Appian route | Friendly | recovered S02 (Aemilia's longtime enslaved personal attendant; found alive in Faustus-network staging chain and recovered; detailed condition remains unestablished pending direct observation/account)
-- Titus Fabius Naso | alive | under Valerian control, Rome | Neutral | located S02 (Roman freedman broker identified as arranging Pia's onward transfer from the holding yard; business tablets secured; original interception role and exact knowledge unestablished)
-- Gaius Vettius Philargyrus | alive | under Valerian control, Rome | Neutral | located S02 (freedman intermediary who passed Celer's advance information about Pia's leave to Naso and received a compensated introduction fee; ultimate source still unidentified)
+- Pia | alive | Valerian domus, Rome | Friendly | returned S02 (Aemilia's longtime enslaved personal attendant; recovered alive and returned after dark; resting/awaiting physician care with Aemilia beside her)
+- Titus Fabius Naso | alive | under Valerian control, Rome | Neutral | located S02 (Roman freedman broker who arranged Pia's onward transfer; business tablets secured)
+- Gaius Vettius Philargyrus | alive | under Valerian control, Rome | Neutral | located S02 (freedman intermediary who received Celer's targeting information and passed it to Naso)
+- Celer | alive | under Valerian control, Rome | Neutral | located S02 (messenger/go-between; identifies Eros as source of Pia's leave/interception information; says intended scheme was temporary/private removal, not onward sale)

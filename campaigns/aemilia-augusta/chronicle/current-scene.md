@@ -1,17 +1,21 @@
 # Current scene
 
 - S02, approximately 12 BC. Aemilia is eighteen and remains in physical recovery from severe blood loss after the pregnancy loss. The severe marital breach with Lucius remains in active repair, not erased; voluntary adult intimacy and closeness have resumed.
-- OOC GM canon remains: Eros deliberately facilitated Pia's initial interception to isolate Aemilia but did not intend/order onward sale and did not design the full chain. Pregnancy loss remains medically unresolved and unrelated to Eros.
-- Pia has been **found alive** and recovered into Valerian protection/control from the Faustus-network staging chain south of Rome.
-- The backward investigation in Rome currently stands: **unidentified household-informed source → Celer → Philargyrus → Naso → onward commercial chain**. Lucius remains in Rome pursuing Celer and beginning a controlled inquiry into who knew Pia's leave arrangements. No known evidence yet identifies Eros.
-- Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. Pia is alive, awake and oriented, visibly exhausted/drawn, with fatigue, soreness/stiffness and minor marks consistent with rough handling/travel but no obvious grave wound.
-- Aemilia rushes to Pia, checks her and publicly embraces her. Pia returns the embrace and cries quietly. Aemilia tells Pia, **“Come, let's get you home,”** and personally guides her into the carriage.
-- On the return journey Pia says she did not leave Aemilia voluntarily. Aemilia answers, **“I know.”** Aemilia tends Pia herself, cleaning her skin, giving her water and making her eat.
-- Pia notices Aemilia is no longer visibly pregnant and asks about the child. Aemilia tells her the pregnancy was lost on the same night Pia was taken. Pia does not infer medical causation.
-- Aemilia apologizes for not ordering Pia recovered immediately, explaining grief consumed her and she hoped Pia had escaped and was happy. Pia says she wished every day Aemilia knew where she was, while recognizing Aemilia could not know what had happened.
-- Aemilia tells Pia she felt abandoned by Pia and by her child but never thought ill of Pia, apologizes again, and embraces her. Pia returns the embrace and says she did not leave Aemilia and is here now.
-- Pia notices Aemilia's own weakness. Aemilia tells her: **“Do not worry about me. We will get you home and you will rest.”**
-- Pia gives only mild resistance, telling Aemilia quietly that Aemilia must rest too. She accepts the food/water and settles against the carriage cushions. Exhaustion begins to overtake her once she feels safe enough to let it.
-- Aemilia does not interrogate Pia during the remainder of this stretch of the journey. Pia's detailed account of interception/detention/transfer remains unestablished and can emerge after rest or if Pia volunteers it.
-- The carriage continues north under escort toward Rome. Lucius remains at the Roman domus pursuing Celer and the household inquiry. The household physician remains ready for Pia's arrival.
-- CURRENT MOMENT: Pia is resting beside Aemilia in the carriage as they continue toward Rome. Aemilia has prioritized getting her home, fed, medically seen and rested before demanding answers. Pia's account remains for later.
+- Pregnancy loss remains medically unresolved and unrelated to Pia's disappearance.
+- Pia has been found alive and recovered from the Faustus-network staging chain south of Rome.
+- Aemilia intercepts Pia on the Appian route, embraces her, tends her in the carriage, tells her about the pregnancy loss and apologizes for not searching sooner. Pia explains she did not leave voluntarily. Aemilia does not press for a detailed account on the road.
+- Aemilia stays beside Pia throughout the return journey. By the time the party reaches the Valerian domus it is dark. Aemilia is visibly very tired from the journey and her incomplete recovery but refuses to leave Pia's side.
+- Pia is brought inside and settled for examination/rest with the household physician ready. Aemilia remains beside her rather than retiring.
+- While Aemilia has been away, Lucius's men locate **Celer** through the Porta Capena haunt identified by Philargyrus and bring him under Valerian control.
+- Confronted with Philargyrus's account and Naso's record of the messenger reimbursement, Celer identifies the household-informed source: **Eros**.
+- Celer says Eros dealt with him directly and supplied the information necessary to target Pia: that Pia was Aemilia's close household attendant, had genuine leave, and the timing/route by which she could be intercepted away from the domus. His identifying details are specific enough that Lucius knows which Eros he means.
+- Celer describes the intended scheme as a **temporary/private removal** of Pia from Aemilia's immediate presence. He does **not** say Eros ordered Pia sold, sent south, or placed into a commercial slave chain. The later onward sale remains an escalation through intermediaries beyond the original scheme as described.
+- This establishes the evidence chain as **Eros → Celer → Philargyrus → Naso → onward commercial chain**, while preserving separate responsibility questions for the later sale and physical seizure.
+- Lucius has **not yet confronted Eros** and has not decided or imposed a final punishment/disposition. He keeps the information tightly controlled while Aemilia and Pia are still returning.
+- When Aemilia's carriage arrives after dark, Lucius is present to receive them. He sees Aemilia's exhaustion and Pia's condition and does not pull Aemilia away from Pia.
+- Once Pia is settled and the physician can attend her, Lucius comes to Aemilia where she remains beside Pia. He speaks quietly enough not to turn the discovery into household spectacle.
+- Lucius tells Aemilia: **“We found Celer.”** After making sure he has her attention, he adds, **“He named the person who gave him Pia's leave and the means to intercept her.”**
+- He does not soften the name or claim more than the evidence supports: **“Eros.”**
+- Lucius immediately distinguishes the scope of the evidence: Celer says Eros intended Pia to be taken away from Aemilia temporarily, not sold south; Lucius has evidence of deliberate facilitation of the interception, not proof that Eros designed the later sale chain.
+- Pia does **not** yet know this identification unless Aemilia/Lucius tells her; she is exhausted and being medically attended/rested.
+- CURRENT MOMENT: It is night in the Valerian domus. Aemilia, exhausted but unwilling to leave Pia, is beside her while Pia is settled for care. Lucius has just quietly told Aemilia that Celer identified **Eros** as the source of the information used to intercept Pia, while carefully distinguishing that from the later onward sale.

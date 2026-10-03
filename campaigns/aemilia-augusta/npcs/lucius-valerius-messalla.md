@@ -31,6 +31,7 @@ Controlled and educated. Speaks to make distinctions clear rather than fill sile
 - Continue the active repair of the marriage after pregnancy loss and his breach of trust.
 - Keep his fidelity promise to Aemilia.
 - Maintain the restriction ending Eros's former privileged/private access.
+- Establish the full responsibility for Pia's interception and onward sale without confusing the original scheme with later acts.
 
 ## Methods & lines
 - Will: instruct, command, negotiate within elite custom, use patronage, control access, test judgment, reward competence, solicit Aemilia's private counsel.
@@ -67,9 +68,13 @@ During the years in which he waited for Aemilia to grow up, Lucius fathered seve
 - Lucius later disclosed Eros's approach to Aemilia himself. Aemilia challenged Eros's continuing access, and Lucius ended Eros's discretionary/private access to him. Necessary matters must now pass through ordinary channels or occur with others present.
 - Aemilia and Lucius explicitly begin repairing the marriage. At the country villa she initiates renewed kissing and marital intimacy. Their affectionate physical closeness continues throughout the following week.
 - They return together to the Roman domus after approximately a week at the villa.
+- S02: Pia's disappearance is traced through Naso and Philargyrus to Celer. While Aemilia travels south to meet the recovered Pia, Lucius remains in Rome and has Celer located near Porta Capena.
+- Celer identifies **Eros** as the household source who supplied Pia's identity, legitimate leave, and interception timing/route. Celer says the intended scheme presented to him was a temporary/private removal, not onward sale. Lucius now knows Eros deliberately facilitated Pia's interception but does not yet treat her as architect of the later sale chain.
 
 ## Knowledge
-Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows what she has said and what he has witnessed, but not unspoken thoughts. He knows Eros's private approach occurred and has disclosed it to Aemilia. He knows Aemilia wants information about Pia without automatically ordering recapture or punishment if Pia deliberately fled; as of the return to Rome, the household inquiry has produced an uncertain witness lead suggesting Pia may not have been moving freely with unfamiliar men.
+Lucius knows Aemilia's habits, strengths, preferred arguments and household loyalties well. He knows what she has said and what he has witnessed, but not unspoken thoughts. He knows Eros's private approach occurred and has disclosed it to Aemilia.
+
+As of late T124, Lucius knows from Celer's direct testimony that Eros supplied the information used to target Pia during her genuine leave. He has corroborating context from Philargyrus and Naso's records tying Celer into the information chain. He knows Celer describes Eros's intended scheme as a temporary/private disappearance and does **not** claim she ordered onward sale. Lucius has not yet confronted Eros or decided final punishment/disposition.
 
 ## What he is hiding
-Lucius is not presently hiding Eros's post-loss approach from Aemilia; he disclosed it voluntarily. His most sensitive political pressures and compromises remain selectively disclosed. He does not know the hidden truth of Pia's abduction and onward sale.
+Lucius is not presently hiding Eros's post-loss approach from Aemilia; he disclosed it voluntarily. His most sensitive political pressures and compromises remain selectively disclosed. He does not know any hidden cause for Aemilia's pregnancy loss because none has been established.

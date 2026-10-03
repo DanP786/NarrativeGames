@@ -15,32 +15,25 @@ After recovery she is tired, guarded and emotionally affected by what has happen
 
 When Aemilia tells her, **“Come, let's get you home,”** Pia accepts her guidance toward the carriage. The word *home* visibly affects her; she answers quietly, **“Yes, domina.”** She does not resist returning to the Valerian domus.
 
-During the return journey Aemilia tells Pia **“I know”** when Pia says she did not leave voluntarily. Aemilia personally tends her: cleaning dust and grime from her skin with water and cloth, giving her water and insisting she eat small amounts of the food prepared for the journey. Pia accepts the care, though the reversal of their usual roles is emotionally striking.
+During the return journey Aemilia tells Pia **“I know”** when Pia says she did not leave voluntarily. Aemilia personally tends her, learns Pia's fear that Aemilia might think she abandoned her, and tells Pia about the pregnancy loss. Aemilia apologizes for the delayed search and explains she initially hoped Pia had escaped and was happy. Pia answers honestly that she wished Aemilia had known where she was but recognizes Aemilia could not have known.
 
-While Aemilia tends her, Pia notices the physical changes in Aemilia that she is uniquely well placed to recognize: Aemilia is no longer visibly pregnant, is paler/thinner and physically weaker than when Pia last attended her. Pia asks, **“Domina… the child?”** Aemilia answers: **“Lost. The same night you were taken.”**
+When Pia notices Aemilia's own weakness, Aemilia tells her: **“Do not worry about me. We will get you home and you will rest.”** Pia gives mild resistance that Aemilia must rest too, then settles. Aemilia does not press her for an account on the road.
 
-Pia now knows that Aemilia lost the pregnancy on the same night Pia was seized. The timing shocks and grieves her, but she does not infer medical causation or responsibility from coincidence.
-
-Aemilia apologizes directly for not ordering Pia recovered sooner, explaining that grief consumed her and she hoped Pia had escaped and was happy. Pia says she wished every day that Aemilia knew where she was, while recognizing Aemilia could not know what had happened.
-
-Aemilia tells Pia she felt abandoned by Pia and by her child but never thought ill of Pia, apologizes again, and embraces her. Pia returns the embrace, saying she did not leave Aemilia and is here now.
-
-When Pia notices Aemilia's own weakness, Aemilia tells her: **“Do not worry about me. We will get you home and you will rest.”** Pia recognizes the familiar firmness in Aemilia's tone and does not argue beyond a mild reminder that Aemilia must rest too. She accepts the food/water and allows herself to settle against the carriage cushions. Exhaustion begins to overtake her. Aemilia does not press her for an account on the road.
+By the time the carriage reaches the Valerian domus it is dark. Pia has slept/rested for part of the final journey. Aemilia is herself visibly very tired but remains physically beside Pia and refuses to leave her care to others. Pia is brought inside for the waiting household physician and rest, with Aemilia staying with her.
 
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome.
-
-Aemilia intercepts Pia's returning party at a roadside stopping place on the Appian route. After their reunion, Aemilia personally guides Pia into the comfortable carriage prepared for the journey back to Rome. Pia is now traveling home with Aemilia under Valerian escort. She is resting during the final part of the journey rather than being questioned.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. She is being settled for physician examination and rest; Aemilia remains at her side.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
 - From the circumstances of Aemilia's eighteenth birthday, understands that the marriage entered its adult phase.
 - Knows what she personally witnessed and experienced during her interception, detention, transfer and recovery, but the detailed content of that knowledge has not yet been fully established in play and must emerge through her own account without omniscience.
 - Pia did not voluntarily flee Aemilia.
-- Pia now knows Aemilia's pregnancy was lost on the same night Pia was taken. She does **not** know the medical cause, severity of the blood loss, surrounding marital quarrel, or any basis for attributing responsibility.
-- Pia now knows Aemilia did not immediately order her returned because Aemilia was consumed by grief and hoped Pia had voluntarily escaped and was happy/free.
-- Pia now knows Aemilia felt abandoned by both Pia's unexplained disappearance and the loss of her child, while never thinking ill of Pia personally.
+- Pia knows Aemilia's pregnancy was lost on the same night Pia was taken. She does **not** know the medical cause, severity of the blood loss, surrounding marital quarrel, or any basis for attributing responsibility.
+- Pia knows Aemilia did not immediately order her returned because Aemilia was consumed by grief and hoped Pia had voluntarily escaped and was happy/free.
+- Pia knows Aemilia felt abandoned by both Pia's unexplained disappearance and the loss of her child, while never thinking ill of Pia personally.
 - Pia does not yet know the full later search chronology or that Aemilia explicitly intended to free her.
+- Pia does **not** yet know that Lucius's investigation has identified Eros as the household source behind her interception.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
@@ -53,10 +46,10 @@ At reunion Aemilia crosses the expected social distance herself and embraces Pia
 
 Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child.
 
-When Aemilia admits she felt abandoned by Pia and by the child but never thought ill of Pia, and apologizes again before embracing her, Pia returns the embrace. Aemilia then prioritizes getting Pia home and rested rather than extracting her account immediately. The exchange establishes mutual attachment and sincere reconciliation over the misunderstanding without erasing the unequal legal relationship or the real consequences of the delayed search.
+Aemilia prioritizes getting Pia home and rested rather than extracting her account immediately. On arrival after dark, despite her own obvious exhaustion, Aemilia remains with Pia while she is settled and medically seen.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
 - Pia's knowledge of the initial interception can provide clues, but she is not omniscient and should not identify the hidden organizer unless she actually witnessed/heard something that supports it.
 - Pia must not infer a medical cause for Aemilia's pregnancy loss from timing or appearance.
-- Hidden GM canon: Eros facilitated the initial interception but did not intend/order Pia's onward sale or design the full chain. Pia need not know this directly.
+- Lucius now has evidence identifying Eros as the source, but Pia does not know that unless told.
