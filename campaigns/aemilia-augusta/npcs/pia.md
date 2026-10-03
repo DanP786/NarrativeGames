@@ -3,7 +3,7 @@
 ## Description
 Adult enslaved woman and longtime personal attendant to Aemilia. Pia came with Aemilia from her father's household when Aemilia married into the Valerian domus and has remained one of the most familiar figures in her daily private life.
 
-On first direct sight after her recovery in S02, Pia is visibly exhausted by detention and travel. Her clothing has been replaced or supplemented with practical clean wraps by the recovery party. She is dusty and drawn, moving carefully rather than freely, but is awake, oriented, and able to recognize Aemilia immediately. Close inspection by Aemilia shows fatigue, road grime, soreness/stiffness and minor marks consistent with rough handling/travel, but no obvious grave wound. No sexual abuse or severe specific injury is established by appearance alone. Fuller condition remains for physician examination and Pia's own account.
+On first direct sight after her recovery in S02, Pia is visibly exhausted by detention and travel. Her clothing has been replaced or supplemented with practical clean wraps by the recovery party. She is dusty and drawn, moving carefully rather than freely, but is awake, oriented, and able to recognize Aemilia immediately. Close inspection by Aemilia shows fatigue, road grime, soreness/stiffness and minor marks consistent with rough handling/travel, but no obvious grave wound. No sexual abuse or severe specific injury is established by appearance alone.
 
 ## Role
 Personal attendant and familiar companion within the unequal structure of Roman slavery. She assists with Aemilia's dressing, hair and intimate domestic routine and has unusually close practical knowledge of her mistress's habits and household life.
@@ -21,8 +21,10 @@ When Pia notices Aemilia's own weakness, Aemilia tells her: **“Do not worry ab
 
 By the time the carriage reaches the Valerian domus it is dark. Pia has slept/rested for part of the final journey. Aemilia is herself visibly very tired but remains physically beside Pia and refuses to leave her care to others. Pia is brought inside for the waiting household physician and rest, with Aemilia staying with her.
 
+During the night Aemilia finally falls asleep in the chair at Pia's bedside, arms folded/resting on the edge of Pia's bed and head resting on them. Pia wakes first the next morning and finds her mistress still there, asleep beside her rather than having returned to her own bed.
+
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. She is being settled for physician examination and rest; Aemilia remains at her side.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household, with Aemilia asleep at her bedside.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -46,7 +48,7 @@ At reunion Aemilia crosses the expected social distance herself and embraces Pia
 
 Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child.
 
-Aemilia prioritizes getting Pia home and rested rather than extracting her account immediately. On arrival after dark, despite her own obvious exhaustion, Aemilia remains with Pia while she is settled and medically seen.
+Aemilia prioritizes getting Pia home and rested rather than extracting her account immediately. On arrival after dark, despite her own obvious exhaustion, Aemilia remains with Pia while she is settled and medically seen. She ultimately falls asleep at Pia's bedside rather than leaving her; Pia discovers this on waking first the next morning.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
