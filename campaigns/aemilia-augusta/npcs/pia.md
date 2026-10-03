@@ -23,8 +23,10 @@ By the time the carriage reaches the Valerian domus it is dark. Pia has slept/re
 
 During the night Aemilia finally falls asleep in the chair at Pia's bedside, arms folded/resting on the edge of Pia's bed and head resting on them. Pia wakes first the next morning and finds her mistress still there, asleep beside her rather than having returned to her own bed.
 
+When Aemilia later wakes stiff and groaning from the awkward position, her attention immediately returns to Pia. She fusses over Pia's water, coverings, food and comfort before tending to herself. Pia is touched but mildly exasperated by the reversal and tells her, **“Domina, I have been awake long enough to know I am not dying.”** She then insists Aemilia sit rather than exhaust herself further.
+
 ## Current status
-Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household, with Aemilia asleep at her bedside.
+Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome. Returned to the Valerian domus after dark with Aemilia under escort. After physician care and a night's rest she wakes first in the morning, still tired and sore but safe in the household. Aemilia wakes later at her bedside and immediately resumes caring for her.
 
 ## Current knowledge
 - Knows that Aemilia and Lucius maintained an unusual private marital boundary for nearly six years.
@@ -48,7 +50,7 @@ At reunion Aemilia crosses the expected social distance herself and embraces Pia
 
 Aemilia apologizes for not searching/recovering Pia immediately and explains she hoped Pia had escaped to happiness. Pia does not offer facile instant absolution: she acknowledges that she wished Aemilia had known she was in danger, while recognizing Aemilia could not have known the truth and had just suffered the loss of her child.
 
-Aemilia prioritizes getting Pia home and rested rather than extracting her account immediately. On arrival after dark, despite her own obvious exhaustion, Aemilia remains with Pia while she is settled and medically seen. She ultimately falls asleep at Pia's bedside rather than leaving her; Pia discovers this on waking first the next morning.
+Aemilia prioritizes getting Pia home and rested rather than extracting her account immediately. On arrival after dark, despite her own obvious exhaustion, Aemilia remains with Pia while she is settled and medically seen. She ultimately falls asleep at Pia's bedside rather than leaving her; Pia discovers this on waking first the next morning. When Aemilia wakes, she immediately resumes fussing over Pia rather than herself, deepening the temporary reversal of their ordinary mistress/attendant routine.
 
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
