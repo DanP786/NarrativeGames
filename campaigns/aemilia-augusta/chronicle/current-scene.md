@@ -10,6 +10,7 @@
 - Their teasing about Aemilia's neglected hair produces Aemilia's first laughter since Pia was taken and the pregnancy lost. Aemilia orders Pia to rest and says Deva will tend her hair instead.
 - At the doorway Aemilia tells Pia: **“I’m so happy you’re home.”** She then leaves Pia to rest.
 - Aemilia asks for **Deva** to attend her in her bedchamber. Deva has been named by Aemilia as someone capable of tending her hair, but no further identity, legal status, history, personality or relationship with Aemilia has yet been established in canon.
-- Before dressing and having her hair put in order, Aemilia enters the bath. The warmth eases the stiffness from sleeping in the bedside chair and the previous day's journey, though her lingering pallor and incomplete recovery remain evident.
+- Aemilia enters the bath. Deva comes in and begins washing Aemilia's long dark hair while Aemilia remains in the warmth. Deva's participation establishes only that she is presently acting as an attendant capable of this intimate grooming task; further biography/status remains unestablished.
+- The washing begins to remove the dust and neglect of the journey and previous weeks. Aemilia remains physically depleted despite improved recovery.
 - Pia still does not know Aemilia intended to free her before the disappearance.
-- CURRENT MOMENT: Morning. Pia rests safely in her room. Aemilia is bathing before dressing and having Deva tend her hair. The planned questioning of Eros remains ahead; Eros is confined elsewhere under guard.
+- CURRENT MOMENT: Morning in Aemilia's bathing chamber. Deva is washing Aemilia's hair as Aemilia prepares herself before the planned questioning of Eros. Pia rests safely elsewhere; Eros remains confined under guard.
