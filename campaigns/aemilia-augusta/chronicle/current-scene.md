@@ -8,10 +8,11 @@
 - Aemilia rushes to Pia, checks her and publicly embraces her. Pia returns the embrace and cries quietly.
 - Aemilia tells Pia, **“Come, let's get you home,”** and personally guides her into the comfortable carriage prepared for the return to Rome.
 - On the return journey Pia says she did not leave Aemilia voluntarily. Aemilia answers simply, **“I know.”**
-- Aemilia then tends Pia herself. She uses water and clean cloth to remove road dust/grime from Pia's skin, gives her water, and makes her eat small amounts of the food Lucius had packed. Pia accepts the care; the reversal of their ordinary mistress/attendant routine is conspicuous and intimate.
-- While being tended, Pia studies Aemilia more closely and notices what she had not fully processed during the first shock of reunion: Aemilia is no longer visibly pregnant. Pia also recognizes the pallor, reduced softness and physical weakness of someone who has recently been seriously ill or lost blood.
-- Pia correctly realizes the pregnancy has ended during her absence but does **not** know how, why, or exactly when. She has no basis to connect it to Eros, her own disappearance, Lucius, or any other cause.
-- Pia's expression changes. She looks from Aemilia's face to her body and back, and asks quietly, **“Domina… the child?”**
-- Pia's detailed account of her interception, detention and transfer has still not begun. Aemilia has not yet told Pia the circumstances of the pregnancy loss or the investigation in Rome.
+- Aemilia tends Pia herself, cleaning dust/grime from her skin, giving her water and making her eat small amounts of the prepared food.
+- Pia notices Aemilia is no longer visibly pregnant and recognizes her pallor/physical weakness. She asks, **“Domina… the child?”**
+- Aemilia answers: **“Lost. The same night you were taken.”**
+- Pia now knows the pregnancy was lost on the same night as her seizure. The timing visibly shocks and grieves her, but she does **not** infer that the two events are medically causally connected and does not know the circumstances of the loss.
+- Pia's immediate response is sorrowful silence followed by gentle concern for Aemilia. She reaches toward Aemilia carefully and says, **“Oh, domina…”** Her own ordeal remains present, but for this moment her attention turns to the young woman she has attended for years.
+- Pia's detailed account of her interception, detention and transfer has still not begun. Aemilia has not yet told her about the severity of the blood loss, the marital breach, or the investigation in Rome.
 - Lucius remains at the Roman domus pursuing Celer and the household inquiry. The household physician remains ready for Pia's arrival.
-- CURRENT MOMENT: Inside the carriage returning north, Aemilia has been cleaning Pia and making her eat. Pia has realized Aemilia is no longer pregnant and, with immediate concern, asks: **“Domina… the child?”**
+- CURRENT MOMENT: Inside the carriage returning north, Aemilia has told Pia that the child was lost on the same night Pia was taken. Pia is visibly shocked and saddened, reaches carefully toward Aemilia, and says, **“Oh, domina…”**

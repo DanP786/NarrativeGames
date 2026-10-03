@@ -17,7 +17,9 @@ When Aemilia tells her, **“Come, let's get you home,”** Pia accepts her guid
 
 During the return journey Aemilia tells Pia **“I know”** when Pia says she did not leave voluntarily. Aemilia personally tends her: cleaning dust and grime from her skin with water and cloth, giving her water and insisting she eat small amounts of the food prepared for the journey. Pia accepts the care, though the reversal of their usual roles is emotionally striking.
 
-While Aemilia tends her, Pia notices the physical changes in Aemilia that she is uniquely well placed to recognize: Aemilia is no longer visibly pregnant, is paler/thinner and physically weaker than when Pia last attended her. Pia realizes something has happened to the pregnancy. She does not know the circumstances or cause. Her first response is a quiet, careful question rather than an assumption about how or why the pregnancy ended.
+While Aemilia tends her, Pia notices the physical changes in Aemilia that she is uniquely well placed to recognize: Aemilia is no longer visibly pregnant, is paler/thinner and physically weaker than when Pia last attended her. Pia asks, **“Domina… the child?”** Aemilia answers: **“Lost. The same night you were taken.”**
+
+Pia now knows that Aemilia lost the pregnancy on the same night Pia was seized. The timing shocks and grieves her, but she does not infer medical causation or responsibility from coincidence. Her immediate response is sorrow for Aemilia and the realization that Aemilia was enduring the loss while Pia herself was being taken away. She does not blame Aemilia or herself aloud and does not yet know the details of the bleeding, marital quarrel, or recovery.
 
 ## Current status
 Alive and recovered into Valerian protection after being found within the Faustus-network staging chain south of Rome.
@@ -29,7 +31,7 @@ Aemilia intercepts Pia's returning party at a roadside stopping place on the App
 - From the circumstances of Aemilia's eighteenth birthday, understands that the marriage entered its adult phase.
 - Knows what she personally witnessed and experienced during her interception, detention, transfer and recovery, but the detailed content of that knowledge has not yet been fully established in play and must emerge through her own account without omniscience.
 - Pia did not voluntarily flee Aemilia.
-- Pia now recognizes that Aemilia's pregnancy has ended during her absence, based on Aemilia's changed body and weakened appearance. She does **not** yet know that it was a pregnancy loss at approximately four months, the severity of the bleeding, the surrounding marital quarrel, or any claimed cause.
+- Pia now knows Aemilia's pregnancy was lost on the same night Pia was taken. She does **not** know the medical cause, severity of the blood loss, surrounding marital quarrel, or any basis for attributing responsibility.
 - She does not know Aemilia's unspoken thoughts unless Aemilia expresses them.
 - She cannot know the full investigation conducted in Rome while she was missing unless told.
 
@@ -43,5 +45,5 @@ At reunion Aemilia crosses the expected social distance herself and embraces Pia
 ## GM constraints
 - Do not invent severe specific abuse merely for drama. Pia was seized, coercively detained, moved through an unlawful commercial chain and faced onward enslavement/sale; further details emerge only through plausible direct account/evidence.
 - Pia's knowledge of the initial interception can provide clues, but she is not omniscient and should not identify the hidden organizer unless she actually witnessed/heard something that supports it.
-- Pia must not infer a medical cause for Aemilia's pregnancy loss from appearance or timing.
+- Pia must not infer a medical cause for Aemilia's pregnancy loss from timing or appearance.
 - Hidden GM canon: Eros facilitated the initial interception but did not intend/order Pia's onward sale or design the full chain. Pia need not know this directly.
