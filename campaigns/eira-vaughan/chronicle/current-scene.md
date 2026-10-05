@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant weapons training area
-Time: Several days after Conscription Day, daytime
+Location: Basgiath War College — Soren Mair's first-year dorm room
+Time: Later in the first month after Conscription Day, evening
 Default significance: routine
 
-During weapons instruction, an instructor assessing Eira's size, reach disadvantage, strong lower body, balance and coordinated movement recommends that she begin learning the spear rather than relying only on shorter weapons. The recommendation is practical rather than praise: a spear can give Eira reach against larger opponents and reward footwork, distance control, leverage and whole-body movement, but she is completely untrained with it and will need to build fundamentals from scratch. Eira begins her first exposure to spear stance, grip and basic thrust mechanics; her coordination helps her imitate demonstrated shapes, but handling a fighting spear under instruction is unfamiliar and awkward enough that no immediate competence or skill breakthrough occurs.
+Time advances deeper into the first month. Soren's unnamed roommate dies before the month is over, leaving Soren temporarily alone in the two-cadet dorm room. Eira has become comfortable spending private time there. On the current evening she sits on Soren's bed wearing one of his shirts while attempting to study dates and military history, material that continues to frustrate her rote memory. Soren is present in the room with her. Their physical relationship and recurring training have continued during the intervening period, but no exclusivity or formal relationship status has been established.
