@@ -1,7 +1,7 @@
 # Current scene
 
 Location: Basgiath War College — Tavis Mair's shared Riders Quadrant dorm room
-Time: Conscription Day, deep night
-Default significance: charged
+Time: Morning after Conscription Day, early
+Default significance: routine
 
-Tavis's roommate never returns, leaving Eira and Tavis uninterrupted for the rest of the night. Their consensual intimacy continues before they eventually settle together to sleep. As Eira is drifting off, Tavis whispers, "You're mine," into her ear — a possessive statement he has chosen to make, not a relationship status Eira has agreed to.
+Eira wakes early and dresses in Tavis's dorm room. At some point during the night, Tavis's roommate returned without waking either of them and is now present. Before Eira can leave, Tavis pulls her back for a firm morning kiss, then lets her go to return to her own quarters and face the first full day of Riders Quadrant life.

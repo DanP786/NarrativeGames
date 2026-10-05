@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: Conscription Day, entering year concurrent with Violet Sorrengail's first year
+- Date: Morning after Conscription Day, entering year concurrent with Violet Sorrengail's first year
 - Season: summer
-- Time of day: evening
-- Current location: Basgiath War College, Riders Quadrant common area
-- Notable upcoming: first night among the Riders Quadrant; formal training and instruction to follow
+- Time of day: early morning
+- Current location: Basgiath War College, Tavis Mair's shared Riders Quadrant dorm room
+- Notable upcoming: Eira's first full day in the Riders Quadrant; formal training and instruction begin to take shape
