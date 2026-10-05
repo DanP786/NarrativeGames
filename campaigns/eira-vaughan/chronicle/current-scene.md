@@ -1,7 +1,7 @@
 # Current scene
 
 Location: Basgiath War College — Riders Quadrant common area
-Time: Conscription Day, later evening
+Time: Conscription Day, late evening
 Default significance: charged
 
-Tavis asks how committed Eira is to leaving. She answers, "I can stay," openly choosing to prolong their first conversation. Their mutual physical interest is now increasingly explicit, though neither has made any commitment beyond remaining together at the gathering.
+With Eira's hand resting against his chest, Tavis asks again whether she plans on leaving. Eira answers, "Eventually," making clear she intends to remain with him for now. Their first-night flirtation has become openly mutual and physically close, while Tavis continues to wait for Eira's cues rather than assuming further contact.
