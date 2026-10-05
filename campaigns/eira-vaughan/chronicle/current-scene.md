@@ -4,4 +4,4 @@ Location: Basgiath War College — Riders Quadrant common area
 Time: Conscription Day, evening
 Default significance: routine
 
-Mara Venn energetically drags Eira from the shared dormitory into an informal Conscription Night gathering in the Riders Quadrant common area. The two collect drinks amid the surviving cadets' noisy first-night socializing.
+At the informal first-night gathering, Eira rolls her eyes at Tavis Mair's continued attention. Mara Venn notices the obvious attraction and teases Eira that Tavis is "eye fucking" her, escalating their new-friend banter while Tavis remains across the common area.
