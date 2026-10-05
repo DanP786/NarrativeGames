@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — breakfast, Riders Quadrant
-Time: Morning after Conscription Day
+Location: Basgiath War College — corridor en route to first instruction
+Time: Morning after Conscription Day, after breakfast
 Default significance: charged
 
-After choking her attacker unconscious, Eira notices Tavis has moved close to the fight and had to be physically held back by Coren Aster. Coren loudly needles him, "You had your head between those thighs?" Eira does not engage with the comment; she retrieves her displaced tray, puts it back on the table and drinks. Mara silently slides her own tray closer to Eira, offering to share after Eira's breakfast was scattered in the fight. The unconscious attacker's identity remains unestablished.
+No one moves the unconscious female cadet before breakfast ends, leaving her where Eira dropped her. When first-years begin moving toward class, Eira walks with Mara and can feel attention following her after the public fight. Tavis reaches from the moving crowd, catches Eira by the arm and pulls her aside. Mara snaps around at the sudden movement, recognizes Tavis, and continues onward smiling rather than intervening. Eira and Tavis are now briefly separated from the flow of cadets while everyone else heads toward instruction.
