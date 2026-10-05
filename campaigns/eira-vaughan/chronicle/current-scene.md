@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — hall outside the Riders Quadrant sparring gym, starting toward evening stores duty
-Time: Day after Conscription Day, late afternoon before evening duty
+Location: Basgiath War College — stores area, secluded corner off the main work space
+Time: Day after Conscription Day, evening
 Default significance: charged
 
-Tavis offers to become Eira's additional sparring partner and teach her. After he jokingly accuses her of commitment issues, Eira directly challenges his own rapid possessiveness: "Commitment issues? You seemingly took one look at me and decided I was yours." Her tone calls out the contradiction rather than accepting his claim of ownership. Tavis must now account for the possessive language he used after their first night; no exclusive relationship has been agreed between them.
+Eira and Tavis report for their shared stores duty. Eira's reluctance to neglect an assigned responsibility keeps them working rather than immediately disappearing together, despite the attraction between them. Once their work allows it, they find a quiet, secluded corner and share another consensual intimate encounter away from the main stores area; the details remain private and non-explicit. Their attraction is clearly ongoing, but no exclusive relationship has been agreed.
