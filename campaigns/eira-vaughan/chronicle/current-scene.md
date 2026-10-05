@@ -1,7 +1,7 @@
 # Current scene
 
 Location: Basgiath War College — Riders Quadrant common area
-Time: Conscription Day, evening
-Default significance: routine
+Time: Conscription Day, later evening
+Default significance: charged
 
-At the informal first-night gathering, Eira rolls her eyes at Tavis Mair's continued attention. Mara Venn notices the obvious attraction and teases Eira that Tavis is "eye fucking" her, escalating their new-friend banter while Tavis remains across the common area.
+Mara Venn eventually leaves Eira to pursue her own romantic/sexual interest for the night. As Eira considers returning to the dormitory, Tavis Mair approaches her from behind and says, "Eira, is it?" His unexpected proximity makes Eira physically jump before she turns to face him; this is their first direct conversation.
