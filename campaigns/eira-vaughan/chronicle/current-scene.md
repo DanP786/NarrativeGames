@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Soren Mair's first-year dorm room
-Time: Later in the first month after Conscription Day, evening
+Location: Basgiath War College — Riders Quadrant training area
+Time: Beginning of the second month after Conscription Day, morning
 Default significance: charged
 
-Eira and Soren's teasing gives way to another consensual intimate encounter. Soren lowers Eira onto his bed, and the moment makes Eira remember Coren's crude breakfast joke from the morning of Brinna's attack about Soren having his head between her thighs. The coincidence nearly breaks the mood by making her laugh; Soren immediately recognizes Coren is somehow responsible for her amusement. Their intimacy continues off-page without explicit detail, with the emotional warmth and humour of their developing attachment carrying through the encounter.
+Time advances into the second month after Conscription Day. The informal violence and ordinary combat instruction of Eira's first weeks now give way to formal challenge matchups, where cadets are paired and expected to fight under Basgiath's rules and scrutiny. Eira enters this phase with excellent balance and coordination, novice grappling instincts, several weeks of additional hand-to-hand practice with Soren and some basic spear instruction, but she remains a formal-combat beginner with a meaningful strength disadvantage against larger opponents. Brinna Korr's death has made Eira a less inviting casual target, but formal matchups mean reputation cannot protect her from being paired against dangerous cadets.
