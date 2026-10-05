@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Tavis Mair's shared Riders Quadrant dorm room
-Time: Morning after Conscription Day, early
+Location: Basgiath War College — Eira's shared Riders Quadrant dormitory
+Time: Morning after Conscription Day, before breakfast
 Default significance: routine
 
-Eira wakes early and dresses in Tavis's dorm room. At some point during the night, Tavis's roommate returned without waking either of them and is now present. Before Eira can leave, Tavis pulls her back for a firm morning kiss, then lets her go to return to her own quarters and face the first full day of Riders Quadrant life.
+On the walk back from Tavis Mair's room, Eira realizes she is far from the only first-year making an early-morning return from someone else's quarters after Conscription Night. She reaches her own dormitory with enough time to wash, straighten herself out, change and prepare properly for the first full day before breakfast.
