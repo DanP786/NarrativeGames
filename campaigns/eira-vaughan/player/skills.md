@@ -4,12 +4,12 @@
 _None._
 
 ## Adept
-- Balance & Coordination (2 ticks) — gymnastics background, strong core, excellent proprioception and broad physical activity; defining starting competence. Under an active choke by a much larger opponent, Eira used flexibility and lower-body control to hook a leg high around the attacker's neck and create leverage rather than contest raw strength.
+- Balance & Coordination (3 ticks) — gymnastics background, strong core, excellent proprioception and broad physical activity; defining starting competence. During her first serious Basgiath fight, Eira converted an awkward high leg hook while being choked into a two-leg neck clamp as the larger opponent changed grips, maintaining control through the subsequent fall.
 
 ## Novice
 - Endurance (0 ticks) — excellent civilian conditioning, not yet Rider/military conditioning.
 - Practical Craft (0 ticks) — tools, measurement, knots, basic repairs, sewing/mending, fabric and leather repair from helping both parents.
-- Grappling (1 tick) — childhood wrestling and physical instinct; no formal martial training. In her first serious Basgiath struggle, Eira recognized a losing strength contest and used an unconventional leg hook to keep a substantially larger attacker close enough to counterattack.
+- Grappling (2 ticks) — childhood wrestling and physical instinct; no formal martial training. Against a substantially larger opponent, Eira abandoned a losing strength contest, used unconventional lower-body leverage, and reversed an active choke into a controlling neck hold of her own.
 
 ## Notable Untrained
 - Formal hand-to-hand combat — aggressive/coordinated instincts are not training.
