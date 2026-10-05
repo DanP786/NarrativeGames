@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant shared first-year dormitory
-Time: Conscription Day, later that day
+Location: Basgiath War College — Riders Quadrant common area
+Time: Conscription Day, evening
 Default significance: routine
 
-After formation, assignment and the day's intake processing, Eira reaches the shared first-year dormitory and places her bag at her assigned sleeping space. She is now beginning to settle into Basgiath alongside other surviving first-years.
+Mara Venn energetically drags Eira from the shared dormitory into an informal Conscription Night gathering in the Riders Quadrant common area. The two collect drinks amid the surviving cadets' noisy first-night socializing.
