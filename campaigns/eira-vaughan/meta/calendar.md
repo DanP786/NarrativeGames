@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: Beginning of the second month after Conscription Day, entering year concurrent with Violet Sorrengail's first year
+- Date: Second month after Conscription Day, entering year concurrent with Violet Sorrengail's first year
 - Season: summer
-- Time of day: evening
-- Current location: Basgiath War College, Riders Quadrant dining hall
-- Notable ongoing: Formal challenge matchups have begun. Eira narrowly won her first matchup but sustained broken fingers and a pronounced black eye; the hand has been treated by the healers. Soren lost his own matchup later that morning, after which Eira overheard Garrick Tavis blame his distraction on his investment in her. Eira continues regular lessons, recurring additional sparring practice with Soren, familiar gymnastics/flexibility work when time allows, and basic spear training.
+- Time of day: later afternoon
+- Current location: Basgiath War College, secluded Riders Quadrant training space
+- Notable ongoing: Formal challenge matchups are underway. Eira has recovered enough from the broken fingers sustained in her first formal matchup to resume structured practice, though the injury remains recent history rather than erased. Soren has begun bringing Eira to a small marked-cadet training rotation that respects the rule limiting marked cadets to groups of no more than three. The marked cadets train systematically but do not yet trust Eira; her access is to practice, not to their private information or network. Eira continues regular lessons, hand-to-hand practice, familiar gymnastics/flexibility work and basic spear training.
