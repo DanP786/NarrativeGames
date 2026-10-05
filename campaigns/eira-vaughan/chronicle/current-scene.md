@@ -4,4 +4,4 @@ Location: Basgiath War College — Riders Quadrant common area
 Time: Conscription Day, later evening
 Default significance: charged
 
-Mara Venn eventually leaves Eira to pursue her own romantic/sexual interest for the night. As Eira considers returning to the dormitory, Tavis Mair approaches her from behind and says, "Eira, is it?" His unexpected proximity makes Eira physically jump before she turns to face him; this is their first direct conversation.
+In their first direct conversation, Tavis Mair offers Eira his hand and introduces himself. Eira notices that his rebellion relic begins across the offered hand; after looking at it, she takes his hand normally rather than recoiling or refusing. The gesture gives Tavis his first direct evidence of how Eira responds to his marked status.
