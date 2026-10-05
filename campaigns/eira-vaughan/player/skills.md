@@ -13,7 +13,7 @@ _None._
 
 ## Notable Untrained
 - Formal hand-to-hand combat (several training exposures) — after being decisively beaten in her first formal spar, Eira begins regular extra practice with Soren Mair. She is still an untrained beginner overall, but is working specifically on guard, footwork, telegraphing less and recognizing trained responses through repetition.
-- Spear fighting — likely physically well-suited but untrained.
+- Spear fighting (first formal exposure) — an instructor recommends the weapon because reach, distance control, footwork and leverage may compensate for Eira's size while making use of her balance, coordination and strong lower body. She has begun basic grip, stance and thrust mechanics but remains fully untrained.
 - Tomahawk / war axe combat — owns and likes a compact one-handed axe but lacks formal combat mastery.
 - Thrown weapons — average aim; no prodigy advantage.
 - Crossbow — average beginner potential; requires practice.
