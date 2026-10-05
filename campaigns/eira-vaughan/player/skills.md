@@ -4,7 +4,7 @@
 _None._
 
 ## Adept
-- Balance & Coordination (0 ticks) — gymnastics background, strong core, excellent proprioception and broad physical activity; defining starting competence.
+- Balance & Coordination (1 tick) — gymnastics background, strong core, excellent proprioception and broad physical activity; defining starting competence.
 
 ## Novice
 - Endurance (0 ticks) — excellent civilian conditioning, not yet Rider/military conditioning.
