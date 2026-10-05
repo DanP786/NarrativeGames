@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — secluded Riders Quadrant training space
-Time: Second month after Conscription Day, later afternoon
+Location: Basgiath War College — Riders Quadrant, across several days of second-month training and meals
+Time: Second month after Conscription Day
 Default significance: charged
 
-Immediately after agreeing to exclusivity, Eira keeps teasing and asks Soren, "Does this mean I get to move in?" The joke lands particularly well because Soren's roommate is dead and Eira already spends substantial private time in his otherwise two-cadet room. Soren is openly receptive to the practical idea of Eira spending even more time there, but neither treats the joke itself as an actual housing reassignment or an established right to move rooms. Their newly official exclusivity settles into familiar banter rather than solemnity.
+Eira continues training openly enough with Soren's small marked-cadet rotations that the association becomes common knowledge among first-years. The social consequence is substantial: cadets outside her squad who might once have become casual friends increasingly avoid her, stop inviting her into conversations, or keep interactions strictly functional. Nobody makes a serious attempt on Eira's life over it; Brinna's death, Eira's demonstrated willingness to fight, Soren's visible attachment, and the marked cadets around her all make direct escalation unattractive. Flame Section, First Squad remains different. Squadmates continue speaking and working with Eira because they are expected to survive together and socially freezing out a squadmate would be strategically stupid. Mara Venn remains personally warm rather than merely functional, while Lysa Derren continues talking to Eira despite her caution and social awareness. Eira's available friendship pool has therefore narrowed dramatically without leaving her isolated: her squad, especially Mara and Lysa, remains a social anchor, while her repeated presence with the marked ones increasingly defines how the rest of the cohort sees her.
