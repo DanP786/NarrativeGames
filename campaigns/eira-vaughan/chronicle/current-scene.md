@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — route from Riders Quadrant training area toward the healers
-Time: Beginning of the second month after Conscription Day, morning
+Location: Basgiath War College — Riders Quadrant dining hall
+Time: Beginning of the second month after Conscription Day, evening
 Default significance: charged
 
-Immediately after Soren loses his formal matchup, Garrick Tavis confronts him harshly within Eira's hearing. Garrick tells Soren to get his head out of the clouds, accuses him of losing because he is thinking with his cock, and warns that Soren will not survive if he does not start putting his own survival first. Garrick specifically says of Eira, "She will get hurt, she will lose, she will die." Eira hears that much while holding her broken fingers against her chest, then leaves for the healers before hearing Soren's response or the rest of Garrick's argument. She therefore knows Garrick attributes Soren's distraction and loss to his investment in her, but does not know what Soren says in reply. The extent of Soren's injuries remains unestablished.
+After her first formal matchup, the healers treat Eira's broken fingers and assess the facial injury that has developed into a pronounced black eye. At dinner that evening, Eira deliberately sits alone rather than joining her usual acquaintances or seeking Soren. She has had hours for Garrick's words after Soren's loss to settle: Garrick blamed Soren's distraction on his investment in Eira and warned that Eira will be hurt, lose and die. Eira still does not know what Soren said after she left the training area, and she has not yet learned the extent of his own injuries. Her solitude at dinner is visible to anyone in the hall but her private reasons remain unknown unless she states them.
