@@ -4,4 +4,4 @@
 - Season: summer
 - Time of day: late afternoon
 - Current location: Basgiath War College, Riders Quadrant training area
-- Notable ongoing: Eira attends regular lessons and has begun recurring additional sparring practice with Tavis Mair
+- Notable ongoing: Eira attends regular lessons and has begun recurring additional sparring practice with Soren Mair
