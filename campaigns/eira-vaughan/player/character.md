@@ -21,7 +21,7 @@ Intelligent, practical and visual learner. Poorer at rote factual retention unle
 Quick temper around unfairness, stubborn but method-flexible, competitive without reflexive envy, able to admit error. Respects competence more than rank and sensible rules more than arbitrary ones. Does not seek command when competent leadership exists. Strong sense of fairness without suicidal altruism. Emotionally observant. Initially quiet/polite/reserved; close companions discover dry, savage observational wit.
 
 ## Current state
-Beginning of the second month after Conscription Day. Eira has won her first formal challenge matchup narrowly after an ugly, competitive fight. She has broken fingers from the match and facial trauma around one eye that will develop into a black eye. Her high pain tolerance makes her prone to underestimating the hand injury. Her reputation already includes surviving Brinna Korr's attack; the formal victory now demonstrates that she can adapt under pressure, though she is still a beginner in trained hand-to-hand combat.
+Second month after Conscription Day. Eira has recovered enough from the broken fingers and facial trauma of her first formal challenge to resume sustained structured practice. She continues formal training and small marked-cadet rotations and remains a beginner who is improving through repetition and adaptation. After another hard training stretch she has newly aggravated one knee; the exact mechanism and diagnosis are not yet established, but it is sore/swollen enough that Soren wraps it for support in his room. Her extremely high pain tolerance remains a liability because pain alone is not a reliable indicator of injury severity for her.
 
 ## Family
 Gareth Vaughan — father, carpenter/joiner.
