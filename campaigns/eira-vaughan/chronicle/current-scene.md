@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — secluded open training terrace near the Riders Quadrant
-Time: Several days after Conscription Day, early morning before formation
-Default significance: charged
+Location: Basgiath War College — Riders Quadrant academic and training spaces
+Time: Several days after Conscription Day, daytime
+Default significance: routine
 
-Coren distinguishes Soren's ordinary attraction patterns from the unusual amount of attention and training he is giving Eira. Eira pushes back on using Soren's pre-Basgiath behaviour as a baseline, pointing out that none of them has lived under conditions like the Riders Quadrant before: death is immediate, cadet violence can be tolerated under Basgiath's rules, and relationships may therefore become intense unusually quickly. She uses the stark hypothetical that Coren could kill her on the secluded terrace and face no ordinary civilian-style punishment to illustrate how radically their circumstances have changed. Coren accepts the broader point while maintaining that Basgiath's mortality does not make every cadet invest in every person they desire.
+After her early-morning gymnastics practice and conversation with Coren, Eira rejoins the normal Basgiath schedule and attends the day's classes and required training. The day reinforces her established learning pattern: she is less comfortable with dense rote material, names and disconnected facts, but engages much more readily when instruction becomes practical, visual or tactical and she can understand how a system works. No singular breakthrough or major incident occurs during the class block; it is part of the accumulating routine of first-year Rider training.
