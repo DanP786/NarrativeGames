@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant training area
-Time: Several days after Brinna Korr's death, late afternoon
+Location: Basgiath War College — Riders Quadrant, quieter corridor after evening meal
+Time: Several days after Brinna Korr's death, evening
 Default significance: charged
 
-Several days settle into a punishing Basgiath rhythm: Eira attends lessons and formal training, while Soren regularly gives her additional hand-to-hand practice. She remains a beginner, but repeated practical correction is beginning to address obvious flaws such as telegraphing, guard and footwork. Garrick Tavis, a senior marked rider, notices how much time Soren Mair is spending training Eira and tries to discourage him from investing so heavily in an unmarked first-year he barely knows. Eira is present for the current training period; Garrick's concern is directed at Soren rather than hostility toward Eira.
+After witnessing Garrick Tavis warn Soren about spending so much of his own limited training time on her, Eira later raises the issue with Soren herself. She suggests that he stop training her, not because she dislikes the practice or wants distance from him, but because she takes Garrick's survival argument seriously and does not want Soren sacrificing his own preparation on her behalf. Soren has not yet answered.
