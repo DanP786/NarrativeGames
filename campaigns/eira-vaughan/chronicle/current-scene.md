@@ -4,4 +4,4 @@ Location: Basgiath War College — Riders Quadrant formation area
 Time: Conscription Day, after Parapet intake
 Default significance: charged
 
-The surviving first-years are being sorted into the Riders Quadrant structure. Eira Vaughan is called to Flame Section, First Squad and moves to join her assigned formation. This is her first formal placement within the quadrant.
+Eira stands with Flame Section, First Squad as assignments continue. Tavis Mair is assigned elsewhere and does not join Eira's squad; their paths remain separate for now while Eira's actual squad fills around her.
