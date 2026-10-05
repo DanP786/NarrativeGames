@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant morning roll call
-Time: Second morning after Conscription Day
+Location: Basgiath War College — Riders Quadrant training area
+Time: Several days after Brinna Korr's death, late afternoon
 Default significance: charged
 
-At morning roll call, the absence of the large first-year who attacked Eira at breakfast the previous day becomes final: she never regained consciousness after Eira's choke and died. Mara, having made a point of learning the woman's name after the fight, quietly identifies her to Eira as Brinna Korr when Korr's death is acknowledged at roll call. Eira now knows that her decision to maintain the choke until the attacker went limp killed another cadet; it is Eira's first established kill.
+Several days settle into a punishing Basgiath rhythm: Eira attends lessons and formal training, while Tavis regularly gives her additional hand-to-hand practice. She remains a beginner, but repeated practical correction is beginning to address obvious flaws such as telegraphing, guard and footwork. Garrick Tavis, a senior marked rider, notices how much time Tavis Mair is spending training Eira and tries to discourage him from investing so heavily in an unmarked first-year he barely knows. Eira is present for the current training period; Garrick's concern is directed at Tavis rather than hostility toward Eira.
