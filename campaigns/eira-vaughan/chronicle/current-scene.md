@@ -4,4 +4,4 @@ Location: Basgiath War College — Riders Quadrant common area
 Time: Conscription Day, later evening
 Default significance: charged
 
-When Tavis asks whether she was about to leave, Eira answers, "I was," but does not immediately walk away. Tavis takes the distinction as an opening and remains with her as their first conversation continues amid the thinning gathering.
+Tavis asks how committed Eira is to leaving. She answers, "I can stay," openly choosing to prolong their first conversation. Their mutual physical interest is now increasingly explicit, though neither has made any commitment beyond remaining together at the gathering.
