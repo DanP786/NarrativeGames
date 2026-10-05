@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Eira's shared Riders Quadrant dormitory
-Time: Morning after Conscription Day, before breakfast
+Location: Basgiath War College — breakfast, Riders Quadrant
+Time: Morning after Conscription Day
 Default significance: routine
 
-On the walk back from Tavis Mair's room, Eira realizes she is far from the only first-year making an early-morning return from someone else's quarters after Conscription Night. She reaches her own dormitory with enough time to wash, straighten herself out, change and prepare properly for the first full day before breakfast.
+Eira sits at breakfast beside her dorm roommate when Mara Venn finds her. Mara has just learned that her assignment has been changed to Flame Section, First Squad, putting her in Eira's squad as well as giving the two friends regular proximity going forward.
