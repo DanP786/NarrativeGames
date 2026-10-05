@@ -2,6 +2,6 @@
 
 Location: Basgiath War College — Soren Mair's first-year dorm room
 Time: Later in the first month after Conscription Day, evening
-Default significance: routine
+Default significance: charged
 
-Time advances deeper into the first month. Soren's unnamed roommate dies before the month is over, leaving Soren temporarily alone in the two-cadet dorm room. Eira has become comfortable spending private time there. On the current evening she sits on Soren's bed wearing one of his shirts while attempting to study dates and military history, material that continues to frustrate her rote memory. Soren is present in the room with her. Their physical relationship and recurring training have continued during the intervening period, but no exclusivity or formal relationship status has been established.
+While studying military history in Soren's room, Eira seriously observes that the official historical material is heavily biased against people who rebelled. The comment is not a joke and is politically sensitive given that Soren bears a rebellion relic and his family history is directly tied to the failed rebellion. Soren recognizes that Eira is independently questioning the framing of the material rather than baiting him or asking him to defend his parents. He responds cautiously, distinguishing the obvious fact that victors control official accounts from any claim that every rebel action was justified, and notes that Basgiath teaches cadets what Navarre wants its officers to believe. The conversation opens a more politically serious subject between them without giving Eira knowledge of secrets she has not learned.
