@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — corridor en route to first instruction
-Time: Morning after Conscription Day, after breakfast
-Default significance: charged
+Location: Basgiath War College — Riders Quadrant, with Flame Section First Squad
+Time: Morning after Conscription Day, evening
+Default significance: routine
 
-Tavis asks whether Eira is hurt after witnessing the breakfast fight. Eira answers, "I'll be fine." Tavis takes the answer as reassurance that she intends to continue but remains visibly concerned by the bruising at her throat and the fact that she minimizes pain easily. They are still briefly aside from the stream of cadets heading toward first instruction.
+After Eira's first full day of instruction, her squad leader gives out evening job-duty assignments. Eira learns that Tavis Mair has deliberately volunteered for the same duty she has been assigned, despite belonging to another squad. The specific duty is now a shared assignment for Eira and Tavis, creating further regular proximity by Tavis's choice.
