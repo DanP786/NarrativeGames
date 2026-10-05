@@ -9,7 +9,7 @@ _None._
 ## Novice
 - Endurance (0 ticks) — excellent civilian conditioning, not yet Rider/military conditioning.
 - Practical Craft (0 ticks) — tools, measurement, knots, basic repairs, sewing/mending, fabric and leather repair from helping both parents.
-- Grappling (2 ticks) — childhood wrestling and physical instinct; no formal martial training. Against a substantially larger opponent, Eira abandoned a losing strength contest, used unconventional lower-body leverage, and reversed an active choke into a controlling neck hold of her own.
+- Grappling (3 ticks) — childhood wrestling and physical instinct; no formal martial training. Against a substantially larger opponent, Eira abandoned a losing strength contest, used unconventional lower-body leverage, reversed an active choke into a controlling neck hold, and maintained it under resistance until the attacker lost consciousness.
 
 ## Notable Untrained
 - Formal hand-to-hand combat — aggressive/coordinated instincts are not training.
