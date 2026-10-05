@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — stores area, secluded corner off the main work space
-Time: Day after Conscription Day, evening
+Location: Basgiath War College — Riders Quadrant morning roll call
+Time: Second morning after Conscription Day
 Default significance: charged
 
-Eira and Tavis report for their shared stores duty. Eira's reluctance to neglect an assigned responsibility keeps them working rather than immediately disappearing together, despite the attraction between them. Once their work allows it, they find a quiet, secluded corner and share another consensual intimate encounter away from the main stores area; the details remain private and non-explicit. Their attraction is clearly ongoing, but no exclusive relationship has been agreed.
+At morning roll call, the absence of the large first-year who attacked Eira at breakfast the previous day becomes final: she never regained consciousness after Eira's choke and died. Mara, having made a point of learning the woman's name after the fight, quietly identifies her to Eira as Brinna Korr when Korr's death is acknowledged at roll call. Eira now knows that her decision to maintain the choke until the attacker went limp killed another cadet; it is Eira's first established kill.
