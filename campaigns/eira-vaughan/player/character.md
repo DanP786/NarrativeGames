@@ -6,6 +6,7 @@
 - Background: civilian working family; no rider or Basgiath family connection
 - Quadrant: Riders
 - Cohort: entering year concurrent with Violet Sorrengail
+- Assignment: Flame Section, First Squad
 
 ## Appearance
 Compact athletic hourglass build; especially strong developed legs and good core, with comparatively weaker upper body. Light skin that does not tan easily. Blue-green eyes. Shoulder-length naturally auburn hair with honey-blonde balayage. Symmetrical, conventionally pretty features without extraordinary beauty. Full, softly arched and exceptionally expressive eyebrows.
@@ -20,10 +21,10 @@ Intelligent, practical and visual learner. Poorer at rote factual retention unle
 Quick temper around unfairness, stubborn but method-flexible, competitive without reflexive envy, able to admit error. Respects competence more than rank and sensible rules more than arbitrary ones. Does not seek command when competent leadership exists. Strong sense of fairness without suicidal altruism. Emotionally observant. Initially quiet/polite/reserved; close companions discover dry, savage observational wit.
 
 ## Current state
-Conscription Day. Waiting to cross the Parapet. No Rider Quadrant reputation, friendships, rivalries or romance established.
+Conscription Day. Successfully crossed the Parapet and has been assigned to Flame Section, First Squad. No established Riders Quadrant reputation, friendship group, rivalry or romance yet.
 
 ## Family
 Gareth Vaughan — father, carpenter/joiner.
 Elin Vaughan — mother, seamstress/tailor.
-Rhys Vaughan — older brother by three years; senior Infantry cadet/officer candidate at Basgiath.
+Rhys Vaughan — older brother by three years; senior infantry cadet/officer candidate at Basgiath.
 Secure and loving family; parents deeply concerned about Eira's voluntary Riders choice.
