@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — the Parapet
+Location: Basgiath War College — far side of the Parapet
 Time: Conscription Day, morning
 Default significance: charged
 
-Eira begins her Parapet crossing without hesitation or rushing. She keeps her centre of gravity low and moves deliberately; when a strong gust rises, she crouches and grips the stone rather than trying to fight the wind upright, waiting for it to weaken before continuing.
+Eira has successfully crossed the Parapet. She reports her name as required, then moves deliberately away from the exposed edge and takes a position where she can watch the remaining candidates cross without obstructing processing.
