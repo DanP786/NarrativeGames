@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant, quieter corridor after evening meal
+Location: Basgiath War College — Eira's shared first-year dorm room
 Time: Several days after Brinna Korr's death, evening
 Default significance: charged
 
-After witnessing Garrick Tavis warn Soren about spending so much of his own limited training time on her, Eira later raises the issue with Soren herself. She suggests that he stop training her, not because she dislikes the practice or wants distance from him, but because she takes Garrick's survival argument seriously and does not want Soren sacrificing his own preparation on her behalf. Soren has not yet answered.
+Eira sits on her bed studying in casual sleepwear: a vest, shorts and jumper. Her roommate, now established as Lysa Derren, enters. Lysa has been noticeably distant from Eira since the second day at Basgiath, after witnessing the breakfast confrontation and learning that Eira killed Brinna Korr. The two are alone in their shared room, giving the distance between them its first real opportunity to be addressed.

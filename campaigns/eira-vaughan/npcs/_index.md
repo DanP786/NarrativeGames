@@ -6,6 +6,7 @@
 - Soren Mair | alive | Basgiath War College, Riders Quadrant | Interested | broad-built marked first-year; ongoing mutual attraction with Eira; regularly trains her
 - Coren Aster | alive | Basgiath War College, Riders Quadrant | Neutral | marked first-year; Soren's socially alert friend
 - Mara Venn | alive | Flame Section, First Squad | Warm | energetic first-year and Eira's squadmate
+- Lysa Derren | alive | Basgiath War College, Riders Quadrant | Wary | Eira's dorm roommate; distant since Brinna Korr's fatal fight
 - Brinna Korr | dead | Basgiath War College | Hostile | large first-year who attacked Eira at breakfast; died after Eira's sustained choke
 - Garrick Tavis | alive | Basgiath War College, Riders Quadrant | Neutral | senior marked rider; discourages Soren from over-investing in Eira
 
