@@ -21,7 +21,7 @@ Intelligent, practical and visual learner. Poorer at rote factual retention unle
 Quick temper around unfairness, stubborn but method-flexible, competitive without reflexive envy, able to admit error. Respects competence more than rank and sensible rules more than arbitrary ones. Does not seek command when competent leadership exists. Strong sense of fairness without suicidal altruism. Emotionally observant. Initially quiet/polite/reserved; close companions discover dry, savage observational wit.
 
 ## Current state
-Conscription Day. Successfully crossed the Parapet and has been assigned to Flame Section, First Squad. No established Riders Quadrant reputation, friendship group, rivalry or romance yet.
+Beginning of the second month after Conscription Day. Eira has won her first formal challenge matchup narrowly after an ugly, competitive fight. She has broken fingers from the match and facial trauma around one eye that will develop into a black eye. Her high pain tolerance makes her prone to underestimating the hand injury. Her reputation already includes surviving Brinna Korr's attack; the formal victory now demonstrates that she can adapt under pressure, though she is still a beginner in trained hand-to-hand combat.
 
 ## Family
 Gareth Vaughan — father, carpenter/joiner.
