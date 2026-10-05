@@ -12,7 +12,7 @@ _None._
 - Grappling (3 ticks) — childhood wrestling and physical instinct; no formal martial training. Against a substantially larger opponent, Eira abandoned a losing strength contest, used unconventional lower-body leverage, reversed an active choke into a controlling neck hold, and maintained it under resistance until the attacker lost consciousness.
 
 ## Notable Untrained
-- Formal hand-to-hand combat — aggressive/coordinated instincts are not training.
+- Formal hand-to-hand combat (1 training exposure) — Eira's first formal sparring lesson demonstrated that scrappiness, coordination and pain tolerance do not substitute for trained guard, footwork, striking or reading a practiced opponent. She was decisively beaten but gained a concrete first look at what she lacks.
 - Spear fighting — likely physically well-suited but untrained.
 - Tomahawk / war axe combat — owns and likes a compact one-handed axe but lacks formal combat mastery.
 - Thrown weapons — average aim; no prodigy advantage.

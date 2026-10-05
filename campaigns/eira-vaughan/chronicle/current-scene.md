@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant sparring gym
+Location: Basgiath War College — hall outside the Riders Quadrant sparring gym
 Time: Day after Conscription Day, late afternoon before evening duty
 Default significance: charged
 
-Before evening duty, Eira's final formal lesson of her first full day is sparring. Her morning fight has already given nearby cadets expectations about her, but Eira enters the lesson with no formal hand-to-hand training: her genuine assets are balance, coordination, strong legs, pain tolerance and limited childhood grappling experience, while trained striking and formal combat technique remain weaknesses. The class is assembling for practical pairings and instruction.
+Eira's first formal sparring lesson goes badly. She is scrappy, coordinated and persistent, but a trained opponent repeatedly exploits her lack of guard, footwork, striking technique and formal combat experience, decisively beating her despite her refusal to quit. Afterward Eira sits exhausted in the hall outside the gym, sore and processing the gap between instinct and training. She glances toward Tavis, who is nearby before their shared evening stores duty.
