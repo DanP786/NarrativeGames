@@ -1,9 +1,9 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant dining hall
-Time: Morning, shortly before Eira's official Gauntlet attempt
+Location: Basgiath War College — stone passage/turnoff on the route toward the official Gauntlet staging area
+Time: Morning, immediately before Eira's official Gauntlet attempt
 Default significance: charged
 
-After lingering too long with Soren, Eira has to rush back to her own dorm room to dress and then hurry to breakfast. She arrives with little spare time, gathers food, and asks Mara Venn to get her shoulder-length hair securely out of her eyes for the official Gauntlet. Mara readily agrees. While Eira eats quickly, Mara sits behind her and braids Eira's auburn-and-honey hair into two tight practical braids, one along each side of her head, securing the loose lengths so they will not fall across Eira's face during the course.
+Eira walks down toward the official Gauntlet with the other cadets while mentally rehearsing the course as a sequence of practical problems rather than indulging predictions about success or failure. Her hair is secured in the two tight braids Mara made at breakfast. She reviews remembered holds, transitions, places where her reach is a liability, and Vale's lesson about recognizing a lost exchange early, but no new solution to the final obstacle is established in advance.
 
-The moment is friendly and practical rather than ceremonial: Mara teases Eira about running late but focuses on making the braids secure enough for the Gauntlet. Eira is dressed and eating, with no new injury established. The official Gauntlet has not yet begun and its outcome remains unresolved; no completion, fall, Presentation, Threshing or dragon bond is established.
+Before Eira reaches the staging area, Soren catches up and draws her briefly into a side passage/turnoff for one last private moment. He does not add last-minute coaching or ask for promises. He simply wants a moment with her before they join the official process and kisses her, acknowledging without saying it that once they step forward neither can control what happens. The official Gauntlet has not yet begun; no outcome, injury, Presentation, Threshing or dragon bond is established.
