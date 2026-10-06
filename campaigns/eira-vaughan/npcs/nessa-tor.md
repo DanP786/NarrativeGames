@@ -1,11 +1,9 @@
 # Nessa Tor
 
 - Status: alive
-- Role: Riders Quadrant first-year
-- Assignment: Flame Section, First Squad
+- Role: Riders Quadrant first-year; Flame Section, First Squad
 - Current location: Riders Quadrant obstacle grounds, squad exercise
 - Public disposition toward Eira: Neutral
-- Eira knowledge: Knows Eira as a squadmate, knows her marked-cadet association has made her socially unpopular, and has observed that Eira is stubborn about injuries. Nessa does not treat friendship as a prerequisite for effective cooperation. During squad exercises she pays attention to weak links, inefficient plans and signs that someone is hiding a limitation.
-- Presentation: Compact, sharp-eyed and practical. Speaks plainly, notices details quickly, and is willing to challenge a bad plan without needing to dominate the group. Neither especially warm nor hostile toward Eira at present.
-- Appearance continuity: Compact build; further details not yet established.
-- POV boundary: Knows only what she witnesses, is told, or could plausibly learn around the quadrant.
+- Eira knowledge: Nessa knows Eira as a small but coordinated squadmate with an increasingly controversial marked-cadet association, a reputation for dangerous persistence, and a tendency to solve physical problems by changing methods rather than repeating the same failed approach. Nessa has not become a close friend, but she continues normal squad communication because she regards social factionalism as irrelevant when cooperation affects survival. During the current exercise she notices Eira's compromised knee and is attentive to whether Eira can contribute without becoming another casualty.
+- Presentation: Compact, sharp-eyed and practical. Nessa tends to notice weak points in plans, equipment and people quickly. She is not reflexively confrontational; she prefers short useful observations and becomes impatient with decisions made for pride rather than function.
+- POV boundary: Knows only what she personally observes, is told, or could plausibly learn within the squad/quadrant.
