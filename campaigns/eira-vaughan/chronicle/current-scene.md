@@ -1,9 +1,9 @@
 # Current scene
 
-Location: Basgiath War College — official Gauntlet starting line
-Time: Morning, opening of the official Gauntlet
+Location: Basgiath War College — official Gauntlet, opening obstacles
+Time: Morning, Eira's official Gauntlet attempt
 Default significance: climactic
 
-Teren Vale tells Eira, "You're first up, Vaughan." Eira is visibly startled to realize that not only is Flame Section First Squad opening the official Gauntlet, but she herself is the first cadet called from the remaining cohort to make an attempt. Vale treats the assignment as an order rather than ceremony and does not pretend being first carries special destiny or advantage; there is simply no completed run for Eira to watch before her own.
+Eira takes several moments at the starting line to collect herself before beginning the first official Gauntlet run of the remaining cohort. She deliberately settles her breathing and narrows her attention to the course rather than the watching cadets. Once she starts, the early balance-dependent portions play directly to her established Adept Balance & Coordination: she moves with confidence through narrow footing and balance transitions, trusting placement and body position rather than rushing.
 
-Eira steps toward the start with Mara's two tight braids secure and the entire course ahead of her. She must rely on practice and her own reading of the obstacles rather than copying anyone's official run. The Gauntlet attempt has not yet begun; no outcome, injury, completion, Presentation, Threshing or dragon bond is established.
+The opening does not make the whole Gauntlet easy. Eira conserves unnecessary corrections and reaches the point where the course begins demanding more sustained pulling, reach and upper-body transitions, areas she has improved substantially through Riders training but which remain less naturally dominant than balance. She is still actively on the Gauntlet; no fall, completion, major injury, Presentation, Threshing or dragon bond is established.
