@@ -1,9 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — stone passage/turnoff on the route toward the official Gauntlet staging area
-Time: Morning, immediately before Eira's official Gauntlet attempt
+Location: Basgiath War College — official Gauntlet staging area
+Time: Morning, immediately before Flame Section First Squad begins the official Gauntlet
 Default significance: charged
 
-Eira walks down toward the official Gauntlet with the other cadets while mentally rehearsing the course as a sequence of practical problems rather than indulging predictions about success or failure. Her hair is secured in the two tight braids Mara made at breakfast. She reviews remembered holds, transitions, places where her reach is a liability, and Vale's lesson about recognizing a lost exchange early, but no new solution to the final obstacle is established in advance.
+Eira jogs back from her stolen private moment with Soren and rejoins Flame Section First Squad just before staging. Their squad is called to go first. Mara notices Eira's late return and correctly infers from the visible context that Soren caught her before formation; she gives Eira knowing, friendly teasing rather than making it a serious issue.
 
-Before Eira reaches the staging area, Soren catches up and draws her briefly into a side passage/turnoff for one last private moment. He does not add last-minute coaching or ask for promises. He simply wants a moment with her before they join the official process and kisses her, acknowledging without saying it that once they step forward neither can control what happens. The official Gauntlet has not yet begun; no outcome, injury, Presentation, Threshing or dragon bond is established.
+Bram Auln also notices. His existing wariness of Eira's marked-cadet associations sharpens into open disapproval when he realizes Eira and Soren have reconciled after their recent visible distance. Bram does not claim romantic entitlement or start a confrontation before the Gauntlet; his objection is framed around Soren being marked and Eira choosing to involve herself again with that risk/social division. Eira has not yet responded to Bram's disapproval. Teren Vale keeps First Squad focused on staging rather than personal drama.
+
+Eira's hair remains in Mara's two secure braids. The official Gauntlet is about to begin but Eira has not started her run; no outcome, injury, Presentation, Threshing or dragon bond is established.
