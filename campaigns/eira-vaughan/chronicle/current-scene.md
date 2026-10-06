@@ -1,11 +1,9 @@
 # Current scene
 
-Location: Basgiath War College — official Gauntlet staging area
-Time: Morning, immediately before Flame Section First Squad begins the official Gauntlet
-Default significance: charged
+Location: Basgiath War College — official Gauntlet starting line
+Time: Morning, opening of the official Gauntlet
+Default significance: climactic
 
-Eira jogs back from her stolen private moment with Soren and rejoins Flame Section First Squad just before staging. Their squad is called to go first. Mara notices Eira's late return and correctly infers from the visible context that Soren caught her before formation; she gives Eira knowing, friendly teasing rather than making it a serious issue.
+Teren Vale tells Eira, "You're first up, Vaughan." Eira is visibly startled to realize that not only is Flame Section First Squad opening the official Gauntlet, but she herself is the first cadet called from the remaining cohort to make an attempt. Vale treats the assignment as an order rather than ceremony and does not pretend being first carries special destiny or advantage; there is simply no completed run for Eira to watch before her own.
 
-Bram Auln also notices. His existing wariness of Eira's marked-cadet associations sharpens into open disapproval when he realizes Eira and Soren have reconciled after their recent visible distance. Bram does not claim romantic entitlement or start a confrontation before the Gauntlet; his objection is framed around Soren being marked and Eira choosing to involve herself again with that risk/social division. Eira has not yet responded to Bram's disapproval. Teren Vale keeps First Squad focused on staging rather than personal drama.
-
-Eira's hair remains in Mara's two secure braids. The official Gauntlet is about to begin but Eira has not started her run; no outcome, injury, Presentation, Threshing or dragon bond is established.
+Eira steps toward the start with Mara's two tight braids secure and the entire course ahead of her. She must rely on practice and her own reading of the obstacles rather than copying anyone's official run. The Gauntlet attempt has not yet begun; no outcome, injury, completion, Presentation, Threshing or dragon bond is established.
