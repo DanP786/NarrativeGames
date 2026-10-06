@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Soren Mair's dorm room
-Time: Second month after Conscription Day, night
+Location: Basgiath War College — Riders Quadrant obstacle grounds
+Time: Second month after Conscription Day, morning
 Default significance: charged
 
-After Soren finishes wrapping Eira's aggravated knee, she deliberately turns the domestic moment flirtatious: while he is still crouched in front of her, she slings her uninjured leg over his shoulder and bites her lip. Soren immediately recognizes the invitation and attraction, but the injured knee remains a practical constraint; he responds to the provocation without jostling or loading the swollen joint. The moment is sexually charged but remains non-explicit, with their newly exclusive relationship making the teasing more openly possessive and comfortable.
+Flame Section, First Squad begins a scored squad exercise built around moving a weighted casualty litter and supplies through a rough obstacle course while keeping the squad together. The exercise brings Eira's squad into sharper focus: Mara Venn is energetic and socially fearless; Dain Aetos, the squad leader, is organized and safety-conscious; Rhiannon Matthias is practical and strong-minded; Ridoc Gamlyn uses humor under pressure; Sawyer Henrick is steady, physically useful and intent on improving; Lysa Derren is cautious and observant, though her exact formal squad assignment remains unestablished and she is not inserted into First Squad without confirmation. Eira arrives with her previously aggravated knee substantially worse: visibly swollen, stiff, and unstable enough that compensating changes her gait. During the opening carry she can contribute through upper-body support, planning and observation, but loading or twisting the knee sharply risks worsening it. Her pain tolerance remains deceptive, so the squad can see functional impairment more clearly than Eira feels pain. The immediate problem is now collective: First Squad must decide how to use Eira without letting one injured cadet cost the whole team or destroy her knee.
