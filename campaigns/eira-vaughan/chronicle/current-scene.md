@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant training grounds
-Time: Later the day after Eira's argument with Soren, during Gauntlet practice period
-Default significance: routine
+Location: Basgiath War College — stores duty
+Time: Evening the day after Eira's argument with Soren, during Gauntlet practice period
+Default significance: charged
 
-Eira deliberately redirects her training away from relying on Soren. She jogs after First Squad leader Teren Vale and asks whether he is free to train her, bluntly acknowledging that she is still getting her ass handed to her in most formal fights. Vale agrees to give her a limited training block, not as personal consolation but because improving a first-year's survivability is legitimate squad-leader work. He immediately frames the problem differently from Soren: Eira is not lacking effort and does not need encouragement to endure more punishment; she needs to become harder to hit cleanly, stop treating every exchange as something she can survive long enough to solve, and recognize earlier when a failed entry must be abandoned. Vale intends to assess her first rather than simply reproduce Soren's training methods. Eira's choice also begins rebuilding a training route rooted in First Squad rather than her relationship with marked cadets. Her relationship with Soren remains seriously fractured and unresolved; she has made no effort to seek him out today.
+After training with Teren Vale, Eira arrives for stores duty with a fresh split lip earned during the session. The injury is minor and does not establish any other new damage. Soren is also on the stores duty, preserving the previously established recurring shared duty context. This is their first direct encounter since Eira stormed out of his room. Eira spent the day deliberately refusing to search for him visually and redirected some of her combat training toward Vale; Soren does not yet know the details unless Eira tells him. The visible split lip immediately tests the unresolved conflict because Soren's established instinct is to notice and worry about Eira's injuries, while Eira has just rejected the emotional asymmetry and his tendency to monitor her body. Their relationship remains seriously fractured and unresolved; no breakup terms have been mutually agreed and no reconciliation has occurred.
