@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath War College — Riders Quadrant, Gauntlet training grounds
-Time: Later in the first-year training cycle, Gauntlet practice
-Default significance: charged
+Location: Basgiath War College — Soren Mair's dorm room
+Time: Evening during Gauntlet practice period
+Default significance: routine
 
-During an early serious Gauntlet attempt, Eira gets significantly farther than she expected. Her established balance, coordination, gymnastics background and practical route-solving make several transitions natural, but the surprise is her upper-body performance: months of grappling, formal challenges, marked-cadet training, weapons work, carries, climbs and ordinary Riders conditioning have strengthened her shoulders, back, arms and grip without her consciously tracking the change. She is still not unusually strong for the quadrant and remains disadvantaged by short reach and by obstacles demanding prolonged pulling strength, but her old self-assessment of having mediocre upper-body strength is now outdated. She clears several sections she had expected to fail and only gradually realizes that repeated training has physically changed her. The Gauntlet remains dangerous and unfinished; getting farther than expected is evidence of earned improvement, not automatic success.
+After getting substantially farther on the Gauntlet than she expected, Eira washes and returns exhausted to Soren's room. She has once again appropriated one of his shirts and flops face-down across his bed, physically spent from repeated climbing, hanging, pulling and transitions. Her fatigue is muscular rather than a newly established injury: shoulders, arms, back, hands and forearms are heavily worked. The day has made her realize that months of Basgiath training have improved her upper-body strength without her noticing because she habitually compares herself with much larger and stronger cadets. Soren finds her occupying his bed in his shirt and treats the familiarity as ordinary within their established exclusive relationship, with amused affection rather than surprise.
