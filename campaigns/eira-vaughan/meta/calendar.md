@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: Second month after Conscription Day, entering year concurrent with Violet Sorrengail's first year
-- Season: summer
-- Time of day: morning
-- Current location: Basgiath War College, Riders Quadrant obstacle grounds
-- Notable ongoing: Formal challenges and increasingly squad-focused training are underway. Eira's repeated association with marked cadets has sharply narrowed her casual social circle outside Flame Section, First Squad. The morning after Soren wrapped an aggravated knee, Eira reports for a scored First Squad exercise with the joint visibly swollen, stiff and unstable enough to affect her gait. Second-year Teren Vale leads First Squad; Dain Aetos leads Second Squad. The exercise involves moving a weighted casualty litter and supplies through rough obstacles while maintaining squad cohesion. Eira is being kept off heavy loading and twisting through the injured knee, forcing her to contribute through planning and observation.
+- Date: Later in the first-year training cycle, Gauntlet stage, entering year concurrent with Violet Sorrengail's first year
+- Season: summer moving through the pre-Threshing training period
+- Time of day: daytime
+- Current location: Basgiath War College, Riders Quadrant Gauntlet training grounds
+- Notable ongoing: The entering Riders cohort has suffered catastrophic attrition since Conscription Day; hundreds of cadets have died across Parapet, challenges, training, violence and other lethal failures. Flame Section, First Squad has lost unnamed members but retains Teren Vale, Mara Venn, Nessa Tor, Bram Auln and Eira at this point. Dain Aetos's Second Squad, which includes Violet Sorrengail, has suffered the least attrition and retains the strongest numbers entering the Gauntlet stage. Eira remains alive but far from dominant in formal combat, having lost most official matches despite steady training. The immediate pressure is Gauntlet preparation and completion, where her balance/coordination and practical problem-solving are strengths but her comparatively weaker upper body and accumulated injury history remain meaningful liabilities.
