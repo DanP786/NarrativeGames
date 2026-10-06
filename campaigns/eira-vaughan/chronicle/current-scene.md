@@ -1,9 +1,9 @@
 # Current scene
 
-Location: Basgiath War College — official Gauntlet, opening obstacles
+Location: Basgiath War College — official Gauntlet, final obstacle
 Time: Morning, Eira's official Gauntlet attempt
 Default significance: climactic
 
-Eira takes several moments at the starting line to collect herself before beginning the first official Gauntlet run of the remaining cohort. She deliberately settles her breathing and narrows her attention to the course rather than the watching cadets. Once she starts, the early balance-dependent portions play directly to her established Adept Balance & Coordination: she moves with confidence through narrow footing and balance transitions, trusting placement and body position rather than rushing.
+Eira successfully works through the official Gauntlet's preceding obstacles and reaches the final section fatigued but without a newly established major injury. Her balance, coordination, strong legs/core, improved grip and learned problem-solving carry her through, while the upper-body/reach sections cost considerably more effort than the balance work.
 
-The opening does not make the whole Gauntlet easy. Eira conserves unnecessary corrections and reaches the point where the course begins demanding more sustained pulling, reach and upper-body transitions, areas she has improved substantially through Riders training but which remain less naturally dominant than balance. She is still actively on the Gauntlet; no fall, completion, major injury, Presentation, Threshing or dragon bond is established.
+The final obstacle is the one that has been least reliable in practice: a running jump onto a steep ramp that rises high. Eira has completed it successfully twice during practice, proving it is physically possible for her, but she failed on each of her last three attempts. She now stands before it as the first official runner, breathing hard and aware that her recent practice record gives her no certainty. The attempt at the final jump has not yet been made; success, failure, fall, injury and overall Gauntlet completion remain unresolved.
