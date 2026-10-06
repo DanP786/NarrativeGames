@@ -1,9 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — Soren's dorm room
-Time: Late evening/night, roughly two weeks after Eira and Soren's argument, still during Gauntlet practice period
-Default significance: routine
+Location: Basgiath War College — Gauntlet training grounds
+Time: Later in the Gauntlet practice period, approaching the final attempts
+Default significance: charged
 
-The passion of Eira and Soren's reconciliation follows them from stores back to Soren's room. Their further intimacy is consensual, intense, and kept non-explicit/fade-to-black. Afterward Eira lies in Soren's arms and begins drifting to sleep, restoring the familiar domestic closeness that had vanished during their two-week rupture. Soren is quietly affected by having her back in his bed and does not disturb her as she grows drowsy.
+Time advances through the remaining Gauntlet preparation. Eira now splits her deliberate combat/training time between Soren Mair and Teren Vale separately. Soren continues working her mechanics, leverage, entries and practical survival habits with intimate familiarity but without returning to the old pattern of treating himself as her sole trainer. Vale focuses on early recognition of losing exchanges, abandoning bad positions before damage, and squad-useful discipline. The two approaches complement each other rather than becoming a rivalry.
 
-Eira and Soren are reconciled and mutually exclusive. Their repaired honesty boundary remains in force: Soren may protect secrets that are not his to disclose, but will not deliberately mislead Eira around them and will answer honestly as far as possible about danger to himself. The earlier conflict is resolved rather than merely buried under intimacy. Bram remains only Eira's squadmate, with no romantic or sexual choice by Eira toward him.
+Repeated Gauntlet practice makes the course marginally easier for Eira. Her balance, coordination, endurance, improved grip/upper-body conditioning and habit of analyzing failed attempts help, but her short reach remains a real obstacle and the course never becomes easy. She hears ordinary quadrant talk that Violet Sorrengail is also struggling particularly with the final portion because of her height. Eira does not gain privileged knowledge of Violet's methods or plans and remains focused on her own problem.
+
+Academically Eira remains average overall. She performs better when material can be understood visually, mechanically, tactically or through cause-and-effect, and worse with rote names, dates and isolated factual recall. Repetition keeps her afloat rather than turning her into an academic standout. She remains alive, functional and still carrying the ordinary bruises and fatigue of Riders training; no new major injury is established. Eira and Soren remain reconciled and mutually exclusive under their clarified honesty boundary.
