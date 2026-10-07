@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — official Gauntlet finish area, away from the edge
-Time: Morning, as surviving Flame Section First Squad cadets decompress after their official attempts
+Location: Basgiath War College — official Gauntlet finish area
+Time: Later morning/early day, several hours into official Gauntlet attempts
 Default significance: charged
 
-Nessa Tor returns to the gathered First Squad survivors with water and simple snacks for the group to share. The squad continues its adrenaline-heavy joking while other cohort attempts proceed in the background. Another unnamed squadmate revives the joke about Bram Auln's oversized biceps; Bram replies that they already established his arms are for carrying Eira.
+Over several hours the Gauntlet finish area steadily fills with successful cadets from other squads. Eira remains with the surviving Flame Section First Squad group, eating, drinking, talking and intermittently watching new arrivals. Eventually she recognizes cadets associated with Soren Mair's squad reaching the top. Soren himself has not yet been established as arriving, falling, dying, or beginning his run; his Gauntlet outcome remains unresolved.
 
-The joke becomes physical when Bram lifts Eira and slings her over his shoulder, carrying her casually around the finish area for longer than the initial gag requires. Eira allows the horseplay rather than demanding to be put down, and the squad treats it as part of their post-Gauntlet relief. When Bram eventually sets Eira back on her feet, however, he gives her a visibly complicated, lingering look that suggests his feelings may not be entirely explained by ordinary squad camaraderie. Eira has not interpreted or responded to that look yet. No romantic reciprocation is established, and Eira remains mutually exclusive with Soren.
+Eira's attention repeatedly shifts toward the finish as she realizes Soren's squad is now moving through the course. Mara notices immediately and tries to distract Eira with conversation and close-friend teasing rather than letting her stare continuously at the edge. Bram also recognizes what Eira is waiting for and joins the distraction effort in a blunter way, despite his disapproval of her relationship with Soren. Neither claims knowledge of Soren's status. Their efforts cannot fully stop Eira monitoring arrivals.
 
-Eira, Mara, Nessa, Bram and additional unnamed First Squad survivors remain alive and officially through the Gauntlet. Two unnamed squadmates died on the course earlier. Other cohort attempts continue; Presentation and Threshing have not yet occurred, and no dragon bond or signet is established.
+Eira, Mara, Nessa, Bram and additional unnamed First Squad survivors remain alive and through the Gauntlet. Two unnamed First Squad first-years died earlier. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
