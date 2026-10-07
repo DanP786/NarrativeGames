@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — Presentation grounds, near the end of the dragons' review line
+Location: Basgiath War College — Presentation grounds, final stretch of the dragons' review line
 Time: Later on Gauntlet day, during Flame Section First Squad's Presentation
 Default significance: climactic
 
-Eira continues at the head of Flame Section First Squad after surviving the earlier burst of dragonfire and can now see the end of the Presentation route. Before she reaches it, a large red dragon deliberately stomps close and slams a foot down beside her hard enough to shake the ground. Eira stops rather than stumbling onward, heart racing and breathing heavily through her nose. The red growls and lowers its head to Eira's level, bringing its teeth and one enormous eye close enough to dominate her field of vision.
+Eira resumes walking after the close encounter with the red dragon and is now on the final stretch of Presentation. In her peripheral vision she catches an unexpected flash of gold attached to a dragon noticeably smaller than the others around it. The sight immediately registers as anomalous to her based on her dragon coursework, but she does not turn her head or attempt to inspect it. After surviving dragonfire and the red dragon's close intimidation, she refuses to throw away her discipline by staring at something merely because it is strange.
 
-Eira recognizes the encounter as a test of nerve but does not presume to know the dragon's private intent beyond its observable behavior. She refuses both panic and direct challenge: rather than sharply averting her gaze, she carefully adjusts her focus so she is looking ahead without meeting the dragon's eye. She holds position until the red withdraws. Once it does, Eira again deliberately waits and counts ten seconds before resuming her walk, using the same controlled reset she used after the burst of flame.
+Eira keeps her eyes forward, maintains the same controlled pace and continues toward the end of the route. She has only a peripheral glimpse and therefore does not gain detailed knowledge about the small golden dragon from this moment. She does not know its identity, sex, tail type, circumstances or significance from what she has seen, and no dragon bond or special recognition occurs.
 
-The rest of surviving First Squad remains spaced behind her in Presentation order and must make its own passage. Eira is alive, has no newly established injury, and is close to completing Presentation. Soren Mair remains alive elsewhere among the surviving cadets. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+The rest of surviving First Squad remains spaced behind Eira and must make its own Presentation passage. Eira is alive and close to completing Presentation with no newly established injury. Soren Mair remains alive elsewhere among the surviving cadets. Threshing has not yet occurred, and Eira has no dragon bond or signet.
