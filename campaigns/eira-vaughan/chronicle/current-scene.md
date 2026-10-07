@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — safe side of the Presentation grounds
+Location: Basgiath War College — leaving the safe side of the Presentation grounds for the healers
 Time: Later on Gauntlet day, after most of Flame Section First Squad completes Presentation
 Default significance: charged
 
-Most of the surviving members of Flame Section, First Squad have completed Presentation and are gathered on the safe side. Eira remains functional but has a superficial-to-moderate heat burn from dragonfire that still needs treatment. During the squad's relief-heavy celebration, Bram Auln impulsively kissed Eira without asking despite knowing she is mutually exclusive with Soren Mair.
+After rejecting Bram Auln's unsolicited kiss in front of First Squad, Eira warns the witnesses, "If anyone values their lives and wants to bond with a dragon tomorrow I suggest no one tell Mair." She punctuates the warning by slapping Bram once on the chest, then shakes her head and rolls her eyes at him. The remark is delivered as dark, adrenaline-heavy squad humor rooted in Soren's well-known jealousy; it does not establish a literal threat from Soren, and with multiple witnesses the incident is not realistically guaranteed to remain secret.
 
-The surrounding First Squad survivors react with open shock. Eira immediately pushes Bram away, leaving both hands against his chest to create and maintain distance, and exclaims, "Bram!" She then tells him, "You better hope Soren doesn't find out." Her response establishes rejection of the kiss, not romantic reciprocation. Bram does not resist being pushed away. The warning invokes Soren's known jealousy but does not grant Soren authority over Eira or establish that Eira intends to conceal what happened.
+Eira then says, "I'm going to go see the healer before anyone else decides to kiss me," turns on her heel, and leaves the group to seek treatment for the superficial-to-moderate heat burn she sustained during Presentation. She remains functional but the burn is increasingly painful as the adrenaline fades. Bram stays with the squad after being clearly rejected. Mara and several other First Squad survivors witnessed the entire exchange.
 
-Mara is nearby and witnessed the kiss and rejection. Other squad survivors also witnessed enough of the incident that it is not realistically private. Soren remains alive elsewhere among the surviving cadets, but his Presentation outcome and whether he has seen or heard about this moment are not yet established. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+Most of surviving First Squad has completed Presentation alive. Soren Mair remains alive elsewhere among the surviving cadets; his Presentation outcome and whether he has learned of Bram's kiss are not yet established. Threshing is expected next, but has not yet occurred, and Eira has no dragon bond or signet.
