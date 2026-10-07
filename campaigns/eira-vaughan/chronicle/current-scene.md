@@ -4,8 +4,8 @@ Location: Basgiath War College — edge of the official Gauntlet finish area, se
 Time: Later morning/early day, immediately after Soren Mair's successful Gauntlet run
 Default significance: charged
 
-Soren and Eira remain at the broad rock after acknowledging that they both made it through the official Gauntlet. Eira leans back on both hands and teasingly challenges Soren for casually referring to her as his girlfriend. Soren does not retreat from the label: their mutual exclusivity, reconciliation and established emotional attachment make it an accurate description from his perspective, though this is the first time he has used the ordinary public relationship label on-screen.
+Eira is still seated on the broad rock with Soren standing between her legs after teasing him about finally calling her his girlfriend. The playful mood ends abruptly when Xaden Riorson calls Soren over from elsewhere in the Gauntlet finish area. Eira immediately stops teasing; Riorson's intervention carries enough obvious weight within the Riders Quadrant and among marked cadets that she does not treat it as casual interruption.
 
-The exchange stays playful and affectionate, with Soren standing between Eira's legs and openly unconcerned about being seen with her. His earlier jealousy over Bram has eased into teasing possessiveness rather than confrontation. Eira has not objected to the relationship itself; she is teasing him over finally naming it plainly.
+Soren acknowledges the summons and must decide how quickly to leave Eira and answer it. No content or purpose for Riorson's summons has yet been established, and Eira has not been given access to any protected marked-cadet information merely by witnessing the call. Soren and Eira remain mutually exclusive partners; his earlier jealousy over Bram is no longer the immediate focus.
 
 Eira, Soren, Mara, Nessa, Bram and additional unnamed survivors are alive and officially through the Gauntlet. Two unnamed First Squad first-years died earlier. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
