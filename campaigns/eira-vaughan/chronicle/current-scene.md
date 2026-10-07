@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — Presentation survivor gathering with Flame Section, First Squad
+Location: Basgiath War College — leaving the Presentation survivor gathering
 Time: Later on Gauntlet day, shortly after Eira is released by the healers
-Default significance: climactic
+Default significance: charged
 
-After Soren Mair punches Bram Auln for kissing Eira, Eira takes control of the immediate confrontation verbally. She points at Bram and orders, "You! Keep your lips to yourself!" then points at Soren and orders, "You! Keep your fists to yourself!" She pulls free of Mara and starts physically pushing against Soren's chest to move him away from Bram and the gathered First Squad cadets. Soren allows himself to be moved rather than using his much greater size to resist her.
+After Bram Auln knowingly taunts Soren Mair by falsely claiming Eira liked Bram's unsolicited kiss, Eira calmly turns away from Soren and walks back to Bram. She looks up at him and slaps him once. The slap is Eira's direct response to Bram misrepresenting her reaction after she had already rejected him. She does not continue the physical confrontation.
 
-As Eira is pushing Soren away, Bram deliberately taunts from behind her, "She liked it you know." This claim contradicts what actually happened: Eira immediately pushed Bram away after the unsolicited kiss and did not reciprocate it. Bram personally witnessed that rejection, so the statement is knowingly provocative rather than a reliable description of Eira's response. Soren hears the taunt. His reaction to it and Eira's response are not yet established; the confrontation remains physically volatile.
+Eira immediately turns on her heel, returns to Soren, grabs his arm and walks away from Bram and First Squad, decisively ending her participation in the confrontation. Soren goes with her rather than returning to Bram. Bram remains behind with the squad after having been punched once by Soren and slapped once by Eira. No further blows or injuries are established.
 
-Eira's dragonfire burns have been treated by Nolon. Eira, Soren and Bram all completed Presentation alive. Eira has privately realized she has fallen for Soren but has not told him. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+Soren has now directly witnessed Eira reject Bram's claim through her actions, though Eira has still not necessarily given him a full verbal account of the original kiss. Eira's dragonfire burns have been treated by Nolon. Eira, Soren and Bram all completed Presentation alive. Eira has privately realized she has fallen for Soren but has not told him. Threshing has not yet occurred, and Eira has no dragon bond or signet.
