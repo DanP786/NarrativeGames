@@ -1,11 +1,11 @@
 # Current scene
 
 Location: Basgiath War College — official Gauntlet finish area, away from the edge
-Time: Morning, as Flame Section First Squad survivors gather after their official attempts
+Time: Morning, as surviving Flame Section First Squad cadets decompress after their official attempts
 Default significance: charged
 
-Eira moves away from the Gauntlet edge and sits with the surviving First Squad cadets who have completed the course. As more unnamed squadmates successfully arrive, the group shifts from immediate shock and relief into loose, adrenaline-heavy conversation and laughter. The two unnamed squad deaths remain real, but the survivors allow themselves ordinary humour rather than maintaining constant solemnity.
+Nessa Tor returns to the gathered First Squad survivors with water and simple snacks for the group to share. The squad continues its adrenaline-heavy joking while other cohort attempts proceed in the background. Another unnamed squadmate revives the joke about Bram Auln's oversized biceps; Bram replies that they already established his arms are for carrying Eira.
 
-Eira and Mara's friendship is now openly physically comfortable: while talking and laughing they touch casually without awkwardness or romantic implication, leaning into each other and making easy contact as close friends. The broader squad atmosphere also loosens. During some joking around, Bram Auln shows off his very large biceps beside Eira's much smaller but visibly strong arms, turning their size difference into harmless squad banter. Eira participates without romantic intent; her mutual exclusivity with Soren remains unchanged. Bram remains physically comfortable around her and still disapproves of her marked association, but no renewed argument occurs in this moment.
+The joke becomes physical when Bram lifts Eira and slings her over his shoulder, carrying her casually around the finish area for longer than the initial gag requires. Eira allows the horseplay rather than demanding to be put down, and the squad treats it as part of their post-Gauntlet relief. When Bram eventually sets Eira back on her feet, however, he gives her a visibly complicated, lingering look that suggests his feelings may not be entirely explained by ordinary squad camaraderie. Eira has not interpreted or responded to that look yet. No romantic reciprocation is established, and Eira remains mutually exclusive with Soren.
 
-Eira, Mara, Nessa, Bram and additional unnamed First Squad survivors are alive and officially through the Gauntlet. Other cohort attempts continue. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
+Eira, Mara, Nessa, Bram and additional unnamed First Squad survivors remain alive and officially through the Gauntlet. Two unnamed squadmates died on the course earlier. Other cohort attempts continue; Presentation and Threshing have not yet occurred, and no dragon bond or signet is established.
