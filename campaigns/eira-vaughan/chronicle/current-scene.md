@@ -1,11 +1,11 @@
 # Current scene
 
 Location: Basgiath War College — outside the healers' tent near the Presentation grounds
-Time: Later on Gauntlet day, roughly twenty minutes after Eira reaches the healers
+Time: Later on Gauntlet day, shortly after Eira is released by the healers
 Default significance: charged
 
-Eira reports to the healers after Presentation and is treated directly by Nolon for the dragonfire burns rather than merely being handed an ointment. The burns are healed sufficiently that they are no longer an active untreated injury. Because of the day's exertion, heat exposure and accumulated fatigue, Eira is required to remain with the healers and hydrate before being released. After roughly twenty minutes she is cleared to leave.
+Eira and Soren Mair reunite outside the healers' tent after both surviving the official Gauntlet and Presentation. Eira has been directly treated by Nolon for her dragonfire burns and held roughly twenty minutes to hydrate before release; Soren is dusty and exhausted from his own day but alive and has also completed Presentation.
 
-As Eira heads back toward the surviving cadets, she finds Soren Mair walking toward the healers' tent and directly toward her. He is dusty from the day's trials but visibly alive. His presence on this side establishes that he has also survived Presentation. Eira immediately grins when she sees him, her relief plain in the expression. Whether Soren has already heard about Bram Auln's unsolicited kiss is not yet established.
+Overwhelmed by relief and happiness that they have both made it this far, Eira pulls Soren into a kiss. Tears gather in her eyes during the kiss, an openly emotional reaction to their shared survival rather than distress. Soren returns the kiss and holds her close. For the moment their reunion is centered on relief, affection and the fact that both are alive with Threshing still ahead.
 
-Most of surviving First Squad completed Presentation alive. Bram kissed Eira without permission after his own crossing; Eira immediately rejected him and jokingly warned the squad not to tell Soren. Multiple witnesses make secrecy uncertain. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+Bram Auln's earlier unsolicited kiss remains unresolved between Eira and Soren. Eira immediately rejected Bram, but multiple First Squad witnesses saw it. Whether Soren has already heard about the incident remains unestablished. Threshing has not yet occurred, and Eira has no dragon bond or signet.
