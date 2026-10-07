@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — official Gauntlet finish area
+Location: Basgiath War College — official Gauntlet finish area, moving away from First Squad's cluster
 Time: Later morning/early day, immediately after Soren Mair's successful Gauntlet run
 Default significance: charged
 
-Bram has put Eira back on her feet after carrying her over his shoulder to stop her anxious pacing at the Gauntlet edge. Soren approaches immediately after completing his own Gauntlet run and seeing the conspicuous horseplay. Relief that Eira is alive mixes with strong jealousy: Soren is visibly angry and possessive about finding Bram physically carrying Eira, especially because Bram's closeness has previously triggered his jealousy.
+Still intensely relieved, jealous and possessive after finding Bram carrying Eira, Soren abruptly turns the earlier joke back on First Squad: he lifts Eira and throws her over his own shoulder, then starts walking away from Mara, Nessa, Bram and the rest of Eira's gathered squad. Eira is surprised and protests verbally, but the moment remains playful relationship horseplay rather than an established attempt to override a serious refusal; Soren is carrying her away to steal private time after both survived the Gauntlet, not claiming authority over her movements.
 
-Soren does not claim authority over Eira or threaten Bram, but he makes no effort to disguise his feelings. He closes the distance to Eira, draws her into a tight reunion embrace and kisses her with intense relief and possessive affection, publicly reasserting the relationship through his own contact with her rather than ordering her away from Bram. His attention repeatedly cuts toward Bram, and the tension between the two men is visible. Eira remains mutually exclusive with Soren; Bram's physical horseplay does not constitute romantic reciprocation or a breach of that exclusivity.
+Mara and Nessa remain with First Squad and witness the conspicuous departure. Bram also witnesses it; the tension created by his growing personal attraction to Eira and Soren's jealousy remains unresolved. Soren's possessiveness is overt, but Eira remains an autonomous partner and can demand to be put down or choose where the interaction goes next.
 
 Eira, Soren, Mara, Nessa, Bram and additional unnamed survivors are alive and officially through the Gauntlet. Two unnamed First Squad first-years died earlier. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
