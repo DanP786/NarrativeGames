@@ -4,8 +4,8 @@ Location: Basgiath War College — edge of the official Gauntlet finish area, se
 Time: Later morning/early day, immediately after Soren Mair's successful Gauntlet run
 Default significance: charged
 
-Soren carries Eira far enough from First Squad to gain some space, then sets her down sitting on a broad rock rather than taking her somewhere truly private. He steps between her legs and kisses her again with intense relief and possessive affection. The location remains visible to passing and gathered cadets, and Soren makes no attempt to hide the relationship or moderate the public display simply because others may see it. The moment remains non-explicit intimacy between mutually exclusive partners.
+Soren and Eira remain together by the broad rock after their conspicuous reunion. With Soren standing between her legs and the jealousy over Bram finally receding beneath relief, Eira tells him, "We made it." The words land as acknowledgment that both of them survived Parapet, the first months of Basgiath and now the official Gauntlet, while also carrying the unspoken reality that Presentation and Threshing still lie ahead.
 
-Soren's jealousy over Bram remains present beneath the reunion, but his stronger immediate emotion is relief that both he and Eira survived the official Gauntlet. Eira remains autonomous and has not been isolated against her will; Soren's conspicuous affection is his own emotional response rather than a claim of authority over her.
+Soren answers from that same place of relief rather than making promises about what comes next. Their public affection remains non-explicit, and Soren continues not to care who sees them together. The moment is a temporary recognition of survival, not an assumption that either is safe from the next stage.
 
 Eira, Soren, Mara, Nessa, Bram and additional unnamed survivors are alive and officially through the Gauntlet. Two unnamed First Squad first-years died earlier. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
