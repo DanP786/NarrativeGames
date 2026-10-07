@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — official Gauntlet finish area, with surviving Flame Section First Squad cadets
-Time: Later morning/early day, while Soren Mair is away speaking with Xaden Riorson
-Default significance: routine
+Location: Basgiath War College — Presentation staging, approaching the dragons' review ground
+Time: Later on Gauntlet day, after hours of recovery and waiting
+Default significance: climactic
 
-After Teren Vale checks on his surviving first-years and moves away, Mara jokes that Vale should be added to Eira's "list of admirers." Eira laughs, slaps Mara's leg and tells her to stop because she is taken. Bram cuts into the banter with, "Mair made sure of that." The comment openly acknowledges how conspicuous Soren's jealous reunion and public affection were after he found Eira being carried by Bram.
+The hours after the official Gauntlet stretch through recovery, food, water, injury checks and waiting. Eventually the surviving first-years are called from their scattered groups and organized for Presentation. Flame Section, First Squad reforms under Teren Vale with Eira, Mara, Nessa, Bram, Kellan Roake, Joryn Pell and the other surviving first-years. Two unnamed First Squad first-years are absent because they died on the Gauntlet earlier that day.
 
-Mara and Eira remain comfortably close and platonic, with Eira still seated between Mara's legs. Nessa, Kellan Roake, Joryn Pell, Bram and additional survivors remain nearby. Bram's remark carries an edge because he is increasingly personally drawn to Eira and disapproves of her marked association, but he does not challenge Eira's stated exclusivity or claim entitlement to her. Eira has plainly identified herself to her squad as taken by Soren.
+Eira now approaches Presentation: the first formal exposure in which dragons inspect the surviving cadets ahead of Threshing. The atmosphere has changed from post-Gauntlet relief to controlled danger. Cadets are expected to present themselves without treating the dragons as spectacle, prey or tame animals; Eira has studied dragon behavior but remains an average rote student and has no special foreknowledge, dragon connection or supernatural recognition. Her official Gauntlet success does not grant her protection or special standing with dragons.
 
-Eira deliberately remains away from Soren's conversation with Xaden Riorson and has learned nothing from it. Eira, Soren, Mara, Nessa, Bram, Kellan, Joryn, Vale and additional unnamed survivors are alive. Two unnamed First Squad first-years died during the official Gauntlet. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
+Soren Mair is alive and officially through the Gauntlet, but the content of his earlier conversation with Xaden Riorson remains unknown to Eira because she deliberately stayed away rather than overhear it. Eira and Soren remain mutually exclusive partners. Presentation is beginning now; Threshing has not yet occurred, and Eira has no dragon bond or signet.
