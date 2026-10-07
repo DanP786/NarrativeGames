@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — path away from the Presentation survivor gathering
+Location: Basgiath War College — path between the healers' tent and the Presentation survivor gathering
 Time: Later on Gauntlet day, shortly after Eira is released by the healers
 Default significance: charged
 
-After the confrontation with Bram Auln, Soren Mair pulls away and storms onward, still carrying the anger of Bram's unsolicited kiss and subsequent false taunt. His stride is long enough that Eira, shorter and tired from Gauntlet, Presentation and treatment, has to break into an occasional jog to keep pace.
+Retcon authority: Soren and Eira do not reach Bram Auln or First Squad after Eira tells Soren that Bram kissed her. Any prior account of Soren punching Bram, Bram taunting him, or Eira slapping Bram is superseded and did not occur.
 
-Eira chooses to say aloud what she had only just privately realized: "I love you." This is the first time Eira has explicitly told Soren she loves him. Soren now knows her feelings because she has stated them directly; before this moment he did not have access to her private realization. The declaration interrupts the momentum of the argument and confrontation. Eira and Soren remain mutually exclusive, and the consequences of this first declaration are now the immediate focus of the scene.
+After Eira tells Soren, "Bram kissed me," Soren pulls away and storms toward the Presentation survivor gathering with the clear intention of confronting and punching Bram. His stride is long and furious enough that Eira, shorter and already exhausted from Gauntlet, Presentation and treatment, has to break into an occasional jog to keep up. Before they reach the squad or Bram, Eira chooses to say aloud what she had only just privately realized: "I love you." This is the first time Eira explicitly tells Soren she loves him. Soren now knows her feelings because she states them directly; before this moment he did not have access to her private realization. The declaration stops the confrontation before it reaches Bram, leaving Eira and Soren alone on the path with the words between them.
 
-Eira's dragonfire burns have been treated by Nolon. Eira and Soren have both completed Presentation alive. Bram remains behind with First Squad after Soren punched him once and Eira slapped him once; no further confrontation is established. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+Eira's dragonfire burns have been treated by Nolon. Eira and Soren have both completed Presentation alive. Bram remains with First Squad and has not been confronted by Soren since the unsolicited kiss. Threshing has not yet occurred, and Eira has no dragon bond or signet.
