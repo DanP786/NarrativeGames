@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — edge of the official Gauntlet finish area, separated somewhat from First Squad's cluster
-Time: Later morning/early day, immediately after Soren Mair's successful Gauntlet run
+Location: Basgiath War College — official Gauntlet finish area, with surviving Flame Section First Squad cadets
+Time: Later morning/early day, immediately after Soren Mair is called away by Xaden Riorson
 Default significance: charged
 
-Eira is still seated on the broad rock with Soren standing between her legs after teasing him about finally calling her his girlfriend. The playful mood ends abruptly when Xaden Riorson calls Soren over from elsewhere in the Gauntlet finish area. Eira immediately stops teasing; Riorson's intervention carries enough obvious weight within the Riders Quadrant and among marked cadets that she does not treat it as casual interruption.
+Eira watches Soren leave in response to Xaden Riorson's summons, then deliberately removes herself from any chance of overhearing the conversation. She hops down from the broad rock and walks back to the surviving First Squad cluster. This is a conscious application of the honesty boundary she and Soren established after their rupture: she does not need protected marked-cadet information and does not want to acquire it accidentally simply because Soren was called away within earshot.
 
-Soren acknowledges the summons and must decide how quickly to leave Eira and answer it. No content or purpose for Riorson's summons has yet been established, and Eira has not been given access to any protected marked-cadet information merely by witnessing the call. Soren and Eira remain mutually exclusive partners; his earlier jealousy over Bram is no longer the immediate focus.
+Mara, Nessa, Bram and additional unnamed First Squad survivors remain gathered at the Gauntlet finish area. They witnessed enough of Eira and Soren's conspicuous reunion and departure to know the pair are openly together, but Eira returns without inviting discussion of Riorson's summons. Bram's growing personal attraction to Eira and his unresolved tension with Soren remain present but unspoken.
 
 Eira, Soren, Mara, Nessa, Bram and additional unnamed survivors are alive and officially through the Gauntlet. Two unnamed First Squad first-years died earlier. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
