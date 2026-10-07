@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — Presentation grounds, walking the dragons' review line
+Location: Basgiath War College — Presentation grounds, near the end of the dragons' review line
 Time: Later on Gauntlet day, during Flame Section First Squad's Presentation
 Default significance: climactic
 
-Immediately before Eira begins Presentation, Teren Vale gives her a quiet, concise word of encouragement rather than another instruction. Eira then steps out first for Flame Section, First Squad and walks at an even, deliberate pace: neither rushing nor strolling, jaw set, gaze kept forward rather than meeting dragons' eyes. Chalk from the official Gauntlet still dusts her hands. As she walks, part of her mind fixes on Soren and the hope that she survives long enough to kiss him again.
+Eira continues at the head of Flame Section First Squad after surviving the earlier burst of dragonfire and can now see the end of the Presentation route. Before she reaches it, a large red dragon deliberately stomps close and slams a foot down beside her hard enough to shake the ground. Eira stops rather than stumbling onward, heart racing and breathing heavily through her nose. The red growls and lowers its head to Eira's level, bringing its teeth and one enormous eye close enough to dominate her field of vision.
 
-During the walk, a dragon suddenly sends a burst of flame across the route immediately in front of Eira. The heat is immense and Eira freezes instinctively, wanting to recoil or step backward, but she does neither. She holds her position without advancing into the fire, waits for the flames to die, deliberately counts to ten, then resumes the same controlled forward pace. She does not interpret the dragon's action as a bond, special interest or supernatural sign; it is a lethal encounter during Presentation and she responds by controlling her own movement.
+Eira recognizes the encounter as a test of nerve but does not presume to know the dragon's private intent beyond its observable behavior. She refuses both panic and direct challenge: rather than sharply averting her gaze, she carefully adjusts her focus so she is looking ahead without meeting the dragon's eye. She holds position until the red withdraws. Once it does, Eira again deliberately waits and counts ten seconds before resuming her walk, using the same controlled reset she used after the burst of flame.
 
-The rest of surviving First Squad remains spaced behind her in Presentation order. Eira is alive and continuing the Presentation walk with no new established injury. Soren Mair is alive elsewhere among the surviving cadets. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+The rest of surviving First Squad remains spaced behind her in Presentation order and must make its own passage. Eira is alive, has no newly established injury, and is close to completing Presentation. Soren Mair remains alive elsewhere among the surviving cadets. Threshing has not yet occurred, and Eira has no dragon bond or signet.
