@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — Presentation grounds, head of Flame Section First Squad's line
-Time: Later on Gauntlet day, at the start of Presentation
+Location: Basgiath War College — Presentation grounds, walking the dragons' review line
+Time: Later on Gauntlet day, during Flame Section First Squad's Presentation
 Default significance: climactic
 
-Flame Section, First Squad is ordered up first for Presentation, as it was for the official Gauntlet. Teren Vale again puts Eira Vaughan at the front of his squad. Eira glares at him and hisses, "Are you trying to get me killed?" but takes the assigned lead position. Vale does not treat the placement as a joke or a death sentence; Eira is simply first in the ordered squad line again.
+Immediately before Eira begins Presentation, Teren Vale gives her a quiet, concise word of encouragement rather than another instruction. Eira then steps out first for Flame Section, First Squad and walks at an even, deliberate pace: neither rushing nor strolling, jaw set, gaze kept forward rather than meeting dragons' eyes. Chalk from the official Gauntlet still dusts her hands. As she walks, part of her mind fixes on Soren and the hope that she survives long enough to kiss him again.
 
-The surviving First Squad cadets are positioned approximately ten feet apart behind Eira. Mara, Nessa, Bram, Kellan Roake, Joryn Pell and the other surviving first-years remain in the line; two unnamed squad first-years died earlier on the Gauntlet. Eira can see multiple dragons of varying colors and sizes assembled for Presentation. She sets her jaw, fixes her gaze ahead rather than making direct eye contact with the dragons, and waits for the formal instruction to begin walking. She has no special dragon knowledge, bond, recognition or protection.
+During the walk, a dragon suddenly sends a burst of flame across the route immediately in front of Eira. The heat is immense and Eira freezes instinctively, wanting to recoil or step backward, but she does neither. She holds her position without advancing into the fire, waits for the flames to die, deliberately counts to ten, then resumes the same controlled forward pace. She does not interpret the dragon's action as a bond, special interest or supernatural sign; it is a lethal encounter during Presentation and she responds by controlling her own movement.
 
-Eira is alive and officially through the Gauntlet with no major injury, though her shoulders and arms remain fatigued from the course. Soren Mair is alive and through the Gauntlet elsewhere among the surviving cadets. Presentation has begun, Threshing has not yet occurred, and Eira has no dragon bond or signet.
+The rest of surviving First Squad remains spaced behind her in Presentation order. Eira is alive and continuing the Presentation walk with no new established injury. Soren Mair is alive elsewhere among the surviving cadets. Threshing has not yet occurred, and Eira has no dragon bond or signet.
