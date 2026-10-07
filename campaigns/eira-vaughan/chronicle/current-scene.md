@@ -1,11 +1,11 @@
 # Current scene
 
-Location: Basgiath War College — outside the healers' tent near the Presentation grounds
+Location: Basgiath War College — route from the healers' tent toward the Presentation survivors
 Time: Later on Gauntlet day, shortly after Eira is released by the healers
 Default significance: charged
 
-After kissing Soren Mair in tearful relief that they both survived the Gauntlet and Presentation, Eira wipes her eyes and looks up at him. In that quiet moment she privately realizes that her attachment has crossed into love: she has fallen for Soren. She does not say this realization aloud, so Soren does not know it merely from her thoughts or expression.
+After Eira tells Soren Mair that Bram Auln kissed her, Soren pulls away and immediately starts walking toward the area where Bram remains with surviving First Squad cadets. He does not summon or display any supernatural storm or weather effect; his reaction is physical anger and purposeful movement only. Soren knows only that Eira said Bram kissed her; Eira has not yet supplied the fuller context aloud in this exchange that Bram initiated the kiss without permission and that she immediately rejected him.
 
-Instead, with characteristically self-sabotaging timing, Eira tells Soren plainly, "Bram kissed me." This is the first established moment Soren learns about Bram Auln's unsolicited kiss. Soren already has a pronounced jealous/possessive reaction to Bram based on earlier interactions, but he also knows that possessiveness does not grant him authority over Eira. Eira had immediately rejected Bram's kiss; whether she gives Soren that context before he reacts is not yet established.
+Eira follows. Soren's longer stride and angry pace are enough that, at 161 cm / 5'3", Eira cannot comfortably keep alongside him at an ordinary walk and has to break into occasional short jogs to keep up. Her dragonfire burns have been treated by Nolon, but she remains fatigued from the Gauntlet, Presentation and the day's accumulated exertion. Bram remains ahead with First Squad, unaware on-screen that Soren has now learned about the kiss.
 
-Eira's dragonfire burns have been treated by Nolon and she has hydrated enough to be released. Both Eira and Soren have completed Presentation alive. Most of surviving First Squad also completed Presentation. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+Eira has privately realized she has fallen for Soren, but has not told him. Both Eira and Soren have completed Presentation alive. Threshing has not yet occurred, and Eira has no dragon bond or signet.
