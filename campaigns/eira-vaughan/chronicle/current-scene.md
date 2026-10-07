@@ -1,11 +1,9 @@
 # Current scene
 
 Location: Basgiath War College — top of the official Gauntlet
-Time: Morning, immediately after Eira's official Gauntlet attempt
-Default significance: climactic
+Time: Morning, minutes after Eira's official Gauntlet completion
+Default significance: charged
 
-Eira completes the official Gauntlet as the first runner of the remaining cohort. Before the final obstacle she deliberately takes a potentially valuable rest, fixes her eyes on the top edge she needs to reach, checks her boots, chalks her hands, stretches and allows her breathing to settle rather than rushing from fatigue or pressure.
+After Eira clears the final lip, cheering rises from the cadets below. She remains down on the stone for several minutes rather than forcing herself immediately upright, allowing her breathing to settle and her badly fatigued shoulders and arms to recover enough to function. The reaction below reflects that the first official runner has successfully completed the course; no claim is established that every individual present is cheering specifically for Eira.
 
-On the final running jump, Eira generates enough momentum and uses her strong legs to drive high up the ramp. She reaches the top edge and catches it with both hands, but her fatigued shoulders nearly fail during the final pull. She scrambles rather than moving elegantly, finds additional purchase and gets herself up and over the lip. The completion is earned through preparation, lower-body power, improved grip/upper-body conditioning and persistence; it does not erase her continuing relative weakness in raw upper-body strength. No major new injury is established, though her shoulders and arms are heavily fatigued and shaking from the effort.
-
-Eira is now officially through the Gauntlet. Presentation and Threshing have not yet occurred; no dragon bond or signet is established.
+When Eira finally begins to rise, an unnamed second-year stationed at the top offers a forearm and helps haul her the rest of the way upright. Eira accepts the practical assistance. She is exhausted and her upper body is still trembling, but no major new injury is established. She remains the first completed runner; the rest of the cohort's Gauntlet attempts are still to follow. Presentation and Threshing have not yet occurred, and no dragon bond or signet is established.
