@@ -33,3 +33,5 @@ Mara says she thinks she moves into company accommodation tonight. Nessa, who kn
 Mara asks how Axiom chooses employee food. Nessa explains the ordinary understanding: baseline health data, activity, body composition, blood markers, preferences and performance goals feed the wellness system, which continually adjusts meals; she notes that employees are rarely shown the detailed weighting behind those decisions.
 
 Mara mentions receiving supplements with breakfast. Nessa treats supplementation as ordinary Axiom practice and says targeted tablets are commonly used when they are simpler than redesigning a whole meal plan, leaving Mara's specific folate allocation unexplained.
+
+Mara identifies the supplements as folate and vitamin D while beginning her lunch. Nessa recognises vitamin D as routine but pauses briefly at folate, then avoids pretending expertise and suggests Mara's Wellness record should state the official reason if she wants to check it.
