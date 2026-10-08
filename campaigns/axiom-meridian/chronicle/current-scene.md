@@ -21,3 +21,5 @@ Mara follows the guidance line to workstation C-17. The desk authenticates her a
 Mara opens her first case and quickly identifies that a worker's apparent attendance violation was created by a delayed transit record rather than an actual late arrival. She corrects the discrepancy successfully, beginning her first real work at Axiom Meridian.
 
 Mara works steadily through the rest of the morning, resolving a succession of administrative discrepancies with strong accuracy. At midday her workstation locks for her scheduled meal period and directs her to collect her personalised lunch.
+
+Mara wants to speak to one of the other employees leaving for lunch but her shyness wins out, so she follows the group downstairs without initiating conversation and collects her assigned meal.
