@@ -15,3 +15,5 @@ Mara eats the complete allocated breakfast alone and finds it genuinely good. Th
 Mara crosses the central campus toward Operations Integrity on Level 31, observing the stark difference between ordinary employees, higher-tier staff and the extensive unobtrusive monitoring built into the workplace.
 
 Mara slows on entering Operations Integrity, uncertain where to report. The workplace guidance system detects her hesitation and immediately provides a floor route to Junior Assignment Group C, workstation C-17.
+
+Mara follows the guidance line to workstation C-17. The desk authenticates her automatically and presents her first Operations Integrity task: reviewing discrepancies the automated system has flagged but declined to resolve without human confirmation.
