@@ -59,3 +59,5 @@ Mara dismisses the folate entry and opens her activity requirement, joking aloud
 Mara accepts the offer of guidance. The Wellness system recommends a brisk walk, a guided low-impact cardio session in the apartment, or use of the building fitness room as straightforward ways to satisfy her twenty-four-minute moderate-activity target; it notes that other activity can qualify automatically if her biometrics remain within the target range long enough.
 
 Mara nervously acknowledges the apartment's explanation and selects residential calibration. The system begins first-night setup by directing her to move naturally through the apartment while it establishes environmental, gait and resting-biometric baselines before proceeding to bedroom sleep calibration.
+
+Mara enters the bedroom for sleep calibration. The system asks her to lie on the bed in the position she would ordinarily use for sleep so the mattress and room sensors can establish pressure, posture, respiration and resting-heart-rate baselines.
