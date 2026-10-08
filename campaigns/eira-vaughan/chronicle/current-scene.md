@@ -1,6 +1,6 @@
 # Current scene
 
-Location: Basgiath — post-Threshing return area near flight field/healer tent
+Location: Basgiath — post-Threshing return/registration area near flight field
 Time: Threshing Day, after Eira's bond and return from valley; exact clock time unestablished
 Default significance: charged
 
@@ -12,6 +12,6 @@ Eira is formally registered as bonded to Niebhe, female brown Daggertail, age 49
 
 Bram Auln is bonded to Veyrath, a very large female forest-green dragon; tail type, age, lineage and deeper history remain unestablished. Bram has personally seen Nessa Tor, Kellan Roake, Joryn Pell, and Teren Vale back alive.
 
-Mara Venn has now returned alive from Threshing, bonded to a large orange dragon. Orange dragon's name, sex, tail type, age, lineage and personality are not yet established. Mara arrives by air on the orange while Eira and Bram are seated watching the return field. Eira recognizes Mara first; Bram immediately stands in visible relief. Mara dismounts successfully and is alive/mobile; exact injuries, if any, are not yet established. Mara last saw Eira after the rock shelf collapse when Eira fell to the lower level; she does not know what happened to Eira afterward. Eira had heard Mara call that she was fine before they fully separated.
+Mara Venn returned alive from Threshing on a large orange dragon. She initially started toward Eira and Bram in obvious relief, then abruptly remembered/was prompted by procedure and turned to register her bond first. She completes registration before returning to Eira. The orange dragon's name is now established as **Solas**, male; tail type, age, lineage and deeper personality/history remain unestablished. Mara is alive/mobile; exact injuries, if any, remain unestablished. Mara last saw Eira after the rock shelf collapse when Eira fell to the lower level and does not know what happened to Eira afterward.
 
-Eira and Bram had been seated on a low stone edge, Eira leaning against Bram for practical support. Mara's return resolves one of the two people Eira was waiting for. Soren Mair remains unaccounted for from Eira's perspective; Bram has not seen him return.
+Eira remains seated near the return field with Bram, watching Mara register and continuing to scan arriving dragons. Mara's safe return resolves one concern. Soren Mair remains unaccounted for from Eira's perspective; Bram has not seen him return.
