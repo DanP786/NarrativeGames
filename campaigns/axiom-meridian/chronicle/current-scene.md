@@ -67,3 +67,5 @@ Mara removes her shoes and settles comfortably onto the bed. The mattress subtly
 Mara sits up after the sleep-environment calibration. The system begins the final personal-routine section, asking whether she wants automatic wake timing, morning preparation prompts and bathroom wellness monitoring enabled at the recommended level.
 
 Mara agrees to the recommended routine settings after asking whether they can be changed later. The system confirms that adjustable preferences can be changed through Residential Settings, while noting that monitoring required under active employee-health provisions cannot be disabled there; all three recommended settings are enabled and first-night residential calibration completes.
+
+Mara opens the wardrobe and finds Axiom has provisioned a small starter set of clothing in her size: standard workwear matching what she saw employees wearing on campus, simple casual clothes and activewear. She changes into the activewear in preparation for completing her remaining activity requirement.
