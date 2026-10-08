@@ -1,6 +1,6 @@
 # Current scene
 
-Location: Basgiath — leaving post-Threshing registration field toward Riders quarters
+Location: Basgiath — entrance to Riders quarters, en route to bathing facilities
 Time: Threshing Day, after return; exact clock time unestablished
 Default significance: routine
 
@@ -10,4 +10,4 @@ Three male first-years attempted sexual assault after ambushing injured Eira; no
 
 Bonds: Eira–Niebhe, female brown Daggertail age 49 Rynonian; Soren–Rhovan, large stern male blue Swordtail, age/lineage unknown; Bram–Veyrath, very large female forest-green; Mara–Solas, large male orange. Greatsword visualization not canonical.
 
-After reunion, Eira told Soren she cannot party again tonight. Soren offered a quiet evening, food and rest in his room if she wants. Eira answered 'Definitely.' Soren gently helps her stand, supports her pace, and they head to tell Mara/Bram they are leaving, without sharing private assault details. Plan: simple food, quiet night in Soren's room, no party. Scene transitions toward Riders quarters; do not skip Eira's consequential choices.
+Eira and Soren left registration field after telling Mara/Bram they were skipping festivities. At Riders quarters Soren joked about food, Eira stealing his bed/shirts/dignity. Eira scoffed, 'can I bathe first at least?' Soren agrees immediately, jokes about mud, and offers to fetch clean clothes and food while Eira bathes, or help if requested; mindful of injury, bandages, and her autonomy. They have not yet bathed or eaten.
