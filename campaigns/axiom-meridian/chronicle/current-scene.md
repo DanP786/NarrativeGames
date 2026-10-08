@@ -73,3 +73,5 @@ Mara opens the wardrobe and finds Axiom has provisioned a small starter set of c
 Mara chooses the residential fitness room. Her handset supplies a route through the building and reserves an available exercise station against her employee identity, ready to load a personalised twenty-four-minute session when she arrives.
 
 Mara exercises for the first time since leaving school. The cardio station automatically moderates resistance to keep her within her prescribed heart-rate range. She completes the twenty-four-minute activity requirement, breathless and sweaty but uninjured; the system logs compliance and recommends water and recovery.
+
+Mara drinks the prescribed 350 millilitres of water, returns to her apartment and takes a warm shower. The bathroom's enabled wellness monitoring records routine physiological data without interrupting her; afterward the residence indicates her evening meal is ready.
