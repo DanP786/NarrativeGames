@@ -49,3 +49,5 @@ Mara completes her first afternoon shift with continued strong accuracy in discr
 Mara follows the route out of Operations Integrity, offering tired, half-hearted good nights to coworkers on the way. Nessa returns the farewell warmly before Mara continues alone toward the employee transport bay.
 
 Mara takes the waiting driverless Axiom car to her assigned residence and enters her new company apartment. The furnished one-bedroom is clean, comfortable and already stocked for her; the residential system welcomes her and announces that calibration is ready to begin.
+
+Mara asks the apartment how to access Wellness. The residential assistant directs her to her handset's Axiom employee portal, where the Wellness section opens with her current health status, meal compliance, supplements and first-night residential calibration.
