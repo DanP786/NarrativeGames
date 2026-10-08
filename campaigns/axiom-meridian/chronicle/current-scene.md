@@ -65,3 +65,5 @@ Mara enters the bedroom for sleep calibration. The system asks her to lie on the
 Mara removes her shoes and settles comfortably onto the bed. The mattress subtly adjusts beneath her while the residential system begins measuring her resting posture, respiration and cardiovascular baseline.
 
 Mara sits up after the sleep-environment calibration. The system begins the final personal-routine section, asking whether she wants automatic wake timing, morning preparation prompts and bathroom wellness monitoring enabled at the recommended level.
+
+Mara agrees to the recommended routine settings after asking whether they can be changed later. The system confirms that adjustable preferences can be changed through Residential Settings, while noting that monitoring required under active employee-health provisions cannot be disabled there; all three recommended settings are enabled and first-night residential calibration completes.
