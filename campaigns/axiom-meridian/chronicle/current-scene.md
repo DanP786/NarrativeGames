@@ -45,3 +45,5 @@ Mara observes that a human employer probably would not care as much about employ
 Mara smiles at Nessa's joke as they return together from lunch to Operations Integrity. Back at C-17, Mara's workstation resumes her afternoon discrepancy queue while the system confirms her meal compliance.
 
 Mara completes her first afternoon shift with continued strong accuracy in discrepancy review. At the scheduled end of work, C-17 closes her queue and releases her for the day; her handset presents her assigned Axiom residence and directs her toward company transport for move-in.
+
+Mara follows the route out of Operations Integrity, offering tired, half-hearted good nights to coworkers on the way. Nessa returns the farewell warmly before Mara continues alone toward the employee transport bay.
