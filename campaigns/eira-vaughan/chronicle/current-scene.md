@@ -10,4 +10,4 @@ Very large deep forest-green dragon with emerald highlights, golden eyes, emerge
 
 Lore correction authority: Prior narration of this green dragon speaking aloud ('Three... Which of you believes you are worth my time?') is RETCONNED and DID NOT HAPPEN. Empyrean dragons communicate telepathically only with a bonded rider / one they choose to bond with, not aloud to unbonded cadets. Maintain this rule henceforth.
 
-Do not prematurely identify dragon as Eira's destined dragon; future GM-only Niebhe is brown female, distinct from this green dragon.
+OOC player authorization: GM may choose whether green dragon bonds with Mara or Bram, rejects trio, or moves on; do not bond green dragon with Eira. Eira's eventual dragon is brown (GM-only Niebhe), but do not foreshadow or guarantee Eira's survival in scene. Let dragon decision emerge through behavior, with danger and agency intact.
