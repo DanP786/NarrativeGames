@@ -17,3 +17,5 @@ Mara crosses the central campus toward Operations Integrity on Level 31, observi
 Mara slows on entering Operations Integrity, uncertain where to report. The workplace guidance system detects her hesitation and immediately provides a floor route to Junior Assignment Group C, workstation C-17.
 
 Mara follows the guidance line to workstation C-17. The desk authenticates her automatically and presents her first Operations Integrity task: reviewing discrepancies the automated system has flagged but declined to resolve without human confirmation.
+
+Mara opens her first case and quickly identifies that a worker's apparent attendance violation was created by a delayed transit record rather than an actual late arrival. She corrects the discrepancy successfully, beginning her first real work at Axiom Meridian.
