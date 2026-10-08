@@ -13,3 +13,5 @@ Mara follows her handset to the employee dining hall. Her credential automatical
 Mara eats the complete allocated breakfast alone and finds it genuinely good. The dining system records full nutrition and hydration compliance and directs her toward her first departmental assignment.
 
 Mara crosses the central campus toward Operations Integrity on Level 31, observing the stark difference between ordinary employees, higher-tier staff and the extensive unobtrusive monitoring built into the workplace.
+
+Mara slows on entering Operations Integrity, uncertain where to report. The workplace guidance system detects her hesitation and immediately provides a floor route to Junior Assignment Group C, workstation C-17.
