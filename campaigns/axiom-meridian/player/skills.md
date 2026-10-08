@@ -4,7 +4,7 @@
 - None
 
 ## Adept
-- Administrative Analysis (0 ticks) — excellent at finding discrepancies, patterns and procedural errors in ordinary administrative information.
+- Administrative Analysis (1 tick) — excellent at finding discrepancies, patterns and procedural errors in ordinary administrative information.
 
 ## Novice
 - Social Reading (0 ticks) — reasonably good at reading observable tone, hierarchy and discomfort.
