@@ -29,3 +29,5 @@ Mara asks to join three Operations Integrity employees at lunch. Nessa Vale, an 
 Mara confirms that she spent the morning on discrepancy review and admits she liked the work. Nessa responds warmly and begins drawing Mara into ordinary coworker conversation about first-day performance and corporate housing.
 
 Mara says she thinks she moves into company accommodation tonight. Nessa, who knows the ordinary employee-housing routine, tells her the assignment usually appears near the end of the shift and advises her not to worry if Axiom has already arranged practical details she expected to handle herself.
+
+Mara asks how Axiom chooses employee food. Nessa explains the ordinary understanding: baseline health data, activity, body composition, blood markers, preferences and performance goals feed the wellness system, which continually adjusts meals; she notes that employees are rarely shown the detailed weighting behind those decisions.
