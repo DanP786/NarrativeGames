@@ -41,3 +41,5 @@ Mara asks how long Nessa has worked at Axiom. Nessa says she has been in Operati
 Mara tells Nessa she came directly from her family home because finding decent work had been difficult. Nessa relates to the financial pressure and tells Mara that Axiom employment materially changed her own standard of living, reinforcing why employees tolerate the company's extensive control.
 
 Mara observes that a human employer probably would not care as much about employee wellbeing. Nessa agrees that Axiom's systems provide materially better care than employers she has known, while distinguishing that care from affection: Axiom benefits when employees remain healthy and useful, and the employee benefits too.
+
+Mara smiles at Nessa's joke as they return together from lunch to Operations Integrity. Back at C-17, Mara's workstation resumes her afternoon discrepancy queue while the system confirms her meal compliance.

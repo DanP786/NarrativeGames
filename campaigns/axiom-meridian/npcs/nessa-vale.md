@@ -25,4 +25,4 @@ Public tag: Friendly
 Hidden disposition: +3
 
 ## Current state
-Having lunch with Mara and two coworkers in Employee Dining. She has welcomed Mara into the conversation and is answering her questions about ordinary life at Axiom.
+Lunch has ended. Nessa has returned with Mara to Operations Integrity after a friendly first conversation and resumes her own afternoon work in Assignment Group C.
