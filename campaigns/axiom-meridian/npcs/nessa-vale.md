@@ -7,10 +7,10 @@ Junior analyst in Operations Integrity, Assignment Group C at Axiom Meridian. Sh
 Quick-moving, sociable and openly conversational by the standards of the quiet corporate floor. Speaks before silence becomes awkward and tends to make room for newcomers rather than waiting for them to prove themselves.
 
 ## First impression of Mara
-A shy new colleague who has made an effort to approach the table. Nessa responds positively to the effort.
+A shy new colleague who has made an effort to approach the table. Nessa responds positively to the effort and recognises some of her own pre-Axiom financial insecurity in Mara's situation.
 
 ## Knowledge
-Nessa knows the ordinary routines and culture of Operations Integrity from eleven months of employment and has firsthand experience of Axiom corporate housing. She has no knowledge of Mara's private thoughts, hidden reproductive-system marker, or anything in Mara's records she has not been shown.
+Nessa knows the ordinary routines and culture of Operations Integrity from eleven months of employment and has firsthand experience of Axiom corporate housing. Mara has told her that she came directly from her family home because finding decent employment had been difficult. Nessa has no knowledge of Mara's private thoughts, hidden reproductive-system marker, or anything in Mara's records she has not been shown.
 
 ## Goals
 - Keep work socially tolerable by maintaining a small circle of coworkers.
@@ -22,7 +22,7 @@ Friendly questions, quick humour, casual practical advice and direct invitations
 
 ## Disposition
 Public tag: Friendly
-Hidden disposition: +2
+Hidden disposition: +3
 
 ## Current state
 Having lunch with Mara and two coworkers in Employee Dining. She has welcomed Mara into the conversation and is answering her questions about ordinary life at Axiom.

@@ -37,3 +37,5 @@ Mara mentions receiving supplements with breakfast. Nessa treats supplementation
 Mara identifies the supplements as folate and vitamin D while beginning her lunch. Nessa recognises vitamin D as routine but pauses briefly at folate, then avoids pretending expertise and suggests Mara's Wellness record should state the official reason if she wants to check it.
 
 Mara asks how long Nessa has worked at Axiom. Nessa says she has been in Operations Integrity for eleven months, long enough to have settled into corporate housing and routine but still junior enough to remember her own first day clearly.
+
+Mara tells Nessa she came directly from her family home because finding decent work had been difficult. Nessa relates to the financial pressure and tells Mara that Axiom employment materially changed her own standard of living, reinforcing why employees tolerate the company's extensive control.
