@@ -1,15 +1,11 @@
 # Current scene
 
 Location: Threshing valley, wooded route at foot of rocky rise
-Time: Threshing Day, shortly after cadets enter the valley
+Time: Threshing Day, shortly after cadets enter valley
 Default significance: charged
 
-Retcon authority: Soren did not punch or physically confront Bram after the unsolicited kiss. Eira stopped Soren by declaring love twice. Soren reciprocated. Later during the post-Presentation celebration Soren and Bram spoke calmly: Bram admitted crossing a boundary and promised not to repeat it; Soren asked him to act as Eira's squadmate, not as a suitor. No blows exchanged.
+Canon retcon: Soren did not punch Bram. Eira declared love to stop him; Soren reciprocated. Later post-Presentation celebration Soren and Bram talked without violence, Bram acknowledging unsolicited kiss was wrong and promising not to repeat it. Eira and Mara overheard. Eira and Soren publicly together, mutually in love; Mara close platonic friend. Eira spent night cuddling with Soren, morning intimate; both in full leathers before Threshing. Eira saved leathers for today, ponytail, tomahawk at hip. Eira said 'Don't die' on parting; Soren answered 'You either, Vaughan.'
 
-Post-Presentation evening: Eira and Soren publicly together and mutually in love; Eira and Mara eavesdropped on Soren/Bram, were caught; Mara learned of their love declarations and confided she sometimes hooks up casually with Dresden. Eira and Soren spent the night in his room cuddling and sleeping; Soren said he recognized love at reconciliation and Eira said she recognized it during Presentation. Morning of Threshing they shared intimate time before Eira returned to her room.
+First Squad dispersed in Threshing valley, where no-killing-squadmates rule no longer applies. Eira and Mara travel together. Bram followed, admitted it and offered to leave. Eira said 'Fine, but don't act like a lovesick puppy. I doubt dragons will find that endearing.' Bram accepted and stayed as squadmate, walking several paces behind, watching rear. The three moved along wooded slope, Eira and Mara ahead, Bram behind. Loud cracking ahead: young tree bent violently, heavy breath and scraping against stone; shadowy dark-scaled enormous creature partly visible behind pine branches. Wind blows from cadets toward it. All three stopped, aware it may be a nearby dragon. Await Eira's decision.
 
-Eira deliberately saved her full flight leathers for Threshing, tied shoulder-length auburn/honey-blonde hair in ponytail, secured tomahawk at hip. Roommate Lysa returned hungover from celebration. Eira and Soren met fully equipped before Threshing, confessed love again, joked that falling in love amid lethal training was terrible planning but neither would change it. As she left Eira said 'Don't die'; Soren answered 'You either, Vaughan.'
-
-First Squad assembled; Vale checked equipment. On entering Threshing valley, most squadmates dispersed separately; squadmate killing prohibition no longer applies here. No cadet-on-cadet killing witnessed in immediate group. Eira and Mara chose to travel together along a wooded route at the base of a rocky rise. Bram followed them deliberately. Eira asked 'What are you doing?' Bram said three sets of eyes better than two, acknowledged he followed them and told Eira he is here as a squadmate, nothing else, remembering Soren's conversation. He offers to leave if Eira wants. Await Eira's answer.
-
-Threshing underway. No dragon bond or signet yet. No dragon has directly approached this trio. Preserve danger and player agency.
+Threshing ongoing; no bond or signet. No cadet-on-cadet violence witnessed by trio so far.
