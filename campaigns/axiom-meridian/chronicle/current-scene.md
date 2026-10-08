@@ -63,3 +63,5 @@ Mara nervously acknowledges the apartment's explanation and selects residential 
 Mara enters the bedroom for sleep calibration. The system asks her to lie on the bed in the position she would ordinarily use for sleep so the mattress and room sensors can establish pressure, posture, respiration and resting-heart-rate baselines.
 
 Mara removes her shoes and settles comfortably onto the bed. The mattress subtly adjusts beneath her while the residential system begins measuring her resting posture, respiration and cardiovascular baseline.
+
+Mara sits up after the sleep-environment calibration. The system begins the final personal-routine section, asking whether she wants automatic wake timing, morning preparation prompts and bathroom wellness monitoring enabled at the recommended level.
