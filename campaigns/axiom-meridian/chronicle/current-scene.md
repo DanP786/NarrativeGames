@@ -71,3 +71,5 @@ Mara agrees to the recommended routine settings after asking whether they can be
 Mara opens the wardrobe and finds Axiom has provisioned a small starter set of clothing in her size: standard workwear matching what she saw employees wearing on campus, simple casual clothes and activewear. She changes into the activewear in preparation for completing her remaining activity requirement.
 
 Mara chooses the residential fitness room. Her handset supplies a route through the building and reserves an available exercise station against her employee identity, ready to load a personalised twenty-four-minute session when she arrives.
+
+Mara exercises for the first time since leaving school. The cardio station automatically moderates resistance to keep her within her prescribed heart-rate range. She completes the twenty-four-minute activity requirement, breathless and sweaty but uninjured; the system logs compliance and recommends water and recovery.
