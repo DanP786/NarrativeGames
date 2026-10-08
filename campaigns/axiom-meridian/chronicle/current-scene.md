@@ -53,3 +53,5 @@ Mara takes the waiting driverless Axiom car to her assigned residence and enters
 Mara asks the apartment how to access Wellness. The residential assistant directs her to her handset's Axiom employee portal, where the Wellness section opens with her current health status, meal compliance, supplements and first-night residential calibration.
 
 Mara opens the supplement details. Vitamin D is listed as routine seasonal maintenance; folate is listed as preventative reproductive-health support based on her baseline profile, with no diagnosis or deficiency shown and no further explanation of the system's weighting.
+
+Mara dismisses the folate entry and opens her activity requirement, joking aloud about whether sex counts as activity. The apartment's always-available voice interface treats the spoken remark as a query and answers that consensual sexual activity can contribute to general activity metrics but does not substitute for prescribed exercise unless the Wellness system records sufficient cardiovascular load and duration.
