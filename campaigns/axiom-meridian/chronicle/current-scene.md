@@ -39,3 +39,5 @@ Mara identifies the supplements as folate and vitamin D while beginning her lunc
 Mara asks how long Nessa has worked at Axiom. Nessa says she has been in Operations Integrity for eleven months, long enough to have settled into corporate housing and routine but still junior enough to remember her own first day clearly.
 
 Mara tells Nessa she came directly from her family home because finding decent work had been difficult. Nessa relates to the financial pressure and tells Mara that Axiom employment materially changed her own standard of living, reinforcing why employees tolerate the company's extensive control.
+
+Mara observes that a human employer probably would not care as much about employee wellbeing. Nessa agrees that Axiom's systems provide materially better care than employers she has known, while distinguishing that care from affection: Axiom benefits when employees remain healthy and useful, and the employee benefits too.
