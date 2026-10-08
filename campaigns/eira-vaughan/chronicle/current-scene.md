@@ -1,6 +1,6 @@
 # Current scene
 
-Location: Basgiath — outside post-Threshing healer tent near flight field
+Location: Basgiath — post-Threshing return area near flight field/healer tent
 Time: Threshing Day, after Eira's bond and return from valley; exact clock time unestablished
 Default significance: charged
 
@@ -10,6 +10,6 @@ Three unfamiliar male first-years ambushed Eira and escalated to attempted sexua
 
 Eira is formally registered as bonded to Niebhe, female brown Daggertail, age 49, Rynonian lineage. Niebhe is patient, calculating, proud, dry and attentive to Eira's injuries. No signet manifested. Prior rider history unrevealed.
 
-Bram Auln is bonded to a very large female forest-green dragon; dragon name/tail remain unestablished. After Eira leaves the healer tent mostly patched up, Bram reports which known people he has personally seen back at Basgiath rather than claiming a complete casualty/bond roster. Bram has seen Nessa Tor, Kellan Roake, and Joryn Pell back alive; their bond statuses/dragon details remain unestablished unless separately confirmed. Teren Vale is also alive/present in the return area as squad leader. Bram has NOT seen Mara Venn back yet. He has not personally seen Soren Mair back and therefore cannot reassure Eira about Soren. Mara was alive/well when Eira and Mara separated after the rock collapse. Current Mara and Soren Threshing outcomes remain unknown to Eira.
+Bram Auln is bonded to a very large female forest-green dragon; dragon name/tail remain unestablished. Bram has personally seen Nessa Tor, Kellan Roake, Joryn Pell, and Teren Vale back alive. He has not seen Mara Venn or Soren Mair return; their Threshing outcomes remain unknown to Eira.
 
-Eira rolled her eyes at healer/Niebhe injury warnings, accepted being patched up, and left the tent with Bram. Bram is relieved Eira survived but worried about the still-unaccounted-for Mara and, recognizing Eira's concern, gives her the survivor information plainly.
+While Eira and Bram scan the incoming dragons for Mara and Soren, Bram notices Eira continuing to stand on her injured hip and tells her firmly to sit. Eira complies without arguing. Bram helps lower her to a low stone edge/bench near the return field, bracing her with an arm so she does not jar her hip/ribs. Once seated Eira leans against Bram for physical support while they continue watching the returning dragons. Bram accepts the contact quietly as practical squadmate support and does not turn it into a romantic advance. Niebhe approves of Eira finally resting. Mara and Soren remain unaccounted for from Eira's perspective.
