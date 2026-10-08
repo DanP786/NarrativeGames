@@ -27,3 +27,5 @@ Mara wants to speak to one of the other employees leaving for lunch but her shyn
 Mara asks to join three Operations Integrity employees at lunch. Nessa Vale, an energetic junior analyst from Group C, immediately welcomes her into the empty seat and introduces herself, giving Mara her first direct social contact inside Axiom Meridian.
 
 Mara confirms that she spent the morning on discrepancy review and admits she liked the work. Nessa responds warmly and begins drawing Mara into ordinary coworker conversation about first-day performance and corporate housing.
+
+Mara says she thinks she moves into company accommodation tonight. Nessa, who knows the ordinary employee-housing routine, tells her the assignment usually appears near the end of the shift and advises her not to worry if Axiom has already arranged practical details she expected to handle herself.
