@@ -11,3 +11,5 @@ Mara enters Induction Suite 4 with the other new hires. The induction system beg
 Mara follows her handset to the employee dining hall. Her credential automatically releases a personalised breakfast selected from her health baseline, and the table system monitors consumption against the required portion.
 
 Mara eats the complete allocated breakfast alone and finds it genuinely good. The dining system records full nutrition and hydration compliance and directs her toward her first departmental assignment.
+
+Mara crosses the central campus toward Operations Integrity on Level 31, observing the stark difference between ordinary employees, higher-tier staff and the extensive unobtrusive monitoring built into the workplace.
