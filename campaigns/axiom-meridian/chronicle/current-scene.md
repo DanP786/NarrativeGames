@@ -23,3 +23,5 @@ Mara opens her first case and quickly identifies that a worker's apparent attend
 Mara works steadily through the rest of the morning, resolving a succession of administrative discrepancies with strong accuracy. At midday her workstation locks for her scheduled meal period and directs her to collect her personalised lunch.
 
 Mara wants to speak to one of the other employees leaving for lunch but her shyness wins out, so she follows the group downstairs without initiating conversation and collects her assigned meal.
+
+Mara asks to join three Operations Integrity employees at lunch. Nessa Vale, an energetic junior analyst from Group C, immediately welcomes her into the empty seat and introduces herself, giving Mara her first direct social contact inside Axiom Meridian.
