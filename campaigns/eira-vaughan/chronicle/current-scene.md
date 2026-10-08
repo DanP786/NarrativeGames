@@ -1,13 +1,15 @@
 # Current scene
 
-Location: Basgiath War College — path between the healers' tent and the Presentation survivor gathering
-Time: Later on Gauntlet day, shortly after Eira is released by the healers
+Location: Threshing valley, wooded route at foot of rocky rise
+Time: Threshing Day, shortly after cadets enter the valley
 Default significance: charged
 
-Retcon authority: Soren and Eira do not reach Bram Auln or First Squad after Eira tells Soren that Bram kissed her. Any prior account of Soren punching Bram, Bram taunting him, or Eira slapping Bram is superseded and did not occur.
+Retcon authority: Soren did not punch or physically confront Bram after the unsolicited kiss. Eira stopped Soren by declaring love twice. Soren reciprocated. Later during the post-Presentation celebration Soren and Bram spoke calmly: Bram admitted crossing a boundary and promised not to repeat it; Soren asked him to act as Eira's squadmate, not as a suitor. No blows exchanged.
 
-After Eira tells Soren, "Bram kissed me," Soren storms toward the Presentation survivor gathering intending to confront and punch Bram. Before they reach the squad, Eira tells him, "I love you," stopping him. Soren returns to her, cups her face and asks her to say it again.
+Post-Presentation evening: Eira and Soren publicly together and mutually in love; Eira and Mara eavesdropped on Soren/Bram, were caught; Mara learned of their love declarations and confided she sometimes hooks up casually with Dresden. Eira and Soren spent the night in his room cuddling and sleeping; Soren said he recognized love at reconciliation and Eira said she recognized it during Presentation. Morning of Threshing they shared intimate time before Eira returned to her room.
 
-Eira swallows, becomes visibly shy and looks down rather than meeting his eyes. Quietly, almost on a breath, she repeats, "I love you." This is her second explicit declaration and removes any possibility that the first was merely an impulsive diversion from the Bram confrontation. Soren hears her clearly. His response is the immediate unresolved beat.
+Eira deliberately saved her full flight leathers for Threshing, tied shoulder-length auburn/honey-blonde hair in ponytail, secured tomahawk at hip. Roommate Lysa returned hungover from celebration. Eira and Soren met fully equipped before Threshing, confessed love again, joked that falling in love amid lethal training was terrible planning but neither would change it. As she left Eira said 'Don't die'; Soren answered 'You either, Vaughan.'
 
-Eira's dragonfire burns have been treated by Nolon. Eira and Soren have both completed Presentation alive. Bram remains with First Squad and has not been confronted by Soren since the unsolicited kiss. Threshing has not yet occurred, and Eira has no dragon bond or signet.
+First Squad assembled; Vale checked equipment. On entering Threshing valley, most squadmates dispersed separately; squadmate killing prohibition no longer applies here. No cadet-on-cadet killing witnessed in immediate group. Eira and Mara chose to travel together along a wooded route at the base of a rocky rise. Bram followed them deliberately. Eira asked 'What are you doing?' Bram said three sets of eyes better than two, acknowledged he followed them and told Eira he is here as a squadmate, nothing else, remembering Soren's conversation. He offers to leave if Eira wants. Await Eira's answer.
+
+Threshing underway. No dragon bond or signet yet. No dragon has directly approached this trio. Preserve danger and player agency.
