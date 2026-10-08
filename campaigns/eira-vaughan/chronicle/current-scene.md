@@ -1,7 +1,7 @@
 # Current scene
 
-Location: Basgiath — entrance to Riders quarters, en route to bathing facilities
-Time: Threshing Day, after return; exact clock time unestablished
+Location: Basgiath — Riders quarters bathing rooms
+Time: Threshing Day evening, exact clock time unestablished
 Default significance: routine
 
 Eira injuries treated: right hip badly bruised/strained but weight-bearing, visibly limping; right ribs badly bruised with at least one suspected hairline fracture, no obvious punctured lung; right temple cut cleaned/closed; left palm scraped and bandaged; other bruising. Pain tolerance unreliable; healer ordered rest/caution. Muddy/battered leathers; stolen knife retained, tomahawk lost in Niebhe's fire. Healer saw restraint bruises inconsistent with cliff fall but did not press.
@@ -10,4 +10,4 @@ Three male first-years attempted sexual assault after ambushing injured Eira; no
 
 Bonds: Eira–Niebhe, female brown Daggertail age 49 Rynonian; Soren–Rhovan, large stern male blue Swordtail, age/lineage unknown; Bram–Veyrath, very large female forest-green; Mara–Solas, large male orange. Greatsword visualization not canonical.
 
-Eira and Soren left registration field after telling Mara/Bram they were skipping festivities. At Riders quarters Soren joked about food, Eira stealing his bed/shirts/dignity. Eira scoffed, 'can I bathe first at least?' Soren agrees immediately, jokes about mud, and offers to fetch clean clothes and food while Eira bathes, or help if requested; mindful of injury, bandages, and her autonomy. They have not yet bathed or eaten.
+At Riders quarters, Eira teased Soren 'Bonding with a dragon has made you cocky,' gently pushed away and headed toward bathrooms alone. Soren let her go without following, joked back, and went to fetch clean clothes/food. Eira has entered bathing area, alone for now; not yet established finished bathing. She remains sore and bandaged; washing needs care. No forced trauma reaction or other events established.
