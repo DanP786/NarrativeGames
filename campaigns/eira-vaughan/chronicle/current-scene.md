@@ -1,6 +1,6 @@
 # Current scene
 
-Location: Basgiath — very edge of post-Threshing registration clearing/flight field
+Location: Basgiath — post-Threshing registration clearing/flight field
 Time: Threshing Day, after Eira's bond and return from valley; exact clock time unestablished
 Default significance: charged
 
@@ -10,6 +10,6 @@ Three unfamiliar male first-years ambushed Eira and escalated to attempted sexua
 
 Eira is formally registered as bonded to Niebhe, female brown Daggertail, age 49, Rynonian lineage. Bram Auln is bonded to Veyrath, a very large female forest-green dragon. Mara Venn is bonded to Solas, a large male orange dragon.
 
-Soren Mair has returned alive from Threshing riding a blue dragon and is at the registration table, at least 20 metres away from Eira. His dragon remains established only as blue; name, sex, tail, age, lineage and deeper personality are not yet established. Visual depiction may include a greatsword on his back, but that remains visualization-only and is not canonical inventory.
+Soren Mair has returned alive from Threshing on a blue dragon and completed/left registration table. Blue dragon's name, sex, tail, age, lineage and deeper personality remain unestablished. Visual depiction may include a greatsword on Soren's back, but that remains visualization-only and is not canonical inventory.
 
-Eira waits at the very edge of the clearing, at least 20 metres from Soren, not moving closer or calling to him. She is injured, visibly limping, and chooses to stand despite pain. Soren remains occupied with registration and has not yet seen her. Bram and Mara are behind/nearby but not crowding the space. Keep the physical distance clear; no premature reunion.
+After Soren notices Eira across at least twenty metres of open ground, Eira breaks into a wide grin and takes several steps toward him despite her injured hip. Her limp becomes evident. Soren responds with unmistakable relief, immediately strides toward her and slows when he sees her injuries rather than colliding with her. They meet near the clearing edge, Soren gently holding her face/upper arms without squeezing ribs, overwhelmed at seeing her alive. He asks what happened, with concern evident. Bram and Mara remain behind, giving the couple space. No Soren dragon details beyond blue established yet.
