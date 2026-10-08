@@ -1,11 +1,13 @@
 # Current scene
 
-Location: Threshing valley — narrow rocky traverse above lower ravine
+Location: Threshing valley — rocky basin / narrow stone passage after separation from Mara
 Time: Threshing Day, after Bram's early bond; exact elapsed time unestablished
-Default significance: charged
+Default significance: climactic
 
-Continuity: Eira and Soren exclusive, mutually in love; parted before Threshing with 'Don't die'/'You either, Vaughan.' Eira wears saved flight leathers, ponytail, tomahawk hip. First Squad split. Bram followed Eira/Mara, then bonded a large female forest-green dragon very early in Threshing and launched away; dragon name/tail type not established. No witnessed cadet-on-cadet killing. Dragons communicate telepathically only with bonded/chosen rider, never aloud to unbonded cadets.
+Continuity: Eira and Soren exclusive, mutually in love; parted before Threshing with 'Don't die'/'You either, Vaughan.' Eira wears saved flight leathers, ponytail, tomahawk hip. Bram bonded large female forest-green dragon early and launched. Eira/Mara later separated by rock shelf collapse. Mara remained above; Eira fell to lower route and continued alone. Dragons telepathically communicate only with bonded/chosen rider, never aloud to unbonded cadets.
 
-After Bram departed, Eira and Mara continued together deeper into valley. Later they traversed a narrow sloping rock shelf above a lower ravine. The shelf suddenly failed beneath them. Eira shoved Mara toward stable rock; Mara caught the upper edge and remained above. Eira fell with collapsing stone, struck shoulder/back against rock, then hit lower shelf hard on right side. She is alive, conscious, separated from Mara by roughly 15 feet/4.5m vertically plus unstable broken rock. Mara called down and can hear Eira. Eira's injuries currently observable: sharp right rib pain worsened by deep breath/twisting, bleeding abrasion/cut at right temple/hairline, left palm scraped bloody, right hip painful on standing. Right leg bears weight but hip pain significant. No confirmed fracture yet; Eira's high pain tolerance makes self-assessment unreliable. Tomahawk remains secured at hip. Eira told Mara 'I'm alive.' Further movement/medical severity unresolved.
+Eira injuries from fall: right rib pain sharply worsened by deep breathing/twisting, bleeding right temple/hairline, scraped bloody left palm, painful right hip causing limp but leg bears weight; no confirmed fracture. High pain tolerance makes severity unreliable.
 
-Eira and Mara remain unbonded. Eira's future dragon brown (GM-only Niebhe), do not destiny-foreshadow or guarantee survival.
+After continuing alone through rocky basin, Eira paused against a stone wall to catch breath. Three unfamiliar male first-year cadets ambushed her from nearby cover. They explicitly assessed her as injured/easy prey under Threshing rules. One said, 'Look at that. Easy lay.' They spread to box her in: dark-haired cadet ahead/left with knife drawn; stockier cadet to her right near her injured hip; third lean cadet behind/right cutting off retreat. Eira has not drawn tomahawk yet. She is outnumbered 3-to-1, already injured, with poor escape angles and no ally in sight. Attack is imminent; no outcome resolved. Preserve real danger, skill limits, and player agency.
+
+No cadet-on-cadet killing had been witnessed by Eira before this ambush. Eira and Mara remain unbonded. Eira's eventual dragon brown (GM-only Niebhe), no destiny foreshadowing.
