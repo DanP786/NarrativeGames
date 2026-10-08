@@ -51,3 +51,5 @@ Mara follows the route out of Operations Integrity, offering tired, half-hearted
 Mara takes the waiting driverless Axiom car to her assigned residence and enters her new company apartment. The furnished one-bedroom is clean, comfortable and already stocked for her; the residential system welcomes her and announces that calibration is ready to begin.
 
 Mara asks the apartment how to access Wellness. The residential assistant directs her to her handset's Axiom employee portal, where the Wellness section opens with her current health status, meal compliance, supplements and first-night residential calibration.
+
+Mara opens the supplement details. Vitamin D is listed as routine seasonal maintenance; folate is listed as preventative reproductive-health support based on her baseline profile, with no diagnosis or deficiency shown and no further explanation of the system's weighting.
