@@ -75,3 +75,5 @@ Mara chooses the residential fitness room. Her handset supplies a route through 
 Mara exercises for the first time since leaving school. The cardio station automatically moderates resistance to keep her within her prescribed heart-rate range. She completes the twenty-four-minute activity requirement, breathless and sweaty but uninjured; the system logs compliance and recommends water and recovery.
 
 Mara drinks the prescribed 350 millilitres of water, returns to her apartment and takes a warm shower. The bathroom's enabled wellness monitoring records routine physiological data without interrupting her; afterward the residence indicates her evening meal is ready.
+
+Mara enters the kitchen. Her personalised dinner is waiting in a temperature-controlled compartment: warm chicken, roasted vegetables and grains, with fruit and water. The counter identifies it as her post-activity evening meal and invites her to begin.
