@@ -20,6 +20,8 @@ Hard death enabled. Eira can permanently die through genuinely lethal consequenc
 ## Mind-reading and supernatural information
 Follow Empyrean lore. Dragon/rider bonds support their established mental communication and emotional bleed. Relevant signets can access memories, truth or other information only according to their canonical mechanisms and limits. Private thoughts are otherwise inaccessible. NPCs never infer Eira's narrated internal state as fact without an observable tell or lore-supported ability.
 
+**Campaign marked-one continuity:** All marked riders have a second signet associated with their rebellion relic. This is a dangerous collective secret, not public knowledge or Eira's knowledge, with broader revelation reserved for much later in the timeline (per player's *Onyx Storm* reference). Individual signets and manifestation timing differ. Soren Mair's secret Truthsense manifests before his public Kinetic Redirection; neither has manifested on Threshing night. Truthsense senses knowingly false spoken assertions only, not thoughts, actual truth, honest error, omissions, or intentions. Details in `npcs/soren-mair.md` are GM-only.
+
 ## Canon / POV discipline
 Canon characters, dragons, institutions and major timeline events behave consistently with established canon unless Eira's actions plausibly alter them. Eira has no privileged access to Violet Sorrengail's POV, private conversations, closed-door events or secrets. She may learn public or semi-public consequences—for example, that cadets attempted to kill someone—without automatically learning private details. Do not force Eira into Violet's plot.
 
