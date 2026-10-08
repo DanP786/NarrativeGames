@@ -1,6 +1,6 @@
 # Current scene
 
-Location: Basgiath — post-Threshing return/registration area near flight field
+Location: Basgiath — edge of post-Threshing registration clearing/flight field
 Time: Threshing Day, after Eira's bond and return from valley; exact clock time unestablished
 Default significance: charged
 
@@ -10,6 +10,6 @@ Three unfamiliar male first-years ambushed Eira and escalated to attempted sexua
 
 Eira is formally registered as bonded to Niebhe, female brown Daggertail, age 49, Rynonian lineage. Bram Auln is bonded to Veyrath, a very large female forest-green dragon. Mara Venn is bonded to Solas, a large male orange dragon.
 
-Soren Mair has returned alive from Threshing riding a blue dragon. He dismounts and proceeds directly toward bond registration without noticing Eira seated off to the side with Bram and Mara. Visual depiction may include a greatsword on his back, but the greatsword remains visualization-only and is not established canonical inventory. His dragon remains established only as blue pending registration; name, sex, tail, age, lineage and deeper personality are not yet established.
+Soren Mair has returned alive from Threshing riding a blue dragon and is completing bond registration. He has not yet noticed Eira. His dragon remains established only as blue pending the registration exchange; name, sex, tail, age, lineage and deeper personality are not yet established. Visual depiction may include a greatsword on his back, but that remains visualization-only and is not canonical inventory.
 
-Eira remains seated because of her injuries, with Bram close enough to support her and Mara nearby. Watching Soren head toward registration unaware she is there, Eira teases Bram: 'Hoping he died?' Bram immediately rejects that idea despite his dislike/jealous tension with Soren: he did not want Mair dead and recognizes what Soren's death would do to Eira. He dryly admits he had hoped Mair might return slightly less irritating instead. Mara joins the teasing. Soren still has not noticed Eira and is registering his dragon.
+Eira rises from the low stone edge despite her injured hip and ribs. The movement hurts and her limp is visible, but she remains weight-bearing. She walks to the edge of the registration clearing and stops there rather than interrupting Soren's registration, waiting for him to finish and notice her. Bram and Mara remain behind/nearby rather than crowding the reunion. Niebhe privately disapproves of Eira standing unnecessarily but does not prevent it. Eira's attention is fixed on Soren.
