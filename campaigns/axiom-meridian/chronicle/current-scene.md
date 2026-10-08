@@ -35,3 +35,5 @@ Mara asks how Axiom chooses employee food. Nessa explains the ordinary understan
 Mara mentions receiving supplements with breakfast. Nessa treats supplementation as ordinary Axiom practice and says targeted tablets are commonly used when they are simpler than redesigning a whole meal plan, leaving Mara's specific folate allocation unexplained.
 
 Mara identifies the supplements as folate and vitamin D while beginning her lunch. Nessa recognises vitamin D as routine but pauses briefly at folate, then avoids pretending expertise and suggests Mara's Wellness record should state the official reason if she wants to check it.
+
+Mara asks how long Nessa has worked at Axiom. Nessa says she has been in Operations Integrity for eleven months, long enough to have settled into corporate housing and routine but still junior enough to remember her own first day clearly.
