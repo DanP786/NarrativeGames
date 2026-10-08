@@ -1,3 +1,5 @@
 # Session 01
 
-Mara Vey begins her first day as an entry-level employee at Axiom Meridian.
+Mara Vey begins her first day as an entry-level employee at Axiom Meridian. She completes induction and an employee health baseline that quietly flags her reproductive profile, although she is shown only routine wellness information. Her personalised meals include folate for preventative reproductive-health support. She performs well reviewing administrative discrepancies in Operations Integrity Group C and makes a friendly coworker acquaintance, Nessa Vale, whose practical experience highlights both the benefits and controls of Axiom employment. Mara moves into a well-appointed company apartment, enables recommended home monitoring, completes a guided exercise requirement and settles into her prescribed evening routine.
+
+Over the following month, Mara complies consistently with Axiom's work, nutrition, exercise, sleep and residential health programme. She becomes accustomed to her role and apartment, and her conditioning improves gradually. On 8 November 2142 she reports to the Central Campus Employee Health clinic for a first-month physical.
