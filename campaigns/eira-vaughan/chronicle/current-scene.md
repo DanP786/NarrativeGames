@@ -1,12 +1,12 @@
 # Current scene
 
-Location: Basgiath — Soren Mair's room, morning after Threshing, Eira about to leave for her own room
+Location: Basgiath — Eira and Lysa's shared dorm room, morning after Threshing
 Time: Morning after Threshing, exact hour unestablished
 Default significance: routine
 
-Eira wakes deeply in love, still aching with cuts, fall bruises, dressings, fatigue. Nolon substantially mended hip/ribs yesterday; residual soreness, rest advised. Attacker restraint bruises healed/vanished. After teasing about claiming Soren's clothes, Eira puts on his oversized shirt, her trousers from last night and boots, kisses Soren, says she must fetch her own clothes, loves him, thanks him for last night, and insists he may only carry her again if at death's door; if she has two legs, she will use them. Soren respects the boundary and answers with affection and humour. Eira ready to leave on foot. Her dirty flight leathers and stolen knife may remain among room belongings, tomahawk lost.
+Eira returns from Soren's room on her own feet, wearing his oversized shirt, her trousers and boots, sore with cuts and fall bruises though Nolon mended hip/ribs substantially; residual fatigue, rest advised. She finds roommate Lysa Derren asleep in bed with a man Eira privately calls 'Mr Kissy Lips' (identity unestablished). Eira attempts to dress quietly without waking them. Lysa's Threshing/bond status unestablished. Eira deeply loves Soren; they shared intimacy after nightmare. Eira's dirty flight leathers and stolen knife may remain in Soren's room; tomahawk lost.
 
-Three male first-years attempted sexual assault after ambushing injured Eira; no sexual contact/completed rape. Eira escaped after wounding all, Niebhe verified and burned all three alive; dead. Soren knows attempted rape but not exact details or absence of sexual contact. Bram and Mara unaware.
+IMPORTANT RETCON AGREED OOC (not yet played): During Threshing Niebhe burned the passage with Eira's three assailants. TWO died; the large/stocky assailant whom Eira stabbed in thigh and cut hand escaped via narrow side passage with severe burns. Niebhe and Eira genuinely believed all three dead; Niebhe did not knowingly spare him. Surviving attacker has been receiving Nolon care, remains unbonded, bitter and blames Eira for missing dragon bonding. About one week after Threshing he will reappear and challenge Eira to a death match, but as unbonded cadet status/permission needs adjudication; Soren may react violently and challenge him, with Eira full agency to intervene. Do NOT prematurely reveal survival to Eira/Soren. Soren knows attempted rape but not exact details or absence of sexual contact; Bram/Mara unaware.
 
 Bonds: Eira–Niebhe female brown Daggertail age 49 Rynonian; Soren–Rhovan large stern male blue Swordtail; Bram–Veyrath very large female forest-green; Mara–Solas large male orange. Neither Eira nor Soren signet has manifested. Soren future secret Truthsense first, public Kinetic Redirection later, GM-only.
 
