@@ -4,7 +4,7 @@ Location: Basgiath — Soren Mair's room, morning after Threshing
 Time: Morning after Threshing, exact hour unestablished
 Default significance: routine
 
-Eira wakes in Soren's bed feeling deeply in love though still aching with cuts, fall bruises, dressings, fatigue. Nolon substantially mended hip/ribs yesterday; residual soreness, rest advised. Attacker restraint bruises healed/vanished. Eira and Soren had consensual non-explicit intimacy after nightmare, Eira led pace. In morning Soren asks why she's staring and whether something is on his face; Eira grins, kisses his cheek, says 'yes,' meaning her kiss. Soren responds playfully, close and affectionate; scene awaits Eira's next action. Clothes/leathers in room; stolen knife among belongings, tomahawk lost.
+Eira wakes in Soren's bed feeling deeply in love though still aching with cuts, fall bruises, dressings, fatigue. Nolon substantially mended hip/ribs yesterday; residual soreness, rest advised. Attacker restraint bruises healed/vanished. Eira and Soren had consensual non-explicit intimacy after nightmare, Eira led pace. Morning playful exchange: Eira kissed Soren's cheek as answer to 'something on my face?' Soren offered other cheek; Eira laughs, playfully slaps his chest, calls him greedy. Soren enjoys the banter, stays affectionate. Clothes/leathers in room; stolen knife among belongings, tomahawk lost.
 
 Three male first-years attempted sexual assault after ambushing injured Eira; no sexual contact/completed rape. Eira escaped after wounding all, Niebhe verified and burned all three alive; dead. Soren knows attempted rape but not exact details or absence of sexual contact. Bram and Mara unaware.
 
