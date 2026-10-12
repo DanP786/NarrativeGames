@@ -1,11 +1,11 @@
 # Garran Vale
 - Description/voice: 27, broad-shouldered sapper with copper-brown hair shaved close at sides, ink-stained fingers. Talks too much when angry; laughs at his own bad jokes and hates being ignored. Taps a coin on knuckles.
 - Traits: impulsive, possessive when insecure, generous in public, stubbornly proud.
-- Short-term goals: enjoy last night before expedition; test whether Isolde still notices him without directly asking.
+- Short-term goals: enjoy last night before expedition; find out what Isolde intends by seeking him out and allowing closeness.
 - Long-term goals: become chief sapper; get out of the shadow of a more successful elder sister; find a relationship that does not make him feel disposable.
 - Methods & lines: Will provoke, flirt with others, take reckless risks, apologise badly. Won't sabotage a mission or deliberately endanger a comrade. Last resort: request transfer to avoid humiliation.
-- Disposition (GM-only — never narrate as numbers): Trust 31, Affection 62, Respect 69, Loyalty 39, Suspicion 66, Desire 71, Resentment 55.
-- Relationship to Isolde: Wary. Casual physical relationship over several months ended messily last winter when emotional expectations diverged. Garran developed stronger feelings and handled rejection or ambiguity with barbed jokes and conspicuous flirting. Isolde's exact private reasons and choices remain player territory. Neither owes the other reconciliation.
-- History with player: shared barracks social circle; formerly slept together; stopped months before Greywatch; he was not on Greywatch mission.
+- Disposition (GM-only — never narrate as numbers): Trust 33, Affection 67, Respect 69, Loyalty 39, Suspicion 67, Desire 78, Resentment 50.
+- Relationship to Isolde: Wary. Casual physical relationship over several months ended messily last winter when emotional expectations diverged. Garran developed stronger feelings and handled rejection or ambiguity with barbed jokes and conspicuous flirting. Isolde's exact private reasons and choices remain player territory. Neither owes the other reconciliation. S01: Isolde summoned him outside and stepped close; Garran kissed her and is wary of repeating their painful ambiguity.
+- History with player: shared barracks social circle; formerly slept together; stopped months before Greywatch; he was not on Greywatch mission. S01 Cinderhouse: after barbed public flirting, Isolde sought privacy; he kissed her beneath the overhang.
 - Relationships with other NPCs: Leif Ardent is a reliable fighter Garran resents for being quietly admired. Tamsin Kest sometimes drinks with Garran; he dislikes her cruelty toward Isolde but rarely challenges it.
 - Knowledge: knows Isolde's service reputation and inquiry outcome, not her private thoughts; knows expedition is at dawn. Does not know truth of Blight's origins.
