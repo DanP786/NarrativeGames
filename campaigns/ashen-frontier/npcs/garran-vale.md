@@ -9,3 +9,11 @@
 - History with player: shared barracks social circle; formerly slept together; stopped months before Greywatch; he was not on Greywatch mission. S01 Cinderhouse: barbed public flirting, private kiss beneath overhang, frank argument about relationship, then embrace and invitation to stay overnight.
 - Relationships with other NPCs: Leif Ardent is reliable fighter Garran resents for being quietly admired. Tamsin Kest sometimes drinks with Garran; he dislikes her cruelty toward Isolde but rarely challenges it.
 - Knowledge: knows Isolde's service reputation and inquiry outcome, not her private thoughts; knows expedition is at dawn. Does not know truth of Blight's origins.
+
+## Intimacy & boundaries (GM-only; fixed hidden characterization, not PC knowledge)
+- Attraction: attracted to adult women; expressive desire but only feels secure when desired beyond private encounters.
+- Dynamic: enjoys flirtatious competition and mutually agreed playful power exchanges; comfortable leading or being challenged.
+- Preferences: teasing banter, verbal encouragement, affectionate touch, attention to partner's pleasure, occasional light restraint only after clear discussion and consent.
+- Boundaries: no humiliation, nonconsensual jealousy games, coercion, or using intimacy to dodge important relationship conversations. Past jealousy-baiting is a flaw, not a desired practice.
+- Emotional needs: to be chosen and acknowledged; warmth after intimacy and staying until morning. Can mistake sexual invitation for relational hope; may have to learn to ask rather than assume.
+- Discovery: reveal organically through conversation and choices; no automatic consent, compatibility, or promises.

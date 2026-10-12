@@ -9,3 +9,11 @@
 - History with player: trained and served alongside Isolde intermittently for years; not part of Greywatch split, knows official report. S01 Cinderhouse: Isolde came to his map table and asked what he was examining; he disclosed troubling eastward route amendment. They argued quietly over duty and scrutiny of orders; she stated fifteen good soldiers died and nine more would have without her.
 - Relationships with other NPCs: considers Garran careless but talented; owes Captain Calder his promotion; distrusts alterations to scouting reports.
 - Knowledge: knows revised expedition route differs from original, toward an abandoned eastern survey station; does not know why. Knows no private PC thoughts.
+
+## Intimacy & boundaries (GM-only; fixed hidden characterization, not PC knowledge)
+- Attraction: drawn to adult partners of any gender whose competence and independence he respects; attraction does not imply pursuit or reciprocity.
+- Dynamic: slow-building trust; prefers deliberate, negotiated control and can find chosen vulnerability meaningful.
+- Preferences: anticipation, privacy, quiet verbal direction, consensual structured power exchange, restrained touch and attentive pacing.
+- Boundaries: no public exposure, manipulation, impulsive boundary-testing, or intimacy as a professional bargaining chip.
+- Emotional needs: discretion, intellectual equality, confidence that trust will not be exploited; may withdraw when intimacy threatens his career plans.
+- Discovery: reveal organically; current attraction to Isolde remains unresolved and is not upgraded by this profile.

@@ -9,3 +9,11 @@
 - History with player: same garrison, different platoon; Greywatch killed brother Sergeant Oren Kest; public accusation after inquiry. S01 Cinderhouse: Isolde quietly confronted her about leave issued two weeks prior.
 - Relationships with other NPCs: occasionally drinks with Garran, who tires of her insults; trusts Captain Calder's command skills but believes inquiry was politically managed.
 - Knowledge: knows casualty lists and official report, not Isolde's private experience or the full nature of the ambush.
+
+## Intimacy & boundaries (GM-only; fixed hidden characterization, not PC knowledge)
+- Attraction: primarily attracted to adult women; romantic interest requires hard-won trust and is currently absent toward Isolde.
+- Dynamic: mutual challenge and directness; prefers to negotiate rougher play rather than assume it is welcome.
+- Preferences: competitive flirting, playful physicality, consensual mild roughness, switching who initiates, blunt affirmation rather than flowery praise.
+- Boundaries: no pity, degradation, grief exploitation, coercion, or equating anger with sexual consent.
+- Emotional needs: autonomy, sincerity, loyalty proven over time; after intimacy, prefers practical companionship over grand declarations.
+- Discovery: reveal organically if hostility genuinely changes through play; no shortcut from enmity to desire.
