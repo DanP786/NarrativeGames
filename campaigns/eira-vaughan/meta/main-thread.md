@@ -1,8 +1,8 @@
 # Main thread
 
-- Status: sketch
-- Central question: What is Eira Vaughan actually capable of, and where is the line between proving herself and destroying herself in the attempt?
-- PC want: Survive Riders Quadrant on her own merits and discover how far her abilities can actually take her.
-- Immediate obstacle: Basgiath's lethal selection and training system, beginning with the Parapet, plus Eira's lack of formal rider-family preparation and combat training.
-- Wider pressure: The Fourth Wing canon timeline advances around Eira. Politics, war and hidden truths exist independently of her knowledge and involvement.
-- Principle: No predetermined friendship group, romance, reputation, squad destiny, promotion path or canon importance. Relationships and consequences emerge through play.
+- Status: active
+- Central question: How far can Eira Vaughan push herself without destroying herself—and how does she choose whom to trust when even her signet cannot reveal other people's independent choices or secrets?
+- PC want: Survive and thrive as a rider on her own merits; master Pathseeing safely; protect her hard-won friendships and love without surrendering judgement or autonomy.
+- Immediate obstacle: Return to combat/flight after near-fatal death match and 24-day signet assessment; medical restrictions, intelligence oversight, and learning controlled use of signet and lesser magic.
+- Wider pressure: Basgiath's lethal training, marked riders' concealed collective secrets, Navarre's hidden war, squad competitions, War Games, Resson later in the Fourth Wing timeline.
+- Principle: Eira is protagonist of her own story, not Violet's replacement. Canon events progress independently unless Eira plausibly changes them. Her Pathseeing does not reveal minds or other people's independent decisions.

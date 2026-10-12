@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: Later in the first-year training cycle, Gauntlet stage, entering year concurrent with Violet Sorrengail's first year
-- Season: summer moving through the pre-Threshing training period
-- Time of day: daytime
-- Current location: Basgiath War College, Riders Quadrant Gauntlet training grounds
-- Notable ongoing: The entering Riders cohort has suffered catastrophic attrition since Conscription Day; hundreds of cadets have died across Parapet, challenges, training, violence and other lethal failures. Flame Section, First Squad has lost unnamed members but retains Teren Vale, Mara Venn, Nessa Tor, Bram Auln and Eira at this point. Dain Aetos's Second Squad, which includes Violet Sorrengail, has suffered the least attrition and retains the strongest numbers entering the Gauntlet stage. Eira remains alive but far from dominant in formal combat, having lost most official matches despite steady training. The immediate pressure is Gauntlet preparation and completion, where her balance/coordination and practical problem-solving are strengths but her comparatively weaker upper body and accumulated injury history remain meaningful liabilities.
+- Date: Approximately day 26 after Threshing in first-year Riders training, Violet Sorrengail's cohort; exact Navarrian calendar date unestablished.
+- Season: autumn; damp, cool weather.
+- Time of day: morning, first flight manoeuvres session after Eira's 24-day signet assessment.
+- Current location: Basgiath War College, Riders Quadrant flight field, beside Niebhe, about to mount for supervised eastern practice circuit.
+- Notable upcoming: Halden's supervised flight reintroduction and restrictions; lesser magic fundamentals beginning next week; weekly medical checks and twice-weekly signet control; squad competitions and War Games later; Soren's public Kinetic Redirection manifestation planned OOC for later training incident (NOT yet occurred); unresolved Eira/Soren signet trust boundaries despite resumption of intimacy.

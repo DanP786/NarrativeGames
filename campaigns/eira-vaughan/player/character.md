@@ -1,30 +1,12 @@
 # Eira Vaughan
 
-- Sex: female
-- Sexuality: straight
-- Height: 161 cm / 5'3"
-- Background: civilian working family; no rider or Basgiath family connection
-- Quadrant: Riders
-- Cohort: entering year concurrent with Violet Sorrengail
-- Assignment: Flame Section, First Squad
-
-## Appearance
-Compact athletic hourglass build; especially strong developed legs and good core, with comparatively weaker upper-body strength. Light skin that does not tan easily. Blue-green eyes. Shoulder-length naturally auburn hair with honey-blonde balayage. Symmetrical, conventionally pretty features without extraordinary beauty. Full, softly arched and exceptionally expressive eyebrows.
-
-## Physical profile
-Excellent endurance, very strong legs, good core, excellent balance/coordination, comfortable with heights, very good swimmer, extremely high pain tolerance. Not particularly fast. Upper-body strength comparatively mediocre. Larger opponents can dominate raw-strength contests. History of broken bones and tendon/ligament injuries; dangerous tendency to continue through injuries because high pain does not reliably make her stop.
-
-## Learning / cognition
-Intelligent, practical and visual learner. Poorer at rote factual retention unless information is repeatedly used. Loves systems, problem-solving and fixing inefficiency. Responds to failure by identifying the problem, changing approach and repeating. Likes information, contingencies and practical sequential problem-solving in emergencies.
-
-## Temperament
-Quick temper around unfairness, stubborn but method-flexible, competitive without reflexive envy, able to admit error. Respects competence more than rank and sensible rules more than arbitrary ones. Does not seek command when competent leadership exists. Strong sense of fairness without suicidal altruism. Emotionally observant. Initially quiet/polite/reserved; close companions discover dry, savage observational wit.
-
-## Current state
-Second month after Conscription Day. Eira recently aggravated a knee badly enough to develop visible swelling, stiffness and instability. After completing a scored First Squad exercise in a protected planning/support role, she reported to a healer; assessment, treatment and proper support substantially reduced the swelling and instability by lunch. The injury is currently improving rather than catastrophic, but she has been instructed to avoid unnecessary hard loading and twisting for the immediate period. Her extremely high pain tolerance remains a liability because subjective pain is not a reliable guide to damage. That evening she is mobile enough for storeroom duty and begins lifting/reorganizing boxes before Soren arrives, while trying to protect the recovering knee.
-
-## Family
-Gareth Vaughan — father, carpenter/joiner.
-Elin Vaughan — mother, seamstress/tailor.
-Rhys Vaughan — older brother by three years; senior infantry cadet/officer candidate at Basgiath.
-Secure and loving family; parents deeply concerned about Eira's voluntary Riders choice.
+- Sex: female; straight; 161 cm / 5'3"; civilian working family; Riders first-year in Violet Sorrengail's cohort; Flame Section, First Squad.
+- Family: Gareth carpenter/joiner, Elin seamstress/tailor, Rhys older brother by three years, senior Infantry cadet; loving and worried.
+- Appearance: compact athletic build, strong legs/core and balance, blue-green eyes, light skin, longer-than-shoulder auburn hair with honey-blonde balayage, now often wavy; expressive brows. Brown Daggertail dragon relic at left ribs curling hip. Healed pink fourteen-stitch scar LEFT forearm.
+- Strengths: endurance, balance, swimming, grappling/leverage, practical tactics, visual/system learning, persistence, high pain tolerance (also danger). Weaknesses: rote memory, terrible navigation, comparatively weaker upper body, injury-neglect, hot temper at injustice.
+- Temperament: polite/quiet with strangers, dry/savage funny with friends, competitive, fair, protective but not suicidal, challenges bad reasoning; practical problem solver.
+- Dragon: Niebhe, 49-year-old female brown Daggertail, dry, calculating, patient and fiercely protective; telepathic bond.
+- Signet: Pathseeing / classified Conditional Foresight. Branches of immediate consequences of Eira's own choices only; not mind-reading, others' independent intentions or fixed future. Overuse causes headache, nausea, nosebleed, disorientation/collapse; Niebhe can block access. Lawful, **not inntinnsic**. Silver closed-eye badge beneath squad insignia; exact mechanics intelligence-restricted. Weekly medical monitoring, twice-weekly signet training, supervised combat reintegration.
+- Current physical state: post-Voss death-match left forearm repair, fourteen-stitch scar, substantially healed but still sore under heavy use; graduated restrictions. Twenty-four days in signet assessment, now released. First supervised flight in over a month imminent.
+- Relationships: devoted mutual love with Soren Mair, marked Claw Section Third Squad rider of blue Swordtail Rhovan; they have resumed intimacy, though trust/secrecy tensions remain. Best friend Mara Venn (orange dragon Solas), close squadmate Bram Auln (green Veyrath), roommate Lysa Derren (female orange dragon). Violet Sorrengail shorter than Eira, recent respectful technical sparring rival.
+- Current scene: morning on Basgiath flight field, about to mount Niebhe for Captain Halden's supervised eastern circuit. Lesser magic training has NOT yet begun.

@@ -1,19 +1,29 @@
 # NPC index
 
-- Gareth Vaughan | alive | civilian home | Devoted | Eira's father; carpenter/joiner
-- Elin Vaughan | alive | civilian home | Devoted | Eira's mother; seamstress/tailor
-- Rhys Vaughan | alive | Basgiath War College, Infantry Quadrant | Devoted | older brother; senior infantry cadet/officer candidate
-- Soren Mair | alive | Basgiath War College, Riders Quadrant | Interested | broad-built marked first-year; Eira's mutually exclusive partner; regularly trains her
-- Coren Aster | alive | Basgiath War College, Riders Quadrant | Neutral | marked first-year; Soren's socially alert friend
-- Teren Vale | alive | Flame Section, First Squad | Neutral | second-year squad leader; controlled, observant, prioritizes squad function
-- Mara Venn | alive | Flame Section, First Squad | Warm | energetic first-year and Eira's squadmate/friend
-- Bram Auln | alive | Flame Section, First Squad | Neutral | large, powerful first-year; increasingly personally drawn to Eira while wary of her marked associations
-- Nessa Tor | alive | Flame Section, First Squad | Neutral | compact, sharp-eyed first-year; practical and quick to identify weak points
-- Kellan Roake | alive | Flame Section, First Squad | Neutral-to-friendly | lean, long-limbed first-year with dry humor; survived the official Gauntlet
-- Joryn Pell | alive | Flame Section, First Squad | Neutral-to-friendly | sturdy, sociable first-year; survived the official Gauntlet
-- Lysa Derren | alive | Basgiath War College, Riders Quadrant | Cautiously receptive | Eira's dorm roommate; continues talking to Eira despite wider social retreat; squad assignment unestablished
-- Brinna Korr | dead | Basgiath War College | Hostile | large first-year who attacked Eira at breakfast; died after Eira's sustained choke
-- Garrick Tavis | alive | Basgiath War College, Riders Quadrant | Neutral | senior marked rider; discourages Soren from over-investing in Eira
-- Xaden Riorson | alive | Basgiath War College, Riders Quadrant | Unestablished | senior rider and marked cadet; called Soren away after the official Gauntlet
-
-Dain Aetos leads Second Squad, not Eira's First Squad. Canon Second Squad cadets are not part of Eira's First Squad roster. Canon characters are added as they become meaningfully involved in Eira's on-screen story rather than pre-populating the roster.
+- Gareth Vaughan | alive | civilian home | Devoted | father, carpenter
+- Elin Vaughan | alive | civilian home | Devoted | mother, seamstress
+- Rhys Vaughan | alive | Basgiath Infantry Quadrant | Devoted | older brother, senior Infantry
+- Soren Mair | alive | Basgiath Riders Quadrant, Claw Section Third Squad | Devoted | marked first-year, Eira's mutually exclusive boyfriend; bonded blue Swordtail Rhovan; secret Truthsense manifested, future public Kinetic Redirection not yet
+- Dax Aster | alive | Basgiath Riders Quadrant, Claw Section Third Squad | Friendly | marked first-year, Soren's teasing/protective friend; formerly Coren Aster, retconned to Dax
+- Teren Vale | alive | Flame Section First Squad | Neutral | second-year squad leader
+- Mara Venn | alive | Flame Section First Squad | Loyal | Eira's best friend; bonded male orange Solas
+- Bram Auln | alive | Flame Section First Squad | Friendly | large squadmate, bonded female forest-green Veyrath; past unsolicited kiss rejected
+- Nessa Tor | alive | Flame Section First Squad | Friendly | practical squadmate
+- Kellan Roake | alive | Flame Section First Squad | Friendly | squadmate
+- Joryn Pell | alive | Flame Section First Squad | Friendly | squadmate
+- Lysa Derren | alive | Basgiath Riders Quadrant | Friendly | Eira's roommate; bonded female orange dragon, name/tail unestablished
+- Brinna Korr | deceased | Basgiath | Hostile | killed in self-defence by Eira
+- Hadrik Voss | deceased | Basgiath arena | Hostile | surviving Threshing attacker, later killed by Eira in sanctioned death match; permanently dead
+- Garrick Tavis | alive | Basgiath Riders Quadrant | Neutral | senior marked rider, helped Soren obtain confirmation Eira was alive during detention
+- Xaden Riorson | alive | Basgiath Riders Quadrant | Wary | senior marked rider; knows attempted rape, mentors harshly
+- Violet Sorrengail | alive | Second Squad | Friendly | shorter than Eira; recently narrowly won technical sparring bout; Tairn and Andarna rider
+- Rhiannon Matthias | alive | Second Squad | Neutral | paired sparring with Ridoc against Eira/Mara
+- Ridoc Gamlyn | alive | Second Squad | Neutral | flirted with Eira, she stated she has boyfriend
+- Sawyer Henrick | alive | Second Squad | Neutral | cadet
+- Captain Halden | alive | Basgiath flight field | Neutral | supervises Eira's restricted flight return
+- Lt Serah Veyne | alive | Basgiath | Neutral | signet instructor/assessor
+- Major Ilyra Senn | alive | Basgiath | Neutral | senior signet assessor
+- Colonel Ardent | alive | Basgiath | Neutral | assessment board
+- Specialist Caelis | alive | Basgiath | Neutral | assessment board
+- Commander Thorne | alive | Basgiath military intelligence | Neutral | may brief Soren on nondisclosure
+- Instructor Pellan | alive | Basgiath training hall | Neutral | sparring/assessment instructor
