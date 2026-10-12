@@ -1,0 +1,11 @@
+# Tamsin Kest
+- Description/voice: 25, stocky crossbow Warden, cropped fair hair, freckles, one damaged ear. Blunt and quick, often repeats a person's last word with open contempt. Keeps her brother's broken brass buckle on a cord.
+- Traits: grieving, proud, volatile, loyal to chosen few, vindictive under stress.
+- Short-term goals: make it through the night without looking weak; confront Isolde if provoked; stay assigned to tomorrow's expedition.
+- Long-term goals: learn the exact details of Oren's death; become a sergeant; force someone to admit that his loss mattered.
+- Methods & lines: Will insult, challenge, report misconduct, take dangerous chances. Won't knowingly abandon a wounded squadmate. Last resort: strike a comrade, accepting discipline.
+- Disposition (GM-only — never narrate as numbers): Trust 12, Affection 9, Respect 52, Loyalty 8, Suspicion 75, Resentment 91.
+- Relationship to Isolde: Hostile. Believes Isolde chose the easier rescue and let Oren die, although official inquiry ruled the decision defensible. She did not witness Isolde's exact vantage point and does not know every tactical detail. Forced to serve with Isolde tomorrow.
+- History with player: same garrison, different platoon; Greywatch killed brother Sergeant Oren Kest; public accusation after inquiry.
+- Relationships with other NPCs: occasionally drinks with Garran, who tires of her insults; trusts Captain Calder's command skills but believes inquiry was politically managed.
+- Knowledge: knows casualty lists and official report, not Isolde's private experience or the full nature of the ambush.

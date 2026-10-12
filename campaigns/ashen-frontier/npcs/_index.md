@@ -1,0 +1,7 @@
+- Captain Rhea Calder | alive | Blackthorn Bastion | Neutral | last seen pre-S01 (commands Isolde's expedition company)
+- Tamsin Kest | alive | Blackthorn Bastion, Cinderhouse | Hostile | last seen pre-S01 (brother Oren died at Greywatch; blames Isolde)
+- Garran Vale | alive | Blackthorn Bastion, Cinderhouse | Wary | last seen pre-S01 (former casual entanglement, unresolved)
+- Leif Ardent | alive | Blackthorn Bastion, Cinderhouse | Neutral | last seen pre-S01 (long-standing unspoken attraction, no established reciprocity)
+- Edric Varrick | alive | retired near Blackthorn | Neutral | last seen before S01 (father, veteran officer)
+- Signe Varrick | alive | civilian settlement near Blackthorn | Friendly | last seen before S01 (mother)
+- Oren Kest | deceased | Greywatch | Neutral | last seen six weeks pre-S01 (sergeant, Tamsin's brother)

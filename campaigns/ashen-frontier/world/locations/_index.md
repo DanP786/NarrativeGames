@@ -1,0 +1,4 @@
+- Blackthorn Bastion | northern military stronghold, Isolde's station
+- Cinderhouse | soldiers' noisy common hall and tavern within Blackthorn; opening scene
+- Greywatch Fortress | ruined frontier fort; site of disastrous reconnaissance six weeks ago
+- North Gate | expedition muster and exit from Blackthorn

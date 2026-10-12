@@ -1,0 +1,11 @@
+# Leif Ardent
+- Description/voice: 26, lean tall reconnaissance corporal, dark hair worn loose, pale green eyes, crooked nose. Speaks carefully in low, precise sentences; when irritated, becomes icily formal. Habitually peels labels from bottles.
+- Traits: exacting, ambitious, privately jealous, slow to admit error, protective of his own reputation.
+- Short-term goals: check expedition route assignments; keep an ongoing disagreement with Garran from spilling into a public scene.
+- Long-term goals: earn a command posting away from Blackthorn; prove himself without favours; discover why scouting reports around Greywatch are being amended.
+- Methods & lines: Will challenge an order through proper channels, withhold personal information, compete ruthlessly. Won't falsify scouting observations. Last resort: defy orders to prevent a needless slaughter.
+- Disposition (GM-only — never narrate as numbers): Trust 54, Affection 48, Respect 77, Loyalty 32, Suspicion 30, Desire 47.
+- Relationship to Isolde: Neutral. Long acquaintance through overlapping patrols, training sparring, and sharp arguments about risk. Isolde has an unspoken attraction to him per player-established seed; Leif's feelings are uncertain, complicated by career ambitions and his own commitments. Do not assume he knows her attraction.
+- History with player: trained and served alongside Isolde intermittently for years; not part of the Greywatch split, but knows official report.
+- Relationships with other NPCs: considers Garran careless but talented; owes Captain Calder his promotion; distrusts the alterations to scouting reports.
+- Knowledge: knows revised expedition route differs from original; has not told Isolde why. Knows no private PC thoughts.

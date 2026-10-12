@@ -1,0 +1,1 @@
+The night before a new Warden expedition, Isolde Varrick returns to Blackthorn Bastion's off-duty life six weeks after the Greywatch disaster, while coordinated Blight activity gathers beyond the walls.

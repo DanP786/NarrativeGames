@@ -1,0 +1,5 @@
+- Date: 18 Emberwane, Year 312 After Ashfall
+- Season: late autumn
+- Time of day: evening, after mess
+- Location: Blackthorn Bastion, the soldiers' common hall known as the Cinderhouse
+- Notable upcoming: First light tomorrow, Warden expedition departs via the North Gate; muster before dawn. Six weeks since the Greywatch disaster.

@@ -1,0 +1,2 @@
+# The Cinderhouse
+Low-ceilinged vaulted mess-and-drinking hall in the former furnace annex. Long scarred tables, cheap bitter spirits, brass heat pipes ticking overhead, boots steaming near the stoves, a chalkboard of debts behind the bar. Wardens of different ranks mingle when off-duty, though officer tables still tend to separate. Music sometimes comes from a cracked fiddle. Arguments are common; fighting is punishable but not unheard of. At night before expedition, the hall is crowded with soldiers disguising fear as noise.

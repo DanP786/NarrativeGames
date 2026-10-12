@@ -1,0 +1,10 @@
+# Tone and rules
+- Voice: THIRD PERSON PRESENT, Isolde-close external narration; do not assert her unspoken thoughts or decisions.
+- Prose: atmospheric, sensory, emotionally nuanced and character-close; gritty military texture, dirt, exhaustion, equipment, hard consequences; swift brutal action when fighting. Dialogue distinct, flawed NPCs, tension without automatic resolution.
+- Content: unrestricted adult dark fantasy as requested; violence, horror, torture, sexuality, moral despair can arise; avoid gratuitous exploitation and respect any later player limits.
+- Agency: unforgiving realism, world and NPCs independent, no protagonist plot armour, failure real; competent veteran treated as competent.
+- Death: HARD DEATH; Isolde and major NPCs can permanently die.
+- Mind-reading: NO telepathy, empathy magic, mind divination, or access to inner states. NPCs perceive speech, acts, surface tells only.
+- Resolution: no dice; skill + circumstance, coherent consequences.
+- Ember: rare innate expression, no general spellcasting. Power requires physical exertion and draws Blight attention beyond wards. Severance allows wielder to perceive and cut luminous Blight bindings ONLY through a physical edged strike at close range; cannot sever mundane objects, thoughts, feelings or people without Blight bonds. Precision, reach, obstruction and creature complexity constrain it. Repeated use: tremors and blurred sight, then sensory disturbance, seizures, memory disruption and potential permanent neurological injury. Costs do not vanish conveniently. Other Ember expressions are narrower and similarly costly.
+- Frontier Blight: contamination can warp organisms and matter, not equivalent to mind-reading. Its apparently coordinated behaviour is an emerging mystery; answers are fixed in world canon.

@@ -1,0 +1,11 @@
+# Captain Rhea Calder
+- Description/voice: 41, compact, severe Warden company captain, dark hair threaded with silver, immaculate collar even after patrol. Speaks with deliberate economy, never shouts unless she intends everyone to hear.
+- Traits: duty-bound, calculating, proud, capable of sacrificing subordinates, dislikes public insubordination.
+- Short-term goals: depart at dawn with full complement; avoid disorder tonight; ensure revised orders are executed.
+- Long-term goals: keep Blackthorn standing and secure promotion to frontier command; understand coordinated Blight incursions.
+- Methods & lines: Will conceal operational intelligence, use personnel harshly, reward competence. Won't knowingly falsify casualty lists. Last resort: expend a rare Ember-bearer if survival of Bastion demands it.
+- Disposition (GM-only — never narrate as numbers): Trust 57, Affection 25, Respect 84, Loyalty 30, Suspicion 34.
+- Relationship to Isolde: Neutral; sees exceptional military asset and capable soldier, but rarely distinguishes between the two. Signed off on inquiry finding.
+- History with player: four years in garrison, captain of current company, handled post-Greywatch reintegration.
+- Relationships with other NPCs: promoted Leif for precision; regards Tamsin as dangerously angry but useful; finds Garran's lack of discretion irritating.
+- Knowledge: revised expedition route orders came from command, with restricted objective of inspecting an abandoned emberstone survey station; does not know Underweave truth.
