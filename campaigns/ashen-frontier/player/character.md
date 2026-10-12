@@ -7,3 +7,12 @@
 - Romantic history: unresolved former casual entanglement with fellow Warden; separate long-standing attraction never acted upon. No guaranteed reciprocation.
 - Current condition: fit for duty, no current injury established.
 - Opening: off-duty evening at the Cinderhouse before departure at dawn.
+
+## Intimacy preferences (player-established canon; not automatically known to NPCs)
+- Temperament: passionate and demanding; knows what she wants physically even when guarded about emotional vulnerability.
+- Preferred dynamic: consensually submissive in private intimacy, enjoying a trusted partner taking the lead. This does not extend to everyday life or professional relationships.
+- Particular interests: anticipation, consensual restraint, and receiving instructions from a partner within agreed intimate contexts.
+- Emotional motivation: escape and relief from the burden of duty and constant responsibility.
+- Openness: adventurous and interested in exploring additional consensual preferences rather than limiting herself to an established list.
+- Turn-off / hard interpersonal boundary: a partner attempting to dominate, control, or impose a sexual power dynamic on her outside intimate contexts. She expects autonomy and equality outside the bedroom; professional chain-of-command obligations are a separate matter and do not imply romantic submission.
+- Consent and agency: all activities remain voluntary and context-specific; enthusiasm for experimentation never constitutes blanket consent. Player retains authority over Isolde's actions, boundaries, and thoughts.
