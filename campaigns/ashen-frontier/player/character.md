@@ -4,7 +4,7 @@
 - Station: Blackthorn Bastion; Warden, four years of service. Swordfighter, rare Severance bearer.
 - Defining history: Greywatch disaster six weeks ago; chose which trapped group to save; nine survived directly, fifteen of thirty-two lost. Official inquiry cleared her. Some peers disagree.
 - Personality seed: guarded, distrustful, may retreat from emotional vulnerability; player chooses every present action, word and thought.
-- Romantic history: unresolved former casual entanglement with fellow Warden; separate long-standing attraction never acted upon. No guaranteed reciprocation.
+- Romantic history: unresolved former casual entanglement with fellow Warden Garran Vale; separate long-standing attraction never acted upon. No guaranteed reciprocation. Last winter Garran threatened to sleep with someone else during a dispute about their casual arrangement, apparently seeking a jealous reaction. Isolde answered “Fine”; Garran followed through with another woman and their arrangement ended. Isolde has not slept with anyone else between that breakup and their S01 reconciliation. Her emotional response to the breakup and her reasons for not pursuing others are not established and remain player-controlled. Garran believes he knows about the lack of other partners but cannot know her reasons. S01: they reconciled, spent the night together, and Isolde conditionally agreed to a public dinner if they survive the expedition; no official relationship label.
 - Current condition: fit for duty, no current injury established.
 - Opening: off-duty evening at the Cinderhouse before departure at dawn.
 
