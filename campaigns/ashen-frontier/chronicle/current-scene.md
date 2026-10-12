@@ -1,2 +1,2 @@
-# Current scene — Isolde's quarters, dawn
-Tier: routine. After Garran departed for muster, Isolde finished dressing for duty, fixed her braided hair, and picked up her pack. Her sword belt remains by the door unless she takes it. The lower courtyard expedition detail was ordered to muster in ten minutes; dawn departure toward Survey Station Seventeen is imminent. She is ready to leave her quarters. Await her next action.
+# Current scene — Blackthorn Bastion lower courtyard, dawn
+Tier: routine. Isolde Varrick's rank was fixed OOC as Warden Sergeant. She completed dressing, secured her sword belt while leaving her quarters, and arrived at the lower courtyard for the dawn expedition muster with her pack. The detail is gathering amid cold grey morning light, weapons and harness clatter, and shouted orders. Survey Station Seventeen is the destination; her precise field assignment has not yet been given. Await Isolde's action at muster.
