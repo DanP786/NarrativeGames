@@ -1,5 +1,5 @@
 - Date: 19 Frostwane, Year 312 After Ashfall
 - Season: winter
-- Time of day: morning, breakfast
-- Location: Blackthorn Bastion, mess hall
-- Notable upcoming: Isolde's supervised controlled combat rehabilitation with Torren Kest today; Garran's promised examination by Harris for lingering shoulder pain. Isolde not cleared for active duty, deployment, unrestricted sparring or Severance. Frontier Command is monitoring her recovery.
+- Time of day: evening
+- Location: Blackthorn Bastion, barracks common room
+- Notable upcoming: Isolde recovering from supervised controlled combat rehabilitation with Torren Kest; still not cleared for active duty, deployment, unrestricted sparring or Severance. Garran visited Harris regarding lingering shoulder pain, result not yet established on-screen. Frontier Command monitoring recovery.
