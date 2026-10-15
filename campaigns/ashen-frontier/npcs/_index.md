@@ -5,3 +5,4 @@
 - Edric Varrick | alive | retired near Blackthorn | Neutral | last seen before S01 (father, veteran officer)
 - Signe Varrick | alive | civilian settlement near Blackthorn | Friendly | last seen before S01 (mother)
 - Oren Kest | deceased | Greywatch | Neutral | last seen six weeks pre-S01 (sergeant, Tamsin's brother)
+- Cassian Rook | alive | northern Warden garrison | Friendly | last seen years before S01 (childhood friend, first serious love and near-fiancé; possible future rehabilitation instructor)
