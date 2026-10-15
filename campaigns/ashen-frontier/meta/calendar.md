@@ -1,5 +1,5 @@
-- Date: 18 Emberwane, Year 312 After Ashfall
-- Season: late autumn
-- Time of day: evening, after mess
-- Location: Blackthorn Bastion, the soldiers' common hall known as the Cinderhouse
-- Notable upcoming: First light tomorrow, Warden expedition departs via the North Gate; muster before dawn. Six weeks since the Greywatch disaster.
+- Date: 19 Frostwane, Year 312 After Ashfall
+- Season: winter
+- Time of day: morning, breakfast
+- Location: Blackthorn Bastion, mess hall
+- Notable upcoming: Isolde's supervised controlled combat rehabilitation with Torren Kest today; Garran's promised examination by Harris for lingering shoulder pain. Isolde not cleared for active duty, deployment, unrestricted sparring or Severance. Frontier Command is monitoring her recovery.
