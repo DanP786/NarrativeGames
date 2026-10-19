@@ -1,6 +1,6 @@
 - Date: early Frostwane, Year 312 After Ashfall (exact day not established)
 - Season: winter
-- Time of day: morning
-- Location: Blackthorn Bastion, training yard
-- Current: Isolde's first resumed structured swordsmanship session with Sergeant Cassian Rook, returned from his northern station after over a month away awaiting Harris's clearance. Three controlled exchanges ended two touches to one in Isolde's favour; Cassian called rest and water and asked how the set felt. Harris permits structured swordsmanship/conditioning only, not unrestricted sparring, field duty or Severance. Isolde and Garran remain publicly together, enjoy companionship and no longer argue, but Isolde has emotionally withdrawn and shares no vulnerabilities.
+- Time of day: evening
+- Location: Blackthorn Bastion, dining hall
+- Current: After her first resumed swordsmanship session with Cassian Rook, Isolde washed, changed into a clean uniform, and entered the dining hall for dinner. She noticed Elara Fen and suspects Elara might be pregnant, unconfirmed. Harris permits structured swordsmanship/conditioning only, not unrestricted sparring, field duty or Severance. Isolde and Garran remain publicly together, enjoy companionship and no longer argue, but Isolde has emotionally withdrawn and shares no vulnerabilities.
 - Notable upcoming: Continued Harris-supervised rehabilitation and review of eligibility for further duties; no clearance assumed.
