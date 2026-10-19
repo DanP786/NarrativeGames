@@ -1,5 +1,5 @@
-- Date: 19 Frostwane, Year 312 After Ashfall
+- Date: early Frostwane, Year 312 After Ashfall (several weeks after 18 Emberwane; exact day not established)
 - Season: winter
-- Time of day: evening
-- Location: Blackthorn Bastion, barracks common room
-- Notable upcoming: Isolde recovering from supervised controlled combat rehabilitation with Torren Kest; still not cleared for active duty, deployment, unrestricted sparring or Severance. Garran visited Harris regarding lingering shoulder pain, result not yet established on-screen. Frontier Command monitoring recovery.
+- Time of day: morning
+- Location: Blackthorn Bastion, training yard
+- Current: First renewed training session with Sergeant Cassian Rook, who returned from his northern posting after waiting over a month for Harris's approval. Isolde has progressed through gradual supervised rehabilitation and is cleared for structured swordsmanship/conditioning within Harris's current limits; no automatic field-duty, unrestricted sparring, or Severance clearance. Isolde and Garran remain publicly together, enjoy time together, and no longer argue, but Isolde has withdrawn emotionally and does not share vulnerabilities.
