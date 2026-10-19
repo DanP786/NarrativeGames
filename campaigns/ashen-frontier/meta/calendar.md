@@ -1,5 +1,6 @@
-- Date: early Frostwane, Year 312 After Ashfall (several weeks after 18 Emberwane; exact day not established)
+- Date: early Frostwane, Year 312 After Ashfall (exact day not established)
 - Season: winter
 - Time of day: morning
 - Location: Blackthorn Bastion, training yard
-- Current: First renewed training session with Sergeant Cassian Rook, who returned from his northern posting after waiting over a month for Harris's approval. Isolde has progressed through gradual supervised rehabilitation and is cleared for structured swordsmanship/conditioning within Harris's current limits; no automatic field-duty, unrestricted sparring, or Severance clearance. Isolde and Garran remain publicly together, enjoy time together, and no longer argue, but Isolde has withdrawn emotionally and does not share vulnerabilities.
+- Current: Isolde's first resumed structured swordsmanship session with Sergeant Cassian Rook, returned from his northern station after over a month away awaiting Harris's clearance. Three controlled exchanges ended two touches to one in Isolde's favour; Cassian called rest and water and asked how the set felt. Harris permits structured swordsmanship/conditioning only, not unrestricted sparring, field duty or Severance. Isolde and Garran remain publicly together, enjoy companionship and no longer argue, but Isolde has emotionally withdrawn and shares no vulnerabilities.
+- Notable upcoming: Continued Harris-supervised rehabilitation and review of eligibility for further duties; no clearance assumed.

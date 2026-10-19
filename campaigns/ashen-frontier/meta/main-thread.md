@@ -1,6 +1,6 @@
 # Main thread
-- Status: sketch
+- Status: active
 - Central question: What is changing in the Blight beyond the Bastions, and what will duty cost Isolde Varrick when command, comrades and her own survival pull against one another?
-- PC want/fear: accepts duty, wants to remain capable and useful without becoming an instrument others own; her deeper wants must emerge through player choices. Guarded history and unresolved grief complicate trust.
-- Obstacle: coordinated, seemingly intelligent Blight behaviour; military command willing to expend rare Severance talent; divided company after Greywatch.
-- First scene-and-a-half: establish expedition orders and a concrete personal stake; reveal an anomaly pointing beyond routine patrol; let player define priorities.
+- PC want/fear: remain capable and useful without becoming an instrument others own; her recovery, emotional independence and choice of relationships are player-directed.
+- Obstacle: seemingly coordinated Blight behaviour and the catastrophic neurological cost of Severance; military command's interest in a rare ability; divided company after Greywatch.
+- Current: Isolde destroyed a Blight heart at Survey Station Seventeen and survived prolonged recovery. She has begun structured sword rehabilitation with Cassian Rook, not yet cleared for unrestricted field duty or Severance. Her relationship with Garran remains outwardly peaceful but privately emotionally distant.
