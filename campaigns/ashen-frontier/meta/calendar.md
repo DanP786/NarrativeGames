@@ -1,6 +1,6 @@
-- Date: early Frostwane, Year 312 After Ashfall (exact day not established); morning following the dining-hall encounter
+- Date: early Frostwane, Year 312 After Ashfall (exact day not established)
 - Season: winter
-- Time of day: morning
-- Location: Blackthorn Bastion, Isolde's quarters
-- Current: Isolde and Garran spent the night together. Elara Fen has told Garran she is pregnant and claims he is the father; both pregnancy and paternity remain unverified. Garran denies sleeping with Elara since last winter. Harris permits structured swordsmanship/conditioning only, not unrestricted sparring, field duty or Severance. Isolde and Garran remain publicly together, with Isolde's private emotional withdrawal not known to him.
-- Notable upcoming: Proposed Copper Hart dinner date this afternoon, conditional on Harris approving travel, Garran arranging transport, Isolde returning before evening gates close and rescheduling any Cassian Rook rehabilitation.
+- Time of day: night
+- Location: Blackthorn Bastion, Isolde's own quarters
+- Current: Isolde has returned alone after supper with Cassian. She and Garran remain publicly together but estranged after marriage disagreement; she avoided him today. Harris limits her to restricted supervised rehabilitation; injured hand stiff after reviewing reports.
+- Notable upcoming: rehabilitation training with Cassian tomorrow; Cassian following northern register discrepancies; Garran overseeing trial northern retaining-wall repairs and assessment for Calder. Alleged Elara pregnancy and paternity remain unverified. Earlier proposed Copper Hart dinner is not established as upcoming now.
