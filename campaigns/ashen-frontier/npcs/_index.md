@@ -1,9 +1,12 @@
 - Captain Rhea Calder | alive | Blackthorn Bastion | Neutral | last seen S02 (overseeing duty restrictions and Garran's assessment)
 - Tamsin Kest | alive | Blackthorn Bastion | Hostile | last seen S01 (blames Isolde for brother Oren's death at Greywatch)
-- Garran Vale | alive | Blackthorn Bastion | Friendly | last seen S02 (strained relationship over marriage; trial retaining-wall supervision, not promoted)
+- Garran Vale | alive | Vale family home | Friendly | last seen S03 (arrived for solstice with Isolde, introduced her to family)
 - Leif Ardent | alive | Blackthorn Bastion | Neutral | last seen S01 (fellow Warden)
 - Edric Varrick | alive | retired near Blackthorn | Neutral | last seen S01 (father; recommended Cassian for rehabilitation)
 - Signe Varrick | alive | civilian settlement near Blackthorn | Friendly | last seen before S01 (mother)
 - Oren Kest | deceased | Greywatch | Neutral | died six weeks before S01
 - Cassian Rook | alive | Blackthorn Bastion | Friendly | last seen S02 (training, altered-report inquiry, supper with Isolde; keeping her confidence)
 - Elara Fen | alive | Blackthorn Bastion | Wary | last seen S02 (confronted Isolde over unsubstantiated breakup rumours, rebuked and left)
+- Mara Vale | alive | Vale family home | Friendly | last seen S03 (warmly welcomed Isolde for solstice)
+- Seren Vale | alive | Vale family home | Neutral | last seen S03 (Garran's accomplished elder sister, assessing Isolde)
+- Tobin Vale | alive | Vale family home | Neutral | last seen S03 (young adult cousin, exuberantly complimented Isolde)
