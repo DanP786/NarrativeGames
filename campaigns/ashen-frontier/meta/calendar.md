@@ -1,6 +1,6 @@
-- Date: early Frostwane, Year 312 After Ashfall (exact day not established)
+- Date: early Deepfrost, Year 312 After Ashfall (approximately one month after early Frostwane; exact day not established)
 - Season: winter
-- Time of day: night
-- Location: Blackthorn Bastion, Isolde's own quarters
-- Current: Isolde has returned alone after supper with Cassian. She and Garran remain publicly together but estranged after marriage disagreement; she avoided him today. Harris limits her to restricted supervised rehabilitation; injured hand stiff after reviewing reports.
-- Notable upcoming: rehabilitation training with Cassian tomorrow; Cassian following northern register discrepancies; Garran overseeing trial northern retaining-wall repairs and assessment for Calder. Alleged Elara pregnancy and paternity remain unverified. Earlier proposed Copper Hart dinner is not established as upcoming now.
+- Time of day: late afternoon
+- Location: Blackthorn Bastion
+- Current: A month has passed. Isolde reports no injury trouble for months and marked improvements in strength and stamina through training with Cassian. Formal unrestricted duty clearance has not yet been established. Isolde remains publicly with Garran but has privately resigned herself to never marrying or being fully chosen, and has been giving him the reassurance and accommodation she believes he wants. Garran cannot know that private conclusion unless told; he may notice changes in her conduct.
+- Open: Garran's northern retaining-wall trial and assessment for Calder; altered northern charcoal-pit records and missing transcription; Elara pregnancy and paternity unverified. Do not assume offscreen resolutions.
