@@ -1,6 +1,6 @@
 - Date: approximately one week after winter solstice, Deepfrost, Year 312 After Ashfall (exact day not established)
 - Season: winter
-- Time of day: morning
-- Location: Vale family home, location unspecified, away from Blackthorn Bastion; Garran and Isolde preparing to return to Blackthorn after seven days of approved leave.
-- Current: Their week off together has been happy and affectionate, with family warmth and recurring remarks from others about marriage. Isolde privately grows accustomed to believing marriage with Garran will never happen and interprets his ease as relief that she no longer raises it; Garran cannot know her private thoughts and has not proposed or broken up. They remain a couple. Formal unrestricted duty clearance has not been established.
+- Time of day: evening, after sunset
+- Location: Blackthorn Bastion, just inside gates after return from Vale family home
+- Current: Garran and Isolde returned after seven days of approved leave. They remain an affectionate couple and intend to ask Calder whether they may officially share one room; approval not yet sought. Isolde privately believes marriage with Garran will never happen and interprets his ease as relief she no longer raises it; Garran cannot know her private thoughts and has neither proposed nor broken up. Formal unrestricted duty clearance not established.
 - Open: Garran's northern retaining-wall trial and assessment for Calder; altered northern charcoal-pit records and missing transcription; Elara pregnancy and paternity unverified. Do not assume offscreen resolutions.
