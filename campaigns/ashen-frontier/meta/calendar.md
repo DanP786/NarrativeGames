@@ -1,6 +1,6 @@
-- Date: approximately one week after winter solstice, Deepfrost, Year 312 After Ashfall (exact day not established)
+- Date: approximately ten days after winter solstice, Deepfrost, Year 312 After Ashfall (exact day not established)
 - Season: winter
-- Time of day: dawn / early morning
-- Location: frozen northern road beyond Blackthorn Bastion, with Calder's expedition bound for abandoned emberstone survey station
-- Current: Expedition departed at dawn under Captain Rhea Calder, fourteen total (twelve Wardens including Isolde and Cassian Rook, two survey specialists). Cassian assigned to watch Isolde's neurological limits and may withdraw her if symptoms arise; no unrestricted duty or Severance clearance. Five days estimated, provisions eight. Garran remains at Blackthorn for northern retaining-wall assessment. Shared-quarters request pending. Isolde privately believes Garran will never marry her; he does not know. Garran alone knows her courtyard Severance declaration was a bluff intended to have him assigned.
-- Open: Restricted expedition and abandoned emberstone station; Garran's northern retaining-wall assessment; altered northern charcoal-pit records and missing transcription; Elara pregnancy/paternity unverified.
+- Time of day: third night after expedition departure, nighttime
+- Location: Isolde bound on horseback in custody of unidentified abductors, traveling away from abandoned emberstone survey station; expedition remains at/near station after violent attack
+- Current: Expedition reached unremarkable abandoned station after one day's travel; no Blight encountered. Cassian carefully tested Isolde without exhausting her. On third night, attackers abducted Isolde and injured many including Cassian. Garran remains at Blackthorn, not yet informed. SECRET: kingdom's command traded Isolde to another kingdom in lieu of its other two Severance-bearers, knowing her ability not fully working. Isolde and expedition do not know; Calder's knowledge not established. No deaths established. Shared-quarters request pending.
+- Open: Isolde's captivity and foreign kingdom's purpose; injuries and response at station; secret command betrayal; Garran's retaining-wall assessment; altered charcoal-pit records; Elara pregnancy/paternity unverified.
