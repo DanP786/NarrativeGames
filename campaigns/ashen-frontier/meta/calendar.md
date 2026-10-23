@@ -1,6 +1,6 @@
 - Date: approximately one week after winter solstice, Deepfrost, Year 312 After Ashfall (exact day not established)
 - Season: winter
 - Time of day: evening, after sunset
-- Location: Blackthorn Bastion, just inside gates after return from Vale family home
-- Current: Garran and Isolde returned after seven days of approved leave. They remain an affectionate couple and intend to ask Calder whether they may officially share one room; approval not yet sought. Isolde privately believes marriage with Garran will never happen and interprets his ease as relief she no longer raises it; Garran cannot know her private thoughts and has neither proposed nor broken up. Formal unrestricted duty clearance not established.
-- Open: Garran's northern retaining-wall trial and assessment for Calder; altered northern charcoal-pit records and missing transcription; Elara pregnancy and paternity unverified. Do not assume offscreen resolutions.
+- Location: Blackthorn Bastion, Captain Rhea Calder's office
+- Current: Isolde and Garran returned after seven days' leave and went to ask Calder (female captain) about shared quarters. Before the quarters decision, Calder disclosed Isolde is assigned to depart at dawn on expedition to inspect an abandoned emberstone survey station under restricted revised orders. Mission is not formal unrestricted duty clearance or Severance retest. Shared quarters not yet approved. They remain a couple; Isolde privately believes Garran will never marry her, unknown to him.
+- Open: Dawn expedition details and departure; Garran's northern retaining-wall assessment; altered northern charcoal-pit records and missing transcription; Elara pregnancy/paternity unverified.
