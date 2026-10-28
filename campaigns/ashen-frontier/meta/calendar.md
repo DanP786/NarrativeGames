@@ -1,6 +1,6 @@
-- Date: spring, Year 312 After Ashfall (exact day/month unestablished); several days after Eldorian court celebration
+- Date: spring, Year 312 After Ashfall (exact day/month unestablished); several weeks after Alaric's pregnancy celebration
 - Season: spring
-- Time of day: daytime, exact hour unestablished
-- Scene focus: Garran Vale's quarters, Blackthorn Bastion, Caladorn (Isolde remains in Eldoria; no intervening action by her established)
-- Current: Garran has been promoted to sergeant (player-established). Elara Fen brought him news via family merchant contacts of King Alaric's public announcement that Isolde is pregnant. Garran is shaken and alone with Isolde's farewell letter. The king's announcement rested on a royal physician's suspicion, though Mistress Anwen privately confirmed early pregnancy to Isolde. The Eldorian gallery scene with Evren remains unresolved.
-- Notable upcoming: royal follow-up physician examination roughly a fortnight after celebration; scrutiny of pregnancy and Severance inheritance; Evren's parents not yet privately informed as established; Caladorn dispatch inquiry; Pell assassination inquiry; Northern Crossing repairs; unresolved Merrow witness order.
+- Time of day: late afternoon
+- Location: private Thorne apartments, Eldorian royal palace
+- Current: Isolde experienced an early miscarriage during the time skip, attended by Mistress Anwen. She is devastated and seeks Evren's comfort, accepting his care and fussing; she refuses an audience with King Alaric. Evren grieves too, feels closer to Isolde through their mutual comfort, and privately experiences relief that the crown has one fewer hold on them. Isolde is sufficiently physically recovered for ordinary activity, though military/Severance clearance has not been granted; royal rank and adviser role remain revoked. The king has been informed of the loss but has not been received by Isolde.
+- Notable upcoming: evolving coordinated Blight activity and potential military response; royal restrictions and rank question following end of pregnancy; Garran/Cassian's Caladorn dispatch inquiry; Pell assassination inquiry; Northern Crossing repairs; unresolved Merrow witness order. Garran and Cassian heard only the original pregnancy announcement, with no subsequent news established.
