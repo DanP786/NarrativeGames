@@ -1,7 +1,11 @@
 # Inventory
-- Service longsword in maintained leather scabbard
+- Newly issued superbly balanced Eldorian sword in fitted scabbard (current primary weapon)
+- Eldorian blue practical but beautifully tailored field clothing, trousers and boots
+- High-quality fitted Eldorian leather armour (current field protection)
+- Service longsword in maintained leather scabbard (retained)
 - Belt knife
-- Warden duty uniform and boots
-- Standard expedition kit in barracks: weatherproof cloak, gambeson and brigandine, field pack, canteen, rations, flint, bandages, bedroll
+- Warden duty uniform and boots (stored; Warden insignia not authorised at court)
+- Standard expedition kit available: weatherproof cloak, gambeson and brigandine, field pack, canteen, rations, flint, bandages, bedroll
 - Modest soldier's pay; exact amount not yet significant
+- Royal sealed limited operational authorisation for Fort Aster under Evren's command, contingent on Anwen's clearance (obtained evening before departure)
 - No special relics or unlimited supplies
