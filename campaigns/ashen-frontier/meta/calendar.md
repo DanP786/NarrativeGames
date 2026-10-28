@@ -1,6 +1,6 @@
-- Date: spring, Year 312 After Ashfall (exact day/month unestablished); morning after royal authorisation
+- Date: spring, Year 312 After Ashfall (exact day/month unestablished); afternoon of the day after charcoal ravine battle
 - Season: spring
-- Time of day: morning
-- Location: northern road out of Eldorian royal palace, en route to Fort Aster
-- Current: Weeks after early miscarriage, Isolde grieves but seeks Evren's comfort. She has limited royal attachment to Northern Command for Fort Aster under Evren, and Anwen's cautious field clearance; no restored rank. Wearing fine Eldorian blue field armour, trousers and boots, blonde hair in two braids, carrying a superbly balanced sword, she shared a passionate farewell kiss with Evren and mounted to depart with the strike force. Greywold fell with 17 dead; Fort Aster faces coordinated Blight and possible stationary controller.
-- Notable upcoming: travel and arrival at Fort Aster, controller strike, Caladorn warning; royal rank question; Garran/Cassian dispatch inquiry; Pell assassination inquiry; Northern Crossing repairs. Garran and Cassian have not been established to know of miscarriage.
+- Time of day: afternoon
+- Location: Fort Aster, northern Eldoria
+- Current: Isolde and Evren's strike force arrived at Fort Aster after defeating a coordinated Blight controller at the charcoal ravine and freeing Briar Hollow captives. Isolde suffers residual neurological symptoms from two Severance strikes; Evren has milder effects. Aster's ward-furnace is functioning, but eastern woodland contains coordinated Blight and a suspected stationary controller. Isolde wears fine Eldorian blue field armour with twin braids and carries superb sword; she has limited royal attachment under Evren, not restored rank.
+- Notable upcoming: Aster garrison briefing and woodland threat, civilian evacuation, Caladorn warning, royal rank question; Garran/Cassian dispatch inquiry; Pell assassination inquiry; Northern Crossing repairs. Garran and Cassian have not been established to know of miscarriage.
