@@ -1,6 +1,6 @@
-- Date: spring, Year 312 After Ashfall (exact day/month unestablished); late night of the day the Fort Aster strike force assaulted the eastern woodland excavation
+- Date: spring, Year 312 After Ashfall (exact day/month unestablished); early morning after the Fort Aster woodland excavation battle
 - Season: spring
-- Time of day: late night
+- Time of day: early morning
 - Location: Fort Aster, northern Eldoria; private bedroom
-- Current: Isolde is asleep after treatment for serious neurological symptoms from four recent Severance uses and a falling-beam injury to shoulder/back. Evren has returned late from overseeing aftermath of successful strike on Blight excavation; seven captives freed, controller and red apparatus disabled, excavation collapsed. Isolde has limited royal operational attachment under Evren, not restored rank. Her blue field armour and twin braids were worn in the battle.
-- Notable upcoming: Isolde's medical recovery and neurological evaluation; final casualty accounting and captives' testimony; purpose of underground Blight machinery; Fort Aster defenses; Caladorn warning, royal rank question, Garran/Cassian dispatch inquiry, Pell assassination inquiry, Northern Crossing repairs. Garran and Cassian have not been established to know of miscarriage.
+- Current: Isolde has awakened beside Evren after treatment and sleep. Her shoulder/back and body hurt after falling timber; right hand still weak but no longer trembling at present. Physician has forbidden further Severance pending neurological evaluation after four recent uses. Evren has a bandaged superficial brow cut. Seven captives rescued, controller and red apparatus disabled, excavation collapsed. Isolde retains limited royal operational attachment under Evren, not restored rank.
+- Notable upcoming: Medical reassessment and recovery; final casualty accounting and captives' testimony; purpose of underground Blight machinery; Fort Aster defenses; Caladorn warning, royal rank question, Garran/Cassian dispatch inquiry, Pell assassination inquiry, Northern Crossing repairs. Garran and Cassian not established to know miscarriage.
