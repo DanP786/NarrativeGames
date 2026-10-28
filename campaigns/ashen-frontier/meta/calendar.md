@@ -1,6 +1,6 @@
-- Date: spring, Year 312 After Ashfall (exact day/month unestablished); dawn after Alaric's limited field authorisation
+- Date: spring, Year 312 After Ashfall (exact day/month unestablished); morning after royal authorisation
 - Season: spring
-- Time of day: dawn
-- Location: Thorne apartments / mustering courtyard, Eldorian royal palace
-- Current: Weeks after early miscarriage, Isolde still grieves but seeks Evren's comfort. She accepted Alaric's limited operational attachment to Northern Command for Fort Aster; Anwen examined her the previous evening and cleared field exertion with cautions on neurological risk of Severance. No rank restoration or permanent commission. Isolde has dressed for departure in practical, beautiful Eldorian blue, trousers and boots, fine fitted leather armour and a superbly balanced new sword. Evren's strike force is mustering to depart. Greywold fell with 17 dead; Fort Aster faces coordinated Blight activity and possible stationary controller.
-- Notable upcoming: Fort Aster deployment, missing patrol, possible controller strike, warning Caladorn; royal rank question; Garran/Cassian dispatch inquiry; Pell assassination inquiry; Northern Crossing repairs. Garran and Cassian have not been established to know of miscarriage.
+- Time of day: morning
+- Location: northern road out of Eldorian royal palace, en route to Fort Aster
+- Current: Weeks after early miscarriage, Isolde grieves but seeks Evren's comfort. She has limited royal attachment to Northern Command for Fort Aster under Evren, and Anwen's cautious field clearance; no restored rank. Wearing fine Eldorian blue field armour, trousers and boots, blonde hair in two braids, carrying a superbly balanced sword, she shared a passionate farewell kiss with Evren and mounted to depart with the strike force. Greywold fell with 17 dead; Fort Aster faces coordinated Blight and possible stationary controller.
+- Notable upcoming: travel and arrival at Fort Aster, controller strike, Caladorn warning; royal rank question; Garran/Cassian dispatch inquiry; Pell assassination inquiry; Northern Crossing repairs. Garran and Cassian have not been established to know of miscarriage.
