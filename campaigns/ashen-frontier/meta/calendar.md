@@ -1,6 +1,6 @@
-- Date: spring, Year 312 After Ashfall (exact day/month unestablished); early morning after the Fort Aster woodland excavation battle
+- Date: spring, Year 312 After Ashfall (exact day/month unestablished); several weeks after the Fort Aster excavation battle
 - Season: spring
-- Time of day: early morning
-- Location: Fort Aster, northern Eldoria; private bedroom
-- Current: Isolde has awakened beside Evren after treatment and sleep. Her shoulder/back and body hurt after falling timber; right hand still weak but no longer trembling at present. Physician has forbidden further Severance pending neurological evaluation after four recent uses. Evren has a bandaged superficial brow cut. Seven captives rescued, controller and red apparatus disabled, excavation collapsed. Isolde retains limited royal operational attachment under Evren, not restored rank.
-- Notable upcoming: Medical reassessment and recovery; final casualty accounting and captives' testimony; purpose of underground Blight machinery; Fort Aster defenses; Caladorn warning, royal rank question, Garran/Cassian dispatch inquiry, Pell assassination inquiry, Northern Crossing repairs. Garran and Cassian not established to know miscarriage.
+- Time of day: afternoon
+- Location: Blackthorn Bastion, north gate, northern marches
+- Current: Isolde rides into her former Warden station with Evren and a military escort. She is fighting fit after weeks of treatment and conditioning, with normal sword function, but has not used Severance since the Fort Aster battle and remains under medical restriction while neurological recovery continues. Evidence and testimony from seven rescued prisoners linked coordinated Blight excavation activity to Blackthorn/Greywatch region, prompting joint deployment and investigation. Isolde has conditional operational attachment under Evren, not restored Warden rank.
+- Notable upcoming: Reception at Blackthorn, command jurisdiction and old Warden relationships; Greywatch/Blackthorn Blight investigation and ward-furnace/mining tensions; political limits on Isolde's military autonomy; Caladorn dispatch threads. Garran and Cassian not established to know miscarriage.
