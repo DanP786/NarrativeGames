@@ -1,4 +1,4 @@
-- Daniel (surname unknown) | alive | Maple Street, Bellweather | Neutral | last seen S01 (arguing with clipboard woman beside blocked delivery truck; exchanged looks with Harper)
-- Ryan (surname unknown) | alive | outside Bellweather, location unknown | Wary | last contact S01 (ex-boyfriend, called Harper after texting about her move)
-- Melissa (surname unknown) | alive | Bellweather Realty | Neutral | last contact S01 (arranging keys before 5)
+- Daniel (surname unknown) | alive | Bellweather | Neutral | last seen S01 (arguing with clipboard woman over Christmas delivery, then drove off in black SUV; exchanged looks with Harper)
+- Ryan (surname unknown) | alive | outside Bellweather, location unknown | Wary | last contact S01 (ex-boyfriend; upset Harper moved and hung up)
+- Melissa Whitcomb | alive | Bellweather Realty | Neutral | last contact S01 (presenting 18 Holly Lane estate paperwork and key)
 - Unnamed clipboard woman | alive | Maple Street | Neutral | last seen S01 (argued with Daniel about delayed Christmas display; mentioned his wife)
