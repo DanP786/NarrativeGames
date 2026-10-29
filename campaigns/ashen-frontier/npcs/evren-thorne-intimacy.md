@@ -17,6 +17,7 @@
 - Back at their quarters, Isolde offered to teach him everything she likes in the bedroom and asked him to teach her in return. Evren welcomed mutual discovery and said he enjoys her laughter, initiative, candour, and choosing him freely.
 - Isolde said she likes Evren taking care of her and that he is the only person she allows that vulnerability; she cited his carrying her from Fort Aster's collapsing tunnel when she had rejected Brenn's help.
 - Isolde likes teasing Evren until his usual composure slips. She also said she enjoys taking the lead physically while he deliberately slows and guides her pace with his hands. Evren knows this preference because she told him directly.
+- During a later intimate encounter at Blackthorn, Evren learned that private praise and attentive, deliberately controlled pacing suited their dynamic especially well; their encounter was extended and affectionate, with Isolde experiencing three climaxes and Evren playfully hoping for a fourth. Keep future narration non-graphic and responsive to consent.
 
 ## Play guidance
 - Keep intimate scenes character-driven and responsive to Isolde's choices. Show confidence, restraint, desire, vulnerability, and occasional jealous edges. Never treat this private GM sheet as knowledge of other NPCs or assume Isolde knows preferences Evren has not voiced.
