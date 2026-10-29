@@ -15,6 +15,8 @@
 ## Established on-screen
 - Isolde privately told Evren she likes being called 'good girl'; he used it and she responded strongly. In the tavern he teased about using it publicly, prompting her alarm; they left together.
 - Back at their quarters, Isolde offered to teach him everything she likes in the bedroom and asked him to teach her in return. Evren welcomed mutual discovery and said he enjoys her laughter, initiative, candour, and choosing him freely.
+- Isolde said she likes Evren taking care of her and that he is the only person she allows that vulnerability; she cited his carrying her from Fort Aster's collapsing tunnel when she had rejected Brenn's help.
+- Isolde likes teasing Evren until his usual composure slips. She also said she enjoys taking the lead physically while he deliberately slows and guides her pace with his hands. Evren knows this preference because she told him directly.
 
 ## Play guidance
 - Keep intimate scenes character-driven and responsive to Isolde's choices. Show confidence, restraint, desire, vulnerability, and occasional jealous edges. Never treat this private GM sheet as knowledge of other NPCs or assume Isolde knows preferences Evren has not voiced.
