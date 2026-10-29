@@ -1,1 +1,1 @@
-Scene: Late afternoon, December 1. Harper driving into Bellweather during first snowfall. Opening beat pending.
+Scene: Dec 1 late afternoon, Maple Street. Harper parked near blocked delivery truck, walked toward realtor while answering Ryan's call: 'Ryan, I’m a bit busy.' She gave Daniel a lingering look; clipboard woman noticed their mutual attention. Ryan had texted asking to talk and saying he hadn't believed Harper would move. Harper is heading to Bellweather Realty before 5 to collect cottage keys.

@@ -1,1 +1,4 @@
-No named NPCs encountered yet.
+- Daniel (surname unknown) | alive | Maple Street, Bellweather | Neutral | last seen S01 (arguing with clipboard woman beside blocked delivery truck; exchanged looks with Harper)
+- Ryan (surname unknown) | alive | outside Bellweather, location unknown | Wary | last contact S01 (ex-boyfriend, called Harper after texting about her move)
+- Melissa (surname unknown) | alive | Bellweather Realty | Neutral | last contact S01 (arranging keys before 5)
+- Unnamed clipboard woman | alive | Maple Street | Neutral | last seen S01 (argued with Daniel about delayed Christmas display; mentioned his wife)
