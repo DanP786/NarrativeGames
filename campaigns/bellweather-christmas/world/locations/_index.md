@@ -1,2 +1,3 @@
-- Bellweather | Vermont Christmas town | current arrival
-- Inherited Victorian cottage | near town centre | keys pending
+- Bellweather | Vermont Christmas town | current
+- 18 Holly Lane | inherited pale-blue Victorian cottage, 3 bedrooms, 2 baths, conservatory, old heating and roof issues, property-tax arrears approx $3,860 | keys pending
+- Bellweather Realty | town centre | Harper and Melissa currently here
