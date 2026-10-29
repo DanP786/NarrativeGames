@@ -1,0 +1,1 @@
+Bellweather, Vermont: fictional picturesque town of roughly 6,000, historic centre, bakery, frozen lake, lakeside resort, old money, Christmas tourism, tight gossip networks. Harper inherited a neglected Victorian cottage near town centre. Specific history and ownership details to emerge in play.

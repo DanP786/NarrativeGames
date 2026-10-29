@@ -1,0 +1,2 @@
+- Bellweather | Vermont Christmas town | current arrival
+- Inherited Victorian cottage | near town centre | keys pending

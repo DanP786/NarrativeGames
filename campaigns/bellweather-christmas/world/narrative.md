@@ -1,0 +1,1 @@
+Harper Devvene arrives in Bellweather at the start of December to take possession of an inherited Victorian cottage and attempt a new beginning after a messy breakup.

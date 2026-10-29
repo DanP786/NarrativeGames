@@ -1,0 +1,1 @@
+New arrival; no established Bellweather reputation. Guarded, sarcastic, creative, independent. Social reputation to evolve.

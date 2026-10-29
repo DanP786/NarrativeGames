@@ -1,0 +1,1 @@
+No named NPCs encountered yet.

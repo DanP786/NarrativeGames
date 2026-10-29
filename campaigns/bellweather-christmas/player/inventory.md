@@ -1,0 +1,1 @@
+Car, travel luggage, personal phone, drawing/writing equipment, basic winter clothes. Cottage keys not yet collected. Exact belongings to establish in play.

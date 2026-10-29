@@ -1,0 +1,1 @@
+Scene: Late afternoon, December 1. Harper driving into Bellweather during first snowfall. Opening beat pending.
