@@ -4,3 +4,4 @@ Tone: very toxic adult romance and full soap opera; infidelity, manipulation, ob
 Agency: ruthless realism; NPCs independent, relationships not guaranteed; GM narrates minor Harper behaviour only, player controls consequential choices and private thoughts.
 Death: soft fail only for Harper.
 Mind reading: none; thoughts private.
+Dialogue preference (OOC): Eli must not call Harper 'baby.' Prefer natural, sparing endearments; confirm other preferred pet names with player before establishing a fixed repertoire.
