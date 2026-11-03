@@ -4,4 +4,4 @@ Tone: very toxic adult romance and full soap opera; infidelity, manipulation, ob
 Agency: ruthless realism; NPCs independent, relationships not guaranteed; GM narrates minor Harper behaviour only, player controls consequential choices and private thoughts.
 Death: soft fail only for Harper.
 Mind reading: none; thoughts private.
-Dialogue preference (OOC): Eli must not call Harper 'baby.' Prefer natural, sparing endearments; confirm other preferred pet names with player before establishing a fixed repertoire.
+Dialogue preference (OOC): Eli must never call Harper 'baby.' Eli's distinctive affectionate pet name for Harper is 'Bunny,' a personal callback to her artwork. Use it naturally and sparingly, especially in tender, teasing, or private moments; use 'Harper' in serious exchanges. 'Sweetheart' may appear occasionally, but don't overuse multiple pet names or assume 'darlin’' or 'trouble' are established.
