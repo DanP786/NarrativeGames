@@ -1,7 +1,22 @@
-- Daniel Ashford | alive | Bellweather | Neutral | last seen S01 (Ashford Development interested in Harper's cottage; married to Caroline)
-- Ryan (surname unknown) | alive | outside Bellweather, location unknown | Wary | last contact S01 (ex-boyfriend, upset Harper moved and ended call)
-- Melissa Whitcomb | alive | Bellweather Realty | Neutral | last contact S01 (gave cottage key and repair/work leads)
-- Vanessa Price | alive | Bellweather | Neutral | last seen S01 (festival chair, arguing with Daniel over truck)
-- Eli Mercer | alive | Gilded Stag | Neutral | last seen S01 (local contractor, addressed Harper at bar)
-- Mara (surname unknown) | alive | Gilded Stag | Neutral | last seen S01 (bartender taking Harper's Old Fashioned order)
-- Caroline Ashford | alive | Bellweather | Neutral | mentioned S01 (Daniel's wife; not confirmed seen)
+- Harper Devvene | alive | Blackwood Events & Properties, Adrian's office | PC | S01 Dec 16 interviewing
+- Eli Mercer | alive | Bellweather, at work | Devoted | S01 Dec 16 texted Harper that he trusts her choice of work despite discomfort about Sebastian; latest Harper text unanswered
+- Sebastian Blackwood | alive | Blackwood Events & Properties, Adrian's office | Friendly | S01 Dec 16 facilitated interview with father; mutual attraction, complicated friendship
+- Adrian Blackwood | alive | Blackwood Events & Properties, office | Neutral | S01 Dec 16 interviewing Harper; met her previously at Caroline's party, aware of inherited cottage
+- Mrs Blackwood (Sebastian's mother) | alive | Bellweather | Neutral | S01 met Harper at Caroline's party
+- Ruth Mercer | alive | Bellweather | Wary | S01 Dec 15 reported café encounter to Eli as date; Eli plans boundaries talk
+- Sophie | alive | Bellweather bakery | Wary | S01 Dec 16 Harper confronted over gossip and resigned
+- Roxy | alive | Bellweather | Friendly | S01 Dec 15 café with Harper/Sebastian, seeking art contacts; Dec 16 text received
+- Eleanor Whitcomb | alive | Bellweather Inn | Neutral | S01 Dec 16 interviewed Harper, references and rota pending
+- Claire (inn receptionist) | alive | Bellweather Inn | Neutral | S01 Dec 16 greeted Harper
+- Bellweather Books bookseller (name unknown) | alive | Bellweather Books | Friendly | S01 Dec 16 accepted free bookmark adaptation and artist credit
+- Ryan (surname unknown) | alive | outside Bellweather | Wary | S01 Dec 15 called about Harper's hospital bill at his address, promised photo not received
+- Daniel Ashford | alive | Bellweather | Neutral | S01 interested in Harper's cottage, married Caroline
+- Caroline Ashford | alive | Bellweather | Neutral | S01 hosted party where Harper met Blackwood parents
+- Melissa Whitcomb | alive | Bellweather Realty | Neutral | S01 gave cottage key and repair/work leads
+- Vanessa Price | alive | Bellweather | Neutral | S01 festival chair
+- Mara | alive | Gilded Stag | Neutral | S01 bartender
+- Frank | alive | Bellweather | Neutral | S01 repaired downstairs electrics
+- Margaret Vale | alive | Bellweather | Neutral | S01 solicitor handling Aunt May estate
+- Graham | alive | Bellweather | Neutral | S01 knows stone planter hiding tin with May's papers
+- Vivienne | alive | Bellweather or elsewhere, unconfirmed | Neutral | S01 Sebastian reports on-off relationship and family marriage pressure
+- Sally | alive | elsewhere, unconfirmed | Neutral | S01 owes Harper $3,000 art commission, settlement refused
