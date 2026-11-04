@@ -8,9 +8,9 @@
 - Short-term goals: Maintain his specialist role and personal autonomy while evaluating institutional family-formation expectations.
 - Long-term goals: Stable home and meaningful private relationships, though wary of institutionally engineered intimacy.
 - Methods & lines: Will negotiate, ask precise questions, follow rules selectively. Won't willingly mistreat a partner or pretend enthusiasm he does not feel. Last resort: risk professional standing to protect an important boundary.
-- Relationship to player: Stranger; no contact.
-- Knowledge: Has reviewed Mara Vey's preliminary profile and accepted an introduction; knows the meeting is set for 10 May 2143, 18:30 in Private Social Suite 6. No personal meeting or agreement yet.
-- History with player: Mutual introductory meeting accepted 8 May 2143; no direct contact.
+- Relationship to player: New acquaintance; first meeting just begun.
+- Knowledge: Reviewed Mara Vey's preliminary profile and accepted an introduction; has now seen her enter Private Social Suite 6 on 10 May 2143. Knows nothing of her private preparations or concerns.
+- History with player: Mutual introductory meeting accepted 8 May 2143. First met in person 10 May 2143, approximately 18:25.
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 50 / 100
