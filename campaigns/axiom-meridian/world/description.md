@@ -6,4 +6,4 @@ Life varies dramatically by geography, employment and civic tier. In prosperous 
 
 Axiom Meridian is a vast corporation deeply integrated with public administration. Employment there can provide housing priority, healthcare access, mobility privileges and social advancement. Its campuses are clean, efficient and deliberately humane in presentation. The institution knows a great deal about its workers through legal monitoring and data-sharing systems.
 
-Human reproduction is increasingly subject to medical optimization and institutional incentives in parts of society. The precise systems, norms and corporate involvement relevant to Mara are not yet established canon and will emerge through play.
+AI demographic planning targets managed population stability. Birth rates have continued declining in wealthier regions despite prosperity and healthcare access. Public and corporate institutions coordinate family-formation incentives and eligibility screening to maintain desired birth cohorts. The precise matched-selection programme and its obligations are still emerging through play.
