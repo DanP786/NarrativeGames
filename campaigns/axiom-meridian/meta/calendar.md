@@ -1,7 +1,7 @@
 # Calendar
 
-- Date: 8 November 2142
-- Season: autumn
+- Date: 8 May 2143
+- Season: spring
 - Time of day: morning
-- Current location: Axiom Meridian Central Campus, Employee Health clinic
-- Notable upcoming: Mara's first-month employee physical examination is beginning.
+- Current location: Axiom Meridian Central Campus, employee development suite
+- Notable upcoming: Mara's confidential Personal Futures consultation, scheduled following six-month review.

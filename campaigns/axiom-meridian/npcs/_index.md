@@ -1,4 +1,5 @@
 # NPC index
 
-- Nessa Vale | Operations Integrity, Junior Assignment Group C | Energetic junior analyst; Mara's first friendly coworker contact | Dining hall, lunch
-- Dr Iona Senn | Central Campus Employee Health | Calm, meticulous clinician conducting Mara's first-month physical | Employee Health examination room
+- Nessa Vale | alive | Operations Integrity, Junior Assignment Group C | Friendly | last seen S02 (now part of Mara's small workplace friendship circle)
+- Dr Iona Senn | alive | Central Campus Employee Health | Neutral | last seen S02 (completed Mara's first-month physical)
+- Talia Renn | alive | Operations Integrity, Central Campus | Friendly | last seen S02 (colleague befriended during the intervening six months)
