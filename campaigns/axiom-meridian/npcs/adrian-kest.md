@@ -9,8 +9,8 @@
 - Long-term goals: Stable home and meaningful private relationships, though wary of institutionally engineered intimacy.
 - Methods & lines: Will negotiate, ask precise questions, follow rules selectively. Won't willingly mistreat a partner or pretend enthusiasm he does not feel. Last resort: risk professional standing to protect an important boundary.
 - Relationship to player: Stranger; no contact.
-- Knowledge: Does not know Mara Vey or that she has seen his preliminary profile.
-- History with player: None.
+- Knowledge: Mara Vey's preliminary profile was sent to his secure employee portal on 8 May 2143; whether he has opened it is not yet established. No personal meeting or agreement.
+- History with player: None; received invitation to consider a mutual introduction.
 
 ## Disposition (GM-only — never narrate as numbers)
 - Trust: 50 / 100
