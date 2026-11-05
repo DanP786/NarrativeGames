@@ -1,9 +1,17 @@
 - Harper Devvene | alive | Blackwood Events & Properties, Adrian's office | PC | S01 Dec 16 interviewing
 - Eli Mercer | alive | Bellweather, at work | Devoted | S01 Dec 16 texted Harper that he trusts her choice of work despite discomfort about Sebastian; latest Harper text unanswered
+- Ruth Mercer | alive | Bellweather | Wary | S01 Dec 15 reported café encounter to Eli as date; Eli plans boundaries talk; widow of Peter, mother of Tom, Andy and Eli
+- Peter Mercer | deceased | deceased, before S01 | Neutral | Eli's father and Ruth's late husband; date/cause unknown
+- Thomas 'Tom' Mercer | alive | Bellweather area, exact location unknown | Neutral | eldest Mercer brother, husband of Laura, father of Molly and Ben; met Harper at family visit
+- Laura Mercer | alive | Bellweather area, exact location unknown | Neutral | Tom's wife, mother of Molly and Ben; met Harper at family visit
+- Molly Mercer | alive | Bellweather area, exact location unknown | Neutral | Tom and Laura's daughter, age 9; Eli's niece
+- Ben Mercer | alive | Bellweather area, exact location unknown | Neutral | Tom and Laura's son, age 6; Eli's nephew
+- Andrew 'Andy' Mercer | alive | Bellweather area, exact location unknown | Neutral | middle Mercer brother, husband of Natalie, father of Lucy; met Harper at family visit
+- Natalie Mercer | alive | Bellweather area, exact location unknown | Neutral | Andy's wife, mother of Lucy; met Harper at family visit
+- Lucy Mercer | alive | Bellweather area, exact location unknown | Neutral | Andy and Natalie's daughter, age 4; Eli's niece
 - Sebastian Blackwood | alive | Blackwood Events & Properties, Adrian's office | Friendly | S01 Dec 16 facilitated interview with father; mutual attraction, complicated friendship
 - Adrian Blackwood | alive | Blackwood Events & Properties, office | Neutral | S01 Dec 16 interviewing Harper; met her previously at Caroline's party, aware of inherited cottage
 - Mrs Blackwood (Sebastian's mother) | alive | Bellweather | Neutral | S01 met Harper at Caroline's party
-- Ruth Mercer | alive | Bellweather | Wary | S01 Dec 15 reported café encounter to Eli as date; Eli plans boundaries talk
 - Sophie | alive | Bellweather bakery | Wary | S01 Dec 16 Harper confronted over gossip and resigned
 - Roxy | alive | Bellweather | Friendly | S01 Dec 15 café with Harper/Sebastian, seeking art contacts; Dec 16 text received
 - Eleanor Whitcomb | alive | Bellweather Inn | Neutral | S01 Dec 16 interviewed Harper, references and rota pending
