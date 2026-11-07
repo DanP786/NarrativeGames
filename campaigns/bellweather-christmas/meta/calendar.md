@@ -1,5 +1,5 @@
-Date: Spring 2027 (exact date not yet established)
+Date: Friday in April 2027 (exact day not established)
 Season: spring
-Time: daytime, exact hour unestablished
-Location: Bellweather, Vermont; Harper and Eli living together at Eli's house while 18 Holly Lane is renovated
-Notable upcoming: Roof grant decision pending; roof repairs await funding. Cottage heating fixed; house and garden gutted and cleared, with reconstruction still ahead. Harper permanently employed full-time at Blackwood Events, working alongside Sebastian. Eli manages renovation work, Harper retains final decisions. Harper and Eli attend Sebastian's gigs together; Harper and Roxy have grown closer.
+Time: ~5 p.m., rainy late afternoon
+Location: Blackwood Events office, Bellweather, Vermont; Harper with Sebastian, other staff mostly gone
+Notable upcoming: Sebastian has just told Harper his song 'Wrong Season' is finished and recorded as a demo, but unperformed; he waits for her reply. Eli unaware of Harper's secret Christmas Eve visit/song/text. Harper lives with Eli; cottage roof grant decision pending, heating repaired, house and garden gutted. Harper permanent full-time at Blackwood Events; Eli leads renovation logistics, Harper retains final say.
