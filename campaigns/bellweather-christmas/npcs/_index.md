@@ -1,23 +1,23 @@
-- Harper Devvene | alive | Blackwood Events & Properties, Adrian's office | PC | S01 Dec 16 interviewing
-- Eli Mercer | alive | Bellweather, at work | Devoted | S01 Dec 16 texted Harper that he trusts her choice of work despite discomfort about Sebastian; latest Harper text unanswered
-- Ruth Mercer | alive | Bellweather | Wary | S01 Dec 15 reported café encounter to Eli as date; Eli plans boundaries talk; widow of Peter, mother of Tom, Andy and Eli
-- Peter Mercer | deceased | deceased, before S01 | Neutral | Eli's father and Ruth's late husband; date/cause unknown
-- Thomas 'Tom' Mercer | alive | Bellweather area, exact location unknown | Neutral | eldest Mercer brother, husband of Laura, father of Molly and Ben; met Harper at family visit
-- Laura Mercer | alive | Bellweather area, exact location unknown | Neutral | Tom's wife, mother of Molly and Ben; met Harper at family visit
-- Molly Mercer | alive | Bellweather area, exact location unknown | Neutral | Tom and Laura's daughter, age 9; Eli's niece
-- Ben Mercer | alive | Bellweather area, exact location unknown | Neutral | Tom and Laura's son, age 6; Eli's nephew
-- Andrew 'Andy' Mercer | alive | Bellweather area, exact location unknown | Neutral | middle Mercer brother, husband of Natalie, father of Lucy; met Harper at family visit
-- Natalie Mercer | alive | Bellweather area, exact location unknown | Neutral | Andy's wife, mother of Lucy; met Harper at family visit
-- Lucy Mercer | alive | Bellweather area, exact location unknown | Neutral | Andy and Natalie's daughter, age 4; Eli's niece
-- Sebastian Blackwood | alive | Blackwood Events & Properties, Adrian's office | Friendly | S01 Dec 16 facilitated interview with father; mutual attraction, complicated friendship
-- Adrian Blackwood | alive | Blackwood Events & Properties, office | Neutral | S01 Dec 16 interviewing Harper; met her previously at Caroline's party, aware of inherited cottage
+- Harper Devvene | alive | Bellweather, living with Eli and working at Blackwood Events | PC | S02 spring 2027 permanent full-time events job; cottage renovation ongoing
+- Eli Mercer | alive | Bellweather, living with Harper | Devoted | S02 spring 2027 leads cottage renovation, Harper retains final say; accompanies Harper to Sebastian's gigs
+- Ruth Mercer | alive | Bellweather | Wary | S02 Christmas 2026 apologized to Harper and began tentative reconciliation
+- Peter Mercer | deceased | deceased, before S01 | Neutral | Eli's father and Ruth's late husband
+- Thomas 'Tom' Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 family lunch; Laura's husband, Molly and Ben's father
+- Laura Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 welcomed Harper's drawings; Tom's wife
+- Molly Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 Harper drew her a dragon
+- Ben Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 helped design Professor Wobblebottom
+- Andrew 'Andy' Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 family lunch; Natalie's husband, Lucy's father
+- Natalie Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 family lunch
+- Lucy Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 Harper drew fairy and pet dinosaur Pickle
+- Sebastian Blackwood | alive | Bellweather, Blackwood Events | Friendly | S02 spring 2027 works alongside Harper full-time; unresolved mutual attraction and touches; plays gigs Harper attends with Eli
+- Adrian Blackwood | alive | Bellweather, Blackwood Events | Neutral | S02 Harper now permanently employed full-time in events business
 - Mrs Blackwood (Sebastian's mother) | alive | Bellweather | Neutral | S01 met Harper at Caroline's party
-- Sophie | alive | Bellweather bakery | Wary | S01 Dec 16 Harper confronted over gossip and resigned
-- Roxy | alive | Bellweather | Friendly | S01 Dec 15 café with Harper/Sebastian, seeking art contacts; Dec 16 text received
-- Eleanor Whitcomb | alive | Bellweather Inn | Neutral | S01 Dec 16 interviewed Harper, references and rota pending
-- Claire (inn receptionist) | alive | Bellweather Inn | Neutral | S01 Dec 16 greeted Harper
-- Bellweather Books bookseller (name unknown) | alive | Bellweather Books | Friendly | S01 Dec 16 accepted free bookmark adaptation and artist credit
-- Ryan (surname unknown) | alive | outside Bellweather | Wary | S01 Dec 15 called about Harper's hospital bill at his address, promised photo not received
+- Sophie | alive | Bellweather bakery | Wary | S01 Harper confronted over gossip and resigned
+- Roxy | alive | Bellweather | Friendly | S02 spring 2027 goes out with Harper, friendship deepened
+- Eleanor Whitcomb | alive | Bellweather Inn | Neutral | S01 interviewed Harper; subsequent outcome unestablished
+- Claire (inn receptionist) | alive | Bellweather Inn | Neutral | S01 greeted Harper
+- Bellweather Books bookseller (name unknown) | alive | Bellweather Books | Friendly | S01 accepted bookmark adaptation and artist credit
+- Ryan (surname unknown) | alive | outside Bellweather | Wary | S01 called about Harper's hospital bill
 - Daniel Ashford | alive | Bellweather | Neutral | S01 interested in Harper's cottage, married Caroline
 - Caroline Ashford | alive | Bellweather | Neutral | S01 hosted party where Harper met Blackwood parents
 - Melissa Whitcomb | alive | Bellweather Realty | Neutral | S01 gave cottage key and repair/work leads
@@ -26,5 +26,5 @@
 - Frank | alive | Bellweather | Neutral | S01 repaired downstairs electrics
 - Margaret Vale | alive | Bellweather | Neutral | S01 solicitor handling Aunt May estate
 - Graham | alive | Bellweather | Neutral | S01 knows stone planter hiding tin with May's papers
-- Vivienne | alive | Bellweather or elsewhere, unconfirmed | Neutral | S01 Sebastian reports on-off relationship and family marriage pressure
+- Vivienne | alive | whereabouts unconfirmed | Neutral | S01 Sebastian reports on-off relationship and family marriage pressure
 - Sally | alive | elsewhere, unconfirmed | Neutral | S01 owes Harper $3,000 art commission, settlement refused
