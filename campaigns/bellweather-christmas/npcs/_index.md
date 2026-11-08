@@ -1,30 +1,34 @@
-- Harper Devvene | alive | Bellweather, living with Eli and working at Blackwood Events | PC | S02 spring 2027 permanent full-time events job; cottage renovation ongoing
-- Eli Mercer | alive | Bellweather, living with Harper | Devoted | S02 spring 2027 leads cottage renovation, Harper retains final say; accompanies Harper to Sebastian's gigs
-- Ruth Mercer | alive | Bellweather | Wary | S02 Christmas 2026 apologized to Harper and began tentative reconciliation
-- Peter Mercer | deceased | deceased, before S01 | Neutral | Eli's father and Ruth's late husband
-- Thomas 'Tom' Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 family lunch; Laura's husband, Molly and Ben's father
-- Laura Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 welcomed Harper's drawings; Tom's wife
-- Molly Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 Harper drew her a dragon
-- Ben Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 helped design Professor Wobblebottom
-- Andrew 'Andy' Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 family lunch; Natalie's husband, Lucy's father
-- Natalie Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 family lunch
-- Lucy Mercer | alive | Bellweather area | Neutral | S02 Christmas 2026 Harper drew fairy and pet dinosaur Pickle
-- Sebastian Blackwood | alive | Bellweather, Blackwood Events | Friendly | S02 spring 2027 works alongside Harper full-time; unresolved mutual attraction and touches; plays gigs Harper attends with Eli
-- Adrian Blackwood | alive | Bellweather, Blackwood Events | Neutral | S02 Harper now permanently employed full-time in events business
+- Harper Devvene | alive | Blackwood Events office, Bellweather | PC | S03 Mon Nov 29 2027, privately reviewed sexual health clinic paperwork after Adam weekend; no results
+- Eli Mercer | alive | Bellweather, own home with golden retriever Murphy | Friendly | S03 Sun Nov 28: ex since mid-July; still loves Harper, fears reconciliation, no kiss or promises; left her cottage ~6:43 p.m.; knows Adam impeded her leaving/phone but no sexual details
+- Sebastian Blackwood | alive | Blackwood Events, Bellweather | Friendly | S03 Mon Nov 29: teasing cardigan banter and corrected floral proof; with Natalie Reed last known; privately warned Eli Nov 25 about Harper's self-neglect (Harper unaware)
+- Roxy | alive | Bellweather | Friendly | S03 Sat Nov 27: Adam impersonated Harper to cancel market; Roxy replied concerned, unanswered; does not work at Blackwood Events
+- Adam (surname unknown) | alive | Bellweather area, home address unestablished | Wary | S03 Fri–Sun Nov 26–28: coercively prevented Harper leaving, disabled phone, unprotected encounters; dropped her at Eli's; does not know Harper's cottage address
+- Claire (Eli's former girlfriend; surname unknown) | alive | Bellweather | Neutral | S03 dated Eli from Aug 2027, separated before Nov; distinct from inn/Blackwood reception Claires unless established otherwise
+- Natalie Reed | alive | Bellweather | Neutral | S03 Sebastian's girlfriend, last known
+- Ruth Mercer | alive | Bellweather | Wary | S02 Christmas 2026 tentative thaw; mother of Eli
+- Peter Mercer | deceased | deceased before S01 | Neutral | Eli's father
+- Thomas 'Tom' Mercer | alive | Bellweather area | Neutral | Eli's brother, Laura's husband, Molly and Ben's father
+- Laura Mercer | alive | Bellweather area | Neutral | Tom's wife
+- Molly Mercer | alive | Bellweather area | Neutral | Tom and Laura's child
+- Ben Mercer | alive | Bellweather area | Neutral | Tom and Laura's child
+- Andrew 'Andy' Mercer | alive | Bellweather area | Neutral | Eli's brother, Natalie's husband, Lucy's father
+- Natalie Mercer | alive | Bellweather area | Neutral | Andy's wife, distinct from Natalie Reed
+- Lucy Mercer | alive | Bellweather area | Neutral | Andy and Natalie's child
+- Adrian Blackwood | alive | Bellweather, Blackwood Events | Neutral | Harper's employer
 - Mrs Blackwood (Sebastian's mother) | alive | Bellweather | Neutral | S01 met Harper at Caroline's party
-- Sophie | alive | Bellweather bakery | Wary | S01 Harper confronted over gossip and resigned
-- Roxy | alive | Bellweather | Friendly | S02 spring 2027 goes out with Harper, friendship deepened
-- Eleanor Whitcomb | alive | Bellweather Inn | Neutral | S01 interviewed Harper; subsequent outcome unestablished
-- Claire (inn receptionist) | alive | Bellweather Inn | Neutral | S01 greeted Harper
-- Bellweather Books bookseller (name unknown) | alive | Bellweather Books | Friendly | S01 accepted bookmark adaptation and artist credit
-- Ryan (surname unknown) | alive | outside Bellweather | Wary | S01 called about Harper's hospital bill
-- Daniel Ashford | alive | Bellweather | Neutral | S01 interested in Harper's cottage, married Caroline
-- Caroline Ashford | alive | Bellweather | Neutral | S01 hosted party where Harper met Blackwood parents
-- Melissa Whitcomb | alive | Bellweather Realty | Neutral | S01 gave cottage key and repair/work leads
+- Sophie | alive | Bellweather bakery | Wary | S01 Harper resigned
+- Eleanor Whitcomb | alive | Bellweather Inn | Neutral | S01 interviewed Harper
+- Claire (inn receptionist) | alive | Bellweather Inn | Neutral | S01 greeted Harper; distinct from Eli's ex unless established
+- Claire (Blackwood reception) | alive | Blackwood Events | Neutral | S01 receptionist; distinct from Eli's ex unless established
+- Bellweather Books bookseller (name unknown) | alive | Bellweather Books | Friendly | S01 accepted bookmark adaptation
+- Ryan (surname unknown) | alive | outside Bellweather | Wary | S01 ex, called about hospital bill
+- Daniel Ashford | alive | Bellweather | Neutral | S01 interested in cottage, married Caroline
+- Caroline Ashford | alive | Bellweather | Neutral | S01 hosted party
+- Melissa Whitcomb | alive | Bellweather Realty | Neutral | S01 gave cottage key
 - Vanessa Price | alive | Bellweather | Neutral | S01 festival chair
 - Mara | alive | Gilded Stag | Neutral | S01 bartender
-- Frank | alive | Bellweather | Neutral | S01 repaired downstairs electrics
-- Margaret Vale | alive | Bellweather | Neutral | S01 solicitor handling Aunt May estate
-- Graham | alive | Bellweather | Neutral | S01 knows stone planter hiding tin with May's papers
-- Vivienne | alive | whereabouts unconfirmed | Neutral | S01 Sebastian reports on-off relationship and family marriage pressure
-- Sally | alive | elsewhere, unconfirmed | Neutral | S01 owes Harper $3,000 art commission, settlement refused
+- Frank | alive | Bellweather | Neutral | S01 repaired electrics
+- Margaret Vale | alive | Bellweather | Neutral | S01 solicitor
+- Graham | alive | Bellweather | Neutral | S01 knows tin location
+- Vivienne | alive | whereabouts unconfirmed | Neutral | S01 Sebastian's former on-off partner, present status unconfirmed
+- Sally | alive | elsewhere | Neutral | S01 overdue commission later paid by employer

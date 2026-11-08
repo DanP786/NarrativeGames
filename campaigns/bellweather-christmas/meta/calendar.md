@@ -1,5 +1,5 @@
-Date: Friday in April 2027 (exact day not established)
-Season: spring
-Time: ~5 p.m., rainy late afternoon
-Location: Blackwood Events office, Bellweather, Vermont; Harper with Sebastian, other staff mostly gone
-Notable upcoming: Sebastian has just told Harper his song 'Wrong Season' is finished and recorded as a demo, but unperformed; he waits for her reply. Eli unaware of Harper's secret Christmas Eve visit/song/text. Harper lives with Eli; cottage roof grant decision pending, heating repaired, house and garden gutted. Harper permanent full-time at Blackwood Events; Eli leads renovation logistics, Harper retains final say.
+Date: Monday 29 November 2027
+Season: late autumn, approaching Christmas
+Time: ~9:15 a.m.
+Location: Harper's private office, Blackwood Events, Bellweather, Vermont
+Notable upcoming: Junior coordinator knocking about Winter Garden proofs; Roxy's Saturday text unanswered. Harper privately attended sexual health clinic this morning after coercive weekend with Adam; testing results not established, follow-up may be time-sensitive. Adam does not know Harper's address. Harper and Eli broke up mid-July and remain broken up despite emotionally intimate Sunday Nov 28; Eli loves her but is afraid to reconcile; Harper wishes to reunite but privately took his caution as rejection. Cottage renovated but sparse, future undecided.
