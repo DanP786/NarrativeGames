@@ -1,6 +1,7 @@
-S04 T001 — Monday Nov 29 2027, ~5:35 p.m. Adam waits outside Blackwood Events as Harper leaves, having found her workplace; he does not know her cottage address.
-S04 T002 — Harper asks how he knows her workplace; Adam catches her around the middle as she walks toward her own car.
-S04 T003 — Harper says she has had a long day; Adam steers her to his car and suggests dinner.
-S04 T004 — Harper steps back but Adam guides her into his passenger seat; she doesn't make a fuss. He drives away, leaving her car at work.
-S04 T005 — Harper says she didn't stay with Eli. Adam throws her bag onto the back seat and directs her to remove her coat, which goes in back too. Phone and keys likely among belongings, exact pocket not established. He asks whether Eli knows she is with him.
-S04 T006 — Harper replies, 'You just picked me up… so no?' Adam puts his hand inside her trousers while driving, without asking; she does not resist. This is not affirmative consent, particularly given his prior coercion and her constrained situation. Non-graphic scene: Adam withdraws his hand to negotiate a bend, then says he wants to stop somewhere before dinner. They are on a quiet road beyond the lakeside restaurant turnoff, around 5:50 p.m.; destination uncertain. Harper has not answered his suggestion. No other NPC knows of her clinic visit.
+S04 T001 — Adam waits outside Harper's workplace at dusk, having found it; still doesn't know her cottage address.
+S04 T002 — Adam catches Harper around middle when she walks toward her own car.
+S04 T003 — Harper says she has had a long day; Adam steers her toward his car and suggests dinner.
+S04 T004 — Adam guides hesitant Harper into passenger seat; drives away, leaving her car at Blackwood Events.
+S04 T005 — Adam takes Harper's bag and coat, putting them on back seat; asks if Eli knows where she is.
+S04 T006 — Harper says Eli does not know; Adam touches her inside trousers without asking while driving, and she doesn't resist. Nonresistance is not affirmative consent. He proposes stopping somewhere quiet before dinner.
+S04 T007 — Harper asks 'Where?' Adam identifies a secluded lakeside overlook/turnout, claims it is a brief stop to talk, and turns down the narrow access road without waiting for affirmative agreement. Bag and coat remain in back; phone/keys exact location not established. Car approaching overlook ~5:52 p.m. No one knows about Harper's clinic visit.
