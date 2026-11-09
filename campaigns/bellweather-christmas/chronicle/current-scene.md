@@ -23,4 +23,5 @@ S04 T060 — Harper goes straight to Adam's car; he drives toward Blackwood Even
 S04 T061 — Harper says she could not notify work because Adam held her phone. He deflects blame, says she can explain at office, still has phone.
 S04 T062 — Harper says work ends at 6 p.m.; Adam promises pickup at six sharp.
 S04 T063 — Adam returns Harper's switched-off phone, takes her house and car keys, retaining spare cottage key.
-S04 T064 — ~9:05 a.m. Tuesday Nov 30, Harper smiles and says 'Thanks for last night baby' while getting out of Adam's car. Adam responds affectionately and reminds her of 6 p.m. pickup. Harper enters Blackwood Events with phone OFF in her possession; Adam retains all keys, her own car parked outside. At reception colleague notes she is late and her morning meeting has started. Adam unaware of private clinic visit.
+S04 T064 — Harper smiles and thanks Adam for last night, enters work. Receptionist notes lateness and missed calls; morning meeting underway.
+S04 T065 — ~9:10 a.m. Tuesday Nov 30, Harper says 'Yeah. Sorry' to receptionist and goes straight into nine o'clock Blackwood Events planning meeting. Her switched-off phone remains in handbag. Adam holds house, car and spare cottage keys, will collect her at 6 p.m. Employer has no explanation for lateness yet. Adam unaware of private clinic visit.
