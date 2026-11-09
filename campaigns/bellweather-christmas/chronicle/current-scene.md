@@ -18,11 +18,11 @@ S04 T104 — Harper steps forward and asks politely for keys; Adam draws them aw
 S04 T105 — Harper steps close, rests hand on Adam's fist holding keys, pleads. Two police officers enter, ask for space; Sebastian identifies as caller. Adam still has keys.
 S04 T106 — Adam releases key ring into Harper's hand under police observation, expects her to tell police misunderstanding. Officer Bennett draws Harper aside to ask about keys and safety.
 S04 T107 — Harper sees spare cottage key absent but falsely says all keys returned, says Adam can leave and she only wanted keys back. Bennett asks about gun and whether Adam knows home address.
-S04 T108 — Harper confirms gun in Adam's glovebox and that he knows her home address. Bennett asks about threats and whether Adam wants police to tell him not to contact her.
+S04 T108 — Harper confirms gun in Adam's glovebox and that he knows her home address. Bennett asks about threats and whether she wants police to tell Adam not to contact her.
 S04 T109 — Harper says Adam hasn't threatened her with gun and she can speak for herself; police independently question him.
 S04 T110 — Officers check Adam's firearm documentation, provide incident reference and leave. Harper stays to be clear with Adam; Sebastian stays nearby. Adam asks whether she truly means never seeing him again.
 S04 T111 — Harper answers yes, Adam asks whether she wants him to walk out and never call again.
 S04 T112 — Harper says 'Yes please'; Adam departs by car, no guarantee no contact. Sebastian offers to sit with Harper or get her phone upstairs.
 S04 T113 — Sebastian approves Harper's paid remainder of day off without make-up, offers to retrieve phone, reminds her to check locksmith.
-S04 T114 — Harper retrieves phone/belongings, drives home, calls Eli hands-free. Eli asks if Adam left and she is safe; locksmith expected soon.
-S04 T115 — ~11:25 a.m. Tue Nov 30, Harper tells Eli 'Yeah I'm good. I told him it was over. He seemed to listen.' Eli is relieved but cautiously notes they cannot know if Adam will honor it, says locksmith is nearly due and Murphy is with him, offers to stay while locks changed or give Harper space. Harper nearing 18 Holly Lane by car, call ongoing. Spare cottage key still with Adam, locks unchanged; no new contact from Adam known.
+S04 T114 — Harper retrieves phone/belongings, drives home, calls Eli hands-free. Eli is OUTSIDE locked cottage with Murphy, awaiting locksmith, not inside house; previous narration suggesting otherwise is erroneous.
+S04 T115 — ~11:25 a.m. Tue Nov 30, Harper tells Eli 'Yeah I'm good. I told him it was over. He seemed to listen. I have my keys too so no need to break in.' Eli, waiting outside 18 Holly Lane with Murphy, is relieved, notes locksmith should still replace locks because Adam retains missing spare key. Harper approaching cottage by car, call ongoing. Locksmith due ~11:30, locks unchanged, no new Adam contact known.
