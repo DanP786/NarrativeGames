@@ -3,32 +3,17 @@ S04 T009–T014 — Adam directed coercive sexual encounter; compliance not affi
 S04 T015–T019 — Adam demanded thanks; Harper complied. At townhouse driveway Harper saw handgun in glovebox, loaded status unknown. Adam powered OFF Harper's phone and left it beside gun in glovebox.
 S04 T020–T023 — Pizza and wine at townhouse. Harper agrees to go to work late Tuesday but has not informed employer. Adam imposes revealing lingerie as house uniform; her work clothes downstairs.
 S04 T024–T028 — Adam makes invasive intimate check; later shows purchased wardrobe/toiletries, Harper agrees to stay Tuesday night.
-S04 T029–T030 — Adam imposes unilateral rules: no phone together, whereabouts reports, no Eli visits, selected house clothes, direct answers, approval of social plans, no discussing relationship with Roxy/colleagues, prompt callbacks, spare cottage key.
-S04 T031–T035 — Harper questions one-way key rule; Adam becomes angry, physically punishes her, demands apology. She apologizes and promises key tomorrow; he still has no key/address.
-S04 T036–T038 — Adam coerces further sex Monday evening repeatedly; non-graphic fade. He blames her attractiveness and says he needs to keep her filled with his semen. No reliable protection details.
-S04 T039–T042 — Adam performs another uninvited intimate check, then restrains Harper in bed until she explains she needs bathroom; she returns after using it.
-S04 T043–T045 — Tuesday Nov 30 morning Harper wakes after intermittent sleep. Adam proposes breakfast, cottage stop for key/belongings, late work drop-off, and weeklong stay at townhouse. Harper questions house, then nods. He selects cream jumper and dark skirt for her.
-S04 T046 — Harper washes, puts on Adam-selected cream jumper, dark skirt and lacy uncomfortable underwear, then comes downstairs to breakfast. Adam asks cottage address.
-S04 T047–T048 — Harper tells Adam cottage address is 18 Holly Lane, Bellweather; he enters it in his phone's navigation app.
-S04 T049 — Harper says spare cottage key is 'in the kitchen' (no specific drawer established). Adam starts car to warm it, leaving Harper inside.
-S04 T050 — Harper finishes breakfast, washes dishes and gathers handbag and own folded clothes, ready by front door.
-S04 T051 — ~8:00 a.m. Tuesday Nov 30, Harper gets into passenger seat of Adam's car with bag and clothes. She reaches for glovebox to retrieve phone (OFF inside beside black handgun). Adam stops her and threatens punishment at her cottage, forbids touching glovebox.
-S04 T052 — En route Harper apologizes, Adam accepts apology but maintains threat of punishment and says she may ask for phone after cottage visit without promising access.
-S04 T053–T054 — Adam drives to 18 Holly Lane, admires cottage renovation, insists on threatened punishment before packing or spare key.
-S04 T055–T056 — Harper approaches, sits in chair and explains that she broke Adam's rule by reaching for phone. Adam orders her to stand.
-S04 T057 — Harper stands; Adam spanks her as physical punishment, then declares matter settled and demands spare key.
-S04 T058 — Harper retrieves spare cottage key from kitchen and hands it to Adam, who pockets it.
-S04 T059 — Adam follows Harper upstairs and initiates sex on her bed amid coercive control; non-graphic fade. No clothes packed.
-S04 T060 — Harper goes straight to Adam's car; he drives toward Blackwood Events. He has cottage spare key; her phone OFF in glovebox beside handgun; her car at work.
-S04 T061 — Harper says she could not notify work because Adam held her phone. He deflects blame, says she can explain at office, still has phone.
-S04 T062 — Harper says work ends at 6 p.m.; Adam promises pickup at six sharp.
-S04 T063 — Adam returns Harper's switched-off phone, takes her house and car keys, retaining spare cottage key.
-S04 T064 — Harper smiles and thanks Adam for last night, enters work. Receptionist notes lateness and missed calls; morning meeting underway.
-S04 T065 — Harper enters nine o'clock gala design meeting late.
-S04 T066 — Harper professionally conducts meeting then enters Sebastian's office and closes door.
-S04 T067 — Harper tells Sebastian she went home with man over weekend and he won't leave her alone; Sebastian asks if she is safe and if man knows workplace.
-S04 T068 — Harper tells Sebastian man knows home/work and has house/car keys; Sebastian offers support and asks about workplace visit.
-S04 T069 — Harper says man picked her up Monday and expects pickup Tuesday at six, powers on phone.
-S04 T070 — Harper denies being hurt and says Adam unaware of Sebastian conversation; notifications from Roxy, Blackwood, Adam.
-S04 T071 — Harper names Adam, surname unknown, texts Adam reassuringly, Roxy briefly and Eli requesting lock change. Eli replies yes and asks if safe.
-S04 T072 — ~10:16 a.m. Tuesday Nov 30, Harper tells Sebastian she does not want to see Adam again, calls him a creep, explains she had Adam drop her at Eli's to conceal cottage address but Adam subsequently learned it and took keys. Harper texts Eli that she is safe at work, has no keys, he will need to gain entry, may keep spare and she will repay; texts her neighbors Mr and Mrs Whitcomb that Eli Mercer is coming to change locks because she lost keys. Messages sent. Sebastian knows Eli is involved and that Adam has her keys and expects pickup at six. No lock changed yet; Eli's next response pending. Adam unaware of this plan, still holds regular house/car and spare cottage keys.
+S04 T029–T030 — Adam imposes unilateral rules: no phone together, whereabouts reports, selected house clothes, approval of social plans, no Eli visits, no discussing relationship with Roxy/colleagues, spare cottage key.
+S04 T031–T035 — Harper questions one-way key rule; Adam physically punishes her and demands apology. She apologizes.
+S04 T036–T038 — Adam coerces further sex Monday evening repeatedly; non-graphic fade. No reliable protection details.
+S04 T039–T042 — Adam performs uninvited intimate check, restrains Harper until she asks for bathroom.
+S04 T043–T050 — Tuesday Nov 30 Adam plans cottage stop, late work drop-off and week at townhouse, selects Harper's work outfit. Harper gives cottage address 18 Holly Lane and says spare key is in kitchen.
+S04 T051–T057 — Adam stops Harper reaching into glovebox for phone beside black handgun, threatens and administers physical punishment at cottage.
+S04 T058 — Harper gives Adam spare cottage key.
+S04 T059 — Adam follows Harper upstairs and initiates coerced sex on her bed, non-graphic fade. No clothes packed.
+S04 T060–T063 — Adam drives Harper to work. She says shift ends six; he expects to collect her then. He returns switched-off phone but takes her house and car keys; also holds spare cottage key. Her car remains at work.
+S04 T064–T066 — Harper enters Blackwood Events late, attends gala meeting professionally, then closes Sebastian's office door.
+S04 T067–T070 — Harper tells Sebastian she went home with a man named Adam (surname unknown), he won't leave her alone, knows home/work, holds her house/car keys and expects to pick her up at six. She says she feels safe at work, denies being hurt, and says Adam doesn't know she confided in Sebastian. Powers on phone; messages from Roxy, Adam, work.
+S04 T071 — Harper texts Adam reassuringly, Roxy briefly, Eli requesting lock change; Eli agrees and asks if safe.
+S04 T072 — Harper says she does not want to see Adam again; she had tried to conceal cottage address by having Adam drop her at Eli's but Adam learned it and took keys. She texts Eli she is at work, has no keys, requests entry and lock replacement, offers reimbursement and says he can keep spare; informs neighbors Mr and Mrs Whitcomb that Eli Mercer is coming. Eli replies he is leaving, can get locksmith and asks who has keys. No locks changed yet.
+S04 T073 — ~10:19 a.m. Tuesday Nov 30, Harper tells Sebastian to inform reception not to admit Adam and says she will leave work early. She leaves Sebastian's office and calls Eli. Eli answers, concerned, asks where she is and what happened to keys. Sebastian has agreed to notify reception; confirmation of notification pending. Adam unaware of Harper's plans, holds house/car and spare cottage keys; expects six pickup. Harper phone ON, Eli call active.
