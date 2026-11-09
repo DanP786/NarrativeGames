@@ -7,21 +7,13 @@ S04 T078–T079 — Harper told Sebastian she saw gun in Adam's car; no direct g
 S04 T080–T087 — Adam called Harper, she claimed alone though Sebastian present. She requested night apart and keys back; Adam insisted on face-to-face meeting. Harper claimed to be seeing an out-of-town man named Kevin (unverified). Adam suspicious of Eli, announced he would come to Blackwood Events immediately instead of six, ended call ~10:39. Sebastian warned reception.
 S04 T088–T089 — Sebastian calls 911 ~10:41 reporting Adam en route, keys withheld and gun seen in car, no direct threats. Police response pending.
 S04 T090–T091 — Harper accepts Sebastian's arm and moves to interior office; admits Adam made saying no feel impossible. False alarm car was delivery driver.
-S04 T092–T093 — Eli texts from 18 Holly Lane, locksmith due ~11:30, Whitcombs aware. Locks unchanged.
-S04 T094–T095 — Harper calls Eli, warns she told Adam she's seeing someone else, fears for Eli; he promises to avoid confrontation. She tells him Adam is coming to work, Sebastian called police, Adam unaware Eli at cottage.
-S04 T096–T099 — Adam calls from reception, pressures Harper to come down; she says she doesn't want to see him.
-S04 T100–T102 — Harper descends with Sebastian following.
-S04 T103–T106 — Harper asks for keys and no further contact; Adam resists until police arrive, then returns house/car key ring.
-S04 T107–T109 — Harper falsely tells officers all keys returned though spare missing, confirms gun in Adam's glovebox and that he knows address, denies direct gun threats, declines further intervention.
-S04 T110–T112 — Police check Adam's firearm documentation and leave; Harper firmly tells Adam she wants no more contact; Adam drives away.
-S04 T113–T115 — Sebastian grants paid rest of day. Harper retrieves phone and drives home, calls Eli, who waits OUTSIDE locked cottage with Murphy and locksmith due ~11:30.
-S04 T116 — Harper hugs Eli outside 18 Holly Lane. Adam emerges from car nearby, sees them and confronts them, suspecting Eli is supposed 'Kevin.' No weapon displayed.
-S04 T117 — Harper says Eli is just helping; Adam loudly boasts of control, physical punishment and sexual access, framing coercion as consent to humiliate her in front of Eli. Eli knew physical abuse but not sexual coercion; warns Adam to leave or police will be called.
-S04 T118 — Harper says Eli isn't boyfriend and Adam should accept he had a good time and move on. Adam produces withheld spare cottage key as locksmith van arrives.
-S04 T119 — Harper pushes Adam towards his car, saying she asked for keys; he briefly catches wrist, releases at Eli's warning. Locksmith arrives, Eli near cottage with Murphy.
-S04 T120 — Harper quietly tells Adam she had a good time but he comes on too strong. Adam suggests he can slow down, offers spare key but hasn't handed it over.
-S04 T121 — Harper quietly answers Adam's hypothetical: 'Probably not right away.' Adam puts hand on her waist, suggests reconciliation, asks her to send Eli home.
-S04 T122 — Adam says he will not leave her alone, making objectifying sexual comment. Eli asks whether Harper needs him.
-S04 T123 (retconned) — Harper says 'Fine' to Adam, conceding to his pressure to give him another chance; Adam instructs her to send Eli home. Eli doesn't know she conceded.
-S04 T124 — Harper says Eli won't leave until convinced she's safe, and she's lied to him too often. Adam asks her to tell Eli she chooses Adam.
-S04 T125 — ~11:36 a.m. Tue Nov 30, Harper asks Adam to leave now, adding 'You can come back.' Adam accepts conditional promise, presses her to clarify when he may return, gives her the withheld spare key at last, and moves towards driver door but hasn't driven away. Eli and locksmith at cottage front door, replacement underway; Eli watches. Gun not displayed.
+S04 T092–T093 — Harper receives Eli's text from cottage, locksmith arranged.
+S04 T094–T095 — Harper warns Eli of Adam's workplace visit; Eli promises to avoid confrontation.
+S04 T096–T102 — Adam arrives at workplace, pressures Harper to descend; Sebastian follows.
+S04 T103–T112 — Adam returns house/car keys under police observation but retains cottage spare; Harper denies spare is missing and declines further action. Police check gun documentation and leave; Adam drives away.
+S04 T113–T115 — Sebastian grants paid afternoon off; Harper drives home, Eli outside with Murphy.
+S04 T116–T119 — Adam confronts Harper and Eli outside cottage, humiliates her with boasts about coercive relationship; Eli warns him off. Adam produces spare cottage key; locksmith arrives.
+S04 T120–T122 — Harper quietly says Adam came on too strong; he pushes for reconciliation and makes objectifying sexual remark, refusing to leave her alone.
+S04 T123 (retconned) — Harper says 'Fine' and concedes to giving Adam another chance, though Eli does not know.
+S04 T124–T125 — Harper says Eli won't believe her reassurances; asks Adam to leave and says he can come back. Adam hands over spare cottage key, asks when.
+S04 T126 — Tue Nov 30 evening, Harper tells Adam 'Yeah tonight.' Adam leaves. Locksmith finishes changing cottage locks; Eli eventually departs with Murphy after seeing Harper safely inside (no knowledge of her concession to Adam). Much later, ~9:40 p.m., Adam returns; Harper voluntarily opens door and lets him in. Immediately inside, Adam grabs her wrist firmly, visibly angry about the day's police, Eli, and lock change. He demands explanation; no blow or weapon displayed. Harper and Adam alone inside cottage, new locks fitted, Adam has no new key. Gun whereabouts unknown.
