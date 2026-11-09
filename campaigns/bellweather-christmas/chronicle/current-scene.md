@@ -1,21 +1,12 @@
-S04 T001–T008 — Adam found Harper at Blackwood Events after work, physically steered her into his car despite hesitation, took her bag and coat into back seat, drove to secluded lakeside overlook. He touched her without asking while driving; Harper did not resist. She said she wanted to see him again because she judged that the safest answer. He pressed her to promise not to run to Eli again. Adam does not know her cottage address or private clinic visit.
-S04 T009–T013 — Adam instructed Harper to undress, pulled her onto his lap and directed a coercive sexual encounter while praising obedience; compliance was not affirmative consent.
-S04 T014 — Adam commented about his semen after the encounter, confirming exposure after Harper's Monday morning clinic visit; no contraception/protection established. He ordered pizza and drove to townhouse.
-S04 T015–T017 — Adam demanded elaborate thanks, Harper smiled and said 'Thank you for making me feel special tonight baby.' He was pleased and asked her to leave her phone in car overnight.
-S04 T018–T019 — At townhouse driveway Harper saw handgun in glovebox, loaded status unknown. Adam powered OFF Harper's phone and left it beside gun in glovebox.
-S04 T020–T022 — Harper follows Adam inside, sets out plates, accepts wine. He receives pizza and asks her to take Tuesday morning off work.
-S04 T023 — Harper agrees to go in late Tuesday (has not informed employer). Adam dresses her in revealing lingerie as mandatory 'house uniform,' coercive, not consensual. Clothes folded on sofa arm.
-S04 T024 — Harper thanks him and takes wine; Adam imposes an uninvited intimate check concerning earlier semen, with no medical conclusion.
-S04 T025 — Adam arranges Harper across lap, kisses her repeatedly, asks her to stay tomorrow night.
-S04 T026 — Adam reveals purchased clothes and toiletries stored in bedroom for Harper, without consultation.
-S04 T027–T028 — Harper agrees to stay Tuesday night, takes his hand, lies beside him.
-S04 T029–T030 — Adam imposes controlling demands: no phone when together, whereabouts reports, no Eli visits, his chosen house clothes, direct answers, advance approval of social plans, no talking about relationship with Roxy/colleagues, prompt callback, spare cottage key. He does not know cottage address.
-S04 T031 — Harper challenges fairness of one-way key demand; Adam angrily insists on her spare key tomorrow and refuses reciprocity.
-S04 T032–T033 — Harper is silent, then stands on command. Adam imposes brief painful physical punishment (spanking), coercive not consensual, and demands an apology.
-S04 T034–T035 — Harper apologizes and whispers 'Yes' to bringing spare cottage key tomorrow. Adam expects it, but has neither key nor address. He demands sex.
-S04 T036 — Harper complies with Adam's instruction; coercive sexual encounter fades out. No protection/ejaculation details established for this encounter.
-S04 T037 — ~8:05 p.m. Harper says 'Whatever you want' about dinner. Adam chooses reheated pizza downstairs.
-S04 T038 — Later Monday night, Adam repeatedly coerces Harper into sex, blaming her attractiveness and claiming he needs to keep her 'filled with his come.' Words imply repeated semen exposure; protection not established. Fade out.
-S04 T039 — Harper says she normally leaves for work at 8 a.m. Adam pulls her into his arms and performs another brief, uninvited invasive intimate 'check' claiming to check his semen. No medically valid finding. He insists on cottage stop for spare key.
-S04 T040–T042 — Harper tries moving away; Adam restrains her, then releases her when she says she needs the bathroom. She uses it and returns to bed just after midnight Tuesday Nov 30.
-S04 T043 — Harper tries to sleep and eventually gets intermittent sleep. Tuesday Nov 30 ~7:12 a.m., she wakes to pale snowy morning and Adam's phone alarm; Adam reaches to silence it and says good morning, proposes breakfast before driving to her cottage for spare key and then to work late. She has not told employer she will be late, nor told Adam her cottage address. Her phone remains OFF in his car glovebox beside handgun; work clothes downstairs, bag/keys inside house. Clinic visit unknown to Adam.
+S04 T001–T008 — Adam found Harper at Blackwood Events after work, physically steered her into his car despite hesitation, took her bag and coat into back seat, drove to secluded lakeside overlook. He touched her bag and coat into back seat, drove to secluded lakeside overlook. Harper said she wanted to see him again as safest answer. Adam does not know cottage address or private clinic visit.
+S04 T009–T013 — Adam directed coercive sexual encounter; compliance not affirmative consent.
+S04 T014 — Adam implied semen exposure after Harper's Monday morning clinic visit; no protection established.
+S04 T015–T019 — Adam demanded thanks; Harper complied. At townhouse driveway Harper saw handgun in glovebox, loaded status unknown. Adam powered OFF Harper's phone and left it beside gun in glovebox.
+S04 T020–T023 — Pizza and wine at townhouse. Harper agrees to go to work late Tuesday but has not informed employer. Adam imposes revealing lingerie as house uniform; her work clothes downstairs.
+S04 T024–T028 — Adam makes invasive intimate check; later shows purchased wardrobe/toiletries, Harper agrees to stay Tuesday night.
+S04 T029–T030 — Adam imposes unilateral rules: no phone together, whereabouts reports, no Eli visits, selected house clothes, direct answers, approval of social plans, no discussing relationship with Roxy/colleagues, prompt callbacks, spare cottage key.
+S04 T031–T035 — Harper questions one-way key rule; Adam becomes angry, physically punishes her, demands apology. She apologizes and promises key tomorrow; he still has no key/address.
+S04 T036–T038 — Adam coerces further sex Monday evening repeatedly; non-graphic fade. He blames her attractiveness and says he needs to keep her filled with his semen. No reliable protection details.
+S04 T039–T042 — Adam performs another uninvited intimate check, then restrains Harper in bed until she explains she needs bathroom; she returns after using it.
+S04 T043 — Harper sleeps intermittently. Tuesday Nov 30 ~7:12 a.m. Adam proposes breakfast, cottage stop for key/belongings, late work drop-off; also proposes she stay at his townhouse all week.
+S04 T044 — Harper sleepily asks 'What about my house?' Adam dismisses concern, says cottage will be fine locked up, he can check it with spare key, and presses for agreement to spend rest of week with him. ~7:15 a.m., upstairs bedroom. Her phone OFF in Adam's car glovebox beside handgun, work clothes downstairs, bag/keys inside house. Adam does not know cottage address or clinic visit; Harper hasn't notified work about lateness.
