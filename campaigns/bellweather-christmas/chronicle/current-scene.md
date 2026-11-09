@@ -16,5 +16,6 @@ S04 T051 — ~8:00 a.m. Tuesday Nov 30, Harper gets into passenger seat of Adam'
 S04 T052 — En route Harper apologizes, Adam accepts apology but maintains threat of punishment and says she may ask for phone after cottage visit without promising access.
 S04 T053–T054 — Adam drives to 18 Holly Lane, admires cottage renovation, insists on threatened punishment before packing or spare key.
 S04 T055–T056 — Harper approaches, sits in chair and explains that she broke Adam's rule by reaching for phone. Adam orders her to stand.
-S04 T057 — Harper stands; Adam spanks her as physical punishment, non-graphic, then declares matter settled and demands spare key.
-S04 T058 — Harper retrieves spare cottage key from kitchen and hands it to Adam. Adam pockets it, now possesses access to 18 Holly Lane without Harper present. He directs her to pack clothes for week and asks what she needs. ~8:26 a.m. Tuesday Nov 30. Harper has not informed employer of late arrival. Phone OFF in Adam's car glovebox beside black handgun. Adam unaware of clinic visit.
+S04 T057 — Harper stands; Adam spanks her as physical punishment, then declares matter settled and demands spare key.
+S04 T058 — Harper retrieves spare cottage key from kitchen and hands it to Adam, who pockets it.
+S04 T059 — Harper says 'I can get a few things.' Adam follows her upstairs to her bedroom and initiates sex on her bed amid existing coercive control; no affirmative consent established, non-graphic fade. Afterwards he guides her downstairs. No packing of clothes established yet. ~8:50 a.m. Tuesday Nov 30. Adam possesses spare key to 18 Holly Lane. Harper has not informed employer of late arrival. Her phone remains OFF in Adam's car glovebox beside black handgun. Adam unaware of clinic visit.
