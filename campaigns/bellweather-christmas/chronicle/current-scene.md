@@ -20,4 +20,5 @@ S04 T057 — Harper stands; Adam spanks her as physical punishment, then declare
 S04 T058 — Harper retrieves spare cottage key from kitchen and hands it to Adam, who pockets it.
 S04 T059 — Adam follows Harper upstairs and initiates sex on her bed amid coercive control; non-graphic fade. No clothes packed.
 S04 T060 — Harper goes straight to Adam's car; he drives toward Blackwood Events. He has cottage spare key; her phone OFF in glovebox beside handgun; her car at work.
-S04 T061 — When Adam asks if she warned employer of lateness, Harper shakes head and says 'My phone has been here.' Adam acknowledges he kept it, deflects responsibility and says she can call from office, but does not yet return phone. ~8:56 a.m. Tuesday Nov 30. Harper has not informed employer; Adam unaware of clinic visit.
+S04 T061 — Harper says she could not notify work because Adam held her phone. He deflects blame, says she can explain at office, still has phone.
+S04 T062 — Harper tells Adam she finishes work at 6 p.m. He says he'll collect her at 6 sharp and take her to his townhouse, while approaching Blackwood Events. ~9:00 a.m. Tuesday Nov 30. Phone OFF in glovebox beside handgun; Adam has not returned it. Harper's car at workplace, she has not notified employer of lateness; Adam has spare cottage key and does not know clinic visit.
