@@ -24,4 +24,5 @@ S04 T061 — Harper says she could not notify work because Adam held her phone. 
 S04 T062 — Harper says work ends at 6 p.m.; Adam promises pickup at six sharp.
 S04 T063 — Adam returns Harper's switched-off phone, takes her house and car keys, retaining spare cottage key.
 S04 T064 — Harper smiles and thanks Adam for last night, enters work. Receptionist notes lateness and missed calls; morning meeting underway.
-S04 T065 — ~9:10 a.m. Tuesday Nov 30, Harper says 'Yeah. Sorry' to receptionist and goes straight into nine o'clock Blackwood Events planning meeting. Her switched-off phone remains in handbag. Adam holds house, car and spare cottage keys, will collect her at 6 p.m. Employer has no explanation for lateness yet. Adam unaware of private clinic visit.
+S04 T065 — Harper enters nine o'clock gala design meeting late.
+S04 T066 — ~10:05 a.m. Tuesday Nov 30, Harper conducts herself professionally throughout gala design meeting, then goes straight to Sebastian Blackwood's office and closes door. Sebastian notices her purposeful visit and invites her to speak privately. Her phone remains OFF in handbag; Adam has her house and car keys and spare cottage key, and expects 6 p.m. pickup. Sebastian has not been told about Adam's Monday/Tuesday actions or private clinic visit.
