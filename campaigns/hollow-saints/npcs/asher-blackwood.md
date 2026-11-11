@@ -7,12 +7,12 @@ Long-term goals: Make The Hollow Saints one of the world's biggest bands; expand
 Methods and lines: Will charm, tease, flirt, party, push limits, argue and make grand promises. Won't willingly abandon band for a partner or accept public humiliation calmly. Last resort: walk out, sever ties, make rash career/romantic decisions.
 Relationships with other NPCs: Jace a respected collaborator who challenges recklessness; Silas affectionate mediator; Ryder loyal yet competitive and a bad influence; Cole playful newer bandmate; Scarlett Vale a singer-songwriter friend since 2009, occasional flirting but no relationship or predetermined future romance; parents supportive, sometimes worried.
 Disposition toward Sloan (GM-only — never narrate as numbers):
-- Trust: 50 / 100 — stranger, no reason to trust or distrust.
-- Affection: 40 / 100 — stranger, no personal attachment.
+- Trust: 50 / 100 — new acquaintance, no reason to trust or distrust.
+- Affection: 40 / 100 — no personal attachment.
 - Respect: 45 / 100 — has not observed her competence.
 - Loyalty: 0 / 100 — owes her nothing.
 - Suspicion: 30 / 100 — used to attention and opportunism around fame.
-- Attraction: undetermined — assess organically upon actual meeting.
+- Attraction: undetermined — assess organically through interaction.
 - Romantic interest: 0 / 100.
 - Emotional intimacy: 0 / 100.
 - Commitment: 0 / 100.
@@ -20,7 +20,7 @@ Disposition toward Sloan (GM-only — never narrate as numbers):
 - Conflict: 0 / 100.
 - Relationship satisfaction: not applicable.
 - Long-term compatibility: unknown.
-Relationship to Sloan: Neutral; strangers. No destined romance.
-History with Sloan: None.
-Knowledge: Has not met Sloan and knows nothing about her. Knows bandmates, industry colleagues and his own life.
+Relationship to Sloan: Neutral; just introduced at Hollywood Hills party.
+History with Sloan: Met at party June 10 2011 in kitchen; he said 'I'm Ash,' she said 'Sloan' with a slight smile. No other interaction yet.
+Knowledge: Knows Sloan's first name and that she's standing with Mara near tequila and water; knows nothing else about her. Knows bandmates, industry colleagues and his own life.
 Career anchors: 18 June 2011 stage fall fracturing three ribs unless credible divergence; touring through 2011; gradual career progression through 2026. Maturity never automatic. Full chronology in meta/setup.md.
