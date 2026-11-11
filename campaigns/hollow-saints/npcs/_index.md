@@ -1,0 +1,9 @@
+- Asher Blackwood | alive | Hollywood Hills party, LA | Neutral | not yet met Sloan
+- Mara Keene | alive | Hollywood Hills party, LA | Friendly | Sloan's recent acquaintance who invited her, first scene
+- Ryder Vale | alive | Hollywood Hills party, LA | Neutral | not yet met Sloan
+- Jace Mercer | alive | LA, band commitments | Neutral | not yet met Sloan
+- Silas Vane | alive | LA, band commitments | Neutral | not yet met Sloan
+- Cole Cross | alive | LA, band commitments | Neutral | not yet met Sloan
+- Scarlett Vale | alive | LA music circuit | Neutral | not yet met Sloan
+- Daniel Blackwood | alive | Cincinnati | Neutral | not yet met Sloan
+- Catherine Blackwood | alive | Cincinnati | Neutral | not yet met Sloan

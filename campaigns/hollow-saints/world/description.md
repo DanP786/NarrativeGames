@@ -1,0 +1,4 @@
+# World — Los Angeles, 2011
+Contemporary, non-supernatural LA entertainment industry: Hollywood clubs, Hills parties, cramped apartments, music video sets, festivals, tours and studios. Success, exposure, exploitation and financial precarity coexist. 2011 technology: texting, Facebook, Twitter, email, Skype; no TikTok or modern dating-app culture. International tours take real time.
+The Hollow Saints: fictional alternative-rock band led by Asher Blackwood. Dedicated fans called The Fallen; second album Burn the Heavens released June 2011. Touring and professional events proceed without Sloan's intervention unless plausible actions alter them. Key bandmates Jace Mercer, Silas Vane, Ryder Vale, Cole Cross. Scarlett Vale is a separate musician with her own career and friendship with Asher.
+Career milestones and full character specifications are in meta/setup.md; deep NPC profiles are authoritative for current motives and relationships.

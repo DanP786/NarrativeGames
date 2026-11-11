@@ -1,0 +1,3 @@
+- Hollywood Hills house party | Los Angeles | opening scene, private music-industry gathering
+- Sloan's rented room | Los Angeles | modest accommodation, precise neighbourhood not established
+- The Hollow Saints touring circuit | US and international | develops as tour progresses

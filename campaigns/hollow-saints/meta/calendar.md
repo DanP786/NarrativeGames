@@ -1,0 +1,5 @@
+- Date: Friday, 10 June 2011
+- Season: early summer
+- Time of day: late evening, around 10:30 p.m.
+- Location: private music-industry house party, Hollywood Hills, Los Angeles
+- Notable upcoming: The Hollow Saints preparing for Warped Tour; Asher's Hollywood stage accident historically anchored for 18 June 2011 unless meaningful divergence.

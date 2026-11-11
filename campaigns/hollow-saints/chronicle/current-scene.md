@@ -1,0 +1,2 @@
+# Current scene — S01, T00
+Friday 10 June 2011, ~10:30 p.m. Hollywood Hills private industry party. Sloan has just arrived with Mara Keene. Party hosts and guests include music-video and label people; Asher Blackwood and Ryder Vale are present but have not met Sloan. Initial hook: Mara spots a producer she wants to approach while an argument about an upcoming video shoot threatens a possible makeup gig. Await Sloan's first action.

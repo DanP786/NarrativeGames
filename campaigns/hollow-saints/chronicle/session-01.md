@@ -1,0 +1,2 @@
+# Session 01 — The Hollow Saints
+Opening: Friday 10 June 2011, around 10:30 p.m., a Hollywood Hills house party. Sloan Jules, a newly arrived 19-year-old aspiring makeup artist from Montana, attends at the invitation of recent acquaintance Mara Keene. Asher Blackwood, 20, and bandmate Ryder Vale are at the party. Sloan and Asher have never met. The second album Burn the Heavens has just been released; the band is preparing for Warped Tour. Opening scene underway; player has not acted yet.
