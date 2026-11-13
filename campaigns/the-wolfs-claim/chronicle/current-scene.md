@@ -8,4 +8,5 @@
 - T13–T15: Poppy bathes; privately thinks Alpha repulsed by her thinness. She calls him soft; he warns her not to mistake patience for weakness.
 - T16: Alpha dresses Poppy and introduces himself as Rhydian Varr, Alpha of Blackthorn Pack.
 - T17: Poppy asks what a mate is. Rhydian explains pack's fated lifelong pairing, his recognition and claim, and belief she cannot refuse.
-- T18: Poppy asks whether he will turn her into a werewolf. Rhydian says he cannot simply turn a human by biting her; wolves are born, and certain old rites are rumoured but dangerous and uncertain. He says he does not intend to change her nature and wants her as his human mate, but still intends to keep her. Poppy's reaction pending.
+- T18: Rhydian says wolves are born, not made by bites; dangerous old rites are rumoured, and he does not intend to transform her.
+- T19: Poppy eats and dismisses his hypothetical about becoming a wolf, saying it doesn't matter because he can't make it happen. Rhydian accepts the point with irritation, then redirects to practical restrictions: she will remain in his chambers overnight and may not leave unescorted. He asks what she intends to do about this arrangement. Her answer pending.
