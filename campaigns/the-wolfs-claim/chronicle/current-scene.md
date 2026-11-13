@@ -7,5 +7,5 @@
 - T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake, plans to test Rhydian's generosity.
 - T33–T35: Seamstress Elspeth measures Poppy for black gowns. Rhydian orders a ceremonial gown for evening pack presentation.
 - T36: Rhydian explains future Luna as Alpha's recognized mate and female pack leader; Poppy has not agreed to formal role.
-- T37: Poppy replies only 'Right'; Rhydian recognizes it is not agreement. Elspeth offers neckline and skirt designs.
-- T38: Poppy smiles genuinely for the first time Rhydian has seen and chooses the flowing-skirt design. Rhydian is visibly affected, instructs Elspeth to prioritize that black velvet gown with silver details for tonight. Fitting, cake, evening presentation pending.
+- T37–T38: Poppy responds noncommittally to Luna designation, then smiles for the first time Rhydian has seen at the flowing black velvet gown design. Rhydian offers jewels.
+- T39: Poppy says she has never seen jewels and asks if Rhydian has any. He opens a locked chest of valuable ornaments and displays silver chains, gemstones and an ornate wolf-motif piece, offering her a choice without forcing one. Elspeth continues fitting; cake and evening pack presentation pending.
