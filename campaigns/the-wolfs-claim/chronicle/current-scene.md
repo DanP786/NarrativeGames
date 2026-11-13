@@ -5,5 +5,6 @@
 - T10–T11: Poppy describes stabbing an unwanted suitor with a fork and the village men's abuses; Alpha admits ordering raid.
 - T12–T15: Poppy requests bath, disrobes, privately misreads Alpha's reaction as disgust, calls him soft; he warns her about his patience.
 - T16–T19: Alpha dresses Poppy, introduces himself as Rhydian Varr of Blackthorn, explains fated mate bond and that ordinary bites cannot turn humans; Poppy dismisses hypothetical transformation. He orders her to remain in his chambers unescorted.
-- T20: Poppy enters his bed without argument; the night passes with sexual intimacy, details and her internal response not established. Morning: Rhydian wakes with arm around her and says her name.
-- T21: Poppy looks at Rhydian silently. He studies her face and asks whether she slept; an urgent knock from outside announces Garrick has news of the raid survivors. Rhydian remains in bed awaiting her reaction.
+- T20: Poppy enters his bed without argument; night passes with sexual intimacy, details and her internal response not established.
+- T21: Morning. Garrick knocks with urgent news about raid survivors, warning prisoners may die. Rhydian asks if Poppy wants to hear.
+- T22: Poppy asks, 'In my nightgown?' Rhydian tells her she need not face his men undressed, throws her his large robe, and orders Garrick to wait outside while Poppy decides whether to attend. News remains unheard.
