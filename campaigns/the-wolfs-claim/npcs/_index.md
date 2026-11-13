@@ -1,1 +1,1 @@
-- The Warlord Alpha (name not yet revealed) | alive | fortress great hall | Possessive | met Poppy; recognizes her as fated mate and publicly claims her; believes she cannot refuse
+- The Warlord Alpha (name not yet revealed) | alive | private chambers, upper fortress | Possessive | met Poppy; recognizes her as fated mate and publicly claims her; believes she cannot refuse; learning her history and temperament
