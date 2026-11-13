@@ -1,10 +1,7 @@
-# Current scene — Upper fortress corridor, morning
-- Location: outside Rhydian's private chambers, Blackthorn fortress, morning after autumn raid.
+# Current scene — Fortress infirmary, morning
+- Location: infirmary adjoining lower fortress holding cells, morning after autumn raid.
 - Scene significance: charged.
-- T01–T09: Poppy refuses to kneel; Alpha recognizes her as mate, claims her publicly, takes her to chambers. She refuses ownership, demands food, reveals a month without a proper meal. Alpha orders broth and bread, physically seats her and watches her eat.
-- T10–T11: Poppy describes stabbing an unwanted suitor with a fork and the village men's abuses; Alpha admits ordering raid.
-- T12–T15: Poppy requests bath, disrobes, privately misreads Alpha's reaction as disgust, calls him soft; he warns her about his patience.
-- T16–T19: Alpha dresses Poppy, introduces himself as Rhydian Varr of Blackthorn, explains fated mate bond and that ordinary bites cannot turn humans; Poppy dismisses hypothetical transformation. He orders her to remain in his chambers unescorted.
-- T20: Poppy enters his bed without argument; night passes with sexual intimacy, details and her internal response not established.
-- T21–T22: Morning. Garrick knocks with urgent news about raid survivors, warning prisoners may die. Rhydian offers Poppy a robe and a choice to hear news.
-- T23: Poppy chooses to go. Rhydian grips her hand and leads her out, robe over nightdress. Garrick reports a small group of villagers survived the raid and were brought to fortress; several are gravely injured and guards want instructions before treating or disposing of them. Rhydian orders immediate treatment and demands the prisoners be brought under guard for identification when stable. He asks Poppy whether she knows any of them. Her response pending.
+- T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about his mate claim and werewolves.
+- T20: Poppy enters his bed; night passes with sexual intimacy, details and her internal response not established.
+- T21–T23: Morning, Garrick reports seven village survivors held prisoner, three badly wounded; Rhydian orders immediate healing and asks if Poppy wants to see them.
+- T24: Poppy nods yes. Rhydian grips her hand and leads her with Garrick to the infirmary. Seven survivors present, wounded and guarded. Among them an older woman with a bandaged arm recognizes Poppy and speaks her name; another male prisoner visibly reacts to Poppy beside Alpha, identity not yet established. Poppy's response pending.
