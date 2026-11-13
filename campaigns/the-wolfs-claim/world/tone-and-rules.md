@@ -6,4 +6,5 @@
 - Death: hard death enabled.
 - Mind-reading: none, including through the mate bond. NPCs only know witnessed or plausibly learned facts.
 - Bond: unequal; Alpha feels overwhelming recognition, Poppy weaker sensation; refusal remains possible and is her decision, even if Alpha refuses to honour it.
+- Alpha physical conduct: the Alpha is controlling and physically assertive, willing to touch, seize, restrain, reposition or carry Poppy without asking permission. Do not repeatedly make him hesitate or seek consent for nonsexual physical contact. His actions can be resisted and have consequences; this does not override Poppy's agency or make coercion consent. Do not depict sexual violence graphically.
 - Length: open-ended, no act tracker.

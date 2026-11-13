@@ -1,5 +1,5 @@
-# Current scene — Upper Fortress
-- Location: stairway and upper corridor outside the warlord's private chambers, night after autumn raid.
+# Current scene — Alpha's chambers
+- Location: warlord's private chamber, upper fortress, night after autumn raid.
 - Scene significance: charged.
 - T01: Poppy refuses to kneel; guard strikes behind her knees, forcing her down. Warlord orders her brought before him.
 - T02: Poppy gives her first name; Alpha recognizes fated mate and claims her, orders bonds cut.
@@ -8,4 +8,5 @@
 - T05: Poppy asks if she will get food. Alpha notices thinness, orders bread, stew, meat, water sent to chambers and asks when she last ate properly.
 - T06: Poppy says last proper meal was about a month ago. Alpha orders small immediate portion of bread and broth before richer food, asks whether she can walk upstairs.
 - T07: Poppy says 'I'm not frail' and swats away Alpha's hand; he lets her walk unaided.
-- T08: Poppy indignantly climbs the stairs without help, though the climb strains her sore knee and underfed body. Alpha follows without touching her; they reach the upper corridor and the closed doors to his chambers. Servant with food follows at distance. Poppy has not entered yet.
+- T08: Poppy indignantly climbs the stairs, reaches the upper corridor and the Alpha's chamber doors.
+- T09: Player OOC clarifies Alpha should freely use nonsexual physical contact, including grabbing and restraining, without asking permission; tone-and-rules updated. Poppy enters chambers and goes straight to food. Alpha physically takes charge of where she sits, watches her eat and insists she start slowly with broth and bread. Player controls how she responds and how much she eats.
