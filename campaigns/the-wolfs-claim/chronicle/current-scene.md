@@ -7,4 +7,5 @@
 - T24–T26: Poppy visits infirmary with Rhydian; Martha recognizes her, a male survivor sneers, Rhydian declares her his mate and seeks her testimony.
 - T27–T28: Poppy says village women were kind and men were not. Three women granted freedom and safe passage after healing; four men detained for investigation. Rhydian reiterates Poppy cannot leave.
 - T29–T32: Back in chambers, Poppy weighs captivity versus starvation and asks for huge chocolate cake; Rhydian orders cooks to attempt it. She plans to test his generosity; he seats her at breakfast.
-- T33: Poppy asks how many clothes she needs and says she requires variety. Rhydian welcomes the seamstress, orders a substantial varied wardrobe of practical and fine clothing, with Poppy choosing colors and cuts. Measurements and choices pending; chocolate cake still pending.
+- T33: Rhydian orders a substantial wardrobe from seamstress Elspeth, with Poppy choosing colours.
+- T34: Poppy looks at Rhydian's clothing and chooses black. Rhydian is pleased and Elspeth starts selecting black fabrics of different textures, asking Poppy whether she prefers practical or ornate cuts. Measurements and cake pending.
