@@ -1,0 +1,1 @@
+- Warlord's fortress | fortified werewolf seat; great hall hosts victory feast | opening location

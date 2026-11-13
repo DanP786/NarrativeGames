@@ -1,0 +1,5 @@
+- Date: First night after the autumn raid, year unspecified
+- Season: autumn
+- Time of day: night
+- Location: great hall of the warlord's fortress
+- Notable upcoming: division of captives at victory feast

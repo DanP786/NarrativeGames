@@ -1,0 +1,2 @@
+# World
+Medieval feudal territories dominated by werewolf packs, fortified castles, ancient forests and brutal territorial wars. Alphas rule like warlords; humans are vulnerable to raiding and enslavement. Some packs regard mate claims as sacred and unquestionable; laws and traditions vary. Wolf senses and strength exceed human limits. No automatic mind-reading or telepathy. Details beyond the fortress remain to be discovered through play.

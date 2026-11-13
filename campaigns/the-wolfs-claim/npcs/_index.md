@@ -1,0 +1,1 @@
+- The Warlord Alpha (name not yet revealed) | alive | fortress great hall | Neutral | not yet met Poppy; presiding over victory feast
