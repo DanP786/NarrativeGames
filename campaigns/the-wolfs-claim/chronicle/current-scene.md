@@ -6,4 +6,5 @@
 - T11: Poppy says she has no family and village men took what and whom they wanted; Alpha responds with possessive anger.
 - T12: Poppy asks for a bath; Alpha orders hot water, clothing and inquiry into village survivors.
 - T13: Poppy thanks him and disrobes; Alpha reacts to her malnourishment and withdraws to adjoining room, leaving door ajar.
-- T14: Poppy privately laughs and interprets his reaction as repulsion at her body, then bathes. Her private interpretation is not known to Alpha. Alpha remains in adjoining room, hears water, and later knocks on partly open door to ask whether she is all right; she has not yet answered. Bath underway.
+- T14: Poppy privately interprets his reaction as repulsion, then bathes. Alpha knocks and asks whether she is all right.
+- T15: Poppy answers 'I'm fine. Are all alphas this soft?' Alpha enters doorway, takes insult as challenge and makes clear his restraint is a choice, not weakness. He stays at threshold, bath ongoing; next action open.
