@@ -1,5 +1,5 @@
 # Current scene — Victory Feast
 - Location: fortress great hall, night after autumn raid.
-- Poppy among human captives presented before victorious pack.
 - Scene significance: charged.
-- T01: Poppy refuses the guard's order to kneel. Guard strikes her behind the knees with a staff; she drops to one knee, not voluntarily. The warlord notices the disturbance and orders the guard to stop and bring her forward. Mate recognition has not yet been explicitly established.
+- T01: Poppy refuses to kneel; guard strikes behind her knees, forcing her down. Warlord orders her brought before him.
+- T02: Poppy scowls and gives her first name, 'Poppy.' Warlord grips her chin and recognizes her scent as his fated mate. He publicly asserts a claim and orders the guard to release her bonds; guard obeys. Poppy remains captive before him. Her acceptance is neither given nor assumed. Alpha's name remains unrevealed.

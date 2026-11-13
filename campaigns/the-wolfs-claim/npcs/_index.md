@@ -1,1 +1,1 @@
-- The Warlord Alpha (name not yet revealed) | alive | fortress great hall | Neutral | not yet met Poppy; presiding over victory feast
+- The Warlord Alpha (name not yet revealed) | alive | fortress great hall | Possessive | met Poppy; recognizes her as fated mate and publicly claims her; believes she cannot refuse
