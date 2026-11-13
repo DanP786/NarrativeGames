@@ -6,4 +6,5 @@
 - T11: Poppy says she has no family and village men took what and whom they wanted.
 - T12: Poppy asks for bath; Alpha orders water, clothes, inquiry into survivors.
 - T13–T15: Poppy bathes; privately thinks Alpha repulsed by her thinness. She calls him soft; he warns her not to mistake patience for weakness.
-- T16: Poppy finishes bathing, braids her hair, enters the chamber in a towel and says nothing. Alpha takes off the towel without asking and puts a clean nightdress on her himself, controlling but not sexualising the action. Poppy is clean and clothed, still captive. A light meal remains available; next action open.
+- T16: Poppy bathes, braids hair; Alpha dresses her in clean nightdress and seats her by fire with food. He introduces himself as Rhydian Varr, Alpha of Blackthorn Pack, Lord of northern marches.
+- T17: Poppy gives full name Poppy Cooper, says Poppy is fine, and asks what a mate is. Rhydian explains his pack's belief in a fated lifelong pairing, his instinctive recognition, expectations of proximity and exclusive bond, and his belief that she has no right to reject the claim. He cannot read her mind. Poppy's reaction pending.

@@ -1,1 +1,1 @@
-- The Warlord Alpha (name not yet revealed) | alive | private chambers, upper fortress | Possessive | met Poppy; recognizes her as fated mate and publicly claims her; believes she cannot refuse; learning her history and temperament
+- Rhydian Varr | Alpha of Blackthorn Pack, Lord of the northern marches | alive | private chambers, upper fortress | Possessive | savage warlord, publicly claims Poppy as fated mate, believes she cannot refuse; introduced himself by name in T16
