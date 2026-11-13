@@ -4,8 +4,7 @@
 - T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about his mate claim and werewolves.
 - T20: Poppy enters his bed; night passes with sexual intimacy, details and her internal response not established.
 - T21–T23: Morning, Garrick reports seven village survivors held prisoner, three badly wounded; Rhydian orders treatment.
-- T24–T26: Poppy visits infirmary with Rhydian; Martha recognizes her, a male survivor sneers, Rhydian declares her his mate and seeks her testimony.
-- T27–T28: Poppy says village women were kind and men were not. Three women granted freedom and safe passage after healing; four men detained for investigation. Rhydian reiterates Poppy cannot leave.
-- T29–T32: Back in chambers, Poppy weighs captivity versus starvation and asks for huge chocolate cake; Rhydian orders cooks to attempt it. She plans to test his generosity; he seats her at breakfast.
-- T33–T34: Rhydian orders extensive wardrobe from seamstress Elspeth; Poppy chooses black after looking at his clothing.
-- T35: Poppy says she wants the dresses to make her look pretty. Rhydian responds with possessive reassurance and tells Elspeth to tailor flattering black gowns without painful constriction; Elspeth begins measuring and proposes practical and formal silhouettes. Cake still pending. Next action open.
+- T24–T26: Poppy visits infirmary with Rhydian; Martha recognizes her, a male survivor sneers, Rhydian declares her his mate, and he later frees three women on Poppy's request while four men remain detained.
+- T29–T32: Poppy weighs captivity versus starvation and requests huge chocolate cake; Rhydian orders an attempt and offers fine clothing.
+- T33–T35: Seamstress Elspeth measures Poppy for varied black dresses; Poppy wants to look pretty. Rhydian orders a formal gown ready for evening dinner where pack will meet her as future Luna.
+- T36: Poppy asks what 'future Luna' means. Rhydian explains it is the Alpha's recognized mate and female leader of the pack, with public authority and duties but also scrutiny, and that he intends to present her before the pack tonight. He distinguishes designation from formal recognition; Poppy has not agreed to it. Her response pending.
