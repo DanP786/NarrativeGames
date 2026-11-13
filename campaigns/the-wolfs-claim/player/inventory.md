@@ -1,2 +1,3 @@
 # Inventory
-- No possessions established; captors have taken her from home. Clothing details not yet established.
+- Clean, simple nightdress (worn; provided by Alpha's household).
+- No other personal possessions established. Old filthy dress discarded after bath.

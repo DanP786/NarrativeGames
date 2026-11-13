@@ -1,10 +1,9 @@
-# Current scene — Bathing room
-- Location: private bathing room adjoining Alpha's chambers, upper fortress, night after autumn raid.
+# Current scene — Alpha's chambers
+- Location: private chamber, upper fortress, night after autumn raid.
 - Scene significance: charged.
 - T01–T09: Poppy refuses to kneel; Alpha recognizes her as mate, claims her publicly, takes her to chambers. She refuses ownership, demands food, reveals a month without a proper meal. Alpha orders broth and bread, physically seats her and watches her eat.
-- T10: Poppy says she put a fork in the eye of the last man who proposed to her; Alpha admits ordering raid, asks who she was glad to see dead.
-- T11: Poppy says she has no family and village men took what and whom they wanted; Alpha responds with possessive anger.
-- T12: Poppy asks for a bath; Alpha orders hot water, clothing and inquiry into village survivors.
-- T13: Poppy thanks him and disrobes; Alpha reacts to her malnourishment and withdraws to adjoining room, leaving door ajar.
-- T14: Poppy privately interprets his reaction as repulsion, then bathes. Alpha knocks and asks whether she is all right.
-- T15: Poppy answers 'I'm fine. Are all alphas this soft?' Alpha enters doorway, takes insult as challenge and makes clear his restraint is a choice, not weakness. He stays at threshold, bath ongoing; next action open.
+- T10: Poppy mentions stabbing an unwanted suitor's eye with a fork; Alpha admits ordering raid.
+- T11: Poppy says she has no family and village men took what and whom they wanted.
+- T12: Poppy asks for bath; Alpha orders water, clothes, inquiry into survivors.
+- T13–T15: Poppy bathes; privately thinks Alpha repulsed by her thinness. She calls him soft; he warns her not to mistake patience for weakness.
+- T16: Poppy finishes bathing, braids her hair, enters the chamber in a towel and says nothing. Alpha takes off the towel without asking and puts a clean nightdress on her himself, controlling but not sexualising the action. Poppy is clean and clothed, still captive. A light meal remains available; next action open.
