@@ -9,4 +9,5 @@
 - T36: Rhydian explains future Luna as Alpha's recognized mate and female pack leader; Poppy has not agreed to formal role.
 - T37–T38: Poppy responds noncommittally to Luna designation, then smiles for the first time Rhydian has seen at the flowing black velvet gown design.
 - T39–T40: Rhydian shows jewels and gives Poppy the sapphire necklace she chooses, fastening it on her; inherited wolf-head Luna pendant remains his.
-- T41: Poppy asks how she went from likely being claimed by an arbitrary wolf after the raid to being the Alpha's mate under his protection. Rhydian acknowledges the ugly possibility for unprotected captives, explains his recognition of the mate bond and the authority/protection it confers, while admitting his protection is also captivity. Elspeth awaits outside; gown, cake, pack presentation pending.
+- T41: Poppy questions her change from captive to protected mate; Rhydian explains the bond and admits his protection is captivity.
+- T42: Player OOC requests Rhydian remain unwaveringly authoritative, not increasingly nice. Poppy says 'I suppose yes' and looks back in mirror. Rhydian reasserts nonnegotiable control over her movement and evening presentation; orders Elspeth back to work and guards assigned. Evening gown and cake pending.
