@@ -15,6 +15,6 @@
 - T69–T71: Nell shows Poppy bloodstained grey cloth bearing black wolf head pierced by silver arrow; claims she saw a man wearing emblem yesterday; guards take her for questioning. Rhydian returns with dead sentries.
 - T72–T74: Rhydian recognizes arrow emblem from Dunmere betrayal; orders Nell questioned safely; Poppy supplies Nell's claim she saw marked man yesterday.
 - T75–T76: Missing sentry claims Captain Edric ordered him away; Rhydian orders Edric seized, admits Poppy may be in danger, doubles guard, commands her to remain in chambers and trust no summons not personally delivered by him.
-- T77: Poppy washes, dresses in last night's black velvet gown, brushes hair.
-- T78: Poppy reveals parents left seeking work and never returned, ending her education; reads haltingly. She finds illustrated northern history in Rhydian's bookcase. Chronicle of Dunmere says Rhydian's brother died in betrayal twelve years ago.
-- T79: Poppy continues reading slowly. Chronicle names Rhydian's slain older brother Caelan Varr, describes eastern gate opened against orders and thirty-seven dead; official account says traitor was executed but offers no clear motive. Marginal handwritten note in a different hand says 'The gate was not opened for the enemy.' Poppy remains alone with book, under guard.
+- T77: Poppy washes, dresses in black velvet gown, brushes hair.
+- T78–T79: Poppy's education ended when parents left for work and never returned; she reads haltingly. Finds chronicle of Dunmere: elder brother Caelan Varr killed, Osric Vale executed for opening eastern gate; marginal note 'The gate was not opened for the enemy,' with crossed-line mark.
+- T80: Poppy squints at marginal note in window light and discerns faint continuation beneath it: 'Ask who was meant to leave.' Writer and mark remain unidentified. She remains alone in guarded bedchamber with book open.
