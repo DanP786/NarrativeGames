@@ -11,5 +11,6 @@
 - T39–T40: Rhydian gives Poppy sapphire necklace; inherited wolf-head Luna pendant remains his.
 - T41–T42: Poppy questions her sudden protection. Rhydian asserts his authority and orders guards outside his chambers. Player OOC wants him unwaveringly authoritative, not softening.
 - T43–T46: Poppy remains confined, chooses loose sleeves and low braids with silver pins; Elspeth and assistants complete black velvet silver-embroidered gown.
-- T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired woman in green watches with displeasure.
-- T50: Poppy leans forward to eat; Rhydian instead feeds her himself, repeatedly smells and kisses her neck in public. She stays very still under scrutiny; she still aches from prior night's intimacy. Rhydian remains physically possessive and commanding. Silver-haired woman's disapproval remains visible; chocolate cake pending.
+- T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired Lady Morwen watches with displeasure.
+- T50: Rhydian feeds Poppy and repeatedly kisses/smells her neck before pack; Lady Morwen questions his feeding her and is publicly rebuked. Poppy remains sore from prior night's intimacy.
+- T51: Poppy says she is fine and shifts to sit more comfortably on Rhydian's lap. Rhydian accepts answer but remains controlling and feeds her; Lady Morwen challenges Poppy's legitimacy more pointedly by questioning whether an untrained human can serve as Luna. Rhydian prepares to respond; chocolate cake pending.
