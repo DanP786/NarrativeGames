@@ -1,4 +1,4 @@
-# Current scene — Rhydian's bedchamber, afternoon
+# Current scene — Rhydian's bedchamber, late afternoon
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
@@ -11,5 +11,5 @@
 - T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian.
 - T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
 - T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
-- T84: Poppy finds illustrated primer The Wolf and the Bond: human mate's bond may develop gradually; public Alpha declaration recognizes Luna's standing but traditional binding ceremony requires both mates' participation.
-- T85: Poppy reads on: binding ceremony traditionally involves both mates speaking oaths before witnesses, and cannot be completed by Alpha's declaration alone; historical account notes an unbound Luna's public standing can be disputed. This describes tradition, not guaranteed protection from Rhydian's power. A brief noise at the door interrupts her; Rhydian has not yet returned.
+- T84–T85: Poppy finds illustrated primer The Wolf and the Bond: human mate's bond may develop gradually; public declaration recognizes Luna's standing but traditional binding requires both mates' oaths; unbound Luna's standing may be disputed.
+- T86: Poppy perseveres through primer's Luna rights: Luna may hear petitions, request review of punishments, oversee welfare of pack children, wounded, and dependents, and has traditional right to speak before sentence in the Alpha's hall; cannot simply overrule Alpha or command warriors by virtue of title. Human Luna not automatically transformed; bond is not proof of consent. Primer says elder witnesses record vows, making ceremony politically consequential. Late afternoon she hears Rhydian's distinctive footsteps approaching chamber and guard addresses him; he has not entered yet. Poppy's discoveries remain unknown to him.
