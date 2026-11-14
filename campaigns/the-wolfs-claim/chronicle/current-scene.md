@@ -1,19 +1,17 @@
 # Current scene — Rhydian's bedchamber, late night
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
-- T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about his mate claim and werewolves.
-- T20: Poppy enters his bed; night passes with sexual intimacy, details and her internal response not established.
-- T21–T28: Morning. Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men for investigation.
-- T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake, plans to test Rhydian's generosity.
-- T33–T35: Seamstress Elspeth measures Poppy for black gowns. Rhydian orders a ceremonial gown for evening pack presentation.
-- T36–T40: Rhydian explains future Luna, Poppy does not agree to formal role; he orders black gown and gifts her sapphires.
-- T41–T46: Rhydian asserts authority and confinement; Poppy's gown and braids completed. Player OOC wants Rhydian unwaveringly authoritative, not softening.
-- T47–T49: Rhydian brings Poppy to feast, publicly declares mate and future Luna, seats her on his lap. Lady Morwen watches with displeasure.
-- T50–T52: Rhydian feeds Poppy; Morwen questions her fitness; Rhydian rebukes her and orders her to teach Poppy customs under supervision.
-- T53–T55: Poppy shares giant chocolate cake with hall, enjoys it, offers Rhydian a bite; he accepts.
-- T56: After feast Rhydian takes Poppy to chambers; intimacy occurs off-page, his role guiding/commanding; Poppy's feelings and consent not presumed.
-- T57–T58: Poppy reveals he was her first man; village men tried to take her but she fought them. She admits lingering ache due to their size difference; Rhydian orders her to report pain and rest.
-- T59: Asked why she hasn't fought Rhydian, Poppy says she doesn't know, but doesn't want to.
-- T60: Poppy says she wants to stay at Blackthorn with Rhydian, without promising formal Luna role or unconditional assent.
-- T61: Poppy says she has not decided whether she wants Rhydian himself, though she wants to stay.
-- T62: Poppy asks what would happen if either of them were already married when the fated bond appeared. Rhydian explains his uncompromising view: prior marriage would not extinguish the bond; he would set aside a wife or seek to sever Poppy's marriage, while acknowledging existing vows and loyalties would make the matter bloody and contested. This is his stance, not automatic universal law. Late night in bed.
+- T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about werewolves.
+- T20: First night of sexual intimacy, details and Poppy's internal response not established.
+- T21–T28: Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men.
+- T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake.
+- T33–T40: Rhydian orders black gown, explains Luna position (Poppy has not formally agreed), gifts her sapphires.
+- T41–T46: Rhydian asserts authority and confinement; gown and braids completed. Player OOC wants him unwaveringly authoritative, not softening.
+- T47–T49: Rhydian presents Poppy as mate at feast, seats her on his lap; Lady Morwen displeased.
+- T50–T52: Rhydian feeds Poppy; rebukes Morwen's challenge and orders her to teach Poppy customs under supervision.
+- T53–T55: Poppy shares huge chocolate cake with hall, enjoys it and feeds Rhydian a bite.
+- T56: Second night of intimacy off-page, with Rhydian guiding; no assumed internal response.
+- T57–T58: Poppy reveals Rhydian was her first man; village men tried to take her but she fought them. She reports lingering ache due to their size difference; Rhydian orders her to report pain and rest.
+- T59–T61: Poppy says she doesn't want to fight Rhydian and wants to stay, but hasn't decided if she wants him personally.
+- T62: Rhydian says he would set aside a wife or challenge Poppy's husband for mate bond; his uncompromising view, not automatic universal law.
+- T63: Poppy says she is trying to understand the mate bond: Rhydian kills for disrespect yet doesn't hurt her except for soreness due to their size difference, glancing at his groin. Rhydian explains fierce protective instinct versus discipline, takes her soreness seriously and states he must take care not to injure her. Night continues in bed.
