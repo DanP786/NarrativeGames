@@ -1,5 +1,5 @@
-# Current scene — great hall, evening
-- Location: high table, Blackthorn fortress great hall.
+# Current scene — Rhydian's bedchamber, late night
+- Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about his mate claim and werewolves.
 - T20: Poppy enters his bed; night passes with sexual intimacy, details and her internal response not established.
@@ -13,6 +13,5 @@
 - T43–T46: Poppy remains confined, chooses loose sleeves and low braids with silver pins; Elspeth and assistants complete black velvet silver-embroidered gown.
 - T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired Lady Morwen watches with displeasure.
 - T50–T52: Rhydian feeds Poppy; Morwen questions her fitness as Luna; Rhydian rebukes Morwen and orders her to teach Poppy pack customs under supervision.
-- T53: Poppy requests sharing giant chocolate cake with the hall; Rhydian grants it as her gift, first slice served to her.
-- T54: Poppy tastes chocolate cake for first time, finds it amazing and smiles at Rhydian. He is pleased; pack enjoys dessert.
-- T55: Poppy holds up a forkful of cake to Rhydian, silently offering to feed him. He accepts, pleased and possessive, and continues presiding over feast with Poppy on his lap.
+- T53–T55: Poppy shares huge chocolate cake with hall, tastes it and smiles at Rhydian, then offers him a bite. He accepts, pleased and possessive.
+- T56: After feast Rhydian takes Poppy to his chambers. They have sex again that night, with Rhydian taking a guiding, commanding role; intimate details elided. Poppy's internal feelings and consent not presumed. Next scene late night/aftermath.
