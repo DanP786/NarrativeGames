@@ -1,6 +1,6 @@
 # Current scene — Rhydian's bedchamber, late morning
 - Location: Rhydian's private chambers, Blackthorn fortress.
-- Scene significance: routine.
+- Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
 - T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
@@ -15,4 +15,5 @@
 - T69–T71: Nell shows Poppy bloodstained grey cloth bearing black wolf head pierced by silver arrow; claims she saw a man wearing emblem yesterday; guards take her for questioning. Rhydian returns with dead sentries.
 - T72–T74: Rhydian recognizes arrow emblem from Dunmere betrayal; orders Nell questioned safely; Poppy supplies Nell's claim she saw marked man yesterday.
 - T75–T76: Missing sentry claims Captain Edric ordered him away; Rhydian orders Edric seized, admits Poppy may be in danger, doubles guard, commands her to remain in chambers and trust no summons not personally delivered by him.
-- T77: Poppy washes at basin, dresses in last night's black velvet silver-embroidered gown, brushes out her hair. She remains in chambers under guard awaiting news; no interruption yet.
+- T77: Poppy washes, puts on last night's black velvet gown, brushes hair; remains guarded in chambers.
+- T78: Poppy reveals backstory: parents left seeking work and never returned, ending her education; she reads haltingly. She searches Rhydian's bedchamber bookcase and selects a worn, comparatively accessible illustrated chronicle of northern marches, finding an entry headed Dunmere and the year of the gate betrayal. She is reading it as scene ends; no external interruption yet.
