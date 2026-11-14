@@ -1,6 +1,6 @@
-# Current scene — Alpha's private bedchamber, midday after victory feast
-- Scene significance: routine.
+# Current scene — Blackthorn great hall, midday after victory feast
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
-- Poppy captured in raid; Alpha recognized her as mate, publicly claimed her, and forced her upstairs in iron wrist cuffs after she resisted. She did not consent. T10 assault elided, nonconsensual.
-- T33–T40: Mara supplied breakfast and borrowed clothes; Rhydian ordered Poppy to midday meal, argued with her, then left to meet Garrick about prisoner claiming knowledge of raid. Mara delivered finer black-and-silver dress and black boots on Alpha's order.
-- T41: Poppy declines Mara's help, dresses herself in fine black-and-silver dress and boots in time for midday. Mara withdraws; room remains locked and Poppy's wrists free. At midday guard announces Alpha has sent for her and opens door to escort her to hall; next action player-controlled.
+- Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 sexual assault elided and nonconsensual.
+- T33–T41: Poppy ate breakfast, dressed in black-and-silver finery sent by Rhydian. Rhydian had been investigating a prisoner claiming knowledge of who ordered raid.
+- T42: Poppy follows guard Tomas to midday meal in great hall. Rhydian, seated at head table, seizes her waist and pulls her onto his lap before the pack, making public possessive display. Nearby pack members notice and go quiet. Poppy's response player-controlled; wrists free.
