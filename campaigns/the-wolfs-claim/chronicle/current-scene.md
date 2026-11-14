@@ -15,4 +15,5 @@
 - T57–T58: Poppy reveals he was her first man; village men tried to take her but she fought them. She admits lingering ache due to their size difference; Rhydian orders her to report pain and rest.
 - T59: Asked why she hasn't fought Rhydian, Poppy says she doesn't know, but doesn't want to.
 - T60: Poppy says she wants to stay at Blackthorn with Rhydian, without promising formal Luna role or unconditional assent.
-- T61: When Rhydian asks whether she wants him or merely the better life, Poppy smiles and says she hasn't decided. He is irritated, intrigued, and unyielding; doesn't claim her feelings are settled. They remain in bed late at night.
+- T61: Poppy says she has not decided whether she wants Rhydian himself, though she wants to stay.
+- T62: Poppy asks what would happen if either of them were already married when the fated bond appeared. Rhydian explains his uncompromising view: prior marriage would not extinguish the bond; he would set aside a wife or seek to sever Poppy's marriage, while acknowledging existing vows and loyalties would make the matter bloody and contested. This is his stance, not automatic universal law. Late night in bed.
