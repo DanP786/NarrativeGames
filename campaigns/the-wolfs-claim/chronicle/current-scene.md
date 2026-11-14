@@ -1,6 +1,6 @@
 # Current scene — Victory Feast (hard-rewound continuity)
-- Location: threshold of Blackthorn fortress great hall; autumn night after raid.
+- Location: great hall threshold and staircase, Blackthorn fortress; autumn night after raid.
 - Scene significance: charged.
-- All events after original victory feast are void, including the former month of intimacy and investigation.
-- Poppy refused to kneel; guard struck behind knees. Alpha recognized her as mate and publicly claimed her. Poppy said 'I belong to no one.' He ordered her taken to his chambers; she challenged 'Your chambers?!' He seized her arm and dragged her toward hall doors, threatened punishment for defiance.
-- T05: Poppy snarls, 'And what will you do to me huh? Hit me? Kill me?' The Alpha responds with intimidation and physical force, refusing to negotiate, and orders her taken upstairs under guard. Poppy has not consented to his claim; next action hers.
+- All events after original victory feast are void.
+- Poppy refused to kneel; guard struck her knees. Alpha recognized and claimed her as mate. She rejected ownership. He ordered her to his chambers, seized and threatened her, then ordered her upstairs.
+- T06: Poppy challenges his contempt for a mate and tries to shove him; he does not budge. He violently restrains her wrists, answers that being mate does not grant her authority, and orders her to climb the stairs herself while maintaining physical control. No consent or affection established.
