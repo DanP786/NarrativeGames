@@ -1,6 +1,5 @@
-# Current scene — upper fortress staircase, autumn night
+# Current scene — Alpha's private chambers, autumn night
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
-- Poppy Cooper captured in raid, refused to kneel, struck behind knees. Alpha recognizes fated mate and publicly claims her. She rejects ownership, challenges his authority, shoves him, and refuses his chambers. Alpha threatens punishment and orders black iron wrist cuffs.
-- T08: Alpha fastened first iron cuff to Poppy's right wrist and held the second ready.
-- T09: Poppy wrenches her free wrist and kicks Alpha. He barely moves, forcibly fastens second cuff and drags her upstairs by the short chain, bruising and scraping her as he takes her toward his chambers. She remains resistant, no consent or softening established.
+- Poppy captured in raid; Alpha recognized her as mate, publicly claimed her, and forced her upstairs in iron wrist cuffs after she resisted. She did not consent.
+- T10: Behind locked doors, Alpha sexually assaulted Poppy; event elided, explicitly nonconsensual and not romantic. Afterward Poppy slowly rises from bed in pain. Alpha orders her into adjoining bathing chamber; when she is slow he shoves her toward its doorway. She remains cuffed and captive; player controls her response.
