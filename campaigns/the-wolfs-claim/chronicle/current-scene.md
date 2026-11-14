@@ -1,5 +1,5 @@
-# Current scene — Rhydian's study, early evening
-- Location: Rhydian's private study, Blackthorn fortress; healer present, Poppy on Rhydian's lap.
+# Current scene — Rhydian's bedchamber, night, one month later
+- Location: Rhydian's private bedchamber, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
@@ -12,5 +12,5 @@
 - T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
 - T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
 - T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; public declaration distinct from traditional binding needing both oaths; Luna may petition and request sentence review, Alpha retains command.
-- T87–T101: Dunmere investigation: Yseld Vale among seven missing; possible Caelan child speculative. Caelan's dictated dying statement missing; archive ledger ordered. Healer summoned to examine Poppy after discussion of possible pregnancy. Poppy reports no monthly bleeding for about two years; healer suspects prolonged undernourishment but no diagnosis, cannot rule out pregnancy.
-- T102: Poppy says she does not remember whether hunger preceded cessation of monthly bleeding. Healer accepts uncertainty, suggests basic exam and monitoring, regular nourishing meals, no certainty about conception, asks permission to check pulse and general condition. Rhydian remains authoritative and attentive, orders privacy and food; no examination performed yet. Edric outcome undisclosed.
+- T87–T102: Dunmere investigation: Yseld Vale among seven missing; possible Caelan child speculative. Caelan's dictated dying statement missing; archive ledger ordered. Healer summoned; Poppy reports no monthly bleeding for about two years, suspected prolonged undernourishment, no confirmed pregnancy. Edric outcome undisclosed.
+- T103: Player explicitly advances time one month. Poppy has visibly gained weight with regular meals; no additional medical findings, pregnancy status, Dunmere investigation outcomes or ceremony status established by time skip. At night in Rhydian's bedchamber, Poppy sits astride Rhydian on bed; he moves her hips with his hands and comments possessively on her restored weight, pleased she is less gaunt. Scene stays non-explicit, awaiting Poppy's response.
