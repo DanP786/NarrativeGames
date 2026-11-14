@@ -1,8 +1,7 @@
-# Current scene — Alpha's private bedchamber, morning after victory feast
-- Scene significance: charged.
+# Current scene — Alpha's private bedchamber, late morning after victory feast
+- Scene significance: routine.
 - Hard-rewound continuity: subsequent month-long events void.
-- Poppy captured in raid; Alpha recognized her as mate, publicly claimed her, and forced her upstairs in iron wrist cuffs after she resisted. She did not consent.
-- T10: Alpha sexually assaulted Poppy behind locked doors; event elided, nonconsensual and not romantic.
-- T11–T27: Poppy washed, dressed in linen shift after both cuffs removed, and slept in Alpha's locked chamber while he attended disturbance at eastern gate.
-- T28–T33: Rhydian left her locked under guard. Mara delivered breakfast. Poppy ate, tended fire, and recalled unwanted contact; Mara returned for dishes.
-- T34: Poppy brings tray to door and asks Mara for clothes. Guard opens door only enough to exchange tray. Mara offers to find a suitable dress, stockings and shoes from stores, subject to household authority; she promises to return, no guarantee yet. Poppy remains alone in locked room, wrists free.
+- Poppy captured in raid; Alpha recognized her as mate, publicly claimed her, and forced her upstairs in iron wrist cuffs after she resisted. She did not consent. T10 assault elided, nonconsensual.
+- Rhydian left Poppy locked in his chambers under guard to meet Garrick over prisoner killing a guard. Both wrists free.
+- T33–T34: Mara brought breakfast, Poppy ate and tended fire; she requested clothes and Mara promised to look.
+- T35: Poppy shakes her head when asked if she needs anything else. Mara leaves and later returns with a plain wool dress, stockings, shawl and worn shoes, handed through door under guard. Poppy has not yet chosen whether to dress. Room remains locked.
