@@ -6,14 +6,13 @@
 - T21–T28: Morning. Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men for investigation.
 - T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake, plans to test Rhydian's generosity.
 - T33–T35: Seamstress Elspeth measures Poppy for black gowns. Rhydian orders a ceremonial gown for evening pack presentation.
-- T36: Rhydian explains future Luna as Alpha's recognized mate and female pack leader; Poppy has not agreed to formal role.
-- T37–T38: Poppy responds noncommittally to Luna designation, then smiles for the first time Rhydian has seen at the flowing black velvet gown design.
-- T39–T40: Rhydian gives Poppy sapphire necklace; inherited wolf-head Luna pendant remains his.
-- T41–T42: Poppy questions her sudden protection. Rhydian asserts his authority and orders guards outside his chambers. Player OOC wants him unwaveringly authoritative, not softening.
-- T43–T46: Poppy remains confined, chooses loose sleeves and low braids with silver pins; Elspeth and assistants complete black velvet silver-embroidered gown.
-- T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired Lady Morwen watches with displeasure.
-- T50–T52: Rhydian feeds Poppy; Morwen questions her fitness as Luna; Rhydian rebukes Morwen and orders her to teach Poppy pack customs under supervision.
-- T53–T55: Poppy shares huge chocolate cake with hall, tastes it and smiles at Rhydian, then offers him a bite. He accepts, pleased and possessive.
-- T56: After feast Rhydian takes Poppy to his chambers. They have sex again that night, with Rhydian taking a guiding, commanding role; intimate details elided. Poppy's internal feelings and consent not presumed.
-- T57: Poppy confides she had never been with a man before Rhydian, despite men in her village pursuing her; she fought them off.
-- T58: Poppy clarifies she is aching rather than in sharp pain, attributing it to Rhydian's much larger size. Rhydian recognizes the physical mismatch and orders rest and direct communication if she hurts; retains his authoritative bearing. Late night in bed.
+- T36: Rhydian explains future Luna as Alpha's recognized mate and female pack leader; Poppy has not agreed to formal role; T37–T38: she responds noncommittally, smiles at flowing black gown design.
+- T39–T40: Rhydian gives Poppy sapphire necklace; inherited Luna pendant remains his.
+- T41–T42: Poppy questions protection; Rhydian asserts authority and confinement. Player OOC wants him unwaveringly authoritative, not softening.
+- T43–T46: Poppy chooses loose sleeves and low braids; Elspeth completes black velvet silver-embroidered gown.
+- T47–T49: Rhydian brings Poppy to feast, publicly declares mate and future Luna, seats her on his lap. Lady Morwen watches with displeasure.
+- T50–T52: Rhydian feeds Poppy; Morwen questions her fitness; Rhydian rebukes her and orders her to teach Poppy customs under supervision.
+- T53–T55: Poppy shares giant chocolate cake with hall, enjoys it, offers Rhydian a bite; he accepts.
+- T56: After feast Rhydian takes Poppy to chambers; intimacy occurs off-page, his role guiding/commanding; Poppy's feelings and consent not presumed.
+- T57–T58: Poppy reveals he was her first man; village men tried to take her but she fought them. She admits lingering ache due to their size difference; Rhydian orders her to report pain and rest.
+- T59: Asked why she hasn't fought Rhydian, Poppy says she doesn't know, but doesn't want to. Rhydian takes this seriously, remains possessive and authoritative, distinguishes her present answer from a permanent promise, and holds her as night settles.
