@@ -12,5 +12,5 @@
 - T41–T42: Poppy questions her sudden protection. Rhydian asserts his authority and orders guards outside his chambers. Player OOC wants him unwaveringly authoritative, not softening.
 - T43–T46: Poppy remains confined, chooses loose sleeves and low braids with silver pins; Elspeth and assistants complete black velvet silver-embroidered gown.
 - T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired Lady Morwen watches with displeasure.
-- T50–T51: Rhydian feeds Poppy and kisses her neck before pack; Lady Morwen publicly questions her fitness as Luna. Poppy remains sore from prior night's intimacy.
-- T52: Poppy quietly tells Rhydian alone that she does not know what to say. He takes control of exchange, publicly reprimands Morwen and orders her to instruct Poppy in customs under supervision, emphasizing Poppy's authority and Morwen's obedience. Poppy has not accepted Luna role formally. Chocolate cake pending.
+- T50–T52: Rhydian feeds Poppy; Morwen questions her fitness as Luna; Rhydian rebukes Morwen and orders her to teach Poppy pack customs under supervision.
+- T53: On hearing giant chocolate cake is ready, Poppy asks whether she may share. Rhydian authorizes portions for the hall after she is served first, treating it as her gift and a public gesture of her place at his table. Cake arrives and first slice offered to Poppy; her next action pending.
