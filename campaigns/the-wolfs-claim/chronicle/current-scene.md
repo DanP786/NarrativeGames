@@ -1,5 +1,5 @@
 # Current scene — staircase outside victory hall, autumn night
 - Scene significance: charged.
-- Hard-rewound continuity: all subsequent month-long events void.
-- Poppy Cooper was captured in raid, refused to kneel at feast, and was struck behind knees. Alpha recognized her as fated mate and publicly claimed her. She rejected ownership; he ordered her to his chambers and forcibly restrained her after she shoved him.
-- T07: Poppy tries to pull her arm free; Alpha throws her toward stairs. She spits that she would rather endure any punishment than enter his chambers. He loses patience and seizes her by the hair, threatening brutal consequences, then drags her toward the upper floor. Poppy has not consented or softened; next response belongs to player.
+- Hard-rewound continuity: subsequent month-long events void.
+- Poppy Cooper captured in raid, refused to kneel, struck behind knees. Alpha recognizes fated mate and publicly claims her. She rejects ownership, challenges his authority, shoves him, and refuses his chambers. Alpha threatens punishment, seizes her by hair and orders black iron wrist cuffs.
+- T08: Poppy steps back as guard returns with cuffs; Alpha catches her wrist, restrains her and fastens the first cuff while holding the second ready. She remains defiant and captive; next action player-controlled.
