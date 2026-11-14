@@ -1,20 +1,20 @@
 # Current scene — Rhydian's bedchamber, predawn
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
-- T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about werewolves.
-- T20: First night of sexual intimacy, details and Poppy's internal response not established.
-- T21–T28: Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men.
+- T01–T19: Poppy captured after village raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
+- T20: First night of sexual intimacy, details and internal response not established.
+- T21–T28: Seven village survivors; Rhydian frees three women at Poppy's request, detains four men.
 - T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake.
-- T33–T40: Rhydian orders black gown, explains Luna position (Poppy has not formally agreed), gifts her sapphires.
-- T41–T46: Rhydian asserts authority and confinement; gown and braids completed. Player OOC wants him unwaveringly authoritative, not softening.
-- T47–T49: Rhydian presents Poppy as mate at feast, seats her on his lap; Lady Morwen displeased.
-- T50–T52: Rhydian feeds Poppy; rebukes Morwen's challenge and orders her to teach Poppy customs under supervision.
-- T53–T55: Poppy shares huge chocolate cake with hall, enjoys it and feeds Rhydian a bite.
-- T56: Second night of intimacy off-page, with Rhydian guiding; no assumed internal response.
-- T57–T58: Poppy reveals Rhydian was her first man; village men tried to take her but she fought them. She reports lingering ache due to their size difference; Rhydian orders her to report pain and rest.
-- T59–T61: Poppy says she doesn't want to fight Rhydian and wants to stay, but hasn't decided if she wants him personally.
-- T62: Rhydian says he would set aside a wife or challenge Poppy's husband for mate bond; his uncompromising view, not automatic universal law.
-- T63: Rhydian explains fierce mate protectiveness versus discipline and says he must avoid hurting Poppy.
-- T64: Poppy laughs at chocolate cake remark; Rhydian kisses her possessively, restrains himself due to soreness, orders sleep.
-- T65: Predawn Poppy wakes in Rhydian's involuntarily tight grip during nightmare; he mutters about holding the line and not opening a gate, wakes and asks if he hurt her.
-- T66: Poppy says he did not hurt her, leaves bed, wets a cloth at the basin, and applies it to his temples. Rhydian initially bristles at being tended, then allows it; hints nightmare concerns an old gate/battle but does not yet explain fully. Predawn conversation open.
+- T33–T40: Rhydian orders black gown, explains Luna position (not formally accepted), gifts sapphires.
+- T41–T46: Rhydian asserts authority and confinement; gown completed. Player OOC wants unwavering authority, not softness.
+- T47–T49: Feast, Rhydian presents Poppy as mate, seats her on his lap; Lady Morwen displeased.
+- T50–T52: Rhydian feeds Poppy; rebukes Morwen and assigns her to teach Poppy customs.
+- T53–T55: Poppy shares giant chocolate cake with hall, enjoys it, feeds Rhydian a bite.
+- T56: Second night of intimacy off-page; Poppy's feelings not presumed.
+- T57–T58: Poppy reveals Rhydian was her first man and lingering ache from size difference; Rhydian orders rest and reporting pain.
+- T59–T61: Poppy doesn't want to fight Rhydian, wants to stay, but hasn't decided if she wants him personally.
+- T62: Rhydian's views on fated bond versus marriage; would set aside wife or challenge husband.
+- T63–T64: Rhydian explains mate protectiveness, kisses Poppy, orders sleep.
+- T65: Predawn nightmare; Rhydian grips Poppy too tightly, mutters about holding a gate; wakes and releases her.
+- T66: Poppy says not hurt, tends his temples with cool cloth; he hints at an old gate betrayal and pulls her into his lap, asking why she tended him.
+- T67: Poppy rests hands on Rhydian's chest while astride his lap and says she wanted him comfortable and relieved. Rhydian is caught off guard by freely offered care, responds with guarded intensity and commanding protectiveness; nightmare details remain largely withheld.
