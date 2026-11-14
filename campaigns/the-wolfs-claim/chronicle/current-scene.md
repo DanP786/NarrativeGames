@@ -1,6 +1,6 @@
 # Current scene — Blackthorn great hall, midday after victory feast
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
-- Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 sexual assault elided and nonconsensual.
-- T42–T45: Rhydian publicly seats Poppy on lap and orders her to eat. Garrick delivers written statement from prisoner naming party behind raid; Rhydian orders prisoner guarded and war council summoned, then asks Poppy if she recognized raiders' markings. Poppy recalls no markings.
-- T46: Poppy asks, 'I don't understand. I thought it was your clan that raided.' Rhydian acknowledges Blackthorn took part in attack but distinguishes his command from possibility that other forces acted under hidden orders, leaving details unresolved. He demands what Poppy witnessed, without deciding her memory. Poppy remains on his lap, wrists free; response player-controlled.
+- Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
+- T42–T46: Rhydian publicly seats Poppy on his lap and orders her to eat. Garrick delivers prisoner's written claim concerning hidden instigator of village raid. Rhydian admits he ordered Blackthorn attack but says torching every house was not his order; he asks Poppy what she witnessed.
+- T47: Poppy says 'I don't know. I was trying to hide the children.' This establishes that she was occupied hiding children during the attack, but their identities, location and fate remain unestablished. Rhydian reacts with sharp attention and asks where she hid them, without presuming outcome. Poppy remains on his lap, wrists free; response player-controlled.
