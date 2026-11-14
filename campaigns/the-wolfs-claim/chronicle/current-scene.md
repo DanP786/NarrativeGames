@@ -2,6 +2,5 @@
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 sexual assault elided and nonconsensual.
-- T33–T41: Poppy ate breakfast, dressed in black-and-silver finery sent by Rhydian. Rhydian had been investigating a prisoner claiming knowledge of who ordered raid.
-- T42–T43: Rhydian pulls Poppy onto lap publicly and orders her to eat. Poppy agrees to behave, cheeks flushed. Garrick arrives with information from prisoner about who ordered raid.
-- T44: Poppy obeys and eats. Garrick refuses to say prisoner's named party publicly, instead gives Rhydian a folded written statement. Rhydian reads it, visibly angry, and orders Garrick to secure prisoner and summon his war council after meal. Rhydian remains seated with Poppy on his lap and asks her what she knows about the raiders who attacked her village. Response player-controlled.
+- T42–T44: Rhydian publicly seats Poppy on lap and orders her to eat. Garrick delivers written statement from prisoner naming party behind raid; Rhydian orders prisoner guarded and war council summoned, then asks Poppy if she recognized raiders' markings.
+- T45: Poppy retorts 'It's not like we were raided often'; Rhydian's grip tightens and she lowers gaze, answering 'not that I remember.' Rhydian warns against sarcasm, then presses her about whether attackers spoke or took prisoners, without asserting unknown details. Poppy's answer player-controlled.
