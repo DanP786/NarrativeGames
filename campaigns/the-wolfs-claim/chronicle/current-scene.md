@@ -1,7 +1,7 @@
-# Current scene — Alpha's bedchamber, autumn night
+# Current scene — Alpha's private chambers, autumn night
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Alpha recognized her as mate, publicly claimed her, and forced her upstairs in iron wrist cuffs after she resisted. She did not consent.
 - T10: Alpha sexually assaulted Poppy behind locked doors; event elided, nonconsensual and not romantic.
-- T11–T14: Poppy rises and washes in adjoining bathing chamber, still cuffed; Alpha refuses to remove cuffs and orders door left unbolted.
-- T15–T17: Poppy washes herself; when she takes too long Alpha retrieves her, wraps her in rough linen, places her before hearth to dry and dictates his expectations: confinement, obedience, no attempted escape, no challenges in front of his wolves. His rules are unilateral; Poppy has not accepted them. Await her response.
+- T11–T17: Poppy washes in adjoining bathing chamber, still cuffed. Alpha retrieves her when she takes too long, wraps her in rough linen, sets her by hearth and dictates confinement, obedience, no escape, and no public challenges. Poppy has not agreed.
+- T18: Poppy finishes washing; Alpha's patience runs out and he enters bathing chamber without asking, orders her out and seizes the chain to enforce it. Her next reaction is player-controlled.
