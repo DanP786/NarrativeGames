@@ -14,4 +14,5 @@
 - T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired Lady Morwen watches with displeasure.
 - T50–T52: Rhydian feeds Poppy; Morwen questions her fitness as Luna; Rhydian rebukes Morwen and orders her to teach Poppy pack customs under supervision.
 - T53: Poppy requests sharing giant chocolate cake with the hall; Rhydian grants it as her gift, first slice served to her.
-- T54: Poppy tastes chocolate cake for first time, finds it amazing and smiles at Rhydian. He is visibly pleased but retains his commanding, possessive manner; pack enjoys the dessert. Feast ongoing.
+- T54: Poppy tastes chocolate cake for first time, finds it amazing and smiles at Rhydian. He is pleased; pack enjoys dessert.
+- T55: Poppy holds up a forkful of cake to Rhydian, silently offering to feed him. He accepts, pleased and possessive, and continues presiding over feast with Poppy on his lap.
