@@ -1,4 +1,4 @@
-# Current scene — Rhydian's bedchamber, late night
+# Current scene — Rhydian's bedchamber, predawn
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about werewolves.
@@ -15,4 +15,5 @@
 - T59–T61: Poppy says she doesn't want to fight Rhydian and wants to stay, but hasn't decided if she wants him personally.
 - T62: Rhydian says he would set aside a wife or challenge Poppy's husband for mate bond; his uncompromising view, not automatic universal law.
 - T63: Rhydian explains fierce mate protectiveness versus discipline and says he must avoid hurting Poppy.
-- T64: Poppy laughs at Rhydian's chocolate cake remark; he kisses her possessively, then restrains himself in light of her soreness and orders sleep. They remain in bed late at night.
+- T64: Poppy laughs at chocolate cake remark; Rhydian kisses her possessively, restrains himself due to soreness, orders sleep.
+- T65: Predawn Poppy wakes trapped in Rhydian's painfully tight, involuntary grip as he suffers a nightmare. He mutters a command to hold the line and a warning not to open a gate, then wakes abruptly and loosens his hold on realizing Poppy is there. Nightmare's exact source remains undisclosed; Poppy may question him.
