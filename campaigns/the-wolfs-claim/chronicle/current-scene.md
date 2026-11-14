@@ -1,4 +1,4 @@
-# Current scene — Rhydian's bedchamber, morning
+# Current scene — Rhydian's bedchamber, late morning
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
@@ -12,6 +12,5 @@
 - T59–T64: Poppy wants to stay but hasn't decided if she wants Rhydian personally; questions bond; affectionate exchange.
 - T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian.
 - T68: Garrick reports three missing sentries and cut signal ropes at eastern watchtower; Rhydian seals gates.
-- T69: Rhydian leaves to investigate, ordering Poppy confined under guard. Kitchen servant Nell arrives with breakfast and claims information.
-- T70: Poppy opens door in Rhydian's robe; Nell shows bloodstained grey cloth with black wolf head pierced by silver arrow, claims to have seen a man wearing emblem yesterday. Guard insists on taking Nell away for questioning.
-- T71: Poppy does not intervene; guard hands her breakfast and she returns to chambers. Outside, guards escort Nell away for questioning, her fate unknown. Poppy remains alone with food; eastern tower investigation ongoing.
+- T69–T71: Rhydian leaves to investigate; Nell delivers breakfast and shows bloodstained grey cloth bearing black wolf head pierced by silver arrow, claims to have seen a man wearing mark. Guards take Nell for questioning; Poppy stays in chambers. Rhydian returns to fortress bloodied with cloaked body.
+- T72: Poppy feels an urge to go to Rhydian, wonders whether it is mate bond, but obeys his order and remains in chambers. Rhydian returns, blood on shirt not apparently his; he confirms her presence and demands to know if anyone approached his door. Nell's fate and tower incident unresolved.
