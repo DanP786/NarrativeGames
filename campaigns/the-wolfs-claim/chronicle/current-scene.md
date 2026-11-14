@@ -16,4 +16,5 @@
 - T62: Rhydian says he would set aside a wife or challenge Poppy's husband for mate bond; his uncompromising view, not automatic universal law.
 - T63: Rhydian explains fierce mate protectiveness versus discipline and says he must avoid hurting Poppy.
 - T64: Poppy laughs at chocolate cake remark; Rhydian kisses her possessively, restrains himself due to soreness, orders sleep.
-- T65: Predawn Poppy wakes trapped in Rhydian's painfully tight, involuntary grip as he suffers a nightmare. He mutters a command to hold the line and a warning not to open a gate, then wakes abruptly and loosens his hold on realizing Poppy is there. Nightmare's exact source remains undisclosed; Poppy may question him.
+- T65: Predawn Poppy wakes in Rhydian's involuntarily tight grip during nightmare; he mutters about holding the line and not opening a gate, wakes and asks if he hurt her.
+- T66: Poppy says he did not hurt her, leaves bed, wets a cloth at the basin, and applies it to his temples. Rhydian initially bristles at being tended, then allows it; hints nightmare concerns an old gate/battle but does not yet explain fully. Predawn conversation open.
