@@ -1,21 +1,16 @@
-# Current scene — Rhydian's bedchamber, morning
+# Current scene — doorway of Rhydian's bedchamber, morning
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after village raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
-- T20: First night of sexual intimacy, details and internal response not established.
-- T21–T28: Seven village survivors; Rhydian frees three women at Poppy's request, detains four men.
-- T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake.
-- T33–T40: Rhydian orders black gown, explains Luna position (not formally accepted), gifts sapphires.
+- T20: First night of intimacy, details and internal response not established.
+- T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
+- T29–T40: Poppy requests huge chocolate cake; Rhydian orders gowns, explains Luna position (not accepted), gifts sapphires.
 - T41–T46: Rhydian asserts authority and confinement; gown completed. Player OOC wants unwavering authority, not softness.
-- T47–T49: Feast, Rhydian presents Poppy as mate, seats her on his lap; Lady Morwen displeased.
-- T50–T52: Rhydian feeds Poppy; rebukes Morwen and assigns her to teach Poppy customs.
-- T53–T55: Poppy shares giant chocolate cake with hall, enjoys it, feeds Rhydian a bite.
-- T56: Second night of intimacy off-page; Poppy's feelings not presumed.
-- T57–T58: Poppy reveals Rhydian was her first man and lingering ache from size difference; Rhydian orders rest and reporting pain.
-- T59–T61: Poppy doesn't want to fight Rhydian, wants to stay, but hasn't decided if she wants him personally.
-- T62: Rhydian's views on fated bond versus marriage; would set aside wife or challenge husband.
-- T63–T64: Rhydian explains mate protectiveness, kisses Poppy, orders sleep.
-- T65: Predawn nightmare; Rhydian grips Poppy too tightly, mutters about holding a gate; wakes and releases her.
-- T66–T67: Poppy tends his temples; Rhydian reveals betrayal at Dunmere gate killed thirty-seven men.
-- T68: Predawn intimacy elided; Garrick reports three missing sentries and cut signal ropes at eastern watchtower; Rhydian orders gates sealed.
-- T69: Poppy settles back in bed and watches Rhydian arm and dress for response. He orders her to remain in his chambers under guard, then leaves with Garrick. Poppy alone in room, sounds of mobilization outside; watchtower threat unresolved.
+- T47–T52: Feast, Rhydian publicly claims Poppy; Lady Morwen challenges her, is rebuked and tasked with lessons.
+- T53–T55: Poppy shares cake with hall, feeds Rhydian a bite.
+- T56–T58: Second night of intimacy off-page; Poppy reveals inexperience and soreness, Rhydian orders rest.
+- T59–T64: Poppy wants to stay but hasn't decided if she wants Rhydian personally; questions bond; affectionate exchange.
+- T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian with damp cloth.
+- T68: Garrick reports three missing sentries and cut signal ropes at eastern watchtower; Rhydian seals gates.
+- T69: Rhydian leaves to investigate, ordering Poppy confined under guard. Unknown woman arrives with breakfast and claims to have information about missing sentries; guards bar her.
+- T70: Poppy puts on Rhydian's robe and opens chamber door herself. Two guards block passage; breakfast servant is young, frightened, with a covered tray and folded scrap of cloth bearing dark red staining. She says she found it caught on the eastern service stair and fears the guards will dismiss her. Poppy's response pending; Rhydian absent.
