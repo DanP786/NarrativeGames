@@ -15,4 +15,5 @@
 - T50–T52: Rhydian feeds Poppy; Morwen questions her fitness as Luna; Rhydian rebukes Morwen and orders her to teach Poppy pack customs under supervision.
 - T53–T55: Poppy shares huge chocolate cake with hall, tastes it and smiles at Rhydian, then offers him a bite. He accepts, pleased and possessive.
 - T56: After feast Rhydian takes Poppy to his chambers. They have sex again that night, with Rhydian taking a guiding, commanding role; intimate details elided. Poppy's internal feelings and consent not presumed.
-- T57: Poppy confides she had never been with a man before Rhydian, despite men in her village pursuing her; she fought them off. Rhydian recognizes the gravity, questions her pain and his assumptions without becoming less authoritative. Her response pending.
+- T57: Poppy confides she had never been with a man before Rhydian, despite men in her village pursuing her; she fought them off.
+- T58: Poppy clarifies she is aching rather than in sharp pain, attributing it to Rhydian's much larger size. Rhydian recognizes the physical mismatch and orders rest and direct communication if she hurts; retains his authoritative bearing. Late night in bed.
