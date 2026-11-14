@@ -1,4 +1,4 @@
-# Current scene — Rhydian's bedchamber, dawn
+# Current scene — Rhydian's bedchamber, morning
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after village raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
@@ -16,6 +16,6 @@
 - T62: Rhydian's views on fated bond versus marriage; would set aside wife or challenge husband.
 - T63–T64: Rhydian explains mate protectiveness, kisses Poppy, orders sleep.
 - T65: Predawn nightmare; Rhydian grips Poppy too tightly, mutters about holding a gate; wakes and releases her.
-- T66: Poppy says not hurt, tends his temples with cool cloth; he hints at an old gate betrayal and pulls her into his lap.
-- T67: Poppy offers comfort; Rhydian reveals gate at Dunmere was opened, costing thirty-seven men; allows her care.
-- T68: Poppy shifts closer on Rhydian's lap and he responds with possessive affection; intimate encounter is elided. Dawn approaches, nightmare's tension diminished. Her feelings beyond stated actions not presumed.
+- T66–T67: Poppy tends his temples; Rhydian reveals betrayal at Dunmere gate killed thirty-seven men.
+- T68: Predawn intimacy elided; Garrick reports three missing sentries and cut signal ropes at eastern watchtower; Rhydian orders gates sealed.
+- T69: Poppy settles back in bed and watches Rhydian arm and dress for response. He orders her to remain in his chambers under guard, then leaves with Garrick. Poppy alone in room, sounds of mobilization outside; watchtower threat unresolved.
