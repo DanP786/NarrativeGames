@@ -18,4 +18,5 @@
 - T77: Poppy washes, dresses in black velvet gown, brushes hair.
 - T78–T81: Poppy's education ended when parents left seeking work and never returned; reads haltingly. Chronicle: Rhydian's elder brother Caelan died at Dunmere; Osric Vale executed for opening eastern gate; marginal note 'The gate was not opened for the enemy. Ask who was meant to leave.' Writer unidentified. Chronicle mentions civilians gathered in inner ward and eastern road to ford.
 - T82: Poppy reads Bloodlines of Great Houses: Rhydian younger son, Caelan older heir, mother deceased; Osric Vale sworn officer and family names struck from rolls after Dunmere.
-- T83: Poppy opens chamber door just enough to collect midday food from corridor under guard, stays inside, eats and rests strained eyes. Rhydian still absent; no new threat or information yet.
+- T83: Poppy eats midday meal and rests eyes in chambers.
+- T84: Poppy searches for another book, finds a slimmer illustrated primer titled The Wolf and the Bond, with accessible short passages on fated mates and Luna customs; she opens it and finds section about human mates. Rhydian remains absent; no new outside incident.
