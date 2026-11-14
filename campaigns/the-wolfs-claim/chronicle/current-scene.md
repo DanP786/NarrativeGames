@@ -1,22 +1,15 @@
-# Current scene — Rhydian's bedchamber, early afternoon
+# Current scene — Rhydian's bedchamber, afternoon
 - Location: Rhydian's private chambers, Blackthorn fortress.
-- Scene significance: routine.
+- Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
 - T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
-- T29–T40: Poppy requests huge chocolate cake; Rhydian orders gowns, explains Luna position (not accepted), gifts sapphires.
+- T29–T40: Poppy requests cake; Rhydian orders gowns, explains Luna position (not accepted), gifts sapphires.
 - T41–T46: Rhydian asserts authority and confinement; gown completed. Player OOC wants unwavering authority, not softness.
-- T47–T52: Feast, Rhydian publicly claims Poppy; Lady Morwen challenges her, is rebuked and tasked with lessons.
-- T53–T55: Poppy shares cake with hall, feeds Rhydian a bite.
-- T56–T58: Second night of intimacy off-page; Poppy reveals inexperience and soreness, Rhydian orders rest.
-- T59–T64: Poppy wants to stay but hasn't decided if she wants Rhydian personally; questions bond; affectionate exchange.
+- T47–T55: Feast, Rhydian publicly claims Poppy; Morwen challenges her, is rebuked and assigned to teach her. Poppy shares chocolate cake.
+- T56–T64: Intimacy elided; Poppy reveals Rhydian her first partner, wishes to stay but hasn't decided if she wants him; questions bond.
 - T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian.
-- T68: Garrick reports three missing sentries and cut signal ropes at eastern watchtower; Rhydian seals gates.
-- T69–T71: Nell shows Poppy bloodstained grey cloth bearing black wolf head pierced by silver arrow; claims she saw a man wearing emblem yesterday; guards take her for questioning. Rhydian returns with dead sentries.
-- T72–T74: Rhydian recognizes arrow emblem from Dunmere betrayal; orders Nell questioned safely; Poppy supplies Nell's claim she saw marked man yesterday.
-- T75–T76: Missing sentry claims Captain Edric ordered him away; Rhydian orders Edric seized, admits Poppy may be in danger, doubles guard, commands her to remain in chambers and trust no summons not personally delivered by him.
-- T77: Poppy washes, dresses in black velvet gown, brushes hair.
-- T78–T81: Poppy's education ended when parents left seeking work and never returned; reads haltingly. Chronicle: Rhydian's elder brother Caelan died at Dunmere; Osric Vale executed for opening eastern gate; marginal note 'The gate was not opened for the enemy. Ask who was meant to leave.' Writer unidentified. Chronicle mentions civilians gathered in inner ward and eastern road to ford.
-- T82: Poppy reads Bloodlines of Great Houses: Rhydian younger son, Caelan older heir, mother deceased; Osric Vale sworn officer and family names struck from rolls after Dunmere.
-- T83: Poppy eats midday meal and rests eyes in chambers.
-- T84: Poppy searches for another book, finds a slimmer illustrated primer titled The Wolf and the Bond, with accessible short passages on fated mates and Luna customs; she opens it and finds section about human mates. Rhydian remains absent; no new outside incident.
+- T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
+- T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
+- T84: Poppy finds illustrated primer The Wolf and the Bond: human mate's bond may develop gradually; public Alpha declaration recognizes Luna's standing but traditional binding ceremony requires both mates' participation.
+- T85: Poppy reads on: binding ceremony traditionally involves both mates speaking oaths before witnesses, and cannot be completed by Alpha's declaration alone; historical account notes an unbound Luna's public standing can be disputed. This describes tradition, not guaranteed protection from Rhydian's power. A brief noise at the door interrupts her; Rhydian has not yet returned.
