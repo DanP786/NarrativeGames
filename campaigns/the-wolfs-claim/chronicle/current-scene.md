@@ -1,17 +1,6 @@
-# Current scene — Rhydian's bedchamber, night, one month later
-- Location: Rhydian's private bedchamber, Blackthorn fortress.
+# Current scene — Victory Feast (hard rewind)
+- Location: great hall, Blackthorn fortress; autumn night after raid.
 - Scene significance: charged.
-- T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
-- T20: First night of intimacy, details and internal response not established.
-- T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
-- T29–T40: Poppy requests cake; Rhydian orders gowns, explains Luna position (not accepted), gifts sapphires.
-- T41–T46: Rhydian asserts authority and confinement; gown completed. Player OOC wants unwavering authority, not softness.
-- T47–T55: Feast, Rhydian publicly claims Poppy; Morwen challenges her, is rebuked and assigned Morwen to teach her. Poppy shares chocolate cake.
-- T56–T64: Intimacy elided; Poppy reveals Rhydian her first partner, wishes to stay but hasn't decided if she wants him; questions bond.
-- T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian.
-- T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
-- T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
-- T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; public declaration distinct from traditional binding needing both oaths; Luna may petition and request sentence review, Alpha retains command.
-- T87–T102: Dunmere investigation: Yseld Vale among seven missing; possible Caelan child speculative. Caelan's dictated dying statement missing; archive ledger ordered. Healer summoned; Poppy reports no monthly bleeding for about two years, suspected prolonged undernourishment, no confirmed pregnancy. Edric outcome undisclosed.
-- T103–T105: One month passes. Poppy visibly gains weight; pregnancy status and Dunmere outcomes not established. In bedchamber, Rhydian admires her restored health; intimacy elided. Poppy says she is stronger and happier; Rhydian asks if happiness is from safety or being his.
-- T106: Poppy replies both can be true. Rhydian accepts that she is becoming happy with him as well as with safety, responds possessively, but does not treat it as a vow or consent to Luna binding. He asks what she wants from him next. No new investigation or pregnancy findings.
+- All events after the initial feast confrontation have been voided at player's request. The later month, intimacy, household developments, investigations and emotional softening are noncanon.
+- Poppy Cooper, 22, abducted from poor village, among human prisoners. She refused to kneel; guard struck behind her knees. Alpha recognized her as fated mate, publicly declared her his, and ordered her taken to his chambers after she replied, 'I belong to no one.'
+- Current player line: 'Your chambers?!' Poppy scowls. Resume with Alpha responding brutally and unyieldingly; he does not soften for his mate. Poppy's feelings and decisions remain player-controlled.

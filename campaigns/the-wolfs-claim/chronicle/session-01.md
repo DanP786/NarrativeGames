@@ -1,2 +1,2 @@
-# Session 01
-Opening situation: Poppy Cooper and other human captives have been brought to a werewolf warlord's fortress following a raid. A victory feast is underway. The captives are about to be presented for distribution; Poppy has not yet met the Alpha.
+# Session 01 — hard-rewound continuity
+Poppy Cooper, 22, a defiant human captive from a poor village, was brought to a Blackthorn werewolf victory feast. She refused to kneel and a guard struck her behind the knees. The savage Alpha recognized her as his fated mate and claimed her publicly. Poppy answered, 'I belong to no one.' He ordered her taken to his chambers. She scowled and demanded, 'Your chambers?!' The story resumes here, with the Alpha consistently brutal and unyielding. All events from the previously played following month are void.

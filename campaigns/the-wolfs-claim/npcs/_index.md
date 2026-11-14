@@ -1,2 +1,1 @@
-- Rhydian Varr | Alpha of Blackthorn Pack, Lord of the northern marches | alive | upper fortress corridor | Possessive | savage warlord, publicly claims Poppy as fated mate, believes she cannot refuse; introduced himself by name in T16
-- Garrick | Rhydian's subordinate/officer | alive | upper fortress corridor | Professional | reports survivors of village raid, follows Rhydian's orders
+- Rhydian Varr | Alpha of Blackthorn Pack, Lord of northern marches | alive | fortress great hall | Wary | savage warlord, recognizes Poppy as fated mate, publicly claims her, regards refusal as insolence; no softness or concessions established. Name not yet spoken to Poppy.
