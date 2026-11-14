@@ -14,4 +14,5 @@
 - T57–T58: Poppy reveals Rhydian was her first man; village men tried to take her but she fought them. She reports lingering ache due to their size difference; Rhydian orders her to report pain and rest.
 - T59–T61: Poppy says she doesn't want to fight Rhydian and wants to stay, but hasn't decided if she wants him personally.
 - T62: Rhydian says he would set aside a wife or challenge Poppy's husband for mate bond; his uncompromising view, not automatic universal law.
-- T63: Poppy says she is trying to understand the mate bond: Rhydian kills for disrespect yet doesn't hurt her except for soreness due to their size difference, glancing at his groin. Rhydian explains fierce protective instinct versus discipline, takes her soreness seriously and states he must take care not to injure her. Night continues in bed.
+- T63: Rhydian explains fierce mate protectiveness versus discipline and says he must avoid hurting Poppy.
+- T64: Poppy laughs at Rhydian's chocolate cake remark; he kisses her possessively, then restrains himself in light of her soreness and orders sleep. They remain in bed late at night.
