@@ -14,4 +14,5 @@
 - T47–T49: Rhydian inspects gown, takes Poppy to feast, publicly declares her mate and future Luna, seats her on his lap before pack. Silver-haired Lady Morwen watches with displeasure.
 - T50–T52: Rhydian feeds Poppy; Morwen questions her fitness as Luna; Rhydian rebukes Morwen and orders her to teach Poppy pack customs under supervision.
 - T53–T55: Poppy shares huge chocolate cake with hall, tastes it and smiles at Rhydian, then offers him a bite. He accepts, pleased and possessive.
-- T56: After feast Rhydian takes Poppy to his chambers. They have sex again that night, with Rhydian taking a guiding, commanding role; intimate details elided. Poppy's internal feelings and consent not presumed. Next scene late night/aftermath.
+- T56: After feast Rhydian takes Poppy to his chambers. They have sex again that night, with Rhydian taking a guiding, commanding role; intimate details elided. Poppy's internal feelings and consent not presumed.
+- T57: Poppy confides she had never been with a man before Rhydian, despite men in her village pursuing her; she fought them off. Rhydian recognizes the gravity, questions her pain and his assumptions without becoming less authoritative. Her response pending.
