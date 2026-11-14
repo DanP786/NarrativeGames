@@ -14,4 +14,5 @@
 - T56: After feast Rhydian takes Poppy to chambers; intimacy occurs off-page, his role guiding/commanding; Poppy's feelings and consent not presumed.
 - T57–T58: Poppy reveals he was her first man; village men tried to take her but she fought them. She admits lingering ache due to their size difference; Rhydian orders her to report pain and rest.
 - T59: Asked why she hasn't fought Rhydian, Poppy says she doesn't know, but doesn't want to.
-- T60: Poppy reflects on her old life and the life possible at Blackthorn, then answers yes when Rhydian asks if she wants to be here with him. He is deeply satisfied and possessive but does not treat her answer as agreement to every future demand or formal Luna role. Night continues in his chambers.
+- T60: Poppy says she wants to stay at Blackthorn with Rhydian, without promising formal Luna role or unconditional assent.
+- T61: When Rhydian asks whether she wants him or merely the better life, Poppy smiles and says she hasn't decided. He is irritated, intrigued, and unyielding; doesn't claim her feelings are settled. They remain in bed late at night.
