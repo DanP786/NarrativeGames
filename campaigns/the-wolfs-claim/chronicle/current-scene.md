@@ -1,6 +1,6 @@
-# Current scene — Rhydian's chambers, morning
+# Current scene — Rhydian's chambers, late morning
 - Location: private chamber, Blackthorn fortress.
-- Scene significance: charged.
+- Scene significance: routine.
 - T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about his mate claim and werewolves.
 - T20: Poppy enters his bed; night passes with sexual intimacy, details and her internal response not established.
 - T21–T28: Morning. Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men for investigation.
@@ -8,6 +8,6 @@
 - T33–T35: Seamstress Elspeth measures Poppy for black gowns. Rhydian orders a ceremonial gown for evening pack presentation.
 - T36: Rhydian explains future Luna as Alpha's recognized mate and female pack leader; Poppy has not agreed to formal role.
 - T37–T38: Poppy responds noncommittally to Luna designation, then smiles for the first time Rhydian has seen at the flowing black velvet gown design.
-- T39–T40: Rhydian shows jewels and gives Poppy the sapphire necklace she chooses, fastening it on her; inherited wolf-head Luna pendant remains his.
-- T41: Poppy questions her change from captive to protected mate; Rhydian explains the bond and admits his protection is captivity.
-- T42: Player OOC requests Rhydian remain unwaveringly authoritative, not increasingly nice. Poppy says 'I suppose yes' and looks back in mirror. Rhydian reasserts nonnegotiable control over her movement and evening presentation; orders Elspeth back to work and guards assigned. Evening gown and cake pending.
+- T39–T40: Rhydian gives Poppy sapphire necklace; inherited wolf-head Luna pendant remains his.
+- T41–T42: Poppy questions her sudden protection. Rhydian asserts his authority and orders guards outside his chambers. Player OOC wants him unwaveringly authoritative, not softening.
+- T43: Poppy obeys, eating breakfast and allowing Elspeth to finish measurements. Rhydian sets a deadline for the black gown and leaves her confined with guards while he attends duties. Cake and evening pack presentation pending.
