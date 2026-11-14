@@ -1,6 +1,5 @@
-# Current scene — Victory Feast (hard-rewound continuity)
-- Location: great hall threshold and staircase, Blackthorn fortress; autumn night after raid.
+# Current scene — staircase outside victory hall, autumn night
 - Scene significance: charged.
-- All events after original victory feast are void.
-- Poppy refused to kneel; guard struck her knees. Alpha recognized and claimed her as mate. She rejected ownership. He ordered her to his chambers, seized and threatened her, then ordered her upstairs.
-- T06: Poppy challenges his contempt for a mate and tries to shove him; he does not budge. He violently restrains her wrists, answers that being mate does not grant her authority, and orders her to climb the stairs herself while maintaining physical control. No consent or affection established.
+- Hard-rewound continuity: all subsequent month-long events void.
+- Poppy Cooper was captured in raid, refused to kneel at feast, and was struck behind knees. Alpha recognized her as fated mate and publicly claimed her. She rejected ownership; he ordered her to his chambers and forcibly restrained her after she shoved him.
+- T07: Poppy tries to pull her arm free; Alpha throws her toward stairs. She spits that she would rather endure any punishment than enter his chambers. He loses patience and seizes her by the hair, threatening brutal consequences, then drags her toward the upper floor. Poppy has not consented or softened; next response belongs to player.
