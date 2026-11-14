@@ -10,5 +10,5 @@
 - T37–T38: Poppy responds noncommittally to Luna designation, then smiles for the first time Rhydian has seen at the flowing black velvet gown design.
 - T39–T40: Rhydian gives Poppy sapphire necklace; inherited wolf-head Luna pendant remains his.
 - T41–T42: Poppy questions her sudden protection. Rhydian asserts his authority and orders guards outside his chambers. Player OOC wants him unwaveringly authoritative, not softening.
-- T43: Poppy obeys, eating breakfast and allowing Elspeth to finish measurements. Rhydian leaves her confined with guards while attending duties.
-- T44: Poppy chooses loose sleeves for the black velvet gown. Elspeth notes this and continues pinning; two guards remain outside. Cake and evening pack presentation pending.
+- T43–T44: Poppy eats, allows fitting, chooses loose sleeves for black velvet gown; Rhydian leaves her confined with guards.
+- T45: Poppy agrees to have castle hairdresser arrange her hair for tonight. Elspeth sends for hairdresser and assistants, continues rush gown work; guards enforce confinement. Cake and evening presentation pending.
