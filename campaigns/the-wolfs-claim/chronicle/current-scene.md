@@ -1,6 +1,6 @@
-# Current scene — Rhydian's bedchamber, midday
+# Current scene — Rhydian's bedchamber, early afternoon
 - Location: Rhydian's private chambers, Blackthorn fortress.
-- Scene significance: charged.
+- Scene significance: routine.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
 - T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
@@ -17,4 +17,5 @@
 - T75–T76: Missing sentry claims Captain Edric ordered him away; Rhydian orders Edric seized, admits Poppy may be in danger, doubles guard, commands her to remain in chambers and trust no summons not personally delivered by him.
 - T77: Poppy washes, dresses in black velvet gown, brushes hair.
 - T78–T81: Poppy's education ended when parents left seeking work and never returned; reads haltingly. Chronicle: Rhydian's elder brother Caelan died at Dunmere; Osric Vale executed for opening eastern gate; marginal note 'The gate was not opened for the enemy. Ask who was meant to leave.' Writer unidentified. Chronicle mentions civilians gathered in inner ward and eastern road to ford.
-- T82: Poppy asks guard to leave midday meal outside, then takes The Bloodlines of the Great Houses. She reads Varr family genealogy: Rhydian younger son, Caelan older heir, mother deceased, family line predates Blackthorn fortress. Vale appears as sworn retainers, not blood kin; Osric Vale is listed as a household officer whose line was struck from service after Dunmere. No confirmed new motive. Midday meal waits outside; Poppy inside with book.
+- T82: Poppy reads Bloodlines of Great Houses: Rhydian younger son, Caelan older heir, mother deceased; Osric Vale sworn officer and family names struck from rolls after Dunmere.
+- T83: Poppy opens chamber door just enough to collect midday food from corridor under guard, stays inside, eats and rests strained eyes. Rhydian still absent; no new threat or information yet.
