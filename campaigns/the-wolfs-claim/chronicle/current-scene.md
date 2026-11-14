@@ -1,5 +1,5 @@
-# Current scene — outside Rhydian's bedchamber, late afternoon
-- Location: Upper corridor, Blackthorn fortress, heading for Rhydian's study.
+# Current scene — Rhydian's study, late afternoon
+- Location: Rhydian's private study, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
@@ -12,5 +12,5 @@
 - T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
 - T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
 - T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; public declaration distinct from traditional binding needing both oaths; Luna may petition and request sentence review, Alpha retains command.
-- T87–T92: Rhydian returns, discusses Luna ceremony and Caelan; Poppy reveals marginal Dunmere inscription. Rhydian orders archives searched. Poppy suggests spy or hidden heir; he orders inquiry into Dunmere occupants and missing people. Garrick awaits with archive news; Edric investigation outcome undisclosed.
-- T93: Poppy asks whether she would be safest beside Rhydian. He considers, agrees proximity under his personal protection is safer than leaving her isolated under potentially compromised guards; commands her to stay within reach, not speak of Dunmere note without his leave. He takes her hand and leads her into corridor to meet Garrick and proceed to study. Garrick has not yet delivered findings.
+- T87–T93: Rhydian returns, discusses Luna ceremony and Caelan; Poppy reveals marginal Dunmere inscription. Rhydian orders archives searched, agrees Poppy is safer at his side, leads her with Garrick to study. Garrick reports seven persons missing after Dunmere, including household members.
+- T94: Poppy lifts skirts to keep up with Rhydian's pace, remains silent and follows. Garrick reads partial list: two kitchen servants, stable boy, three other civilians, and Lady Yseld Vale, Osric's younger sister, formerly attached to Caelan's household. Seven missing total; no evidence they escaped or were intended escapees. Rhydian commands original rolls and witness statements produced, enters study with Poppy; demands to know who last saw Yseld. Edric investigation outcome still undisclosed.
