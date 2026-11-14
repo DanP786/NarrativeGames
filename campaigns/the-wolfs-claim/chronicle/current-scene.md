@@ -1,6 +1,6 @@
 # Current scene — Rhydian's bedchamber, late afternoon
 - Location: Rhydian's private chambers, Blackthorn fortress.
-- Scene significance: charged.
+- Scene significance: climactic.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
 - T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
@@ -11,6 +11,6 @@
 - T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian.
 - T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
 - T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
-- T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; Luna public declaration distinct from traditional binding needing both oaths; Luna may petition, counsel, and request sentence review, but Alpha retains final command.
-- T87–T88: Rhydian returns, acknowledges ceremony and insists he intends Poppy to be Luna, though her vows cannot be spoken for her; asks what else she learned.
-- T89: Poppy says sadly 'You had a brother.' Rhydian stiffens and names Caelan, confirms he was elder brother and heir, killed at Dunmere. He is guarded, bitter, insists Caelan was not merely a casualty in a chronicle and asks what exactly she read about him. Poppy has not disclosed marginal note or its writer; Edric investigation outcome still undisclosed.
+- T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; public declaration distinct from traditional binding needing both oaths; Luna may petition and request sentence review, Alpha retains command.
+- T87–T89: Rhydian returns; says he intends Poppy as Luna; confirms Caelan was elder heir killed at Dunmere, Osric executed, deeply guarded about loss.
+- T90: Poppy says she read only that Caelan died and was original heir, steps beside Rhydian and shows him faded marginal note in Dunmere chronicle: 'The gate was not opened for the enemy. Ask who was meant to leave,' with crossed-line mark. Rhydian reads it for first time, reacts with anger and wary interest, does not identify author or mark. He orders book preserved, asks Poppy whether she found anything else and where book came from. No motive established, Edric outcome still undisclosed.
