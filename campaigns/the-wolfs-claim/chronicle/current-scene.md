@@ -6,13 +6,12 @@
 - T21–T28: Morning. Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men for investigation.
 - T29–T32: Poppy weighs captivity versus starvation, requests huge chocolate cake, plans to test Rhydian's generosity.
 - T33–T35: Seamstress Elspeth measures Poppy for black gowns. Rhydian orders a ceremonial gown for evening pack presentation.
-- T36: Rhydian explains future Luna as Alpha's recognized mate and female pack leader; Poppy has not agreed to formal role; T37–T38: she responds noncommittally, smiles at flowing black gown design.
-- T39–T40: Rhydian gives Poppy sapphire necklace; inherited Luna pendant remains his.
-- T41–T42: Poppy questions protection; Rhydian asserts authority and confinement. Player OOC wants him unwaveringly authoritative, not softening.
-- T43–T46: Poppy chooses loose sleeves and low braids; Elspeth completes black velvet silver-embroidered gown.
+- T36–T40: Rhydian explains future Luna, Poppy does not agree to formal role; he orders black gown and gifts her sapphires.
+- T41–T46: Rhydian asserts authority and confinement; Poppy's gown and braids completed. Player OOC wants Rhydian unwaveringly authoritative, not softening.
 - T47–T49: Rhydian brings Poppy to feast, publicly declares mate and future Luna, seats her on his lap. Lady Morwen watches with displeasure.
 - T50–T52: Rhydian feeds Poppy; Morwen questions her fitness; Rhydian rebukes her and orders her to teach Poppy customs under supervision.
 - T53–T55: Poppy shares giant chocolate cake with hall, enjoys it, offers Rhydian a bite; he accepts.
 - T56: After feast Rhydian takes Poppy to chambers; intimacy occurs off-page, his role guiding/commanding; Poppy's feelings and consent not presumed.
 - T57–T58: Poppy reveals he was her first man; village men tried to take her but she fought them. She admits lingering ache due to their size difference; Rhydian orders her to report pain and rest.
-- T59: Asked why she hasn't fought Rhydian, Poppy says she doesn't know, but doesn't want to. Rhydian takes this seriously, remains possessive and authoritative, distinguishes her present answer from a permanent promise, and holds her as night settles.
+- T59: Asked why she hasn't fought Rhydian, Poppy says she doesn't know, but doesn't want to.
+- T60: Poppy reflects on her old life and the life possible at Blackthorn, then answers yes when Rhydian asks if she wants to be here with him. He is deeply satisfied and possessive but does not treat her answer as agreement to every future demand or formal Luna role. Night continues in his chambers.
