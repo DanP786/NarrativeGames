@@ -1,6 +1,6 @@
 # Current scene — Rhydian's bedchamber, late afternoon
 - Location: Rhydian's private chambers, Blackthorn fortress.
-- Scene significance: climactic.
+- Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
 - T21–T28: Seven village survivors; Rhydian frees three women, detains four men.
@@ -12,5 +12,5 @@
 - T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
 - T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
 - T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; public declaration distinct from traditional binding needing both oaths; Luna may petition and request sentence review, Alpha retains command.
-- T87–T89: Rhydian returns; says he intends Poppy as Luna; confirms Caelan was elder heir killed at Dunmere, Osric executed, deeply guarded about loss.
-- T90: Poppy says she read only that Caelan died and was original heir, steps beside Rhydian and shows him faded marginal note in Dunmere chronicle: 'The gate was not opened for the enemy. Ask who was meant to leave,' with crossed-line mark. Rhydian reads it for first time, reacts with anger and wary interest, does not identify author or mark. He orders book preserved, asks Poppy whether she found anything else and where book came from. No motive established, Edric outcome still undisclosed.
+- T87–T90: Rhydian returns, discusses Luna ceremony and Caelan; Poppy reveals marginal Dunmere inscription. Rhydian orders archives searched, questions her about other discoveries.
+- T91: Poppy answers that she saw no name or other writing, but tells Rhydian chronicle mentions women, children and noncombatants gathered in inner ward and map of eastern road to Dunmere Ford. Rhydian knows geography but is struck by possible evacuation theory; cautions that it proves nothing. He asks whether Poppy thinks Osric was trying to save someone. Edric outcome still undisclosed.
