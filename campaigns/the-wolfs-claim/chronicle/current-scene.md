@@ -1,6 +1,6 @@
-# Current scene — Rhydian's chambers, afternoon
+# Current scene — Rhydian's chambers, near sunset
 - Location: private chamber, Blackthorn fortress.
-- Scene significance: routine.
+- Scene significance: charged.
 - T01–T19: Poppy captured after village raid; Rhydian Varr, Alpha of Blackthorn, recognizes her as fated mate, takes her to his chambers. She eats, bathes, and learns about his mate claim and werewolves.
 - T20: Poppy enters his bed; night passes with sexual intimacy, details and her internal response not established.
 - T21–T28: Morning. Poppy visits seven village survivors with Rhydian; he frees three women at her request, detains four men for investigation.
@@ -10,5 +10,5 @@
 - T37–T38: Poppy responds noncommittally to Luna designation, then smiles for the first time Rhydian has seen at the flowing black velvet gown design.
 - T39–T40: Rhydian gives Poppy sapphire necklace; inherited wolf-head Luna pendant remains his.
 - T41–T42: Poppy questions her sudden protection. Rhydian asserts his authority and orders guards outside his chambers. Player OOC wants him unwaveringly authoritative, not softening.
-- T43–T45: Poppy obeys confinement, eats, chooses loose sleeves for gown, and agrees to hairdresser Agnes; honey cake served while chocolate cake pending.
-- T46: Poppy chooses a low braided hairstyle. Agnes arranges it with silver pins; Elspeth and assistants progress with black velvet gown. Time advances into afternoon; Rhydian remains away, guards posted. Evening pack presentation and chocolate cake pending.
+- T43–T46: Poppy remains confined, chooses loose sleeves and low braids with silver pins; Elspeth and assistants complete black velvet silver-embroidered gown.
+- T47: Rhydian returns, dismisses dressmakers, commands Poppy to turn; she obeys. He inspects her gown and announces imminent presentation to the pack, making clear she must stand beside him and keep composure. Cake remains pending.
