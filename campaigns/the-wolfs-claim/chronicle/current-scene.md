@@ -1,4 +1,4 @@
-# Current scene — Rhydian's bedchamber, late morning
+# Current scene — Rhydian's bedchamber, near midday
 - Location: Rhydian's private chambers, Blackthorn fortress.
 - Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
@@ -16,5 +16,5 @@
 - T72–T74: Rhydian recognizes arrow emblem from Dunmere betrayal; orders Nell questioned safely; Poppy supplies Nell's claim she saw marked man yesterday.
 - T75–T76: Missing sentry claims Captain Edric ordered him away; Rhydian orders Edric seized, admits Poppy may be in danger, doubles guard, commands her to remain in chambers and trust no summons not personally delivered by him.
 - T77: Poppy washes, dresses in black velvet gown, brushes hair.
-- T78–T79: Poppy's education ended when parents left for work and never returned; she reads haltingly. Finds chronicle of Dunmere: elder brother Caelan Varr killed, Osric Vale executed for opening eastern gate; marginal note 'The gate was not opened for the enemy,' with crossed-line mark.
-- T80: Poppy squints at marginal note in window light and discerns faint continuation beneath it: 'Ask who was meant to leave.' Writer and mark remain unidentified. She remains alone in guarded bedchamber with book open.
+- T78–T80: Poppy's education ended when parents left seeking work and never returned; reads haltingly. Chronicle: Rhydian's elder brother Caelan died at Dunmere; Osric Vale executed for opening eastern gate; marginal note 'The gate was not opened for the enemy. Ask who was meant to leave.' Writer unidentified.
+- T81: Poppy continues reading history slowly. Later passage reports civilians and noncombatants were gathered inside Dunmere's inner ward before gate opened, but does not establish anyone escaped. An old map shows a narrow eastern road to river ford. A guard knocks and announces midday meal outside, awaits Poppy's response. No further confirmed motive.
