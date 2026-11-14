@@ -13,5 +13,6 @@
 - T65–T67: Predawn nightmare about Dunmere gate betrayal and thirty-seven dead; Poppy comforts Rhydian.
 - T68: Garrick reports three missing sentries and cut signal ropes at eastern watchtower; Rhydian seals gates.
 - T69–T71: Nell shows Poppy bloodstained grey cloth bearing black wolf head pierced by silver arrow; claims she saw a man wearing emblem yesterday; guards take her for questioning. Rhydian returns with dead sentries.
-- T72–T73: Poppy stays in chambers; Rhydian reports two dead sentries and third missing, recognizes arrow emblem from Dunmere betrayal twelve years ago; orders Nell brought unharmed and cloth recovered.
-- T74: Poppy tells Rhydian Nell wanted to help and had seen men wearing the mark before. Rhydian notes Nell had specified yesterday, summons Garrick; Garrick arrives reporting Nell held safely and scrap secured. Rhydian orders immediate questioning about where she saw the marked man and who else was present; keeps Poppy in chambers. Answer pending.
+- T72–T74: Rhydian recognizes arrow emblem from Dunmere betrayal; orders Nell questioned safely; Poppy supplies Nell's claim she saw marked man yesterday.
+- T75: Garrick reports missing sentry alive and claims Captain Edric (15-year veteran) ordered him away from post. Rhydian orders Edric brought to great hall in chains, tells Poppy to stay.
+- T76: Poppy asks whether she is in danger. Rhydian admits possibility without asserting she is target: intruders or traitors inside fortress, motive unknown. Orders Poppy to stay guarded in chambers, tells Garrick to double guards and check their loyalties. He leaves to interrogate Edric; Poppy's next action pending.
