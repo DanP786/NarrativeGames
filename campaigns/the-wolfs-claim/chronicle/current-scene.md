@@ -1,5 +1,5 @@
-# Current scene — Rhydian's bedchamber, late afternoon
-- Location: Rhydian's private chambers, Blackthorn fortress.
+# Current scene — outside Rhydian's bedchamber, late afternoon
+- Location: Upper corridor, Blackthorn fortress, heading for Rhydian's study.
 - Scene significance: charged.
 - T01–T19: Poppy captured after raid; Rhydian recognizes her as mate; she eats, bathes, learns about wolves.
 - T20: First night of intimacy, details and internal response not established.
@@ -12,5 +12,5 @@
 - T68–T76: Two sentries killed, third missing then found; ropes cut from within. Nell finds cloth marked black wolf pierced by silver arrow, symbol of Dunmere traitors; Captain Edric accused of ordering sentry away. Rhydian investigates and confines Poppy under guard, warning possible danger.
 - T77–T83: Poppy dresses, reads haltingly (parents left to seek work and never returned, education halted). Chronicle: Rhydian's elder brother Caelan killed at Dunmere, Osric Vale executed for opening eastern gate; margin note 'The gate was not opened for the enemy. Ask who was meant to leave.' Bloodlines book shows Vale family removed from service. Poppy eats lunch.
 - T84–T86: Poppy studies The Wolf and the Bond: human mate bond gradual; public declaration distinct from traditional binding needing both oaths; Luna may petition and request sentence review, Alpha retains command.
-- T87–T91: Rhydian returns, discusses Luna ceremony and Caelan; Poppy reveals marginal Dunmere inscription. Rhydian orders archives searched. Poppy notes civilians in inner ward and road to ford; Rhydian cautions no proof.
-- T92: Poppy scowls and asks why anyone would need saving from fortress, suggesting spy or secret heir. Rhydian agrees evacuation through besieged gate would be dangerous; spy or politically valuable fugitive possible, secret heir unsupported. He orders inquiry into who was present in Dunmere inner ward and missing afterward, alongside Osric interrogation records. A guard knocks with message that Garrick has returned with initial archive news; no answer yet. Edric outcome remains undisclosed.
+- T87–T92: Rhydian returns, discusses Luna ceremony and Caelan; Poppy reveals marginal Dunmere inscription. Rhydian orders archives searched. Poppy suggests spy or hidden heir; he orders inquiry into Dunmere occupants and missing people. Garrick awaits with archive news; Edric investigation outcome undisclosed.
+- T93: Poppy asks whether she would be safest beside Rhydian. He considers, agrees proximity under his personal protection is safer than leaving her isolated under potentially compromised guards; commands her to stay within reach, not speak of Dunmere note without his leave. He takes her hand and leads her into corridor to meet Garrick and proceed to study. Garrick has not yet delivered findings.
