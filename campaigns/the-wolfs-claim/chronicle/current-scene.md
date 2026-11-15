@@ -16,4 +16,5 @@
 - T145: Evening in chambers; Rhydian guides Poppy's first voluntary shift back to human; succeeds, she stands naked; he offers robe.
 - T146: Poppy kisses Rhydian, claws at clothes, asks about intensified bond desire; Rhydian says he has felt it since first sight, but desire doesn't erase choice.
 - T147: Poppy says 'You. Now' and tugs Rhydian's clothes again. Rhydian catches wrists, reminds her he is Alpha and intends to lead, not be ordered; leaves choice to her.
-- T148: Poppy pouts and balls her fists at her sides in stubborn frustration. Rhydian is amused, approaches and lifts her chin, teasing that pouting will not command him; reiterates he intends to lead but does not proceed without her response. Scene remains in chambers.
+- T148: Poppy pouts and balls her fists at her sides; Rhydian teases but insists on leading.
+- T149: Poppy huffs, strides to bed, lies down and begins touching herself in deliberate defiance. Intimate specifics elided. Rhydian stops teasing, approaches but does not touch her, says her choices remain hers and asks whether she wants him to come closer; scene awaits Poppy's response.
