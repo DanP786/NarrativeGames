@@ -1,4 +1,4 @@
-# Current scene — corridor toward guarded hall, morning after Poppy's first return to human form
+# Current scene — guarded hall, morning after Poppy's first return to human form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -17,4 +17,5 @@
 - T153: At dawn Poppy says she wishes to have Rhydian's child; Rhydian is pleased, assures her she need not provide an heir to earn her place. No pregnancy established.
 - T154: Poppy dresses intending to resume teaching the eight rescued children. Rhydian insists she learn Luna duties at morning council but will discuss continuing lessons afterward.
 - T155–T158: Poppy attends council; advises quiet precautions against culvert intruders and suggests murders might be designed to provoke war with humans. Rhydian orders discreet security and no reprisals. Servant found near old stores carrying Blackthorn officer badge, detained; guilt unknown.
-- T159: Poppy rises to follow Rhydian and asks whether Daine has been questioned further. Rhydian says he has received no verified new confession beyond Daine naming Vale steward Halden and concealing warning; Garrick is instructed to compare Daine's account and Soren's with the servant's badge and southern passage, without assuming connection. They approach guarded hall to hear detained servant; identity and involvement not yet established.
+- T159: Poppy asks if Daine has been questioned further; no verified new confession beyond Halden warning. Rhydian and Poppy go to guarded hall to hear servant.
+- T160: Poppy silently watches interrogation. Young servant, named Tamsin, says she found the bloodstained badge beneath a flour sack in old stores; she had gone there to collect stores for kitchen. She reports hearing two people arguing beyond a bricked-up passage at dawn, one saying 'The south door was meant to stay open.' Rhydian orders guards to protect and separately question her, and Garrick to inspect the passage; her story remains unverified. Rhydian turns to Poppy for observations.
