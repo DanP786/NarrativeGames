@@ -1,5 +1,5 @@
 # Current scene — Blackthorn fortress great hall, late afternoon following victory feast
-- Scene significance: climactic.
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; Garrick and six warriors rescued them.
@@ -16,4 +16,5 @@
 - T119–T120: Daine initially denies advance knowledge of raid, then admits he was warned village might be seized after tax collectors left; claims he thought occupation not slaughter, concealed warning for fear of losing position. His claims unverified.
 - T121: Poppy orders Daine to tell her who warned him. Daine names Vale steward Master Halden, alleging Halden said 'the road will change hands.' He says he later met Soren at eastern inn seeking news of village; Soren disputes account. Rhydian orders investigation, separation for questioning.
 - T122: Poppy says she has nothing left to say to Daine, recognizing he could have warned or taken her but chose not to. Rhydian calls her his mate. Daine shocked by claim, asks whether she chose this or Rhydian told her she belonged to him.
-- T123: Poppy answers, breath catching, 'No one chooses their fated mate. But I choose to stay.' Daine is shaken; Rhydian visibly satisfied and fiercely possessive, confirms to Daine he heard her, and orders guards to separate prisoners. Daine says he hopes she is safe, but remains under guard; Soren is taken separately. Rhydian asks Poppy what she wants to do next after confrontation. No blanket consent to Rhydian's demands inferred.
+- T123: Poppy answers, 'No one chooses their fated mate. But I choose to stay.' Rhydian satisfied, orders prisoners separated, asks what she wants next.
+- T124: Poppy points out Rhydian demanded she submit to his public authority, so voicing wishes or questioning him in hall risks disobedience. Rhydian acknowledges distinction between stating a desire and publicly countermanding him, but refuses to surrender final authority. He dismisses nearby guards to give a measure of privacy and asks her to speak plainly about what she wants. Player reply pending.
