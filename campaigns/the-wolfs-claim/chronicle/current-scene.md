@@ -1,4 +1,4 @@
-# Current scene — sheltered forest hollow near Blackthorn, dawn several days after first shift
+# Current scene — Blackthorn fortress eastern gate, dawn several days after first shift
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -25,4 +25,5 @@
 - T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black direwolf-sized she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
 - T137: Poppy submits by rolling on back; Rhydian accepts and guards her.
 - T138–T139: Poppy brushes against Rhydian and learns to howl; distant pack answers her.
-- T140: Several days pass in the forest. In wolf forms Poppy and Rhydian play, chase, tussle, hunt, learn pack signals and rest curled together; user also alludes to intimate mating, left entirely off-page. Rhydian remains protective and commanding. At dawn in a sheltered hollow, a distant Blackthorn warning horn sounds from fortress, interrupting their respite. Cause unknown; player response pending.
+- T140: Several days pass in forest learning to play, chase, hunt, rest together, intimacy off-page. Dawn warning horns from Blackthorn.
+- T141: Poppy follows Rhydian, both in black wolf forms, racing to Blackthorn eastern gate. Guards recognize Alpha, clear passage; Garrick reports eastern watch found three dead sentries by old southern supply track and a bloodied Blackthorn officer's badge left prominently. Culprit unknown, possibly bait. Rhydian stays in wolf form, positions protectively before Poppy, looks toward track and back to her. Decision pending.
