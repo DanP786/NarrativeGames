@@ -1,4 +1,4 @@
-# Current scene — Blackthorn fortress eastern gate, dawn several days after first shift
+# Current scene — Blackthorn fortress inner courtyard, dawn several days after first shift
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -27,4 +27,5 @@
 - T138–T139: Poppy brushes against Rhydian and learns to howl; distant pack answers her.
 - T140: Several days pass in forest learning to play, chase, hunt, rest together, intimacy off-page. Dawn warning horns from Blackthorn.
 - T141: Both return in wolf forms. Garrick reports three sentries killed on old southern supply track; bloody Blackthorn officer badge deliberately left. Culprit unknown.
-- T142: Poppy sits calmly beside Rhydian at eastern gate rather than advancing on track. Rhydian interprets as staying, gives low approving chuff, then shifts to human to order Garrick to seal southern track, send scouts in pairs, preserve badge, and keep Poppy within guarded fortress. He remains stern and protective. Poppy remains in wolf form; next action pending.
+- T142: Poppy sits beside Rhydian at eastern gate. Rhydian shifts human and orders Garrick to secure track, preserve badge, and keep Poppy guarded.
+- T143: Poppy follows Rhydian into inner courtyard, remaining in sleek black direwolf-sized wolf form. Her shoulder stands around his human waist/hip; she is formidable but not larger than Rhydian as a man. Rhydian keeps hand near her shoulder, orders onlookers to clear the way. An eastern scout arrives reporting a fresh boot trail leading from southern track toward an old drainage culvert beneath Blackthorn's outer wall; culprit not yet identified. Poppy next action pending.
