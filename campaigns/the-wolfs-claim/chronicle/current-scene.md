@@ -1,5 +1,5 @@
-# Current scene — Rhydian's chambers, Blackthorn fortress, early evening
-- Scene significance: charged.
+# Current scene — Rhydian's chambers, Blackthorn fortress, one week later, evening
+- Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; Garrick and six warriors rescued them.
@@ -17,10 +17,7 @@
 - T121: Daine names Vale steward Master Halden as source of warning, says he sought Soren for news; Soren disputes account. Rhydian orders separate questioning and investigation.
 - T122–T123: Poppy rejects Daine, tells him she chooses to stay with Rhydian as fated mate. Prisoners removed.
 - T124–T125: Poppy questions public authority rules, Rhydian says desires may be voiced, public defiance forbidden. He asks what she wants for afternoon; she teasingly asks whether he means him, pony or freedom. He offers rest, children visit, or further questioning, promises to consider horse.
-- T126: Poppy explicitly asks Rhydian to pleasure her. He proposes going to chambers for privacy.
-- T127: Rhydian takes Poppy to his chambers. Poppy willingly directs their private intimacy, exact acts elided; she finds agency in his following her instructions. Afterwards he warns next time he intends to lead, no blanket consent implied.
-- T128: Poppy asks if bond caused her to relax and feel pleasure during first night's assault. Rhydian believes bond contributed but cannot know; admits physical response was not consent.
-- T129: Poppy asks whether he forced himself on her expecting bond to make her yield. He admits yes and admits possessiveness and wish to establish power.
-- T130: Poppy says she surrendered quickly, demanding his attention days after meeting. Rhydian says bond may influence her desire but present choice differs from first-night coercion.
-- T131: Poppy says she isn't frightened, believes bond accelerated her desire, climbs into Rhydian's lap with arms around neck, and says it makes her want to become a wolf. Rhydian is fiercely pleased but insists transformation by bite must wait for healer Elara's clearance and recovery; no bite yet.
-- T132: Poppy says desire to become wolf is instinctual: she needs to belong to Rhydian's pack and give him strong children. Rhydian reacts with intense possessive pride and acknowledges bond may heighten nesting/pack urges, but says wolf transformation is not guaranteed to determine children's strength or shifting; insists she already belongs as his mate and transformation waits for Elara and her sustained choice. He asks what belonging to pack means to her beyond heirs. Poppy response pending.
+- T126–T127: Poppy explicitly requests private intimacy; she directs it, exact acts elided, finds agency in his following instructions. Rhydian says he intends to lead next time; no blanket consent implied.
+- T128–T130: Poppy asks about bond and first-night assault. Rhydian admits he expected bond to make her yield, his possessiveness and coercion; later physical response not retroactive consent. Bond may accelerate desire but present choice distinct.
+- T131–T132: Poppy wants to become a wolf to belong to Blackthorn and bear strong children. Rhydian fiercely pleased but says transformation dangerous, irreversible, cannot guarantee children's traits, and requires recovery and healer Elara's clearance.
+- T133: Player jumps one week ahead to Rhydian's chambers, Poppy lying on bed in light linen dress, Rhydian poised to bite her to turn her. Unspecified intervening week's events are not established. Rhydian stands at threshold of irreversible transformation, recalls her repeated wish, and requests immediate confirmation before biting; no bite has yet occurred. Await player response.
