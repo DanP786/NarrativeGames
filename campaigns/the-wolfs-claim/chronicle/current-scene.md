@@ -1,4 +1,4 @@
-# Current scene — forest beyond Blackthorn fortress, night, one week after T132
+# Current scene — forest clearing beyond Blackthorn fortress, night, one week after T132
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -21,4 +21,5 @@
 - T128–T130: Poppy asks about bond and first-night assault. Rhydian admits he expected bond to make her yield, his possessiveness and coercion; later physical response not retroactive consent. Bond may accelerate desire but present choice distinct.
 - T131–T132: Poppy wants to become a wolf to belong to Blackthorn and bear strong children. Rhydian fiercely pleased but says transformation dangerous, irreversible, cannot guarantee children's traits, and requires recovery and healer Elara's clearance.
 - T133–T134: One-week jump to Rhydian's chambers; Poppy in light linen dress on bed, explicitly consents to transformation. Rhydian bites shoulder; fever and sensory changes begin. Elara summoned.
-- T135: Poppy screams as turning pain escalates; body convulses, eyes roll back. After a prolonged struggle Elara fears an immediate full physical wolf shift, unsafe within fortress. Rhydian carries Poppy in linen dress through fortress and into nearby forest, Elara following, Garrick keeping guards back. In a clearing Rhydian lays her on his cloak, stays close and calls her name as her body begins a violent first shift. Outcome not yet established; Poppy action pending.
+- T135: Poppy suffers violent turning, Rhydian carries her into forest clearing; Elara present.
+- T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into a sleek black direwolf-sized she-wolf, eyes shifting to striking icy blue/silver; her first feral impulse is to attack Rhydian. He immediately shifts into an immense black wolf easily twice her size, with golden eyes, and blocks her charge without injuring her. Both face one another in clearing; Poppy's wolf is awake, human control uncertain, Rhydian maintaining defensive dominance. Next move pending.
