@@ -1,4 +1,4 @@
-# Current scene — Rhydian's chambers, Blackthorn fortress, one week later, evening
+# Current scene — forest beyond Blackthorn fortress, night, one week after T132
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -20,5 +20,5 @@
 - T126–T127: Poppy explicitly requests private intimacy; she directs it, exact acts elided, finds agency in his following instructions. Rhydian says he intends to lead next time; no blanket consent implied.
 - T128–T130: Poppy asks about bond and first-night assault. Rhydian admits he expected bond to make her yield, his possessiveness and coercion; later physical response not retroactive consent. Bond may accelerate desire but present choice distinct.
 - T131–T132: Poppy wants to become a wolf to belong to Blackthorn and bear strong children. Rhydian fiercely pleased but says transformation dangerous, irreversible, cannot guarantee children's traits, and requires recovery and healer Elara's clearance.
-- T133: One-week time jump to Rhydian's chambers; Poppy in light linen dress on bed. Rhydian poised to turn her by bite, asks for final explicit confirmation.
-- T134: Poppy says 'Yes' and cups his cheek. Rhydian bites her shoulder to begin the irreversible turning. Acute pain and rising fever begin, hearing sharpens unnaturally; Rhydian stays close and calls for Elara. Transformation outcome and survival not yet established. Player response pending amid first onset.
+- T133–T134: One-week jump to Rhydian's chambers; Poppy in light linen dress on bed, explicitly consents to transformation. Rhydian bites shoulder; fever and sensory changes begin. Elara summoned.
+- T135: Poppy screams as turning pain escalates; body convulses, eyes roll back. After a prolonged struggle Elara fears an immediate full physical wolf shift, unsafe within fortress. Rhydian carries Poppy in linen dress through fortress and into nearby forest, Elara following, Garrick keeping guards back. In a clearing Rhydian lays her on his cloak, stays close and calls her name as her body begins a violent first shift. Outcome not yet established; Poppy action pending.
