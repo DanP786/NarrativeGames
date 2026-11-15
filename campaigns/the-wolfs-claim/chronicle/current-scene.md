@@ -1,4 +1,4 @@
-# Current scene — Rhydian's private chambers, late evening several days after first shift
+# Current scene — Rhydian's private chambers, morning after Poppy's first return to human form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -15,9 +15,5 @@
 - T141–T144: Three Blackthorn sentries found murdered near southern track; bloody officer badge left. Trail leads to possible drainage culvert beneath fortress wall; Garrick investigating. Binding size canon: shifting does not change person's size; Poppy unusually small for werewolf, easily mistaken for adolescent; natural-born wolves generally largest, Rhydian far larger as wolf.
 - T145: Evening in chambers; Rhydian guides Poppy's first voluntary shift back to human; succeeds, she stands naked; he offers robe.
 - T146: Poppy kisses Rhydian, claws at clothes, asks about intensified bond desire; Rhydian says he has felt it since first sight, but desire doesn't erase choice.
-- T147: Poppy says 'You. Now' and tugs Rhydian's clothes again. Rhydian catches wrists, reminds her he is Alpha and intends to lead, not be ordered; leaves choice to her.
-- T148: Poppy pouts and balls her fists at her sides; Rhydian teases but insists on leading.
-- T149: Poppy huffs, strides to bed, lies down and begins touching herself in deliberate defiance. Intimate specifics elided. Rhydian asks if she wants him beside her.
-- T150: Poppy challenges, 'I don't know. Can my Alpha handle me?' Rhydian answers confidently, leans close but waits for her clear invitation.
-- T151: Poppy says 'I'd like to see you try' while continuing intimate self-touch; explicit details elided. Rhydian kisses her, intends to lead.
-- T152: Poppy explicitly says 'Just take me Rhydian. Please.' Rhydian accepts her invitation, kisses her, and they share consensual private intimacy off-page. Later they rest together in his bed; Poppy remains human, Rhydian human. No other events resolved; southern culvert murders remain under investigation.
+- T147–T152: Poppy challenges Rhydian's dominance, then explicitly invites him to intimacy. They share consensual private intimacy off-page and rest together overnight.
+- T153: At first light Poppy initiates further intimacy with Rhydian (details elided) and tells him she needs him and wants to bear their child. Rhydian is visibly pleased and moved, recognizes this as her freely spoken wish rather than an obligation, and promises not to treat the prospect lightly. They remain together in bed at dawn; no pregnancy established. Southern culvert murders remain unresolved.
