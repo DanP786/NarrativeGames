@@ -1,5 +1,5 @@
 # Current scene — fortress schoolroom, late afternoon after Poppy's first return to human form
-- Scene significance: climactic.
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
@@ -13,3 +13,4 @@
 - T165: Poppy transforms into canonically small sleek black she-wolf with icy silver-blue eyes; clothing falls. Wounded guard near door, children behind her, Hari shepherds them back. Rhydian senses danger but is elsewhere.
 - T166: Poppy growls and snaps at intruder, blocking children; his sword strikes desk, Hari guides children toward side door. Intruder attempts to get past Poppy.
 - T167: Poppy lunges low and bites intruder's sword wrist, disrupting his strike; his sword drops to stone. His other hand catches her shoulder and throws her against desk; she suffers painful bruising and a shallow cut on flank from grazing blade, but remains conscious and mobile. Rhydian arrives in human form with guards, seizes intruder by throat and pins him against wall, orders him taken alive. Children remain safe with Hari, wounded guard alive. Rhydian sees Poppy injured and moves toward her; intruder unidentified, passage plot unresolved.
+- T168: Poppy lunges forward growling and snapping without committing to another bite, placing herself between the restrained intruder and the children despite bruised shoulder and shallow flank cut. Rhydian has guards bind and remove intruder alive; children remain unharmed. He crouches near Poppy, notices her injury, calls for Elara, and waits for Poppy's response. Investigation unresolved.
