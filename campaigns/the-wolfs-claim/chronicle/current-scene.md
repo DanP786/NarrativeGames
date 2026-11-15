@@ -1,5 +1,5 @@
 # Current scene — fortress schoolroom, late afternoon, Poppy in wolf form
-- Scene significance: climactic.
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
@@ -10,7 +10,6 @@
 - T145–T153: Poppy shifts back to human; deepens bond with Rhydian, explicitly wishes for their child; no pregnancy established.
 - T154–T163: Poppy attends Luna council, suggests quiet safety measures and suspects provocateurs seeking war. Garrick investigates culvert; servant Tamsin found bloodied officer badge in old stores and heard two arguing that 'south door was meant to stay open'; unverified. Rhydian arranges discreet household relocations and witness protections. Poppy wishes to teach rescued children.
 - T164: Fast-forward to schoolroom, eight children including Hari present. Alarm; wounded Blackthorn guard warns of reopened inner passage; cloaked sword-bearing intruder lunges toward schoolroom.
-- T165: Poppy transforms into black she-wolf, blocks doorway between intruder and children. Wounded guard human-form; intruder with sword; Rhydian approaching, alerted by alarm and bond.
-- T166: Poppy's wolf is direwolf-sized, though all other adult wolves in fortress larger. She snarls, blocks intruder from children; he tries to flank her with drawn sword.
-- T167: Poppy bites intruder's sword arm and disarms him. Reinforcements arrive; intruder alive.
-- T168: Poppy releases intruder's wounded arm, pins him with paw on chest and growls. Blackthorn guards seize and bind him, careful not to crowd Poppy. Rhydian arrives in human form, sees Poppy unhurt and children alive, orders prisoner kept alive and secured and wounded guard treated. Intruder mutters 'They said she'd be human,' implying prior intelligence but identity of 'they' unknown. Rhydian asks Poppy whether she is hurt, and notices blood on her muzzle. No images.
+- T165–T167: Poppy shifts into direwolf-sized black she-wolf (all other adult Blackthorn wolves larger), protects eight children, bites and disarms intruder. Almost all fortress residents are werewolves.
+- T168: Rhydian arrives; prisoner bound and removed alive, wounded guard ordered treated. Intruder said 'They said she'd be human'; unknown who 'they' are. Rhydian asks if Poppy hurt.
+- T169: Poppy sits, closes eyes, leans her wolf head into Rhydian's hand and licks blood from muzzle. Rhydian checks for injuries, sees no obvious wound but asks healer to examine her and children. He praises her protection and orders children kept safely together. Hari cautiously asks if he may pet Miss Cooper in wolf form. No images.
