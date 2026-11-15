@@ -1,4 +1,4 @@
-# Current scene — forest clearing beyond Blackthorn fortress, night, one week after T132
+# Current scene — sheltered forest hollow near Blackthorn, dawn several days after first shift
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -23,6 +23,6 @@
 - T133–T134: One-week jump to Rhydian's chambers; Poppy in light linen dress on bed, explicitly consents to transformation. Rhydian bites shoulder; fever and sensory changes begin. Elara summoned.
 - T135: Poppy suffers violent turning, Rhydian carries her into forest clearing; Elara present.
 - T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black direwolf-sized she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
-- T137: Poppy snarls, pins ears, lies down, then rolls onto back in submission as Rhydian approaches. Rhydian accepts without harming her, touches nose to muzzle and guards her.
-- T138: Poppy rolls upright, takes tentative steps toward Rhydian and brushes her sleek black flank against his enormous black wolf body. He returns contact and howls; distant Blackthorn wolves answer.
-- T139: Poppy attempts first howl; it starts ragged and breaks, then steadies into a clear youthful wolf call. Distant pack wolves answer her distinct note, and Rhydian joins with deep answering howl. Poppy and Rhydian remain in wolf forms at edge of clearing, first run not yet begun.
+- T137: Poppy submits by rolling on back; Rhydian accepts and guards her.
+- T138–T139: Poppy brushes against Rhydian and learns to howl; distant pack answers her.
+- T140: Several days pass in the forest. In wolf forms Poppy and Rhydian play, chase, tussle, hunt, learn pack signals and rest curled together; user also alludes to intimate mating, left entirely off-page. Rhydian remains protective and commanding. At dawn in a sheltered hollow, a distant Blackthorn warning horn sounds from fortress, interrupting their respite. Cause unknown; player response pending.
