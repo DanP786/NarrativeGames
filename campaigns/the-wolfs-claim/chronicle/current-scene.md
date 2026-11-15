@@ -1,4 +1,4 @@
-# Current scene — corridor outside guarded hall, late morning after Poppy's first return to human form
+# Current scene — household steward's antechamber, late morning after Poppy's first return to human form
 - Scene significance: routine.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -20,4 +20,5 @@
 - T159: Poppy asks if Daine has been questioned further; no verified new confession beyond Halden warning. Rhydian and Poppy go to guarded hall to hear servant.
 - T160: Tamsin says she found bloodstained badge beneath flour sack, heard two arguing behind old passage ('The south door was meant to stay open'); her story unverified. Rhydian orders protection and verification.
 - T161: Poppy notes Tamsin will report promptly in future. Rhydian sets confidential reporting route for servants, offers children visit after household arrangements.
-- T162: Poppy says she is unsure how to explain becoming wolf to children, mock-challenges Rhydian that she is not sweet. Rhydian playfully agrees she has teeth and defiance but notes her care for the eight children; they proceed toward household steward, with promise of visiting children afterward. No investigation resolution.
+- T162: Poppy says she is unsure how to explain becoming wolf to children, mock-challenges Rhydian that she is not sweet. Rhydian teases her, offers arm.
+- T163: Poppy glares but threads her arm through Rhydian's. He laughs and escorts her to household steward's antechamber. A clerk reports the relocated southern households are asking why their rooms are closed; Rhydian turns to Poppy for a tactful message. Investigation remains ongoing.
