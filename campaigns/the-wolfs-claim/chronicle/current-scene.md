@@ -2,19 +2,17 @@
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
-- T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; Garrick and six warriors rescued them.
-- T54–T60: Prisoner accused Lord Edric Vale of paying warriors to turn conquest butchery, unverified. Poppy says regular Vale tax collectors left three days before raid. Rhydian ordered shelter, food, healer for children.
-- T61–T71: Rhydian demands public obedience, explains mate bond and Luna role; Poppy admits feeling his absence. Rhydian expects heirs and has no intention of preventing pregnancy despite Poppy's lack of meaningful choice. Half-human children may not shift; player mandates Rhydian remain ruthless, controlling and presumptuous. Earlier nonconsensual sexual encounters elided.
-- T72–T73: Poppy asks for werewolf transformation by bite; Rhydian might administer after rest and permission. Training ordered.
-- T74–T88: Eight rescued village children (oldest Hari) housed in fortress, kin search underway; Poppy promised care and visits. Rhydian allows her to teach them starting tomorrow, escort required. Weapons training ordered. Garrick investigating Vale collectors.
-- T89–T97: Healer Elara recommends days of rest; Poppy privately recalls assault, tells no one. Rhydian permits her to accompany fortress business.
-- T98–T100: Warrior caught burning village stores ledger claims Captain Soren ordered it; scraps mention payment and southern passage. Unverified.
-- T101–T111: Poppy identifies former lover Daine Gregory, Vale tax collector. He had access to village and left three days before raid. Rhydian jealous; investigation leads to Soren and Daine captured.
-- T112–T123: Poppy chooses to stay with Rhydian; Soren and Daine brought bound. Daine admits concealed warning of village seizure, names Vale steward Master Halden; Soren disputes. Rhydian orders separate questioning. Poppy rejects Daine.
-- T124–T130: Rhydian requires public obedience but says Poppy may voice wishes; later private consensual intimacy elided. Poppy questions first-night assault; Rhydian acknowledges coercion, and that bond or physical response did not constitute consent.
-- T131–T134: Poppy asks to become wolf; after week and healer clearance Rhydian bites shoulder with explicit consent, beginning turning.
-- T135–T139: Painful first shift in forest; Poppy becomes sleek black she-wolf with icy silver-blue eyes, Rhydian shifts into enormous black wolf, she submits and learns to howl.
+- T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
+- T54–T60: Prisoner accused Lord Edric Vale of paying warriors to turn conquest butchery, unverified. Rhydian ordered shelter and care for children.
+- T61–T73: Rhydian demands public obedience, expects heirs, and is ruthless, controlling and presumptuous. Poppy asks to become wolf by bite.
+- T74–T88: Eight rescued children (oldest Hari) housed in fortress; Poppy promised teaching and visits. Garrick investigates Vale collectors.
+- T89–T100: Healer Elara recommends rest; burned village ledger and possible Soren involvement; scraps mention payment and southern passage.
+- T101–T123: Poppy identifies former lover Daine Gregory, Vale tax collector; he and Soren captured. Daine admits concealing warning of village seizure, names Vale steward Master Halden. Rhydian orders investigation; Poppy rejects Daine and chooses to stay with Rhydian.
+- T124–T130: Rhydian requires public obedience but says Poppy may voice wishes; private consensual intimacy elided. Rhydian admits first-night coercion and that bond/physical response did not equal consent.
+- T131–T134: Poppy explicitly asks to become wolf; after week and healer clearance Rhydian bites shoulder with consent.
+- T135–T139: Painful first shift in forest; Poppy becomes sleek black she-wolf with icy silver-blue eyes; Rhydian shifts into enormous black wolf; she learns to howl.
 - T140: Several days spent learning wolf movement, hunting, playing, sleeping together; intimacy off-page.
-- T141–T144: Three Blackthorn sentries found murdered near southern track; bloody officer badge left. Trail leads to possible drainage culvert beneath fortress outer wall; Garrick investigating. Poppy follows Rhydian in wolf form to inner keep. Binding size canon: shifting does not change person's overall size; Poppy remains unusually small for a werewolf, easily mistaken for adolescent. Natural-born wolves tend to be biggest; Rhydian far larger than Poppy as wolf.
-- T145: Evening in Rhydian's chambers; he guides Poppy's first voluntary shift to human, succeeds, she stands naked; he offers robe.
-- T146: Poppy kisses Rhydian, claws at his clothes, asks if her intensified desire after turning is what the mate bond feels like for him. Rhydian kisses back, admits he has felt powerful pull since first meeting, says turning makes Poppy's wolf aware of the bond but does not erase her choice. He steadies her hands and asks what she wants, without assuming further consent. Both in private chambers, scene ongoing.
+- T141–T144: Three Blackthorn sentries found murdered near southern track; bloody officer badge left. Trail leads to possible drainage culvert beneath fortress wall; Garrick investigating. Binding size canon: shifting does not change person's size; Poppy unusually small for werewolf, easily mistaken for adolescent; natural-born wolves generally largest, Rhydian far larger as wolf.
+- T145: Evening in chambers; Rhydian guides Poppy's first voluntary shift back to human; succeeds, she stands naked; he offers robe.
+- T146: Poppy kisses Rhydian, claws at clothes, asks about intensified bond desire; Rhydian says he has felt it since first sight, but desire doesn't erase choice.
+- T147: Poppy says 'You. Now' and tugs Rhydian's clothes again. Rhydian catches her wrists gently but firmly, reminds her he is Alpha and intends to lead, not be ordered. He makes clear she can choose whether to follow his lead. He waits for response rather than assuming consent or proceeding. Both remain in chambers.
