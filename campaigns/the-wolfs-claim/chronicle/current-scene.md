@@ -1,4 +1,4 @@
-# Current scene — Rhydian's private chambers, evening several days after first shift
+# Current scene — Rhydian's private chambers, late evening several days after first shift
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -19,4 +19,5 @@
 - T148: Poppy pouts and balls her fists at her sides; Rhydian teases but insists on leading.
 - T149: Poppy huffs, strides to bed, lies down and begins touching herself in deliberate defiance. Intimate specifics elided. Rhydian asks if she wants him beside her.
 - T150: Poppy challenges, 'I don't know. Can my Alpha handle me?' Rhydian answers confidently, leans close but waits for her clear invitation.
-- T151: Poppy says 'I'd like to see you try' while continuing intimate self-touch; explicit details elided. Rhydian reads this as invitation to approach, kisses her and asserts he will lead without overriding her choice. Scene fades before further intimacy, unresolved next action.
+- T151: Poppy says 'I'd like to see you try' while continuing intimate self-touch; explicit details elided. Rhydian kisses her, intends to lead.
+- T152: Poppy explicitly says 'Just take me Rhydian. Please.' Rhydian accepts her invitation, kisses her, and they share consensual private intimacy off-page. Later they rest together in his bed; Poppy remains human, Rhydian human. No other events resolved; southern culvert murders remain under investigation.
