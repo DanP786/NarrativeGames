@@ -6,5 +6,6 @@
 - Death: hard death enabled.
 - Mind-reading: none, including through the mate bond. NPCs only know witnessed or plausibly learned facts.
 - Bond: unequal; Alpha feels overwhelming recognition, Poppy weaker sensation; refusal remains possible and is her decision, even if Alpha refuses to honour it.
+- Werewolf transformation (player OOC canon correction T93): A bite from a werewolf turns a human into a werewolf under the ordinary law of this setting. The mechanism is known, not speculative or requiring rare ritual. The bite and ensuing change may be painful and carry physical risks, but do not narrate the mechanism as uncertain or impossible. Previous NPC speculation about whether transformation is possible is superseded; they may instead assess readiness, timing, risk, and whether Rhydian permits it.
 - Alpha character mandate (player retcon): brutal, unyielding, violent and controlling even toward his mate. No automatic gentleness, restraint, concessions, emotional vulnerability or quick romantic softening. He will physically enforce orders and use coercion when resisted; his possessiveness is not kindness. He may seize, restrain, reposition or carry Poppy without asking; she can resist and consequences are real. Never equate coercion with consent; no graphic sexual violence.
 - Length: open-ended, no act tracker.
