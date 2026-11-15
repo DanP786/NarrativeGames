@@ -1,5 +1,5 @@
-# Current scene — guarded hall, morning after Poppy's first return to human form
-- Scene significance: charged.
+# Current scene — corridor outside guarded hall, late morning after Poppy's first return to human form
+- Scene significance: routine.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
@@ -19,4 +19,5 @@
 - T155–T158: Poppy attends council; advises quiet precautions against culvert intruders and suggests murders might be designed to provoke war with humans. Rhydian orders discreet security and no reprisals. Servant found near old stores carrying Blackthorn officer badge, detained; guilt unknown.
 - T159: Poppy asks if Daine has been questioned further; no verified new confession beyond Halden warning. Rhydian and Poppy go to guarded hall to hear servant.
 - T160: Tamsin says she found bloodstained badge beneath flour sack, heard two arguing behind old passage ('The south door was meant to stay open'); her story unverified. Rhydian orders protection and verification.
-- T161: Poppy shrugs and dryly says Tamsin is unlikely to delay reporting anything suspicious again. Rhydian laughs, acknowledges his intimidating interrogation may deter reports, orders a clear confidential reporting route via household steward and no punishment for good-faith witnesses. He asks Poppy to help establish trust among servants as Luna, and offers to visit rescued children after they check the household arrangements; culvert investigation ongoing.
+- T161: Poppy notes Tamsin will report promptly in future. Rhydian sets confidential reporting route for servants, offers children visit after household arrangements.
+- T162: Poppy says she is unsure how to explain becoming wolf to children, mock-challenges Rhydian that she is not sweet. Rhydian playfully agrees she has teeth and defiance but notes her care for the eight children; they proceed toward household steward, with promise of visiting children afterward. No investigation resolution.
