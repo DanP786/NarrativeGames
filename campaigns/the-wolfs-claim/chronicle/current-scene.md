@@ -1,4 +1,4 @@
-# Current scene — Blackthorn fortress inner courtyard, dawn several days after first shift
+# Current scene — Blackthorn fortress inner keep, dawn several days after first shift
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -22,10 +22,11 @@
 - T131–T132: Poppy wants to become a wolf to belong to Blackthorn and bear strong children. Rhydian fiercely pleased but says transformation dangerous, irreversible, cannot guarantee children's traits, and requires recovery and healer Elara's clearance.
 - T133–T134: One-week jump to Rhydian's chambers; Poppy in light linen dress on bed, explicitly consents to transformation. Rhydian bites shoulder; fever and sensory changes begin. Elara summoned.
 - T135: Poppy suffers violent turning, Rhydian carries her into forest clearing; Elara present.
-- T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black direwolf-sized she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
+- T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
 - T137: Poppy submits by rolling on back; Rhydian accepts and guards her.
 - T138–T139: Poppy brushes against Rhydian and learns to howl; distant pack answers her.
 - T140: Several days pass in forest learning to play, chase, hunt, rest together, intimacy off-page. Dawn warning horns from Blackthorn.
 - T141: Both return in wolf forms. Garrick reports three sentries killed on old southern supply track; bloody Blackthorn officer badge deliberately left. Culprit unknown.
 - T142: Poppy sits beside Rhydian at eastern gate. Rhydian shifts human and orders Garrick to secure track, preserve badge, and keep Poppy guarded.
-- T143: Poppy follows Rhydian into inner courtyard, remaining in sleek black direwolf-sized wolf form. Her shoulder stands around his human waist/hip; she is formidable but not larger than Rhydian as a man. Rhydian keeps hand near her shoulder, orders onlookers to clear the way. An eastern scout arrives reporting a fresh boot trail leading from southern track toward an old drainage culvert beneath Blackthorn's outer wall; culprit not yet identified. Poppy next action pending.
+- T143: Poppy follows Rhydian into inner courtyard in wolf form. Scout reports boot trail toward drainage culvert beneath outer wall.
+- T144: Player clarified binding werewolf size canon: shifting does NOT change a human's size; Poppy is small for a werewolf, easily mistaken for an adolescent wolf, reflecting her petite human build. Natural-born werewolves are generally largest; Rhydian dwarfs her in wolf form. Earlier references to Poppy being direwolf-sized or waist-high to Rhydian as a human are superseded. Poppy follows Rhydian up the keep steps; guards briefly mistake her for a young wolf until Rhydian corrects them. Inside, Garrick brings a rough map of old drainage culvert, indicating access may run beneath an unused storeroom; not yet confirmed. Poppy remains wolf form beside Rhydian, next action pending.
