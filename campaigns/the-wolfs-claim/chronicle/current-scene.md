@@ -24,4 +24,5 @@
 - T135: Poppy suffers violent turning, Rhydian carries her into forest clearing; Elara present.
 - T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black direwolf-sized she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
 - T137: Poppy snarls, pins ears, lies down, then rolls onto back in submission as Rhydian approaches. Rhydian accepts without harming her, touches nose to muzzle and guards her.
-- T138: Poppy rolls upright, takes tentative steps toward Rhydian and brushes her sleek black flank against his enormous black wolf body. He returns the contact, gently guides her toward the edge of the clearing, and waits rather than rushing her into a run. Her first-shift awareness is still partly feral. Poppy next action pending.
+- T138: Poppy rolls upright, takes tentative steps toward Rhydian and brushes her sleek black flank against his enormous black wolf body. He returns contact and howls; distant Blackthorn wolves answer.
+- T139: Poppy attempts first howl; it starts ragged and breaks, then steadies into a clear youthful wolf call. Distant pack wolves answer her distinct note, and Rhydian joins with deep answering howl. Poppy and Rhydian remain in wolf forms at edge of clearing, first run not yet begun.
