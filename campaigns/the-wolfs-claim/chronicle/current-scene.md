@@ -1,4 +1,4 @@
-# Current scene — Blackthorn fortress inner keep, dawn several days after first shift
+# Current scene — Rhydian's private chambers, evening several days after first shift
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -6,27 +6,14 @@
 - T54–T60: Prisoner accused Lord Edric Vale of paying warriors to turn conquest butchery, unverified. Poppy says regular Vale tax collectors left three days before raid. Rhydian ordered shelter, food, healer for children.
 - T61–T71: Rhydian demands public obedience, explains mate bond and Luna role; Poppy admits feeling his absence. Rhydian expects heirs and has no intention of preventing pregnancy despite Poppy's lack of meaningful choice. Half-human children may not shift; player mandates Rhydian remain ruthless, controlling and presumptuous. Earlier nonconsensual sexual encounters elided.
 - T72–T73: Poppy asks for werewolf transformation by bite; Rhydian might administer after rest and permission. Training ordered.
-- T74–T88: Eight rescued village children (oldest Hari) housed in fortress, kin search underway; Poppy promised care and visits. Rhydian allows her to teach them starting tomorrow, escort required. Weapons training this afternoon. Garrick investigating Lord Edric Vale's tax collectors.
+- T74–T88: Eight rescued village children (oldest Hari) housed in fortress, kin search underway; Poppy promised care and visits. Rhydian allows her to teach them starting tomorrow, escort required. Weapons training ordered. Garrick investigating Vale collectors.
 - T89–T97: Healer Elara recommends days of rest; Poppy privately recalls assault, tells no one. Rhydian permits her to accompany fortress business.
-- T98–T100: Warrior caught burning village stores ledger claims Captain Soren ordered it; surviving scraps mention payment and southern passage. Soren allegedly warned him not to speak in Poppy's presence; unverified.
-- T101–T106: Poppy identifies former lover Daine Gregory, Vale tax collector, six-month relationship and promises of marriage. She does not love him. Last saw him three days before raid; he was insistent on sex, complained of low pay and disrespect, had unrestricted access to village. Rhydian jealous; orders discreet search for Gregory alive.
-- T107–T111: Poppy gives Daine's description after gatekeeper overhears Soren call companion Gregory. Pursuit dispatched; eastern postern had cut rope, cloak, messenger in officer's cloak.
-- T112–T117: Poppy says she wants to stay at Blackthorn and beside Rhydian, willingly asks him to kiss her; he does.
-- T118: Soren and Daine captured alive together, brought bound to great hall. Poppy wears fitted black low-neckline dress, hair down.
-- T119–T120: Daine admits knowing village might be seized, concealed warning from Poppy, denies knowing massacre would occur. Unverified.
-- T121: Daine names Vale steward Master Halden as source of warning, says he sought Soren for news; Soren disputes account. Rhydian orders separate questioning and investigation.
-- T122–T123: Poppy rejects Daine, tells him she chooses to stay with Rhydian as fated mate. Prisoners removed.
-- T124–T125: Poppy questions public authority rules, Rhydian says desires may be voiced, public defiance forbidden. He asks what she wants for afternoon; she teasingly asks whether he means him, pony or freedom. He offers rest, children visit, or further questioning, promises to consider horse.
-- T126–T127: Poppy explicitly requests private intimacy; she directs it, exact acts elided, finds agency in his following instructions. Rhydian says he intends to lead next time; no blanket consent implied.
-- T128–T130: Poppy asks about bond and first-night assault. Rhydian admits he expected bond to make her yield, his possessiveness and coercion; later physical response not retroactive consent. Bond may accelerate desire but present choice distinct.
-- T131–T132: Poppy wants to become a wolf to belong to Blackthorn and bear strong children. Rhydian fiercely pleased but says transformation dangerous, irreversible, cannot guarantee children's traits, and requires recovery and healer Elara's clearance.
-- T133–T134: One-week jump to Rhydian's chambers; Poppy in light linen dress on bed, explicitly consents to transformation. Rhydian bites shoulder; fever and sensory changes begin. Elara summoned.
-- T135: Poppy suffers violent turning, Rhydian carries her into forest clearing; Elara present.
-- T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
-- T137: Poppy submits by rolling on back; Rhydian accepts and guards her.
-- T138–T139: Poppy brushes against Rhydian and learns to howl; distant pack answers her.
-- T140: Several days pass in forest learning to play, chase, hunt, rest together, intimacy off-page. Dawn warning horns from Blackthorn.
-- T141: Both return in wolf forms. Garrick reports three sentries killed on old southern supply track; bloody Blackthorn officer badge deliberately left. Culprit unknown.
-- T142: Poppy sits beside Rhydian at eastern gate. Rhydian shifts human and orders Garrick to secure track, preserve badge, and keep Poppy guarded.
-- T143: Poppy follows Rhydian into inner courtyard in wolf form. Scout reports boot trail toward drainage culvert beneath outer wall.
-- T144: Player clarified binding werewolf size canon: shifting does NOT change a human's size; Poppy is small for a werewolf, easily mistaken for an adolescent wolf, reflecting her petite human build. Natural-born werewolves are generally largest; Rhydian dwarfs her in wolf form. Earlier references to Poppy being direwolf-sized or waist-high to Rhydian as a human are superseded. Poppy follows Rhydian up the keep steps; guards briefly mistake her for a young wolf until Rhydian corrects them. Inside, Garrick brings a rough map of old drainage culvert, indicating access may run beneath an unused storeroom; not yet confirmed. Poppy remains wolf form beside Rhydian, next action pending.
+- T98–T100: Warrior caught burning village stores ledger claims Captain Soren ordered it; scraps mention payment and southern passage. Unverified.
+- T101–T111: Poppy identifies former lover Daine Gregory, Vale tax collector. He had access to village and left three days before raid. Rhydian jealous; investigation leads to Soren and Daine captured.
+- T112–T123: Poppy chooses to stay with Rhydian; Soren and Daine brought bound. Daine admits concealed warning of village seizure, names Vale steward Master Halden; Soren disputes. Rhydian orders separate questioning. Poppy rejects Daine.
+- T124–T130: Rhydian requires public obedience but says Poppy may voice wishes; later private consensual intimacy elided. Poppy questions first-night assault; Rhydian acknowledges coercion, and that bond or physical response did not constitute consent.
+- T131–T134: Poppy asks to become wolf; after week and healer clearance Rhydian bites shoulder with explicit consent, beginning turning.
+- T135–T139: Painful first shift in forest; Poppy becomes sleek black she-wolf with icy silver-blue eyes, Rhydian shifts into enormous black wolf, she submits and learns to howl.
+- T140: Several days spent learning wolf movement, hunting, playing, sleeping together; intimacy off-page.
+- T141–T144: Three Blackthorn sentries found murdered near southern track; bloody officer badge left. Trail leads to possible drainage culvert beneath fortress outer wall; Garrick investigating. Poppy follows Rhydian in wolf form to inner keep. Binding size canon: shifting does not change person's overall size; Poppy remains unusually small for a werewolf, easily mistaken for adolescent. Natural-born wolves tend to be biggest; Rhydian far larger than Poppy as wolf.
+- T145: Later that evening in Rhydian's chambers, he patiently coaches Poppy through her first voluntary shift back to human form by anchoring herself to familiar human sensations and letting the wolf recede. Shift succeeds, leaving Poppy naked, petite, long dark-haired, standing before him. Rhydian is proud, offers a warm robe without presuming she must take it; both remain in private chambers. Poppy next action pending.
