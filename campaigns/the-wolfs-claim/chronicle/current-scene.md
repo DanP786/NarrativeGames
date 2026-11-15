@@ -1,4 +1,4 @@
-# Current scene — Rhydian's chambers, morning following victory feast
+# Current scene — children's quarters, morning following victory feast
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -6,5 +6,5 @@
 - T54–T60: Poppy escorted to locked chambers. Prisoner accused Lord Edric Vale of paying warriors to turn conquest into massacre, unverified. Poppy says village paid taxes to Vale; armed soldiers collected money and left before raid, exact interval/colours unanswered. Garrick's report confirms all eight children found alive; he is bringing them to Blackthorn by morning. Rhydian ordered safe quarters, food, clothes, healer, and offered Poppy chance to greet them. He says his mother judged rulers by treatment of those too weak to threaten them; acknowledges he fails his own stated standard with Poppy.
 - T61–T71: Rhydian demands public obedience, explains mate bond and Luna role; Poppy admits feeling his absence. He has initiated sexual encounters without established consent, elided. Rhydian expects heirs and has no intention of preventing pregnancy, despite Poppy's lack of meaningful choice. He says half-human children would be his and protected, but pack may challenge a nonshifting heir. Player requests Rhydian remain ruthless, controlling and presumptuous.
 - T72–T73: Poppy asks if Rhydian could change her into a wolf, says she wants strength. He says transformation may be dangerous and feasibility uncertain; healer to be consulted. Orders fighting training after children's arrival.
-- T74: At dawn Poppy wakes to Rhydian kissing her and murmuring that he cannot get enough of her. Garrick's party reaches Blackthorn with all eight children. Rhydian directs food, rooms and healer; Mara summoned to escort Poppy.
-- T75: Poppy answers Rhydian 'Yes', cheeks flushed from kisses. Rhydian notices, remains possessive and commanding, orders her to dress. Mara arrives and escorts Poppy toward the children's prepared rooms. From corridor Poppy hears children and sees guarded door; reunion imminent, response player-controlled.
+- T74–T75: At dawn Garrick returns with all eight children; Rhydian orders food, rooms, healer and Mara to escort Poppy. Mara takes Poppy to children's quarters.
+- T76: Poppy opens her arms, hugs and kisses the eight rescued children, who crowd around her, relieved and frightened. One asks whether they can go home; another says the chapel is gone and asks where they will live. Mara remains by the door with guards outside, does not answer for Poppy. Poppy's response player-controlled.
