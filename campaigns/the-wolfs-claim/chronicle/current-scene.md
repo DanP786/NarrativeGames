@@ -1,4 +1,4 @@
-# Current scene — Blackthorn fortress great hall, late afternoon following victory feast
+# Current scene — Rhydian's chambers, Blackthorn fortress, early evening
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -17,4 +17,5 @@
 - T121: Daine names Vale steward Master Halden as source of warning, says he sought Soren for news; Soren disputes account. Rhydian orders separate questioning and investigation.
 - T122–T123: Poppy rejects Daine, tells him she chooses to stay with Rhydian as fated mate. Prisoners removed.
 - T124–T125: Poppy questions public authority rules, Rhydian says desires may be voiced, public defiance forbidden. He asks what she wants for afternoon; she teasingly asks whether he means him, pony or freedom. He offers rest, children visit, or further questioning, promises to consider horse.
-- T126: Poppy explicitly tells Rhydian 'I want you to pleasure me.' Rhydian is caught off guard, pleased, intensely possessive; he takes her request seriously and proposes leaving hall for privacy, without assuming any specific act or that consent extends beyond what she asks. Await player response before moving to intimate encounter; keep any later intimacy non-graphic/fade to black.
+- T126: Poppy explicitly asks Rhydian to pleasure her. He proposes going to chambers for privacy.
+- T127: Rhydian takes Poppy to his chambers. Poppy willingly directs their private intimacy, exact acts elided; she is relentless, exacting, and finds agency in his following her instructions. Afterwards Rhydian, grudgingly impressed and possessive, warns that next time he intends to take the lead now that he knows her preferences; this is a claim of control, not blanket consent. Scene ends in chambers with player response pending. Soren/Daine remain separately detained and under investigation.
