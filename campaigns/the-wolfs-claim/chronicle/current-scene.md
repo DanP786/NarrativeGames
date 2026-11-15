@@ -26,4 +26,5 @@
 - T137: Poppy submits by rolling on back; Rhydian accepts and guards her.
 - T138–T139: Poppy brushes against Rhydian and learns to howl; distant pack answers her.
 - T140: Several days pass in forest learning to play, chase, hunt, rest together, intimacy off-page. Dawn warning horns from Blackthorn.
-- T141: Poppy follows Rhydian, both in black wolf forms, racing to Blackthorn eastern gate. Guards recognize Alpha, clear passage; Garrick reports eastern watch found three dead sentries by old southern supply track and a bloodied Blackthorn officer's badge left prominently. Culprit unknown, possibly bait. Rhydian stays in wolf form, positions protectively before Poppy, looks toward track and back to her. Decision pending.
+- T141: Both return in wolf forms. Garrick reports three sentries killed on old southern supply track; bloody Blackthorn officer badge deliberately left. Culprit unknown.
+- T142: Poppy sits calmly beside Rhydian at eastern gate rather than advancing on track. Rhydian interprets as staying, gives low approving chuff, then shifts to human to order Garrick to seal southern track, send scouts in pairs, preserve badge, and keep Poppy within guarded fortress. He remains stern and protective. Poppy remains in wolf form; next action pending.
