@@ -1,4 +1,4 @@
-# Current scene — Rhydian's private chambers, morning after Poppy's first return to human form
+# Current scene — Blackthorn council chamber, morning after Poppy's first return to human form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -15,4 +15,5 @@
 - T141–T144: Three Blackthorn sentries found murdered near southern track; bloody officer badge left. Trail leads to possible drainage culvert beneath fortress wall; Garrick investigating. Binding size canon: shifting does not change person's size; Poppy unusually small for werewolf, easily mistaken for adolescent; natural-born wolves generally largest, Rhydian far larger as wolf.
 - T145–T152: Poppy shifts back to human, explores strengthened bond, challenges Rhydian, and they share consensual intimacy off-page.
 - T153: At dawn Poppy says she wishes to have Rhydian's child; Rhydian is pleased, assures her she need not provide an heir to earn her place. No pregnancy established.
-- T154: Poppy dresses intending to resume teaching the eight rescued children. Rhydian tells her she must begin learning Luna duties: oversight of stores, petitions, pack households, and public leadership; summons her to morning council with Garrick. He acknowledges her promise to the children but insists her new role cannot be neglected, leaving her opportunity to negotiate. Southern culvert murders remain unresolved.
+- T154: Poppy dresses intending to resume teaching the eight rescued children. Rhydian insists she learn Luna duties at morning council but will discuss continuing lessons afterward.
+- T155: Poppy quips 'You fucked the stubbornness out of me this morning. I'll come with you.' Rhydian laughs privately and takes her to morning council. Garrick reports southern drainage culvert is accessible from outside and an interior grate was recently disturbed; the murder investigation and potential breach are urgent. Rhydian introduces Poppy publicly as future Luna and asks her judgment on whether to warn the fortress households before sealing the passage, giving her first live council decision. Awaiting Poppy's answer.
