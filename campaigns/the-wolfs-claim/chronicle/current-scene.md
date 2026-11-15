@@ -1,4 +1,4 @@
-# Current scene — Blackthorn council chamber, morning after Poppy's first return to human form
+# Current scene — corridor toward guarded hall, morning after Poppy's first return to human form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -16,7 +16,5 @@
 - T145–T152: Poppy shifts back to human, explores strengthened bond, challenges Rhydian, and they share consensual intimacy off-page.
 - T153: At dawn Poppy says she wishes to have Rhydian's child; Rhydian is pleased, assures her she need not provide an heir to earn her place. No pregnancy established.
 - T154: Poppy dresses intending to resume teaching the eight rescued children. Rhydian insists she learn Luna duties at morning council but will discuss continuing lessons afterward.
-- T155: Rhydian brings Poppy to morning council and asks how to handle threat of accessible southern drainage culvert and three murdered sentries.
-- T156: Poppy advises precautions without alarm. Rhydian orders discreet doubled guards, relocation of lower southern households, and sealing culvert. Fresh inner tracks lead to old stores.
-- T157: Poppy questions motive for sentry killings; Rhydian orders examination of patrol knowledge and possible connections to Vale.
-- T158: Poppy proposes that spies may be entering to attack the fortress and provoke Blackthorn into war with humans, possibly matching Vale's alleged strategy. Rhydian considers the hypothesis plausible but unproven, orders guards to avoid indiscriminate retaliation, capture infiltrators alive if possible, and trace culvert access. Garrick reports an urgent sealed message from the southern watch: a servant carrying a Blackthorn officer's badge was detained near the old stores; identity and guilt unconfirmed. Council awaits response.
+- T155–T158: Poppy attends council; advises quiet precautions against culvert intruders and suggests murders might be designed to provoke war with humans. Rhydian orders discreet security and no reprisals. Servant found near old stores carrying Blackthorn officer badge, detained; guilt unknown.
+- T159: Poppy rises to follow Rhydian and asks whether Daine has been questioned further. Rhydian says he has received no verified new confession beyond Daine naming Vale steward Halden and concealing warning; Garrick is instructed to compare Daine's account and Soren's with the servant's badge and southern passage, without assuming connection. They approach guarded hall to hear detained servant; identity and involvement not yet established.
