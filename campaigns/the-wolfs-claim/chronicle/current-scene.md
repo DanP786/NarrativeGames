@@ -18,4 +18,5 @@
 - T147: Poppy says 'You. Now' and tugs Rhydian's clothes again. Rhydian catches wrists, reminds her he is Alpha and intends to lead, not be ordered; leaves choice to her.
 - T148: Poppy pouts and balls her fists at her sides; Rhydian teases but insists on leading.
 - T149: Poppy huffs, strides to bed, lies down and begins touching herself in deliberate defiance. Intimate specifics elided. Rhydian asks if she wants him beside her.
-- T150: Poppy challenges, 'I don't know. Can my Alpha handle me?' Rhydian answers confidently, leans close but waits for her clear invitation before advancing; charged private moment ongoing.
+- T150: Poppy challenges, 'I don't know. Can my Alpha handle me?' Rhydian answers confidently, leans close but waits for her clear invitation.
+- T151: Poppy says 'I'd like to see you try' while continuing intimate self-touch; explicit details elided. Rhydian reads this as invitation to approach, kisses her and asserts he will lead without overriding her choice. Scene fades before further intimacy, unresolved next action.
