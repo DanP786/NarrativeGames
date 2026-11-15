@@ -1,24 +1,12 @@
-# Current scene — household steward's antechamber, late morning after Poppy's first return to human form
-- Scene significance: routine.
+# Current scene — fortress schoolroom, late afternoon after Poppy's first return to human form
+- Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
-- T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
-- T54–T60: Prisoner accused Lord Edric Vale of paying warriors to turn conquest butchery, unverified. Rhydian ordered shelter and care for children.
-- T61–T73: Rhydian demands public obedience, expects heirs, and is ruthless, controlling and presumptuous. Poppy asks to become wolf by bite.
-- T74–T88: Eight rescued children (oldest Hari) housed in fortress; Poppy promised teaching and visits. Garrick investigates Vale collectors.
-- T89–T100: Healer Elara recommends rest; burned village ledger and possible Soren involvement; scraps mention payment and southern passage.
-- T101–T123: Poppy identifies former lover Daine Gregory, Vale tax collector; he and Soren captured. Daine admits concealing warning of village seizure, names Vale steward Master Halden. Rhydian orders investigation; Poppy rejects Daine and chooses to stay with Rhydian.
-- T124–T130: Rhydian requires public obedience but says Poppy may voice wishes; private consensual intimacy elided. Rhydian admits first-night coercion and that bond/physical response did not equal consent.
-- T131–T134: Poppy explicitly asks to become wolf; after week and healer clearance Rhydian bites shoulder with consent.
-- T135–T139: Painful first shift in forest; Poppy becomes sleek black she-wolf with icy silver-blue eyes; Rhydian shifts into enormous black wolf; she learns to howl.
-- T140: Several days spent learning wolf movement, hunting, playing, sleeping together; intimacy off-page.
-- T141–T144: Three Blackthorn sentries found murdered near southern track; bloody officer badge left. Trail leads to possible drainage culvert beneath fortress wall; Garrick investigating. Binding size canon: shifting does not change person's size; Poppy unusually small for werewolf, easily mistaken for adolescent; natural-born wolves generally largest, Rhydian far larger as wolf.
-- T145–T152: Poppy shifts back to human, explores strengthened bond, challenges Rhydian, and they share consensual intimacy off-page.
-- T153: At dawn Poppy says she wishes to have Rhydian's child; Rhydian is pleased, assures her she need not provide an heir to earn her place. No pregnancy established.
-- T154: Poppy dresses intending to resume teaching the eight rescued children. Rhydian insists she learn Luna duties at morning council but will discuss continuing lessons afterward.
-- T155–T158: Poppy attends council; advises quiet precautions against culvert intruders and suggests murders might be designed to provoke war with humans. Rhydian orders discreet security and no reprisals. Servant found near old stores carrying Blackthorn officer badge, detained; guilt unknown.
-- T159: Poppy asks if Daine has been questioned further; no verified new confession beyond Halden warning. Rhydian and Poppy go to guarded hall to hear servant.
-- T160: Tamsin says she found bloodstained badge beneath flour sack, heard two arguing behind old passage ('The south door was meant to stay open'); her story unverified. Rhydian orders protection and verification.
-- T161: Poppy notes Tamsin will report promptly in future. Rhydian sets confidential reporting route for servants, offers children visit after household arrangements.
-- T162: Poppy says she is unsure how to explain becoming wolf to children, mock-challenges Rhydian that she is not sweet. Rhydian teases her, offers arm.
-- T163: Poppy glares but threads her arm through Rhydian's. He laughs and escorts her to household steward's antechamber. A clerk reports the relocated southern households are asking why their rooms are closed; Rhydian turns to Poppy for a tactful message. Investigation remains ongoing.
+- T42–T53: Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
+- T54–T60: Prisoner accused Lord Edric Vale of paying warriors to turn conquest butchery, unverified.
+- T61–T100: Rhydian claims Poppy as future Luna; eight children including oldest Hari sheltered; Poppy promised teaching. Burned village ledger scraps mention payment and southern passage.
+- T101–T130: Poppy's former lover Daine Gregory, Vale tax collector, and Captain Soren captured. Daine concealed warning of village seizure and named Vale steward Master Halden. Poppy rejects Daine, chooses Rhydian. Rhydian acknowledges first-night coercion; later intimacy consensual and elided.
+- T131–T144: After healer clearance Poppy consents to bite, shifts into small sleek black she-wolf with icy silver-blue eyes, easily mistaken for adolescent; Rhydian's wolf is colossal black with gold eyes. Three Blackthorn sentries murdered, bloody badge planted; possible drainage culvert under fortress.
+- T145–T153: Poppy shifts back to human; deepens bond with Rhydian, explicitly wishes for their child; no pregnancy established.
+- T154–T163: Poppy attends Luna council, suggests quiet safety measures and suspects provocateurs seeking war. Garrick investigates culvert; servant Tamsin found bloodied officer badge in old stores and heard two arguing that 'south door was meant to stay open'; unverified. Rhydian arranges discreet household relocations and witness protections. Poppy wishes to teach rescued children.
+- T164: At player's OOC request, fast-forward past household administration to late afternoon: Poppy has been allowed to teach the eight rescued children in a schoolroom. During lesson an alarm sounds from southern corridor, a guard staggers to schoolroom door wounded and shouts that someone inside the fortress has opened the inner passage; another figure in Blackthorn guard cloak appears beyond him carrying a drawn blade. Hari and the other children are in schoolroom; Rhydian is elsewhere, though bond can convey danger. Poppy has immediate agency to protect children/respond. Culprit identity and conspiracy unresolved.
