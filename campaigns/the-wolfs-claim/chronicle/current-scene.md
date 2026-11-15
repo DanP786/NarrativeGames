@@ -17,4 +17,5 @@
 - T146: Poppy kisses Rhydian, claws at clothes, asks about intensified bond desire; Rhydian says he has felt it since first sight, but desire doesn't erase choice.
 - T147: Poppy says 'You. Now' and tugs Rhydian's clothes again. Rhydian catches wrists, reminds her he is Alpha and intends to lead, not be ordered; leaves choice to her.
 - T148: Poppy pouts and balls her fists at her sides; Rhydian teases but insists on leading.
-- T149: Poppy huffs, strides to bed, lies down and begins touching herself in deliberate defiance. Intimate specifics elided. Rhydian stops teasing, approaches but does not touch her, says her choices remain hers and asks whether she wants him to come closer; scene awaits Poppy's response.
+- T149: Poppy huffs, strides to bed, lies down and begins touching herself in deliberate defiance. Intimate specifics elided. Rhydian asks if she wants him beside her.
+- T150: Poppy challenges, 'I don't know. Can my Alpha handle me?' Rhydian answers confidently, leans close but waits for her clear invitation before advancing; charged private moment ongoing.
