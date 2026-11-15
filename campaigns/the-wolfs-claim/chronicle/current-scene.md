@@ -1,5 +1,5 @@
 # Current scene — forest clearing beyond Blackthorn fortress, night, one week after T132
-- Scene significance: climactic.
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian publicly seated Poppy on lap; Garrick brought prisoner's claim of hidden instigator. Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; Garrick and six warriors rescued them.
@@ -23,4 +23,5 @@
 - T133–T134: One-week jump to Rhydian's chambers; Poppy in light linen dress on bed, explicitly consents to transformation. Rhydian bites shoulder; fever and sensory changes begin. Elara summoned.
 - T135: Poppy suffers violent turning, Rhydian carries her into forest clearing; Elara present.
 - T136: Rhydian orders Elara away for safety. Poppy completes first physical transformation into sleek black direwolf-sized she-wolf with icy silver-blue eyes; attacks Rhydian, who shifts into enormous black wolf twice her size and blocks her harmlessly.
-- T137: Poppy snarls, pins ears, lies down, then rolls onto her back in submission as Rhydian approaches. Rhydian accepts the signal without harming her, touches nose to her muzzle and guards her while her first-shift instincts settle. Her human awareness remains fragmentary; Rhydian's wolf remains nearby. Poppy next action pending.
+- T137: Poppy snarls, pins ears, lies down, then rolls onto back in submission as Rhydian approaches. Rhydian accepts without harming her, touches nose to muzzle and guards her.
+- T138: Poppy rolls upright, takes tentative steps toward Rhydian and brushes her sleek black flank against his enormous black wolf body. He returns the contact, gently guides her toward the edge of the clearing, and waits rather than rushing her into a run. Her first-shift awareness is still partly feral. Poppy next action pending.
