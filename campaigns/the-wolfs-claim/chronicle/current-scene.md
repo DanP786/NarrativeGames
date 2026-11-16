@@ -1,4 +1,4 @@
-# Current scene — underground drainage passage beyond lower gate, late afternoon
+# Current scene — underground drainage fork, late afternoon
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -24,4 +24,5 @@
 - T178: Poppy steps back; man throws vial, breaks it on stones. Bitter fumes spread, unknown substance, no direct splash. Guard approaches cautiously; man has knife and keys.
 - T179: Fumes cause nausea and forced human shift. Fugitive grabs weakened Poppy, drags her through unlocked then relocked lower gate; alarm sounded. Children safe in inner keep.
 - T180: Poppy naked, weak, nauseated, dragged deeper through drainage tunnel. At grille, accomplice asks 'Where's the other one?' indicating intended second captive. Grille unlocked.
-- T181: Poppy weakly says 'Rhydian...' while captor drags her through grille. Captor hears and taunts her; accomplice warns that Alpha will come. Distant powerful wolf howl reverberates through tunnel, source not visually confirmed, pursuit apparently closing. Captor pulls Poppy farther towards underground fork; her condition remains weak and exposed, no sexual assault. No images.
+- T181: Poppy weakly calls 'Rhydian'; huge wolf-like pursuit sounds shake grille behind captors, Rhydian likely close.
+- T182: Poppy deliberately goes limp to impede abduction. Original captor struggles, then broad-shouldered accomplice hoists naked, ill Poppy over his shoulder and carries her toward rushing-water branch, while original captor follows. Poppy remains conscious, nauseated and unrestrained beyond carrier's grip; their movement slowed. A violent crash from grille behind suggests pursuer breaking through; Rhydian not yet visible to Poppy. No images.
