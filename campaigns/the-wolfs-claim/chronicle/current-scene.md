@@ -1,4 +1,4 @@
-# Current scene — Blackthorn Keep, great hall, several weeks later
+# Current scene — Blackthorn Keep, eastern interview chamber, several weeks later
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -20,4 +20,5 @@
 - T224: Poppy resumes quiet place on Rhydian's lap. Garrick brings preliminary register: two recently detained near southern crossings had concealed broken-crown symbols on belongings.
 - T225: Poppy reads register: Tomas Rell, toll clerk arrested south ford nine days ago, coded accounts and broken-crown buckle; Mara Fen, courier arrested ash bridge eleven days ago, broken-crown cloak stitching and sealed letters. Unproven guilt. Rell's accounts repeatedly note 'third bell'; Mara's letter addressed 'Keeper of the Third Bell.' Rhydian orders comparisons and letter.
 - T226: Poppy asks if Daine Gregory is alive and why absent from recent-arrests list. Garrick reports he was alive at morning roll in old east cells; Rhydian orders verification and older prisoner records.
-- T227: Poppy clarifies she seeks useful testimony, not Daine's welfare, and asks to question him alone. Rhydian agrees to a private conversation out of earshot but insists guards remain outside unlocked interview chamber for safety; Garrick arranges it. Rhydian advises Daine may lie or exploit their history, then releases Poppy to question him. No image.
+- T227: Poppy clarifies she seeks useful testimony, not Daine's welfare, and asks to question him alone. Rhydian agrees to a private conversation out of earshot but insists guards remain outside unlocked interview chamber for safety; Garrick arranges it.
+- T228: Alone with Daine in eastern interview chamber, Poppy approaches and sadly observes his weight loss. Daine is visibly affected by her compassion, admits prison has been hard but says he is fed, and asks whether she came solely to ask after him or needs answers. No image.
