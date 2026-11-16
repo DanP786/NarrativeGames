@@ -1,4 +1,4 @@
-# Current scene — boat emerging from Blackthorn spillway, late afternoon
+# Current scene — boat on southern river, late afternoon
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -27,4 +27,5 @@
 - T181: Poppy weakly calls 'Rhydian'; huge wolf-like pursuit sounds shake grille behind captors, Rhydian likely close.
 - T182: Poppy goes limp to slow abduction; broad-shouldered accomplice hoists her over shoulder, carries her toward underground water landing. Pursuit closes.
 - T183: Captors throw naked, nauseated Poppy into narrow boat, cut mooring, ride fast underground spillway. Rhydian in colossal black wolf form reaches landing but cannot board. Original captor has knife.
-- T184: Tears streaming, Poppy tries to rise in violently rocking boat. She gets onto hands and knees, then briefly one knee, despite dizziness. Knife-bearing captor reaches to force her down; larger accomplice struggles to steer as boat bursts into daylight at river outlet, current still dangerous. Poppy conscious, not yet subdued, choice of next action open. No images.
+- T184: Tearful Poppy struggles to one knee as boat emerges into daylight, knife-bearing captor grabs her arm; boat rocks.
+- T185: Poppy collapses from lingering effects of unknown wolf-suppressing vapour, conscious but weak, naked on wet boat boards. Knife-bearing captor looks over her exposed body with an unwelcome appreciative leer and remark; broad-shouldered boatman sharply tells him to focus and tosses his cloak over Poppy for warmth/cover. Boat continues downstream toward wooded bend; Rhydian not visible, pursuit unresolved. No sexual contact. No images.
