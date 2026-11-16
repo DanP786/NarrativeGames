@@ -14,7 +14,7 @@
 - T168: Rhydian arrives; prisoner bound and removed alive, wounded guard ordered treated. Intruder said 'They said she'd be human'; unknown who 'they' are. Rhydian asks Poppy if hurt.
 - T169: Poppy sits, leans into Rhydian's hand, licks blood from muzzle; he checks for injuries. Hari asks to pet her.
 - T170: Poppy lies down before eight children, allowing petting of soft black fur. Messenger reveals prisoner had stolen guard cloak and rough sketch of schoolroom with doorway marked; attack apparently targeted, culprit unknown.
-- T171: Poppy elects to stay with children; Rhydian orders guards, departs to investigate. Hari asks to pet her.
+- T171: Poppy elects to stay with children; Rhydian orders guards, departs to investigate. Hari asks whether men will return and says he cannot lose Poppy.
 - T172: Poppy reassures Hari. Garrick's guards report south passage barred from inside again; recommend moving children and Luna to inner keep.
 - T173: Poppy signals to carry sleeping child and evacuate; guards escort eight children and Poppy toward inner keep. Poppy hears metallic knock and scrape behind barred service door.
 - T174: Poppy alerts two remaining guards by growling at barred door; voice inside says 'Don't open it. He's still here,' then thud. Children escorted ahead by other two guards.
@@ -31,4 +31,5 @@
 - T185: Poppy collapses, naked, on boat boards; knife-bearing captor leers, larger accomplice covers her with cloak. Boat heads toward mill; captors mention unknown buyer waiting.
 - T186: Poppy blacks out in river boat.
 - T187: Poppy awakens at dusk on coarse mattress in locked mill storeroom, unclothed under cloak, weak and nauseated. Calls Rhydian. Two captors present; approaching horsemen arrive outside; broad-shouldered guard advises hiding that she can shift.
-- T188: Poppy rasps 'What's going on?' Broad-shouldered captor explains she was taken as leverage against Alpha, but his employers expected an ordinary human and another captive; he does not know their whole plan. Voices and boots downstairs; someone authoritative demands to see Poppy and verify she is alive. Guard at doorway, Poppy conscious and free to respond. No images.
+- T188: Poppy asks what's going on; broad-shouldered captor says she is leverage against Rhydian. Well-dressed silver-clasped stranger arrives and asks how much Rhydian would sacrifice to recover her.
+- T189: Poppy asks who else they meant to kidnap. Stranger reveals intended second captive was oldest rescued child Hari, to ensure Poppy's cooperation as well as Rhydian's; confirms Hari was not captured. Stranger remains unidentified, wants leverage for a demand not yet stated. Poppy weak but conscious, wrapped in cloak on mill mattress. No images.
