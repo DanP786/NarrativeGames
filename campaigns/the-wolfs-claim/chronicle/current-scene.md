@@ -1,4 +1,4 @@
-# Current scene — beyond lower fortress gate, late afternoon, Poppy human and incapacitated
+# Current scene — underground drainage passage beyond lower gate, late afternoon
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -22,4 +22,5 @@
 - T176: Poppy pursues cloaked key thief to lower gate junction; keys scattered at gate, man holds short blade and vial of bitter-smelling substance, recognises her eyes and asks what was done to her. One guard pursuing, children safe.
 - T177: Poppy crouches ready to pounce; man threatens vial claiming enough to put wolf down, guard arrives. Gate locked, keys scattered.
 - T178: Poppy steps back; man throws vial, breaks it on stones. Bitter fumes spread, unknown substance, no direct splash. Guard approaches cautiously; man has knife and keys.
-- T179: User establishes fumes cause Poppy nausea and involuntary shift back to petite human form. Fugitive snatches scattered keys, unlocks lower gate while guard is hindered by fumes, seizes weakened Poppy and drags her through, then slams and locks gate behind them. Guard shouts alarm, calls for Alpha and aid. Poppy is conscious, dizzy, and in fugitive's grasp in dark passage beyond gate; her clothing after shifting is not specified. Fugitive's identity and substance remain unknown. Eight children safely escorted to inner keep. No images.
+- T179: Fumes cause nausea and forced human shift. Fugitive grabs weakened Poppy, drags her through unlocked then relocked lower gate; alarm sounded. Children safe in inner keep.
+- T180: User clarifies Poppy has no clothes after forced shift, remains weak and nauseated. Kidnapper drags her farther through damp underground drainage passage, ignoring vulnerability; she scrapes knees and feet, cannot presently overpower him. He hears distant pursuit and orders unseen accomplice at an iron grille ahead to open it; unseen person replies 'Where's the other one?' suggesting an additional intended captive, identity unknown. Poppy conscious, can act or speak. No images.
