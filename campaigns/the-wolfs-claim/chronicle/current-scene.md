@@ -1,5 +1,5 @@
-# Current scene — forest road toward Blackthorn Keep, nightfall
-- Scene significance: routine.
+# Current scene — Rhydian and Poppy's bedchamber, Blackthorn Keep, late night
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
@@ -45,4 +45,5 @@
 - T199: Poppy says no one can make Alpha act, and that stranger will die if he does not tell. Stranger drops dagger and alleges insider is Blackthorn's deputy gate-warden Oren Kest, who controls spare gate keys and patrol rota; claims Garrick discovered altered watch records and thus was targeted. Allegations unverified. Rhydian pins dropped dagger under paw, does not kill stranger; sounds of approaching Blackthorn reinforcements downstairs.
 - T200: Poppy tells Rhydian she is fine but cannot reach her wolf. Rhydian visibly distressed, stays shielding her, nuzzles her and signals for healer; Blackthorn warrior brings cloak and drapes it over her shoulders without forcing contact. Rhydian hears mention of bitter vial fumes from surrendering guard, grows alarmed. Prisoners being bound; Poppy still cannot fully shift.
 - T201: Poppy leans down into Rhydian; he carefully guides her onto his massive wolf shoulders/back, and she settles astride under wool cloak gripping his ruff. He carries her down mill stairs carefully to outside at dusk. Blackthorn guards escort bound prisoners separately. Poppy still weak and wolf suppressed; Rhydian remains in wolf form and prepares to carry her toward keep.
-- T202: Poppy settles hugging Rhydian's fur, closes eyes, content and safe despite exhaustion; Rhydian carries her at measured gait along forest road toward Blackthorn Keep as night falls, with escort at distance. Wolf remains suppressed by poison, no new incident. No images.
+- T202: Poppy settles hugging Rhydian's fur, closes eyes, content and safe despite exhaustion; Rhydian carries her at measured gait along forest road toward Blackthorn Keep as night falls, with escort at distance. Wolf remains suppressed by poison, no new incident.
+- T203: Poppy falls asleep riding Rhydian before arrival. At keep Elara treats bruises and scrapes, cleans and dresses Poppy and monitors poison; recovery not yet confirmed, wolf still faint/distant. Poppy wakes later that night in shared bed, Rhydian human in shirt beside her. She grips his shirt and turns into him; he gathers her gently close, relieved, asks how she feels. No images.
