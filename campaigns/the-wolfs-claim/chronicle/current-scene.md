@@ -29,3 +29,4 @@
 - T211: Poppy kisses Rhydian and moves to straddle his lap in their bed. He reciprocates tenderly, steadies her gently, and checks that she is not overtaxing herself after the poisoning. Intimate, consensual closeness; no image. Wolf remains suppressed.
 - T212: Poppy asks Rhydian to just kiss her; he responds with affectionate kisses, then tells her 'I love you' for the first time.
 - T213: Poppy gasps and pulls back, searching Rhydian's eyes after his first declaration of love. Rhydian realises he has never said it, acknowledges mate and Luna claims aren't the same as love, and says it again sincerely, without demanding an answer. They remain close in bed; wolf suppressed. No image.
+- T214: Poppy smiles, kisses Rhydian and says 'I love you too' for the first time. Rhydian is visibly overcome and tender, holds her close and reciprocates the kiss. They remain together in their bed by firelight, mate bond intact; wolf still suppressed. No image.
