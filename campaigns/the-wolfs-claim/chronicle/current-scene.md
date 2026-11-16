@@ -1,4 +1,4 @@
-# Current scene — underground drainage fork, late afternoon
+# Current scene — underground spillway boat, late afternoon
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -25,4 +25,5 @@
 - T179: Fumes cause nausea and forced human shift. Fugitive grabs weakened Poppy, drags her through unlocked then relocked lower gate; alarm sounded. Children safe in inner keep.
 - T180: Poppy naked, weak, nauseated, dragged deeper through drainage tunnel. At grille, accomplice asks 'Where's the other one?' indicating intended second captive. Grille unlocked.
 - T181: Poppy weakly calls 'Rhydian'; huge wolf-like pursuit sounds shake grille behind captors, Rhydian likely close.
-- T182: Poppy deliberately goes limp to impede abduction. Original captor struggles, then broad-shouldered accomplice hoists naked, ill Poppy over his shoulder and carries her toward rushing-water branch, while original captor follows. Poppy remains conscious, nauseated and unrestrained beyond carrier's grip; their movement slowed. A violent crash from grille behind suggests pursuer breaking through; Rhydian not yet visible to Poppy. No images.
+- T182: Poppy goes limp to slow abduction; broad-shouldered accomplice hoists her over shoulder, carries her toward underground water landing. Pursuit closes.
+- T183: Captors throw naked, nauseated, weakened Poppy into narrow wooden boat; both climb aboard, cut mooring and push into fast underground spillway. Rhydian's enormous black wolf form arrives at landing just as boat is swept away, golden eyes visible; he cannot immediately leap aboard due to torrent and low overhead stone, but pursues along bank where possible. Original captor holds knife and orders Poppy kept down. Poppy conscious in bottom of boat, no additional injuries confirmed. No images.
