@@ -1,5 +1,5 @@
 # Current scene — disused riverside mill storeroom, dusk
-- Scene significance: charged.
+- Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
@@ -34,4 +34,5 @@
 - T188: Poppy asks what's going on; broad-shouldered captor says she is leverage against Rhydian. Well-dressed silver-clasped stranger arrives and asks how much Rhydian would sacrifice to recover her.
 - T189: Poppy asks who else they meant to kidnap. Stranger reveals intended second captive was oldest rescued child Hari, to ensure Poppy's cooperation as well as Rhydian's; confirms Hari was not captured.
 - T190: Poppy demands to see document. Demands Rhydian withdraw from southern crossings, surrender southern gate/culvert to 'neutral custodians' for thirty days, and deliver Garrick alive; seal broken crown, employer unknown. Stranger claims Garrick knows who opened passage.
-- T191: Poppy demands what they want with Garrick and says Rhydian would never agree. Stranger says Garrick is investigating an insider and must be silenced before he names them, implying intent to kill rather than question him; claims Rhydian may choose Poppy over terms. A horse outside whinnies abruptly and one guard calls a warning about movement along the riverbank, source unknown. Poppy still weak and cloaked, document in hand; choice open. No images.
+- T191: Poppy demands what they want with Garrick and says Rhydian would never agree. Stranger implies Garrick must be silenced. Outside horses panic and guards report movement by river.
+- T192: Poppy tries to reach for her wolf; lingering suppressive poison causes painful resistance, but she senses a faint answering presence and sharpened hearing/smell returning. No full shift yet. She hears heavy movement and a brief cry outside, cannot confirm Rhydian. Well-dressed stranger orders guard to secure her; broad-shouldered guard hesitates in doorway. Poppy still wrapped in cloak, weak, with opportunity to act. No images.
