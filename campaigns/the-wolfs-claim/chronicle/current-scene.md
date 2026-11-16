@@ -1,4 +1,4 @@
-# Current scene — lower maintenance passage, late afternoon, Poppy in wolf form
+# Current scene — lower gate junction, late afternoon, Poppy in wolf form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -19,4 +19,5 @@
 - T173: Poppy signals to carry sleeping child and evacuate; guards escort eight children and Poppy toward inner keep. Poppy hears metallic knock and scrape behind barred service door.
 - T174: Poppy alerts two remaining guards by growling at barred door; voice inside says 'Don't open it. He's still here,' then thud. Children escorted ahead by other two guards.
 - T175: Poppy paws door; guards open cautiously, find wounded Blackthorn sentry and fleeing cloaked man through maintenance hatch. Sentry warns thief has keys to lower gates.
-- T176: Poppy pursues cloaked key thief through maintenance passage; her direwolf size allows powerful rapid pursuit but constrains her at narrowest stone turn. She catches up at lower gate junction. Fugitive drops several keys while fumbling at gate lock, then wheels with short blade and a small glass vial of bitter medicinal-smelling liquid. He has not escaped; Poppy not yet attacked or injured. One guard follows at a distance while other tends wounded sentry. Children safe escorted to inner keep. No images.
+- T176: Poppy pursues cloaked key thief to lower gate junction; keys scattered at gate, man holds short blade and vial of bitter-smelling substance, recognises her eyes and asks what was done to her. One guard pursuing, children safe.
+- T177: Poppy narrows silver-blue eyes and lowers direwolf body into pouncing stance but does not yet spring. Fugitive panics, warns her not to come closer, and raises vial; guard arrives at passage mouth, orders man to drop vial, and avoids charging due to potential danger. Man identifies liquid only as 'enough to put a wolf down' (unverified). Gate remains locked; keys scattered; standoff ongoing. No images.
