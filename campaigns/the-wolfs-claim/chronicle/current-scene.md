@@ -1,5 +1,5 @@
-# Current scene — boat on southern river, late afternoon
-- Scene significance: climactic.
+# Current scene — southern river boat, Poppy unconscious, late afternoon
+- Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
 - T42–T53: Rhydian admits ordering Blackthorn conquest but not massacre. Poppy hid eight children under chapel altar; all eight rescued.
@@ -28,4 +28,5 @@
 - T182: Poppy goes limp to slow abduction; broad-shouldered accomplice hoists her over shoulder, carries her toward underground water landing. Pursuit closes.
 - T183: Captors throw naked, nauseated Poppy into narrow boat, cut mooring, ride fast underground spillway. Rhydian in colossal black wolf form reaches landing but cannot board. Original captor has knife.
 - T184: Tearful Poppy struggles to one knee as boat emerges into daylight, knife-bearing captor grabs her arm; boat rocks.
-- T185: Poppy collapses from lingering effects of unknown wolf-suppressing vapour, conscious but weak, naked on wet boat boards. Knife-bearing captor looks over her exposed body with an unwelcome appreciative leer and remark; broad-shouldered boatman sharply tells him to focus and tosses his cloak over Poppy for warmth/cover. Boat continues downstream toward wooded bend; Rhydian not visible, pursuit unresolved. No sexual contact. No images.
+- T185: Poppy collapses, naked, on boat boards; knife-bearing captor leers, larger accomplice covers her with cloak. Boat heads toward mill; captors mention an unknown buyer waiting.
+- T186: Poppy loses consciousness from lingering substance effects and exhaustion in river boat, covered by rough cloak. Last sensations: rocking hull, cold spray, muffled voices, Rhydian's name in her mind. No narration of events while unconscious; destination and treatment after blackout unresolved until next scene. No images.
