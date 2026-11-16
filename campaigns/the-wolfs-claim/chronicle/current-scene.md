@@ -1,4 +1,4 @@
-# Current scene — fortress schoolroom, late afternoon, Poppy in wolf form
+# Current scene — inner keep approach, late afternoon, Poppy in wolf form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -15,4 +15,5 @@
 - T169: Poppy sits, leans into Rhydian's hand, licks blood from muzzle; he checks for injuries. Hari asks to pet her.
 - T170: Poppy lies down before eight children, allowing petting of soft black fur. Messenger reveals prisoner had stolen guard cloak and rough sketch of schoolroom with doorway marked; attack apparently targeted, culprit unknown.
 - T171: Poppy elects to stay with children; Rhydian orders guards, departs to investigate. Hari asks whether men will return and says he cannot lose Poppy.
-- T172: Poppy nudges Hari and shakes her wolf head in reassurance. Hari accepts the comfort but remains worried. One of the guarding werewolves calls quietly from corridor: Garrick has found the inner south passage barred from the inside again, implying someone remains inside fortress with access; asks whether Luna and children can be escorted to more defensible quarters. Poppy remains with children; no new attacker in room. No images.
+- T172: Poppy reassures Hari. Garrick's guards report south passage barred from inside again; recommend moving children and Luna to inner keep.
+- T173: Poppy notices one child asleep against her, signals to guard and nuzzles children to prepare for evacuation. Guard quietly lifts sleeping child; Hari gathers other six awake children, seven awake total including Hari, and four Blackthorn werewolf guards escort them and Poppy toward inner keep. At narrow stair landing Poppy hears a single metallic knock from behind a locked service door, followed by abrupt silence; guards have not yet noticed. No images.
