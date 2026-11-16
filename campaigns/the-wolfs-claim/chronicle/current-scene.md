@@ -14,7 +14,7 @@
 - T168: Rhydian arrives; prisoner bound and removed alive, wounded guard ordered treated. Intruder said 'They said she'd be human'; unknown who 'they' are. Rhydian asks Poppy if hurt.
 - T169: Poppy sits, leans into Rhydian's hand, licks blood from muzzle; he checks for injuries. Hari asks to pet her.
 - T170: Poppy lies down before eight children, allowing petting of soft black fur. Messenger reveals prisoner had stolen guard cloak and rough sketch of schoolroom with doorway marked; attack apparently targeted, culprit unknown.
-- T171: Poppy elects to stay with children; Rhydian orders guards, departs to investigate. Hari asks whether men will return and says he cannot lose Poppy.
+- T171: Poppy elects to stay with children; Rhydian orders guards, departs to investigate. Hari asks to pet her.
 - T172: Poppy reassures Hari. Garrick's guards report south passage barred from inside again; recommend moving children and Luna to inner keep.
 - T173: Poppy signals to carry sleeping child and evacuate; guards escort eight children and Poppy toward inner keep. Poppy hears metallic knock and scrape behind barred service door.
 - T174: Poppy alerts two remaining guards by growling at barred door; voice inside says 'Don't open it. He's still here,' then thud. Children escorted ahead by other two guards.
@@ -28,6 +28,7 @@
 - T182: Poppy goes limp to slow abduction; broad-shouldered accomplice hoists her over shoulder, carries her toward underground water landing. Pursuit closes.
 - T183: Captors throw naked, nauseated Poppy into narrow boat, cut mooring, ride fast underground spillway. Rhydian in colossal black wolf form reaches landing but cannot board. Original captor has knife.
 - T184: Tearful Poppy struggles to one knee as boat emerges into daylight, knife-bearing captor grabs her arm; boat rocks.
-- T185: Poppy collapses, naked, on boat boards; knife-bearing captor leers, larger accomplice covers her with cloak. Boat heads toward mill; captors mention an unknown buyer waiting.
+- T185: Poppy collapses, naked, on boat boards; knife-bearing captor leers, larger accomplice covers her with cloak. Boat heads toward mill; captors mention unknown buyer waiting.
 - T186: Poppy blacks out in river boat.
-- T187: Poppy awakens at dusk on coarse mattress in locked storeroom of disused riverside mill, still unclothed beneath heavy cloak, weak/nauseated but recovering consciousness. She calls 'Rhy...dian...Rhydian...' aloud. Hears waterwheel, voices outside, and one captor approach; he tells her Alpha is not there. Room has barred high window, wooden door with outside lock, empty water jug; identity of buyer unknown. Rhydian's pursuit remains unresolved. No images.
+- T187: Poppy awakens at dusk on coarse mattress in locked mill storeroom, unclothed under cloak, weak and nauseated. Calls Rhydian. Two captors present; approaching horsemen arrive outside; broad-shouldered guard advises hiding that she can shift.
+- T188: Poppy rasps 'What's going on?' Broad-shouldered captor explains she was taken as leverage against Alpha, but his employers expected an ordinary human and another captive; he does not know their whole plan. Voices and boots downstairs; someone authoritative demands to see Poppy and verify she is alive. Guard at doorway, Poppy conscious and free to respond. No images.
