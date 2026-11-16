@@ -1,4 +1,4 @@
-# Current scene — inner keep approach, late afternoon, Poppy in wolf form
+# Current scene — lower maintenance passage, late afternoon, Poppy in wolf form
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -18,4 +18,5 @@
 - T172: Poppy reassures Hari. Garrick's guards report south passage barred from inside again; recommend moving children and Luna to inner keep.
 - T173: Poppy signals to carry sleeping child and evacuate; guards escort eight children and Poppy toward inner keep. Poppy hears metallic knock and scrape behind barred service door.
 - T174: Poppy alerts two remaining guards by growling at barred door; voice inside says 'Don't open it. He's still here,' then thud. Children escorted ahead by other two guards.
-- T175: Poppy paws insistently at door. Guards interpret desire to open, send urgent runner for reinforcements, lift external bar and cautiously crack door. Inside lies a bleeding male Blackthorn sentry in human form, conscious but weak; a dark-cloaked second figure is glimpsed retreating through narrow maintenance hatch in far wall. Sentry whispers 'The keys... he has the keys.' Identity and allegiance of fugitive unknown. Poppy and two guards remain at threshold; no combat yet. No images.
+- T175: Poppy paws door; guards open cautiously, find wounded Blackthorn sentry and fleeing cloaked man through maintenance hatch. Sentry warns thief has keys to lower gates.
+- T176: Poppy pursues cloaked key thief through maintenance passage; her direwolf size allows powerful rapid pursuit but constrains her at narrowest stone turn. She catches up at lower gate junction. Fugitive drops several keys while fumbling at gate lock, then wheels with short blade and a small glass vial of bitter medicinal-smelling liquid. He has not escaped; Poppy not yet attacked or injured. One guard follows at a distance while other tends wounded sentry. Children safe escorted to inner keep. No images.
