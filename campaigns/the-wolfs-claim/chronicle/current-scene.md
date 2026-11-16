@@ -1,4 +1,4 @@
-# Current scene — underground spillway boat, late afternoon
+# Current scene — boat emerging from Blackthorn spillway, late afternoon
 - Scene significance: climactic.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -26,4 +26,5 @@
 - T180: Poppy naked, weak, nauseated, dragged deeper through drainage tunnel. At grille, accomplice asks 'Where's the other one?' indicating intended second captive. Grille unlocked.
 - T181: Poppy weakly calls 'Rhydian'; huge wolf-like pursuit sounds shake grille behind captors, Rhydian likely close.
 - T182: Poppy goes limp to slow abduction; broad-shouldered accomplice hoists her over shoulder, carries her toward underground water landing. Pursuit closes.
-- T183: Captors throw naked, nauseated, weakened Poppy into narrow wooden boat; both climb aboard, cut mooring and push into fast underground spillway. Rhydian's enormous black wolf form arrives at landing just as boat is swept away, golden eyes visible; he cannot immediately leap aboard due to torrent and low overhead stone, but pursues along bank where possible. Original captor holds knife and orders Poppy kept down. Poppy conscious in bottom of boat, no additional injuries confirmed. No images.
+- T183: Captors throw naked, nauseated Poppy into narrow boat, cut mooring, ride fast underground spillway. Rhydian in colossal black wolf form reaches landing but cannot board. Original captor has knife.
+- T184: Tears streaming, Poppy tries to rise in violently rocking boat. She gets onto hands and knees, then briefly one knee, despite dizziness. Knife-bearing captor reaches to force her down; larger accomplice struggles to steer as boat bursts into daylight at river outlet, current still dangerous. Poppy conscious, not yet subdued, choice of next action open. No images.
