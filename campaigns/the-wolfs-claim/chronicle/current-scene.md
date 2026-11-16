@@ -1,4 +1,4 @@
-# Current scene — southern river boat, Poppy unconscious, late afternoon
+# Current scene — disused riverside mill storeroom, dusk
 - Scene significance: charged.
 - Hard-rewound continuity: subsequent month-long events void. Player retconned to instant before Poppy's transformation during schoolroom intrusion; prior outcomes after this point void.
 - Poppy captured in raid; Rhydian recognized her as mate, publicly claimed her and forced her to chambers. She did not consent; T10 assault elided, nonconsensual.
@@ -29,4 +29,5 @@
 - T183: Captors throw naked, nauseated Poppy into narrow boat, cut mooring, ride fast underground spillway. Rhydian in colossal black wolf form reaches landing but cannot board. Original captor has knife.
 - T184: Tearful Poppy struggles to one knee as boat emerges into daylight, knife-bearing captor grabs her arm; boat rocks.
 - T185: Poppy collapses, naked, on boat boards; knife-bearing captor leers, larger accomplice covers her with cloak. Boat heads toward mill; captors mention an unknown buyer waiting.
-- T186: Poppy loses consciousness from lingering substance effects and exhaustion in river boat, covered by rough cloak. Last sensations: rocking hull, cold spray, muffled voices, Rhydian's name in her mind. No narration of events while unconscious; destination and treatment after blackout unresolved until next scene. No images.
+- T186: Poppy blacks out in river boat.
+- T187: Poppy awakens at dusk on coarse mattress in locked storeroom of disused riverside mill, still unclothed beneath heavy cloak, weak/nauseated but recovering consciousness. She calls 'Rhy...dian...Rhydian...' aloud. Hears waterwheel, voices outside, and one captor approach; he tells her Alpha is not there. Room has barred high window, wooden door with outside lock, empty water jug; identity of buyer unknown. Rhydian's pursuit remains unresolved. No images.
