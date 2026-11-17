@@ -3,7 +3,7 @@ T270–T280: Border parley; Halden alleges Keeper of Third Bell, Wolf's Shadow, 
 T281–T290: Pregnancy discovered at ~3 months gestation; paternity uncertain Rhydian/Daine (intimacy three days apart). Bond cannot determine paternity. Rhydian's cruel question wounds Poppy.
 T291–T295: THREE months pass since discovery, Poppy now six months pregnant; depressed, withdrawn, eats little, says mate bond damaged and Rhydian's cruel question wounds her.
 T296–T303: Poppy escapes in wolf form; Rhydian tracks and forcibly drags her downhill by scruff/head fur, injuring paws.
-T304–T308: Rhydian carries Poppy back; Elara treats paws, checks pregnant belly, feels fetal movement but cannot guarantee full health.
+T304–T308: Rhydian carries Poppy back; Elara treats paws, checks belly, feels fetal movement but cannot guarantee full health.
 T309–T310: Poppy growls at Rhydian's impersonal 'a baby'; Rhydian says he wanted it to be 'ours.' She drinks broth.
 T311–T313: Poppy's appetite returns; eats venison, eggs and broth, remains wolf.
 T314–T315: Poppy encounters released but restricted Daine; learns Rhydian refused his letters and visits.
@@ -25,3 +25,4 @@ T343: Roughly three months later, at full term, Poppy's labor begins before dawn
 T344: Poppy reports contraction pain moving from low belly around to back. Elara times several close, regular contractions and infers Poppy likely slept through early labor; labor is further advanced than initially assumed. Rhydian grows tense, stays by her and follows Elara's directions. Elara prepares for faster progression and asks Poppy about pressure or urge to bear down.
 T345: Poppy reports only contractions, no bearing-down pressure, and holds Rhydian's hand to her lower back for counterpressure. Elara monitors.
 T346: Labor continues for several exhausting hours; Poppy delivers a living baby BOY with a thick mess of BLACK hair. Elara catches and checks him, he cries, and places him wrapped against Poppy. Rhydian remains by her, stunned and moved, touching infant's hair hesitantly; he does not claim paternity or resolve doubts. Poppy exhausted; Elara continues attending mother and infant. Baby name and eye color not yet established. No image.
+T347: After delivery attendants wash exhausted Poppy, lay absorbent clean blankets beneath her for postpartum bleeding, cover her lower half and shoulders with blanket and shawl, leaving her otherwise unclothed. Newborn black-haired son latches and nurses; Poppy struggles to keep eyes open. Elara checks bleeding and urges rest, Rhydian watches protectively and offers to support infant when finished. Paternity unresolved, no name or eye color yet. Text only.
