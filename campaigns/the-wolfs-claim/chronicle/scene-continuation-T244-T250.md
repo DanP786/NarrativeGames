@@ -11,5 +11,5 @@ T304–T305: Rhydian shifts human, carries Poppy, brings her to Blackthorn infir
 T306–T308: Elara treats paws, checks pregnant belly, notes fetal movement but cannot fully assess health; Rhydian argues.
 T309: Poppy growls at Rhydian's impersonal 'a baby'; he admits uncertainty and says he wanted it to be 'ours.'
 T310: Poppy drinks warm broth in wolf form. Elara keeps her overnight in infirmary; Rhydian stays in chair, says he will confront events tomorrow.
-T311: Next morning Poppy wakes hungry; Elara offers small bowl of venison and broth, Rhydian watches.
-T312: Poppy eats the venison greedily in wolf form, rapidly emptying bowl. Elara cautions about nausea after prolonged poor intake and offers a short pause and further small portions; Rhydian orders kitchen to prepare more and demands continued care. Her appetite returns but emotional rift remains; she is six months pregnant, injured paws bandaged, still in infirmary. No image.
+T311–T312: Next morning Poppy wakes ravenously hungry, eats venison and broth; Elara cautions small portions, Rhydian orders more.
+T313: Poppy keeps eating successive modest servings of venison, eggs and broth until completely full, then stops. Elara monitors for discomfort, pleased appetite returned but cautions this does not repair months of undernourishment. Rhydian is watchful and controlling, orders continued food and rest; Poppy remains wolf, six months pregnant with bandaged paws. No image.
