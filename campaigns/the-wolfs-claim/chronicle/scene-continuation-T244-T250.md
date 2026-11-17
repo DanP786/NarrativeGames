@@ -21,4 +21,5 @@ T329: Poppy nods yes. Rhydian apologizes and extends his hand inviting her to hi
 T330: Poppy playfully slaps Rhydian's offered hand away twice, pouting; he pulls her close carefully and she does not protest. They cuddle in bed; hurt and paternity uncertainty remain.
 T331: Poppy places Rhydian's hand on pregnant belly as baby kicks; he is astonished, keeps hand there, asks if baby kicks often. Movement does not establish paternity.
 T332: Poppy replies, 'Constantly, especially at night.' Rhydian responds with rough humor and regret at missed nights, asks if kicks keep her awake.
-T333: Poppy says 'Yes' to Rhydian staying in bed, settles back against him, explains kicks do not hurt but can be uncomfortable, especially when baby presses on her bladder. Rhydian stays, responds with gruff humor and attentiveness, and asks if she needs to get up now; no presumption of Poppy's next action. No image.
+T333: Poppy says yes to Rhydian staying in bed, explains kicks can be uncomfortable, especially pressing bladder; he offers to stay awake with her and asks if she needs to get up.
+T334: Poppy says, 'You said something nice. And didn’t ruin it,' then closes eyes drowsily in Rhydian's embrace. He responds with quiet dry humor, holds her without adding another demand or qualification, lets her rest; not yet confirmed asleep. No image.
