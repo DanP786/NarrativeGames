@@ -17,4 +17,5 @@ T335: At end of following week, Rhydian arranges a public feast to celebrate Pop
 T336: Poppy eats at the feast while sitting on Rhydian's lap. He refrains from criticizing her food intake; an elder approaches to congratulate her and bless child.
 T337: Poppy smiles and thanks elder. Elder responds warmly and withdraws. Rhydian enjoys seeing her welcomed, quietly acknowledges her smile; musicians start a lively tune, a few guests begin dancing, and Rhydian invites Poppy to decide whether to join or remain on his lap.
 T338: Poppy declines dancing due to pregnancy; Rhydian surprises her with a deep kiss in full view of hall; crowd erupts, he asks if he surprised her.
-T339: Poppy nods, says 'mmm, but it was nice.' Rhydian is openly pleased, responds affectionately and restrains himself from turning tender moment into an argument. Feast continues, with Poppy on his lap. No image per user.
+T339: Poppy nods, says 'mmm, but it was nice.' Rhydian teases, kisses corner of mouth, says he missed her; asks if she wants another kiss.
+T340: Poppy leans in, catches Rhydian's lower lip gently between her teeth and draws it out slowly before releasing. Rhydian is caught off guard and delighted, responds with low teasing and an invitation to continue, aware of the feast's audience. No image per user.
