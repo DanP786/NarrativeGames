@@ -2,14 +2,8 @@ Continuation of current-scene.md after T243; western questioning chamber, Poppy 
 T270–T280: Border parley; Halden alleges Keeper of Third Bell, Wolf's Shadow, broken-crown plot. Poppy becomes ill.
 T281–T290: Pregnancy established; paternity uncertain between Rhydian and Daine, intimacy three days apart. No bond paternity test. Rhydian's cruel question wounds Poppy.
 T291–T295: Months pass; Poppy depressed and withdrawn, six months pregnant, eats little. Says bond feels damaged and Rhydian's presence hurts. Rhydian sleeps elsewhere. During skip Daine tried; treason unproven, released under restrictions/watch; Poppy not informed.
-T296: Alone after Elara leaves, Poppy shifts to wolf form, physically strained by six-month pregnancy.
-T297: Poppy escapes fortress via propped bathing chamber servants door and drainage channel into winter snow; alarm raised and Rhydian howls from fortress. She intends to give birth alone in three months.
-T298: Poppy runs east into hills in wolf form, six months pregnant; Rhydian tracks her with wolves and guards. Wolves cannot speak; Rhydian shifted human to shout.
-T299–T300: Poppy sits on snowy ridge licking bleeding paws. Rhydian finds her, shifts human, demands return; Poppy's eyes soften until he says 'a child,' then narrow; she plants paw and refuses to move. He recognizes hurt and remains confrontational.
-T301–T303: Rhydian shifts wolf, bites scruff then head fur and drags resisting Poppy downhill, wounding paws, returns her by litter.
-T304–T305: Rhydian shifts human, carries Poppy, brings her to Blackthorn infirmary; she remains wolf and refuses eye contact.
-T306–T308: Elara treats paws, checks pregnant belly, notes fetal movement but cannot fully assess health; Rhydian argues.
-T309: Poppy growls at Rhydian's impersonal 'a baby'; he admits uncertainty and says he wanted it to be 'ours.'
-T310: Poppy drinks warm broth in wolf form. Elara keeps her overnight in infirmary; Rhydian stays in chair, says he will confront events tomorrow.
-T311–T312: Next morning Poppy wakes ravenously hungry, eats venison and broth; Elara cautions small portions, Rhydian orders more.
-T313: Poppy keeps eating successive modest servings of venison, eggs and broth until completely full, then stops. Elara monitors for discomfort, pleased appetite returned but cautions this does not repair months of undernourishment. Rhydian is watchful and controlling, orders continued food and rest; Poppy remains wolf, six months pregnant with bandaged paws. No image.
+T296–T303: Poppy escapes in wolf form; Rhydian tracks her and forcibly drags her downhill by scruff/head fur, injuring paws.
+T304–T308: Rhydian carries Poppy back; Elara treats paws, checks pregnant belly, feels fetal movement but cannot guarantee full health.
+T309–T310: Poppy growls at Rhydian's impersonal 'a baby'; he admits uncertainty, says he wanted it to be 'ours.' She drinks broth.
+T311–T313: Poppy's appetite returns next morning, eats substantial venison, eggs and broth under Elara's supervision; remains wolf.
+T314: Over following days Poppy remains entirely in wolf form, sleeps in shared bedchamber, eats and wanders Blackthorn fortress as paw wounds heal. While roaming an interior service passage near the lower courtyard she unexpectedly encounters Daine Gregory, alive and no longer imprisoned after treason case failed for insufficient proof; he remains under restrictions/watch and is at the keep under guard for administrative reporting. Poppy has not been told of his release. Daine recognizes Poppy by her eyes and pregnancy, is shocked and speaks cautiously; guard nearby. Rhydian not present and does not automatically know. No image.
