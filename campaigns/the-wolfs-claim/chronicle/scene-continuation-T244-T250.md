@@ -1,0 +1,9 @@
+Continuation of current-scene.md after T243; western questioning chamber, Poppy interviewing Tomas Rell, guards outside and Rhydian nearby.
+T244: Poppy frames visit as prisoner wellbeing check. Rell reports adequate food, cold cell, one blanket, no beating.
+T245: Poppy speaks of prisoner dignity. Rell asks for more light and says he kept toll accounts for merchants, soldiers and tax collectors.
+T246: Poppy asks about his interests. Rell likes numbers, fishing, old roads and maps, and making arithmetic puzzles for children; asks whether Alpha knows Poppy visits prisoners.
+T247: Poppy says Rhydian knows but Rell was chosen by chance, asks whether he likes tollhouse people or numbers. Rell describes travellers and unusual after-dark military movements.
+T248: Poppy says she taught village children ages three to eleven. Rell asks if she misses teaching.
+T249: Poppy says her village was destroyed and she was taken captive. Rell apologizes and mentions his late wife, says he hopes pupils survived and perpetrators face justice.
+T250: Poppy suggests Rhydian's conquest orders differed from actual massacre; Rell says orders can be changed between issuer and soldiers. Poppy notes witnesses needed; Rell defensively admits recording soldiers' movements but claims not to have witnessed massacre. Player OOC asks that Rell not be treated as automatically innocent: his coded accounts, buckle and Daine's testimony remain substantive grounds for suspicion. Poppy then softens, says she isn't interrogating him and asks whether those truly responsible ought to be punished instead of intermediaries. Rell's response pending.
+Do not treat Rell's claims as established fact. He has not been told about Daine's packet testimony or Mara's letter. No image.
