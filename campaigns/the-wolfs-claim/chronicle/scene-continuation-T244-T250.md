@@ -13,4 +13,5 @@ T305: Poppy refuses to look at Rhydian or shift back from wolf form while he car
 T306: Poppy growls warning at Elara but remains still; moved to warm infirmary.
 T307: Poppy barks at Rhydian but permits Elara to clean and bandage wounded front paw.
 T308: Poppy lowers head and closes eyes; Elara examines belly, feels fetal movement, no obvious immediate labor signs but cannot guarantee health; Rhydian again calls it 'a baby' rather than 'our baby.'
-T309: With eyes closed and body still in wolf form, Poppy's ears prick, tail lashes and she growls low at Rhydian's repeated impersonal 'a baby.' Rhydian recognizes the reaction, reacts with defensive anger and inability to claim uncertain paternity; Elara intervenes to prevent escalating confrontation, urges rest and nutrition. Poppy neither shifts nor opens eyes; her next action open. No image.
+T309: Poppy's ears prick, tail lashes, growls at impersonal 'a baby'; Rhydian defensively admits uncertainty and says he wanted it to be 'ours.' Elara offers warm broth.
+T310: Poppy in wolf form drinks the offered warm broth. Elara is relieved, cautions Rhydian against pressure, offers more water and rest; Rhydian watches, tense and controlling, without interpreting drinking as forgiveness. Poppy remains injured, exhausted, six months pregnant in infirmary. No image.
