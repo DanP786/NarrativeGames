@@ -6,12 +6,9 @@ T296: Alone after Elara leaves, Poppy shifts to wolf form, physically strained b
 T297: Poppy escapes fortress via propped bathing chamber servants door and drainage channel into winter snow; alarm raised and Rhydian howls from fortress. She intends to give birth alone in three months.
 T298: Poppy runs east into hills in wolf form, six months pregnant; Rhydian tracks her with wolves and guards. Wolves cannot speak; Rhydian shifted human to shout.
 T299–T300: Poppy sits on snowy ridge licking bleeding paws. Rhydian finds her, shifts human, demands return; Poppy's eyes soften until he says 'a child,' then narrow; she plants paw and refuses to move. He recognizes hurt and remains confrontational.
-T301–T302: Poppy fights and braces; Rhydian shifts wolf, seizes her scruff, drags her downhill, bleeding paws and strain; stops at icy ravine edge.
-T303: Poppy continues fighting. Rhydian grips fur/skin around upper head behind ears in jaws, drags her down to broad ledge, releases and blocks uphill path.
-T304: Poppy lies down exhausted; Rhydian shifts human, orders blankets and litter, lifts her in his arms to descend.
-T305: Poppy refuses to look at Rhydian or shift back from wolf form while he carries her; returns on litter to Blackthorn, Elara approaches.
-T306: Poppy growls warning at Elara but remains still; moved to warm infirmary.
-T307: Poppy barks at Rhydian but permits Elara to clean and bandage wounded front paw.
-T308: Poppy lowers head and closes eyes; Elara examines belly, feels fetal movement, no obvious immediate labor signs but cannot guarantee health; Rhydian again calls it 'a baby' rather than 'our baby.'
-T309: Poppy's ears prick, tail lashes, growls at impersonal 'a baby'; Rhydian defensively admits uncertainty and says he wanted it to be 'ours.' Elara offers warm broth.
-T310: Poppy in wolf form drinks the offered warm broth. Elara is relieved, cautions Rhydian against pressure, offers more water and rest; Rhydian watches, tense and controlling, without interpreting drinking as forgiveness. Poppy remains injured, exhausted, six months pregnant in infirmary. No image.
+T301–T303: Rhydian shifts wolf, bites scruff then head fur and drags resisting Poppy downhill, wounding paws, returns her by litter.
+T304–T305: Rhydian shifts human, carries Poppy, brings her to Blackthorn infirmary; she remains wolf and refuses eye contact.
+T306–T308: Elara treats paws, checks pregnant belly, notes fetal movement but cannot fully assess health; Rhydian argues.
+T309: Poppy growls at Rhydian's impersonal 'a baby'; he admits uncertainty and says he wanted it to be 'ours.'
+T310: Poppy drinks warm broth in wolf form. Elara keeps her overnight in infirmary; Rhydian stays in chair, says he will confront events tomorrow.
+T311: Next morning Poppy wakes in infirmary still in wolf form, bandaged paws sore, six months pregnant, and discovers appetite has returned. Elara brings small servings of warm meat and broth and warns against eating too much too quickly; Rhydian has remained nearby, controlling and watchful. Poppy's desire to eat does not imply reconciliation or compliance, and she chooses her next action. No image.
