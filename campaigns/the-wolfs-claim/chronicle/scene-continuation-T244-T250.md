@@ -3,14 +3,11 @@ T244–T250: Rell admits falsified toll records, concealed original beneath thir
 T260–T269: Poppy feeds Rell, discusses culpability, reconciles with Rhydian and shares desire for children; consensual intimate night.
 T270: Week later guarded parley at border priory; Poppy in chosen black gown and silver collar. Unknown to all, newly pregnant.
 T271–T276: Halden accuses Rhydian of coercive past; Vale admits covert mercenaries but denies massacre; Halden alleges Keeper of Third Bell holds ambush orders, chapel payment signals, broken-crown correspondence and Blackthorn contact Wolf's Shadow. Poppy recounts saving eight children and prior abduction threats. Allegations unverified.
-T277–T280: Poppy dizzy/nauseated; Rhydian ends parley with safe conduct, Garrick investigating; Rhydian carries Poppy to carriage.
-T281–T284: At Blackthorn Elara examines Poppy: regular courses before arrival, none since, dizziness, nausea, sore nipples. Pregnancy suspected, unconfirmed.
-T285: Poppy excited; Rhydian hopeful and vows love to child.
-T286–T287: Poppy fears Daine could be father; last intimacy with Daine three days before arrival at Blackthorn, later intimacy with Rhydian. Rhydian hurt but doesn't blame her; Elara explains dating uncertainty.
-T288: Poppy cannot remember last period and says intimacy with Daine and Rhydian was three days apart. She asks whether mate bond can reject non-mate pregnancy; Elara says no reliable mechanism for detection or rejection. Rhydian struggles with jealousy but promises no harm.
-T289: Poppy observes wolf inheritance cannot settle paternity, given she was human at conception; Rhydian admits uncertainty and asks whether she'd still want baby if never sure.
-T290: Poppy gasps, cries, fears Rhydian will regard her and child differently. Rhydian acknowledges cruelty of question and apologizes.
-T291: Time skip several months; Poppy depressed, confined to bedchamber by withdrawal, eats minimally, pregnancy visibly progressing, Elara concerned. Rhydian attempts contact and asks her to speak.
-T292: Poppy six months pregnant; asks how she can be Rhydian's mate if baby might be another man's. Rhydian insists bond chose Poppy, admits jealousy and promises protection, asks if she still feels bond.
-T293: Poppy says bond feels damaged, in pain. Rhydian asks if his presence hurts her.
-T294: Poppy answers yes. Rhydian recoils, accepts her answer without disputing it, and steps away, offering space while refusing to abandon responsibility for her wellbeing. OOC correction accepted: over six-month skip Daine's hearing WOULD have taken place; establish that Garrick presented the evidence, no proof Daine knowingly aided enemy captain's escape, treason charge dismissed, and Daine was released from imprisonment under restricted travel/watch pending wider conspiracy investigation. Rhydian did not execute him. Poppy, withdrawn, has not been briefed on outcome. This supersedes T293's provisional assertion of ongoing imprisonment. Poppy six months pregnant, paternity unknown. No image.
+T277–T280: Halden alleges Third Bell and Wolf's Shadow links, unverified. Poppy becomes ill; Rhydian ends parley.
+T281–T284: Elara examines Poppy; pregnancy suspected.
+T285–T287: Poppy and Rhydian initially hopeful, then fear paternity uncertainty due to intimacy with Daine and Rhydian three days apart.
+T288–T290: No bond paternity test; Rhydian's question wounds Poppy; he apologizes.
+T291: Months pass; Poppy severely depressed, withdrawn in bedchamber, eats little.
+T292: Six months pregnant. Poppy doubts mate bond; Rhydian says bond chose her, admits jealousy.
+T293–T294: Poppy says bond feels damaged and Rhydian's presence hurts. He punches mantel, withdraws, asks if sleeping elsewhere would help. During skip Daine's hearing occurred; insufficient evidence of treason, released from dungeon with movement restrictions/watch, alive; Poppy uninformed.
+T295: Poppy gives no answer to Rhydian's question about sleeping elsewhere. He does not treat silence as consent or refusal. He leaves for the night, orders Elara invited and food available without forcing Poppy; remains protective and angry, aware he cannot command her to recover. Six months pregnant, depressed; paternity unknown. No image.
