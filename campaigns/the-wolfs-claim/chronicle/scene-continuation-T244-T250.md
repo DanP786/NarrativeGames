@@ -14,4 +14,5 @@ T322: Poppy corrects Rhydian: 'you made me feel this child is unwanted.' He admi
 T323: Poppy asks whether Rhydian would send child away until paternity clear; he says child will stay with Poppy at Blackthorn but acknowledges his doubts and jealousy.
 T324: Poppy says raising child here is no better if Rhydian will not love them. Rhydian admits he cannot promise love, but says he can choose not to neglect child; asks if she truly thinks he cannot love baby.
 T325: Poppy pushes his hand away, says 'no', washes hair; Rhydian withdraws to adjoining bedchamber, leaving towel nearby.
-T326: Poppy finishes washing and considers climbing out unaided, but her six-month belly, tender healing feet, wet slippery stone steps and high bath edge make it daunting. She only stares at the edge, does not attempt ascent or call out. Rhydian remains nearby in adjoining bedchamber; no automatic touch or assistance without her response. No image.
+T326: Poppy finishes washing, stares at difficult slippery steps, Rhydian returns and offers hand without forcing contact.
+T327: Poppy accepts Rhydian's help. He carefully braces and lifts/supports her out of bath, mindful of sore feet and six-month belly, wraps her in warmed towel, avoids reopening argument. Emotional distance remains; he offers to help her to bed or let her stand on her own. No image.
