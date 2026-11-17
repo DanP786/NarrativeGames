@@ -17,4 +17,5 @@ T325: Poppy pushes his hand away, says 'no', washes hair; Rhydian withdraws to a
 T326: Poppy finishes washing, stares at difficult slippery steps, Rhydian returns and offers hand without forcing contact.
 T327: Poppy accepts Rhydian's help. He lifts her out of bath, wraps her in towel, dries her feet and hair, then remarks she has lost too much weight and orders her to keep eating. Offers help to bed.
 T328: Poppy had been about to hug Rhydian after his tender care, but his criticism of her weight closes that opening. She shakes head, dresses, walks to bed. Rhydian asks whether she had been about to come to him before his comment.
-T329: Poppy nods yes. Rhydian is visibly stricken by the missed embrace, recognizes his anxious criticism as ill-timed and apologizes without demanding forgiveness. He stays beside bed, offering space and a tentative open hand rather than taking her into his arms unasked. No image.
+T329: Poppy nods yes. Rhydian apologizes and extends his hand inviting her to him.
+T330: Poppy slaps Rhydian's offered hand away, then swats it a second time when he offers again, pouting. Rhydian reads the playful defiance, pulls her against his chest carefully around her pregnant belly and sore feet. Poppy does not protest. They hold each other in bed, though hurt and paternity uncertainty remain unresolved. No image.
