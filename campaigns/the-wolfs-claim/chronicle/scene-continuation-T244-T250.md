@@ -9,6 +9,7 @@ T299–T300: Poppy sits on snowy ridge licking bleeding paws. Rhydian finds her,
 T301–T302: Poppy fights and braces; Rhydian shifts wolf, seizes her scruff, drags her downhill, bleeding paws and strain; stops at icy ravine edge.
 T303: Poppy continues fighting. Rhydian grips fur/skin around upper head behind ears in jaws, drags her down to broad ledge, releases and blocks uphill path.
 T304: Poppy lies down exhausted; Rhydian shifts human, orders blankets and litter, lifts her in his arms to descend.
-T305: Poppy refuses to look at Rhydian or shift back from wolf form while he carries her. He reacts angrily to her silence but does not force a shift; returns on litter to Blackthorn, Elara approaches to examine her.
-T306: Poppy growls warning at Elara but remains still; litter moved into warm infirmary. Elara offers paw treatment while Rhydian orders compliance.
-T307: Poppy barks sharply at Rhydian in response to his command but does not pull her paw away from Elara. Elara takes this as permission for limited paw care, cleans grit and blood from front paw and identifies torn pads, no bone damage apparent; warns about malnourishment and cold, asks to examine belly next. Rhydian reacts angrily to bark, restrained by Elara's insistence on space. Poppy remains wolf, no fetal assessment yet. No image.
+T305: Poppy refuses to look at Rhydian or shift back from wolf form while he carries her; returns on litter to Blackthorn, Elara approaches.
+T306: Poppy growls warning at Elara but remains still; moved to warm infirmary.
+T307: Poppy barks at Rhydian but permits Elara to clean and bandage wounded front paw. Elara asks to examine pregnant belly.
+T308: Poppy lowers head and closes eyes, exhausted, not explicitly verbalizing permission. Elara gently palpates belly with warning and care; notes no immediate obvious rigid contraction or bleeding, detects faint fetal movement but cannot guarantee health from limited wolf-form exam. Rhydian is tense and controlling, presses for assurance; Elara says warmth, food, fluids, observation and a fuller exam when possible are necessary. Poppy stays wolf with eyes closed, her response open. No image.
