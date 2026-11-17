@@ -19,4 +19,5 @@ T327: Poppy accepts Rhydian's help. He lifts her out of bath, wraps her in towel
 T328: Poppy had been about to hug Rhydian after his tender care, but his criticism of her weight closes that opening. She shakes head, dresses, walks to bed. Rhydian asks whether she had been about to come to him before his comment.
 T329: Poppy nods yes. Rhydian apologizes and extends his hand inviting her to him.
 T330: Poppy playfully slaps Rhydian's offered hand away twice, pouting; he pulls her close carefully and she does not protest. They cuddle in bed; hurt and paternity uncertainty remain.
-T331: Poppy deliberately places Rhydian's hand on her six-month pregnant belly just as baby kicks. Rhydian feels a distinct kick for himself; is stunned, deeply affected, hesitant to claim paternity, and keeps his palm there gently, asking if baby does that often. The movement proves vitality, not paternity. No image.
+T331: Poppy places Rhydian's hand on pregnant belly as baby kicks; he is astonished, keeps hand there, asks if baby kicks often. Movement does not establish paternity.
+T332: Poppy replies, 'Constantly, especially at night.' Rhydian responds with rough humor and quiet regret at having missed nights of feeling movement, keeps his hand on her belly and asks whether kicks keep her awake. The unresolved paternity remains unspoken in this moment. No image.
