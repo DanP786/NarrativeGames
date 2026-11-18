@@ -1,5 +1,5 @@
-# Current scene — Blackthorn Keep, Daine's cell doorway, eastern detention wing, morning
-- Last turn: S01 T477. Poppy commands 'No, open the cell. Now.' With Rowan safely back in nursery, older guard complies but insists guards remain immediately outside and door not locked while Luna is inside; younger guard unlocks Daine's cell. Door is open, Daine stands inside and sees Poppy returned without the child. Poppy has not yet entered or spoken further.
-- Daine detained, not released; has not seen Rowan. Senior guard earlier stated obligation to report first visit to Rhydian, report not confirmed delivered. Paternity secret known only to Poppy, Rhydian, Elara, Daine.
+# Current scene — Blackthorn Keep, inside Daine's detention cell, morning
+- Last turn: S01 T478. Poppy enters Daine's cell furious and commands guards to close the door. Older guard complies with door shut but explicitly refuses to lock it or leave their station; both guards remain immediately outside within earshot of raised voices. Poppy and Daine are inside; Daine stays back and asks whether Rowan is all right. Poppy's reply pending.
+- Rowan safely with nursery nurse, Daine has heard but not seen him. Daine detained, not released. Paternity secret known only to Poppy, Rhydian, Elara, Daine; guards unaware. Senior guard previously stated obligation to report visit to Rhydian; delivery unconfirmed.
 - Rhydian last known family chambers; silver Luna collar off on bedside table.
-- Next turn T478. First-person Poppy POV, present tense; no telepathy.
+- Next turn T479. First-person Poppy POV, present tense; no telepathy.
