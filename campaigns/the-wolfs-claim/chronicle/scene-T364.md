@@ -1,0 +1,1 @@
+T364: When Yselle asks whether baby Rowan will like her when older, Poppy smiles and replies, 'I think he will yes.' Yselle is delighted and promises to teach Rowan games when he is bigger. Seraphine is pleased by Poppy's kindness, Rhydian dryly teases, and Rowan stirs in Poppy's arms. In great hall with visiting family; Rowan paternity unresolved, Elowen secret. No image.
