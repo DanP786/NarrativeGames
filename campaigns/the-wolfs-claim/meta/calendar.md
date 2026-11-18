@@ -1,5 +1,5 @@
-- Date: First night after the autumn raid, year unspecified
-- Season: autumn
-- Time of day: night
-- Location: great hall of the warlord's fortress
-- Notable upcoming: division of captives at victory feast
+- Date: Several weeks after Rowan's birth, exact in-world date/year unspecified
+- Season: autumn moving toward winter
+- Time of day: morning
+- Location: Blackthorn Keep, eastern detention wing, guarded threshold of Daine Gregory's accommodation
+- Notable upcoming: Poppy has arrived holding infant Rowan; guards ask if Rhydian authorized a visit; Daine has heard her and the baby but has not seen Rowan. Daine's fate unresolved. Millford Crossing bridge damage complicates grain convoy; detour or repairs not yet decided. Lucan and Mara have not answered invitation to return. Elara's winter illness tracking report due in approximately a fortnight from its commissioning.
