@@ -1,7 +1,6 @@
 # Current scene — Blackthorn Keep, eastern detention wing, morning
-- Last turn: S01 T471. Poppy carries infant Rowan from the nursery to Daine Gregory's guarded accommodation after the nurse leaves.
-- Guards, unaware that Rowan is biologically Daine's, question the unapproved visit and block entry. They ask whether Alpha Rhydian authorised her visit. Daine hears Poppy and the baby from beyond the locked inner door and calls out to her. No meeting has occurred.
-- Daine is alive and detained; his legal fate unresolved. Rowan safe in Poppy's arms.
-- Paternity secret: only Poppy, Rhydian, Elara and Daine know.
-- Poppy's grief and her relationship with Rowan remain unresolved. Rhydian knows she is distressed and could not face Rowan; he does not know she brought Rowan here.
-- Next turn T472. First-person Poppy POV, present tense; no wolf speech or telepathy.
+- Last turn: S01 T472. Holding Rowan at Daine Gregory's guarded accommodation, Poppy tells guards: 'I will remind you that he is also my child. Where I go, he goes. And I have business with the prisoner.'
+- Guards recognize her authority as Luna but distinguish access to prisoner from bringing the publicly acknowledged Alpha heir into confinement. Senior guard offers supervised access through secure interview chamber while maintaining protection and reporting visit up chain; guards cannot simply waive security. Daine has heard Poppy and Rowan but has not yet seen Rowan. Poppy's next response pending.
+- Daine alive and detained; no verdict. Paternity secret known only to Poppy, Rhydian, Elara and Daine; guards unaware.
+- Rhydian last known in family chambers, unaware Poppy has brought Rowan here. Poppy's grief unresolved. Silver Luna collar remains off in bedchamber.
+- Next turn T473. First-person Poppy POV, present tense; no telepathy.
