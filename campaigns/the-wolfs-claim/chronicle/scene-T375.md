@@ -1,0 +1,1 @@
+T375: When Rhydian asks whether he may hold her, Poppy says 'I'm furious' and slaps his chest. Rhydian absorbs the blow without retaliation or grabbing her, acknowledges her anger and that he earned it by concealing Elowen and leaving Poppy uncertain about Rowan. He remains available but does not demand comfort or forgiveness. Rowan is upstairs with night nurse; no image.
