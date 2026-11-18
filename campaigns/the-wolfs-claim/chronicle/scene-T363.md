@@ -1,0 +1,1 @@
+T363: Poppy offers a kind smile in response to young Yselle's request to sit beside her while holding Rowan. Yselle takes the smile as welcome and sits carefully; Seraphine observes warmly, and Rhydian watches over the interaction. The scene remains in the Blackthorn great hall with visiting Varr families. Rowan's paternity unresolved; Elowen remains secret. No image.
