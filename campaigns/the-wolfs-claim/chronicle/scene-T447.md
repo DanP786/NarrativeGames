@@ -1,0 +1,1 @@
+T447: On the bed in their shared chamber, Poppy releases her grip on Rhydian's shirt enough to wrap her arms around him, continuing to cry in small, soft sobs. Rhydian gently embraces her, settles beside her to support her, and remains quiet and patient, not asking for explanations or assuming she has forgiven him. Her private feelings about Rowan remain undisclosed. No image.
