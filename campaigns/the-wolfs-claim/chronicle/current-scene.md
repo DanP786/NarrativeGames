@@ -1,5 +1,5 @@
-# Current scene — Blackthorn Keep, inside Daine's detention cell, morning
-- Last turn: S01 T485. Poppy shakes her head and says she does not know whether Rhydian has settled charges. Daine accepts her answer without pressing, says he would rather have truth than false reassurance, and quietly asks her not to make promises she cannot keep; he says if she speaks to Rhydian, she might ask for a clear hearing. He retains Rowan's worn bootie inside his shirt.
-- Rowan safely with nursery nurse. Daine detained, not released; has not seen Rowan. Guards outside shut but unlocked door can hear raised voices. Paternity secret known only to Poppy, Rhydian, Elara, Daine; guards unaware. Senior guard previously stated obligation to report visit to Rhydian; delivery unconfirmed.
-- Rhydian last known family chambers; silver Luna collar off on bedside table.
-- Next turn T486. First-person Poppy POV, present tense; no telepathy.
+# Current scene — Blackthorn Keep, outside Rhydian's study, morning
+- Last turn: S01 T486. Poppy sighs, steps away from Daine, commands guards to open the cell door; guards open and she strides out. She heads directly to Rhydian's study, reaching its closed door, where she can hear Rhydian speaking with a subordinate about routine keep business. No entry or conversation with Rhydian yet. Daine remains confined and keeps Rowan's worn bootie.
+- Rowan safely with nursery nurse. Daine has not seen Rowan. Guards know Poppy visited Daine but not paternity secret; senior guard previously stated obligation to report visit to Rhydian, delivery unconfirmed. Paternity secret known only to Poppy, Rhydian, Elara, Daine.
+- Rhydian's silver Luna collar off on shared bedchamber bedside table.
+- Next turn T487. First-person Poppy POV, present tense; no telepathy.
