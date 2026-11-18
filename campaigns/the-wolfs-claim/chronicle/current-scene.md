@@ -1,5 +1,5 @@
-# Current scene — Blackthorn Keep, corridor outside Rhydian's study, late morning
-- Last turn: S01 T499. Poppy shakes her head, says 'this is your study,' and leaves. Rhydian does not stop her; he quietly says her name but lets her go. She emerges into administrative corridor where guards stand outside, and is free to choose where to go next. Rhydian remains in study, distressed; no Daine resolution.
-- Rowan safely with nursery nurse. Daine confined, keeps Rowan's worn bootie; has not seen Rowan but heard him. Detention guards stationed outside cell; senior guard said he would report visit, delivery unconfirmed. Paternity secret known only to Poppy, Rhydian, Elara, Daine. Rhydian does not know about bootie or Poppy's wish for Daine's freedom.
-- Rhydian's silver Luna collar off on shared bedchamber bedside table.
-- Next turn T500. First-person Poppy POV, present tense; no telepathy.
+# Current scene — Blackthorn Keep, great hall after winter council, months later
+- Last turn: S01 T500. Player establishes a months-long time skip: Poppy spends time raising Rowan, performs Luna duties, shows Rhydian affection but sits beside him rather than on his lap, never contradicts him and defers decisions to his authority. Narration shows this sustained pattern through winter, with Rhydian increasingly disturbed by her absence of disagreement and emotional distance despite affectionate gestures. At a winter council he asks her opinion on a proposed grain allocation; she defers, and after council he privately observes she has not argued with him in months, asking if this is the peace she wanted. No answer yet.
+- Rowan older by several months, cared for by Poppy and nursery staff; Rhydian continues acknowledging him as son/heir. Daine's fate unresolved; no release or verdict established by player, and he retains Rowan's bootie. Paternity secret known only to Poppy, Rhydian, Elara, Daine. Rhydian does not know of bootie gift or Poppy's earlier wish for Daine's freedom.
+- Season now winter, exact date unspecified. Silver Luna collar last known off on shared bedchamber bedside table.
+- Next turn T501. First-person Poppy POV, present tense; no telepathy.

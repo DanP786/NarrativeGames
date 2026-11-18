@@ -1,5 +1,5 @@
-- Date: Several weeks after Rowan's birth, exact in-world date/year unspecified
-- Season: autumn moving toward winter
-- Time of day: morning
-- Location: Blackthorn Keep, eastern detention wing, guarded threshold of Daine Gregory's accommodation
-- Notable upcoming: Poppy has arrived holding infant Rowan; guards ask if Rhydian authorized a visit; Daine has heard her and the baby but has not seen Rowan. Daine's fate unresolved. Millford Crossing bridge damage complicates grain convoy; detour or repairs not yet decided. Lucan and Mara have not answered invitation to return. Elara's winter illness tracking report due in approximately a fortnight from its commissioning.
+- Date: Several months after Rowan's birth; exact in-world date/year unspecified.
+- Season: winter.
+- Time of day: late afternoon after winter council.
+- Location: Blackthorn Keep, great hall, council dispersing.
+- Notable: Poppy has spent months raising Rowan, attending Luna duties, offering Rhydian affection while deferring all authority and never contradicting him. Rhydian has noticed the change and raised it privately after council. Rowan is several months old and publicly acknowledged as Rhydian's heir. Daine's confinement and fate remain unresolved in the established scene; no verdict established. Millford Crossing, Lucan/Mara, and other political threads remain unresolved absent further play.
