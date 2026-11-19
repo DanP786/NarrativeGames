@@ -1,6 +1,6 @@
-# Current scene — Blackthorn Keep, empty side room off inner corridor, winter day
-- Last turn: S01 T526. Poppy smiles and tells Daine she would have loved their imagined house and believes they would have been happy, then grows sad and says she wants to help him by speaking with Rhydian. Daine is visibly moved, thanks her, and urges her not to risk herself or make promises Rhydian has not agreed to. He says he will wait for her word and will not approach Rowan uninvited. They remain in side room; Poppy's next action open.
+# Current scene — Blackthorn Keep, Rhydian's study, winter day
+- Last turn: S01 T527. After her private talk with Daine, Poppy privately feels a small flare of anger at losing their imagined married life and apple-tree cottage; she does not voice it. She leaves Daine and goes directly to Rhydian's study. Rhydian is working over winter provisioning papers, greets her warmly, notices her serious expression and invites her to speak. Poppy has not yet raised Daine's proposed pack membership or access to Rowan. Rhydian has no knowledge of her private meeting or anger unless told.
 - New pregnancy known to Poppy, Rhydian, healer Elara, and Daine Gregory. Rhydian does NOT know Poppy told Daine, nor her deliberate pregnancy plan or persistent private low mood.
 - Rowan six months old, thriving; publicly acknowledged son and heir of Rhydian, though biological father Daine. Daine tried and released, prior confinement counted as sentence; he retains Rowan's bootie unless later established otherwise. Paternity secret known only to Poppy, Rhydian, Elara, Daine. Rhydian does not know of bootie gift or Poppy's earlier wish for Daine's freedom.
 - Season winter, exact day/time unspecified. Silver Luna collar last known off on shared bedchamber bedside table.
-- Next turn T527. First-person Poppy POV, present tense; no telepathy.
+- Next turn T528. First-person Poppy POV, present tense; no telepathy.
