@@ -1,5 +1,5 @@
 - Date: Approximately one month after the winter council and shared-bedchamber scene; Rowan is now six months old; exact date/year unspecified.
 - Season: winter.
 - Time of day: morning.
-- Location: Blackthorn Keep, private solar adjoining bedchamber.
-- Notable: Healer Elara has confirmed Poppy is pregnant again. Poppy privately planned another pregnancy and considers it successful; Rhydian does not know this motivation. Poppy continues to defer to Rhydian in almost everything except sexual teasing, and her low mood persists. Rowan is six months old, publicly Rhydian's heir; Daine's fate remains unresolved. Other political threads remain unresolved absent further play.
+- Location: Blackthorn Keep, family nursery.
+- Notable: Healer Elara has confirmed Poppy is pregnant again; pregnancy private to Poppy, Rhydian and Elara. Poppy privately planned pregnancy and considers it successful; Rhydian does not know this motivation. Poppy continues to defer to Rhydian in almost everything except sexual teasing, and her low mood persists. Rowan is six months old, publicly Rhydian's heir. Daine Gregory has been tried and released, with his prior imprisonment counted as his full sentence; release date, trial details and present whereabouts unspecified. Other political threads remain unresolved absent further play.
