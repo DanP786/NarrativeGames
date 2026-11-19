@@ -1,5 +1,5 @@
-- Date: Several months after Rowan's birth; exact in-world date/year unspecified.
+- Date: Approximately one month after the winter council and shared-bedchamber scene; Rowan is now six months old; exact date/year unspecified.
 - Season: winter.
-- Time of day: late afternoon after winter council.
-- Location: Blackthorn Keep, great hall, council dispersing.
-- Notable: Poppy has spent months raising Rowan, attending Luna duties, offering Rhydian affection while deferring all authority and never contradicting him. Rhydian has noticed the change and raised it privately after council. Rowan is several months old and publicly acknowledged as Rhydian's heir. Daine's confinement and fate remain unresolved in the established scene; no verdict established. Millford Crossing, Lucan/Mara, and other political threads remain unresolved absent further play.
+- Time of day: morning.
+- Location: Blackthorn Keep, private solar adjoining bedchamber.
+- Notable: Healer Elara has confirmed Poppy is pregnant again. Poppy privately planned another pregnancy and considers it successful; Rhydian does not know this motivation. Poppy continues to defer to Rhydian in almost everything except sexual teasing, and her low mood persists. Rowan is six months old, publicly Rhydian's heir; Daine's fate remains unresolved. Other political threads remain unresolved absent further play.
