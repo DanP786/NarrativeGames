@@ -1,7 +1,7 @@
-# Current scene — Blackthorn Keep, family bedchamber, winter evening
-- Last turn: S01 T537. Poppy rests in the family apartments through afternoon and evening until Rhydian retires. Rhydian comes into their bedchamber after signing grain accounts and dealing with keep duties, affectionate and tired. He sits on the bed, kisses Poppy, recalls her promise of intimacy tonight, but first asks how she is truly feeling and offers to spend the evening as she wishes. Awaiting Poppy's response.
+# Current scene — Blackthorn Keep, family bedchamber, winter night
+- Last turn: S01 T538. Poppy says she is quite tired and holds out her hand. Rhydian takes it, warmly accepts that they will rest rather than have more intimacy, joins her in bed, and holds her. He tells her he was glad she asked him for something earlier despite it being about Daine, that he misses her independent voice, and that she is his Luna, not his shadow. He invites her to sleep, without demanding an answer. Poppy's next action open.
 - Rhydian agreed to give Daine a fair chance at probationary paid stable employment subject to Daine presenting himself through Corwin, assessment by stablemaster, and Rhydian's interview; no pack oath or access to Rowan granted.
 - New pregnancy known to Poppy, Rhydian, healer Elara, and Daine Gregory. Rhydian does NOT know Poppy told Daine, nor her deliberate pregnancy plan or persistent private low mood.
 - Rowan six months old, thriving; publicly acknowledged son and heir of Rhydian, though biological father Daine. Daine tried and released, prior confinement counted as sentence; he retains Rowan's bootie unless later established otherwise. Paternity secret known only to Poppy, Rhydian, Elara, Daine. Rhydian does not know of bootie gift or Poppy's earlier wish for Daine's freedom.
-- Season winter, evening. Silver Luna collar last known worn by Poppy; no removal narrated.
-- Next turn T538. First-person Poppy POV, present tense; no telepathy.
+- Season winter, night. Silver Luna collar last known worn by Poppy; no removal narrated.
+- Next turn T539. First-person Poppy POV, present tense; no telepathy.
