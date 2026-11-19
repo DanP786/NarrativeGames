@@ -1,6 +1,7 @@
-# Current scene — Blackthorn Keep, Rhydian's study, winter afternoon nearing evening
-- Last turn: S01 T536. Poppy smiles and tells Rhydian she will leave him to work but wants him again tonight; jokes that if she weren't already pregnant she'd think her body desperate for a child; kisses him and says she loves him. Rhydian warmly returns her love and desire, agrees to come to her tonight, reminds her to rest, and lets her leave the study without deciding where she goes next. He has western grain accounts to sign. Daine's conditional probationary stable employment offer stands, to be arranged through Corwin, with no pack oath or Rowan access granted.
+# Current scene — Blackthorn Keep, family bedchamber, winter evening
+- Last turn: S01 T537. Poppy rests in the family apartments through afternoon and evening until Rhydian retires. Rhydian comes into their bedchamber after signing grain accounts and dealing with keep duties, affectionate and tired. He sits on the bed, kisses Poppy, recalls her promise of intimacy tonight, but first asks how she is truly feeling and offers to spend the evening as she wishes. Awaiting Poppy's response.
+- Rhydian agreed to give Daine a fair chance at probationary paid stable employment subject to Daine presenting himself through Corwin, assessment by stablemaster, and Rhydian's interview; no pack oath or access to Rowan granted.
 - New pregnancy known to Poppy, Rhydian, healer Elara, and Daine Gregory. Rhydian does NOT know Poppy told Daine, nor her deliberate pregnancy plan or persistent private low mood.
 - Rowan six months old, thriving; publicly acknowledged son and heir of Rhydian, though biological father Daine. Daine tried and released, prior confinement counted as sentence; he retains Rowan's bootie unless later established otherwise. Paternity secret known only to Poppy, Rhydian, Elara, Daine. Rhydian does not know of bootie gift or Poppy's earlier wish for Daine's freedom.
-- Season winter, afternoon nearing evening. Silver Luna collar currently worn by Poppy.
-- Next turn T537. First-person Poppy POV, present tense; no telepathy.
+- Season winter, evening. Silver Luna collar last known worn by Poppy; no removal narrated.
+- Next turn T538. First-person Poppy POV, present tense; no telepathy.
