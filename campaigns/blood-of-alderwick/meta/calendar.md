@@ -1,0 +1,1 @@
+Date: ninth day after Alderwick raid, late autumn, evening. Location: cells under Karthraven fortress. Upcoming: interrogation of prisoners.

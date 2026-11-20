@@ -1,0 +1,1 @@
+Veyra Fenwick survives the Alderwick raid and is held beneath the fortress of the Alpha who authorised it.

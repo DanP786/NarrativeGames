@@ -1,0 +1,2 @@
+- Rovan | alive | Karthraven cells | Neutral | S01 opening interrogation
+- Edric Fenwick | missing | unknown | Friendly | before opening, Alderwick

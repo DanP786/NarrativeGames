@@ -1,0 +1,1 @@
+Status: sketch. Veyra wants freedom, answers about her missing brother and justice for her father. Obstacle: Alpha Rovan and his pack, responsible for the raid, and their mating customs. Question: can any relationship survive genuine blood grievance and incompatible ideas of freedom? No guaranteed reconciliation.

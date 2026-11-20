@@ -1,0 +1,1 @@
+Worn linen dress, wool stockings, battered boots. No tools or weapons.

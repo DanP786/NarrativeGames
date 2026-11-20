@@ -1,0 +1,1 @@
+Grounded medieval northern territory inhabited by humans and powerful shapeshifting werewolves. Karthraven fortress anchors the pack's territory. Human village Alderwick was raided nine days ago on Alpha Rovan's orders. Pack customs treat mate recognition as significant claim; human consent is independent of custom. Werewolves physically outmatch ordinary humans.

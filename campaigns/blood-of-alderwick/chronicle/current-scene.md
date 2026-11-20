@@ -1,0 +1,1 @@
+S01 T01. Evening, ninth day. Veyra in straw-lined cell, hungry and bruised. Alpha arrives with a guard, asks about missing scouts, stops abruptly upon scent recognition and orders guard outside. Asks Veyra her name. No player action yet.

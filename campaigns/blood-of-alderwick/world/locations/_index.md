@@ -1,0 +1,2 @@
+- Karthraven fortress — northern pack stronghold; underground cells.
+- Alderwick — human farrier village, damaged by raid nine days ago.
