@@ -1,1 +1,2 @@
 S01 T01. Evening, ninth day. Veyra in straw-lined cell, hungry and bruised. Alpha arrives with a guard, asks about missing scouts, stops abruptly upon scent recognition and orders guard outside. Asks Veyra her name. No player action yet.
+S01 T02. Veyra replies 'Fuck you' without giving her name. Rovan hardens, visibly unsettled by her condition but offers no concession; sits outside cell, explains three missing scouts and conflicting accounts, threatens another nine days captive and demands her name again.
