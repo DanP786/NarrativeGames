@@ -1,12 +1,12 @@
 # Daine Gregory
 
 ## Appearance (player-established canon)
+- Current age: 25 years, post-adjustment; do not add another year.
 - Height: 6 feet (183 cm).
 - Build: tall, lean.
 - Hair: sandy blonde.
 - Eyes: blue.
 - Clean-shaven, with a handsome smile.
-- Exact age unspecified here; existing age canon and the single post-S01 age adjustment remain authoritative.
 
 ## Identity and circumstances
 - Alive. Poppy's former lover and intended husband; biological father of Rowan.
@@ -25,4 +25,4 @@
 
 ## Portrayal
 - In public uses appropriate formal address for the Luna; in private may call her Poppy. Present circumstances require discretion.
-- Do not infer additional physical traits, exact age, or changes to disposition without established canon.
+- Do not infer additional physical traits or changes to disposition without established canon.
