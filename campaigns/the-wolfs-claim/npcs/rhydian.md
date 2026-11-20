@@ -1,8 +1,11 @@
 # Rhydian Varr
 
 ## Identity and description
-- Alive; werewolf; Alpha of Blackthorn, husband and fated mate of Poppy Cooper/Varr. Public father of Rowan; biological father of Elowen. Exact age and physical specifics not recoverable from current saved summaries; imposing, physically powerful warlord. Apply existing OOC age adjustment once if pre-adjustment age is recovered.
-- Voice and mannerisms (working interpretation): direct, authoritative, economical commands; expects obedience, uses deliberate silence and physical presence; dry amusement, including hiding a smile behind his wineglass. Affection does not make him uniformly gentle. Do not invent accent or exact appearance as established history.
+- Alive; werewolf; Alpha of Blackthorn, husband and fated mate of Poppy Cooper/Varr. Public father of Rowan; biological father of Elowen.
+- Age: 39, current age after time progression; do not apply further retrospective age adjustment. Werewolves age more slowly than humans, and Rhydian is very much in his physical prime.
+- Human form: 6 feet 4 inches tall, extremely broad and muscular, handsome, imposing; Alpha in personality and physicality. Shoulder-length black hair, stubble, scar running down his jaw, amber eyes (the mark of a werewolf).
+- Wolf form: largest wolf in his pack, approximately two to three times Poppy's size. Poppy is the smallest wolf in the pack, herself the size of a direwolf. Preserve this dramatic physical disparity; no exact dimensions or weight established.
+- Voice and mannerisms (working interpretation): direct, authoritative, economical commands; expects obedience, uses deliberate silence and physical presence; dry amusement, including hiding a smile behind his wineglass. Affection does not make him uniformly gentle. Do not invent accent as established history.
 - Traits: possessive, authoritarian, proud, fiercely protective of what he considers his family and pack; capable of pragmatic concessions without surrendering authority.
 
 ## Current psychological state — S01 T618 / S02 opening
@@ -63,4 +66,4 @@ Retrospective relational notes only; promote to tracked NPC-to-NPC meters when q
 - No telepathy, including through mate bond; cannot sense named thoughts or OOC disclosures.
 
 ## Provenance
-Created OOC at S02 opening from saved setup, tone rules, roster, narrative and S01 chronicle. Psychological motives, voice guidance and initial disposition estimates are GM interpretations consistent with existing canon, not newly witnessed events. No advancement of scene, calendar or session turn.
+Created OOC at S02 opening from saved setup, tone rules, roster, narrative and S01 chronicle. Psychological motives, voice guidance and initial disposition estimates are GM interpretations consistent with existing canon, not newly witnessed events. Age, physical appearance, slower werewolf aging and comparative wolf size supplied explicitly by player OOC at S02 opening. No advancement of scene, calendar or session turn.
