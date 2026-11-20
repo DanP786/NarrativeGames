@@ -1,5 +1,5 @@
 # Poppy Cooper / Varr
-- Age: 22
+- Age: 23 (OOC age adjustment after S01).
 - Species: werewolf (turned by bite); small black she-wolf with silver-blue eyes.
 - Appearance: petite, dark hair, freckles, striking pale silver-blue eyes.
 - Standing: Blackthorn Luna, Rhydian Varr's wife and mate; mother of six-month-old Rowan, stepmother to unacknowledged Elowen. Former schoolteacher.

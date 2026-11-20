@@ -1,3 +1,6 @@
+# NPC roster
+OOC canon adjustment after S01: every character's previously established current age increases by exactly one year, except Rowan, who remains six months old. Apply once only to pre-adjustment ages, including characters not listed here. Exact ages not established remain unspecified. This is a continuity adjustment, not elapsed story time; pregnancy, calendar, historical event dates and current scene remain unchanged.
+
 - Rhydian Varr | alive | Blackthorn Keep dining hall | Devoted | S01 T618; Alpha, Poppy's husband/mate; publicly Rowan's father/heir protector; knows pregnancy, unaware Daine knows.
 - Rowan | alive | Blackthorn family nursery (last known) | Neutral | S01 T616; six months, Poppy's son, publicly Rhydian's heir, biologically Daine's; secret.
 - Daine Gregory | alive | Blackthorn stables | Wary | S01 T581; former intended husband, tried/released time served, probationary paid stable worker; knows paternity and pregnancy; retains bootie, never held Rowan; knows Poppy donor of gifts; requested private conversation.
