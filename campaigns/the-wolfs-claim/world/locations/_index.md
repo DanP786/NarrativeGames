@@ -1,1 +1,7 @@
-- Warlord's fortress | fortified werewolf seat; great hall hosts victory feast | opening location
+- Blackthorn Keep | fortified werewolf seat; great hall hosted opening victory feast; current home of Rhydian and Poppy
+- Family nursery | Rowan's nursery within keep
+- Stables | Daine's probationary workplace and quarters above far end
+- West guest chambers | Vivienne and Elowen visiting
+- Village school | Poppy's former pupils including Hari; visit tomorrow
+- Ashfell border garrison | Captain Hadrik sheltered Poppy during flight
+- Millford Crossing | damaged bridge, grain transport issue unresolved

@@ -1,9 +1,9 @@
-# Poppy Cooper
+# Poppy Cooper / Varr
 - Age: 22
-- Species: werewolf (turned by bite about a year ago); small black she-wolf with silver-blue eyes.
+- Species: werewolf (turned by bite); small black she-wolf with silver-blue eyes.
 - Appearance: petite, dark hair, freckles, striking pale silver-blue eyes.
-- Standing: Blackthorn Luna, Rhydian Varr's mate; mother of infant Rowan, born several weeks ago.
-- Current state: physically recovered from childbirth and recent wilderness flight, but emotionally distressed and estranged from Rowan after a secret bloodline rite proved his biological father is Daine Gregory, not Rhydian. Has denied intent to kill herself; told Rhydian Rowan needs a mother. She has now held Rowan again and brought him to Daine's guarded detention door. Exact feelings and decisions remain player-controlled.
-- Location: eastern detention wing threshold, holding Rowan; guards blocking unauthorised access; Daine has heard her outside.
+- Standing: Blackthorn Luna, Rhydian Varr's wife and mate; mother of six-month-old Rowan, stepmother to unacknowledged Elowen. Former schoolteacher.
+- Current state: caring for Rowan again after distress following private bloodline rite establishing Daine as biological father. Early second pregnancy confirmed by Elara; privately planned by Poppy; persistent private low mood, exact feelings player-controlled. Rhydian unaware of plan and full extent of distress. Poppy, Rhydian, Daine and Elara alone know paternity and pregnancy; Rhydian unaware Daine knows pregnancy.
+- Location: Blackthorn dining hall, winter supper with Rhydian, Elowen and Vivienne.
 - Goals: player-defined; maintain agency and navigate family, motherhood, pack politics and grief.
-- Agency: player controls consequential actions, speech, and private thoughts.
+- Agency: player controls consequential actions, speech and private thoughts.

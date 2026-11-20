@@ -1,15 +1,18 @@
-- Rhydian Varr | alive | Blackthorn Keep, study/family chambers (last known) | Devoted | Alpha and Poppy's mate; publicly acknowledges Rowan as son and heir despite private paternity result; worried about Poppy's prolonged deference; learned of new pregnancy privately.
-- Rowan | alive | Blackthorn Keep, family nursery (last known) | Neutral | Six-month-old son of Poppy, publicly Rhydian's son/heir, biologically Daine's; paternity secret.
-- Daine Gregory | alive | Blackthorn Keep, empty side room off inner corridor with Poppy | Wary | Former lover; tried and released after prior imprisonment counted as full sentence; knows Rowan is biologically his; retains Rowan's worn bootie; intercepted Poppy privately S01 T520, asking after Rowan. Does not know new pregnancy.
-- Elara | alive | Blackthorn Keep, infirmary/household | Friendly | Healer, knows private paternity and new pregnancy, confidential.
-- Lucan Varr | alive | Blackthorn Keep, visiting with Mara and Nessa (precise whereabouts unconfirmed) | Wary | Rhydian's estranged brother; considering permanent return after apology.
-- Mara | alive | Blackthorn Keep, visiting with Lucan and Nessa (precise whereabouts unconfirmed) | Neutral | Lucan's partner; family return undecided.
-- Nessa | alive | Blackthorn Keep, visiting with parents (precise whereabouts unconfirmed) | Neutral | Lucan and Mara's young daughter.
-- Seraphine Varr | alive | Blackthorn Keep, visiting (precise whereabouts unconfirmed) | Friendly | Rhydian's sister, bonded with Poppy.
-- Edric | alive | Blackthorn Keep, visiting (precise whereabouts unconfirmed) | Neutral | Seraphine's husband.
-- Alden | alive | Blackthorn Keep, visiting (precise whereabouts unconfirmed) | Neutral | Seraphine's son.
-- Yselle | alive | Blackthorn Keep, visiting (precise whereabouts unconfirmed) | Friendly | Seraphine's young daughter.
-- Elowen Varr | alive | Away from Blackthorn with her mother | Neutral | Rhydian's unacknowledged biological daughter; recognition discussed but not completed.
-- Master Corwin | alive | Blackthorn Keep, steward's office (last known) | Friendly | Assists Poppy's Luna administration, winter relief.
-- Captain Hadrik | alive | Ashfell border garrison | Friendly | Sheltered and escorted lost Poppy discreetly.
-- Torren | alive | Blackthorn forest patrol | Friendly | Recognized Poppy on her return.
+- Rhydian Varr | alive | Blackthorn Keep dining hall | Devoted | S01 T618; Alpha, Poppy's husband/mate; publicly Rowan's father/heir protector; knows pregnancy, unaware Daine knows.
+- Rowan | alive | Blackthorn family nursery (last known) | Neutral | S01 T616; six months, Poppy's son, publicly Rhydian's heir, biologically Daine's; secret.
+- Daine Gregory | alive | Blackthorn stables | Wary | S01 T581; former intended husband, tried/released time served, probationary paid stable worker; knows paternity and pregnancy; retains bootie, never held Rowan; knows Poppy donor of gifts; requested private conversation.
+- Elara | alive | Blackthorn infirmary/household | Friendly | healer knows private paternity and pregnancy, confidential.
+- Lucan Varr | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Wary | considering permanent return after apology.
+- Mara | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Neutral | Lucan's partner.
+- Nessa | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Neutral | Lucan and Mara's daughter.
+- Seraphine Varr | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Friendly | Rhydian's sister, bonded with Poppy.
+- Edric | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Neutral | Seraphine's husband.
+- Alden | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Neutral | Seraphine's son.
+- Yselle | alive | Blackthorn visiting (precise whereabouts unconfirmed) | Friendly | Seraphine's daughter.
+- Elowen Varr | alive | Blackthorn dining hall, west guest chambers | Friendly | S01 T618; Rhydian's unacknowledged biological daughter, apologized to Poppy, bonded with Rowan, plans school visit.
+- Lady Vivienne Ashcombe | alive | Blackthorn dining hall, west guest chambers | Wary | S01 T618; Elowen's mother, proud and class-conscious, former relationship with Rhydian, never married him; reluctant about village school.
+- Hari | alive | Blackthorn school (last known duties) | Friendly | S01 T606; former pupil of Poppy since age four, studies and delivers messages, surprise visit tomorrow.
+- Master Corwin | alive | Blackthorn steward's office (last known) | Friendly | S01 T616; assists Luna administration and winter relief.
+- Captain Hadrik | alive | Ashfell border garrison | Friendly | Sheltered and escorted Poppy discreetly.
+- Torren | alive | Blackthorn forest patrol | Friendly | Recognized Poppy on return.
+- Mistress Hester | alive | Blackthorn household | Friendly | supplied clothing for Daine anonymously at Poppy's request; prioritizes winter clothing for children.
