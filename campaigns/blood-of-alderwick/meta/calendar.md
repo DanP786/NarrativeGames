@@ -1,1 +1,1 @@
-Date: ninth day after Alderwick raid, late autumn, evening. Location: cells under Karthraven fortress. Upcoming: interrogation of prisoners.
+Date: tenth day after Alderwick raid, late autumn, early morning. Location: former steward room, inner keep, Karthraven fortress. Upcoming: ongoing prisoner questioning, wound follow-up, household dispute over confinement.
