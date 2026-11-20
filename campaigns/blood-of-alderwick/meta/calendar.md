@@ -1,1 +1,1 @@
-Date: tenth day after Alderwick raid, late autumn, early morning. Location: former steward room, inner keep, Karthraven fortress. Upcoming: ongoing prisoner questioning, wound follow-up, household dispute over confinement.
+Date: eleventh day after Alderwick raid, late autumn, first light. Location: former steward room, inner keep, Karthraven fortress. Upcoming: guarded farewell to departing villagers, Tomas fitness assessment, wound follow-up, discussion of useful work, household consequences of mate recognition.
