@@ -1,5 +1,5 @@
 - Date: 2079, several months after V's return from FIA treatment; exact date unspecified; day 3 of play
 - Season: unspecified
-- Time: evening, shortly after 18:00
-- Location: Corpo Plaza underground car park, City Center, Night City
-- Upcoming: clothes shopping, dinner, return to Arroyo apartment; access fob delivered, backpack reportedly in bedroom
+- Time: night, after dinner; exact time unspecified
+- Location: Dario's guarded apartment complex, Arroyo, Santo Domingo, Night City
+- Upcoming: move belongings into apartment, groceries tomorrow, proposed workshop inspection next day off; external security hardware enquiry
