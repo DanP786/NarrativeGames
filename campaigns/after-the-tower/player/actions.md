@@ -1,0 +1,1 @@
+Pre-campaign: survived Relic removal; completed friends' storylines; obtained gun-shop employment and generated substantial revenue through weapon upgrades.

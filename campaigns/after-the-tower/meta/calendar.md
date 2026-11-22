@@ -1,0 +1,5 @@
+- Date: 2079, several months after V's return from FIA treatment; exact date unspecified
+- Season: unspecified
+- Time: afternoon
+- Location: Second Hand Arms, Watson, Night City
+- Upcoming: customer seeking a weapon

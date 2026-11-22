@@ -1,0 +1,1 @@
+Known locally as an attractive, knowledgeable gun-shop employee. Customers generally like her; boss values her profitable technical work. Former merc reputation not assumed known to individual customers.

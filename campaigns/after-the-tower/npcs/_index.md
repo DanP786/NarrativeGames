@@ -1,0 +1,3 @@
+- Len Basko | alive | Second Hand Arms | Friendly | S01 (employer)
+- Unnamed local thug | alive | Second Hand Arms | Neutral | S01 (customer)
+- River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | pre-campaign

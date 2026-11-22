@@ -1,0 +1,1 @@
+Small independent gun shop in Watson. Security glass, counter, locked display racks, repair bench in rear, cheap fluorescent lighting. Owner Len Basko. V sells and upgrades shop stock. Customers include local gang associates and ordinary residents.

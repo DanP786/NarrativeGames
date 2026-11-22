@@ -1,0 +1,1 @@
+Night City following The Tower ending of Cyberpunk 2077. Johnny is gone; FIA surgery saved V but prevents combat cyberware use. Arasaka diminished, Militech influence expanded. Canon technology and characters; original local businesses and NPCs. Street-level economy and unequal power matter. No predetermined reunion or mercenary comeback.

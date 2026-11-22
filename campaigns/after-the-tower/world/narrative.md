@@ -1,0 +1,1 @@
+V survives the Tower ending and takes work at a gun shop, trying to survive without the chrome or relationships that once defined her.

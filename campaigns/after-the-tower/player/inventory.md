@@ -1,0 +1,1 @@
+Signature white-and-gold clothing, gold jewellery, black boots. Inactive cosmetic implant detailing. Personal funds, housing and other possessions not yet established. Shop stock is not personal property.

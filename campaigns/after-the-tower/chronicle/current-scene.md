@@ -1,0 +1,2 @@
+# Scene 1 — Second Hand Arms
+Afternoon. A local thug in a battered synthetic leather vest enters, smells of cigarettes, approaches V and asks for a new gun, budget 600 eddies. Wants something reliable and says his last gun jammed. Len is in the rear office. V has not responded.
