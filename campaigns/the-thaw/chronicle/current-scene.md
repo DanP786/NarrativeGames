@@ -13,11 +13,12 @@
 - **Caelum at the yard threshold, has not come in.** Master-of-arms voice, Caldros working register: *"Your Highness. The corridors are walked. Your woman is in the chamber. The lock closes from the inside. I'll be at the foot of the stair until the second of the watch. — My lord."* The last to Cassian, a half-degree of the inclination. Back out into the yard before he can be thanked.
 - **Sera's chamber:** top of the inn stair, second door on the right. The best room. Fire laid; two lamps lit; a small writing-table by the window; a deep bed in dark wool; a copper basin steaming on the stand. The two travelling-cases in the corner. The Holsbrand cloak on the peg, where anyone who comes through the door can see it. Window faces south; the road continues toward Verrentine in a thin grey line in the last of the light.
 - **Cassian's chamber is the door across the corridor.** He told her on the step as he handed her up. *(He did not, in saying it, say it as a question. He said it as information.)*
-- T01: Sera takes supper at the common table beside Cassian at seventh bell: venison stew, bread, onions, spiced wine; Lord Vesper tells a mule anecdote; Caelum remains at stair with cooling stew. After plates cleared Cassian invites her to wine before retiring, in Caldros; answer pending.
+- T01: Sera takes supper at the common table beside Cassian at seventh bell: venison stew, bread, onions, spiced wine; Lord Vesper tells a mule anecdote; Caelum remains at stair with cooling stew. After plates cleared Cassian invites her to wine before retiring, in Caldros.
+- T02: Sera accepts wine: "I would like that." Cassian brings two cups and jug to hearth bench apart from tables. First private Aerinic words, softly for her alone: "There you are, my love." Shoulder lightly against hers; asks how first day away from home has been.
 
 ## State as the scene opens
-- Supper completed at common table; Cassian's invitation pending.
-- **Aerinic** between her and Cassian still not yet surfaced. Both still in Caldros register. The first private exchange in Aerinic remains its own waiting beat.
+- Supper completed; Sera and Cassian seated beside hearth with wine.
+- **Aerinic** first private words spoken by Cassian; Sera's answer pending. Public register remains Caldros until border.
 - **The standing-rule of consent with Cassian** is operative for the first time in a private chamber not in either parent's court. The chamber across the corridor is the proximity Cassian has arranged.
 - Anwen is in Sera's chamber. Riva (Aerinhal maid-of-honour) somewhere in the house, working.
 - The Royal Guard's bunkhouse is half-cleared (other guests likely moved on by Caelum's working). Caelum at the foot of the stair until the second of the watch.
@@ -25,7 +26,7 @@
 - Cassian's working belief about Aldwin is, as of this evening, two weeks and one day out of date.
 
 ## Open threads carried from S03
-- The Aerinic switch — first private exchange awaited.
+- The Aerinic switch — initiated by Cassian; Sera's reply awaited.
 - The Aldwin question — neither knows.
 - Ostvar in Sera's head alone.
 - Cassian's preparation discovered incrementally — Sera will continue to find what he has thought about.
