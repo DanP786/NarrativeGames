@@ -1,2 +1,2 @@
 # Day 3 — evening pickup, Second Hand Arms
-Dario arrives in his Quadra at 18:00 and opens the passenger door from inside. V has finished her shift. Shopping, dinner, apartment key and return of backpack pending.
+Dario arrives in his Quadra at 18:00 and opens the passenger door from inside. V has finished her shift. V gets in and asks whether his men recovered the Mizutani. Dario claims they did after threatening to involve police, with owner claiming Valentino connections. He places her registered apartment access fob beside her and says backpack is already upstairs in bedroom. Driving toward city centre for shopping/dinner. Asks whether Len gave her trouble after morning farewell.
