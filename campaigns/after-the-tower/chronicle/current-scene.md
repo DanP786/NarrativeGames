@@ -7,3 +7,4 @@ Dario states he does not use protection; they have sex off-screen per player dir
 Dario holds V close; she mostly enjoys his touch while awake and falls asleep beside him in comfortable surroundings. No further commitments made. End of day 2 evening.
 Day 3 early morning: V wakes beside Dario to affectionate kisses. He is pleased by her response, asks how she slept and dismisses a holo notification. Breakfast and transport remain pending; no permanent move agreed.
 V tells Dario everything she owns fits in a backpack. He expresses surprise and offers to take her shopping after work for clothing and toiletries, assuming she will bring her belongings to his apartment. No purchases or relocation yet.
+V states Dive Drive rent is 100 eddies weekly under a one-year lock-in. Dario criticises the price and asks who the landlord is and whether he can inspect the contract for an exit. Lease remains active; no cancellation or authorisation to intervene.
