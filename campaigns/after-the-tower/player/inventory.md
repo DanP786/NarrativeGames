@@ -1,1 +1,1 @@
-Signature white-and-gold clothing, gold jewellery, black boots. Inactive cosmetic implant detailing. Personal funds, housing and other possessions not yet established. Shop stock is not personal property.
+Current outfit: second-hand black combat trousers, black combat boots and grey band crop top. Signature aesthetic white and gold; expensive-looking cosmetics and inactive gold implant detailing. Rents a tiny storage container in low-income accommodation. No car. Personal funds and other possessions not established. Shop stock is not personal property.
