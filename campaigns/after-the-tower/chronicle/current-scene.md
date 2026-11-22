@@ -1,2 +1,2 @@
-# Next scene — Second Hand Arms, day 3 morning
-V at shop entrance, green catsuit and black combat boots. Len has observed her farewell kiss and says, “Well, well. Someone's had an interesting night.” V has not answered. Dario departed with her backpack, intends pickup at 18:00 and shopping/dinner; apartment key pending. Dive Drive tenancy surrendered. See session-01 for completed beats.
+# Day 3 — evening pickup, Second Hand Arms
+Dario arrives in his Quadra at 18:00 and opens the passenger door from inside. V has finished her shift. Shopping, dinner, apartment key and return of backpack pending.

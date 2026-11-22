@@ -1,5 +1,5 @@
 - Date: 2079, several months after V's return from FIA treatment; exact date unspecified; day 3 of play
 - Season: unspecified
-- Time: morning, before work shift; exact time not established
-- Location: entrance to Second Hand Arms, Watson, Night City
-- Upcoming: work shift, Dario pickup at 18:00, shopping and dinner, promised apartment key and return of backpack
+- Time: evening, 18:00
+- Location: outside Second Hand Arms, Watson, Night City
+- Upcoming: shopping and dinner, promised apartment key and return of backpack
