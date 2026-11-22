@@ -1,6 +1,4 @@
-# Scene 2 — Rear alley, Second Hand Arms
+# Scene 2 — Rear alley to Japantown
 Previous day: local thug bought V's reworked Unity for 450 eddies, offered dinner, ignored her refusal, learned shift end from Len. V avoided him by leaving through rear exit at 18:00. He waited nearly an hour; Len eventually told him she had gone home.
-Next day 18:04: V exits rear door wearing tight green catsuit and black combat boots. Thug is waiting against opposite wall smoking, approaches and insists on taking her somewhere nice in his car round the corner. Alley empty; rear shop door within reach and street accessible, neither physically blocked. V has not responded verbally.
-Thug puts arm round V's waist and guides her to car; V permits this. Dark red Quadra with scratched passenger door. He opens passenger door and says he intends to take her to a place in Japantown for food and drinks at his expense.
-V enters passenger seat because she considers refusal too dangerous. No romantic consent inferred. Thug introduces himself as Dario, drives towards Japantown and asks V's name.
-V answers “Just you” when asked who gives her trouble and identifies herself as V. Dario touches her thigh and interferes with her clothing without permission. Traffic slows at junction near restaurants and bars. Dario says almost there.
+Next day 18:04: V exits rear door wearing tight green catsuit and black combat boots. Thug waits, approaches, guides her by waist to dark red Quadra. V enters passenger seat because she considers refusal too dangerous. No romantic consent inferred. Thug introduces himself as Dario, drives towards Japantown and asks V's name.
+V answers “Just you” when asked who gives her trouble and identifies herself as V. Dario touches her thigh and interferes with her clothing without permission. V is indifferent. They arrive outside a small Japantown restaurant; proprietor recognises Dario and waves. Dario says they know him here. V remains in passenger seat.
