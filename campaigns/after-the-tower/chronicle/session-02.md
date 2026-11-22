@@ -1,2 +1,2 @@
 # Session 02
-Day 3: V rolls her eyes at Len's teasing; he drops the subject. Her shift passes steadily. Dario arrives at 18:00 as promised.
+Day 3: V rolls her eyes at Len's teasing; he drops the subject. Her shift passes steadily. Dario arrives at 18:00 as promised. In the Quadra V asks about the Mizutani; Dario claims the recovery succeeded, delivers an apartment access fob and reports her backpack is in the bedroom. V has no preferred clothing shop, so Dario chooses Corpo Plaza and offers to buy clothes, shoes and jackets.

@@ -1,5 +1,5 @@
 - Date: 2079, several months after V's return from FIA treatment; exact date unspecified; day 3 of play
 - Season: unspecified
-- Time: evening, 18:00
-- Location: outside Second Hand Arms, Watson, Night City
-- Upcoming: shopping and dinner, promised apartment key and return of backpack
+- Time: evening, shortly after 18:00
+- Location: Corpo Plaza underground car park, City Center, Night City
+- Upcoming: clothes shopping, dinner, return to Arroyo apartment; access fob delivered, backpack reportedly in bedroom
