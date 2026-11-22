@@ -15,10 +15,11 @@
 - **Cassian's chamber is the door across the corridor.** He told her on the step as he handed her up. *(He did not, in saying it, say it as a question. He said it as information.)*
 - T01: Sera takes supper at the common table beside Cassian at seventh bell: venison stew, bread, onions, spiced wine; Lord Vesper tells a mule anecdote; Caelum remains at stair with cooling stew. After plates cleared Cassian invites her to wine before retiring, in Caldros.
 - T02: Sera accepts wine: "I would like that." Cassian brings two cups and jug to hearth bench apart from tables. First private Aerinic words, softly for her alone: "There you are, my love." Shoulder lightly against hers; asks how first day away from home has been.
+- T03: Sera replies that it feels like an adventure rather than the start of something new so far. Cassian welcomes this, jokes about his father's early breakfast, asks what she wants to do in Verrentine for herself beyond wedding and duties.
 
 ## State as the scene opens
 - Supper completed; Sera and Cassian seated beside hearth with wine.
-- **Aerinic** first private words spoken by Cassian; Sera's answer pending. Public register remains Caldros until border.
+- **Aerinic** first private exchange begun at hearth. Public register remains Caldros until border.
 - **The standing-rule of consent with Cassian** is operative for the first time in a private chamber not in either parent's court. The chamber across the corridor is the proximity Cassian has arranged.
 - Anwen is in Sera's chamber. Riva (Aerinhal maid-of-honour) somewhere in the house, working.
 - The Royal Guard's bunkhouse is half-cleared (other guests likely moved on by Caelum's working). Caelum at the foot of the stair until the second of the watch.
@@ -26,7 +27,7 @@
 - Cassian's working belief about Aldwin is, as of this evening, two weeks and one day out of date.
 
 ## Open threads carried from S03
-- The Aerinic switch — initiated by Cassian; Sera's reply awaited.
+- The Aerinic switch — begun at hearth.
 - The Aldwin question — neither knows.
 - Ostvar in Sera's head alone.
 - Cassian's preparation discovered incrementally — Sera will continue to find what he has thought about.
