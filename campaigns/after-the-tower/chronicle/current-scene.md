@@ -1,2 +1,2 @@
-# Day 3 — night, Arroyo apartment complex
-V and Dario arrive after dinner. Guard confirms V's access registration. Dario retrieves shopping bags and invites V to try her fob. V wears ivory dress and heels. Workshop proposal remains unaccepted, inspection next day off suggested. Backpack reportedly in bedroom. Wardrobe space and grocery shopping tomorrow discussed.
+# Day 3 — night, Arroyo apartment
+V and Dario arrive after dinner. Guard confirms V's registration; V successfully unlocks entrance with fob. Upstairs Dario sets boutique bags in bedroom; V removes heels and starts unpacking. Backpack confirmed beside wardrobe. Dario clears hanging space and two drawers for her, then gets beer in kitchen. Workshop proposal remains unaccepted, inspection next day off suggested; groceries tomorrow discussed.
