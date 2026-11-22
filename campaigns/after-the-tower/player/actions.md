@@ -1,1 +1,2 @@
 Pre-campaign: survived Relic removal; completed friends' storylines; obtained gun-shop employment and generated substantial revenue through weapon upgrades.
+S01: sold reworked Unity to Dario for 450 eddies (shop sale). Agreed to move into his apartment and surrendered Dive Drive tenancy after he settled balance. No wider reputation effect established.

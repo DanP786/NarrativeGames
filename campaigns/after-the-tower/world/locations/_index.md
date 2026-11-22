@@ -1,1 +1,5 @@
 - Second Hand Arms | Watson | independent gun shop, V's workplace
+- Dive Drive | Night City | low-income container accommodation, V's former residence; tenancy surrendered day 3
+- Dario's apartment | Arroyo, Santo Domingo | fourth-floor apartment in guarded complex, V's agreed new residence; key pending
+- Japantown restaurant | Japantown | unnamed red-neon restaurant, proprietor knows Dario
+- Dario's vehicle recovery workshop | Arroyo | claimed business premises, not yet visited

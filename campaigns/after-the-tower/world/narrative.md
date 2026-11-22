@@ -1,1 +1,5 @@
 V survives the Tower ending and takes work at a gun shop, trying to survive without the chrome or relationships that once defined her.
+
+Her technical expertise remains valuable but wages leave her in a sparse rented container. Persistent customer Dario ignores her initial refusal and offers a materially comfortable life in a traditional arrangement. V privately decides to use his interest to secure support, agrees to move in and spends a night at his apartment.
+
+Dario settles her remaining lease and V surrenders independent accommodation, eliminating her weekly rent without agreeing to repay him. The possibility of stability now carries dependence on a possessive man whose business and finances are not independently verified. V retains her employment and earnings under their stated arrangement; a new apartment key is promised but not yet delivered.

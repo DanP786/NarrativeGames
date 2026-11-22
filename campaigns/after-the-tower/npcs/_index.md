@@ -1,3 +1,4 @@
-- Len Basko | alive | Second Hand Arms | Friendly | S01 (employer)
-- Unnamed local thug | alive | Second Hand Arms | Neutral | S01 (customer)
+- Len Basko | alive | Second Hand Arms | Friendly | last seen S01 day 3 (observed V's farewell)
+- Dario | alive | Night City, departed Second Hand Arms for work | Friendly | last seen S01 day 3 (paid lease, planned pickup)
 - River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | pre-campaign
+- Dive Drive clerk | alive | Dive Drive management office | Wary | last seen S01 day 3 (confrontation during tenancy surrender)
