@@ -1,5 +1,5 @@
-- Date: 2079, several months after V's return from FIA treatment; exact date unspecified
+- Date: 2079, several months after V's return from FIA treatment; exact date unspecified; day 2 of play
 - Season: unspecified
-- Time: afternoon
-- Location: Second Hand Arms, Watson, Night City
-- Upcoming: customer seeking a weapon
+- Time: 18:04
+- Location: rear alley, Second Hand Arms, Watson, Night City
+- Upcoming: unwanted encounter with persistent customer
