@@ -1,2 +1,3 @@
 Pre-campaign: survived Relic removal; completed friends' storylines; obtained gun-shop employment and generated substantial revenue through weapon upgrades.
 S01: sold reworked Unity to Dario for 450 eddies (shop sale). Agreed to move into his apartment and surrendered Dive Drive tenancy after he settled balance. No wider reputation effect established.
+S02: completed Len's backlog and obtained favorable reference and mutual release. Diagnosed Thornton lubrication fault and secured Marcus's 8000 upgrade sale, 4000 deposit received by recovery business. Negotiated proposed equal ownership of Moretti Arms. Reconnected with father and offered Joss childcare. No wider reputation effect established.

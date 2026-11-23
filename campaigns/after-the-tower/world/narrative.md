@@ -2,4 +2,8 @@ V survives the Tower ending and takes work at a gun shop, trying to survive with
 
 Her technical expertise remains valuable but wages leave her in a sparse rented container. Persistent customer Dario ignores her initial refusal and offers a materially comfortable life in a traditional arrangement. V privately decides to use his interest to secure support, agrees to move in and spends a night at his apartment.
 
-Dario settles her remaining lease and V surrenders independent accommodation, eliminating her weekly rent without agreeing to repay him. The possibility of stability now carries dependence on a possessive man whose business and finances are not independently verified. V retains her employment and earnings under their stated arrangement; a new apartment key is promised but not yet delivered.
+Dario settles her remaining lease and V surrenders independent accommodation, eliminating her weekly rent without agreeing to repay him. The possibility of stability carries dependence on a possessive man; V receives her apartment fob.
+
+S02: V and Dario become engaged. His control and material generosity coexist with her genuine happiness and ambition. They negotiate a proposed permanent domestic covenant and equal ownership of Moretti Arms, with substantial support and business capital but restrictive household expectations. Nothing has been executed. V leaves Len on good terms, earns a favorable reference and demonstrates her retained expertise at the recovery yard, diagnosing a vehicle fault and closing an 8000 upgrade sale. Dario gifts a recovered Quadra, transfer pending.
+
+V reconnects with her father after seven years and visits Joss and the children; both family connections may attend the wedding. She offers childcare and learns River has asked about her. She privately still loves him, although she describes her new life as allowing her to breathe again. The tension between security, affection and autonomy remains unresolved.

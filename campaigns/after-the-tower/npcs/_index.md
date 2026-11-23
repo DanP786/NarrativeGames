@@ -1,4 +1,12 @@
-- Len Basko | alive | Second Hand Arms | Friendly | last seen S01 day 3 (observed V's farewell)
-- Dario | alive | Night City, departed Second Hand Arms for work | Friendly | last seen S01 day 3 (paid lease, planned pickup)
-- River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | pre-campaign
-- Dive Drive clerk | alive | Dive Drive management office | Wary | last seen S01 day 3 (confrontation during tenancy surrender)
+- Len Basko | alive | Second Hand Arms | Friendly | last seen S02 Tuesday, mutual release and reference, proposed subcontract
+- Dario Moretti | alive | Moretti recovery yard | Loyal | last seen S02 Wednesday 11:00, greets fiancée
+- River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | offscreen, occasional calls to family reported S02
+- Dive Drive clerk | alive | Dive Drive management office | Wary | last seen S01 day 3
+- Miguel | alive | Moretti recovery yard | Friendly | last seen S02 Wednesday, mechanic
+- Marcus | alive | Night City | Friendly | last seen S02 Tuesday, upgrade customer
+- Romano | alive | Charter Hill | Neutral | last seen S02 Monday, lawyer
+- V's father (name unknown) | alive | Nomad crew, whereabouts uncertain | Friendly | last heard S02 Tuesday, possible visit next week
+- Joss Ward | alive | family trailer | Friendly | last seen S02 Wednesday, accepted wedding invite
+- Randy | alive | family trailer | Friendly | last seen S02 Wednesday, recovering
+- Monique | alive | family trailer | Friendly | last seen S02 Wednesday
+- Dorian | alive | family trailer | Friendly | last seen S02 Wednesday
