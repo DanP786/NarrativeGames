@@ -1,0 +1,2 @@
+# S02 T155 — Wednesday Day 9
+Preceding beats in current-scene.md, tuesday-day8-continuation.md, current-scene-contact.md. Tuesday evening V relaxes beside Dario as he strokes her hair. They have a good night and retire together; no specific intimacy or other events established. Wednesday V wakes before Dario, prepares breakfast and coffee around 06:00. Dario appears shirtless, hair dishevelled, embraces her from behind, kisses cheek and jokes about being spoiled. Breakfast food and V outfit unspecified. Joss visit confirmed 09:00, yard before noon.
