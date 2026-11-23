@@ -1,0 +1,2 @@
+# S02 T139 — Tuesday Day 8, approximately 19:05
+See chronicle/current-scene.md and chronicle/tuesday-day8-continuation.md for preceding outstanding beats. V calls her father's old holo number from Dario's sofa. Audio connects despite interference, engine audible in background. V recognises father's older rough voice: “Yeah? Who's this?” He has not recognised caller yet. Dario beside V, hand on thigh, silent. Father's name, location, present crew and knowledge of V's intervening life remain unknown. GM adjudicated old number still active.
