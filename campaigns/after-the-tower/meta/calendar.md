@@ -1,5 +1,5 @@
 - Date: 2079, exact date unspecified; Day 9 Wednesday
 - Season: unspecified
-- Time: approximately 06:00
+- Time: approximately 06:40
 - Location: Dario's apartment, Arroyo, Night City
-- Upcoming: Joss visit 09:00; yard before noon; legal drafts, contractor quote and proposed wedding planner meeting today; Thursday Mizutani parts target, Friday possible handover; Sunday family lunch; father possible visit next week, unconfirmed; wedding bands collection, vehicle transfer, security quote, property dispute enquiry pending.
+- Upcoming: Joss visit 09:00; yard before noon; legal drafts, contractor quote and proposed wedding planner meeting around 14:00 today (unconfirmed); Thursday Mizutani parts target, Friday possible handover; Sunday family lunch; father possible visit next week, unconfirmed; wedding bands collection, vehicle transfer, security quote, property dispute enquiry pending.
