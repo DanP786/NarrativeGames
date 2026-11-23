@@ -1,6 +1,6 @@
 - Date: 2079, exact date unspecified; Day 9 Wednesday
 - Season: unspecified
-- Time: approximately 14:30
-- Location: Moretti recovery yard, Arroyo, Night City
+- Time: approximately 16:15
+- Location: Dario's apartment, Arroyo, Night City
 - Upcoming: Romano processing signed agreements, Moretti Arms registration/capitalization, marriage licence approval and covenant formalities pending; contractor quote due today not yet received; Thursday Mizutani parts target, Friday possible handover; Sunday family lunch and wedding discussion; Monday 10:00 private North Oak bridal atelier fitting (confirmed, two hours, Alessandra accompanying); father possible visit next week, unconfirmed; Joss to text about Saturday childcare outing, Dario agrees in principle but not booked; wedding bands collection, vehicle transfer, security quote, property dispute enquiry pending. Planner to enquire Casa Solana availability/viewing and honeymoon options.
-- Completed: Joss visit, yard induction and preliminary inventory review; initial wedding planner consultation; employment, company formation and domestic covenant signed, marriage licence application submitted; employment effective today.
+- Completed: Joss visit, yard induction and preliminary inventory review; initial wedding planner consultation; employment, company formation and domestic covenant signed, marriage licence application submitted; employment effective today. V home early for dinner; River text received.
