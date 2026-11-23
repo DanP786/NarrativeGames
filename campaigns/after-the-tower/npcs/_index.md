@@ -1,5 +1,5 @@
 - Len Basko | alive | Second Hand Arms | Friendly | last seen S02 Tuesday, mutual release and reference, proposed subcontract
-- Dario Moretti | alive | Moretti recovery yard | Loyal | last seen S03 Wednesday 13:55, about to meet wedding planner
+- Dario Moretti | alive | Moretti recovery yard | Loyal | last seen S04 Wednesday 14:00, wedding planner meeting
 - River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | offscreen, occasional calls to family reported S02
 - Dive Drive clerk | alive | Dive Drive management office | Wary | last seen S01 day 3
 - Miguel | alive | Moretti recovery yard | Friendly | last seen S03 Wednesday, gave V yard induction
@@ -10,3 +10,4 @@
 - Randy | alive | family trailer | Friendly | last seen S02 Wednesday, recovering
 - Monique | alive | family trailer | Friendly | last seen S02 Wednesday
 - Dorian | alive | family trailer | Friendly | last seen S02 Wednesday
+- Alessandra Voss | alive | Moretti recovery yard meeting room | Neutral | first seen S04 Wednesday, wedding planner consultation
