@@ -1,2 +1,3 @@
-# Next scene — Wednesday Day 9, 11:00
-V arrives Moretti recovery yard on borrowed Nazaré, wearing riding gear over fitted gold bodysuit and shorts, black work jumpsuit packed. Dario approaches and asks 'How'd it go, beautiful? You have a good morning?' V has not answered. Miguel working under bonnet of unspecified Thornton; recovery truck unloading. See session-02 for all prior beats. Treats handover not established.
+# Session 03 — Wednesday Day 9, 11:00
+V arrives Moretti recovery yard on borrowed Nazaré, wearing riding gear over fitted gold bodysuit and shorts, black work jumpsuit packed. Dario approaches and asks 'How'd it go, beautiful? You have a good morning?' Miguel working under bonnet of unspecified Thornton; recovery truck unloading. See session-02 for all prior beats. Treats handover not established.
+V confirms good morning, kisses Dario and removes riding gear, asks if taking kids Saturday is okay. Dario agrees in principle, asks plans and reassurance River won't appear. Saturday outing not booked.
