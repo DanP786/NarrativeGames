@@ -1,6 +1,6 @@
 - Date: 2079, exact date unspecified; Day 9 Wednesday
 - Season: unspecified
-- Time: approximately 11:00
+- Time: approximately 13:55
 - Location: Moretti recovery yard, Arroyo, Night City
-- Upcoming: legal drafts, contractor quote and proposed wedding planner meeting around 14:00 today (unconfirmed); Thursday Mizutani parts target, Friday possible handover; Sunday family lunch; father possible visit next week, unconfirmed; Joss to text about childcare outing, possible Saturday afternoon not booked; wedding bands collection, vehicle transfer, security quote, property dispute enquiry pending.
-- Completed: Joss visit this morning; yard arrival before noon. Session 02 ended; resume Session 03.
+- Upcoming: wedding planner at 14:00 today, arrived; legal drafts and contractor quote due today, not yet received; Thursday Mizutani parts target, Friday possible handover; Sunday family lunch; father possible visit next week, unconfirmed; Joss to text about Saturday childcare outing, Dario agrees in principle but not booked; wedding bands collection, vehicle transfer, security quote, property dispute enquiry pending.
+- Completed: Joss visit, yard induction and preliminary inventory review. Session 03 ended; resume Session 04 before planner meeting.

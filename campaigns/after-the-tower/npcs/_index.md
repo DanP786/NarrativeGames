@@ -1,8 +1,8 @@
 - Len Basko | alive | Second Hand Arms | Friendly | last seen S02 Tuesday, mutual release and reference, proposed subcontract
-- Dario Moretti | alive | Moretti recovery yard | Loyal | last seen S02 Wednesday 11:00, greets fiancée
+- Dario Moretti | alive | Moretti recovery yard | Loyal | last seen S03 Wednesday 13:55, about to meet wedding planner
 - River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | offscreen, occasional calls to family reported S02
 - Dive Drive clerk | alive | Dive Drive management office | Wary | last seen S01 day 3
-- Miguel | alive | Moretti recovery yard | Friendly | last seen S02 Wednesday, mechanic
+- Miguel | alive | Moretti recovery yard | Friendly | last seen S03 Wednesday, gave V yard induction
 - Marcus | alive | Night City | Friendly | last seen S02 Tuesday, upgrade customer
 - Romano | alive | Charter Hill | Neutral | last seen S02 Monday, lawyer
 - V's father (name unknown) | alive | Nomad crew, whereabouts uncertain | Friendly | last heard S02 Tuesday, possible visit next week
