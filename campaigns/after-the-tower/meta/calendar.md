@@ -1,5 +1,5 @@
 - Date: 2079, several months after V's return from FIA treatment; exact date unspecified; day 4 of play
 - Season: unspecified
-- Time: 06:00, morning
-- Location: Dario's apartment, Arroyo, Santo Domingo, Night City
-- Upcoming: Dario's truck dispatch at seven, V's work schedule to confirm, groceries, proposed workshop inspection next day off; external security hardware and property dispute enquiries; weekly household allowance on Fridays
+- Time: morning, arrival for work; exact time unspecified
+- Location: Second Hand Arms, Watson, Night City
+- Upcoming: work shift, groceries and dinner tonight, Dario expects home around 19:00; Monday workshop inspection; external security hardware and property dispute enquiries; weekly household allowance Fridays
