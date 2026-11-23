@@ -1,5 +1,5 @@
-- Date: 2079, several months after V's return from FIA treatment; exact date unspecified; day 4 of play
+- Date: 2079, exact date unspecified; Day 8 Tuesday
 - Season: unspecified
-- Time: morning, arrival for work; exact time unspecified
-- Location: Second Hand Arms, Watson, Night City
-- Upcoming: work shift, groceries and dinner tonight, Dario expects home around 19:00; Monday workshop inspection; external security hardware and property dispute enquiries; weekly household allowance Fridays
+- Time: approximately 10:45
+- Location: future Moretti Arms premises, recovery yard, Arroyo, Night City
+- Upcoming: Mizutani customer 11:30; return to Len 12:45–13:00, four jobs due by 18:00 for conditional release; Wednesday legal drafts and contractor quote; Sunday family lunch; wedding bands collection, vehicle transfer, security quote, property dispute enquiry pending.
