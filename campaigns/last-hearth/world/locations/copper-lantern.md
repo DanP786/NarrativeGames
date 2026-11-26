@@ -1,0 +1,1 @@
+Two-storey timber building by market lane, common room with hearth and tables downstairs, office, kitchen, upstairs patron rooms and shared dressing room, attic staff beds. Odran runs the house. Evening business begins at dusk.

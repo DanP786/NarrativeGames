@@ -1,0 +1,2 @@
+# S01 opening — dressing room, dusk
+Early snow; Lucel preparing for work. Tessa asks Lucel to help fasten her dress, mentions a regular patron asking after Lucel. Odran calls upstairs that the house is open. Awaiting Lucel's response.

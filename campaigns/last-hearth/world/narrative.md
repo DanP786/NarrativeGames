@@ -1,0 +1,1 @@
+Lucel, an adult indentured brothel worker raised in Dunreach's Copper Lantern, begins an ordinary evening as winter approaches.

@@ -1,0 +1,1 @@
+Status: sketch. Lucel has no established overarching ambition; discover her wants through play. Central question provisional: what can she make of a life whose terms were set by others? Immediate obstacle: indenture and frontier economy. No predetermined antagonist, escape or romance.

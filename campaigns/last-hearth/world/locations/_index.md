@@ -1,0 +1,2 @@
+- Dunreach | fortified frontier town
+- Copper Lantern | brothel, Lucel's home and workplace

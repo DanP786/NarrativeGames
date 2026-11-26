@@ -1,0 +1,1 @@
+Known locally as attentive, gentle and deferential. Longstanding household familiarity; no reputation beyond Dunreach.

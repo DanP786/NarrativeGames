@@ -1,0 +1,2 @@
+- Mistress Odran | alive | Copper Lantern | Neutral | S01 proprietor and guardian since childhood
+- Tessa | alive | Copper Lantern | Friendly | S01 fellow worker, dressing room

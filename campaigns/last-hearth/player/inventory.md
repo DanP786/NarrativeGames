@@ -1,0 +1,1 @@
+Worn burgundy linen dress, wool stockings, leather shoes, comb, spare shift, small cloth purse with 7 copper pennies. Bed and furnishings belong to establishment.
