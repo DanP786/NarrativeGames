@@ -1,5 +1,5 @@
 - Len Basko | alive | Second Hand Arms | Friendly | S02 mutual release/reference
-- Dario Moretti | alive | outbound Maldives flight | Loyal | S04 Monday newlywed, upper arm recovering
+- Dario Moretti | alive | outbound Maldives flight | Loyal | S05 at bar, arm fully healed per player
 - River Ward | alive | hiding unknown | Neutral | S04 Thursday final goodbye, no contact
 - Dive Drive clerk | alive | Dive Drive | Wary | S01
 - Miguel | alive | recovery yard | Friendly | S04 oversees honeymoon absence
@@ -32,3 +32,4 @@
 - Claudia / Natalia | alive status unverified | whereabouts unknown | Neutral | Dario exes mentioned only
 - Panam / Misty | whereabouts unknown | offscreen | Neutral | no renewed contact
 - Casa Solana attackers | first and second wounded, third fled | custody/location not fully established | Hostile | second survived and disputes shooting
+- Felix | alive | outbound Maldives flight | Neutral | S05 flirted with V, dismissed by Dario
