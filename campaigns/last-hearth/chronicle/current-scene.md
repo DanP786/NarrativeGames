@@ -1,2 +1,3 @@
 # S01 opening — dressing room, dusk
-Early snow; Lucel preparing for work. Tessa asks Lucel to help fasten her dress, mentions a regular patron asking after Lucel. Odran calls upstairs that the house is open. Awaiting Lucel's response.
+Early snow; Lucel preparing for work. Tessa asks Lucel to help fasten her dress, mentions a regular patron asking after Lucel. Odran calls upstairs that the house is open.
+T01: Lucel fastens Tessa's dress and jokes “anyone who goes by ‘old’ shouldn’t be still coming here honestly”. Tessa laughs, jokes about Bren's knees and men's stories, hooks her arm through Lucel's and urges her downstairs.
