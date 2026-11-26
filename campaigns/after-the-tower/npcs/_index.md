@@ -1,13 +1,34 @@
-- Len Basko | alive | Second Hand Arms | Friendly | last seen S02 Tuesday, mutual release and reference, proposed subcontract
-- Dario Moretti | alive | Moretti recovery yard | Loyal | last seen S04 Wednesday 14:00, wedding planner meeting
-- River Ward | alive | hiding, whereabouts unknown | Neutral (current relationship uncertain) | offscreen, occasional calls to family reported S02
-- Dive Drive clerk | alive | Dive Drive management office | Wary | last seen S01 day 3
-- Miguel | alive | Moretti recovery yard | Friendly | last seen S03 Wednesday, gave V yard induction
-- Marcus | alive | Night City | Friendly | last seen S02 Tuesday, upgrade customer
-- Romano | alive | Charter Hill | Neutral | last seen S02 Monday, lawyer
-- V's father (name unknown) | alive | Nomad crew, whereabouts uncertain | Friendly | last heard S02 Tuesday, possible visit next week
-- Joss Ward | alive | family trailer | Friendly | last seen S02 Wednesday, accepted wedding invite
-- Randy | alive | family trailer | Friendly | last seen S02 Wednesday, recovering
-- Monique | alive | family trailer | Friendly | last seen S02 Wednesday
-- Dorian | alive | family trailer | Friendly | last seen S02 Wednesday
-- Alessandra Voss | alive | Moretti recovery yard meeting room | Neutral | first seen S04 Wednesday, wedding planner consultation
+- Len Basko | alive | Second Hand Arms | Friendly | S02 mutual release/reference
+- Dario Moretti | alive | outbound Maldives flight | Loyal | S04 Monday newlywed, upper arm recovering
+- River Ward | alive | hiding unknown | Neutral | S04 Thursday final goodbye, no contact
+- Dive Drive clerk | alive | Dive Drive | Wary | S01
+- Miguel | alive | recovery yard | Friendly | S04 oversees honeymoon absence
+- Marcus | alive | Night City | Friendly | S04 Day11 collected Mizutani
+- Romano | alive | Charter Hill | Neutral | S04 Sunday police interview
+- V father (unnamed) | alive | Nomad crew | Friendly | S04 Sunday brunch departure
+- Joss Ward | alive | family trailer | Friendly | S04 wedding bridesmaid
+- Randy | alive | Ward trailer/recovery yard | Friendly | S04 wedding, trial employment, private crush
+- Monique | alive | family trailer | Friendly | S04 flower girl
+- Dorian | alive | family trailer | Friendly | S04 wedding
+- Alessandra Voss | alive | Night City | Neutral | S04 wedding planner
+- Leon | alive | Night City | Friendly | S04 upgrade ready Day18
+- Dustin | alive | yard | Neutral | S04 Day11 accidental locker entry resolved
+- Dr Helena Sato | alive | clinic | Friendly | S04 followup
+- Isabella | alive | Rancho Coronado | Friendly | S04 brunch
+- Sofia / Matteo | alive | Night City | Friendly | S04 wedding; children8,5 unnamed
+- Luca / Elena | alive | Heywood | Friendly | S04 wedding
+- Nico | alive | Santo Domingo | Friendly | S04 wedding, Type66 quote
+- Camille | alive | North Oak atelier | Friendly | S04 fitting
+- Antonio | alive | Italian restaurant | Friendly | S04 lunch
+- Eddie | alive | recovery yard | Friendly | S04 extortion resolved
+- Carl and two accomplices | alive | Arroyo | Wary | S04 extortion
+- Enzo Bellini | alive | Night City | Neutral | S04 possible fleet lead
+- Adrian | alive | Night City | Neutral | S04 resort car discussion
+- Detective Mercer and unnamed female colleague | alive | NCPD | Wary | S04 Sunday interview
+- Lucia | alive | Casa Solana | Friendly | S04 wedding
+- Caleb | alive | Nomad/mobile repair | Friendly | S04 Sunday brunch, former boyfriend
+- Jesse / Mason | alive | Nomad crews | Friendly | S04 brunch
+- Francesca | alive | Night City | Hostile | S04 barred from wedding estate
+- Claudia / Natalia | alive status unverified | whereabouts unknown | Neutral | Dario exes mentioned only
+- Panam / Misty | whereabouts unknown | offscreen | Neutral | no renewed contact
+- Casa Solana attackers | first and second wounded, third fled | custody/location not fully established | Hostile | second survived and disputes shooting

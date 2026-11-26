@@ -1,7 +1,17 @@
-- Second Hand Arms | Watson | independent gun shop, V's former workplace, proposed subcontract client
-- Dive Drive | Night City | former container accommodation, tenancy surrendered day 3
-- Dario's apartment | Arroyo, Santo Domingo | guarded fourth-floor apartment, V resides with access fob
-- Japantown restaurant | Japantown | unnamed red-neon restaurant, proprietor knows Dario
-- Moretti recovery yard | Arroyo | fenced recovery/workshop premises, proposed Moretti Arms in street-front 40m² former office
-- Joss's trailer | outskirts of Night City | Ward family residence
-- Romano's office | Charter Hill | legal drafts pending
+- Second Hand Arms | Watson | former workplace proposed subcontract
+- Dive Drive | Night City | former container tenancy surrendered
+- Moretti apartment | Arroyo Santo Domingo | guarded fourth floor marital home
+- Japantown restaurant | Night City | unnamed red-neon proprietor knows Dario
+- Moretti recovery yard | Arroyo | fenced workshop, planned 40m2 streetfront arms shop
+- Joss trailer | outskirts | Ward residence
+- Romano office | Charter Hill | legal work
+- Sato clinic | Night City | private health consultation
+- Denny's | Night City | Ward family dinner
+- Isabella home | Rancho Coronado | family lunches
+- North Oak atelier | North Oak | bridal fitting, future house area
+- Arroyo commercial lot | extortion resolved
+- Noodle bar / Antonio Italian restaurant | Night City | work lunches
+- Casa Solana | Badlands | resort attack then wedding, security reinforced
+- Hospital / NCPD precinct | Night City | treatment/investigation
+- Night City International Airport | departure lounge
+- Maldives private villa | near Malé, exact island unspecified | two-week honeymoon booked, arrival pending

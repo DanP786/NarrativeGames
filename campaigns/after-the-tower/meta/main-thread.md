@@ -1,6 +1,5 @@
 Status: active
 Want: earn a living and build a life after loss.
-Obstacle: Night City's exploitative economy and V's loss of combat cyberware and support network; material security now intertwined with dependence on Dario.
+Obstacle: Night City's exploitative economy, loss of combat cyberware/support network, material security intertwined with marital dependence and authority.
 Question: Can someone who lost everything that made her extraordinary build an ordinary life worth living?
-S01: V secures relief from rent through Dario and relinquishes independent accommodation. Her private survival strategy and his possessiveness introduce a tension between comfort and autonomy.
-S02: Engagement, proposed equal business ownership and permanent domestic covenant make both opportunity and autonomy costs concrete. Reconnection with father and Ward family expands independent relationships; private lingering love for River complicates her new happiness.
+S01 survival and cohabitation; S02 engagement and reconnections; S03 paid technical work; S04 confirmed technical/business competence and signed agreements, armed extortion resolved peacefully but resort abduction forced V back into violence. Marriage legally effective, love real, autonomy tension sharpens as Dario expects obedience. Police investigate defensive shooting and River's information sale; V no charges, honeymoon underway. Father and old crew provide independent ties; V wants family and future with Dario.
