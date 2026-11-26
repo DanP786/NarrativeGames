@@ -2,5 +2,5 @@
 - Tessa | alive | Copper Lantern | Friendly | S01 fellow worker, dressing room
 - Bren | alive | Dunreach | Friendly | widowed cooper, regular patron
 - Willem | alive | Copper Lantern | Neutral | young hunter
-- Scarred hunter (name unknown to Lucel) | alive | Copper Lantern | Neutral | injured forearm
-- Older hunter (name unknown to Lucel) | alive | Copper Lantern | Neutral | veteran
+- Roderic (scarred-hunter.md) | alive | Copper Lantern | Neutral | injured forearm
+- Harl (older-hunter.md) | alive | Copper Lantern | Neutral | veteran
