@@ -1,2 +1,6 @@
 - Mistress Odran | alive | Copper Lantern | Neutral | S01 proprietor and guardian since childhood
 - Tessa | alive | Copper Lantern | Friendly | S01 fellow worker, dressing room
+- Bren | alive | Dunreach | Friendly | widowed cooper, regular patron
+- Willem | alive | Copper Lantern | Neutral | young hunter
+- Scarred hunter (name unknown to Lucel) | alive | Copper Lantern | Neutral | injured forearm
+- Older hunter (name unknown to Lucel) | alive | Copper Lantern | Neutral | veteran
