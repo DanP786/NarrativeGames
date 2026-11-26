@@ -2,4 +2,5 @@
 Early snow; Lucel preparing for work. Tessa asks Lucel to help fasten her dress, mentions a regular patron asking after Lucel. Odran calls upstairs that the house is open.
 T01: Lucel fastens Tessa's dress and jokes “anyone who goes by ‘old’ shouldn’t be still coming here honestly”. Tessa laughs, jokes about Bren's knees and men's stories, hooks her arm through Lucel's and urges her downstairs.
 T02: Lucel rolls her eyes and jokes about Tessa taking town morale as a personal mission; both descend. Odran assigns Lucel to Bren and Tessa to a gentleman by the window. Bren offers Lucel a chair and a small brown cloth parcel; awaiting response.
-T03: Lucel sweetly says “Bren my love you don’t have to bring me things” and opens parcel. Grey knitted wool gloves, bought after he saw her carrying water in cold. Bren recalls late wife Edith making such things, asks Lucel to try gloves on; acceptance pending.
+T03: Lucel sweetly says “Bren my love you don’t have to bring me things” and opens parcel. Grey knitted wool gloves, bought after he saw her carrying water in cold. Bren recalls late wife Edith making such things, asks Lucel to try gloves on.
+T04: Lucel laughs, thanks Bren and models gloves, accepting gift. Bren pleased, orders her mulled wine and asks how life is treating her and whether Odran is working the women too hard.
