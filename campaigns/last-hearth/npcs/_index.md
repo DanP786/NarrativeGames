@@ -1,6 +1,7 @@
 - Mistress Odran | alive | Copper Lantern | Neutral | S01 proprietor and guardian since childhood
 - Tessa | alive | Copper Lantern | Friendly | S01 fellow worker, dressing room
 - Bren | alive | Dunreach | Friendly | widowed cooper, regular patron
-- Willem | alive | Copper Lantern | Neutral | young hunter
-- Roderic (scarred-hunter.md) | alive | Copper Lantern | Neutral | injured forearm
-- Harl (older-hunter.md) | alive | Copper Lantern | Neutral | veteran
+- Willem | alive | Dunreach, seeking surgeon | Neutral | young hunter, hopes to return tomorrow
+- Roderic (scarred-hunter.md) | alive | Dunreach, seeking surgeon | Neutral | injured forearm
+- Harl (older-hunter.md) | alive | Dunreach, seeking surgeon | Neutral | veteran
+- Edmund Vale | alive | Copper Lantern | Neutral | well-dressed southern visitor
