@@ -28,3 +28,4 @@ T53: Lucel shyly apologises and explains concern for whether Edmund is looked af
 T54: Lucel says Lantern girls care for each other despite mistreatment. Edmund expresses approval of solidarity, criticises customers' entitlement, asks whether Odran intervenes with cruel patrons.
 T55: Lucel says Odran charges abusive patrons especially when girls cannot work for days, and girls are not allowed to intervene. Edmund disturbed, asks whether Lucel can refuse a returning patron who hurt her.
 T56: Lucel confirms they do not refuse paying customers. Edmund condemns arrangement, then asks if she came to meet him today of her own accord, distinguishing paid company from voluntary meeting.
+T57: Lucel confirms voluntary visit and enjoyment of their time, places hand on his. Edmund relieved, reciprocates handholding and welcomes further voluntary meetings; offers escort back when she needs to leave.
