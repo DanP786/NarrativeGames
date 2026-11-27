@@ -1,4 +1,4 @@
-# S01 opening — Copper Lantern, dusk
+# S01 opening — Copper Lantern, dusk to late evening
 Early snow; Lucel preparing for work. Tessa asks for dress help, mentions Bren. Odran opens house.
 T01–02: Lucel helps Tessa, jokes about old patrons and town morale; both descend. Odran assigns Lucel to Bren.
 T03–04: Bren gives grey wool gloves, recalls late wife Edith; Lucel thanks him and tries them on. He orders mulled wine.
@@ -11,7 +11,6 @@ T16: Lucel returns to hunters, asks what wounded Roderic on Mistress's instructi
 T17: Lucel pushes supplies to Roderic, excuses herself and returns to Odran. Odran draws her to quieter counter end, asks whether touched him and exactly what she saw. Harl examines Roderic's arm, Willem subdued.
 T18: Lucel reports bipedal creature's claws, three deep swollen red cuts and grey skin on one; confirms no contact. Odran praises her, asks her to stay beside her, confronts hunters and insists Roderic seek surgeon at residence tonight, refuses overnight presence with wound. Harl initially says managing it, then orders all three to leave for surgeon. Roderic thanks Lucel.
 T19–20: Lucel wishes Roderic well, looks sadly at Willem. Willem asks if she'll be here tomorrow evening; Lucel confirms and asks him to visit with sweet smile. Willem promises to return tomorrow, kisses knuckles, departs with companions for surgeon. Odran regrets loss of business but praises Lucel's handling.
-T21: Odran directs Lucel to well-dressed solitary man by window. Lucel offers company with smile and tilted head. He accepts, invites her to sit opposite, introduces himself as Edmund Vale and asks name. Early thirties, black hair, clean shaven, tailored green coat, silver signet, southern accent.
-T22: Lucel sits close to Edmund, crosses leg and accepts wine. Edmund buys her glass, raises toast to pleasant company and playfully asks her name again.
-T23: Lucel introduces herself, praises Lantern hospitality, says lifelong resident and asks about Edmund. He says southern origin, inherited father's cloth business, deals in wool, cloth and goods transport, recent difficulties raising costs and snowfall delayed departure. Asks about unusual unease in town.
+T21–23: Lucel meets Edmund Vale, well-dressed southern cloth merchant by window, accepts wine and introduces herself; he mentions rising business costs, snowfall delayed departure and asks about town unease.
 T24: Lucel professes uncertainty about town unease, says patrons come to forget troubles and offers that to Edmund. He accepts redirection, apologises for business talk and asks about private company.
+T25: Lucel takes Edmund's hand and offers company as long as desired, leads upstairs. Edmund pays Odran before ascending, amount and Lucel share not yet disclosed. Private evening passes offscreen. Later Edmund asks whether she ever wishes to see somewhere beyond Dunreach.
