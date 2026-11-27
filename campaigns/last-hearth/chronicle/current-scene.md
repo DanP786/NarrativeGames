@@ -4,3 +4,4 @@ S02 T01: Lucel tells Tessa Thomas is inexperienced, sweet and needs confidence. 
 S02 T02: Lucel offers Odran anything before bed. Odran declines, recommends warm drink and extra blanket, gathers house coins and keys. Tessa offers to make both girls a cup.
 S02 T03: Lucel suggests sharing bed for warmth, jokes about male company previous three nights. Tessa agrees teasingly, asks whose bed; both have warm drinks in kitchen.
 S02 T04: Lucel tells Tessa she and Thomas only kissed, jokes gods made men warm so women wouldn't abandon them. Tessa jokes about marrying a blacksmith and reflects on shy patrons.
+S02 T05: Lucel describes encouraging Thomas to kiss naturally, compares him unfavourably to Edmund with a sigh. Tessa teases her and remarks on unusual depth of her apparent interest in Edmund.
