@@ -6,3 +6,4 @@ S02 T03: Lucel suggests sharing bed for warmth, jokes about male company previou
 S02 T04: Lucel tells Tessa she and Thomas only kissed, jokes gods made men warm so women wouldn't abandon them. Tessa jokes about marrying a blacksmith and reflects on shy patrons.
 S02 T05: Lucel describes encouraging Thomas to kiss naturally, compares him unfavourably to Edmund with a sigh. Tessa teases her and remarks on unusual depth of her apparent interest in Edmund.
 S02 T06: Lucel confides to Tessa that Edmund's gaze, reciprocal attentiveness and confident affection make her melt. Tessa warmly acknowledges how unusual reciprocal care is for Lucel, recalls public outing as reported by Lucel.
+S02 T07: Lucel embraces Tessa and calls her true love, says never has a bad day with her around. Tessa reciprocates affection and jokes that a future wealthy husband must provide Lucel a bedroom too.
