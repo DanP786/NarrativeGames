@@ -19,3 +19,4 @@ T27: Lucel says she knows and mistress has debt recorded. Edmund approves existe
 T28: Lucel tells Edmund over 15000 copper outstanding. She cannot convert denominations; canon exchange 10 copper per silver, 10 silver per gold. Edmund converts approximately 150 gold, visibly surprised, asks original amount and costs.
 T29: Lucel strokes Edmund's arm and asks him not to worry about her debt. He accepts boundary, apologises and asks whether he may stay until morning.
 T30: Lucel warmly agrees to overnight company. Edmund dresses and retrieves purse to arrange additional payment with Odran, offers to bring Lucel a warm drink; awaits reply before leaving room.
+T31: Lucel declines drink, laughing, asks him to hurry back. Edmund leaves briefly and returns reporting overnight payment arranged with Odran; amount and Lucel share not disclosed.
