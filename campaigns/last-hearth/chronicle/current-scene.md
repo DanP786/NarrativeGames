@@ -3,3 +3,4 @@ S01 detailed events rolled into session-01.md; original detailed chronicle prese
 S02 T01: Lucel tells Tessa Thomas is inexperienced, sweet and needs confidence. Puts mug away, returns to Odran. Odran settles40 copper:16 profit,6 upkeep,6 personal,12 debt; pushes6 copper towards Lucel and praises her work. Debt15008, personal savings47 plus6 available on table (53 once collected). Character and inventory rollup pending.
 S02 T02: Lucel offers Odran anything before bed. Odran declines, recommends warm drink and extra blanket, gathers house coins and keys. Tessa offers to make both girls a cup.
 S02 T03: Lucel suggests sharing bed for warmth, jokes about male company previous three nights. Tessa agrees teasingly, asks whose bed; both have warm drinks in kitchen.
+S02 T04: Lucel tells Tessa she and Thomas only kissed, jokes gods made men warm so women wouldn't abandon them. Tessa jokes about marrying a blacksmith and reflects on shy patrons.
