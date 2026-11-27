@@ -1,5 +1,5 @@
-Date: 23 Frostwane, year 417 of the March Reckoning.
+Date: 24 Frostwane, year 417 of the March Reckoning.
 Season: late autumn, early snow.
-Time: dusk.
+Time: early morning.
 Location: The Copper Lantern, town of Dunreach.
-Notable upcoming: evening opening; winter supply wagons expected within a week.
+Notable upcoming: Willem promised to return this evening; winter supply wagons expected within a week.
