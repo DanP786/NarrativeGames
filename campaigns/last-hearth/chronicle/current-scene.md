@@ -33,3 +33,4 @@ T58: Lucel accepts escort offer, holds hand and asks about viability of his busi
 T59: Lucel describes winter clientele primarily guards and hunters with steady incomes, fewer travellers and seasonal workers. Edmund asks whether Odran reduces upkeep charges during lean months.
 T60: Lucel confirms Odran tracks all expenses. Edmund sympathises with possible stalled debt repayment, changes subject and asks whether she should be returning soon.
 T61: Lucel says she should return, finishes tea. Edmund pays tea bill, carries house basket and offers arm outside for agreed escort; asks whether she would welcome a visit tomorrow evening.
+T62: Lucel enthusiastically agrees to Edmund visiting tomorrow evening (25 Frostwane). They reach Lantern entrance before midafternoon; Edmund offers basket back and pauses for goodbye.
