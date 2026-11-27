@@ -1,0 +1,1 @@
+Corvin,26, lean auburn hair, clean-shaven, cheerful flirt. Mercenary, companion of Aldren. Short-term find new escort contract; long-term earn living. Will seek contacts and use charm; no established commitment. Neutral. Shared booking25th, tip1. Heard Lucel's account of hunters and creature, met hunters26th with Aldren, no deal.

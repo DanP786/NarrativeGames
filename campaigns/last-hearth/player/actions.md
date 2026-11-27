@@ -1,2 +1,2 @@
 # Significant deeds
-None yet.
+S01: Recognised concerning wound changes in Roderic, reported them to Odran and helped encourage surgical care; offered conditional nursing. Suggested escort employment contacts to hunters, mercenaries and joiner Gerard; no contracts yet. Negotiated conditional daytime outings with Odran and reciprocal chores with Tessa. Helped Thomas gain confidence to approach a woman he likes; outcome pending.

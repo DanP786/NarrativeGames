@@ -1,7 +1,13 @@
-- Mistress Odran | alive | Copper Lantern | Neutral | S01 proprietor and guardian since childhood
-- Tessa | alive | Copper Lantern | Friendly | S01 fellow worker, dressing room
-- Bren | alive | Dunreach | Friendly | widowed cooper, regular patron
-- Willem | alive | Dunreach, seeking surgeon | Neutral | young hunter, hopes to return tomorrow
-- Roderic (scarred-hunter.md) | alive | Dunreach, seeking surgeon | Neutral | injured forearm
-- Harl (older-hunter.md) | alive | Dunreach, seeking surgeon | Neutral | veteran
-- Edmund Vale | alive | Copper Lantern | Neutral | well-dressed southern visitor
+- Mistress Odran | alive | Copper Lantern | Neutral | S01 settling accounts, conditional outings permitted
+- Tessa | alive | Copper Lantern | Friendly | S01 closing chores, reciprocal cover due28th
+- Bren | alive | Dunreach | Friendly | S01 widowed cooper, considering winter stay with daughter
+- Willem | alive | Dunreach inn | Friendly | S01 caring for Roderic
+- Roderic (scarred-hunter.md) | wounded | Dunreach inn | Neutral | S01 fever, surgeon review27th
+- Harl (older-hunter.md) | alive | Dunreach inn | Neutral | S01 caring for Roderic, seeking work
+- Edmund Vale | alive | Dunreach | Friendly | S01 merchant, afternoon outing with Lucel
+- Garran | alive | Dunreach | Neutral | S01 wagon hauler, apprenticeship concern
+- Alistair Venn | alive | Dunreach area | Friendly | S01 widowed horse dealer, visiting breeder
+- Aldren | alive | Dunreach | Neutral | S01 mercenary seeking escort work
+- Corvin | alive | Dunreach | Neutral | S01 mercenary seeking escort work
+- Gerard | alive | Dunreach | Friendly | S01 joiner, intends inquire about escorts27th
+- Thomas | alive | Dunreach | Friendly | S01 warehouse clerk, intends courtship and rabbit drawing

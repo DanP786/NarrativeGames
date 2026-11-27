@@ -1,1 +1,5 @@
-Lucel, an adult indentured brothel worker raised in Dunreach's Copper Lantern, begins an ordinary evening as winter approaches.
+Lucel, an adult indentured worker raised in Dunreach's Copper Lantern, begins an ordinary evening as winter approaches.
+
+Over 23–26 Frostwane 417, Lucel's attentiveness earns repeat custom and friendships. Her enormous indenture makes freedom distant. Edmund Vale, a southern cloth merchant, becomes particularly important to her: he returns for paid company and voluntarily meets her outside the Lantern, defending her dignity when a bakery woman insults her. Lucel privately longs for genuine love but fears repeating her mother's unfulfilled hopes. Odran permits conditional daytime outings within town; Tessa helps with chores and clothing.
+
+A wounded hunter, Roderic, brings the dangers beyond the walls close to home. His worsening fever after an encounter with an unidentified creature coincides with disrupted trade and timber shortages. Lucel connects hunters, mercenaries, a merchant and a joiner through suggestions, without securing contracts. Her care also helps a shy clerk, Thomas, consider courtship outside the Lantern. At closing on the 26th she awaits settlement of two bookings.
