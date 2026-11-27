@@ -1,1 +1,1 @@
-Worn burgundy linen dress, wool stockings, leather shoes, comb, spare shift, small cloth purse with 8 copper pennies. Grey knitted woollen gloves (gift from Bren, slightly long fingers; Odran permits keeping). Bed and furnishings belong to establishment.
+Worn burgundy linen dress, wool stockings, leather shoes, comb, spare shift, small cloth purse with 14 copper pennies. Grey knitted woollen gloves (gift from Bren, slightly long fingers; Odran permits keeping). Bed and furnishings belong to establishment.

@@ -14,3 +14,4 @@ T39: Lucel gives Edmund lingering farewell kiss; he reciprocates and departs for
 T40: Lucel strips bed and takes linens to laundry, returns for breakfast tray and washes dishes including accumulated evening dishes. About half an hour passes; dishes clean, laundry pending.
 T41: Lucel cleans room, makes bed with fresh linens, helps communal laundry until late morning; washing nearly done. Water and soap running low.
 T42: Lucel finishes laundry, replenishes water, washes and tidies herself, reports to Odran near midday. Odran approves Edmund's patronage, offers market errand for soap and candles, asks Lucel to sit for earnings settlement; amounts not yet disclosed.
+T43: Odran settles Edmund's service earnings: 20 copper evening, 20 overnight; wine and breakfast separate. 6 copper personal, 6 upkeep, 28 net debt repayment. Savings 14, debt 15068. Odran praises good earnings and asks whether Edmund intends to return.
