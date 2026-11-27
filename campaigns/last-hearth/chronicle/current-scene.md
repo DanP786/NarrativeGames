@@ -23,3 +23,4 @@ T48: Lucel accepts warm drink and asks about business. Edmund says storage secur
 T49: Lucel says she skipped haggling to make time, takes Edmund's arm. He amusedly escorts her to nearby tavern, finds fireside table, offers hot spiced cider or tea and lunch.
 T50: Lucel chooses tea. Edmund orders pot on his account, remarks on enjoying ordinary conversation and asks what she likes doing when not working.
 T51: Lucel says she enjoys walks and checking on people outside winter; winter mostly chores. Edmund contrasts her settled life with his itinerant acquaintances and asks if she has close friends outside the Lantern.
+T52: Lucel says few close friends, recognises stigma of profession, asks about Edmund's family and wife. Edmund says unmarried, childless, mother alive, younger married sister with two sons; sister tries matchmaking but business travel keeps him occupied. Asks whether Lucel was concerned about a wife.
