@@ -8,3 +8,4 @@ T33: Lucel strokes Edmund until he sleeps, then sleeps herself. Uneventful night
 T34: Lucel asks whether Edmund could be stuck all winter. He confirms possibility if mountain roads close to laden wagons, prefers waiting to abandoning goods and arrangements; hopes to visit her again.
 T35: Lucel welcomes future visits, says whole nights with patrons rare and enjoyed this one, offers tea/breakfast. Edmund requests tea, bread and eggs if available, invites her to share and offers payment for both.
 T36: Lucel kisses Edmund, dresses and fetches two breakfasts (bread, eggs, tea) on his account. Returns to room where he has dressed and cleared table. He invites her to sit and asks about her daytime routine.
+T37: Lucel explains daytime chores, daily washing of linens. Edmund sympathises with winter washing, recalls father's cloth business and asks whether she gets days to herself.
