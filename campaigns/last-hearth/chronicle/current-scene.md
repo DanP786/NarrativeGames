@@ -12,3 +12,4 @@ T37: Lucel explains daytime chores, daily washing of linens. Edmund sympathises 
 T38: Lucel says no days off but offers to find him between errands. Edmund welcomes daytime meeting near warehouses around midday, subject to business and her duties; offers to share a warm drink.
 T39: Lucel gives Edmund lingering farewell kiss; he reciprocates and departs for business, stopping downstairs to settle breakfast. Lucel remains upstairs with breakfast tray and used linens; personal share pending.
 T40: Lucel strips bed and takes linens to laundry, returns for breakfast tray and washes dishes including accumulated evening dishes. About half an hour passes; dishes clean, laundry pending.
+T41: Lucel cleans room, makes bed with fresh linens, helps communal laundry until late morning; washing nearly done. Water and soap running low.
