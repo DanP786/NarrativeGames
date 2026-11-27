@@ -32,3 +32,4 @@ T57: Lucel confirms voluntary visit and enjoyment of their time, places hand on 
 T58: Lucel accepts escort offer, holds hand and asks about viability of his business if stranded. Edmund explains local wool purchases and cloth sales remain possible but storage, lodging and wages accumulate while southern sales delayed; not facing immediate ruin. Asks about Lantern winter trade.
 T59: Lucel describes winter clientele primarily guards and hunters with steady incomes, fewer travellers and seasonal workers. Edmund asks whether Odran reduces upkeep charges during lean months.
 T60: Lucel confirms Odran tracks all expenses. Edmund sympathises with possible stalled debt repayment, changes subject and asks whether she should be returning soon.
+T61: Lucel says she should return, finishes tea. Edmund pays tea bill, carries house basket and offers arm outside for agreed escort; asks whether she would welcome a visit tomorrow evening.
