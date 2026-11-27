@@ -19,3 +19,4 @@ T44: Lucel confirms Edmund eager for further company while in town. Odran encour
 T45: Lucel applies hand salve, dons warm clothes and Bren's gloves, takes basket and house purse to market around midday. Soap seller quotes six copper for two blocks, one more than usual; no purchase yet.
 T46: Lucel buys both soap blocks for 6 copper house money, leaving 6. Chandler offers six stout tallow candles for 5 copper; awaiting purchase.
 T47: Lucel buys candles for 5 copper, leaving one house penny; proceeds to warehouses shortly after midday. Finds Edmund finishing conversation with warehouse keeper near loading bay; he greets her warmly and offers nearby warm drink.
+T48: Lucel accepts warm drink and asks about business. Edmund says storage secured at increased cost, two wagon masters refuse southern road until conditions improve. Offers arm and asks how much time she has.
