@@ -34,3 +34,4 @@ T59: Lucel describes winter clientele primarily guards and hunters with steady i
 T60: Lucel confirms Odran tracks all expenses. Edmund sympathises with possible stalled debt repayment, changes subject and asks whether she should be returning soon.
 T61: Lucel says she should return, finishes tea. Edmund pays tea bill, carries house basket and offers arm outside for agreed escort; asks whether she would welcome a visit tomorrow evening.
 T62: Lucel enthusiastically agrees to Edmund visiting tomorrow evening (25 Frostwane). They reach Lantern entrance before midafternoon; Edmund offers basket back and pauses for goodbye.
+T63: Lucel thanks Edmund for tea and company, kisses cheek on tiptoe; he kisses forehead, bids farewell until tomorrow and departs. Lucel at Lantern entrance with basket and house change, purchases not yet handed over.
