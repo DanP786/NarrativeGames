@@ -18,3 +18,4 @@ T43: Odran settles Edmund's service earnings: 20 copper evening, 20 overnight; w
 T44: Lucel confirms Edmund eager for further company while in town. Odran encourages repeat business, offers basket and separate house purse of 12 copper for two blocks laundry soap and six tallow candles, return change; asks her back before midafternoon.
 T45: Lucel applies hand salve, dons warm clothes and Bren's gloves, takes basket and house purse to market around midday. Soap seller quotes six copper for two blocks, one more than usual; no purchase yet.
 T46: Lucel buys both soap blocks for 6 copper house money, leaving 6. Chandler offers six stout tallow candles for 5 copper; awaiting purchase.
+T47: Lucel buys candles for 5 copper, leaving one house penny; proceeds to warehouses shortly after midday. Finds Edmund finishing conversation with warehouse keeper near loading bay; he greets her warmly and offers nearby warm drink.
